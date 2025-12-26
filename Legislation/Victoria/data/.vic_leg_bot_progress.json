@@ -1,0 +1,109 @@
+{
+  "processed": {
+    "100000000": {
+      "when": "2025-12-25T12:57:34+00:00",
+      "status": "skipped_no_change",
+      "version_id": "004",
+      "row_index": 0,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/commercial-and-industrial-property-tax-reform-act-2024/"
+    },
+    "100000001": {
+      "when": "2025-12-25T12:57:35+00:00",
+      "status": "skipped_no_change",
+      "version_id": "012",
+      "row_index": 1,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/commonwealth-places-mirror-taxes-administration-act-1999/"
+    },
+    "100000002": {
+      "when": "2025-12-25T12:57:36+00:00",
+      "status": "skipped_no_change",
+      "version_id": "140",
+      "row_index": 2,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/duties-act-2000/"
+    },
+    "100000003": {
+      "when": "2025-12-25T12:57:37+00:00",
+      "status": "skipped_no_change",
+      "version_id": "003",
+      "row_index": 3,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/gambling-taxation-act-2023/"
+    },
+    "100000004": {
+      "when": "2025-12-25T12:57:38+00:00",
+      "status": "skipped_no_change",
+      "version_id": "133",
+      "row_index": 4,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/interpretation-legislation-act-1984/"
+    },
+    "100000005": {
+      "when": "2025-12-25T12:57:39+00:00",
+      "status": "skipped_no_change",
+      "version_id": "084",
+      "row_index": 5,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/land-tax-act-2005/"
+    },
+    "100000006": {
+      "when": "2025-12-25T12:57:41+00:00",
+      "status": "skipped_no_change",
+      "version_id": "004",
+      "row_index": 6,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/national-taxation-reform-consequential-provisions-act-2000/"
+    },
+    "100000007": {
+      "when": "2025-12-25T12:57:42+00:00",
+      "status": "skipped_no_change",
+      "version_id": "092",
+      "row_index": 7,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/taxation-administration-act-1997/"
+    },
+    "100000008": {
+      "when": "2025-12-25T12:57:43+00:00",
+      "status": "skipped_no_change",
+      "version_id": "127",
+      "row_index": 8,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/trustee-act-1958/"
+    },
+    "100000009": {
+      "when": "2025-12-25T12:57:44+00:00",
+      "status": "skipped_no_change",
+      "version_id": "053",
+      "row_index": 9,
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/first-home-owner-grant-and-home-buyer-schemes-act-2000/"
+    },
+    "100000010": {
+      "when": "2025-12-25T12:57:46+00:00",
+      "status": "skipped_no_change",
+      "version_id": "98-084sr",
+      "row_index": 10,
+      "url": "https://www.legislation.vic.gov.au/as-made/statutory-rules/debits-tax-regulations-1998"
+    },
+    "100000011": {
+      "when": "2025-12-25T12:57:47+00:00",
+      "status": "skipped_no_change",
+      "version_id": "05-178sr",
+      "row_index": 11,
+      "url": "https://www.legislation.vic.gov.au/as-made/statutory-rules/land-tax-regulations-2005"
+    },
+    "100000012": {
+      "when": "2025-12-25T12:57:48+00:00",
+      "status": "skipped_no_change",
+      "version_id": "98-149sr",
+      "row_index": 12,
+      "url": "https://www.legislation.vic.gov.au/as-made/statutory-rules/pay-roll-tax-regulations-1998"
+    },
+    "100000013": {
+      "when": "2025-12-25T12:57:49+00:00",
+      "status": "skipped_no_change",
+      "version_id": "01-064sr",
+      "row_index": 13,
+      "url": "https://www.legislation.vic.gov.au/as-made/statutory-rules/pay-roll-tax-prescribed-sporting-club-regulations-2001"
+    },
+    "100000014": {
+      "when": "2025-12-25T12:57:50+00:00",
+      "status": "skipped_no_change",
+      "version_id": "97-172sr",
+      "row_index": 14,
+      "url": "https://www.legislation.vic.gov.au/as-made/statutory-rules/taxation-administration-regulations-1997"
+    }
+  }
+}

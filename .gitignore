@@ -1,0 +1,33 @@
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Python caches / virtual envs (if you ever run scripts here)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs / temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Backup files (optional, keeps repo clean)
+*.bak
+*.bak-*
+
+# Large/binary documents (ignore)
+*.pdf
+*.pptx
+*.mp4
+*.msg
+*.png
+*.docx
+*.xlsm
