@@ -1,0 +1,76 @@
+library_id: 200000048
+citation: Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974
+type: primary_legislation
+version_id: sha256:50b18f3ed2893501bfb654278c06cc2dcb8f6ab3b94122e81644f3dec45a231d
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A00086/latest/text
+content_format: html
+source: sha256
+
+1 Short title [ see Note 1]
+This Act may be cited as the Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 .
+
+2 Commencement [ see Note 1]
+This Act shall come into operation on the day on which it receives the Royal Assent.
+
+4 Definition
+In this Act, the Assessment Act means the Income Tax Assessment Act 1936 .
+
+5 Incorporation
+The Assessment Act is incorporated and shall be read as one with this Act.
+
+6 Imposition of tax
+The tax known as income tax, to the extent that that tax is payable in accordance with section 128B of the Assessment Act, is imposed on income to which that section applies.
+
+7 Rates of tax
+The rates of income tax imposed by this Act are:
+(a) in respect of income to which subsection 128B(4) of the Assessment Act applies—30%; and
+(b) in respect of income to which subsection (5) of that section applies—10%; and
+(c) in respect of income to which subsection (5A) of that section applies—30%.
+Notes to the Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974
+Note 1
+The Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 as shown in this compilation comprises Act No. 27, 1974 amended as indicated in the Tables below.
+Table of Acts
+Act
+Number and year
+Date of Assent
+Date of commencement
+Application, saving or transitional provisions
+Income Tax (Dividends and Interest Withholding Tax) Act 1974
+27, 1974
+
+1 Aug 1974
+
+1 Aug 1974
+Income Tax (Dividends and Interest Withholding Tax) Amendment Act 1992
+199, 1992
+
+21 Dec 1992
+
+24 Dec 1992 ( see s. 2)
+—
+Tax Laws Amendment (2007 Measures No. 4) Act 2007
+143, 2007
+
+24 Sept 2007
+
+Schedule 7 (items 69–72): Royal Assent
+
+—
+Table of Amendmentsad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted
+Provision affected
+How affected
+Title ....................
+am. No. 199, 1992
+S. 1 ....................
+am. No. 199, 1992
+S. 3 ....................
+rep. No. 143, 2007
+S. 4 ....................
+am. No. 143, 2007
+S. 6 ....................
+rs. No. 199, 1992
+S. 7 ....................
+am. No. 199, 1992; No. 143, 2007
+S. 8 ....................
+rep. No. 143, 2007

@@ -1,0 +1,32 @@
+library_id: 200000005
+citation: A New Tax System (Goods and Services Tax Imposition (Recipients)—Excise) Act 2005
+type: primary_legislation
+version_id: sha256:2f88c9929d0af0ce4bd4c0cae444dccd77dad687736882110e85b089be5186ef
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2005A00002/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the A New Tax System (Goods and Services Tax Imposition (Recipients)—Excise) Act 2005 .
+
+2 Commencement
+This Act commences on 1 July 2005.
+
+3 Imposition
+(1) The tax that is payable under the GST law is imposed by this section under the name of goods and services tax ( GST ).
+(2) This section imposes GST only so far as that tax:
+(a) would be imposed on the recipient of a taxable supply; and
+(b) is a duty of excise within the meaning of section 55 of the Constitution.
+(3) In this section, GST law , recipient and taxable supply have the same meaning as in the A New Tax System (Goods and Services Tax) Act 1999 .
+
+4 Rate
+The rate of goods and services tax payable under the GST law (within the meaning of the A New Tax System (Goods and Services Tax) Act 1999 ) is 10%.
+
+5 Act does not impose a tax on property of a State
+(1) This Act does not impose a tax on property of any kind belonging to a State.
+(2) Property of any kind belonging to a State has the same meaning as in section 114 of the Constitution.
+[ Minister’s second reading speech made in—
+House of Representatives on 8 December 2004
+Senate on 9 December 2004 ]
+(252/04)

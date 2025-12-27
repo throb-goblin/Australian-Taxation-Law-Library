@@ -1,0 +1,238 @@
+library_id: 200000065
+citation: Medicare Levy Act 1986
+type: primary_legislation
+version_id: sha256:ed0dcaa608e526ea179eb22c051d98ccd6cf53c03f8dc094e80023c509c1ffe3
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A03351/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the Medicare Levy Act 1986 .
+
+2 Commencement
+This Act shall come into operation on the day on which it receives the Royal Assent.
+
+3 Interpretation
+(1) In this Act, unless the contrary intention appears:
+AMIT (short for attribution managed investment trust) has the same meaning as in the Income Tax Assessment Act 1997 .
+Assessment Act means the Income Tax Assessment Act 1936 .
+family tier 1 threshold , of a person for a year of income, means the family tier 1 threshold (within the meaning of the Private Health Insurance Act 2007 ) of the person for the financial year corresponding to the year of income.
+income for surcharge purposes has the same meaning as in the Income Tax Assessment Act 1997 .
+levy means Medicare levy referred to in section 5.
+phase ‑ in limit means:
+(a) for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$53,775; or
+(c) in any other case—$34,027.
+singles tier 1 threshold , of a person for a year of income, means the singles tier 1 threshold (within the meaning of the Private Health Insurance Act 2007 ) of the person for the financial year corresponding to the year of income.
+threshold amount means:
+(a) for a person who is entitled to a rebate under section 160AAAA of the Assessment Act—$43,020; or
+(c) in any other case—$27,222.
+tier 2 earner has the meaning given by section 3A.
+tier 3 earner has the meaning given by section 3A.
+(2) In this Act, a reference to income for surcharge purposes, net income or taxable income is to be read as a reference to that term for the year of income.
+(2A) In section 8B, 8C, 8D, 8E, 8F or 8G, net income and taxable income have the meanings that they would have in that section if subsection 271 ‑ 105(1) in Schedule 2F to the Assessment Act were ignored.
+(3) Subject to subsection (3A), for the purposes of this Act:
+(a) a person shall be deemed not to be married to another person if they are living separately and apart; and
+(b) where the last person to whom another person was married during a year of income died during the year of income, those persons shall be deemed to have been married on the last day of the year of income.
+(3A) For the purposes of sections 8B, 8C and 8D, if:
+(a) the last person to whom another person was married during a year of income died during the year of income; and
+(b) the death occurred while they were married;
+the living person is taken to be married to the person who died during the period starting on the day he or she died and ending on 30 June of the year of income.
+(4) Subject to the preceding provisions of this section, expressions used in this Act that are also used in Part VIIB of the Assessment Act have in this Act, unless the contrary intention appears, the same meanings as those expressions have in that Part of the Assessment Act.
+(5) For the purposes of this Act, a person is covered by an insurance policy that provides private patient hospital cover if:
+(a) the policy is a complying health insurance policy (within the meaning of the Private Health Insurance Act 2007 ) that covers hospital treatment (within the meaning of that Act); and
+(b) any excess payable in respect of benefits under the policy is no more than the applicable amount set out in section 45 ‑ 1 of that Act in any 12 month period.
+
+3A Meaning of tier 2 earner and tier 3 earner
+(1) Subject to this section, for the purposes of this Act:
+(a) tier 2 earner , for a year of income, means a tier 2 earner (within the meaning of the Private Health Insurance Act 2007 ) for the financial year corresponding to the year of income; and
+(b) tier 3 earner , for a year of income, means a tier 3 earner (within the meaning of that Act) for the financial year corresponding to the year of income.
+(2) In determining whether a person is a tier 2 earner or tier 3 earner for a year of income for the purposes of this Act, section 22 ‑ 30 of the Private Health Insurance Act 2007 operates with the modification set out in subsection (3).
+(3) Replace paragraph 22 ‑ 30(1)(b) of the Private Health Insurance Act 2007 with the following paragraph:
+(b) on any day in the year, the person has one or more dependants (within the meaning of the A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999 ), other than a dependant to whom the person is married (within the meaning of that Act):
+
+4 Incorporation
+The Assessment Act is incorporated, and shall be read as one, with this Act.
+
+5 Imposition of Medicare levy
+Medicare levy, to the extent that that levy is payable in accordance with Part VIIB of the Assessment Act, is imposed in accordance with this Act at the rate applicable in accordance with this Act.
+Note: Subdivision 61 ‑ L (tax offset for Medicare levy surcharge (lump sum payments in arrears)) of the Income Tax Assessment Act 1997 might provide a tax offset for a person if Medicare levy surcharge (within the meaning of that Act) is payable by the person.
+
+6 Rate of levy
+(1) The rate of levy payable by a person upon a taxable income is 2%.
+(2) The rate of levy payable by a person in the capacity of a trustee of a trust estate upon a share of the net income of the trust estate to which a beneficiary is presently entitled, being income in respect of which the trustee is liable to be assessed pursuant to section 98 of the Assessment Act, is 2%.
+(3) The rate of levy payable by a person in the capacity of a trustee of a trust estate upon the net income of the trust estate or a part of that net income, being income in respect of which the trustee is liable to be assessed and pay tax pursuant to section 99 or 99A of the Assessment Act, is 2%.
+(4) The rate of levy payable by a person in the capacity of a trustee of an AMIT in respect of an amount mentioned in subsection 276 ‑ 405(2) of the Income Tax Assessment Act 1997 , being an amount in respect of which the trustee is liable to be assessed pursuant to that subsection, is 2%.
+(5) The rate of levy payable by a person in the capacity of a trustee of an AMIT in respect of an amount mentioned in subsection 276 ‑ 415(2) of the Income Tax Assessment Act 1997 , being an amount in respect of which the trustee is liable to be assessed pursuant to that subsection, is 2%.
+(6) The rate of levy payable by a person in the capacity of a trustee of an AMIT in respect of an amount mentioned in subsection 276 ‑ 420(2) of the Income Tax Assessment Act 1997 , being an amount in respect of which the trustee is liable to be assessed pursuant to that subsection, is 2%.
+
+7 Levy in cases of small incomes
+(1) Where the taxable income of a person does not exceed the threshold amount, no levy is payable by the person upon that taxable income.
+(2) Where the taxable income of a person exceeds the threshold amount but does not exceed the phase ‑ in limit, the amount of levy payable by the person upon that taxable income but for sections 8 and 9 shall not exceed 10% of the amount of the excess.
+(3) Where the net income of a trust estate or a part of that net income, being income in respect of which a person in the capacity of a trustee of a trust estate is liable to be assessed pursuant to section 99 of the Assessment Act, does not exceed $416, no levy is payable by the person upon that net income or part, as the case may be.
+(4) Where the net income of a trust estate or a part of that net income, being income in respect of which a person in the capacity of a trustee of a trust estate is liable to be assessed and pay tax pursuant to section 99 of the Assessment Act, exceeds $416 but does not exceed $520, the amount of levy payable by the person upon that net income shall not exceed 10% of the amount of the excess.
+
+8 Amount of levy—person who has spouse or dependants
+(1) Where a person:
+(a) is a married person on the last day of the year of income; or
+(b) is entitled to a tax offset under Subdivision 61 ‑ A of the Income Tax Assessment Act 1997 for the year of income in respect of the person’s child (within the meaning of that Act); or
+(c) is entitled to a notional tax offset under Subdivision 961 ‑ B of the Income Tax Assessment Act 1997 for the year of income;
+and the family income in relation to the person does not exceed the family income threshold in relation to the person, no levy is payable by the person upon the taxable income of the person.
+(2) Subject to subsection (3), where a person (in this subsection referred to as the relevant person ):
+(a) was a married person on the last day of the year of income; or
+(b) is entitled to a tax offset under Subdivision 61 ‑ A of the Income Tax Assessment Act 1997 for the year of income in respect of the person’s child (within the meaning of that Act); or
+(c) is entitled to a notional tax offset under Subdivision 961 ‑ B of the Income Tax Assessment Act 1997 for the year of income;
+and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
+(3) Where:
+(a) but for this subsection, the amount of levy payable by a person upon the taxable income of the person but for this section and section 9 would be reduced by an amount (in this subsection referred to as the reduction amount ) ascertained in accordance with subsection (2);
+(b) the person was a married person on the last day of the year of income; and
+(c) but for this section and section 9, the spouse of the person would be liable to pay levy upon the taxable income of the spouse;
+the reduction amount shall, subject to subsection (4), be reduced by so much of the reduction amount as bears to the reduction amount the same proportion as the amount of the taxable income of the spouse bears to the family income in relation to the person.
+(4) Where:
+(a) subsection (3) applies for the purposes of ascertaining the levy payable by a person upon the taxable income of the person but for section 9; and
+(b) the amount of the reduction of that levy ascertained in accordance with subsections (2) and (3) exceeds the amount of the levy payable by the person upon the taxable income of the person but for this section and section 9;
+the amount of levy payable by the spouse of the person upon the taxable income of the spouse but for this subsection and section 9 shall be reduced by the amount of the excess.
+(5) In this section:
+family income , in relation to a person, means:
+(a) if the person was a married person on the last day of the year of income—the sum of the taxable income of the person and the taxable income of the spouse of the person; and
+(b) in any other case—the taxable income of the person.
+family income threshold , in relation to a person (the relevant person ), means $45,907 increased by $4,216 for each person covered by paragraph 961 ‑ 5(1)(c) of the Income Tax Assessment Act 1997 in respect of whom:
+(a) in a case to which paragraph (b) does not apply—the relevant person; or
+(b) if the relevant person was a married person on the last day of the year of income—the relevant person or the spouse of the relevant person;
+is entitled to a notional tax offset under Subdivision 961 ‑ A of the Income Tax Assessment Act 1997 for the year of income.
+(6) In the application of the definition of family income threshold in subsection (5) in determining the family income threshold in relation to a person in relation to a year of income, being a person who was not a married person on the last day of the year of income, the amount of $45,907 referred to in that definition shall not be increased on account of another person unless family tax benefit under the A New Tax System (Family Assistance) (Administration) Act 1999 was payable to the first ‑ mentioned person in respect of that other person in respect of the whole or any part of the year of income.
+(7) Subsections (5) and (6) apply in relation to a person who is entitled for the year of income to a rebate under section 160AAAA of the Assessment Act as if each reference to $45,907 were a reference to $59,886.
+
+8B Levy surcharge—person without dependants who is not married during whole or part of a financial year
+(1) This section applies to a person during a period if during the whole of the period:
+(a) the person is not a married person; and
+(b) the person does not have any dependants; and
+(c) the person is not covered by an insurance policy that provides private patient hospital cover; and
+(d) the person is not a prescribed person.
+Note 1: Subsection 251R(2) of the Assessment Act treats certain persons who are not married as if they were married.
+Note 2: For dependant see sections 251R and 251V of the Assessment Act.
+Note 3: For prescribed person see section 251U of the Assessment Act.
+(2) If the person’s income for surcharge purposes exceeds the person’s singles tier 1 threshold for the year of income, the amount of the levy that, apart from this section, would have been payable by the person under this Act for the year of income is to be increased:
+(a) if this section applies to the person for the whole of the year of income—by 1% of the person’s taxable income; or
+(b) if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
+(3) Increase the amount of each percentage mentioned in subsection (2) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+(4) Increase the amount of each percentage mentioned in subsection (2) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+
+8C Levy surcharge—person with dependants who is not married during whole or part of a financial year
+(1) This section applies to a person during a period if during the whole of the period:
+(a) the person is not a married person; and
+(b) the person has one or more dependants; and
+(c) the person or at least one of the person’s dependants (other than a dependant who is, or would, apart from subsection 251U(2) of the Assessment Act, be taken to be, a prescribed person) is not covered by an insurance policy that provides private patient hospital cover; and
+(d) the person is not, or is taken under section 251VA of the Assessment Act not to be, a prescribed person.
+Note 1: Subsection 251R(2) of the Assessment Act treats certain persons who are not married as if they were married.
+Note 2: For dependant see sections 251R and 251V of the Assessment Act.
+Note 3: For prescribed person see section 251U of the Assessment Act.
+(2) For the purposes of paragraph (1)(c), a person to whom section 251VA of the Assessment Act applies is taken to be covered during the whole of the period by an insurance policy that provides private patient hospital cover.
+(3) If the person’s income for surcharge purposes exceeds the person’s family tier 1 threshold, the amount of the levy that, apart from this section, would have been payable by the person under this Act for that year is to be increased:
+(a) if this section applies to the person for the whole of the year of income—by the amount of 1% of the person’s taxable income; or
+(b) if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
+(4) Increase the amount of each percentage mentioned in subsection (3) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+(5) Increase the amount of each percentage mentioned in subsection (3) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+
+8D Levy surcharge—person who is married during whole or part of a financial year
+(1) This section applies to a person during a period if during the whole of the period:
+(a) the person is a married person; and
+(b) the person or at least one of the person’s dependants (other than a dependant who is, or would, apart from subsection 251U(2) of the Assessment Act, be taken to be, a prescribed person) is not covered by an insurance policy that provides private patient hospital cover; and
+(c) the person is not, or is taken under section 251VA of the Assessment Act not to be, a prescribed person.
+Note 1: Subsection 251R(2) of the Assessment Act treats certain persons who are not married as if they were married.
+Note 2: For dependant see sections 251R and 251V of the Assessment Act.
+Note 3: For prescribed person see section 251U of the Assessment Act.
+(2) For the purposes of paragraph (1)(b), a person to whom section 251VA of the Assessment Act applies is taken to be covered during the whole of the period by an insurance policy that provides private patient hospital cover.
+(3) The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income is to be increased by the amount of 1% of the person’s taxable income if:
+(a) this section applies to the person for the whole of the year of income; and
+(b) the sum of the person’s income for surcharge purposes and the person’s spouse’s income for surcharge purposes exceeds the person’s family tier 1 threshold; and
+(c) the person’s income for surcharge purposes exceeds $27,222.
+(4) The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
+if:
+(a) both of the following conditions are met if the person is married for the whole of the year of income:
+(i) the sum of the person’s income for surcharge purposes and the person’s spouse’s income for surcharge purposes exceeds the person’s family tier 1 threshold;
+(ii) the person’s income for surcharge purposes exceeds $27,222; or
+(b) the person’s income for surcharge purposes exceeds the person’s family tier 1 threshold, if the person is married for only some of the year of income.
+(4A) Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+(4B) Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+(5) In this section:
+income for surcharge purposes , in relation to the person’s spouse, includes any share in the net income of a trust estate:
+(a) to which the spouse is presently entitled as a beneficiary; and
+(b) in respect of which the trustee of the trust estate in that capacity is liable to be assessed under section 98 of the Assessment Act.
+
+8E Levy surcharge for certain trustees—beneficiary a person to whom section 8B applies
+(1) This section applies to a person who is a beneficiary of a trust estate during a period if:
+(a) section 8B applies to the beneficiary during the whole of the period; and
+(b) the trustee of the trust estate in that capacity is liable to be assessed under section 98 of the Assessment Act in respect of a share of the net income of the trust estate to which the beneficiary is presently entitled (the beneficiary’s trust income ).
+(2) If the amount of the beneficiary’s trust income exceeds the beneficiary’s singles tier 1 threshold for the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased:
+(a) if this section applies to the beneficiary for the whole of the year of income—by the amount of 1% of the beneficiary’s trust income; or
+(b) if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
+(3) Increase the amount of each percentage mentioned in subsection (2) by 0.25 of a percentage point if the beneficiary is a tier 2 earner for the year of income.
+(4) Increase the amount of each percentage mentioned in subsection (2) by 0.5 of a percentage point if the beneficiary is a tier 3 earner for the year of income.
+
+8F Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies
+(1) This section applies to a person who is a beneficiary of a trust estate during a period if:
+(a) section 8C applies to the beneficiary during the whole of the period; and
+(b) the trustee of the trust estate in that capacity is liable to be assessed under section 98 of the Assessment Act in respect of a share of the net income of the trust estate to which the beneficiary is presently entitled (the beneficiary’s trust income ).
+(2) If the amount of the beneficiary’s trust income exceeds the beneficiary’s family tier 1 threshold, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased:
+(a) if this section applies to the beneficiary for the whole of the year of income—by the amount of 1% of the beneficiary’s trust income; or
+(b) if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
+(3) Increase the amount of each percentage mentioned in subsection (2) by 0.25 of a percentage point if the beneficiary is a tier 2 earner for the year of income.
+(4) Increase the amount of each percentage mentioned in subsection (2) by 0.5 of a percentage point if the beneficiary is a tier 3 earner for the year of income.
+
+8G Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies
+(1) This section applies to a person who is a beneficiary of a trust estate during a period if:
+(a) section 8D applies to the beneficiary during the whole of the period; and
+(b) the trustee of the trust estate in that capacity is liable to be assessed under section 98 of the Assessment Act in respect of a share of the net income of the trust estate to which the beneficiary is presently entitled (the beneficiary’s trust income ).
+(2) The amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by 1% of the beneficiary’s trust income if:
+(a) this section applies to the beneficiary for the whole of the year of income; and
+(b) the sum of the beneficiary’s trust income and the beneficiary’s spouse’s income for surcharge purposes exceeds the beneficiary’s family tier 1 threshold; and
+(c) the amount of the beneficiary’s trust income exceeds $27,222.
+(3) If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
+if:
+(a) in the case of a beneficiary who is a married person for the whole of the year of income:
+(i) the sum of the beneficiary’s trust income and the beneficiary’s spouse’s income for surcharge purposes exceeds the beneficiary’s family tier 1 threshold; and
+(ii) the beneficiary’s trust income exceeds $27,222; or
+(b) in the case of a beneficiary who is a married person for only some of the year of income—the beneficiary’s trust income exceeds the beneficiary’s family tier 1 threshold.
+(3A) Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.25 of a percentage point if the beneficiary is a tier 2 earner for the year of income.
+(3B) Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.5 of a percentage point if the beneficiary is a tier 3 earner for the year of income.
+(4) In this section:
+income for surcharge purposes , in relation to the beneficiary’s spouse, includes any share in the net income of a trust estate:
+(a) to which the spouse is presently entitled as a beneficiary; and
+(b) in respect of which the trustee of the trust estate in that capacity is liable to be assessed under section 98 of the Assessment Act.
+
+9 Reduction of levy—person who is prescribed person for part of year of income
+(1) In the case of a person who was a prescribed person during a part or parts only of the year of income, the amount of levy (other than an increase in the levy payable under section 8B, 8C, 8D, 8E, 8F or 8G) payable by the person but for this section shall be reduced by so much of that amount as bears to that amount the same proportion as the number of days in the part, or the sum of the numbers of days in the parts, of the year of income during which the person was a prescribed person bears to the number of days in the year of income.
+
+9A Adjustment of taxable income for lump sum payments in arrears
+(1) This section applies to a person for a year of income if:
+(a) the person’s assessable income for the year includes one or more eligible lump sums; and
+(b) the total arrears amount is not less than 10% of the normal taxable income of the year; and
+(c) in each relevant accrual year, one or more of the following applied:
+(i) the sum of the person’s taxable income and the annual arrears amount for the year did not exceed the phase ‑ in limit;
+(ii) under section 8, no levy was payable by the person on the person’s taxable income and, if the annual arrears amount for the year had been included in the person’s taxable income, either no levy would have been payable or the amount of levy would have been reduced;
+(iii) under section 8, the amount of the levy payable by the person on the person’s taxable income was reduced, and would also have been reduced if the annual arrears amount for the year had been included in the person’s taxable income;
+(iv) the person was a prescribed person for at least one day.
+Note: For prescribed person , see section 251U of the Assessment Act.
+(2) For the purposes of subsections 6(1) and 7(1) and (2), the person’s taxable income for the year of income is taken not to include the total arrears amount.
+(3) For the purposes of working out, under section 8:
+(a) whether levy is payable by the person on the person’s taxable income for the year of income; or
+(b) whether the amount of levy payable by the person on the person’s taxable income for the year of income is to be reduced;
+the person’s taxable income for the year of income is taken not to include the total arrears amount.
+Note: This subsection does not affect the person’s taxable income for the purposes of working out, under section 8, the family income in relation to a spouse of the person.
+(4) In this section:
+accrual year has the meaning given by subsection 159ZR(1) of the Assessment Act.
+annual arrears amount has the meaning given by subsection 159ZR(1) of the Assessment Act.
+eligible lump sum has the meaning given by subsection 159ZR(1) of the Assessment Act.
+normal taxable income has the meaning given by subsection 159ZR(1) of the Assessment Act.
+relevant accrual years means:
+(a) if there are 2 or more accrual years for the total arrears amount—the most recent 2 of those years; or
+(b) in any other case—the accrual year for the total arrears amount.
+total arrears amount has the meaning given by subsection 159ZR(1) of the Assessment Act.
+
+10 Levy payable by a trustee assessable under section 98 of the Assessment Act
+(1) Where a person in the capacity of a trustee of a trust estate is liable to be assessed pursuant to section 98 of the Assessment Act in respect of a share of the net income of the trust estate to which a beneficiary is presently entitled, the amount of levy payable by the trustee upon that share of that net income shall not exceed the amount of levy that would be payable by the beneficiary if the amount of that share were the taxable income of the beneficiary.
+(2) For the purposes of working out the amount of levy that would be payable by the beneficiary, any rebate that the trustee is entitled to under section 160AAAB of the Assessment Act is taken to be a rebate that the beneficiary is entitled to under section 160AAAA of that Act.
+
+11 Financial years for which levy is payable
+The levy imposed by this Act is levied, and shall be paid, for the financial year commencing on 1 July 1986 and for all subsequent financial years until the Parliament otherwise provides.

@@ -1,0 +1,351 @@
+library_id: 500000010
+citation: Trustee Companies Act 1968
+type: primary_legislation
+version_id: sha256:dca3acb2e08477847da32c3a908c03433ff4ad540c833adfae753c3d383872ed
+jurisdiction: queensland
+url: https://www.legislation.qld.gov.au/view/html/inforce/current/act-1968-056
+content_format: xml
+source: sha256
+
+Part 1 Preliminary
+
+1. Short title
+This Act may be cited as the Trustee Companies Act 1968.
+
+2 3
+
+4. Definitions
+In this Act—
+
+4AA. Powers conferred on trustee companies are additional powers
+The powers conferred on trustee companies by this Act shall be in addition to and not in derogation of any powers conferred on trustee companies or on executors, administrators, trustees, receivers, committees, guardians, liquidators, official liquidators, guarantors or sureties or attorneys under any other Act or the Corporations Act.
+
+4A
+
+Part 2 Duties, functions, offices
+
+5. Trustee company may act as executor and obtain probate
+(1) Whenever a trustee company is named expressly or by implication either alone or jointly with any other person as executor of the last will of any testator (whether the will was made before or after the commencement of this Act) the trustee company may act as executor and may apply to the Court for probate of the will of the testator.
+(2) The Court may grant probate to the trustee company on an application pursuant to subsection (1).
+(3) Where a grant of probate is made to a trustee company pursuant to this section, the trustee company may perform and discharge all the acts and duties of an executor as fully and effectually as a private individual may do when appointed executor.
+
+6. Persons entitled to obtain probate of the will or administration with the will annexed may authorise trustee company to apply for administration with will annexed
+(1) In all cases in which a private individual may apply for and obtain—
+(1) of a deceased person, that individual may—
+(2) Where—
+(2) the Court may make a joint grant of probate and letters of administration with the will annexed or a grant of letters of administration with the will annexed, as the case may be, in accordance with the application.
+(3) This section applies to wills whether made before or after the commencement of this Act.
+
+7. Person entitled to obtain administration on intestacy may authorise trustee company to obtain administration
+(1) Any person entitled to obtain administration of the estate of any intestate may—
+(2) Where—
+(2) the Court may grant letters of administration of the estate in accordance with the application.
+(3) This section applies whether the intestate died before or after the commencement of this Act.
+
+8. Saving rights of other persons to administration
+Nothing in sections 6 and 7 shall be taken to prejudice or affect the right of any person interested in the estate of any deceased person (other than a person who has joined with a trustee company in, or has authorised a trustee company to make, an application under those sections) to apply for and obtain letters of administration, with or without the will annexed or other appropriate grant.
+
+9. Person entitled to probate may join with trustee company in applying for letters of administration to the trustee company
+(1) Any person named expressly or by implication as executor who would be entitled to obtain probate of the will of any testator may, instead of himself or herself applying for probate join with a trustee company in an application for letters of administration with the will annexed to be granted to the trustee company.
+(2) Where a person joins with a trustee company in an application pursuant to subsection (1), the Court may grant administration with the will annexed to the trustee company unless the testator by will has expressed the desire that the office of executor should not be delegated or that the trustee company should not act in the trusts of the will.
+(3) An application for a grant of letters of administration with the will annexed pursuant to this section may be made in the first instance to the Registrar of the Supreme Court who—
+(4) A grant of letters of administration with the will annexed under this section may be made to a trustee company notwithstanding that a person named expressly or by implication in the will as executor (other than the person joining with the trustee company in the application for the grant) has applied for and has been granted probate.
+(5) Where a grant of probate has been made to a person and a grant of letters of administration with the will annexed has been made to a trustee company under this section, that person and the trustee company shall administer the estate jointly.
+(6) A grant of letters of administration with the will annexed to a trustee company under this section may reserve leave for any person named expressly or by implication in the will as executor (other than the person joining with the trustee company in the application for the grant) to come in and apply for probate at any time subsequent to the grant.
+(7) This section applies to wills whether made before or after the commencement of this Act.
+(8) A person beneficially interested under the will is entitled to be heard in opposition to a grant being made under this section to a trustee company, and the Court after considering any objection by such a person may—
+
+10. Trustee company may act as administrator notwithstanding its incorporation
+Where the administration of any estate, with or without the will annexed, is granted to a trustee company, pursuant to this Act, the trustee company may perform and discharge all acts and duties which belong to the office of administrator or administrator with the will annexed, as the case may be, as fully and effectually as a private individual may do when granted such letters of administration.
+
+11. Reseal of probate and letters of administration
+A trustee company as attorney lawfully authorised for that purpose by the executor or administrator under any probate or letters of administration within the meaning of the British Probates Act 1898 granted by a court of probate in a part of Her Majesty’s Dominions to which that Act applies or by a British court in a foreign country within the meaning of that Act, may make application to a Registrar of the Court to seal the probate or letters of administration or an exemplification, duplicate or copy thereof under the said Act and the Registrar shall have authority to seal the grant in question or an exemplification, duplicate or copy thereof.
+
+12. Power of trustee companies to elect to administer small estates without grant of administration
+(1) Where any person has died intestate or testate, whether in or out of Queensland and whether before or after the commencement of this Act, leaving property situated in Queensland, the gross value of which as estimated by any trustee company does not at the time of the election hereinafter mentioned exceed $100000, and no person has taken out administration in Queensland, the trustee company, in any case where it would be entitled to obtain such a grant, may, in accordance with this section, instead of obtaining such a grant, file in the Court an election in writing, under the seal of the company, to administer the estate of the deceased person.
+(2) On any such election being filed, the trustee company shall be deemed to be the executor of the will or the administrator of the estate, as the case may be, in like manner and to the same extent in all respects as if administration had been duly granted to it.
+(3) Every such election shall set forth the name, residence, and occupation of the deceased so far as they are then known to the trustee company, and the date of the death of the deceased and the property situated in Queensland of the deceased as then known.
+(4) The election shall contain in every case where the deceased died intestate a statement to that effect, and in every case where the deceased died testate a statement that after due inquiries the trustee company believes that the document annexed to the election is the testator’s last will (or an exemplification thereof where administration has been granted out of Queensland) and that the will has been validly executed according to the law governing the execution of wills.
+(5) No such election may be filed under this section unless there is endorsed thereon a certificate by a solicitor (whether in the employment of the trustee company or not) that (as the case may require) the solicitor is satisfied that the Court would, on application duly made, grant to the trustee company—
+(6) Any such election to administer shall be filed in any registry of the Court in which an application for a grant of administration of the will or estate of the deceased person may be filed.
+(7) If after filing any such election as aforesaid the gross value of the property situated in Queensland to be administered is found to exceed the sum of $120000, the trustee company shall as soon as practicable thereafter file in the registry of the Court in which the election to administer was filed a memorandum under the seal of the trustee company stating the fact, and shall thereupon proceed in the ordinary manner to obtain a grant of administration in Queensland, and for that purpose may uplift from the Court any will or exemplification filed with the election.
+(8) Notice of an election under this section shall be advertised once in the gazette in a form approved by the person who for the time being holds the office of the registrar.
+
+13. Elections in respect of unadministered balance of an estate
+(1) Where a grant of administration (the original grant) has been made in Queensland in respect of the estate of any deceased person (the original estate) and the persons to whom the original grant or any substituted grant of administration was made have died, whether before or after the commencement of this Act, leaving part of the original estate unadministered, and the gross value of the property situated in Queensland so left unadministered, as estimated by the trustee company at the time of the election hereinafter mentioned, does not exceed the sum of $100000, and no person has since the death of the last administrator taken out letters of administration de bonis non in Queensland in respect of the original estate, the trustee company may, in accordance with this section, instead of applying for letters of administration de bonis non in Queensland, file in the registry of the Court out of which the original grant was issued an election in writing under the seal of the company setting forth the fact of the original grant, the death of the executors or other administrators, and the particulars of the property situated in Queensland so left unadministered, and electing to administer the part of the original estate so left unadministered.
+(2) On the election being filed, the trustee company shall be deemed to be administrator of the original estate left unadministered in like manner and to the same extent in all respects as if letters of administration de bonis non had been duly granted to it.
+(3) No such election may be filed under this section unless there is endorsed thereon a certificate by a solicitor (whether in the employment of the trustee company or not) that the solicitor is satisfied that the Court would, on application duly made, grant to the trustee company letters of administration de bonis non in respect of the part of the original estate so left unadministered.
+(4) If after the filing of any such election the gross value of the property situated in Queensland to be administered by the trustee company is found to exceed the sum of $120000, the trustee company shall, as soon as practicable thereafter, file in the said registry of the Court a memorandum under the seal of the trustee company stating the fact, and shall thereupon proceed in the ordinary manner to obtain in Queensland letters of administration de bonis non (either with or without the will annexed, as the case may be) in respect of the said estate, and for that purpose may uplift from the Court any will or exemplification filed with the election.
+(5) Notice of an election under this section shall be advertised once in the gazette in a form approved by the person who for the time being holds the office of the registrar.
+
+14. Notice of filing of election
+(1) If a trustee company files an election under section 12 or 13, it must give notice of the election to the commissioner of state revenue appointed under the Taxation Administration Act 2001.
+(2) The notice must be in the form approved by the commissioner.
+
+15. Operation of election to administer as regards property out of State
+In determining the value of the property of any person that is situated in Queensland for the purposes of sections 12 and 13, that property shall not include or be deemed to include property situated out of Queensland at the time of the filing of any election to administer, whether or not the property may afterwards be transferred to Queensland (whether to the trustee company or to any other person) in due course of administration, whether for the purposes of distribution to the persons beneficially entitled thereto or otherwise howsoever, but in all other respects every election referred to in sections 12 and 13 shall extend and apply to and include the property situated out of Queensland in the same manner and to the same extent in all respects as a grant of administration obtained by the trustee company would in the circumstances of each particular case extend or apply to or include that property.
+
+16. Revocation of elections filed in error
+(1) Where any trustee company has, pursuant to any of the provisions of sections 12 and 13, filed an election to administer the estate of a deceased person, and the trustee company subsequently discovers that the election is invalid or ineffective by reason of the discovery of a will or a later will, or of the revocation or invalidity of a will, or for any other reason, then and in any such case the trustee company shall file in the registry of the Court in which the election to administer was filed a memorandum under the seal of the trustee company setting out the facts and certifying that the election already filed is invalid or ineffective.
+(2) Upon any such memorandum being filed, the election to administer previously filed shall cease to be of any effect whatsoever, and thereafter an application for administration may be made or a fresh election may be filed in all respects as if the election to administer previously filed had not been filed.
+
+17. Effect of joint grant on application under s 6
+(1) Where a person—
+(1) a joint grant on such an application of—
+(1) as the case may be, has, for all purposes (including the right to be registered under the Land Title Act 1994 as personal representative), the force and effect of a vesting order made by the Court vesting the lands in respect of which the person joining with the trustee company in the application is named in the will as the only trustee, in that person and the trustee company as trustees on the trusts of the will for all the right, title and interest therein of the testator.
+(2) Where a person—
+(2) a joint grant on such an application of—
+(2) as the case may be, has, for all purposes (including the right to be registered under the Land Title Act 1994 as personal representative), the force and effect of a vesting order made by the Court vesting the lands in respect of which the person joining with the trustee company in the application is named in the will as a trustee, in that person, the trustee company and the other person or persons so named in the will or such of them as are living at the date of the grant and have not disclaimed the trust before that date, as trustees on the trusts of the will for all the right, title and interest therein of the testator.
+
+18. Effect of disclaimer of trustee on authorisation under s 6
+(1) Where any person—
+(1) disclaims the trust in the authorisation, a grant of letters of administration with the will annexed made to the trustee company on an application made pursuant to the authorisation has, for all purposes (including the right to be registered under the Land Title Act 1994 as personal representative), the force and effect of a vesting order made by the Court vesting the lands in respect of which the person giving the authorisation is named in the will as the only trustee, in the trustee company as trustee on the trusts of the will for all the right, title and interest therein of the testator.
+(2) Where any person—
+(2) disclaims the trust in the authorisation, a grant of letters of administration with the will annexed made to the trustee company on an application made pursuant to the authorisation has, for all purposes (including the right to be registered under the Land Title Act 1994 as personal representative), the force and effect of a vesting order made by the Court vesting the lands in respect of which the person giving the authorisation is named in the will as a trustee, in the trustee company and the other person or persons so named in the will or such of them as are living at the date of the grant and have not disclaimed the trust before that date, as trustees on the trusts of the will for all the right, title and interest therein of the testator.
+(3) This section does not apply in any case in which the testator has by will expressed the desire that the trustee company should not act in the trusts of the will.
+
+19. Effect of disclaimer of trustee on joint application under s 9
+(1) Where any person—
+(1) disclaims the trust in the application, a grant of letters of administration with the will annexed made to the trustee company on the application has, for all purposes (including the right to be registered under the Land Title Act 1994 as personal representative), the force and effect of a vesting order made by the Court vesting the lands in respect of which the person joining in the application is named in the will as the only trustee, in the trustee company as trustee on the trusts of the will for all the right, title and interest therein of the testator.
+(2) Where any person—
+(2) disclaims the trust in the application, a grant of letters of administration with the will annexed made to the trustee company on the application has, for all purposes (including the right to be registered under the Land Title Act 1994 as personal representative), the force and effect of a vesting order made by the Court vesting the lands in respect of which the person joining in the application is named in the will as a trustee, in the trustee company and the other person or persons so named in the will or such of them as are living at the date of the grant and have not disclaimed the trust before that date, as trustees on the trusts of the will for all the right, title and interest therein of the testator.
+(3) This section does not apply in any case in which the testator has by will expressed the desire that the trustee company should not act in the trusts of the will.
+
+20. Executor or administrator may appoint trustee company in his or her place
+(1) With the consent of the Court or a Judge, any executor, whether appointed before or after the commencement of this Act, may, before or after taking out probate, appoint a trustee company as an executor in his or her place.
+(2) With the consent of the Court or a Judge, an administrator with or without the will annexed, whether appointed before or after the commencement of this Act may appoint a trustee company as an administrator in his or her place.
+(3) A trustee company shall not be appointed under this section in any case in which the testator has by will expressly prohibited the appointment of the trustee company to the office in question.
+(4) Upon an appointment under this section, the trustee company shall have the same powers authorities functions and duties as if it had been the original executor or administrator, as the case may be.
+
+21. Trustee company may be appointed trustee receiver etc.
+(1) Subject to this section, any court, Judge or person (not being himself or herself a trustee) who has power to appoint or approve of any person as—
+(1) may appoint or approve of the appointment of, a trustee company either solely or jointly with any other person to any of those offices or positions in respect of which it or he or she has the said power.
+(2) Subject to this section, a trustee company may be appointed, or may continue, to act as sole trustee in all cases notwithstanding that it is provided by the terms of the instrument (if any) creating the trust or of any power or otherwise that there shall be more than 1 trustee to perform the trust.
+(3) Where a trustee company and 1 or more individuals are co-trustees, any 1 or more of such individuals may retire, and the trustee company shall for the purposes of any Act now or hereafter in force relating to the retirement of trustees and the vesting of trust property be deemed to be equivalent to two trustees.
+(4) A trustee company shall not be appointed in any case in which the instrument creating the trust or power forbids the appointment of the trustee company to the relevant office or position.
+(5) A trustee company shall not be appointed or be entitled to act as sole trustee in any case in which the instrument creating the trust or power expressly provides that there shall be another trustee in addition to a trustee company or that a trustee company shall not be appointed or act as sole trustee.
+(6) Where a trustee company is appointed to any of the offices or positions referred to in subsection (1) the trustee company may perform, exercise and discharge all the powers and duties and shall be liable to all the obligations pertaining to the office or position to which it is appointed.
+(7) Notwithstanding any Act or rule of law, a trustee, or other person having power to appoint a trustee, may appoint a trustee company to be a trustee without the consent of the Court in any case in which he or she has power to appoint a new trustee.
+(8) Notwithstanding anything contained in or omitted from the memorandum or articles of association of a trustee company, the trustee company may be appointed and may act—
+
+22. Trustee company may act under power of attorney by an officer of the company etc.
+(1) A trustee company may act, either alone or jointly with any other person, under any power of attorney by which the trustee company is appointed attorney by any person or by any company or other corporation (including a power of attorney to apply for and obtain a grant of probate, letters of administration with the will annexed, letters of administration or other appropriate grant or the sealing thereof or an exemplification, duplicate or a copy thereof) as attorney for the person company or corporation, as the case may be, and all the powers conferred upon the trustee company by the power of attorney may be exercised and carried into execution by an officer of the trustee company.
+(2) Nothing in this section shall be taken to authorise any person, company or other corporation to confer any power upon the trustee company which cannot be legally conferred upon a private individual.
+
+23. A holder of certain offices and positions may appoint a trustee company to discharge duties
+(1) Any executor or administrator acting under any probate or letters of administration, whether granted before or after the commencement of this Act, and any trustee, receiver, committee, guardian, liquidator or official liquidator whether appointed before or after that commencement, with the consent of the Court may appoint a trustee company to perform and discharge all the acts and duties of the executor, administrator, trustee, receiver, committee, guardian, liquidator or official liquidator, as the case may be, and the trustee company shall have power to perform and discharge all those acts and duties accordingly.
+(2) Where a trustee company is appointed under this section to perform and discharge the acts and duties of an office or position, the executor, administrator, trustee, receiver, committee, guardian, liquidator or official liquidator so appointing the trustee company shall be released from liability in respect of all acts done by or omitted to be done by the trustee company acting under the appointment.
+
+24. Trustee may appoint a trustee company a trustee
+(1) Subject to subsection (2), any trustee may appoint a trustee company to be trustee in his or her place.
+(2) Unless under the instrument creating the power or trust or under some other Act the trustee is authorised to appoint another person as trustee any appointment under subsection (1) is subject to the consent of the Court.
+(3) Section 21(2) to (5) shall apply to an appointment under this section.
+(4) Where a trustee company is appointed a trustee under this section, the trustee company may perform and discharge all the acts and duties, and shall be liable to all the obligations, pertaining to the office of the trustee in whose place it is appointed and the person so appointing the trustee company is released from liability in respect of all acts done by or omitted to be done by the trustee company acting under an appointment pursuant to this section.
+
+25. Property vested in trustee company and another as trustees to be held jointly
+Where any property is vested in a trustee company and a private individual or in a trustee company and another body corporate to the intent that they should hold the same jointly in any fiduciary capacity or as mortgagees they shall be deemed to be joint tenants thereof and not tenants in common unless otherwise expressly provided.
+
+26. Payment of legacies of infants to trustee company
+(1) With the consent of the trustee company, any trustee may pay to any trustee company any money, being the whole amount, or the whole remaining amount, of any legacy or share in any estate to which an infant is entitled, whether absolutely or contingently, under a will, instrument, trust, or intestacy, and by writing in a form approved by the trustee company direct the trustee company to account for the legacy or share according to the provisions of the will, instrument, trust, or intestacy.
+(2) The writing shall declare that the amount therein stated is the whole amount or, as the case may be, the whole remaining amount to which the infant is so entitled, and how much of the amount is capital and how much thereof is income and how much (if any) of the capital and income has been expended, whether for the maintenance, education, advancement, or benefit of the infant or otherwise, and (in the case of money to which the infant is contingently entitled) the person or persons who will become entitled to the money or so much as remains in the event of the infant failing to become absolutely entitled, and the shares and interests of those persons, and such other matters as the trustee company may require.
+(3) The writing shall be certified correct by the trustee, and, without limiting the effect of the provisions (where applicable) of subsection (5), the trustee company shall not be under any obligation to inquire into the accuracy of the certificate nor shall the trustee company incur any liability through acting upon any statement contained in the writing.
+(4) Upon subsections (1) to (3) being complied with in any case, the writing shall vest in the trustee company all the powers of the trustee in respect of the legacy or share, whether conferred by the will or trust instrument or by any enactment or in any other manner howsoever.
+(5) The trustee shall, at the time of completing the certificate and directions referred to in subsections (1) to (4), furnish to the trustee company where applicable a true copy of the will or trust instrument affecting the legacy or share, and the trustee company shall act in pursuance of the trusts therein contained.
+(6) The provisions of this section shall extend to all wills, trusts, trust instruments, intestacies, and transactions, whether they took effect before or after the commencement of this Act.
+(7) In this section—
+
+27. Appointment of trustee company where person whose consent is required refuses or is unable to consent
+Where the consent of any person is requisite to the appointment of an administrator or trustee and the person refuses to consent to a specified trustee company being appointed, or where the person to consent is not of full age or full mental capacity or is under any other disability, an appointment of the trustee company may be made without that consent if the Court consents thereto.
+
+Part 3 Powers
+
+28. General powers of trustee company
+(1) Notwithstanding anything in any other Act, a trustee company may, unless expressly prohibited by or under the terms of the instrument (if any) creating the trust exercise the following powers—
+(2) No sale of real property under subsection (1)(a) shall be made by private contract unless or until after the same has been offered for sale by public auction and not sold or unless the beneficiaries consent in writing to sale by private contract.
+(3) The following provisions apply to an appropriation under subsection (1)(f)—
+(4) The powers conferred by this section are in addition to and not in restriction of any other powers conferred on a trustee company by this or any other Act or by the instrument (if any) creating the trust.
+
+29. Administrator carrying on intestate’s business
+(1) Where—
+(1) it is lawful for the trustee company with the sanction of the Court and with the consent of and after hearing such other person or persons (if any) as the Court may direct—
+(2) The sanction of the Court may be obtained on summons to be served on such persons as the Court or a Judge may direct, and the Court or a Judge may direct the costs of and incidental to the summons to be borne and paid by such persons as may be just.
+
+30. Power of company in certain cases of devises of realty
+(1) Where a trustee company is pursuant to this Act administering the estate of any deceased testator, who has by will devised land—
+(1) the trustee company shall, notwithstanding any law to the contrary, be entitled to have transmission of the land so devised entered up to it as trustee in the proper registry, and shall have the same powers and authority to deal with that land as though the land had by the will of the testator been devised to it upon trust for the devisee.
+(2) Without limiting the powers of the trustee company in other respects it shall, notwithstanding any provision of the testator’s will, have power to raise such sum or sums of money as it deems sufficient for the purpose of discharging any debts or liabilities charged upon the testator’s estate, or for the payment of which that estate may be made available, by—
+(2) of the land devised by the testator as mentioned in subsection (1) or any part thereof.
+
+31. Power to apply income, or capital, for maintenance etc.
+(1) Where an infant is entitled to a share in an estate, whether testate or intestate, under administration by a trustee company, the trustee company may in its discretion apply for the maintenance, education, advancement or otherwise for the benefit of that infant, during minority—
+(2) A trustee company may, instead of itself applying income, corpus or capital, under subsection (1), pay the same to any person to be applied for the purposes specified in that subsection without seeing to the application or being answerable for the misapplication or non-application thereof.
+(3) In any case in which there are sufficient moneys available for the purpose, the trustee company may for the purposes specified in subsection (1), apply the corpus of the share to which any infant is entitled in possession in excess of the limit prescribed in that subsection.
+(4) Nothing in subsection (1) or (3) shall apply to a case—
+(5) In addition to and not by way of limitation of the powers conferred by subsections (1) and (3) where any property is held by a trustee company in trust for an infant, either for life or for any greater interest, whether absolutely or contingently upon the infant attaining a specified age, or on the occurrence of any event before attaining that age, the trustee company may in its discretion—
+(6) The trustee company shall—
+(7) Subsections (5) and (6) apply only if and so far as a contrary intention is not expressed in the instrument under which the interest of the infant arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
+(8) In addition to and not by way of limitation of any of the powers conferred by subsections (1) to (7), with the consent of the persons having prior estates or interests in property, whether corpus or capital or income, held under an instrument, whether the income is directed to be accumulated or not, if such corpus, capital, or income is made payable to a class of persons, and the members of that class, or some of them, would ultimately, on attaining a specified age or on the happening of an event, be entitled to a share of such corpus, capital, or income and by survivorship or otherwise may become entitled to the shares of the other members of the class, the contingencies being equal, the Court may authorise the application of, or the trustee company may with the like consent apply, the presumptive or contingent shares of infants belonging to the class towards their maintenance, education, advancement, or benefit, notwithstanding that there may be future members of the class who may come into existence.
+(9) Where any member of the class referred to in subsection (8) has attained the required age or become entitled by age or otherwise, then the consent of that person is necessary to any application under that subsection.
+(10) Applications under subsection (8) to the Court may be made by a trustee company or by an infant, but nothing in this subsection shall be taken as limiting a trustee company’s power to act under that subsection without an authorisation by the Court.
+(11) In construing and giving effect to the respective provisions of this section, the one shall be taken in aid of the other, and so that each of the provisions can be exercised independently the one of the other.
+
+32. Power to distribute assets of estate after notice on failure of action by claimant creditor
+(1) Where a trustee company refuses to recognise in whole or in part the claim of any person who claims to be a creditor against the estate of any deceased person, the trustee company may give notice in writing of that refusal to the person so claiming.
+(2) If the person to whom a notice has been given under subsection (1) does not within 6 months after the receipt of the notice institute any proceeding to enforce the claim, the trustee company may distribute the assets of the deceased person without regard to the claim or to so much thereof as the trustee company has by the notice refused to recognise, and thereupon the right of the person to whom such notice was given to recover from the trustee company the amount of the claim or the part thereof which the trustee company has by the notice refused to recognise shall be absolutely barred.
+(3) For the purposes of this section, a notice may be served on any person claiming to be a creditor against the estate by posting it to the person in a registered post letter addressed to the address given in the claim, and every such notice shall be deemed to have been received by that person in the ordinary course of post unless the trustee company has notice to the contrary before the distribution of the assets.
+
+33. Power to distribute estate where possible claimants have not claimed
+(1) Where—
+(1) the trustee company after advertising as in this section directed may, without being under any liability to the person or to any person claiming through the person or to the person’s issue, distribute the estate as if such first mentioned person had predeceased the testator or intestate without issue.
+(2) The trustee company shall, before making any distribution pursuant to subsection (1), make a report to a Judge setting out the material facts relating to the matter and obtain a direction from the Judge as to the form and number of the advertisements to be inserted and the places in which they are to be published and fixing a time after the insertion of the last of such advertisements at the expiration of which a distribution may be made.
+(3) Nothing in this section shall prejudice the right of any person to follow the assets or any part thereof into the hands of the person or persons who have received the same.
+
+34. When trustee company may pay claims without legal proof
+Where—
+the trustee company may after the expiration of 6 months from the time so appointed—
+pay any sum not exceeding $200 to any person claiming to the satisfaction of the trustee company to be a party in distribution or to be a legatee under a will, without legal proof of the right or title of the party so claiming.
+
+35. Shares of infants during infancy
+(1) Where under any will or estate committed to a trustee company, a legacy or share of such estate is payable to an infant, then the trustee company shall (subject to the terms of any will or trust instrument) hold that legacy or share as trustee for the infant until such infancy ceases whereupon it shall account to the infant in terms of the will or trust instrument (if any).
+(2) Without prejudice to the liability of the trustee company to account as provided in subsection (1) for such legacy or share when infancy ceases, a certificate under the hand of an officer of the trustee company that such legacy or share is so held in terms of this section shall be deemed a proper discharge therefor for all purposes and rules of law.
+
+36 36A
+
+37. Contributory investments
+(1) Where a trustee company holds moneys belonging to more than 1 estate, trust property or person upon trusts, which require or permit the investment thereof, the trustee company may invest such moneys as 1 fund, and distribute the income arising therefrom rateably among the several estates, trusts, properties or persons to which the money so invested belongs, and any profit or loss arising from any such investment shall likewise be received or borne rateably by the several estates, trusts, properties or persons.
+(2) Any such investment shall be made either—
+
+38. Co-administrator may exercise powers of trustee company
+The powers conferred by this Act upon a trustee company may also be exercised by the trustee company and any person holding the office of executor, trustee or administrator jointly with the trustee company.
+
+39. Certificate by trustee company as to its legal status in any matter
+(1) Where a trustee company is executor or administrator or is by law authorised to administer the estate of any deceased person, or where it is acting as trustee, receiver, committee, guardian, liquidator or official liquidator or in any other capacity, a certificate by the trustee company under the seal of the trustee company—
+(1) shall, notwithstanding any law or statutory provision to the contrary, be accepted by all courts, officers, and persons, whether acting under any Act or not, as sufficient evidence—
+(1) without any other proof whatsoever.
+(2) Such certificate shall be sufficient for the purpose of bringing any land under the Land Title Act 1994, or of recording the trustee company as owner or proprietor of land under that Act, or of any shares, stock, or property in any company, corporation (other than a company), body, or association, and if any land is subject to the last mentioned Acts, such certificate may be registered against such land as in the case of probate or letters of administration, and shall have the same force and effect.
+(3) Such certificate shall be equivalent for registration purposes to the probate, letters of administration with or without the will, election to administer, trust instrument or other order or document of appointment, and without prejudice to the right of the Registrar of Titles to require lodgement of the will, or an office copy thereof issued out of the Court, it shall not be necessary to register the probate, letters of administration with or without the will, election, will, trust instrument or other order or document of appointment.
+(4) A statement of the purport of any trust instrument, order, power of attorney, or other document or authority in any assurance, certificate, or instrument by a trustee company under the seal of the trustee company shall be sufficient evidence thereof, and no one shall be concerned to inquire beyond that statement.
+
+40. Application of part 3
+The powers conferred upon a trustee company under this part may be exercised in relation to an estate, trust or property whether or not the estate, trust or property was constituted or created or was committed to the administration or management of the trustee company before or after the commencement of this Act and whether or not the instrument (if any) governing the estate, trust or property was made before or after the commencement of this Act.
+
+41 42
+44 45
+45A
+
+Part 4 Supervision by Court
+
+46. Court to act upon affidavit of officer of trustee company
+In all cases in which a trustee company is empowered by this Act—
+the Court in which, or an order of the Court before whom, an application is made may receive and act upon an affidavit by an officer of the trustee company in place of any affidavit required by any Act or rule of court to be made by a person making a similar application.
+
+47. Application for consent to be by motion
+(1) Every application for consent under sections 20, 23 and 24 shall be by motion.
+(2) Notice of the application shall be advertised once in a daily newspaper published in Brisbane not more than 14 nor less than 7 days before the making of the application, and in case of an executor or administrator of a testator or intestate dying in Queensland, elsewhere than in Brisbane, a like notice shall be also advertised once within the like period in some local newspaper (if any) circulating in the district in which the testator or intestate had his or her usual place of residence immediately prior to his or her decease.
+(3) The Court may require any person resident in Queensland and entitled to the immediate receipt of any part of the income or corpus of the estate in respect of which the application is made to be served with notice thereof.
+(4) The costs of the application shall be in the discretion of the Court and may be ordered to be paid out of the estate.
+(5) Consent shall not be given in any case of a will in which the testator has expressed his or her desire that the trusts thereof should not be delegated or that the trustee company should not act therein.
+
+48. An officer may attend on behalf of a trustee company, and be personally responsible
+(1) In all cases in which the personal attendance of an executor, administrator, trustee, receiver, committee, guardian, liquidator, or official liquidator is required or permitted in a Court or elsewhere, a trustee company shall be entitled to make the attendance in the person of an officer of the trustee company, and the personal duties of executor, administrator, trustee, receiver, committee, guardian, liquidator, or official liquidator may be discharged on behalf of the trustee company by an officer of the company.
+(2) In every case where—
+(2) the officers of the trustee company, and the directors of the trustee company are individually and collectively in their own proper persons responsible—
+(2) and shall in their own proper persons be liable by process of attachment, commitment for contempt, or by other process to all courts having jurisdiction in that behalf in case of the improper discharge of their duties or disobedience to the rules, orders, and decrees of those courts in the same manner and to the same extent as if each such officer of the trustee company and each director, had personally obtained probate or letters of administration, or been appointed trustee, receiver, committee, guardian, liquidator, or official liquidator.
+
+49. Removal from office
+(1) A trustee company that has been appointed executor, administrator, trustee, receiver, committee, guardian, liquidator, official liquidator or attorney, whether before or after the commencement of this Act, shall be subject in all respects to the same control and to removal or restraint from acting and generally to the jurisdiction of the courts, in the same manner as any other executor, administrator, trustee, receiver, committee, guardian, liquidator, official liquidator or attorney is subject.
+(2) All persons who may claim relief against a trustee company for any act done or assumed to be done, or in respect of any act omitted to be done, by the trustee company, its directors or officers, under any of the powers conferred by this Act, may proceed in the Court or in any other court of competent jurisdiction, either by action or other ordinary proceeding of the court, or in a summary way by motion against the trustee company, or against any of the directors or officers of the trustee company, and the court in which the proceeding is brought may make and enforce such order in the matter as to the court seems just.
+
+50 51
+52 53
+54 55
+56 57
+58 59
+60 61
+63 64
+64A 65
+66 66A
+66B 66C
+66D 66E
+66F 66G
+
+Part 5 Miscellaneous
+
+67. Penalty provisions
+(1) A person who contravenes or fails to comply with a provision of this Act commits an offence against this Act and, in the absence of another penalty expressly provided for in this Act, is liable to a penalty of 10 penalty units.
+(2) Proceedings with respect to an offence against this Act shall be taken in a summary manner under the Justices Act 1886.
+
+68. Settlors or testators may appoint own solicitors
+(1) Where by any settlement or will (whether made before or after the commencement of this Act), a settlor or testator directs that any practising solicitor shall conduct the legal business of his or her estate, that solicitor is entitled to act therein accordingly, but in such case a trustee company concerned shall not be liable for any loss occasioned by the negligence, misfeasance, nonfeasance or misconduct of the solicitor unless such loss could have been prevented or avoided by the exercise of due care on the part of the trustee company.
+(2) A solicitor entitled to conduct the legal business of an estate under subsection (1) may be removed by the Court or a Judge upon the application of the trustee company or of any person interested in that estate upon cause shown, and the Court or Judge may appoint a solicitor nominated by the trustee company to conduct such legal business in the first solicitor’s place.
+
+68A. When legatee to bear commission on legacy
+(1) Subject to subsection (2) unless a testator by will, whether made before or after the commencement of this Act, directs that the testator’s testamentary expenses (which shall be deemed to include the commission payable to a trustee company under this Act) be paid out of the testator’s estate, the commission payable to a trustee company under this Act on all devises and legacies, whether specific, demonstrative, or pecuniary, is payable by the devisee or legatee entitled, as the case may be.
+(2) Where a testator by will, whether made before or after the commencement of this Act, directs that any devise or legacy be free of duty, such commission is payable out of that portion of the estate of the testator out of which the duty is, pursuant to the direction, payable if that portion is sufficient to enable the payment in full of the commission as well as the duty.
+
+68B. Appointment of attorney by trustee company
+Any trustee company that on its incorporation was incorporated in a State (other than Queensland) or a Territory of the Commonwealth may, by instrument in writing under its common seal, empower any person, either generally or in respect of specified matters, as its attorney to execute deeds, bonds and other documents on its behalf in Queensland, and every deed, bond or other document signed by such attorney on behalf of the trustee company and under the person’s seal shall be binding on the trustee company, and have the same effect as if it were under the common seal of the trustee company.
+
+68C. Transfer determinations
+(1) This section applies if—
+(2) When the certificate of transfer comes into force, the receiving company becomes the successor in law of the transferring company in relation to estate assets and liabilities of the transferring company, to the extent of the transfer.
+(3) Without limiting subsection (2)—
+(4) If the certificate includes provisions of a kind mentioned in the Corporations Act, section 601WBG(3)—
+(5) The registrar of titles or other person required or authorised by law to register or record transactions affecting assets or liabilities—
+(6) A transaction related to an asset or liability transferred to a receiving company entered into by the receiving company in the transferring company’s name or the name of a predecessor in title to the transferring company, if effected by an instrument otherwise in registrable form, must be registered even though the receiving company has not been registered as proprietor of the asset or liability.
+(7) If an asset or liability is registered in the name of a receiving company, the registrar of titles or other registering authority may register a dealing for a transaction about the asset or liability without being concerned to enquire whether it is, or is not, an asset or liability transferred under a certificate.
+(8) For the purposes of this section, the public trustee is taken to be a trustee company.
+
+69 70. Evidence of failure to give notice to a trustee company
+Whenever it is necessary to prove that any notice has not been given or that any disclosure or discovery has not been made to a trustee company, proof that no such notice has been given or that no such disclosure or discovery has been made to the manager for the time being of the trustee company shall be prima facie evidence that no such notice has been given or that no such disclosure or discovery has been made to the trustee company.
+
+71. Delegations
+The registrar may delegate the registrar’s powers under this Act to an officer or employee of the department.
+
+72 73
+
+73A. Regulation-making power
+The Governor in Council may make regulations under this Act.
+
+Part 6 Transitional provisions for Fair Work (Commonwealth Powers) and Other Provisions Act 2009
+
+74. Definitions for pt 6
+In this part—
+
+75. Court may review rate of commission
+(1) This section applies if a person made an application to the Court or a Judge to review the rate of commission, as mentioned in repealed section 41(4), before the commencement.
+(2) Repealed section 41 continues to apply, despite its repeal, in relation to the application.
+
+76. Court may review fee
+(1) This section applies if a person made an application to the Court or a Judge to review a fee, as mentioned in repealed section 45(1), before the commencement.
+(2) Repealed section 45 continues to apply, despite its repeal, in relation to the application.
+
+77. Filing and passing accounts
+(1) This section applies to an account filed in the office of the Registrar of the Supreme Court, as mentioned in repealed section 50(3), before the commencement.
+(2) Repealed section 50(3) continues to apply, despite its repeal, in relation to the account.
+
+78. Court may order account
+(1) This section applies if a person made an application to an officer of a trustee company for an account of the property and assets of an estate, as mentioned in repealed section 51(1), before the commencement.
+(2) Repealed sections 51 and 52 continue to apply, despite their repeal, in relation to the application.
+
+79. Investment of capital in name of Treasurer
+(1) This section applies if a trustee company was required to invest part of its paid-up capital in the name of the Treasurer of the State of Queensland in trust for the trustee company, as mentioned in repealed section 56(1), before the commencement.
+(2) The securities and investments mentioned in the section in existence at the time of the repeal are to be transferred by the Treasurer as soon as practicable after the repeal to the trustee company or another person nominated by the trustee company.
+(3) Repealed section 56(3) continues to apply, despite its repeal, in relation to interest and income mentioned in the subsection, whether the interest and income is held by the Treasurer at the time of the repeal or received afterwards.
+
+80. Offences
+(1) This section applies if a person is alleged to have committed an offence against the Trustee Companies Act 1968 before the commencement.
+(2) Proceedings for the offence may be started or continued, and the court may hear and decide the proceedings, as if the Fair Work (Commonwealth Powers) and Other Provisions Act 2009 had not commenced.
+(3) This section applies despite the Criminal Code, section 11.
+
+81
+
+Part 7
+
+Schedule 1
+
+Schedule 2
+
+Schedule 3
+
+Schedule 4

@@ -1,0 +1,50 @@
+library_id: 200000025
+citation: Commonwealth Places (Mirror Taxes) Regulations 2000
+type: secondary_legislation
+version_id: sha256:44fca68dcec584417646273a51ab8116b33cc872d0be40f787f2569ba0104fd4
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/F2000B00069/latest/text
+content_format: html
+source: sha256
+
+1 Name of Regulations
+These Regulations are the Commonwealth Places (Mirror Taxes) Regulations 2000 .
+
+3 Definition
+In these Regulations:
+Act means the Commonwealth Places (Mirror Taxes) Act 1998 .
+
+4 Prescribed State taxing laws—land taxes (Act s 3)
+For the purposes of paragraph (b) of the definition of State taxing law in section 3 of the Act, the State laws in the following table are prescribed.
+Item
+State
+Law
+1 New South Wales
+Land Tax Act 1956
+Land Tax Management Act 1956
+2 Victoria
+Duties Act 2000
+Land Tax Act 2005
+Payroll Tax Act 2007
+3 Queensland
+Duties Act 2001
+Land Tax Act 1915
+Land Tax Act 2010
+Taxation Administration Act 2001
+4 Western Australia
+Debits Tax Act 2002
+Debits Tax Assessment Act 2002
+Duties Act 2008
+Metropolitan Region Improvement Tax Act 1959
+Land Tax Act 2002
+Land Tax Assessment Act 2002
+Pay ‑ roll Tax Act 2002
+Pay ‑ roll Tax Assessment Act 2002
+Taxation Administration Act 2003
+5 South Australia
+Land Tax Act 1936
+Payroll Tax Act 2009
+6 Tasmania
+Duties Act 2001
+Land Tax Act 2000
+Payroll Tax Act 2008

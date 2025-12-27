@@ -1,0 +1,36 @@
+library_id: 200000040
+citation: Fringe Benefits Tax Act 1986
+type: primary_legislation
+version_id: sha256:17d53c8121f73ae2dc14631018fdbb4cdd4b2c42b69f6e894a3128cd9b645183
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A03281/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the Fringe Benefits Tax Act 1986 .
+
+2 Commencement
+This Act shall come into operation on the day on which the Fringe Benefits Tax Assessment Act 1986 comes into operation.
+
+3 Incorporation
+The Fringe Benefits Tax Assessment Act 1986 is incorporated and shall be read as one with this Act.
+
+4 Act binds the Crown
+This Act binds the Crown in right of each of the States, of the Australian Capital Territory and of the Northern Territory.
+
+5 Imposition of tax
+Tax is imposed in respect of the fringe benefits taxable amount of an employer of a year of tax.
+
+6 Rate of tax
+The rate of tax in respect of the fringe benefits taxable amount of an employer of a year of tax is 47%.
+
+6A Temporary budget repair levy
+(1) This section applies to the temporary budget repair levy years for FBT.
+(2) Increase the rate of tax mentioned in section 6 by 2 percentage points.
+(3) In this section, each of the following is a temporary budget repair levy year for FBT :
+(a) the year of tax starting on 1 April 2015;
+(b) the year of tax starting on 1 April 2016.
+
+7 Severability
+It is the intention of the Parliament that if, but for this section, section 5 of this Act would impose a tax on property of any kind belonging to a State within the meaning of section 114 of the Constitution, section 5 of this Act shall have effect as if it did not impose that tax.

@@ -1,0 +1,85 @@
+library_id: 200000039
+citation: Fringe Benefits Tax (Application to the Commonwealth) Act 1986
+type: primary_legislation
+version_id: sha256:ee3e4f21e55d511e3e67db6bc744398f85590c0ee85a656bc074766061cc7e90
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A03283/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the Fringe Benefits Tax (Application to the Commonwealth) Act 1986 .
+
+2 Commencement
+This Act shall come into operation on the day on which the Fringe Benefits Tax Assessment Act 1986 comes into operation.
+
+2A Objects
+The objects of this Act are to provide for:
+(a) the notional application of fringe benefits tax in relation to benefits provided in respect of the employment of Commonwealth employees; and
+(b) the calculation of the reportable fringe benefits totals of those employees; and
+(c) the calculation of the reportable fringe benefits amounts of those employees in respect of that employment.
+
+3 Interpretation
+(1) In this Act, unless the contrary intention appears:
+Assessment Act means the Fringe Benefits Tax Assessment Act 1986 .
+Commonwealth employee means an employee of the Commonwealth.
+Department means:
+(a) a Department of State;
+(b) a Department of the Parliament established under the Parliamentary Service Act 1999 ; or
+(c) an Executive Agency or Statutory Agency (within the meaning of the Public Service Act 1999 ).
+Entitlements Act means the Veteran’s Entitlements Act 1986.
+Finance Department means the Department that is administered by the Finance Minister.
+Finance Minister has the meaning given by the Income Tax Assessment Act 1997 .
+responsible Department , in relation to the employment of a Commonwealth employee, means:
+(a) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an annual Appropriation Act—the Department in respect of which the money was appropriated; and
+(b) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an Act other than an annual Appropriation Act:
+(i) if the employee performs or performed the duties of that employment in, or in respect of, a Department—that Department; or
+(ii) in any other case—the Department of State administered by the Minister who administers the Act under which that money was appropriated, insofar as the Act appropriated that money; and
+(c) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated by the Constitution—the Finance Department.
+(2) Unless the contrary intention appears, an expression that is used in this Act and in the Assessment Act has the same meaning in this Act as it has in the Assessment Act.
+
+4 Application of Assessment Act in relation to Commonwealth employment
+Subject to this Act and to such modifications as are prescribed, the Assessment Act applies, in respect of any matter or thing in respect of the employment of a Commonwealth employee, as if:
+(a) the employee were employed by the responsible Department and not by the Commonwealth;
+(b) the responsible Department were a company and each other Department, and each authority of the Commonwealth, were a company related to the responsible Department; and
+(c) the responsible Department were a government body.
+
+5 Application of Act to certain Commonwealth authorities
+Subject to such modifications as are prescribed, this Act applies in relation to an authority of the Commonwealth referred to in paragraph (e) of the definition of employer in subsection 136(1) of the Assessment Act in like manner as it applies in relation to a Department.
+
+5A Modified objection, review and appeal provisions
+If, apart from this section, Part IVC of the Taxation Administration Act 1953 would apply to an objection made under the Assessment Act in its application in accordance with this Act, then that Part applies as if subsection 14ZX (4), section 14ZZ and Divisions 4 and 5 of that Part were omitted.
+
+6 Exemption of certain benefits provided under the Defence Service Homes Act
+For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit is provided under the Defence Service Homes Act 1918 in respect of the employment of a Commonwealth employee by reason of the employee being an eligible person within the meaning of that Act otherwise than by virtue of paragraph (h) or (i) of the definition of Australian Soldier in subsection 4(1) of that Act, the benefit is an exempt benefit.
+
+6AA Exemption of benefits provided to certain people
+For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit (other than a benefit referred to in section 6) is provided, in respect of the employment of a Commonwealth employee, because of the employee being:
+(a) a veteran as defined by subsection 5C(1) of the Entitlements Act to whom, or in respect of whom, a pension is payable under Part II of that Act; or
+(b) a veteran as defined by subsection 5C(1) of the Entitlements Act who is eligible to receive a service pension, or in respect of whom a service pension is payable, under Part III of that Act; or
+(c) a member of the Forces, or a member of a Peacekeeping Force, as defined by subsection 68(1) of the Entitlements Act to whom, or in respect of whom, pension is payable under Part IV of that Act; or
+(d) a person who has received a lump sum under Part 2 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004 or who is receiving payments under that Part; or
+(e) a person who is receiving a Special Rate Disability Pension under Part 6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004 ;
+the benefit is an exempt benefit.
+
+6AB Exemption of benefits provided to Commonwealth employees under the Entitlements Act and the Military Rehabilitation and Compensation Act
+For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit is provided under the Entitlements Act or the Military Rehabilitation and Compensation Act 2004 , in respect of the employment of a Commonwealth employee, the benefit is an exempt benefit.
+
+6AC Exemption of health care benefits provided to certain members of the Defence Force
+(1) For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit that consists of the provision of health care and is not otherwise an exempt benefit is provided, in respect of the employment of a Commonwealth employee, because of the employee being a member of the Defence Force, the first ‑ mentioned benefit is an exempt benefit.
+(2) In this section, a reference to an employee being a member of the Defence Force is a reference to an employee who is, was formerly, or will become, a member of the Defence Force.
+
+6A No entitlement to rebate of tax
+For the purposes of the application of the Assessment Act in accordance with this Act, it is to be assumed that section 65J of that Act (which deals with rebates) had not been enacted.
+
+7 Directions by Finance Minister
+(1) The Finance Minister may give such directions in writing as are necessary or convenient to be given for carrying out or giving effect to this Act and, in particular, may give directions in relation to the transfer of money within the Public Account.
+(2) Directions under subsection (1) have effect, and shall be complied with, notwithstanding any other law of the Commonwealth.
+
+8 Annual report
+The report by the Commissioner under section 4 of the Assessment Act shall include a report on the working of this Act, including any breaches or evasions of this Act of which the Commissioner has notice.
+
+9 Regulations
+The Governor ‑ General may make regulations, not inconsistent with this Act, prescribing matters:
+(a) required or permitted by this Act to be prescribed; or
+(b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.

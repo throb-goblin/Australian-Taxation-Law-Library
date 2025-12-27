@@ -1,0 +1,20 @@
+library_id: 200000046
+citation: Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991
+type: primary_legislation
+version_id: sha256:bfa177024e613d3dc5ec9ff78d1f3bc52a4de137db21e0aa410bd022a8861cc2
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A04290/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 .
+
+2 Commencement
+This Act commences, or is taken to have commenced, as the case requires, on the commencement of section 221YHZR of the Income Tax Assessment Act 1936 .
+
+3 Act to bind Crown
+This Act binds the Crown in the right of each of the States, of the Australian Capital Territory and of the Northern Territory.
+
+4 Imposition of tax
+Tax payable in accordance with section 14 ‑ 55 in Schedule 1 to the Taxation Administration Act 1953 is imposed.

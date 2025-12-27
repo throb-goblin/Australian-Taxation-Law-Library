@@ -1,0 +1,75 @@
+library_id: 200000071
+citation: Radiocommunications (Receiver Licence Tax) Act 1983
+type: primary_legislation
+version_id: sha256:d8d8d8712759d927668c0262d6d8ea54948ed4e7b97d2d0e2510b5d4cb275756
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A02849/latest/text
+content_format: html
+source: sha256
+
+Radiocommu nications (Receiver Licence Tax) Act 1983
+
+1 Short title
+This Act may be cited as the Radiocommunications (Receiver Licence Tax) Act 1983 .
+
+2 Commencement
+This Act shall come into operation on the date fixed for the purposes of subsection 2(1) of the Radiocommunications Act 1983 .
+
+3 Collection Act
+The Radiocommunications Taxes Collection Act 1983 is incorporated and shall be read as one with this Act.
+
+4 Interpretation
+In this Act, tax means the tax imposed by this Act.
+
+5 Application of Radiocommunications Act
+
+Part 1.4 of the Radiocommunications Act 1992 applies to this Act in the same way that it applies to that Act.
+
+6 Imposition of tax
+(1) Tax is imposed on the issue of a receiver licence that is issued for a period not exceeding 12 months.
+(1A) If:
+(a) an application is made for a receiver licence for a period exceeding 12 months; and
+(b) when the application is made, the licence is covered by a determination under subsection (1B);
+tax is imposed on the issue of the licence for the period the licence is in force.
+(1B) The ACMA may, by legislative instrument, determine one or more classes of receiver licence for the purposes of subsection (1A).
+(1C) If:
+(a) an application is made for a receiver licence for a period exceeding 12 months; and
+(b) when the application is made, the licence is covered by a determination under subsection (1D);
+tax is imposed on:
+(c) the issue of the licence; and
+(d) each anniversary of the day the licence came into force occurring during the period the licence is in force.
+(1D) The ACMA may, by legislative instrument, determine one or more classes of receiver licence for the purposes of subsection (1C).
+(2) If:
+(a) a person applying for a receiver licence for a period of more than 12 months has made an election under subsection (4) that this subsection apply; and
+(b) a licence for such a period is issued to the person;
+tax is imposed on the issue of the licence for the period the licence is in force.
+(3) Subject to subsections (5) and (6), if:
+(a) a person applying for a receiver licence for a period of more than 12 months has made an election under subsection (4) that this subsection apply; and
+(b) a licence for such a period is issued to the person;
+tax is imposed on:
+(c) the issue of the licence; and
+(d) each anniversary of the day the licence came into force occurring during the period the licence is in force.
+(4) If:
+(a) a person applies for a receiver licence for a period exceeding 12 months; and
+(b) when the application is made, the licence is not covered by a determination under subsection (1B) or (1D);
+the person must elect, in the application for the licence, that either subsection (2) or (3) is to apply in respect of the licence.
+(5) If the holder of a receiver licence:
+(a) at the time when the person applied for the licence, elects that subsection (3) apply; and
+(b) subsequently notifies the ACMA, in writing, at least 21 days before the next anniversary of the day the licence came into force that is more than 12 months before the end of the period that the licence is in force, that this subsection is to apply;
+subsection (3) ceases to apply to the licence and tax is imposed on the holding of the licence on that anniversary.
+(6) If the holder of a receiver licence:
+(a) has elected that subsection (3) apply; and
+(b) has failed to pay tax imposed on an anniversary of the day the licence came into force within 60 days after that anniversary ( the 60 day period );
+subsection (3) ceases to apply the day after the end of the 60 day period and tax is imposed on the holding of the licence on that day.
+
+7 Amount of tax
+(1) The amount of tax in respect of the issue of a receiver licence, the anniversary of a receiver licence coming into force or the holding of a receiver licence is the amount determined by the ACMA.
+(2) A determination may, among other things, provide for amounts of tax in relation to:
+(a) specified periods; or
+(b) specified classes of licences; or
+(c) specified classes of persons.
+(3) In making a determination, the ACMA is to take into account such matters as are specified in the regulations.
+(4) A determination is a legislative instrument.
+
+9 Regulations
+The Governor ‑ General may make regulations for the purposes of section 7.

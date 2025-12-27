@@ -1,0 +1,185 @@
+library_id: 200000085
+citation: Taxation (Interest on Overpayments and Early Payments) Regulations 2018
+type: secondary_legislation
+version_id: sha256:5927647b2ef1335362440e4c866921625c26c5fcde0ebcca3fe2c55c40886536
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/F2018L01288/latest/text
+content_format: html
+source: sha256
+
+Part 1 — Preliminary
+
+1 Name
+This instrument is the Taxation (Interest on Overpayments and Early Payments) Regulations 2018 .
+
+2 Commencement
+(1) Each provision of this instrument specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+Commencement information
+Column 1
+Column 2
+Column 3
+Provisions
+Commencement
+Date/Details
+
+1. The whole of this instrument
+The day after this instrument is registered.
+
+15 September 2018
+Note: This table relates only to the provisions of this instrument as originally made. It will not be amended to deal with any later amendments of this instrument.
+(2) Any information in column 3 of the table is not part of this instrument. Information may be inserted in this column, or information in it may be edited, in any published version of this instrument.
+
+3 Authority
+This instrument is made under the Taxation (Interest on Overpayments and Early Payments) Act 1983 .
+
+4 Schedules
+Each instrument that is specified in a Schedule to this instrument is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this instrument has effect according to its terms.
+
+5 Definitions
+Note: A number of expressions used in this instrument are defined in the Act, including the following:
+(a) double tax agreement;
+(b) primary foreign country (see subsection 3A(2) of the Act);
+(c) provide correlative relief.
+(1) In this instrument:
+Act means the Taxation (Interest on Overpayments and Early Payments) Act 1983.
+Contracting State has the same meaning as in subsection 3(12) of the International Tax Agreements Act 1953.
+permanent establishment has the same meaning as in subsection 3(12) of the International Tax Agreements Act 1953.
+resident of Australia has the same meaning as in the Income Tax Assessment Act 1936.
+taxpayer has the same meaning as in the Income Tax Assessment Act 1936.
+(2) In this instrument, a reference to a double tax agreement by name is a reference to the agreement so described in section 3AAA or 3AAB of the International Tax Agreements Act 1953 .
+
+Part 2 — Provisions for the purposes of providing correlative relief
+
+6 Correlative relief for juridical double taxation—double tax agreements applying to Australia
+(1) For the purposes of paragraph 3A(1)(b) of the Act, the following manner of operation is prescribed for the provisions of the double tax agreements listed in the table in subsection (3) of this section:
+(a) in a case where the taxpayer is a resident of Australia—if the provision has been applied in a manner which increases the profits of the taxpayer which are attributable to a permanent establishment in the other Contracting State;
+(b) in a case where the taxpayer is not a resident of Australia—if the provision has been applied in a manner which decreases the profits of the taxpayer which are attributable to a permanent establishment in Australia.
+(2) In subsection (1), profits includes:
+(a) income or profits within the meaning of the Malaysian agreement as amended by the Malaysian protocol (No. 1), the Malaysian protocol (No. 2) and the Malaysian protocol (No. 3); or
+(b) business profits within the meaning of the United States convention as amended by the United States protocol (No. 1).
+(3) The following table lists the provisions of double tax agreements for the purposes of subsection (1).
+Item
+Double tax agreement
+Article
+1 Austrian agreement
+7 2
+Belgian agreement as amended by the Belgian protocol (No. 1) and Belgian protocol (No. 2)
+7 3
+Canadian convention as amended by the Canadian protocol (No. 1)
+7 4
+Chilean convention
+7 5
+Chinese agreement
+7 6
+Czech agreement
+7 7
+Danish agreement
+7 8
+Finnish agreement
+7 9
+French convention
+7 10
+German agreement
+7 11
+Hungarian agreement
+7 12
+Indian agreement as amended by the Indian protocol (No. 1)
+7 13
+Irish agreement
+8 14
+Italian convention
+7 15
+Japanese convention
+7 16
+Korean convention
+7 17
+Malaysian agreement as amended by the Malaysian protocol (No. 1), the Malaysian protocol (No. 2) and the Malaysian protocol (No. 3)
+7 18
+Maltese agreement
+7 19
+Netherlands agreement as amended by the Netherlands protocol (No. 2)
+7 20
+New Zealand convention
+7 21
+Norwegian convention
+7 22
+Polish agreement
+7 23
+Romanian agreement
+7 24
+Russian agreement
+7 25
+Singaporean agreement as amended by Singaporean protocol (No. 1) and Singaporean protocol (No. 2)
+5 26
+Slovak agreement
+7 27
+South African agreement as amended by the South African protocol (No. 2)
+7 28
+Spanish agreement
+7 29
+Swedish agreement
+7 30
+Swiss convention
+7 31
+Taipei agreement
+7 32
+Turkish convention
+7 33
+United Kingdom convention
+7 34
+United States convention as amended by the United States protocol (No. 1)
+7 35
+Vietnamese agreement as amended by the Vietnamese notes (No. 1)
+7 (4) For the purposes of paragraph 3A(1)(b) of the Act, the following manner of operation is prescribed for the provisions of the double tax agreements listed in the table in subsection (5) of this section:
+(a) in a case where the taxpayer is a resident of Australia—if the provision has been applied in a manner which results in an increase in:
+(i) the profits of the taxpayer which are attributable to a permanent establishment in the other Contracting State; or
+(ii) the profits attributable to the sales in the other Contracting State of goods or merchandise of the same or similar kind as those sold through that permanent establishment; or
+(iii) the profits attributable to other business activities carried on in the other Contracting State of the same or similar kind as those carried on through that permanent establishment; or
+(b) in a case where the taxpayer is not a resident of Australia—if the provision has been applied in a manner which results in a decrease in:
+(i) the profits of the taxpayer which are attributable to a permanent establishment in Australia; or
+(ii) the profits attributable to the sales in Australia of goods or merchandise of the same or similar kind as those sold through that permanent establishment; or
+(iii) the profits attributable to other business activities carried on in Australia of the same or similar kind as those carried on through that permanent establishment.
+(5) The following table lists the provisions of double tax agreements for the purposes of subsection (4).
+Item
+Double tax agreement
+Article
+1 Argentine agreement
+7 2
+Fijian agreement
+7 3
+Indonesian agreement
+7 4
+Kiribati agreement
+7 5
+Mexican agreement
+7 6
+Papua New Guinea agreement
+7 7
+Philippine agreement
+7 8
+Sri Lankan agreement
+7 9
+Thai agreement
+7 7 Correlative relief for economic double taxation—no double tax agreement applying to Australia and foreign country
+For the purposes of paragraph 3A(2)(b) of the Act, Article 9 (paragraph (3)) of the Vietnamese agreement, as amended by the Vietnamese notes (No. 1), is prescribed.
+
+8 Correlative relief for juridical double taxation—no double tax agreement applying to Australia and foreign country
+For the purposes of paragraph 3A(2)(b) of the Act, the following manner of operation of Article 7 of the Vietnamese agreement, as amended by the Vietnamese notes (No. 1), is prescribed:
+(a) in a case where the taxpayer is a resident of Australia—if the provision applies in a manner which increases the profits of the taxpayer which are attributable to a permanent establishment in the primary foreign country;
+(b) in a case where the taxpayer is not a resident of Australia—if the provision applies in a manner which decreases the profits of the taxpayer which are attributable to a permanent establishment in Australia.
+
+Part 3 — Application, saving and transitional provisions
+
+9 Application provision relating to the commencement of this instrument
+(1) This instrument applies in relation to income derived on or after the day this instrument commences.
+(2) This instrument applies in relation to income derived before the day this instrument commences to the extent that:
+(a) a double tax agreement referred to in Part 2 of this instrument was in force at the time the income was derived; and
+(b) the double tax agreement was not referred to in the Taxation (Interest on Overpayments and Early Payments) Regulations 1992 at the time the income was derived.
+(3) The repeal of the Taxation (Interest on Overpayments and Early Payments) Regulations 1992 by Schedule 1 to this instrument does not affect the application of those regulations to income derived before the day this instrument commences.
+
+Schedule 1 — Repeals
+
+Taxation (Interest on Overpayments and Early Payments) Regulations 1992
+
+1 The whole of the instrument
+Repeal the instrument.

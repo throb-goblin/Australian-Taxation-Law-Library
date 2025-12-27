@@ -1,0 +1,97 @@
+library_id: 200000075
+citation: Superannuation (Self Managed Superannuation Funds) Taxation Act 1987
+type: primary_legislation
+version_id: sha256:6e636a8a04d6480e1896e9e72477f92d9cfea6344d9ce510426d5367b0f969c8
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A03506/latest/text
+content_format: html
+source: sha256
+
+Part I — Preliminary
+
+1 Short title
+This Act may be cited as the Superannuation (Self Managed Superannuation Funds) Taxation Act 1987 .
+
+2 Commencement
+This Act shall come into operation on a day to be fixed by Proclamation.
+
+3 Interpretation
+(1) In this Act:
+fund or unit trust affected by a reviewable decision , in relation to a reviewable decision, means the fund or unit trust in relation to which the decision was made.
+reviewable decision means a decision of the Commissioner of Taxation under section 15DF.
+trustee , in relation to a fund or trust, has the same meaning as in the Superannuation Industry (Supervision) Act 1993 .
+year of income , in relation to a fund or unit trust, means a period that is, for the purposes of the Tax Act, the year of income of the fund or unit trust that commenced on 1 July 1986 or a subsequent year of income.
+
+3A Crown to be bound
+(1) This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory.
+(2) Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory liable to be prosecuted for an offence.
+
+Part III — Functions of the Commissioner of Taxation
+
+9 General administration of Act
+Subject to any directions of the Minister, the Commissioner of Taxation shall have the general administration of this Act.
+Note: An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the Taxation Administration Act 1953 .
+
+Part IIIAA — Collection of superannuation (self managed superannuation funds) supervisory levy
+
+15DAA Definitions
+In this Part:
+general interest charge means the charge worked out under Part IIA of the Taxation Administration Act 1953 .
+levy means the levy imposed by the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 .
+self managed superannuation fund has the meaning given by subsection 10(1) of the Superannuation Industry (Supervision) Act 1993 .
+superannuation entity has the meaning given by the Superannuation Industry (Supervision) Act 1993 .
+
+15DA Who is liable to pay levy
+(1) An entity is liable to pay a levy for a year of income in respect of a superannuation entity if:
+(a) the superannuation entity is a self managed superannuation fund at any time during the year of income; and
+(b) on the day on which the levy becomes due and payable (see section 15DB), the entity is a trustee of the superannuation entity.
+(2) If, on that day, there is more than one trustee of the superannuation entity, those trustees are jointly and severally liable to pay the levy for that year of income in respect of the superannuation entity.
+
+15DB When levy due for payment
+(1) Levy payable for a year of income in respect of a superannuation entity is due and payable on the day specified in the regulations for the purposes of this subsection.
+(1A) Without limiting subsection (1), the regulations may provide that levy is due and payable on a day specified in a written notice given to a trustee of the superannuation entity by the Commissioner of Taxation.
+(2) The specified day must not be earlier than 21 days after the day on which the notice is given.
+
+15DC General interest charge
+If an amount of levy payable by a person remains unpaid after the time by which it is due and payable, the person is liable to pay the general interest charge on the unpaid amount for each day in the period that:
+(a) starts at the beginning of the day on which the amount of levy was due to be paid; and
+(b) ends at the end of the last day on which, at the end of the day, any of the following remains unpaid:
+(i) an amount of levy;
+(ii) general interest charge on an amount of levy.
+Note: The general interest charge is worked out under Part IIA of the Taxation Administration Act 1953 .
+
+15DF Remission of levy
+The Commissioner of Taxation may remit the whole or a part of an amount of levy.
+
+15DH Exempting laws ineffective
+(1) Nothing in a law passed before the commencement of this section exempts a person from liability to levy.
+(2) A law, or a provision of a law, passed after the commencement of this section that purports to exempt a person from liability to pay taxes under laws of the Commonwealth or to pay certain taxes under those laws that include levy, other than a law or a provision that expressly exempts a person from liability to pay levy, is not to be construed as exempting the person from liability to pay levy.
+
+Part IV — Miscellaneous
+
+16 Review of certain decisions
+(1) The trustees of a fund or unit trust that is affected by a reviewable decision of the Commissioner of Taxation may, if dissatisfied with the decision, by notice given to the Commissioner of Taxation within the period of 21 days after the day on which the trustees of the fund or unit trust first receive notice of the decision, or within such further period as the Commissioner of Taxation allows, request the Commissioner of Taxation to reconsider the decision.
+(2) There shall be set out in the request reasons for making the request.
+(3) Upon receipt of the request, the Commissioner of Taxation shall reconsider the decision and may, subject to subsection (4), confirm or revoke the decision or vary the decision in such manner as the Commissioner of Taxation thinks fit.
+(4) Where the Commissioner of Taxation does not confirm, revoke or vary a decision before the expiration of the period of 21 days after the day on which the Commissioner of Taxation received the request under subsection (1) to reconsider the decision, the Commissioner of Taxation shall, upon the expiration of that period, be deemed to have confirmed the decision under subsection (3).
+(5) Where the Commissioner of Taxation confirms, revokes or varies a decision before the expiration of the period referred to in subsection (4), the Commissioner of Taxation shall, by notice served on the applicant, inform the applicant of the result of the reconsideration of the decision and the reasons for confirming, varying or revoking the decision, as the case may be.
+(6) Applications may be made to the Administrative Review Tribunal for review of decisions of the Commissioner of Taxation that have been confirmed or varied under subsection (3).
+(8) If a request is made under subsection (1) in respect of a reviewable decision, section 32 (reviewable decision continues to operate unless Tribunal orders otherwise) of the Administrative Review Tribunal Act 2024 applies as if the making of the request were the making of an application to the Tribunal for a review of that decision.
+(9) An order must not be made under subsection 32(2) of the Administrative Review Tribunal Act 2024 in respect of a reviewable decision except by the Administrative Review Tribunal.
+(10) Despite section 69 (hearings to be in public unless practice directions or Tribunal order requires otherwise) of the Administrative Review Tribunal Act 2024 , the hearing of a proceeding relating to a reviewable decision before the Administrative Review Tribunal is to be in private if the party who made the application requests that it be in private.
+
+17 Statements to accompany notification of decisions
+(1) Where notice in writing is given to the trustees of a fund or unit trust affected by a reviewable decision that the reviewable decision has been made, that notice shall include a statement to the effect that:
+(a) the trustees may, if dissatisfied with the decision, seek a reconsideration of the decision by the Commissioner of Taxation in accordance with subsection 16(1); and
+(b) the trustees may, subject to the Administrative Review Tribunal Act 2024 , if dissatisfied with a decision made by the Commissioner of Taxation upon that reconsideration confirming or varying the first ‑ mentioned decision, make application to the Administrative Review Tribunal for review of the decision so confirmed or varied.
+(2) Where the Commissioner of Taxation confirms or varies a reviewable decision under subsection 16(3) and gives to the trustees of a fund or unit trust notice in writing of the confirmation or variation of the decision, that notice shall include a statement to the effect that the trustees or the person may, subject to the Administrative Review Tribunal Act 2024 , if dissatisfied with the decision so confirmed or varied, make application to the Administrative Review Tribunal for review of the decision.
+(3) Any failure to comply with the requirements of subsections (1) and (2) in relation to a reviewable decision or a decision under subsection 16(3) does not affect the validity of that decision.
+
+22 Regulations
+(1) The Governor ‑ General may make regulations, not inconsistent with this Act, prescribing matters:
+(a) required or permitted by this Act to be prescribed; or
+(b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;
+and, in particular:
+(e) providing for exemptions from levy and for remissions of levy; and
+(f) providing for the manner of payment for levy and other amounts payable to the Commonwealth under this Act; and
+(g) providing for the refund (or other application) of overpayments.

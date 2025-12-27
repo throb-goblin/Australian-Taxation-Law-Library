@@ -1,0 +1,29 @@
+library_id: 200000019
+citation: A New Tax System (Wine Equalisation Tax Imposition—Excise) Act 1999
+type: primary_legislation
+version_id: sha256:2d4f392d605a04fd74930777cf2da796bc8712d4a89b697627403763e9473368
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A00455/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the A New Tax System (Wine Equalisation Tax Imposition—Excise) Act 1999 .
+
+2 Commencement
+This Act commences on 1 July 2000.
+
+3 Imposition
+(1) The tax that is payable under the wine tax law (within the meaning of the A New Tax System (Wine Equalisation Tax) Act 1999 ) is imposed by this section under the name of wine equalisation tax ( wine tax ).
+(2) This section imposes wine tax only so far as that tax is a duty of excise within the meaning of section 55 of the Constitution.
+
+4 Rate
+The rate of wine tax payable under the A New Tax System (Wine Equalisation Tax) Act 1999 is 29%.
+
+5 Act does not impose a tax on property of a State
+(1) This Act does not impose a tax on property of any kind belonging to a State.
+(2) Property of any kind belonging to a State has the same meaning as in section 114 of the Constitution.
+[ Minister’s second reading speech made in—
+House of Representatives on 24 March 1999
+Senate on 31 March 1999 ]
+(44/99)

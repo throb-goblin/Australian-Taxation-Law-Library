@@ -1,0 +1,7 @@
+# Optional extras
+#
+# Inscriptis provides higher-quality HTML-to-text with better preservation of
+# spacing/indentation/tables, but it depends on `lxml`.
+# On Windows with very new Python versions (e.g. 3.14), `lxml` wheels may not yet
+# be available, and installing it can require Microsoft C++ Build Tools.
+inscriptis>=2.5

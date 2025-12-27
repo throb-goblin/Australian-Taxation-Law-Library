@@ -1,0 +1,28 @@
+library_id: 200000034
+citation: Family Trust Distribution Tax (Primary Liability) Act 1998
+type: primary_legislation
+version_id: sha256:3bb0205101622f44302e1d72b083314013bb501dae381471646b9178b076dca0
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C2004A05323/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the Family Trust Distribution Tax (Primary Liability) Act 1998.
+
+2 Commencement
+This Act commences on the day on which it receives the Royal Assent.
+
+3 Imposition of tax
+Tax payable under section 271 ‑ 15, 271 ‑ 20, 271 ‑ 25, 271 ‑ 30 or 271 ‑ 55 in Schedule 2F to the Income Tax Assessment Act 1936 on the amount or value of income or capital is imposed.
+
+4 Amount of tax
+The amount of the tax imposed by this Act is 47% of the amount or value of the income or capital.
+
+5 Temporary budget repair levy
+(1) This section applies:
+(a) in relation to tax payable under section 271 ‑ 55 in Schedule 2F to the Income Tax Assessment Act 1936 —to notices mentioned in that section that are given by the Commissioner in a temporary budget repair levy year; or
+(b) otherwise—to present entitlements conferred, or distributions made, in a temporary budget repair levy year.
+(2) Increase the amount of the percentage mentioned in section 4 by 2 percentage points.
+(3) In this section:
+temporary budget repair levy year has the same meaning as in section 4 ‑ 11 of the Income Tax (Transitional Provisions) Act 1997 .

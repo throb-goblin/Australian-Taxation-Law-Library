@@ -1,0 +1,700 @@
+library_id: 500000004
+citation: Partnership Act 1891
+type: primary_legislation
+version_id: sha256:17771b7389f150fc0011b40bafc418186a7d315007685bbd27b58db3359d0679
+jurisdiction: queensland
+url: https://www.legislation.qld.gov.au/view/html/inforce/current/act-1891-007
+content_format: xml
+source: sha256
+
+Chapter 1 Preliminary
+
+Part 1 Citation
+
+1. Short title
+This Act may be cited as the Partnership Act 1891.
+
+2. Notes in text
+A note in the text of this Act is part of the Act.
+
+Part 2 Interpretation
+
+3. Definitions
+The dictionary in the schedule defines particular words used in this Act.
+
+4. Meaning of firm and firm-name
+(1) Persons who have entered into partnership with one another are for the purposes of this Act called collectively a firm, and the name under which their business is carried on is called the firm-name.
+(2) However, in relation to an incorporated limited partnership, the firm-name of the incorporated limited partnership is the name of the incorporated limited partnership recorded in the register.
+(3) In this Act, a reference, in relation to an incorporated limited partnership, to the incorporated limited partnership or the firm is a reference to the incorporated limited partnership as a separate legal entity and not to the partners in that partnership.
+
+5. Meaning of partnership
+(1) Partnership is the relation which subsists between persons carrying on a business in common with a view of profit.
+(1A) Partnership includes an incorporated limited partnership.
+(2) However, the relation between members of any company or association that is—
+(2) is not a partnership within the meaning of this Act.
+
+Part 3 Application
+
+5A. Application of laws of partnership to limited partnerships and incorporated limited partnerships
+(1) Chapter 2 applies to limited partnerships, subject to chapter 3.
+(2) Except as provided (whether expressly or by necessary implication) by this Act or any other Act, the law relating to partnership does not apply in relation to—
+
+Chapter 2 Partnerships generally
+
+Part 1 Nature of partnership
+
+6. Rules for deciding existence of partnership
+(1) In deciding whether a partnership does or does not exist, regard must be had to the following rules—
+(2) A contract mentioned in subsection (1)(c)(iv) must be in writing and signed by or on behalf of all the parties to the contract.
+(3) This section does not apply in relation to an incorporated limited partnership.
+
+7. Postponement of rights of person lending or selling in consideration of share of profits in case of insolvency
+In the event of any person to whom money has been advanced by way of loan upon such a contract as is mentioned in section 6, or of any buyer of a goodwill in consideration of a share of the profits of the business, being adjudicated insolvent, entering into an arrangement to pay the person’s creditors less than 100 cents in the dollar, or dying in insolvent circumstances, the lender of the loan is not entitled to recover anything in relation to the person’s loan, and the seller of the goodwill is not entitled to recover anything in relation to the share of profits contracted for, until the claims of the other creditors of the borrower or buyer for valuable consideration in money or money’s worth have been satisfied.
+
+Part 2 Relations of partners to persons dealing with them
+
+8. Power of partner to bind the firm
+(1) Every partner in a partnership, other than a firm that is a limited partnership or incorporated limited partnership, is an agent of the firm and his or her other partners for the purpose of the business of the partnership, and the acts of every partner who does any act for carrying on in the usual way of business of the kind carried on by the firm of which the partner is a member bind the firm and his or her partners, unless—
+(2) Every general partner in a limited partnership or incorporated limited partnership is an agent of the partnership and of the other general partners for the purpose of the business of the partnership, and the acts of every general partner who does any act for carrying on in the usual way business of the kind carried on by the partnership of which the partner is a member bind the partnership and the other general partners unless—
+
+9. Partners bound by acts on behalf of firm
+(1) An act or instrument relating to the business of a firm, other than an incorporated limited partnership, and done or executed in the firm-name, or in any other manner showing an intention to bind the firm, by any person authorised to bind the firm, whether a partner or not, is binding on the firm and all the partners.
+(2) An act or instrument relating to the business of a firm that is an incorporated limited partnership, and done or executed in the firm-name, or in any other manner, showing an intention to bind the firm by any person authorised to bind the firm, whether a general partner or not, is (subject to section 12(3)) binding on the firm and all the general partners.
+(3) This section does not affect any general rule of law relating to the execution of deeds or negotiable instruments.
+
+10. Partner using credit of firm for private purposes
+(1) If one partner pledges the credit of a firm, other than an incorporated limited partnership, for a purpose apparently not connected with the firm’s ordinary course of business, the firm is not bound, unless the partner is in fact specially authorised by the other partners.
+(2) If a general partner pledges the credit of a firm that is an incorporated limited partnership for a purpose apparently not connected with the firm’s ordinary course of business, the firm is not bound unless the general partner is in fact specially authorised by the firm.
+(3) This section does not affect any personal liability incurred by an individual general partner.
+
+11. Effect of notice that firm will not be bound by acts of partner
+(1) If it has been agreed between partners that any restriction is to be placed on the power of any 1 or more of them to bind a firm, other than a firm that is an incorporated limited partnership, no act done in contravention of the agreement is binding on the firm in relation to persons having notice of the agreement.
+(2) If it has been agreed by the partners in an incorporated limited partnership that any restrictions are to be placed on the power (if any) of any one or more of them to bind the firm, no act done in contravention of the agreement is binding on the firm in relation to persons having notice of the agreement.
+
+12. Liability of partners
+(1) Every partner in a firm, other than an incorporated limited partnership, is liable jointly with the other partners for all debts and obligations of the firm incurred while a partner, and, if the partner is an individual, after the partner’s death the partner’s estate is also severally liable in a due course of administration for those debts and obligations, so far as they remain unsatisfied, but subject to the prior payment of the partner’s separate debts.
+(2) Every general partner in an incorporated limited partnership is liable jointly with the incorporated limited partnership for all debts and obligations of the partnership incurred while the general partner is a general partner, and, if the general partner is an individual, after the general partner’s death the general partner’s estate is also severally liable in a due course of administration for those debts or obligations so far as they remain unsatisfied but subject to the prior payment of the partner’s separate debts.
+(3) Despite subsection (2), a general partner in an incorporated limited partnership is only liable for any debts or obligations of the incorporated limited partnership—
+
+13. Liability of the firm for wrongs
+(1) Subject to subsection (2), if, by any wrongful act or omission of any partner in a firm, other than an incorporated limited partnership, acting in the ordinary course of the business of the firm, or with the authority of his or her copartners, loss or injury is caused to any person not being a partner in the firm, or any penalty is incurred, the firm is liable for the loss, injury or penalty to the same extent as the partner so acting or omitting to act.
+(2) For subsection (1), a partner in a firm, other than an incorporated limited partnership, who commits a wrongful act or omission as a director of a body corporate under the Corporations Act is not to be taken to be acting in the ordinary course of the business of the firm or with the authority of the partner’s copartners only because of any 1 or more of the following—
+(3) Subject to subsection (4), if by any wrongful act or omission of any general partner in an incorporated limited partnership acting in the ordinary course of the business of the incorporated limited partnership, or with its authority, loss or injury is caused to any person not being a partner in the incorporated limited partnership, or any penalty is incurred, the incorporated limited partnership is liable for the loss or injury or penalty to the same extent as the general partner so acting or omitting to act.
+(4) For subsection (3), a general partner in an incorporated limited partnership who commits a wrongful act or omission as a director of a body corporate under the Corporations Act is not to be taken to be acting in the ordinary course of business of the incorporated limited partnership or with its authority only because of any 1 or more of the following—
+
+14. Misapplication of money or property received for or in custody of the firm
+(1) In each of the following cases involving the partners of a firm, other than an incorporated limited partnership, the firm is liable to make good the loss mentioned in the case—
+(2) In each of the following cases involving general partners in an incorporated limited partnership, the incorporated limited partnership is liable to make good the loss mentioned in the case—
+
+15. Liability for wrongs joint and several
+(1) Every partner in a firm, other than an incorporated limited partnership, is liable jointly with the partner’s copartners and also severally for everything for which the firm, while he or she is a partner in the firm, becomes liable under either section 13 or 14.
+(2) Every general partner in an incorporated limited partnership is liable jointly with the other general partners in the incorporated limited partnership and also severally for everything for which the incorporated limited partnership, while the general partner is a general partner in the incorporated limited partnership, becomes liable under section 13(3) or 14(2).
+(3) Despite subsection (2), a general partner in an incorporated limited partnership is only liable for any liability of the incorporated limited partnership referred to in the subsection—
+
+16. Improper employment of trust property for partnership purposes
+(1) If a partner in a firm, other than an incorporated limited partnership, being a trustee, improperly employs trust property in the business or on the account of the partnership, no other partner is liable for the trust property to the persons beneficially interested in it.
+(2) However—
+(3) If a general partner in an incorporated limited partnership, being a trustee, improperly employs trust property in the business or on the account of the partnership, neither the partnership nor any other partner is liable for the trust property to the persons beneficially interested in it.
+(4) However—
+
+17. Persons liable by ‘holding out’
+(1) Everyone who by words spoken or written or by conduct represents himself or herself, or who knowingly suffers himself or herself to be represented, as a partner in a particular firm that is a firm other than a limited partnership or incorporated limited partnership, is liable as a partner to any one who has on the faith of the representation given credit to the firm, whether the representation has or has not been made or communicated to the person so giving credit by or with the knowledge of the apparent partner making the representation or suffering it to be made.
+(2) Everyone who by words spoken or written or by conduct represents himself or herself, or who knowingly suffers himself or herself to be represented, as a general partner in a particular firm that is a limited partnership or an incorporated limited partnership is liable as a general partner to anyone who has on the faith of the representation given credit to the firm, whether the representation has or has not been made or communicated to the person so giving credit by or with the knowledge of the apparent general partner making the representation or suffering it to be made.
+(3) If after a partner’s death the partnership business is continued in the old firm-name, the continued use of that name or of the deceased partner’s name as part of that name does not of itself make the deceased partner’s executors or administrators estate or effects liable under subsection (1) or (2) for any partnership debts contracted after the partner’s death.
+
+18. Admissions and representations of partners
+(1) An admission or representation made by any partner in a firm other than a limited partnership or incorporated limited partnership concerning the partnership affairs, and in the ordinary course of its business, is evidence against the firm.
+(2) An admission or representation made by any general partner in a limited partnership or incorporated limited partnership concerning the partnership affairs, and in the ordinary course of its business, is evidence against the firm.
+
+19. Notice to acting partner to be notice to the firm
+(1) Notice to any partner in a firm, other than a limited partnership or incorporated limited partnership, who habitually acts in the partnership business of any matter relating to partnership affairs operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.
+(2) Notice to any general partner in a limited partnership or incorporated limited partnership who habitually acts in the partnership business of any matter relating to partnership affairs operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner.
+
+20. Liabilities of incoming and outgoing partners
+(1) A person who is admitted as a partner into an existing firm, other than a limited partnership or incorporated limited partnership, does not by that admission alone become liable for anything done before the person became a partner.
+(2) A person who is admitted as a general partner into an existing limited partnership or incorporated limited partnership does not by that admission alone become liable for anything done before the person became a general partner.
+(3) A partner who retires from a firm, other than a limited partnership or incorporated limited partnership, does not by that retirement alone cease to be liable for partnership debts and obligations incurred before the partner’s retirement.
+(4) A partner who retires from a limited partnership or incorporated limited partnership does not by that retirement alone cease to be liable for liabilities of the firm incurred before the partner’s retirement for which the partner was liable.
+(5) A retiring partner in a firm, other than a limited partnership or incorporated limited partnership, may be discharged from any existing liabilities by an agreement to that effect between the partner and the members of the firm as newly constituted and the creditors, and this agreement may be either expressed or inferred as a fact from the course of dealing between the creditors and the firm as newly constituted.
+(6) A retiring partner in a limited partnership or incorporated limited partnership may be discharged from any existing liabilities by an agreement to that effect between the partner and the firm and the creditors, and this agreement may be either expressed or inferred as a fact from the course of dealing between the creditors and the firm.
+
+21. Revocation of continuing guaranty by change in firm
+(1) A continuing guaranty given either to a firm or to a third person in relation to the transactions of a firm is, in the absence of agreement to the contrary, revoked as to future transactions by any change in the constitution of the firm to which, or of the firm in relation to the transactions of which, the guaranty was given.
+(2) This section does not apply in relation to an incorporated limited partnership.
+
+Part 3 Relations of partners to one another
+
+22. Variation by consent of terms of partnership
+The mutual rights and duties of partners, whether ascertained by agreement or defined by this Act, may be varied by the consent of all the partners, and that consent may be either express or inferred from a course of dealing.
+
+23. Partnership property of firms other than incorporated limited partnerships
+(1) All property and rights and interests in property originally brought into the partnership stock or acquired, whether by purchase or otherwise, on account of the firm, or for the purposes and in the course of the partnership business (partnership property) must be held and applied by the partners exclusively for the purposes of the partnership and in accordance with the partnership agreement.
+(2) However, the legal estate or interest in any land which belongs to the partnership is to devolve according to the nature and tenure of the estate or interest, and the general rules of law applying to the estate or interest, but in trust, so far as necessary, for the persons beneficially interested in the land under this section.
+(3) If co-owners of an estate or interest in any land not being itself partnership property are partners as to profits made by the use of that land, and purchase other land out of the profits to be used in like manner, the land so purchased belongs to them, in the absence of an agreement to the contrary, not as partners, but as co-owners for the same respective estates and interests as are held by them in the land first mentioned at the date of the purchase.
+(4) This section does not apply in relation to an incorporated limited partnership.
+
+23A. Partnership property of incorporated limited partnership
+(1) All property, and rights and interests in property, acquired, whether by purchase or otherwise, on account of an incorporated limited partnership, or for the purposes and in the course of the business of the partnership, are called in this Act partnership property, and must be applied by the partnership exclusively for the purposes of the partnership.
+(2) No partner in an incorporated limited partnership, only because of being a partner in the partnership, has any legal or beneficial interest in its partnership property.
+
+24. Property bought with partnership money
+Unless the contrary intention appears, property bought with money belonging to the firm is deemed to have been bought on account of the firm.
+
+25. Conversion into personal estate of land held as partnership property
+(1) If land has become partnership property, unless the contrary intention appears, it is to be treated as between the partners (including the representatives of a deceased partner), and also as between the representatives of a deceased partner, as personal and not real estate.
+(2) This section does not apply in relation to an incorporated limited partnership.
+
+26. Procedure against partnership property for a partner’s separate judgment debt
+(1) An enforcement warrant can not issue against any partnership property except on a judgment against the firm.
+(2) The court may, on the application of any judgment creditor of a partner, make an order charging that partner’s interest in the partnership property and profits with payment of the amount of the judgment debt and interest on the judgment debt, and may by the same or a subsequent order appoint a receiver of that partner’s share of profits (whether already declared or accruing), and of any other money which may be coming to the partner in relation to the partnership, and direct all accounts and inquiries, and give all other orders and directions which might have been directed or given if the charge had been made in favour of the judgment creditor by the partner, or which the circumstances of the case may require.
+(3) The other partner or partners are at liberty at any time to redeem the interest charged, or in case of a sale being directed, to purchase the same.
+(4) Subsections (2) and (3) do not apply in relation to an incorporated limited partnership.
+
+27. Rules as to interests and duties of partners subject to special agreement
+(1) The interests of partners in the partnership property and their rights and duties in relation to the partnership must be decided, subject to any agreement express or implied between the partners, by the following rules—
+(2) This section does not apply in relation to an incorporated limited partnership.
+
+28. Expulsion of partner
+A majority of the partners can not expel a partner unless a power to do so has been conferred by express agreement between the partners.
+
+29. Retirement from partnership at will
+(1) If no fixed term has been agreed upon for the duration of the partnership, any partner may determine the partnership at any time on giving notice of the partner’s intention so to do to all the other partners.
+(2) If the partnership has originally been constituted by deed, a notice in writing, signed by the partner giving it, is sufficient for this purpose.
+(3) This section does not apply in relation to an incorporated limited partnership.
+
+30. If partnership for term is continued over, continuance on old terms presumed
+(1) If a partnership entered into for a fixed term is continued after the term has expired, and without any express new agreement, the rights and duties of the partners remain the same as they were at the expiration of the term, so far as is consistent with the incidents of a partnership at will.
+(2) A continuance of the business by the partners or those of them who habitually acted in the business during the term, without any settlement or liquidation of the partnership affairs, is presumed to be a continuance of the partnership.
+(3) This section does not apply in relation to an incorporated limited partnership.
+
+31. Duty of partners to render accounts etc.
+(1) Partners in a firm, other than an incorporated limited partnership, are bound to render true accounts and full information of all things affecting the partnership to any partner or his or her legal representatives.
+(2) An incorporated limited partnership is, subject to the partnership agreement, bound to render true accounts and full information of all things affecting the partnership to any partner or the partner’s legal representatives.
+
+32. Accountability of partners for private profits
+(1) Every partner must account to the firm for any benefit derived by the partner without the consent of the other partners from any transaction concerning the partnership, or from any use by the partner of the partnership property name or business connection.
+(2) This section applies also to transactions undertaken after a partnership has been dissolved by the death of a partner, and before the affairs of the partnership have been completely wound up, either by any surviving partner or by the representatives of the deceased partner.
+(3) This section does not apply in relation to an incorporated limited partnership.
+
+33. Duty of partner not to compete with firm
+(1) If a partner, without the consent of the other partners, carries on any business of the same nature as and competing with that of the firm, the partner must account for and pay over to the firm all profits made by him or her in that business.
+(2) This section does not apply in relation to an incorporated limited partnership.
+
+34. Rights of assignee of share in partnership
+(1) An assignment by any partner of his or her share in the partnership, either absolute or by way of mortgage or redeemable charge, does not, as against the other partners, entitle the assignee, during the continuance of the partnership, to interfere in the management or administration of the partnership business or affairs, or to require any accounts of the partnership transactions, or to inspect the partnership books, but entitles the assignee only to receive the share of profits to which the assigning partner would otherwise be entitled, and the assignee must, except in case of fraud, accept the account of profits agreed to by the partners.
+(2) In case of a dissolution of the partnership, whether in relation to all the partners or in relation to the assigning partner, the assignee is entitled to receive the share of the partnership assets to which the assigning partner is entitled as between the assigning partner and the other partners, and, for the purpose of ascertaining that share, to an account as from the date of the dissolution.
+(3) This section does not apply in relation to an incorporated limited partnership.
+
+Part 4 Dissolution of partnership and its consequences
+
+34A. Part does not apply to incorporated limited partnerships
+This part does not apply in relation to an incorporated limited partnership.
+
+35. Dissolution by expiration or notice
+(1) Subject to any agreement between the partners, a partnership is dissolved—
+(2) In the last mentioned case the partnership is dissolved as from the date mentioned in the notice as the date of dissolution, or, if no date is so mentioned, as from the date of the communication of the notice.
+
+36. Dissolution by insolvency, death, or charge
+(1) Subject to any agreement between the partners, every partnership is dissolved as regards all the partners by the death or insolvency of any partner.
+(2) A partnership may, at the option of the other partners, be dissolved if any partner suffers his or her share of the partnership property to be charged under this Act for the partner’s separate debt.
+
+37. Dissolution by illegality of partnership
+A partnership is in every case dissolved by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the members of the firm to carry it on in partnership.
+
+38. Dissolution by the court
+On application by a partner the court may decree a dissolution of the partnership in any of the following cases—
+
+39. Rights of persons dealing with firm against apparent members of firm
+(1) If a person deals with a firm after a change in its constitution the person is entitled to treat all apparent members of the old firm as still being members of the firm until the person has notice of the change.
+(2) An advertisement in the gazette is notice to persons who have not had dealings with the firm before the date of the dissolution or change so advertised.
+(3) The estate of a partner who dies or who becomes insolvent, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable for partnership debts contracted after the date of the death, insolvency, or retirement respectively.
+
+40. Right of partners to notify dissolution
+On the dissolution of a partnership or retirement of a partner any partner may publicly notify the same, and may require the other partner or partners to concur for that purpose in all necessary or proper acts (if any) which can not be done without his, her or their concurrence.
+
+41. Continuing authority of partners for purposes of winding up
+(1) After the dissolution of a partnership the authority of each partner to bind the firm, and the other rights and obligations of the partners, continue notwithstanding the dissolution so far as may be necessary to wind up the affairs of the partnership, and to complete transactions begun but unfinished at the time of the dissolution, but not otherwise.
+(2) However, the firm is in no case bound by the acts of a partner who has become insolvent, but this subsection does not affect the liability of any person who has after the insolvency represented himself or herself or knowingly suffered himself or herself to be represented as a partner of the insolvent.
+
+42. Rights of partners as to application of partnership property
+On the dissolution of a partnership every partner is entitled, as against the other partners in the firm, and all persons claiming through them in relation to their interests as partners, to have the property of the partnership applied in payment of the debts and liabilities of the firm, and to have the surplus assets after that payment applied in payment of what may be due to the partners respectively after deducting what may be due from them as partners to the firm, and for that purpose any partner or his or her representatives may on the termination of the partnership apply to the court to wind up the business and affairs of the firm.
+
+43. Apportionment of premium if partnership prematurely dissolved
+If one partner has paid a premium to another on entering into a partnership for a fixed term, and the partnership is dissolved before the expiration of that term otherwise than by the death of a partner, the court may order that repayment of the premium, or of such part of the premium as it thinks just, having regard to the terms of the partnership contract and to the length of time during which the partnership has continued, unless—
+
+44. Rights if partnership dissolved for fraud or misrepresentation
+If a partnership contract is rescinded on the ground of the fraud or misrepresentation of one of the parties to the partnership contract, the party entitled to rescind is, without prejudice to any other right, entitled—
+
+45. Right of outgoing partner in certain cases to share profits made after dissolution
+(1) If any member of a firm has died or otherwise ceased to be a partner, and the surviving or continuing partners carry on the business of the firm with its capital or assets without any final settlement of accounts as between the firm and the outgoing partner or the partner’s estate, then, in the absence of any agreement to the contrary, the outgoing partner or the partner’s estate is entitled at the option of the partner or the partner’s representatives to such share of the profits made since the dissolution as the court may find to be attributable to the use of the partner’s share of the partnership assets, or to interest at the rate of 5% per annum on the amount of the partner’s share of the partnership assets.
+(2) However, if by the partnership contract an option is given to surviving or continuing partners to purchase the interest of a deceased or outgoing partner, and that option is duly exercised, the estate of the deceased partner, or the outgoing partner or the partner’s estate, as the case may be, is not entitled to any further or other share of profits, but if any partner assuming to act in exercise of the option does not in all material respects comply with the terms of the option, the partner is liable to account under subsection (1).
+
+46. Retiring or deceased partner’s share to be a debt
+Subject to any agreement between the partners, the amount due from surviving or continuing partners to an outgoing partner or the representatives of a deceased partner in relation to the outgoing or deceased partner’s share is a debt accruing at the date of the dissolution or death.
+
+47. Rule for distribution of assets on final settlement of accounts
+In settling accounts between the partners after a dissolution of partnership, the following rules are, subject to any agreement, to be observed—
+
+Chapter 3 Limited partnerships
+
+Part 1 Preliminary
+
+48. Definitions for ch 3
+In this chapter—
+
+Part 2 Formation and maintenance of limited partnerships
+
+49. What is a limited partnership
+(1) A limited partnership is a partnership, other than an incorporated limited partnership—
+(2) A corporate person may be a general partner or a limited partner in a limited partnership.
+
+50. How formed
+(1) A limited partnership is formed upon registration in the office of the chief executive of a statement in the approved form signed by each person who is to be a partner in the partnership and payment to the chief executive of the prescribed fee.
+(2) A statement referred to in subsection (1) must contain the following particulars—
+(3) A reference in subsection (2) to the address of a partner means—
+
+51. Register—proof of registration
+(1) The chief executive must keep a register of all limited partnerships.
+(2) The register may be kept in any form the chief executive considers appropriate that allows it to be inspected at an office of a department at Brisbane during normal office hours.
+(3) The chief executive must, upon registration of a statement referred to in section 50, and may, afterwards, issue a certificate in the approved form as to the formation and composition at any time of the limited partnership to which the statement relates.
+(4) A certificate issued under subsection (3)—
+
+52. Registration of changes in limited partnership
+(1) Upon receipt by the chief executive of a notice of change in the approved form and payment of the prescribed fee the chief executive must record in the register for the limited partnership concerned a change—
+(2) If a result of a change notified to the chief executive would be that the partnership concerned would be so constituted as not to be capable of being a limited partnership, the chief executive must not record the change in the register, despite subsection (1).
+(3) A notice referred to in subsection (1) must be signed and given—
+(4) A notice under subsection (1) that relates to the admission of a limited partner to the partnership must contain a statement to the effect that the person admitted is a limited partner whose liability to contribute is limited to the extent of an amount of money stated in the statement.
+(5) Despite the happening of any change in relation to a limited partnership that the chief executive may record in the register (upon notice of the change) under subsection (1)—
+(6) If a change of which notice may be given under subsection (1) involves the admission of a limited partner to a partnership or an alteration to the extent to which a partner in the partnership is liable to contribute, being a change arising from agreement between the partners, the change can not take effect until notice of the change has been given under subsection (1) to the chief executive and the chief executive has recorded the change in the register.
+(7) Despite the departure of a person as a partner from a limited partnership the partner and the partner’s estate are liable as if that departure had not happened for liabilities incurred by the partnership after the partner’s departure unless and until notice of the departure has been given to the chief executive under subsection (1) for recording in the register.
+(7A) Subsection (7) does not apply in relation to liabilities incurred in dealings with a person who has notice of the departure.
+(8) Subject to the terms of any agreement between the partners in a limited partnership, the general partners in the partnership are authorised to give any notice under this section on behalf of all the partners.
+
+Part 3 Modification of general law of partnership
+
+53. Liability of limited partner
+(1) A limited partner in a limited partnership is liable to contribute towards the liabilities of the firm but so as not to exceed the amount shown in relation to that limited partner in the register as the extent to which that limited partner is liable to contribute or the part of that amount that remains unpaid.
+(2) Subject to subsection (1), the liability of a limited partner in a limited partnership to contribute is that of a partner in a partnership that is not a limited partnership.
+
+54. Liability for limited partnerships formed under corresponding laws
+(1) In this section—
+(2) A limitation under a corresponding law on the liability of a limited partner in a recognised limited partnership extends to any liability incurred in connection with the conduct of the partnership’s business in this State.
+(3) The law of another State or a Territory may be declared to be a corresponding law only if the Governor in Council is satisfied—
+(4) The law of a foreign country may be declared to be a corresponding law only if the Governor in Council is satisfied that the law provides for the limitation of liability for partners or certain partners in certain partnerships.
+
+55. Provisions concerning limited partner’s contribution
+(1) Any contribution made by a limited partner in a limited partnership towards the discharge of liabilities of the firm must be in the form of money only.
+(1A) Any contribution made by a limited partner in a limited partnership towards the discharge of liabilities of the firm made otherwise than in money must not be taken to reduce the limited partner’s liability under section 53(1).
+(2) If a limited partner in a limited partnership has paid contribution, whether or not towards the discharge of liabilities of the firm, and has drawn out or received back any part of the amount of the contribution, the amount so drawn out or received must be treated as part of the amount referred to in section 53(1) remaining unpaid.
+
+56. Use of descriptive words in name
+(1) Every business document issued on behalf of a limited partnership in connection with the conduct of its business must bear in legible characters—
+(2) In subsection (1)—
+
+57. Liability for contravention of s 56
+(1) A person who issues a document to which section 56 applies that does not bear the name and words required by the section commits an offence against this Act.
+(2) A partner in a limited partnership who acquiesces in the issue of a document to which section 56 applies knowing that the document does not bear the name and words required by the section is to be taken to have issued the document.
+(3) If a document to which section 56 applies issued in contravention of the section bears on its face any indication that it has been approved by or issued under the authority of any person, that person is to be taken to have issued the document unless the contrary is proved.
+
+58. Recovery of loss because breach of s 56
+If any person suffers loss because a document to which section 56 applies issued on behalf of a limited partnership did not bear the name or the words required by the section, the limited partnership and every person who committed an offence defined in section 57(1) in relation to the document are jointly and severally liable to recompense that first person for the loss suffered, which recompense may be recovered by action in the court as for a debt due and owing.
+
+59. Registered office
+(1) A limited partnership must keep in Queensland at the place shown in the register as the address of the registered office of the partnership an office to which all communications with the firm may be addressed.
+(2) In the event of default in complying with subsection (1), each general partner in the limited partnership concerned commits an offence against this Act.
+
+60. Incidents of limited partnerships
+(1) A limited partner in a limited partnership—
+(2) However, the limited partner may, personally or by an agent, at any time inspect the books of the firm and examine the state and prospects of the business of the partnership, and may advise and consult with the other partners on those matters.
+(3) A limited partner must not be regarded as taking part in the management of the business of the limited partnership only because the limited partner—
+(4) If a limited partner takes part in the management of the business of the limited partnership in breach of subsection (1), the limited partner is liable for all liabilities of the firm incurred while the limited partner does so as if the limited partner were a general partner.
+(5) Subject to the terms of any agreement between the partners in a limited partnership—
+
+Part 4 Dissolution and cessation of limited partnerships
+
+61. Dissolution not available in certain cases
+(1) Subject to the terms of any agreement between the partners in a limited partnership—
+(2) The fact that a limited partner in a limited partnership is of permanently unsound mind is not a ground for dissolution of the partnership by the court unless the share and interest of the partner in the partnership can not be otherwise ascertained or realised.
+
+62. Cessation of limited partnerships
+A partnership is to cease to be a limited partnership if the partners agree that they are to carry on the business of the firm otherwise than as a limited partnership.
+
+63. Registration of dissolution or cessation of limited partnerships
+(1) Upon receipt by the chief executive of a notice in the approved form—
+(1) and, upon payment of the prescribed fee, the chief executive must record in the register the fact of the dissolution or cessation effective on a date stated in the register in that behalf.
+(2) The date to be stated in the register under subsection (1) must be the date shown in the notice to the chief executive as the date on which the dissolution or cessation took effect or is to take effect or, if no date is shown, the date on which the record is made in the register under subsection (1).
+
+64. Winding up by general partners
+If the affairs of a limited partnership are to be wound up by the partners with a view to its dissolution, the winding up must be carried out by the general partners unless the court otherwise orders.
+
+Part 5 Miscellaneous provisions
+
+65. Legal proceedings
+Action by way of execution under or enforcement of a judgment obtained in an action against a limited partnership sued in its firm-name must not be taken against the property or person of a limited partner in the partnership except with the prior leave of the Supreme Court.
+
+66. Duty to notify chief executive of changes
+(1) In the event of—
+(1) each of the general partners at the time the event happens commits an offence against this Act if notice of the event is not given in the approved form to the chief executive under section 52 or 63 before the expiration of 7 days from the happening of the event.
+(2) An offence against subsection (1) is to be taken to continue until the notice in question is given to the chief executive.
+(3) Proceedings for a continuing offence under this section may be taken from time to time.
+(4) A matter of complaint for a continuing offence under this section may be for 1 day or more than 1 day of its happening.
+(5) A person who commits an offence against subsection (1) is liable—
+(6) If a corporate person commits an offence against subsection (1), each director or member of the governing body of the corporate person is to be taken also to have committed the offence and is liable to be proceeded against and punished accordingly.
+
+67. Chief executive may accept and record notices given by person registered as a partner
+Upon receipt by the chief executive of a notice in writing given by a person shown on the register as a partner in a limited partnership of the happening of an event affecting the partnership, in relation to which event the chief executive may amend the register upon notice given to the chief executive under section 52 or 63, the chief executive must record in the register that the notice has been received and the tenor of the notice.
+
+68. Chief executive’s power to cancel limited partnership’s registration
+(1) This section applies if the chief executive reasonably believes that a limited partnership has ceased to exist because the partnership’s business is not being carried on in the State under the partnership’s firm-name, or by the partners, stated in the register.
+(2) The chief executive may, by written notice given to the person registered as the partnership’s general partner and to the partnership at its registered office stated in the register—
+(3) The notice must state that the chief executive may cancel the partnership’s registration unless the chief executive is satisfied, within 1 month after the date of the notice, that the partnership still exists.
+(4) The chief executive must also, by public notice, notify the chief executive’s intention to cancel the registration unless the chief executive is satisfied, by the day that is 1 month after the date of the notice mentioned in subsection (2), that the limited partnership still exists.
+(5) If the chief executive is not satisfied within 1 month after the date of the notice mentioned in subsection (2) that the partnership still exists, the chief executive may cancel the registration.
+(6) If the chief executive cancels the registration, the chief executive must give written notice of the cancellation—
+(7) In this section—
+
+69. Chief executive’s power to revoke cancellation of registration
+(1) If, for any reason, the chief executive reasonably believes it is appropriate, the chief executive may revoke the cancellation of a registration made under section 68.
+(2) If a cancellation is revoked under this section, the registration is taken not to have been cancelled.
+
+Chapter 4 Incorporated limited partnerships
+
+Part 1 Preliminary
+
+70. Definitions for ch 4
+In this chapter—
+
+Part 2 Nature and formation of incorporated limited partnerships
+
+71. Partnership is formed on registration
+An incorporated limited partnership is formed on registration under this chapter.
+
+72. Partnership is separate legal entity
+(1) An incorporated limited partnership—
+(2) An incorporated limited partnership’s common seal must be kept in the custody of a person nominated by the partnership and may be used only as authorised by the partnership.
+
+73. Partners in an incorporated limited partnership
+(1) An incorporated limited partnership must have—
+(2) Any of the following may be a general partner or a limited partner—
+(3) For subsection (1)(a), if a general partner is a partnership and no partner in the partnership has, under the relevant law, limited liability, the number of partners in the partnership is to be counted.
+(4) Also for subsection (1)(a), if a general partner is a partnership and any partner in the partnership has, under the relevant law, limited liability—
+(5) In this section—
+
+74. Partnership agreement
+(1) A written partnership agreement between the partners in an incorporated limited partnership must be in force at all times.
+(2) A partnership agreement also has effect as a contract between the incorporated limited partnership and each partner under which the partnership and each partner agree to observe and perform the agreement so far as it applies to them.
+(3) Nothing in subsection (2) prevents an incorporated limited partnership itself executing a partnership agreement.
+(4) The interests of the partners in an incorporated limited partnership and their rights and duties in relation to the partnership are, subject to this Act, to be decided in accordance with the agreement.
+
+Part 3 Registration of incorporated limited partnerships
+
+75. Who may apply for registration
+(1) An application for registration as an incorporated limited partnership may be made, in the circumstances described in subsection (2), by a partnership or by persons proposing to be the partners in the proposed incorporated limited partnership.
+(2) The circumstances are—
+
+76. How is an application made
+(1) An application for registration as an incorporated limited partnership must—
+(2) Without limiting what the application may include, the application must include the following general information—
+(3) The firm-name of the partnership must include at the end as part of the firm-name 1 of the following—
+(4) Also, the application must include, or be accompanied by, the following additional information—
+
+77. Registration of incorporated limited partnership
+(1) If an application for registration of an incorporated limited partnership has been made under section 76, the chief executive may register the incorporated limited partnership.
+(2) If the chief executive registers an incorporated limited partnership—
+(3) An incorporated limited partnership must have as part of its firm-name the words ‘An incorporated limited partnership’ or ‘L.P.’ or ‘LP’, as recorded in the register, at the end of its firm-name.
+(4) However, the chief executive must not record in the register, as the firm-name of an incorporated limited partnership, a name that would not be available to the incorporated limited partnership for registration under the Business Names Registration Act 2011 (Cwlth).
+(5) Subject to subsection (4), registration is effected when the chief executive records in the register the details of information included in, or accompanying, the application for registration (the registered particulars) that may be prescribed under a regulation.
+
+78. Register of incorporated limited partnerships
+(1) The chief executive must keep a register of incorporated limited partnerships registered under this chapter.
+(2) The register may be kept in any form the chief executive considers appropriate and may form part of the register of limited partnerships kept under section 51.
+(3) The chief executive must make the information recorded in the register available for public inspection, on payment of the fee prescribed under a regulation, at an office of a department at Brisbane during normal office hours.
+(4) The chief executive may, on application or on the chief executive’s own initiative, correct any error or omission in the register by—
+(4) if the chief executive decides that the correction is necessary.
+(5) The chief executive must not omit an entry in the register unless satisfied that the entire entry was included in error.
+
+79. Changes in registered particulars
+(1) If any change happens in relation to the registered particulars of an incorporated limited partnership, a statement setting out the changed particulars must be given to the chief executive within 7 days after the change happens.
+(2) The statement must be signed by all the general partners, or by a general partner authorised by all the general partners for this section.
+(3) The statement must—
+(4) If subsection (1) is not complied with, each general partner in the incorporated limited partnership commits an offence.
+
+80. Certificates of registration etc.
+(1) The chief executive, if—
+(1) must issue to the general partners a certificate in the approved form as to the formation and registered particulars as at that time of the incorporated limited partnership.
+(2) The chief executive may, on application accompanied by the fee prescribed under a regulation, issue to the applicant a certificate in the approved form in relation to an incorporated limited partnership as to the formation and registered particulars as at that time of the incorporated limited partnership.
+(3) A certificate under this section stating any of the following matters is evidence of the matter stated—
+
+81. Registration of firm-name under the Business Names Act 1962
+
+82. Acts preparatory to registration do not constitute partnership
+Any act done in connection with the making of an application for registration under this chapter by or for persons proposing to be the partners in a proposed incorporated limited partnership does not of itself create a partnership between the persons.
+
+Part 4 Powers of incorporated limited partnerships
+
+83. Powers of partnership
+(1) An incorporated limited partnership has the legal capacity and powers of an individual and also all the powers of a body corporate including, for example, the power, whether within or outside Queensland or outside Australia—
+(2) The powers of an incorporated limited partnership may be limited by the partnership agreement.
+(3) If a statement is made under section 76(4)(d), despite subsections (1) and (2), the incorporated limited partnership’s powers are limited to carrying on activities related to becoming registered as a VCLP, ESVCLP or AFOF until the incorporated limited partnership becomes a VCLP, ESVCLP or AFOF.
+(4) If a statement is made under section 76(4)(f), despite subsections (1) and (2), the incorporated limited partnership’s powers are limited to carrying on activities related to becoming a VCMP until the incorporated limited partnership becomes a VCMP.
+
+84. Relationship of partners to others and between themselves
+(1) Other than as provided by the partnership agreement or agreed between the partners—
+(2) A reference in subsection (1) to a general partner includes, if the general partner is a partnership, a partner in that partnership.
+(3) Nothing in subsection (1) stops the making of, or limits or restricts, an agreement between 2 partners or between a partner and the incorporated limited partnership under which—
+(4) Any consent or authority that under this Act is required or permitted to be given by a partner or 2 or more partners or all the partners may, in the case of an incorporated limited partnership, be given by that partner or those partners by or under the partnership agreement either in relation to all cases, or in relation to all cases subject to stated exceptions, or in relation to any stated case or class of case.
+(5) Subsection (4) does not limit any other way in which a consent or authority might be given.
+(6) Any consent or authority that under this Act is required or permitted to be given by an incorporated limited partnership may, without limiting any other way in which it might be given, be given by a general partner or 2 or more general partners acting under the partnership agreement.
+(7) A limited partner, as limited partner, is not a proper party to any proceeding commenced in a court or tribunal by or against the incorporated limited partnership, other than a proceeding commenced by the incorporated limited partnership against the limited partner or by the limited partner against the incorporated limited partnership.
+
+Part 5 Liability and powers of limited partners
+
+85. Definitions for pt 5
+In this part—
+
+86. Limitation of liability of limited partners
+(1) A limited partner has no liability for the liabilities of the incorporated limited partnership or of a general partner.
+(2) Nothing in subsection (1) or section 92 or 93 stops—
+(2) in satisfaction of a liability of the partnership or of a general partner.
+(3) This section is subject to section 87.
+
+87. Limited partner not to take part in the management of the incorporated limited partnership
+(1) A limited partner must not take part in the management of the business of the incorporated limited partnership.
+(2) If—
+(2) the limited partner is liable for the loss or injury to the same extent that the limited partner would have been liable if the limited partner were in fact a general partner in the partnership.
+(3) A limited partner is not to be regarded as taking part in the management of the business of the incorporated limited partnership only because the limited partner or a person acting for the limited partner—
+(4) Subject to the partnership agreement, a limited partner or a person authorised by the limited partner may at any time—
+(5) The provisions of this section may not be varied by the partnership agreement or with the consent of the partners, whether given by or under the partnership agreement or otherwise.
+(6) No implication is to be taken to arise from subsection (3) that a limited partner in an incorporated limited partnership is to be regarded as taking part in the management of the business of the partnership only because the limited partner or a person acting on behalf of the partner does any thing in connection with the conduct of that business that is not referred to in that subsection.
+(7) For the purposes of this section, a limited partner in an incorporated limited partnership that is a VCMP is not to be regarded as taking part in the management of the business of the incorporated limited partnership only because of any act the limited partner takes in relation to the incorporated limited partnership in the capacity of a partner or associate of a partner in the VCMP.
+(8) In this section, a reference to a general partner in an incorporated limited partnership includes, if the general partner is a partnership, a partner in that partnership.
+
+88. Definitions, etc. applicable to s 87
+(1) In section 87—
+(2) In this section, a reference to a general partner in an incorporated limited partnership includes, if the general partner is a partnership, a partner in that partnership.
+
+89. Differences between partners
+(1) A difference arising as to ordinary matters connected with the business of an incorporated limited partnership may be decided by a majority of the general partners.
+(2) The provision made by subsection (1) may be varied by the partnership agreement or with the consent of the partners.
+
+90. Change in partners
+(1) A limited partner may, with the consent of the general partners and the agreement of the transferee, transfer the whole or a part of the limited partner’s interest in the incorporated limited partnership.
+(2) If the limited partner’s entire interest in the incorporated limited partnership is transferred to the 1 transferee, the transferee becomes a limited partner in substitution for the transferor with all the rights and obligations of the transferor.
+(3) If only a part of the limited partner’s interest in the incorporated limited partnership is transferred to a transferee, the transferee becomes a limited partner in substitution for the transferor in relation to the transferred part and with all the rights and obligations of the transferor in relation to that part.
+(4) A person may be admitted as a partner in an incorporated limited partnership without the necessity to obtain the consent of any limited partner.
+(5) The provision made by subsections (1) to (4) may be varied by the partnership agreement or with the consent of the partners.
+
+91. Change in status of partners
+(1) If a general partner becomes a limited partner, the partner remains liable for any liability of the incorporated limited partnership that arose before the partner became a limited partner to the extent that the partnership is unable to satisfy the liability or to the greater extent provided by the partnership agreement.
+(2) If a limited partner becomes a general partner, the partner remains not liable (subject to section 87(2)) for any liability of the incorporated limited partnership that arose before the partner became a general partner.
+
+92. Liability for conduct or acts outside the State
+A limited partner in an incorporated limited partnership may only be liable for a liability incurred by the partnership as a result of—
+if the limited partner would be so liable if the conduct or acts occurred within the State.
+
+93. Recognised incorporated limited partnerships under corresponding laws
+(1) A partner in a recognised incorporated limited partnership may only be liable for a liability incurred by the partnership as a result of—
+(1) if the partner would be so liable under the corresponding law if the conduct or acts happened in the place where the recognised incorporated limited partnership was formed.
+(2) Subject to subsections (3) and (4), the Governor in Council may, by regulation, declare a law of another State or another country or jurisdiction to be a corresponding law for this chapter.
+(3) The law of another State may be declared to be a corresponding law only if the Minister is satisfied that under that law a limited partner in an incorporated limited partnership formed under this chapter and registered or otherwise recognised under that law may only be liable for a liability incurred by the partnership as a result of—
+(3) if the partner would be so liable under this chapter if the conduct or acts happened within the State.
+(4) The law of another country or jurisdiction, other than another State, may not be declared to be a corresponding law unless the Minister is satisfied that that law provides for the limitation of liability of particular partners in particular partnerships.
+(5) This section is in addition to, and does not limit, any rule of law under which recognition is or may be given to a limitation of liability of a partner in a partnership.
+(6) In this section—
+
+94. Effect of ss 92 and 93
+No implication is to be taken to arise from section 92 or 93 that a limited partner has any liability, or apart from that section would have any liability, in connection with conduct of a partnership’s business or acts outside the State that the limited partner would not have in connection with conduct or acts within the State.
+
+Part 6 Winding up of incorporated limited partnership
+
+95. Definition for pt 6
+In this part—
+
+96. Voluntary winding up
+(1) An incorporated limited partnership may be wound up voluntarily—
+(2) On a voluntary winding up of an incorporated limited partnership—
+(3) Any person aggrieved by the operation of this section in relation to the assets of an incorporated limited partnership may apply to the Supreme Court.
+(4) On an application under subsection (3), the Supreme Court may make any order relating to the disposal of the assets that it considers appropriate.
+
+97. Winding up on chief executive’s certificate
+(1) The chief executive may, by notice given to the incorporated limited partnership, require an incorporated limited partnership to show good cause why it should not be required to be wound up if the chief executive considers—
+(2) If, at the end of 28 days after the notice is given under subsection (1), the chief executive is satisfied that the incorporated limited partnership should be required to be wound up, the chief executive may publish in the gazette a certificate as to the requirement that the incorporated limited partnership be wound up.
+(3) The chief executive must give notice of the publication of the certificate to the incorporated limited partnership as soon as possible after the publication.
+(4) The chief executive must, as soon as practicable after giving a notice to an incorporated limited partnership, record the giving of the notice in the register.
+(5) The chief executive must not publish a certificate under subsection (2) unless satisfied that good cause has not been shown why the incorporated limited partnership should not be required to be wound up.
+(6) A notice under subsection (1) or (3) must be given to the incorporated limited partnership—
+
+98. Review of certificate
+(1) A person whose interests are affected by a decision of the chief executive to publish a certificate under section 97(2) may apply to the Supreme Court for review of the decision.
+(2) An application under subsection (1) must be made within 28 days after the certificate is published.
+(3) The operation of the certificate is suspended on the making of an application for review until the application is withdrawn or the review is decided.
+(4) In deciding an application for review, the Supreme Court may—
+(5) Nothing in this section stops the chief executive cancelling a certificate published under section 97(2) at any time after an application is made under subsection (1).
+
+99. Procedure for winding up on certificate
+(1) A winding up of an incorporated limited partnership required on a certificate of the chief executive published under section 97(2)—
+(2) When the winding up is started, the chief executive may appoint a person to be the liquidator of the incorporated limited partnership.
+(3) If the chief executive approves, the liquidator may be a general partner in the incorporated limited partnership and need not be a registered liquidator under the Corporations Act or give security as required under that Act.
+(4) The liquidator must publish notice of his or her appointment in the gazette within 10 days after being appointed.
+(5) In relation to the winding up, the liquidator has all the powers and duties of a liquidator appointed to wind up a company under the Corporations Act.
+(6) Any vacancy occurring in the office of liquidator is to be filled by a person appointed by the chief executive.
+(7) The reasonable costs of a winding up required on a certificate of the chief executive published under section 97(2) are payable out of the property of the incorporated limited partnership.
+
+100. Distribution of assets on winding up required on chief executive’s certificate
+(1) On a winding up of an incorporated limited partnership required on a certificate of the chief executive published under section 97(2)—
+(2) Any person aggrieved by the operation of this section in relation to the assets of an incorporated limited partnership may apply to the Supreme Court.
+(3) On an application under subsection (2), the Supreme Court may make any order relating to the disposal of the assets that it considers appropriate.
+
+101. Application of Corporations Act to winding up
+(1) This section applies to the winding up of an incorporated limited partnership, other than a voluntary winding up or a winding up required on a certificate of the chief executive published under section 97(2).
+(2) To the extent that the Corporations Act, part 5.7 does not apply, the winding up of the incorporated limited partnership is declared to be an applied Corporations legislation matter for the purposes of the Corporations (Ancillary Provisions) Act 2001, part 3 in relation to the provisions of the Corporations Act, part 5.7.
+(3) The Corporations Act, part 5.7 applies as if the incorporated limited partnership were a part 5.7 body within the meaning of that Act, subject to the following modifications—
+(4) The Australian Securities and Investments Commission may perform a function conferred on it under a law applied by subsection (3)—
+(5) Unless a function under a law applied by subsection (3) is conferred on the Australian Securities and Investments Commission as referred to in subsection (4), that law applies as if a reference in it to the Commission were a reference to the chief executive.
+
+102. Chief executive to be notified of winding up
+(1) An incorporated limited partnership must give to the chief executive written notice in the approved form of the commencement of the winding up of the partnership within 7 days after—
+(2) An incorporated limited partnership must give to the chief executive written notice in the approved form of the completion of the winding up of the partnership within 7 days after that completion, stating the date on which the winding up was completed.
+(3) The chief executive must, as soon as practicable after receiving a notice under subsection (1) or (2), record the receipt of the notice in the register.
+(4) If subsection (1) or (2) is not complied with, each general partner in the incorporated limited partnership commits an offence.
+
+103. Cancellation of registration
+(1) The chief executive must, by gazette notice, cancel the registration of an incorporated limited partnership as soon as practicable after the partnership is wound up.
+(2) The chief executive must, as soon as practicable after the publication of the gazette notice, record the cancellation of the registration in the register.
+(3) An incorporated limited partnership ceases to exist on the cancellation of its registration under this chapter.
+
+Part 7 Miscellaneous provisions
+
+104. Execution of documents
+(1) All courts must take judicial notice of the common seal of an incorporated limited partnership affixed to a document and, until the contrary is proved, must presume that it was properly affixed.
+(2) Without limiting the ways in which an incorporated limited partnership may execute a document, including a deed, an incorporated limited partnership may execute a document—
+
+105. Entitlement to make assumptions
+(1) In relation to dealings with an incorporated limited partnership—
+(2) In relation to dealings with another person who has, or purports to have, directly or indirectly acquired title to property from an incorporated limited partnership—
+(3) The assumptions may be made even if a partner or agent of the incorporated limited partnership acts fraudulently, or forges a document, in connection with the dealings.
+(4) A person is not entitled to make an assumption in section 106 if at the time of the dealings the person knew or suspected that the assumption was incorrect.
+
+106. Assumptions that can be made under s 105
+(1) A person may assume that the partnership agreement of the incorporated limited partnership has been complied with.
+(2) A person may assume that anyone who appears, from information provided by the incorporated limited partnership that is available to the public from the register, to be a general partner in the incorporated limited partnership—
+(3) A person may assume that anyone who is held out by the incorporated limited partnership to be a general partner in, or an agent of, the incorporated limited partnership—
+(4) A person may assume that the general partners in, and agents of, the incorporated limited partnership properly perform their duties to the incorporated limited partnership.
+(5) A person may assume that a document has been properly executed by the incorporated limited partnership if the document appears to have been signed under section 104(2).
+(6) A person may assume that a document has been properly executed by the incorporated limited partnership if the incorporated limited partnership’s common seal appears to have been affixed to the document.
+(7) A person may assume that a general partner in, or agent of, the incorporated limited partnership who has authority to issue a document or certified copy of a document on its behalf also has authority to warrant that the document is genuine or is a true copy.
+(8) Without limiting this section, the assumptions that may be made under this section apply for the purposes of this section.
+
+107. Identification of incorporated limited partnerships
+(1) Any document issued for an incorporated limited partnership in connection with the conduct of the partnership’s business must contain in legible letters the words ‘An incorporated limited partnership’ or ‘L.P.’ or ‘LP’ at the end as part of the firm-name of the partnership.
+(2) A person who—
+(2) commits an offence.
+(3) The certificate of registration of an incorporated limited partnership must be displayed at all times in a conspicuous position at the registered office of the partnership.
+(4) If the certificate of registration is not so displayed, each general partner in the incorporated limited partnership commits an offence.
+
+108. Registered office
+(1) An incorporated limited partnership must keep in Queensland, at the place shown in the register as the address of the registered office of the partnership, an office to which all communications with the partnership may be addressed.
+(2) A regulation may prescribe the hours during which the registered office is to be open and accessible to the public.
+(3) If subsection (1) is not complied with, each general partner in the incorporated limited partnership commits an offence.
+
+109. Lodgement of certain documents with the chief executive
+(1) An incorporated limited partnership that was registered under this chapter on the basis of an intention to become a VCLP, ESVCLP or an AFOF must, within 1 month after becoming a VCLP, ESVCLP or an AFOF, give to the chief executive a copy of a document evidencing its status as a VCLP, ESVCLP or an AFOF.
+(2) An incorporated limited partnership that was registered under this chapter on the basis of an intention to meet the requirements for recognition as a VCMP must, within 1 month after becoming a VCMP, give to the chief executive a statement that it is a VCMP.
+(3) If—
+(3) the incorporated limited partnership must, within 7 days after the date on which that revocation took effect or it ceased to be a VCMP, give to the chief executive a notice of that revocation or cessation, stating the date on which it took effect.
+(4) If an incorporated limited partnership ceases to carry on business, the incorporated limited partnership must, as soon as practicable, give to the chief executive a notice of the cessation, stating the date on which it took effect.
+(5) A copy of a document, a statement or a notice required to be given to the chief executive under this section must be accompanied by the fee prescribed under a regulation.
+(6) A notice required to be given to the chief executive under this section must—
+(7) If subsection (1), (2), (3) or (4) is not complied with, each general partner in the incorporated limited partnership commits an offence.
+
+110. Duty to give information
+(1) For the purpose of monitoring compliance with this chapter or any regulation made for the purposes of this chapter, the chief executive, may by written notice, require an incorporated limited partnership to give the chief executive, within a period stated in the notice (being at least 28 days) or within the further period the chief executive allows, the information stated in the notice.
+(2) An incorporated limited partnership required under subsection (1) to give information to the chief executive must, within the period stated in the notice or within the further period the chief executive allows, give the information, as it is within its power to give, to the chief executive unless the incorporated limited partnership has a reasonable excuse.
+
+111. Offences by partnerships and partners
+(1) If this chapter provides that a general partner, being a partnership in an incorporated limited partnership, commits an offence, that reference to the person is to be read as a reference to—
+(2) In any proceeding against a partner for an offence against this chapter brought in reliance on subsection (1), it is a defence to the charge for the partner to prove that the partner took all reasonable precautions and exercised proper diligence to avoid the commission of the offence.
+
+Chapter 5 General provisions
+
+112. Confidentiality
+(1) A person must not disclose information gained by the person in the administration of this Act, unless the disclosure is permitted under subsection (2).
+(2) The person may disclose the information to someone else—
+(3) This section does not limit the Right to Information Act 2009.
+
+113. False or misleading statements
+A person must not state anything to the chief executive the person knows is false or misleading in a material particular.
+
+114. False or misleading documents
+(1) A person must not give to the chief executive a document containing information the person knows is false or misleading in a material particular.
+(2) Subsection (1) does not apply to a person who, when giving the document—
+
+115. Delegations
+(1) The chief executive may delegate the chief executive’s powers under this Act to an appropriately qualified public service employee.
+(2) In this section—
+
+116. Offences against the Act are summary
+(1) An offence against this Act is a summary offence.
+(2) A proceeding for an offence against this Act must start within the later of the following periods to end—
+
+117. Service of limited partnerships and incorporated limited partnerships
+(1) Without limiting any other way of serving a document on partners in a limited partnership, a document concerning the business of the partnership is taken to be properly served on the partners if it is left at or sent by post addressed to the registered office of the partnership.
+(2) Without limiting any other way of serving documents on an incorporated limited partnership, a document concerning the business of an incorporated limited partnership may be properly served on the partnership if it is left at, or sent by post addressed to, the registered office of the incorporated limited partnership.
+
+118. Entries in registers
+(1) An entry in the register kept for limited partnerships under section 51 of any particular fact concerning a limited partnership, including an entry stating the effect of any notice received by the chief executive—
+(2) An entry in the register kept for incorporated limited partnerships under section 78 of any particular fact concerning an incorporated limited partnership, including an entry stating the effect of any notice received by the chief executive, is sufficient notice of the fact or of the effect of the notice to all persons who deal with the partnership.
+
+119. Approved forms
+The chief executive may approve forms for use under this Act.
+
+120. Regulation-making power
+(1) The Governor in Council may make regulations under this Act.
+(2) A regulation may prescribe—
+
+Chapter 6 Savings and transitional provisions
+
+Part 1 Savings provision for Act No. 7 of 1891
+
+121. Saving of rules of equity and common law
+The rules of equity and of common law applicable to partnership shall continue in force except so far as they are inconsistent with the express provisions of this Act.
+
+Part 2
+
+122
+
+Part 3 Transitional provisions for Act No. 94 of 2003
+
+123. Transitional provision for Tourism, Racing and Fair Trading (Miscellaneous Provisions) Act 2003
+Section 13, as in force before the commencement of this section, continues to apply to an act or omission that happened before the commencement.
+
+Part 4 Transitional provisions for Partnership and Other Acts Amendment Act 2004
+
+124. Continuation of limited partnerships under the Partnership (Limited Liability) Act
+This Act applies to a limited partnership formed, and registered, under the Partnership (Limited Liability) Act 1988, and in existence immediately before the repeal of that Act, as if it were a limited partnership formed, and registered, under chapter 3.
+
+125. Continuation of register under the Partnership (Limited Liability) Act
+(1) The register of limited partnerships as in force under the Partnership (Limited Liability) Act 1988 immediately before the repeal of that Act is preserved and continued as the register of limited partnerships kept by the chief executive under section 51.
+(2) The chief executive may issue a certificate in relation to the formation and composition of a limited partnership formed and registered before the repeal of the Partnership (Limited Liability) Act 1988 and the certificate has effect as a certificate issued under section 51(3).
+
+126. Applications under the Partnership (Limited Liability) Act
+An application made or notice given to the registrar under the Partnership (Limited Liability) Act 1988 and not finally dealt with before the repeal of that Act may be dealt with by the chief executive under this Act.
+
+127. Regulations under Partnership (Limited Liability) Act preserved
+(1) Regulations in force under the Partnership (Limited Liability) Act 1988 immediately before the repeal of that Act are taken to have been made under this Act and may be amended or repealed accordingly.
+(2) A regulation mentioned in subsection (1) expires on 31 March 2005.
+(3) Subsection (2) has effect despite the Statutory Instruments Act 1992, part 7.
+
+128. Prescribed forms under Partnership (Limited Liability) Act
+Despite the repeal of the Partnership (Limited Liability) Act 1988, a form prescribed for use under section 7(1) or 8(3) of that Act immediately before the repeal may continue to be used, with necessary changes, for the purpose for which it was prescribed for a period of 3 months after the commencement of this section.
+
+129. Relation between members of any company registered under State Companies Acts not affected
+The relation between members of any company mentioned in section 5(2)(a), as in force immediately before the commencement of this section, is not a partnership within the meaning of this Act.
+
+130. Liability
+The liability of a person arising under this Act as in force before the commencement of this section is unaffected by the definition liability as inserted by the Partnership and Other Acts Amendment Act 2004.
+
+131. References to Partnership (Limited Liability) Act 1988
+A reference in an Act or document to the Partnership (Limited Liability) Act 1988 may, if the context permits, be taken to be a reference to this Act.
+
+Schedule Dictionary

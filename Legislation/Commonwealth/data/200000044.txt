@@ -1,0 +1,32 @@
+library_id: 200000044
+citation: Income Tax (Bearer Debentures) Act 1971
+type: primary_legislation
+version_id: sha256:ad3ec8653c669127bc86372d21f714c28b964be17f8de40d39376db83a4cf149
+jurisdiction: commonwealth
+url: https://www.legislation.gov.au/C1971A00055/latest/text
+content_format: html
+source: sha256
+
+1 Short title
+This Act may be cited as the Income Tax (Bearer Debentures) Act 1971 .
+
+2 Commencement
+This Act shall come into operation on the day on which it receives the Royal Assent.
+
+3 Interpretation
+In this Act, the Assessment Act means the Income Tax Assessment Act 1936 ‑ 1971 .
+
+4 Incorporation
+The Assessment Act is incorporated and shall be read as one with this Act.
+
+5 Imposition of tax
+The tax known as income tax, to the extent that it is payable in accordance with section 126 of the Assessment Act, is imposed, and shall be levied and paid, upon interest to which that section applies.
+
+6 Rate of tax
+The rate of tax imposed by this Act on an amount of interest is 45%.
+
+7 Temporary budget repair levy
+(1) This section applies to amounts of interest paid or credited in a temporary budget repair levy year.
+(2) Increase the rate of tax mentioned in section 6 by 2 percentage points.
+(3) In this section:
+temporary budget repair levy year has the same meaning as in section 4 ‑ 11 of the Income Tax (Transitional Provisions) Act 1997 .
