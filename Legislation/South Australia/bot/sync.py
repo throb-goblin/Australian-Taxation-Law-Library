@@ -393,6 +393,173 @@ def _strip_leading_title(text: str, title: str) -> str:
     return "\n".join(lines)
 
 
+def _strip_front_matter_and_contents(text: str) -> str:
+    raw = (text or "").replace("\r\n", "\n").replace("\r", "\n")
+    lines = [ln.rstrip() for ln in raw.split("\n")]
+    if len(lines) < 30:
+        return raw
+
+    scan_limit = min(len(lines), 800)
+
+    # SA consolidated RTF often has a plain "Contents" list with no page numbers,
+    # followed later by the enacting formula. Prefer cutting to the enacting
+    # formula when both are found near the start.
+    contents_idx_simple: Optional[int] = None
+    enacts_idx: Optional[int] = None
+    for i in range(min(len(lines), 2000)):
+        s = (lines[i] or "").strip().lower()
+        if contents_idx_simple is None and s == "contents":
+            contents_idx_simple = i
+        if enacts_idx is None and s == "the parliament of south australia enacts as follows:":
+            enacts_idx = i
+        if contents_idx_simple is not None and enacts_idx is not None:
+            break
+
+    if (
+        contents_idx_simple is not None
+        and enacts_idx is not None
+        and 0 <= contents_idx_simple < enacts_idx
+        and contents_idx_simple <= 500
+        and (enacts_idx - contents_idx_simple) >= 5
+    ):
+        out_lines = lines[:contents_idx_simple] + lines[enacts_idx:]
+        return "\n".join(out_lines).strip() + "\n"
+
+    # Secondary legislation often has an unlabeled table-of-provisions block made up
+    # of numbered headings (no em dash), then "Legislative history", then the real
+    # body which repeats the headings with an em dash (e.g. "1—Short title").
+    # Example: Land Tax Regulations 2025.
+    leg_hist_idx: Optional[int] = None
+    for i in range(min(len(lines), 2000)):
+        if (lines[i] or "").strip().lower() == "legislative history":
+            leg_hist_idx = i
+            break
+
+    if leg_hist_idx is not None and leg_hist_idx <= 1500:
+        # If the enacting formula exists, this is likely primary legislation; don't
+        # apply this secondary-legislation rule.
+        has_enacts = any(
+            (ln or "").strip().lower().startswith("the parliament of south australia enacts as follows")
+            for ln in lines[: min(len(lines), 2000)]
+        )
+        if not has_enacts:
+            post_hist_start: Optional[int] = None
+            for j in range(leg_hist_idx + 1, len(lines)):
+                t = (lines[j] or "").strip()
+                if re.match(r"^\d+\s*[\u2014\u2013\-]\s*\S", t):
+                    post_hist_start = j
+                    break
+
+            def is_toc_heading(line: str) -> bool:
+                t = (line or "").rstrip("\t ")
+                # TOC headings are typically "1       Short title" (spaces/tabs), not "1—Short title".
+                if re.match(r"^\d+\s*[\u2014\u2013\-]", t):
+                    return False
+                return re.match(r"^\d+\s{2,}\S", t) is not None or re.match(r"^\d+\t+\S", t) is not None
+
+            toc_start: Optional[int] = None
+            if post_hist_start is not None:
+                # Find the start of a run of TOC headings before Legislative history.
+                for i in range(0, leg_hist_idx):
+                    if not is_toc_heading(lines[i]):
+                        continue
+                    # Require at least 3 TOC-looking headings within the next 40 lines.
+                    hits = 0
+                    for k in range(i, min(leg_hist_idx, i + 40)):
+                        if is_toc_heading(lines[k]):
+                            hits += 1
+                    if hits >= 3:
+                        toc_start = i
+                        break
+
+            if toc_start is not None and post_hist_start is not None and toc_start < post_hist_start:
+                out_lines = lines[:toc_start] + lines[post_hist_start:]
+                # Drop an occasional stray "Contents" heading that precedes the real body.
+                for c_i in range(min(len(out_lines), 120)):
+                    if (out_lines[c_i] or "").strip().lower() != "contents":
+                        continue
+                    c_j = c_i + 1
+                    while c_j < len(out_lines) and not (out_lines[c_j] or "").strip():
+                        c_j += 1
+                    if c_j < len(out_lines) and re.match(r"^\d+\s*[\u2014\u2013\-]\s*\S", (out_lines[c_j] or "").strip()):
+                        out_lines = out_lines[:c_i] + out_lines[c_i + 1 :]
+                    break
+                return "\n".join(out_lines).strip() + "\n"
+
+    def looks_like_contents_heading(i: int) -> bool:
+        if i < 0 or i >= len(lines):
+            return False
+        s = (lines[i] or "").strip().lower()
+        if s not in {"contents", "table of provisions", "table of contents"}:
+            return False
+        window = [(lines[j] or "").strip().lower() for j in range(i, min(i + 12, len(lines)))]
+        blob = " ".join(window)
+        if "page" in blob:
+            return True
+        if any(re.search(r"\s\d{1,4}$", w) for w in window if w):
+            return True
+        return False
+
+    def looks_like_contents_entry(line: str) -> bool:
+        t = (line or "").strip()
+        if not t:
+            return False
+        if not re.search(r"\s\d{1,4}$", t):
+            return False
+        if re.match(r"^(chapter|part|division|subdivision|schedule)\s+", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^\d{1,4}[A-Za-z]{0,4}\.?\s+", t):
+            return True
+        return False
+
+    def is_long_title_line(line: str) -> bool:
+        t = (line or "").strip()
+        if not t:
+            return False
+        if re.match(r"^(An\s+Act|A\s+(?:Regulation|Rule|Rules|By-law|Bylaws|Bylaw))\b", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^(Be\s+it\s+enacted|The\s+Parliament\s+.*\s+enacts)\b", t, flags=re.IGNORECASE):
+            return True
+        return False
+
+    def is_body_start_heading(line: str) -> bool:
+        t = (line or "").strip()
+        if not t or looks_like_contents_entry(t):
+            return False
+        if re.match(r"^Chapter\s+\d+\b", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^Part\s+\d+(?:\.|\b)", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^(\d{1,4}[A-Za-z]{0,4})\.?\s+\S", t):
+            return True
+        return False
+
+    contents_idx: Optional[int] = None
+    for i in range(scan_limit):
+        if looks_like_contents_heading(i):
+            contents_idx = i
+            break
+    if contents_idx is None or contents_idx > 500:
+        return raw
+
+    end_idx: Optional[int] = None
+    for j in range(contents_idx + 1, len(lines)):
+        if is_long_title_line(lines[j]):
+            end_idx = j
+            break
+    if end_idx is None:
+        for j in range(contents_idx + 1, len(lines)):
+            if is_body_start_heading(lines[j]):
+                end_idx = j
+                break
+
+    if end_idx is None:
+        return raw
+
+    out_lines = lines[:contents_idx] + lines[end_idx:]
+    return "\n".join(out_lines).strip() + "\n"
+
+
 def _fix_leading_label_space(line: str) -> str:
     s = (line or "").rstrip()
     m = re.match(r"^(\d+[A-Za-z]{0,6})([A-Z])", s)
@@ -423,6 +590,12 @@ def _normalize_body_text(body: str) -> str:
     def is_major_heading(line: str) -> bool:
         l = (line or "").strip().lower()
         return l.startswith(("chapter ", "part ", "division ", "subdivision ", "schedule "))
+
+    def is_enacting_formula(line: str) -> bool:
+        l = (line or "").strip().lower()
+        return l == "the parliament of south australia enacts as follows:" or l.startswith(
+            "the parliament of south australia enacts as follows"
+        )
 
     def is_section_heading(line: str) -> bool:
         s = (line or "").strip()
@@ -512,6 +685,15 @@ def _normalize_body_text(body: str) -> str:
         s = re.sub(r"^(\(\d+\)|\([a-z]\)|\([ivxlcdm]+\))\s{2,}", r"\1 ", s, flags=re.IGNORECASE)
         s = _fix_leading_label_space(s)
 
+        if is_enacting_formula(s):
+            if out_lines and out_lines[-1] != "":
+                out_lines.append("")
+            out_lines.append(s)
+            if out_lines and out_lines[-1] != "":
+                out_lines.append("")
+            i += 1
+            continue
+
         if is_major_heading(s):
             if out_lines and out_lines[-1] != "":
                 out_lines.append("")
@@ -540,6 +722,7 @@ def _normalize_body_text(body: str) -> str:
 def finalize_output_text(row: Dict[str, str], text: str) -> str:
     title = (row.get("citation") or row.get("title") or "").strip()
     body = _strip_leading_title(text, title)
+    body = _strip_front_matter_and_contents(body)
     body = _normalize_body_text(body)
     header = _header_block_for_row(row)
     return f"{header}\n\n{body.strip()}\n"

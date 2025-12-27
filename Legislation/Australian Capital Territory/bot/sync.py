@@ -477,6 +477,109 @@ def _strip_leading_title(text: str, title: str) -> str:
     return "\n".join(lines)
 
 
+def _strip_act_republication_front_matter_and_contents(text: str) -> str:
+    raw = (text or "").replace("\r\n", "\n").replace("\r", "\n")
+    lines = [ln.rstrip() for ln in raw.split("\n")]
+    if len(lines) < 30:
+        return raw
+
+    scan_limit = min(len(lines), 800)
+
+    def looks_like_contents_at(i: int) -> bool:
+        if i < 0 or i >= len(lines):
+            return False
+        if (lines[i] or "").strip().lower() != "contents":
+            return False
+        window = [(lines[j] or "").strip().lower() for j in range(i, min(i + 12, len(lines)))]
+        blob = " ".join(window)
+        if "page" in blob:
+            return True
+        if any(w.startswith("chapter ") for w in window):
+            return True
+        if any(w.startswith("part ") for w in window):
+            return True
+        return False
+
+    about_idx: Optional[int] = None
+    contents_idx: Optional[int] = None
+
+    for i in range(scan_limit):
+        s = (lines[i] or "").strip().lower()
+        if about_idx is None and s == "about this republication":
+            about_idx = i
+        if contents_idx is None and s == "contents" and looks_like_contents_at(i):
+            contents_idx = i
+        if about_idx is not None and contents_idx is not None:
+            break
+
+    candidates = [i for i in [about_idx, contents_idx] if i is not None]
+    if not candidates:
+        return raw
+
+    start_idx = min(candidates)
+    if start_idx > 500:
+        return raw
+
+    def is_long_title_line(line: str) -> bool:
+        t = (line or "").strip()
+        if not t:
+            return False
+        if re.match(
+            r"^(An\s+Act|A\s+(?:Regulation|Rule|Code|Determination|Direction|Order|Instrument|Disallowable\s+instrument|Notifiable\s+instrument))\b",
+            t,
+            flags=re.IGNORECASE,
+        ):
+            return True
+        return False
+
+    def looks_like_contents_entry(line: str) -> bool:
+        t = (line or "").strip()
+        if not t:
+            return False
+        # Typical ACT contents lines end with a page number.
+        if re.search(r"\s\d{1,4}$", t):
+            if re.match(r"^(Chapter|Part|Division|Subdivision)\s+", t, flags=re.IGNORECASE):
+                return True
+            if re.match(r"^\d{1,4}[A-Za-z]{0,4}\.?\s+", t):
+                return True
+        return False
+
+    def is_body_start_heading(line: str) -> bool:
+        t = (line or "").strip()
+        if not t or looks_like_contents_entry(t):
+            return False
+        if re.match(r"^Chapter\s+\d+\b", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^Part\s+\d+(?:\.|\b)", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^(\d{1,4}[A-Za-z]{0,4})\.?\s+\S", t):
+            return True
+        return False
+
+    end_idx: Optional[int] = None
+
+    # Prefer cutting to the long title (e.g. "An Act to ...") which appears after
+    # the contents block in ACT republications.
+    for j in range(start_idx + 1, len(lines)):
+        if is_long_title_line(lines[j]):
+            end_idx = j
+            break
+
+    # Fallback: if no long title exists, cut to the first real body heading that
+    # does not look like a contents entry with a trailing page number.
+    if end_idx is None:
+        for j in range(start_idx + 1, len(lines)):
+            if is_body_start_heading(lines[j]):
+                end_idx = j
+                break
+
+    if end_idx is None:
+        return raw
+
+    out_lines = lines[:start_idx] + lines[end_idx:]
+    return "\n".join(out_lines).strip() + "\n"
+
+
 def _fix_leading_label_space(line: str) -> str:
     s = (line or "").rstrip()
     # Repair missing whitespace between a section label and the start of a title.
@@ -617,6 +720,7 @@ def _normalize_body_text(body: str) -> str:
 def finalize_output_text(row: Dict[str, str], text: str) -> str:
     title = (row.get("citation") or row.get("title") or "").strip()
     body = _strip_leading_title(text, title)
+    body = _strip_act_republication_front_matter_and_contents(body)
     body = _normalize_body_text(body)
     header = _header_block_for_row(row)
     return f"{header}\n\n{body.strip()}\n"

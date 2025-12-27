@@ -458,6 +458,88 @@ def _strip_leading_title(text: str, title: str) -> str:
     return "\n".join(lines)
 
 
+def _strip_front_matter_and_contents(text: str) -> str:
+    raw = (text or "").replace("\r\n", "\n").replace("\r", "\n")
+    lines = [ln.rstrip() for ln in raw.split("\n")]
+    if len(lines) < 30:
+        return raw
+
+    scan_limit = min(len(lines), 800)
+
+    def looks_like_contents_heading(i: int) -> bool:
+        if i < 0 or i >= len(lines):
+            return False
+        s = (lines[i] or "").strip().lower()
+        if s not in {"contents", "table of provisions", "table of contents"}:
+            return False
+        window = [(lines[j] or "").strip().lower() for j in range(i, min(i + 12, len(lines)))]
+        blob = " ".join(window)
+        if "page" in blob:
+            return True
+        if any(re.search(r"\s\d{1,4}$", w) for w in window if w):
+            return True
+        return False
+
+    def looks_like_contents_entry(line: str) -> bool:
+        t = (line or "").strip()
+        if not t:
+            return False
+        if not re.search(r"\s\d{1,4}$", t):
+            return False
+        if re.match(r"^(chapter|part|division|subdivision|schedule)\s+", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^\d{1,4}[A-Za-z]{0,4}\.?\s+", t):
+            return True
+        return False
+
+    def is_long_title_line(line: str) -> bool:
+        t = (line or "").strip()
+        if not t:
+            return False
+        if re.match(r"^(An\s+Act|A\s+(?:Regulation|Rule|Rules|By-law|Bylaws|Bylaw))\b", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^(Be\s+it\s+enacted|The\s+Parliament\s+.*\s+enacts)\b", t, flags=re.IGNORECASE):
+            return True
+        return False
+
+    def is_body_start_heading(line: str) -> bool:
+        t = (line or "").strip()
+        if not t or looks_like_contents_entry(t):
+            return False
+        if re.match(r"^Chapter\s+\d+\b", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^Part\s+\d+(?:\.|\b)", t, flags=re.IGNORECASE):
+            return True
+        if re.match(r"^(\d{1,4}[A-Za-z]{0,4})\.?\s+\S", t):
+            return True
+        return False
+
+    contents_idx: Optional[int] = None
+    for i in range(scan_limit):
+        if looks_like_contents_heading(i):
+            contents_idx = i
+            break
+    if contents_idx is None or contents_idx > 500:
+        return raw
+
+    end_idx: Optional[int] = None
+    for j in range(contents_idx + 1, len(lines)):
+        if is_long_title_line(lines[j]):
+            end_idx = j
+            break
+    if end_idx is None:
+        for j in range(contents_idx + 1, len(lines)):
+            if is_body_start_heading(lines[j]):
+                end_idx = j
+                break
+
+    if end_idx is None:
+        return raw
+
+    out_lines = lines[:contents_idx] + lines[end_idx:]
+    return "\n".join(out_lines).strip() + "\n"
+
+
 def _fix_leading_label_space(line: str) -> str:
     s = (line or "").rstrip()
     m = re.match(r"^(\d+[A-Za-z]{0,6})([A-Z])", s)
@@ -600,6 +682,7 @@ def _normalize_body_text(body: str) -> str:
 def finalize_output_text(row: Dict[str, str], text: str) -> str:
     title = (row.get("citation") or row.get("title") or "").strip()
     body = _strip_leading_title(text, title)
+    body = _strip_front_matter_and_contents(body)
     body = _normalize_body_text(body)
     header = _header_block_for_row(row)
     return f"{header}\n\n{body.strip()}\n"
