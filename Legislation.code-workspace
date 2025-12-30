@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Legislation"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"chat.agent.maxRequests": 1000
+	}
+}

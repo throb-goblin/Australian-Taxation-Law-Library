@@ -1,5 +1,0 @@
-requests>=2.31
-beautifulsoup4>=4.12
-python-dateutil>=2.9
-pdfminer.six>=20221105
-striprtf>=0.0.29

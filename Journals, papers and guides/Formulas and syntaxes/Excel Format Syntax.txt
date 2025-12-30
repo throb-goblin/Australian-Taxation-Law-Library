@@ -1,3 +1,0 @@
-Dollars with negatives in brackets: _(* $#,##0.00_);_(* ($#,##0.00);_(* "-"??_);_(@_)
-
-Dollars with DR and CR: $#,##0.00 "DR";$#,##0.00 "CR"
