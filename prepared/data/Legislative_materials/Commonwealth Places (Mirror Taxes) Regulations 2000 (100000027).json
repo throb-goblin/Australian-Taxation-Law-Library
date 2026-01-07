@@ -1,0 +1,43 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_reg/cptr2000459/",
+    "register_url": "https://www.legislation.gov.au/F2000B00069/latest/text",
+    "source": "Commonwealth Places (Mirror Taxes) Regulations 2000 (100000027).txt",
+    "filename": "Commonwealth Places (Mirror Taxes) Regulations 2000 (100000027).json",
+    "name": "Commonwealth Places (Mirror Taxes) Regulations 2000",
+    "citation": "Commonwealth Places (Mirror Taxes) Regulations 2000"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Name of Regulations",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Regulations",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places (Mirror Taxes) Regulations 2000 > Regulation 1",
+      "text": "These Regulations are the Commonwealth Places (Mirror Taxes) Regulations 2000."
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Definition",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definition",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places (Mirror Taxes) Regulations 2000 > Regulation 3",
+      "text": "In these Regulations:\n\"Act\" means the Commonwealth Places (Mirror Taxes) Act 1998."
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Prescribed State taxing laws--land taxes (Act s 3)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Prescribed State taxing laws--land taxes (Act s 3)",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places (Mirror Taxes) Regulations 2000 > Regulation 4",
+      "text": "For the purposes of paragraph (b) of the definition of State taxing law in section 3 of the Act, the State laws in the following table are prescribed.\nItemStateLaw1New South WalesLand Tax Act 1956Land Tax Management Act 19562VictoriaDuties Act 2000Land Tax Act 2005Payroll Tax Act 20073QueenslandDuties Act 2001Land Tax Act 1915Land Tax Act 2010Taxation Administration Act 20014Western AustraliaDebits Tax Act 2002Debits Tax Assessment Act 2002Duties Act 2008Metropolitan Region Improvement Tax Act 1959Land Tax Act 2002Land Tax Assessment Act 2002Pay-roll Tax Act 2002Pay-roll Tax Assessment Act 2002Taxation Administration Act 20035South AustraliaLand Tax Act 1936Payroll Tax Act 20096TasmaniaDuties Act 2001Land Tax Act 2000Payroll Tax Act 2008\nCOMMONWEALTH PLACES (MIRROR TAXES) REGULATIONS 2000"
+    }
+  ]
+}

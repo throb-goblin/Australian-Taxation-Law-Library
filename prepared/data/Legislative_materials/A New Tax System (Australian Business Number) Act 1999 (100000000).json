@@ -1,0 +1,763 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/antsbna1999470/",
+    "register_url": "https://www.legislation.gov.au/C2004A00467/latest/text",
+    "source": "A New Tax System (Australian Business Number) Act 1999 (100000000).txt",
+    "filename": "A New Tax System (Australian Business Number) Act 1999 (100000000).json",
+    "name": "A New Tax System (Australian Business Number) Act 1999",
+    "citation": "A New Tax System (Australian Business Number) Act 1999"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 1--Formalities > Section 1",
+      "text": "This Act may be cited as the A New Tax System (Australian Business Number) Act 1999."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 1--Formalities > Section 2",
+      "text": "This Act commences on the day on which it receives the Royal Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Objects",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Objects",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 2--Objects > Section 3",
+      "text": "Main object\n (1) The main object of this Act is to make it easier for businesses to conduct their dealings with the Australian Government. This is done by establishing a system for registering businesses and issuing them with unique identifying numbers so that they can identify themselves reliably:\n (a) in all their dealings with the Australian Government; and\n (b) for all other Commonwealth purposes.\n (2) Without limiting paragraph  (1)(b), the main object of this Act includes allowing businesses to identify themselves reliably for the purposes of *taxation laws.\nReducing registration and reporting requirements\n (3) The objects of this Act also include reducing the number of government registration and reporting requirements by making the system available to State, Territory and local government regulatory bodies.\nNote: Section 30 facilitates this object by enabling the Registrar to provide information collected under this Act to State, Territory and local government bodies.\nMulti-agency dealings\n (4) The objects of this Act also include allowing the *Registrar to register and maintain details about representatives of *businesses that are registered under this Act, for the purpose of facilitating electronic dealings by those businesses with *government entities."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Crown bound by this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Crown bound by this Act",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--Application of this Act > Section 4",
+      "text": "This Act binds the Crown in each of its capacities, but does not make the Crown liable to be prosecuted for an offence."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Application to government entities, non - profit sub - entities, superannuation funds and certain RSE licensees",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Application to government entities, non - profit sub - entities, superannuation funds and certain RSE licensees",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--Application of this Act > Section 5",
+      "text": "(1) This Act applies to a *government entity, a *non-profit sub-entity or a *superannuation fund as if it were an *entity *carrying on an *enterprise in *Australia.\n (2) This Act applies to an *RSE licensee, or an applicant for an *RSE licence, that is a group of individual trustees as if the group were an *entity *carrying on an *enterprise in *Australia."
+    },
+    {
+      "key": "section:5A",
+      "title": "Section 5A - Application to religious practitioners and religious institutions",
+      "main_structural_unit": "section",
+      "main_structural_number": "5A",
+      "main_structural_heading": "Application to religious practitioners and religious institutions",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--Application of this Act > Section 5A",
+      "text": "If a *religious practitioner:\n (a) does an activity, or a series of activities:\n (i) in pursuit of his or her vocation as a religious practitioner; and\n (ii) as a member of a religious institution; and\n (b) does not do the activity, or series of activities, as an employee or agent of the religious institution or another entity;\nthis Act applies as if the activity, or series of activities, had been done by the religious institution and not by the religious practitioner.\nNote: This will mean that such an activity will be an enterprise of the religious institution and not an enterprise of the religious practitioner."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Application of Criminal Code",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Application of Criminal Code",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--Application of this Act > Section 6",
+      "text": "The Criminal Code applies to all offences against this Act."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Application to the external Territories",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Application to the external Territories",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--Application of this Act > Section 7",
+      "text": "This Act extends to every external Territory."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Are you entitled to an ABN?",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Are you entitled to an ABN?",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 8",
+      "text": "(1) *You are entitled to have an Australian Business Number (*ABN) if:\n (a) you are *carrying on an *enterprise in *Australia; or\n (b) in the course or furtherance of carrying on an enterprise, you make *supplies that are *connected with the indirect tax zone.\nCorporations Act companies\n (2) A *Corporations Act company is entitled to have an Australian Business Number (*ABN).\nLimited registration entities\n (3) However, a limited registration entity (within the meaning of the A New Tax System (Goods and Services Tax) Act 1999) is not entitled to an *ABN."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Applying for an ABN",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Applying for an ABN",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 9",
+      "text": "(1) To get an *ABN, *you must apply to the *Registrar to be registered in the *Australian Business Register.\nNote 1: You may apply yourself or someone may apply on your behalf.\nNote 2: If you are registered, you will be allocated an ABN and your ABN will be entered in the Register (see subsection  11(1)).\n (2) *Your application must be in the *approved form.\n (3) That form may request, but not compel, *you to provide your *TFN or that of an *associate.\nNote: Including a TFN in an application will not be an offence against subsection 8WB(1) of the Taxation Administration Act 1953 (see paragraph 8WB(1A)(a) of that Act)."
+    },
+    {
+      "key": "section:9A",
+      "title": "Section 9A - Applying for registration of representatives",
+      "main_structural_unit": "section",
+      "main_structural_number": "9A",
+      "main_structural_heading": "Applying for registration of representatives",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 9A",
+      "text": "(1) If *you are registered in the *Australian Business Register, or you are applying to be so registered, you may make an application to the *Registrar requesting the Registrar to register details about a nominated representative (who is an individual) for the purpose of facilitating your electronic dealings with *government entities.\n (2) An application must be in the *approved form.\n (3) That form may request, but not compel, the provision of:\n (a) the *TFN of the representative; and\n (b) the TFN of the individual (the nominating individual) who is to sign the declaration in the form.\nNote: Including a TFN in an application will not be an offence against subsection 8WB(1) of the Taxation Administration Act 1953 (see paragraph 8WB(1A)(a) of that Act)."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Registrar must register you if conditions met",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Registrar must register you if conditions met",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 10",
+      "text": "(1) The *Registrar must register *you in the *Australian Business Register if:\n (a) you have applied under section  9; and\n (b) the Registrar is satisfied that you:\n (i) are entitled to have an *ABN; or\n (ii) are likely to be entitled to have an ABN by the date specified in your application; and\n (c) the Registrar is satisfied that your identity has been established; and\n (ca) if details about an *associate of yours were requested in the *approved form for registration--the Registrar is satisfied that the identity of the associate has been established; and\n (d) you are not already registered in the Register.\n (2) The *Registrar may request *you to give the Registrar specified information or a specified document the Registrar needs to be satisfied that:\n (a) you are entitled to have an *ABN; or\n (b) your identity, or that of an *associate referred to in paragraph (1)(ca), is established."
+    },
+    {
+      "key": "section:10A",
+      "title": "Section 10A - Registrar must register your representative if conditions met",
+      "main_structural_unit": "section",
+      "main_structural_number": "10A",
+      "main_structural_heading": "Registrar must register your representative if conditions met",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 10A",
+      "text": "(1) The *Registrar must register *your representative in the *Australian Business Register if:\n (a) an application has been made under section  9A; and\n (b) the Registrar is satisfied that the identity of the nominating individual (see paragraph  9A(3)(b)) has been established; and\n (c) if the representative is to be authorised to nominate other representatives of yours--the Registrar is satisfied that the identity of the representative has been established; and\n (d) the representative&#39;s details are not already registered in the *Australian Business Register in relation to you.\n (2) If *your proposed representative is to be authorised to nominate other representatives of yours, the *Registrar may request you or your proposed representative to give the Registrar specified information or a specified document the Registrar needs to be satisfied that the identity of the proposed representative is established."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Steps taken by Registrar to register you",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Steps taken by Registrar to register you",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 11",
+      "text": "(1) The *Registrar registers *you (for an application under section 9) by:\n (a) allocating you an *ABN; and\n (b) entering in the *Australian Business Register:\n (i) your name; and\n (ii) your ABN; and\n (iii) the date of effect of the registration.\nNote: A decision setting the date of effect of your registration is a reviewable ABN decision.\n (2) The date specified as the date of effect of *your registration may be any date (including a date before your application for registration was made).\n (3) The *Registrar must give *you a written notice of:\n (a) the fact that you have been registered; and\n (b) your *ABN; and\n (c) the date of effect of your registration; and\n (d) the other details entered in relation to you in the *Australian Business Register (see section 25).\nNote: Section 12 deals with giving notice to an entity registered under this section."
+    },
+    {
+      "key": "section:11A",
+      "title": "Section 11A - Steps taken by Registrar to register your representative",
+      "main_structural_unit": "section",
+      "main_structural_number": "11A",
+      "main_structural_heading": "Steps taken by Registrar to register your representative",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 11A",
+      "text": "The *Registrar registers *your representative (for an application under section 9A) by entering in the *Australian Business Register in relation to you:\n (a) the name of the representative; and\n (b) the representative&#39;s email address; and\n (c) the date of effect of the registration."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - If you are registered, notices may be sent to you at your registered address for service",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "If you are registered, notices may be sent to you at your registered address for service",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 12",
+      "text": "(1) If *you are registered in the *Australian Business Register, a notice under this Act, or the regulations, may be given to you by leaving it at, or sending it by pre -paid post to, the address shown in the Register as your address for service.\nNote: This subsection applies only to entities registered under section 11.\n (2) Subsection (1):\n (a) does not affect the operation of any other law of the Commonwealth, or any law of a State or Territory, that authorises the service of a document in some other way; and\n (b) does not affect the power of a court to authorise service of a document in some other way."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Refusal to register",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Refusal to register",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 4--Registration > Section 13",
+      "text": "(1) If the *Registrar refuses *your application for registration under section 9 or your application for registration of your representative under section  9A, the Registrar must give you written notice of:\n (a) the refusal; and\n (b) the reasons for the refusal.\nNote: A decision refusing to register you or your representative is a reviewable ABN decision.\n (2) If the *Registrar has not decided *your application for registration under section 9, or your application for registration of your representative under section  9A, within 28 days after your application is made, you may, at any time, give the Registrar written notice that you wish to treat your application as having been refused.\n (3) For the purposes of section  21, if *you give notice under subsection (2), the *Registrar is taken to have refused your application for registration on the day on which the notice is given.\n (4) For the purposes of measuring the 28 days mentioned in subsection  (2) for *your application under section 9, disregard each period (if any):\n (a) starting on the day when the *Registrar requests you under subsection 10(2) to give the Registrar specified information or a specified document; and\n (b) ending at the end of the day you give the Registrar the specified information or document.\n (5) For the purposes of measuring the 28 days mentioned in subsection  (2) for *your application under section 9A, disregard each period (if any):\n (a) starting on the day when the *Registrar requests you, or your proposed representative, under subsection 10A(2) to give the Registrar specified information or a specified document; and\n (b) ending at the end of the day you give the Registrar the specified information or document."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - You must notify Registrar of changes to matters set out in the Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "You must notify Registrar of changes to matters set out in the Register",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 5--Your obligations if you are registered > Section 14",
+      "text": "(1) If:\n (a) *you give information to the *Registrar; and\n (b) the information is recorded in relation to you in the *Australian Business Register under section 25; and\n (c) circumstances change so that the information you gave the Registrar is no longer correct;\nyou must notify the Registrar of the change within 28 days after you become aware of the change.\nNote 1: The information may have been given to the Registrar as part of applying for registration or it may have been given in a previous notice under this subsection or section  15.\nNote 2: This Act is a taxation law for the purposes of the Taxation Administration Act 1953 . If you fail to comply with this subsection, you commit an offence against section 8C of that Act.\n (2) The notice:\n (a) must be lodged with the *Registrar; and\n (b) must be in the *approved form."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Obligation to give Registrar information if requested",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Obligation to give Registrar information if requested",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 5--Your obligations if you are registered > Section 15",
+      "text": "(1) The *Registrar may request an *entity to give the Registrar information in accordance with the following table. The entity must comply with the request.\nEntities that can be requested to give informationItemThese entities ...can be requested to give this information ...1*You, if you are registered in the *Australian Business Registerinformation that is relevant to:(a) your entitlement to be registered; or(b) confirming your identity; or(c) the details entered in relation to you in the Register2*Your *associate (if any) entered in the *Australian Business Register in relation to youinformation relevant to confirming the associate&#39;s identity3Either:(a) *your representative (if any) registered in the *Australian Business Register in relation to you; or(b) youinformation relevant to:(a) confirming the representative&#39;s identity; or(b) the details entered in relation to the representative in the Register\nNote: This Act is a taxation law for the purposes of the Taxation Administration Act 1953 . If an entity fails to comply with this subsection, the entity commits an offence against section 8C of that Act.\n (2) A request under subsection  (1) to an *entity:\n (a) is to be made by notice in writing to the entity; and\n (b) may ask the entity to give the information in writing; and\n (c) must specify:\n (i) the information the entity is to give; and\n (ii) the period within which the entity is to give the information.\nThe period specified under subparagraph (c)(ii) must end at least 14 days after the notice is given.\nNote: Section 12 deals with giving notice to an entity registered under section  11.\n (3) If the request asks the *entity to give the information in writing, the information:\n (a) must be lodged with the *Registrar; and\n (b) must be in the *approved form."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 5--Your obligations if you are registered > Section 16",
+      "text": "Application to partnerships\n (1) If, but for this subsection, section  14 or 15 would impose an obligation on a *partnership, the obligation is imposed on each partner, but may be discharged by any of the partners.\nApplication to unincorporated association or body\n (2) If, but for this subsection, section  14 or 15 would impose an obligation on an unincorporated association or body, the obligation is imposed on each member of the committee of management of the association or body, but may be discharged by any of the members of the committee.\nApplication to RSE licensee that is a group of individual trustees\n (2A) If, but for this subsection, section  14 or 15 would impose an obligation on an *RSE licensee that is a group of individual trustees, the obligation is imposed on each individual, but may be discharged by any of the individuals.\nDefences for partners, members of committee of management and certain RSE licensees\n (3) In a prosecution of a *person for an offence against section 8C of the Taxation Administration Act 1953 because of subsection  (1), (2) or (2A), it is a defence if the person proves that the person:\n (a) did not aid, abet, counsel or procure the act or omission because of which the offence is taken to have been committed; and\n (b) was not in any way, by act or omission, directly or indirectly, knowingly concerned in, or party to, the act or omission because of which the offence is taken to have been committed.\nApplication to government entities headed by one person\n (4) If, apart from this subsection, section  14 or 15 (as applied by section 5) would impose an obligation on a *government entity:\n (a) that is an unincorporated association or body; and\n (b) for whose management a single person is responsible to persons or bodies outside the government entity;\nthe obligation is imposed on that person.\n (5) Subsection (4) has effect despite:\n (a) subsection (2); and\n (b) sections 14 and 15 as they apply because of section  5."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Registrar may change your ABN",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Registrar may change your ABN",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 6--Variation and cancellation of registration > Section 17",
+      "text": "(1) The *Registrar may, at any time, change *your *ABN by:\n (a) making an appropriate change to the *Australian Business Register (including the date from which the new ABN has effect); and\n (b) giving you written notice of the new ABN.\nNote: Section 12 deals with giving notice to an entity registered under section  11.\n (2) The notice must state the date from which the new *ABN has effect.\n (3) The change to the *ABN takes effect on the date stated in the *Australian Business Register."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - When your registration can be cancelled",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "When your registration can be cancelled",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 6--Variation and cancellation of registration > Section 18",
+      "text": "On Registrar&#39;s initiative\n (1) The *Registrar may cancel *your registration in the *Australian Business Register if satisfied that:\n (a) you are registered under an identity that is not your true identity; or\n (b) at the time you were registered, you were not entitled to have an *ABN; or\n (c) you are no longer entitled to have an ABN.\nNote 1: If your registration is cancelled, you cease to have an ABN (see the definition of ABN in section 41).\nNote 2: A decision to cancel your registration is a reviewable ABN decision.\n (1A) The *Registrar may cancel the registration of *your representative in the *Australian Business Register if satisfied that:\n (a) your registration is cancelled under subsection  (1); or\n (b) the representative no longer represents you; or\n (c) the representative is registered under an identity that is not the representative&#39;s true identity; or\n (d) the representative&#39;s identity is no longer satisfactorily established.\nNote: A decision to cancel the registration of your representative is a reviewable ABN decision.\n (2) The *Registrar must give *you written notice of the cancellation. The notice must state:\n (a) the reasons for the cancellation; and\n (b) the date of effect of the cancellation.\nNote 1: A decision setting the date of effect of a cancellation is a reviewable ABN decision.\nNote 2: Section 12 deals with giving notice to an entity registered under section  11.\n (3) The date of effect of the cancellation may be any of the following:\n (a) the date on which *you are given notice under subsection (2);\n (b) a specified date in the future;\n (c) a date before the date on which the notice is given.\nAt your request\n (4) The *Registrar may:\n (a) cancel *your registration if you apply to the Registrar for cancellation of the registration in the *approved form; or\n (b) cancel the registration of your representative, if you apply to the Registrar for cancellation of the registration in the approved form.\nNote: A decision to refuse to cancel your registration or that of your representative is a reviewable ABN decision.\n (5) The *Registrar must give *you written notice of the cancellation. The notice must state the date of effect of the cancellation.\nNote 1: Section 12 deals with giving notice to an entity registered under section  11.\nNote 2: A decision setting the date of effect of a cancellation is a reviewable ABN decision.\n (6) The date of effect of the cancellation may be any of the following:\n (a) the date on which *you are given notice under subsection (5);\n (b) a specified date in the future;\n (c) a date before the date on which the notice is given."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Reinstating your registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Reinstating your registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 6--Variation and cancellation of registration > Section 19",
+      "text": "(1) The *Registrar must reinstate *your registration, or the registration of your representative, in the *Australian Business Register if the Registrar is satisfied that the registration should not have been cancelled.\n (2) The *Registrar must give *you written notice of the reinstatement.\nNote: Section 12 deals with giving notice to an entity registered under section  11.\n (3) The reinstatement has effect on and from the day on which the registration was cancelled."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Review of reviewable ABN decisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Review of reviewable ABN decisions",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 8--Review of reviewable ABN decisions > Section 21",
+      "text": "(1) *You may object, in the manner set out in Part IVC of the Taxation Administration Act 1953, against a decision you are dissatisfied with that is a *reviewable ABN decision.\n (2) Each of the following decisions is a reviewable ABN decision:\nReviewable ABN decisionsItemDecisionProvision under which decision is made1Setting the date of effect of *your registrationsubsection 11(1)2Refusing to register *you or your representativesection 133Cancelling *your registrationsubsection 18(1)4Cancelling the registration of *your representativesubsection 18(1A)5Refusing to cancel *your registration or that of your representativesubsection 18(4)6Setting the date of effect of a cancellationsubsection 18(2) or (5)7Refusing an application not to disclose detailssubsection 26(4) or 27(7)\n (3) Part IVC of the Taxation Administration Act 1953 applies in relation to a *reviewable ABN decision as if references in that Part  to the Commissioner of Taxation were references to the *Registrar."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Identification offences",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Identification offences",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTERING--FOR ABN PURPOSES > Division 9--Offences > Section 23",
+      "text": "(1) *You must not purport to identify yourself by using:\n (a) a number that is not an *ABN as if it were an ABN; or\n (b) an ABN that is not your own.\nPenalty: Imprisonment for 2 years.\n (2) *You must not purport to identify an *entity that is an *associate of yours by using:\n (a) a number that is not an *ABN as if it were an ABN; or\n (b) an ABN that is not the entity&#39;s own ABN.\nPenalty: Imprisonment for 2 years.\n (3) *You commit an offence if:\n (a) you purport to identify yourself as being registered under this Act as the representative of an *entity; and\n (b) you are not the registered representative of the entity.\nPenalty: Imprisonment for 2 years."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - The Australian Business Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "The Australian Business Register",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 10--The Australian Business Register > Section 24",
+      "text": "(1) The *Registrar must establish and maintain an *Australian Business Register.\n (2) The *Australian Business Register may be kept in any form that the *Registrar considers appropriate."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Entries in the Australian Business Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Entries in the Australian Business Register",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 10--The Australian Business Register > Section 25",
+      "text": "(1) Under paragraph  11(1)(b), the *Registrar enters in the *Australian Business Register in relation to each *entity registered in the Register:\n (a) the entity&#39;s name; and\n (b) the entity&#39;s *ABN; and\n (c) the date of effect of the registration.\n (2) The *Registrar must also enter the following details in the *Australian Business Register in relation to the *entity:\n (a) an address for service of notices under this Act;\n (aa) details about the entity&#39;s *associates that were requested in the *approved form for registration in that Register;\n (b) the details prescribed in the regulations.\n (3) Under section 11A, the *Registrar enters in the *Australian Business Register in relation to each representative registered in the Register:\n (a) the representative&#39;s name; and\n (b) the representative&#39;s email address; and\n (c) the date of effect of the registration.\n (4) The *Registrar must also enter in the *Australian Business Register in relation to a representative the details prescribed in the regulations.\nNote 1: Section 30-229 of the ITAA 1997 also requires the Registrar to make entries in the Australian Business Register about entities gifts to which are tax -deductible.\nNote 2: Section 426-65 in Schedule 1 to the Taxation Administration Act 1953 also requires the Registrar to make entries in the Australian Business Register about entities that are endorsed in the ways mentioned in that section."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Access to certain information in the Australian Business Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Access to certain information in the Australian Business Register",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 10--The Australian Business Register > Section 26",
+      "text": "(1) The *Registrar may (on receiving payment of any prescribed fee) give a *person a copy of the entry in the *Australian Business Register relating to an *entity.\n (2) Before the copy is given to the *person, the*Registrar must excise from it:\n (a) any detail not listed in subsection  (3) or in regulations made under subsection (3); and\n (b) any detail that the Registrar is prohibited from disclosing under subsection  (4).\n (3) The details are the following:\n (a) the *entity&#39;s name;\n (b) the entity&#39;s *ABN;\n (c) the date of effect of the registration;\n (d) any business name registered to the entity on the Business Names Register established and maintained under section  22 of the Business Names Registration Act 2011;\n (e) the date of effect of any GST registration under section  25-10 of the A New Tax System (Goods and Services Tax) Act 1999;\n (f) the date of effect of any GST cancellation under section  25-60 of the A New Tax System (Goods and Services Tax) Act 1999;\n (g) any statement required to be entered in the *Australian Business Register in relation to the entity under section 30-229 or 195-140 of the *ITAA 1997;\n (ga) any statement required to be entered in the *Australian Business Register in relation to the entity under section 426-65, 426-104, 426 -115, 426-119 or 426-190 in Schedule 1 to the Taxation Administration Act 1953;\n (h) the entity&#39;s Australian Company Number and Australian Registered Body Number (if any);\n (i) the kind of entity;\n (j) the State or Territory in which the entity&#39;s principal place of *business is located, and the postcode relating to the location;\n (ja) if the entity is an *RSE licensee:\n (i) the class of licence held by the licensee; and\n (ii) the address for the licensee recorded by the Australian Prudential Regulation Authority for the purposes of the Superannuation Industry (Supervision) Act 1993; and\n (iii) the licensee&#39;s postal address; and\n (iv) the licensee&#39;s telephone number;\n (jb) if the entity is a registrable superannuation entity within the meaning of the Superannuation Industry (Supervision) Act 1993:\n (i) the address for the entity recorded by the Australian Prudential Regulation Authority for the purposes of the Superannuation Industry (Supervision) Act 1993; and\n (ii) the entity&#39;s postal address; and\n (iii) the entity&#39;s telephone number; and\n (iv) the entity&#39;s contact person; and\n (v) the RSE licensee of the entity;\n (k) any details prescribed in the regulations for the purposes of this section.\n (4) If:\n (a) a *person applies for a detail listed in subsection (3), or in regulations made under subsection (3), in relation to an *entity, not to be disclosed; and\n (b) the *Registrar is satisfied that it is not appropriate to disclose the detail;\nthe Registrar must not disclose the detail under this section.\nNote: A decision refusing an application not to disclose details is a reviewable ABN decision.\n (5) In addition to providing copies under subsection  (1), the *Registrar may make publicly available any details listed in subsection (3), or in regulations made under subsection  (3), in relation to an *entity, other than any detail that the Registrar is prohibited from disclosing under subsection  (4)."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Evidentiary value of the Australian Business Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Evidentiary value of the Australian Business Register",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 10--The Australian Business Register > Section 27",
+      "text": "(1) The *Australian Business Register is admissible in proceedings as prima facie evidence of the matters registered in it.\n (2) If the *Australian Business Register is kept by the use of a computer, the *Registrar may issue a document containing the details of a matter taken from the Register.\n (3) The document issued under subsection  (2) is admissible in proceedings as prima facie evidence of the matter.\n (4) The *Registrar may give a *person a certified copy of, or extract from, the *Australian Business Register on payment of the prescribed fee (if any).\n (5) The certified copy is admissible in proceedings without any further proof of, or the production of, the original.\n (6) This section does not limit the manner in which evidence may be adduced, or the admissibility of evidence, under the Evidence Act 1995.\n (7) If:\n (a) a *person applies for a detail included in the *Australian Business Register in relation to an *entity not to be disclosed; and\n (b) the *Registrar is satisfied that it is not appropriate to disclose the detail;\nthe detail must not be included in any document the Registrar issues or gives under subsection (2) or (4).\nNote: A decision refusing an application not to disclose details is a reviewable ABN decision."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - The Registrar",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "The Registrar",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 11--Other administrative matters > Section 28",
+      "text": "(1) There is to be a Registrar of the *Australian Business Register.\n (2) The Commissioner of Taxation is the Registrar of the *Australian Business Register.\nNote 1: Subsections 6B(6) and (6A) of the Taxation Administration Act 1953 allow a person acting as Commissioner of Taxation to exercise the powers and perform the functions that this Act gives to the Registrar.\nNote 2: Subsections 8(1) and (1A) of the Taxation Administration Act 1953 allow the Registrar to delegate powers and functions that this Act gives the Registrar.\n (3) As well as the specific powers and functions conferred on the *Registrar by this Act, the Registrar has the general administration of this Act.\n (4) For the purposes of any other law of the Commonwealth, this Act is taken to be one that the Commissioner of Taxation administers or has the general administration of."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Annual report on operation of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Annual report on operation of this Act",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 11--Other administrative matters > Section 29",
+      "text": "(1) The *Registrar must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report on the working of this Act during the year ending on that 30  June.\nNote: Section 34C of the Acts Interpretation Act 1901 applies to reports under this section.\n (2) The Minister must table a copy of the report before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report."
+    },
+    {
+      "key": "section:29A",
+      "title": "Section 29A - Adjustments to details",
+      "main_structural_unit": "section",
+      "main_structural_number": "29A",
+      "main_structural_heading": "Adjustments to details",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 11--Other administrative matters > Section 29A",
+      "text": "(1) This section applies if the *Registrar is satisfied that:\n (a) details entered in relation to an *entity in the *Australian Business Register; or\n (b) details entered in relation to an entity&#39;s representative in that Register;\nare incorrect and the Registrar has access to details that the Registrar believes to be the correct ones.\n (2) The *Registrar may adjust the details accordingly."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Protection of confidentiality of information",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Protection of confidentiality of information",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 11--Other administrative matters > Section 30",
+      "text": "(1) This section restricts what a *person (the entrusted person) may do with *protected information, or *protected documents, that the person has obtained in the course of *official employment.\n (2) The *entrusted person:\n (a) must not make a record of *protected information; and\n (b) must not disclose it to anyone else;\nif the recording or disclosure is not done in accordance with subsection (3).\nPenalty: Imprisonment for 2 years.\n (3) It is not an offence against subsection  (2) if any of the following apply to the recording or disclosure:\n (a) the recording or disclosure is for the purposes of this Act;\n (b) the recording or disclosure happens in the course of the performance of the duties of the *entrusted person&#39;s *official employment;\n (c) the entrusted person is the *Registrar and the disclosure is to:\n (i) an Agency Head (within the meaning of the Public Service Act 1999) for the purposes of carrying out functions of the Agency (within the meaning of that Act); or\n (ii) the accountable authority of a non -corporate Commonwealth entity within the meaning of the Public Governance, Performance and Accountability Act 2013 for the purposes of carrying out functions conferred on the entity by a law of the Commonwealth; or\n (iii) another *person for the purpose of that other person carrying out functions under a *taxation law; or\n (iv) the Administrative Review Tribunal in connection with proceedings under a taxation law; or\n (vi) the head (however described) of a Department of State of a State or Territory for the purposes of carrying out functions of the Department; or\n (vii) the head (however described) of a body established for a public purpose by or under a law of a State or Territory (including a local governing body) for the purposes of carrying out functions conferred on the body by a law of the State or Territory; or\n (viii) a prescribed body for the prescribed purposes;\n (d) the disclosure is by a person authorised by the Registrar to disclose the information and the disclosure is made to:\n (i) an Agency Head (within the meaning of the Public Service Act 1999) for the purposes of carrying out functions of the Agency (within the meaning of that Act); or\n (ii) the accountable authority of a non -corporate Commonwealth entity within the meaning of the Public Governance, Performance and Accountability Act 2013 for the purposes of carrying out functions conferred on the entity by a law of the Commonwealth; or\n (iii) another person for the purpose of that other person carrying out functions under an Act administered by the Commissioner of Taxation; or\n (iv) the head (however described) of a Department of State of a State or Territory for the purposes of carrying out functions of the Department; or\n (v) the head (however described) of a body established for a public purpose by or under a law of a State or Territory (including a local governing body) for the purposes of carrying out functions conferred on the body by a law of the State or Territory; or\n (vi) a prescribed body for the prescribed purposes;\n (e) the entrusted person is the Registrar and the disclosure:\n (i) is of information relating to an individual who is, or who has been, registered as an *entity&#39;s representative in the *Australian Business Register; and\n (ii) is for the purposes of facilitating the entity&#39;s electronic dealings with *government entities or for maintaining details in the Register.\nNote: A disclosure under paragraph (3)(e) could, for example, be for the purpose of administering or cancelling the representative&#39;s registration.\n (4) Subsection (3) does not authorise the disclosure of information to:\n (a) a Commonwealth Minister; or\n (b) a Minister of a State or Territory; or\n (c) an elected member of a body established under a law of a State or Territory.\n (5) Except where it is necessary to do so for the purpose of giving effect to a *taxation law, the *entrusted person is not to be required:\n (a) to produce any *protected document to a court; or\n (b) to disclose *protected information to a court.\n (6) In this section:\n\"disclose\" means divulge or communicate."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATION > Division 11--Other administrative matters > Section 31",
+      "text": "(1) The Governor -General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;\nand, in particular:\n (c) prescribing fees; or\n (d) prescribing penalties, not exceeding 10 penalty units, for offences against the regulations.\n (2) The amount of a fee prescribed under paragraph  (1)(c):\n (a) must be reasonably related to the expenses incurred or to be incurred by the *Registrar in connection with the activity that attracts the fee; and\n (b) must not be such as to amount to taxation."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - When defined terms are identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "When defined terms are identified",
+      "defined_term": null,
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 12--Identifying defined terms > Section 32",
+      "text": "(1) Many of the terms used in this Act are defined.\n (2) Most defined terms in this Act are identified by an asterisk appearing at the start of the term: as in &quot; *enterprise&quot;. The footnote that goes with the asterisk contains a signpost to the Dictionary definitions in section  41."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - When terms are not identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "When terms are not identified",
+      "defined_term": null,
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 12--Identifying defined terms > Section 33",
+      "text": "Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Identifying the defined term in a definition",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Identifying the defined term in a definition",
+      "defined_term": null,
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 12--Identifying defined terms > Section 34",
+      "text": "Within a definition, the defined term is identified by bold italics."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - What forms part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "What forms part of this Act",
+      "defined_term": null,
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 13--What forms part of this Act > Section 35",
+      "text": "(1) These all form part of this Act:\n &bull;  the headings to the Parts, Divisions and Subdivisions of this Act;\n &bull;  the headings to the sections and subsections of this Act;\n &bull;  the notes and examples (however described) that follow provisions of this Act.\n (2) The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - What does not form part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "What does not form part of this Act",
+      "defined_term": null,
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 13--What forms part of this Act > Section 36",
+      "text": "Footnotes and endnotes do not form part of this Act."
+    },
+    {
+      "key": "section:41.term:abn-australian-business-number",
+      "title": "Section 41 Dictionary \"ABN (Australian Business Number)\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"ABN (Australian Business Number)\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"ABN (Australian Business Number)\" for an *entity means the entity&#39;s ABN as shown in the *Australian Business Register."
+    },
+    {
+      "key": "section:41.term:approved-form",
+      "title": "Section 41 Dictionary \"approved form\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"approved form\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"approved form\" has the same meaning as in the *ITAA 1997."
+    },
+    {
+      "key": "section:41.term:associate",
+      "title": "Section 41 Dictionary \"associate\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"associate\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"associate\" has the meaning given by section 318 of the *ITAA 1936.\n\"Australia\", when used in a geographical sense, has the same meaning as in the *ITAA 1997."
+    },
+    {
+      "key": "section:41.term:australian-business-register",
+      "title": "Section 41 Dictionary \"Australian Business Register\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Australian Business Register\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"Australian Business Register\" means the register established under section 24."
+    },
+    {
+      "key": "section:41.term:business",
+      "title": "Section 41 Dictionary \"business\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"business\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"business\" includes any profession, trade, employment, vocation or calling, but does not include occupation as an employee."
+    },
+    {
+      "key": "section:41.term:carrying-on",
+      "title": "Section 41 Dictionary \"carrying on\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"carrying on\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"carrying on\" an *enterprise includes doing anything in the course of the commencement or termination of the enterprise."
+    },
+    {
+      "key": "section:41.term:company",
+      "title": "Section 41 Dictionary \"company\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"company\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"company\" means:\n (a) a body corporate; or\n (b) any other unincorporated association or body of *persons;\nbut does not include a *partnership or a *non-entity joint venture.\n\"connected with the indirect tax zone\", in relation to a *supply, has the meaning given by section  195-1 of the A New Tax System (Goods and Services Tax) Act 1999."
+    },
+    {
+      "key": "section:41.term:corporations-act-company",
+      "title": "Section 41 Dictionary \"Corporations Act company\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Corporations Act company\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"Corporations Act company\" means a body registered as a company under the Corporations Act 2001."
+    },
+    {
+      "key": "section:41.term:enterprise",
+      "title": "Section 41 Dictionary \"enterprise\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"enterprise\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"enterprise\" has the meaning given by section 9-20 of the A New Tax System (Goods and Services Tax) Act 1999 ."
+    },
+    {
+      "key": "section:41.term:entity",
+      "title": "Section 41 Dictionary \"entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"entity\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"entity\" has the meaning given by section 184-1 of the A New Tax System (Goods and Services Tax) Act 1999 ."
+    },
+    {
+      "key": "section:41.term:entrusted-person",
+      "title": "Section 41 Dictionary \"entrusted person\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"entrusted person\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"entrusted person\" has the meaning given by subsection 30(1)."
+    },
+    {
+      "key": "section:41.term:government-entity",
+      "title": "Section 41 Dictionary \"government entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"government entity\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"government entity\" means:\n (a) a Department of State of the Commonwealth; or\n (b) a Department of the Parliament established under the Parliamentary Service Act 1999; or\n (c) an Executive Agency, or Statutory Agency, within the meaning of the Public Service Act 1999; or\n (d) a Department of State of a State or Territory; or\n (e) an organisation that:\n (i) is not an entity; and\n (ii) is either established by the Commonwealth, a State or a Territory (whether under a law or not) to carry on an *enterprise or established for a public purpose by an *Australian law; and\n (iii) can be separately identified by reference to the nature of the activities carried on through the organisation or the location of the organisation;\n  whether or not the organisation is part of a Department or branch described in paragraph  (a), (b), (c) or (d) or of another organisation of the kind described in this paragraph."
+    },
+    {
+      "key": "section:41.term:indirect-tax-zone",
+      "title": "Section 41 Dictionary \"indirect tax zone\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"indirect tax zone\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"indirect tax zone\" has the meaning given by section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 ."
+    },
+    {
+      "key": "section:41.term:individual",
+      "title": "Section 41 Dictionary \"individual\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"individual\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"individual\" means a natural person."
+    },
+    {
+      "key": "section:41.term:itaa-1936",
+      "title": "Section 41 Dictionary \"ITAA 1936\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"ITAA 1936\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"ITAA 1936\" means the Income Tax Assessment Act 1936."
+    },
+    {
+      "key": "section:41.term:itaa-1997",
+      "title": "Section 41 Dictionary \"ITAA 1997\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"ITAA 1997\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"ITAA 1997\" means the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:41.term:non-cash-benefit",
+      "title": "Section 41 Dictionary \"non-cash benefit\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"non-cash benefit\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"non-cash benefit\" has the meaning given by subsection  995-1(1) of the *ITAA 1997."
+    },
+    {
+      "key": "section:41.term:non-entity-joint-venture",
+      "title": "Section 41 Dictionary \"non-entity joint venture\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"non-entity joint venture\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"non-entity joint venture\" means an arrangement that the Registrar is satisfied is a contractual arrangement:\n (a) under which 2 or more parties undertake an economic activity that is subject to the joint control of the parties; and\n (b) that is entered into to obtain individual benefits for the parties, in the form of a share of the output of the arrangement rather than joint or collective profits for all the parties."
+    },
+    {
+      "key": "section:41.term:non-profit-sub-entity",
+      "title": "Section 41 Dictionary \"Non-profit sub-entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Non-profit sub-entity\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"Non-profit sub-entity\": a branch of an entity is a non-profit sub-entity if:\n (a) the entity has chosen to apply Division  63 of the A New Tax System (Goods and Services Tax) Act 1999, and that choice still has effect; and\n (b) the branch maintains an independent system of accounting; and\n (c) the branch can be separately identified by reference to:\n (i) the nature of the activities carried on through the branch; or\n (ii) the location of the branch; and\n (d) the branch is referred to in the entity&#39;s records to the effect that it is to be treated as a separate entity for the purposes of the GST law."
+    },
+    {
+      "key": "section:41.term:official-employment",
+      "title": "Section 41 Dictionary \"official employment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"official employment\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"official employment\" means:\n (a) appointment or employment by the Commonwealth, or the performance of services for the Commonwealth; or\n (b) the exercise of powers or performance of functions under a delegation by the *Registrar; or\n (c) appointment or employment by a State or Territory, or the performance of services for a State or Territory; or\n (d) appointment or employment by a local governing body, or the performance of services for a local governing body.\nNote: The Registrar may delegate powers and functions under section 8 of the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:41.term:partnership",
+      "title": "Section 41 Dictionary \"partnership\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"partnership\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"partnership\" has the meaning given by section 995-1 of the *ITAA 1997."
+    },
+    {
+      "key": "section:41.term:person",
+      "title": "Section 41 Dictionary \"person\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"person\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"person\" includes a *company."
+    },
+    {
+      "key": "section:41.term:protected-document",
+      "title": "Section 41 Dictionary \"protected document\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"protected document\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"protected document\" means any document made or given under, or for the purposes of, this Act."
+    },
+    {
+      "key": "section:41.term:protected-information",
+      "title": "Section 41 Dictionary \"protected information\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"protected information\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"protected information\" means information that meets all the following conditions:\n (a) it relates to the affairs of a *person other than the *entrusted person;\n (b) it was obtained by the entrusted person, or by any other person, in the course of *official employment;\n (c) it was disclosed or obtained under, or in relation to, this Act."
+    },
+    {
+      "key": "section:41.term:registrar",
+      "title": "Section 41 Dictionary \"Registrar\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Registrar\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"Registrar\" means the Registrar of the *Australian Business Register."
+    },
+    {
+      "key": "section:41.term:religious-practitioner",
+      "title": "Section 41 Dictionary \"religious practitioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"religious practitioner\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"religious practitioner\" means:\n (a) a minister of religion; or\n (b) a student at an institution who is undertaking a course of instruction in the duties of a minister of religion; or\n (c) a full-time member of a religious order; or\n (d) a student at a college conducted solely for training persons to become members of religious orders."
+    },
+    {
+      "key": "section:41.term:reviewable-abn-decision",
+      "title": "Section 41 Dictionary \"reviewable ABN decision\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"reviewable ABN decision\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"reviewable ABN decision\" has the meaning given by section 21."
+    },
+    {
+      "key": "section:41.term:rse-licence",
+      "title": "Section 41 Dictionary \"RSE licence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"RSE licence\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"RSE licence\" means an RSE licence within the meaning of the Superannuation Industry (Supervision) Act 1993."
+    },
+    {
+      "key": "section:41.term:rse-licensee",
+      "title": "Section 41 Dictionary \"RSE licensee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"RSE licensee\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"RSE licensee\" means an RSE licensee within the meaning of the Superannuation Industry (Supervision) Act 1993 ."
+    },
+    {
+      "key": "section:41.term:superannuation-fund",
+      "title": "Section 41 Dictionary \"superannuation fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"superannuation fund\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"superannuation fund\" has the meaning given by section 995-1 of the ITAA 1997."
+    },
+    {
+      "key": "section:41.term:supply",
+      "title": "Section 41 Dictionary \"supply\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"supply\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"supply\" has the meaning given by section 9-10 of the A New Tax System (Goods and Services Tax) Act 1999 ."
+    },
+    {
+      "key": "section:41.term:taxation-law",
+      "title": "Section 41 Dictionary \"taxation law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxation law\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"taxation law\" has the meaning given by section 2 of the Taxation Administration Act 1953 ."
+    },
+    {
+      "key": "section:41.term:tfn",
+      "title": "Section 41 Dictionary \"TFN\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"TFN\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"TFN\" means tax file number as defined in section 202A of the *ITAA 1936."
+    },
+    {
+      "key": "section:41.term:withholding-payment",
+      "title": "Section 41 Dictionary \"withholding payment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"withholding payment\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"withholding payment\" has the meaning given by subsection 995-1(1) of the *ITAA 1997."
+    },
+    {
+      "key": "section:41.term:withholding-payment",
+      "title": "Section 41 Dictionary \"withholding payment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"withholding payment\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"withholding payment\" covered by a particular provision in Schedule 1 to the Taxation Administration Act 1953 has the meaning given by subsection 995-1(1) of the *ITAA 1997."
+    },
+    {
+      "key": "section:41.term:you",
+      "title": "Section 41 Dictionary \"you\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"you\"",
+      "structure_path": "Part 4--RULES--FOR INTERPRETING THIS ACT > Division 15--The Dictionary > Section 41",
+      "text": "\"you\": if a provision of this Act uses the expression you, it applies to entities generally, unless its application is expressly limited.\nNote: The expression you is not used in provisions that apply only to entities that are not individuals."
+    }
+  ]
+}

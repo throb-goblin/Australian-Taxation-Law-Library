@@ -1,0 +1,1051 @@
+{
+  "doc": {
+    "jurisdiction": "victoria",
+    "source_url": "https://classic.austlii.edu.au/au/legis/vic/consol_act/gta2023174/",
+    "register_url": "https://www.legislation.vic.gov.au/in-force/acts/gambling-taxation-act-2023/",
+    "source": "Gambling Taxation Act 2023 (100000071).txt",
+    "filename": "Gambling Taxation Act 2023 (100000071).json",
+    "name": "Gambling Taxation Act 2023",
+    "citation": "Gambling Taxation Act 2023"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Purposes",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Purposes",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": "The purposes of this Act are&#8212;\n         (a)     to consolidate and amend various gambling taxes; and\n         (b)     to make consequential amendments to the Casino Control Act\n1991, the Casino (Management Agreement) Act 1993, the Gambling\nRegulation Act 2003 and the Taxation Administration Act\n1997."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 2",
+      "text": "This Act comes into operation on 1 July\n2023."
+    },
+    {
+      "key": "section:3.term:additional-casino-tax",
+      "title": "Section 3 Definitions \"additional casino tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"additional casino tax\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"additional casino tax\" means tax imposed by section 7(1)(c)\nand (d);"
+    },
+    {
+      "key": "section:3.term:casino-tax",
+      "title": "Section 3 Definitions \"casino tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"casino tax\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"casino tax\" means tax imposed by\nSection 7(1)(a);"
+    },
+    {
+      "key": "section:3.term:community-benefit-levy",
+      "title": "Section 3 Definitions \"community benefit levy\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"community benefit levy\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"community benefit levy\" means the levy imposed by section\n7(1)(b);"
+    },
+    {
+      "key": "section:3.term:gst",
+      "title": "Section 3 Definitions \"GST\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"GST\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"GST\" has the same meaning as in the GST Act;"
+    },
+    {
+      "key": "section:3.term:gst-act",
+      "title": "Section 3 Definitions \"GST Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"GST Act\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"GST Act\" means the A New Tax System (Goods and Services Tax)\nAct 1999 of the Commonwealth;"
+    },
+    {
+      "key": "section:3.term:hospitals-and-charities-fund",
+      "title": "Section 3 Definitions \"Hospitals and Charities Fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Hospitals and Charities Fund\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"Hospitals and Charities Fund\" means the fund established under\nsection 136 of the Health Services Act 1988;"
+    },
+    {
+      "key": "section:3.term:keno-tax",
+      "title": "Section 3 Definitions \"keno tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"keno tax\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"keno tax\" means tax imposed by Part 3;"
+    },
+    {
+      "key": "section:3.term:mental-health-fund",
+      "title": "Section 3 Definitions \"Mental Health Fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Mental Health Fund\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"Mental Health Fund\" means the fund referred to in section\nSection 10.3.4 of the Gambling Regulation Act 2003;"
+    },
+    {
+      "key": "section:3.term:vgccc",
+      "title": "Section 3 Definitions \"VGCCC\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"VGCCC\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"VGCCC\" means Victorian Gambling and Casino Control Commission\nestablished under Part 2 of the Victorian Gambling and Casino Control\nCommission Act 2011;"
+    },
+    {
+      "key": "section:3.term:wagering-and-betting-tax",
+      "title": "Section 3 Definitions \"wagering and betting tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"wagering and betting tax\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"wagering and betting tax\" means tax imposed by Part\n4;"
+    },
+    {
+      "key": "section:3.term:written-notice",
+      "title": "Section 3 Definitions \"written notice\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"written notice\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"written notice\" includes a notice given in the form of\nelectronic data from which a written document can be produced or\nreproduced."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Taxation Administration Act 1997",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Taxation Administration Act 1997",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "This Act is to be read together with the\nTaxation Administration Act 1997 which provides for the\nadministration and enforcement of this Act and other taxation laws.\nNote\nThis Act and regulations made under this Act are a taxation law under the\nTaxation Administration Act 1997."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Act binds the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Act binds the Crown",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 5",
+      "text": "(1)     This Act binds the Crown in right of\nVictoria and, so far as the legislative power of the Parliament permits, the\nCrown in all its other capacities.\n     (2)     Nothing in this Act makes the Crown in any of its capacities liable to\nbe prosecuted for an offence.\nPart\n2&#8212;Casino taxation\nDivision\n1&#8212;Introduction"
+    },
+    {
+      "key": "section:6.term:commission-based-player",
+      "title": "Section 6 Definitions \"commission based player\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"commission based player\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"commission based player\" means a person who participates in a\npremium player arrangement with a casino operator where the person and the\ncasino operator satisfy the requirements of any relevant controls and procedures\napproved by the VGCCC under section 121 of the Casino Control Act 1991 in\nrespect of a premium player;\ncommission based players gaming revenue attributable to gaming\nmachines means the total amount received by a casino operator from\nbets made on gaming machines in the casino by commission based players,\nincluding any amounts in respect of the face value of any free bets,\nless&#8212;\n         (a)     the total amount of all prizes paid from that amount, including net\nprizes paid in relation to free bets (other than prizes paid into or out of a\njackpot special prize pool); and\n         (b)     the total of all amounts received by the casino operator from bets\nmade on gaming machines by commission based players that are paid into a jackpot\nspecial prize pool and that are required to be paid or payable as\nprizes;\ncommission based players gaming revenue attributable to table\ngames means the total of all amounts, including cheques and other\nnegotiable instruments whether collected or not, received in any period by a\ncasino operator from the conduct or playing of table games in the casino by\ncommission based players, including any amounts in respect of the face value of\nany free bets, less the total amount of all winnings paid in that period by the\ncasino operator to commission based players in respect of the conduct or playing\nof table games in the casino by them, including net prizes paid in relation to\nfree bets;"
+    },
+    {
+      "key": "section:6.term:free-bet",
+      "title": "Section 6 Definitions \"free bet\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"free bet\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"free bet\" means a bet made wholly or partly without the person\nmaking the bet paying any monetary amount for the bet or part of the\nbet;\ngaming machine has the meaning given by section 1.3(1)\nof the Gambling Regulation Act 2003;"
+    },
+    {
+      "key": "section:6.term:gaming-revenue-attributable-to-gaming-machines",
+      "title": "Section 6 Definitions \"gaming revenue attributable to gaming machines\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"gaming revenue attributable to gaming machines\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"gaming revenue attributable to gaming machines\" means the\ntotal amount received by a casino operator from bets made on gaming machines in\nthe casino by players other than commission based players, including any amounts\nin respect of the face value of any free bets, less&#8212;\n         (a)     the total amount of all prizes paid from that amount, including net\nprizes paid in relation to free bets (other than prizes paid into or out of a\njackpot special prize pool); and\n         (b)     the total of all amounts received by the casino operator from bets\nmade on gaming machines by players other than commission based players that are\npaid into a jackpot special prize pool and that are required to be paid or\npayable as prizes;"
+    },
+    {
+      "key": "section:6.term:gaming-revenue-attributable-to-table-games",
+      "title": "Section 6 Definitions \"gaming revenue attributable to table games\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"gaming revenue attributable to table games\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"gaming revenue attributable to table games\" means the\ntotal of all amounts, including cheques and other negotiable instruments whether\ncollected or not, received in any period by a casino operator from the conduct\nor playing of table games in the casino by players other than commission based\nplayers, including any amounts in respect of the face value of any free bets,\nless the total amount of all winnings paid in that period by the casino operator\nin respect of the conduct or playing of table games in the casino by players\nother than commission based players, including net prizes paid in relation to\nfree bets;"
+    },
+    {
+      "key": "section:6.term:global-gst-amount",
+      "title": "Section 6 Definitions \"global GST amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"global GST amount\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"global GST amount\" has the same meaning as in the GST\nAct;"
+    },
+    {
+      "key": "section:6.term:gross-gaming-revenue",
+      "title": "Section 6 Definitions \"gross gaming revenue\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"gross gaming revenue\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"gross gaming revenue\" means the sum of&#8212;\n         (a)     gaming revenue attributable to gaming machines; and\n         (b)     gaming revenue attributable to table games;\njackpot special prize pool has the meaning given by\nsection 3.1.2 of the Gambling Regulation Act 2003;\n\"net prizes\", in relation to free bets, means any prizes\npayable in respect of the bets minus the face value of the bets;\npremium player arrangement has the meaning given by\nsection 3(1) of the Casino Control Act 1991;\n\"State tax credit\", for a casino operator in respect of a\nmonth, means an amount equal to the amount determined under Division 126 of the\nGST Act as the operator's global GST amount for the month;"
+    },
+    {
+      "key": "section:6.term:table-game",
+      "title": "Section 6 Definitions \"table game\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"table game\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"table game\" means&#8212;\n         (a)     a game that has been approved by the VGCCC under section 60 of the\nCasino Control Act 1991 as a \"table game\" at any time on or after 4 June\n2009; or\n         (b)     a semi-automated, fully automated, electronic or animated version of a\ngame referred to in paragraph (a); or\n         (c)     a game that is substantially similar to a game referred to in\nparagraph (a) or (b);"
+    },
+    {
+      "key": "section:6.term:total-commission-based-players-gaming-revenue",
+      "title": "Section 6 Definitions \"total commission based players gaming revenue\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"total commission based players gaming revenue\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"total commission based players gaming revenue\" means the sum\nof&#8212;\n         (a)     commission based players gaming revenue attributable to gaming\nmachines; and\n         (b)     commission based players gaming revenue attributable to table\ngames;"
+    },
+    {
+      "key": "section:6.term:total-gaming-revenue",
+      "title": "Section 6 Definitions \"total gaming revenue\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions for Part 2",
+      "defined_term": "\"total gaming revenue\"",
+      "structure_path": "Part 2--CASINO TAXATION > Division 1--Introduction > Section 6",
+      "text": "\"total gaming revenue\" means the sum of&#8212;\n         (a)     gross gaming revenue; and\n         (b)     total commission based players gaming revenue.\nDivision\n2&#8212;Imposition and calculation of tax"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 2--Imposition and calculation of tax > Section 7",
+      "text": "(1)     The following taxes are imposed on the\nrevenue from gaming machines and table games in a casino&#8212;\n         (a)     casino tax in accordance with section 8;\n         (b)     a community benefit levy in accordance with section 9;\n         (c)     additional casino tax in accordance with section 10;\n         (d)     additional casino tax in accordance with section 11.\n     (2)     The casino operator is liable to pay the taxes imposed by subsection\n(1) in respect of a casino."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Casino tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Casino tax",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 2--Imposition and calculation of tax > Section 8",
+      "text": "(1)     Subject to subsection (6), casino tax is\ncalculated in accordance with the following formula&#8212;\nwhere&#8212;\n     CT     is the casino tax payable by a casino operator for a\nmonth;\n     TCT     is the casino operator's total casino tax calculated under\nsubsection (2) for the month;\n     STC     is the casino operator's State tax credit for the\nmonth.\n     (2)     For the purposes of subsection (1), a casino operator's total casino\ntax is calculated in accordance with the following formula&#8212;\nwhere&#8212;\n     TCT     is the casino operator's total casino tax for a\nmonth;\n     TT     is an amount equal to 21&#183;25% of the casino operator's\ngaming revenue attributable to table games in the month;\n     TG     is the tax on the casino operator's gaming revenue attributable\nto gaming machines in the month, calculated under subsection (3);\n     TCBP     is an amount equal to 9% of the casino operator's total\ncommission based players gaming revenue in the month.\n     (3)     For the purposes of subsection (2), the tax on a casino operator's\ngaming revenue attributable to gaming machines is calculated in accordance with\nthe following formula&#8212;\nwhere&#8212;\n     TG     is the tax on the casino operator's gaming revenue attributable\nto gaming machines in a month;\n     GMT     is the tax per gaming machine installed in the\ncasino calculated under subsection (4) in the month;\n     E     is the average number of gaming machines installed in the casino\nin the month, calculated by dividing the sum of the total number of gaming\nmachines installed in the casino on each day of the month by the number of days\nin the month.\n     (4)     For the purposes of subsection (3), the tax per gaming machine\ninstalled in a casino is the sum of the amounts of average gaming revenue\nattributable to gaming machines installed in the casino determined by\nmultiplying those parts of that average gaming revenue specified in\nColumn 1 of the Table by the rate specified in Column 2 of the Table\nopposite those parts.\nColumn 1\nColumn 2\nThe part of average gaming revenue attributable to gaming machines\nthat:\nRate of tax\ndoes not exceed $2666\n0&#183;00%\nexceeds $2666 but does not exceed $6666.67\n46&#183;70%\nexceeds $6666.67 but does not exceed $12 500\n51&#183;17%\nexceeds $12 500\n60&#183;67%\n     (5)     In subsection (4), the average gaming revenue attributable to\ngaming machines installed in the casino is the amount calculated in\naccordance with the following formula&#8212;\nwhere&#8212;\n     A     is the average gaming revenue attributable to gaming machines\ninstalled in the casino in a month;\n     TR     is the gaming revenue attributable to gaming machines installed\nin the casino in the month;\n     E     has the same meaning as in subsection (3).\n     (6)     For the purposes of subsection (1)&#8212;\n         (a)     if a casino operator's total gaming revenue in a month is less than\nzero, the State tax credit for that month is to be applied to the total casino\ntax for the following month; and\n         (b)     if a casino operator's total casino tax for a month is less than the\noperator's State tax credit for that month, the excess amount of the State tax\ncredit is to be applied to the total casino tax for the following\nmonth."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Community benefit levy",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Community benefit levy",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 2--Imposition and calculation of tax > Section 9",
+      "text": "(1)     The community benefit levy is 1% of a\ncasino operator's total gaming revenue in a month.\n     (2)     An amount equal to the amount of community benefit levy paid into the\nConsolidated Fund must, in respect of each financial year, be paid out of the\nConsolidated Fund, in the proportions determined by the Treasurer, into the\nHospitals and Charities Fund.\n     (3)     The Consolidated Fund is appropriated to the necessary extent for\npayment to be made under subsection (2)."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Additional casino tax&#8212;gross gaming revenue",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Additional casino tax&#8212;gross gaming revenue",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 2--Imposition and calculation of tax > Section 10",
+      "text": "(1)     Additional casino tax is payable in\naccordance with this section if a casino operator's gross gaming revenue in a\nfinancial year exceeds the base amount for that financial year.\n     (2)     The additional casino tax is the amount in Column 2 of the Table\nin Schedule 1 opposite the amount in Column 2 of that Table by which the gross\ngaming revenue of the casino operator in the financial year exceeds the base\namount for that year.\n     (3)     For the purposes of this section and Schedule 1, the base\namount for a financial year is&#8212;\n         (a)     for the financial year beginning on\nSection 1 July 2023&#8212;$1 200 000 000; and\n         (b)     for a subsequent financial year, subject to subsection (4)&#8212;the\namount determined in accordance with the following formula&#8212;\nwhere&#8212;\n     BA     is the base amount for the financial year;\n     CPIi     is the all groups consumer price index for\nMelbourne in original terms for the last reference period in the preceding\nfinancial year most recently published by the Australian Bureau of\nStatistics;\n     CPIii     is the all groups consumer price index in original\nterms for Melbourne for the corresponding reference period one year earlier than\nthe reference period referred to in CPIi most recently published by\nthe Australian Bureau of Statistics;\n     P     is the base amount for the previous financial year.\n     (4)     For the purposes of subsection (3), if the consumer price index\nreferred to in the definition of CPIi and CPIii is\ndiscontinued, suspended or otherwise altered to such an extent that an\nadjustment cannot, in the reasonable opinion of the Commissioner, be made, the\nbase amount is to be determined by substituting another index that in the\nCommissioner's opinion is comparable."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Additional casino tax&#8212;commission based players gaming revenue",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Additional casino tax&#8212;commission based players gaming revenue",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 2--Imposition and calculation of tax > Section 11",
+      "text": "(1)     Additional casino tax is payable in\naccordance with this section if a casino operator's total commission based\nplayers gaming revenue in a financial year is less than\n$100 000 000.\n     (2)     The amount of the additional casino tax is calculated in accordance\nwith the following formula&#8212;\nwhere&#8212;\n     ACT     is the additional casino tax for the financial year;\n     TCBP     is the casino operator's total commission based players gaming\nrevenue in the financial year."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Carrying forward negative total commission based players gaming revenue",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Carrying forward negative total commission based players gaming revenue",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 2--Imposition and calculation of tax > Section 12",
+      "text": "If, in any month, a casino operator's total\ncommission based players gaming revenue is less than zero, the negative amount\nmay be carried forward to the following month and applied to reduce the total\ncommission based players gaming revenue in that month.\nDivision\n3&#8212;Registration and returns"
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Registration of casino operators",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Registration of casino operators",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 3--Registration and returns > Section 13",
+      "text": "(1)     A casino operator that becomes liable for\ntax under this Part must apply to the Commissioner, in the form approved by the\nCommissioner, for registration under this Division within 14 days after the end\nof the first month in which the operator becomes liable.\nPenalty:     500 penalty units in the case of a body corporate;\n     100 penalty units in any other case.\nNote\nSection 130B of the Taxation Administration Act 1997 applies to\nan offence against this subsection.\n     (2)     The Commissioner must register a casino operator that applies under\nsubsection (1)."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Returns and payment of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Returns and payment of tax",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 3--Registration and returns > Section 14",
+      "text": "(1)     A casino operator must&#8212;\n         (a)     within 30 days after the end of each month&#8212;\n               (i)     lodge with the Commissioner a return in respect of the month and a\ncopy of the operator's GST return in respect of the month lodged under Division\nSection 31 of the GST Act; and\n               (ii)     pay to the Commissioner any casino tax and community benefit levy\npayable for the month; and\n         (b)     within 30 days after the end of each financial year, pay to the\nCommissioner any additional casino tax payable for the financial year.\n     (2)     A casino operator must lodge a return under subsection (1)(a)(i)\neven if no casino tax or community benefit levy is payable for the\nmonth.\n     (3)     A return is to be in the form, and contain the information,\ndetermined by the Commissioner.\nS. 14A inserted by\nNo. 22/2024 s. 5."
+    },
+    {
+      "key": "section:14A",
+      "title": "Section 14A - Power to require regular provision of information etc. during specified period",
+      "main_structural_unit": "section",
+      "main_structural_number": "14A",
+      "main_structural_heading": "Power to require regular provision of information etc. during specified period",
+      "defined_term": null,
+      "structure_path": "Part 2--CASINO TAXATION > Division 3--Registration and returns > Section 14A",
+      "text": "(1)     The Commissioner, by written notice, may\nrequire a casino operator to provide to the Commissioner any information,\ndocument or thing that&#8212;\n         (a)     is of a class of information, document or thing specified in the\nnotice; and\n         (b)     is in or comes into the possession of the casino operator during the\nperiod (not exceeding 6 months) specified in the notice; and\n         (c)     is an additional record that the casino operator is required to keep,\nor cause to be kept, in accordance with a written notice under section 51 of the\nTaxation Administration Act 1997.\n     (2)     A casino operator to whom a notice is given under subsection (1) must\nprovide any information, document or thing required by the notice within the\ntimeframe specified in the notice or any extended timeframe specified by the\nCommissioner.\nPenalty:     500 penalty units in the case of a body corporate;\n     100 penalty units in any other case.\nNote\nSection 130B of the Taxation Administration Act 1997 applies to\nan offence against this subsection.\n     (3)     A casino operator does not commit an offence against subsection (2) if\nthe casino operator has a reasonable excuse for not providing the required\ninformation, document or thing within the timeframe specified in the notice or\nany extended timeframe specified by the Commissioner.\nPart\n3&#8212;Taxation of keno\nDivision\n1&#8212;Introduction"
+    },
+    {
+      "key": "section:15.term:free-keno-game",
+      "title": "Section 15 Definitions \"free keno game\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Definitions for Part 3",
+      "defined_term": "\"free keno game\"",
+      "structure_path": "Part 3--TAXATION OF KENO > Division 1--Introduction > Section 15",
+      "text": "\"free keno game\" means a keno game played by a person without\npaying, wholly or in part, a monetary amount to play the game;"
+    },
+    {
+      "key": "section:15.term:keno-entity",
+      "title": "Section 15 Definitions \"keno entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Definitions for Part 3",
+      "defined_term": "\"keno entity\"",
+      "structure_path": "Part 3--TAXATION OF KENO > Division 1--Introduction > Section 15",
+      "text": "\"keno entity\" means any of the following&#8212;\n         (a)     a keno licensee;\n         (b)     a person authorised or permitted to conduct a keno game, in Victoria\nor elsewhere, under the law of another State or a Territory;\n         (c)     a person, or person of a class, prescribed by the\nregulations;\nkeno game has the meaning given by section 1.3(1) of the\nGambling Regulation Act 2003;\nkeno licensee has the meaning given by section 1.3(1) of\nthe Gambling Regulation Act 2003;\nmulti-jurisdictional agreement has the meaning given by\nSection 24(1);\n\"net keno revenue\"&#8212;see section 16;\n\"net prizes\", in relation to a free keno game, means the prizes\npayable on the keno game minus the face value of the keno game;"
+    },
+    {
+      "key": "section:15.term:participating-jurisdiction",
+      "title": "Section 15 Definitions \"participating jurisdiction\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Definitions for Part 3",
+      "defined_term": "\"participating jurisdiction\"",
+      "structure_path": "Part 3--TAXATION OF KENO > Division 1--Introduction > Section 15",
+      "text": "\"participating jurisdiction\" means Victoria and another State\nor a Territory that enters into a multi-jurisdictional agreement;"
+    },
+    {
+      "key": "section:15.term:registered-keno-entity",
+      "title": "Section 15 Definitions \"registered keno entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Definitions for Part 3",
+      "defined_term": "\"registered keno entity\"",
+      "structure_path": "Part 3--TAXATION OF KENO > Division 1--Introduction > Section 15",
+      "text": "\"registered keno entity\" means a keno entity that is\nregistered under section 20."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Net keno revenue",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Net keno revenue",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 1--Introduction > Section 16",
+      "text": "(1)     For the purposes of this Part, the\nnet keno revenue of a keno entity in respect of a month is the\namount calculated in accordance with the following formula&#8212;\nwhere&#8212;\n          NKR     is the net keno revenue of the keno entity in respect of a\nmonth;\n          TA     is the sum of&#8212;\n         (a)     the total amount received by the keno entity in the month for keno\ngames played by persons who were located in Victoria at the time of playing the\nkeno games, including any amounts in respect of the face value of any free keno\ngames played by those persons; and\n         (b)     the total of any other amounts of a kind prescribed by the regulations\nto be TA;\n     TP     is the sum of&#8212;\n         (a)     the total amount of all prizes paid or payable in the month directly\nto persons who were located in Victoria at the time of playing the keno games,\nincluding net prizes paid in relation to free keno games, other than prizes paid\ninto or out of a prize pool; and\n         (b)     the total of all amounts received by the keno entity in the month for\nkeno games played by persons who were located in Victoria at the time of playing\nthe keno games&#8212;\n               (i)     that are paid into a prize pool; and\n               (ii)     that are required to be paid or payable as prizes to players of keno\ngames (whether located in Victoria or elsewhere); and\n         (c)     the total of any other amounts of a kind prescribed by the regulations\nto be TP.\n     (2)     In determining the net keno revenue of a keno entity, any amounts in\nrespect of GST payable by the entity in respect of supplies to which the revenue\nrelates are to be included."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Foreign currency transactions",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Foreign currency transactions",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 1--Introduction > Section 17",
+      "text": "For the purposes of this Part, if a payment to\nplay a keno game is made in a currency other than Australian currency, the\namount of the payment is to be converted to Australian currency at the exchange\nrate published by the Reserve Bank of Australia&#8212;\n         (a)     on the day on which the payment is made; or\n         (b)     if the rate is not published on that day, on the last day on which the\nrate was published before that day.\nDivision\n2&#8212;Imposition and rate of tax"
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Imposition and rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Imposition and rate of tax",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 2--Imposition and rate of tax > Section 18",
+      "text": "(1)     Subject to section 19, tax is imposed on\nthe net keno revenue of a keno entity in respect of a month at the rate of\n24&#183;24%.\n     (2)     The keno entity is liable to pay keno tax on the entity's net keno\nrevenue."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Rollover of negative net keno revenue to subsequent month",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Rollover of negative net keno revenue to subsequent month",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 2--Imposition and rate of tax > Section 19",
+      "text": "If the net keno revenue of a keno entity in\nrespect of a month is a negative amount, that amount may be applied to reduce\nthe net keno revenue of the keno entity in respect of the next or a subsequent\nmonth for the purposes of determining the keno entity's keno tax in respect of\nthat next or subsequent month.\nDivision\n3&#8212;Registration and returns"
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Registration of keno entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Registration of keno entities",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 3--Registration and returns > Section 20",
+      "text": "(1)     Subject to subsection (2), a keno entity\nthat becomes liable for keno tax must apply to the Commissioner, in the form\napproved by the Commissioner, for registration under this Division before the\nend of the first month in which the entity becomes liable.\nPenalty:     500 penalty units in the case of a body corporate;\n     100 penalty units in any other case.\nNote\nSection 130B of the Taxation Administration Act 1997 applies to\nan offence against this subsection.\n     (2)     A keno entity does not commit an offence against subsection (1) if the\nentity has a reasonable excuse for not applying for registration.\n     (3)     The Commissioner must register a keno entity that applies under\nsubsection (1)."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Cancellation of registration by Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Cancellation of registration by Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 3--Registration and returns > Section 21",
+      "text": "(1)     The Commissioner, by written notice to a\nregistered keno entity, may cancel the entity's registration under this Division\nfor any reason the Commissioner thinks sufficient.\n     (2)     A cancellation of registration has effect from the date specified\nfor the purpose by the Commissioner in the notice of cancellation."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Cancellation of registration by registered keno entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Cancellation of registration by registered keno entity",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 3--Registration and returns > Section 22",
+      "text": "(1)     A registered keno entity that ceases to\nincur any liability to pay keno tax and does not expect to incur any such\nliability in the future must, within 14 days after so\nceasing&#8212;\n         (a)     give written notice of that fact to the Commissioner; and\n         (b)     unless previously lodged&#8212;\n               (i)     lodge a return for the final month in respect of which they\nare liable to pay keno tax under section 18; and\n               (ii)     pay any keno tax to which the return relates.\n     (2)     The notice cancels the registered keno entity's registration under\nthis Division on the day on which it is received by the Commissioner."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Returns and payment of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Returns and payment of tax",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 3--Registration and returns > Section 23",
+      "text": "(1)     Every keno entity that is registered or\nrequired to apply for registration under this Division must, within 30 days\nafter the end of each month&#8212;\n         (a)     lodge with the Commissioner a return in respect of the month;\nand\n         (b)     pay to the Commissioner any keno tax payable under section 18 on net\nkeno revenue in respect of the month.\n     (2)     A keno entity must lodge a return under subsection (1) even if no\nkeno tax is payable in respect of the month.\n     (3)     A return is to be in the form, and contain the information,\ndetermined by the Commissioner.\nDivision\n4&#8212;General"
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Multi-jurisdictional agreements",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Multi-jurisdictional agreements",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 4--General > Section 24",
+      "text": "(1)     The Treasurer may enter into an agreement\n(a multi-jurisdictional agreement) with one or more\nother States or one or more Territories, or both, to establish and implement\nprocesses for achieving improvements in the assessment and collection of taxes,\ninterest and penalties imposed by the participating jurisdictions on keno\noperations that are carried on in multiple jurisdictions.\n     (2)     A multi-jurisdictional agreement may&#8212;\n         (a)     provide for collection of taxes, interest and penalties by a\nparticipating jurisdiction on behalf of other participating jurisdictions and\nfor the distribution of amounts so collected; and\n         (b)     provide for each participating jurisdiction to collect, on behalf of\nall participating jurisdictions, taxes, interest and penalties payable to\nthose jurisdictions by keno entities whose businesses are based in the\ncollecting jurisdiction; and\n         (c)     provide for participating jurisdictions to undertake audits or\ninvestigations in respect of taxes, interest and penalties payable by a keno\nentity under the law of another participating jurisdiction; and\n         (d)     authorise the performance of functions under this Act or the\nTaxation Administration Act 1997 by a specified authority of a\nparticipating jurisdiction, subject to subsection (4) and any other limitations\nspecified in the agreement; and\n         (e)     authorise the performance of functions under a specified law of\nanother participating jurisdiction by the Commissioner, subject to any law\nof that jurisdiction and any other limitations specified in the agreement;\nand\n         (f)     provide for participating jurisdictions to assist each other in\nmaking timely and accurate determinations of taxes, interest and penalties\npayable by sharing information available to them, including the results of\naudits and investigations and any other information of a kind specified in\nthe agreement; and\n         (g)     provide for any other measures or matters that the participating\njurisdictions consider necessary or expedient for achieving improvements in the\nassessment or collection of taxes, interest and penalties or for\nimplementing processes established by the agreement for that\npurpose.\n     (3)     A multi-jurisdictional agreement operates for the period, and may be\nvaried or terminated in such a manner, as the participating jurisdictions\nagree.\n     (4)     A multi-jurisdictional agreement&#8212;\n         (a)     must be consistent with this Act and the Taxation Administration\nAct 1997; and\n         (b)     cannot authorise a participating jurisdiction&#8212;\n               (i)     to make a binding determination of the amount of tax, interest or\npenalties payable by a keno entity under the laws of another participating\njurisdiction; or\n               (ii)     to take enforcement action in respect of tax, interest or penalties\npayable by a keno entity under the laws of another participating\njurisdiction."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Guidelines for determining location",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Guidelines for determining location",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 4--General > Section 25",
+      "text": "(1)     The Commissioner may from time to time\npublish guidelines, not inconsistent with this Act or the regulations, for\ndetermining the location of a person who plays a keno game conducted by a\nkeno entity.\n     (2)     Guidelines published under subsection (1) are not legislative\ninstruments within the meaning of the Subordinate Legislation\nAct 1994."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Extraterritorial operation",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Extraterritorial operation",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 4--General > Section 26",
+      "text": "This Part applies in relation to a keno entity\nthat is located outside Victoria."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Hospitals and Charities Fund and Mental Health Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Hospitals and Charities Fund and Mental Health Fund",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 4--General > Section 27",
+      "text": "(1)     An amount equal to the amount of keno tax\npaid into the Consolidated Fund must, in respect of each financial year, be paid\nout of the Consolidated Fund, in the proportions determined by the Treasurer,\ninto&#8212;\n         (a)     the Hospitals and Charities Fund; and\n         (b)     the Mental Health Fund.\n     (2)     The Consolidated Fund is appropriated to the necessary extent for\npayment to be made under subsection (1)."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Regulations for keno tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Regulations for keno tax",
+      "defined_term": null,
+      "structure_path": "Part 3--TAXATION OF KENO > Division 4--General > Section 28",
+      "text": "The regulations may prescribe&#8212;\n         (a)     methods for determining the location of persons playing keno games\nconducted by a keno entity; and\n         (b)     persons or classes of persons that are keno entities; and\n         (c)     amounts to be TA or TP for the purpose of net keno\nrevenue.\nPart\n4&#8212;Taxation of wagering and betting\nDivision\n1&#8212;Introduction"
+    },
+    {
+      "key": "section:29.term:bet",
+      "title": "Section 29 Definitions \"bet\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"bet\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"bet\" means&#8212;\n         (a)     a wager or bet&#8212;\n               (i)     on a wagering event, an approved betting competition or an\napproved simulated racing event, or made through a betting exchange, under\nChapter 4 of the Gambling Regulation Act 2003; or\n               (ii)     on an event, competition or product, or made through a service, that\nis permitted under a law of another State or a Territory and that is\nsimilar in nature to a wagering event, an approved betting competition,\nan approved simulated racing event or a betting exchange; or\n         (b)     a wager or bet of a kind prescribed by the regulations;\nbetting exchange has the meaning given by section 1.3(1)\nof the Gambling Regulation Act 2003;"
+    },
+    {
+      "key": "section:29.term:business",
+      "title": "Section 29 Definitions \"business\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"business\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"business\" means the business of a wagering and betting entity,\nwhether carried on by one person or 2 or more persons together;"
+    },
+    {
+      "key": "section:29.term:corporation",
+      "title": "Section 29 Definitions \"corporation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"corporation\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"corporation\" has the same meaning as in section 9 of the\nCorporations Act;"
+    },
+    {
+      "key": "section:29.term:designated-group-entity",
+      "title": "Section 29 Definitions \"designated group entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"designated group entity\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"designated group entity\" means an entity designated for a\ngroup under section 47;"
+    },
+    {
+      "key": "section:29.term:free-bet",
+      "title": "Section 29 Definitions \"free bet\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"free bet\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"free bet\" means a bet made wholly or partly without the person\nmaking the bet paying any monetary amount for the bet or part of\nthe bet;"
+    },
+    {
+      "key": "section:29.term:gaming-minister",
+      "title": "Section 29 Definitions \"Gaming Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"Gaming Minister\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"Gaming Minister\" means the Minister administering Part 1 of\nChapter 4 of the Gambling Regulation Act 2003;"
+    },
+    {
+      "key": "section:29.term:group",
+      "title": "Section 29 Definitions \"group\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"group\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"group\" means a group constituted under\nDivision 4;\nmulti-jurisdictional agreement has the meaning given by\nSection 53(1);"
+    },
+    {
+      "key": "section:29.term:net-wagering-revenue",
+      "title": "Section 29 Definitions \"net wagering revenue\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"net wagering revenue\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"net wagering revenue\" of a wagering and betting entity\nmeans&#8212;\n         (a)     in respect of bets in relation to which the entity is not operating a\ntotalisator or betting exchange or acting as an agent, the sum\nof&#8212;\n               (i)     the total amount of all bets, including the face value of any free\nbets, made with the entity by persons who were located in Victoria at the\ntime of making the bets; and\n               (ii)     the total amount of any other amounts of a kind prescribed by the\nregulations associated with making the bets&#8212;\nless the sum of&#8212;\n               (iii)     the total amount of all winnings paid or payable to the persons\nmaking the bets, including net winnings paid in relation to free bets; and\n               (iv)     the total of any other amounts of a kind prescribed by the\nregulations; and\n         (b)     in respect of bets in relation to which the entity is operating a\ntotalisator or acting as an agent, the sum of&#8212;\n               (i)     the total amount of all commission received by the\nentity for accepting bets made, or providing a service through\nwhich bets are made, by persons who were located in Victoria at the time of\nmaking the bets or using the service; and\n               (ii)     the total amount of any other amounts of a kind prescribed\nby the regulations associated with making the bets or using\nthe service; and\n               (iii)     in the case of a totalisator, the total amount retained by the\nentity as a consequence of the rounding down of fractions in\nthe calculation of dividends in respect of the bets (whether\nunder section 4.6.2(6) of the Gambling Regulation Act 2003 or\notherwise)&#8212;\nless the total of any other amounts of a kind prescribed by the\nregulations; and\n         (c)     in respect of bets in relation to which the entity is operating a\nbetting exchange, the sum of&#8212;\n               (i)     the total amount of all commission received by the entity in\nrelation to bets made through the betting exchange by persons who were located\nin Victoria at the time the bets were made; and\n               (ii)     the total amount of any other amounts of a kind prescribed by the\nregulations associated with making the bets&#8212;\nless the total of any other amounts of a kind prescribed by the\nregulations;\n\"net winnings\", in relation to a free bet, means the winnings\npayable on the bet minus the face value of the bet;"
+    },
+    {
+      "key": "section:29.term:participating-jurisdiction",
+      "title": "Section 29 Definitions \"participating jurisdiction\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"participating jurisdiction\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"participating jurisdiction\" means Victoria and another State\nor a Territory that enters into a multi-jurisdictional\nagreement;"
+    },
+    {
+      "key": "section:29.term:racing-minister",
+      "title": "Section 29 Definitions \"Racing Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"Racing Minister\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"Racing Minister\" means the Minister administering the\nRacing Act 1958;\nregistered bookmaker has the meaning given by\nsection 1.3(1) of the Gambling Regulation Act 2003;"
+    },
+    {
+      "key": "section:29.term:registered-designated-group-entity",
+      "title": "Section 29 Definitions \"registered designated group entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"registered designated group entity\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"registered designated group entity\" means a designated group\nentity that is registered under section 48;"
+    },
+    {
+      "key": "section:29.term:registered-wagering-and-betting-entity",
+      "title": "Section 29 Definitions \"registered wagering and betting entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"registered wagering and betting entity\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"registered wagering and betting entity\" means a wagering and\nbetting entity that is registered under section 36;\n\"tax-free threshold\", in respect of a financial year, means\n$1 000 000;\ntotalisator has the meaning given by section 1.3(1) of\nthe Gambling Regulation Act 2003;"
+    },
+    {
+      "key": "section:29.term:victorian-racing-industry-payment",
+      "title": "Section 29 Definitions \"Victorian racing industry payment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"Victorian racing industry payment\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"Victorian racing industry payment\" means the proportion\nof wagering and betting tax determined by the Treasurer under\nSection 33(1);"
+    },
+    {
+      "key": "section:29.term:wagering-and-betting-entity",
+      "title": "Section 29 Definitions \"wagering and betting entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Definitions for Part 4",
+      "defined_term": "\"wagering and betting entity\"",
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 29",
+      "text": "\"wagering and betting entity\" means any of the\nfollowing&#8212;\n         (a)     a registered bookmaker;\n         (b)     a wagering and betting licensee;\n         (c)     any other person who is registered or licensed in Victoria to accept\nbets or provide a service through which bets are made;\n         (d)     a person who is registered or licensed in another State or in a\nTerritory to accept bets or provide a service through which bets are\nmade;\n         (e)     a person, or person of a class, prescribed by the\nregulations;\nwagering and betting licensee has the meaning given by\nsection 1.3(1) of the Gambling Regulation Act 2003;\nwagering event has the meaning given by section 1.3(1)\nof the Gambling Regulation Act 2003.\n     (2)     In determining the net wagering revenue of a wagering and betting\nentity, including a member of a group, any amounts in respect of GST payable by\nthe entity in respect of supplies to which the revenue relates are to be\nincluded."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Bets made in foreign currency",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Bets made in foreign currency",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 1--Introduction > Section 30",
+      "text": "For the purposes of this Part, if a bet is made\nin a currency other than Australian currency, the amount of the bet is to be\nconverted to Australian currency at the exchange rate published by the Reserve\nBank of Australia&#8212;\n         (a)     on the day on which the bet is made; or\n         (b)     if the rate is not published on that day, on the last day on which the\nrate was published before that day.\nDivision\n2&#8212;Imposition, rate and hypothecation of tax"
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Imposition and rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Imposition and rate of tax",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 2--Imposition, rate and hypothecation of tax > Section 31",
+      "text": "(1)     Subject to section 32 and Division 4, tax\nis imposed on the net wagering revenue of a wagering and betting\nentity&#8212;\n         (a)     at the rate of 10% of the amount of net wagering revenue in excess of\nthe tax-free threshold on and after 1 July 2023 and before 1 July 2024;\nand\n         (b)     at the rate of 15% of the amount of net wagering revenue in excess of\nthe tax-free threshold on and after 1 July 2024.\n     (2)     The wagering and betting entity is liable to pay wagering and betting\ntax on the entity's net wagering revenue.\nNote\nDivision 4 provides for tax payable by groups."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Tax-free threshold where wagering and betting entity leaves a group",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Tax-free threshold where wagering and betting entity leaves a group",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--provides for tax payable groupsups. > Section 32",
+      "text": "(1)     This section applies if a wagering and\nbetting entity (the leaving entity) ceases to be a member of a\ngroup during a financial year.\nNote\nSee section 46 for the situation where the leaving entity joins or forms\nanother group during the financial year.\n     (2)     Subject to subsection (3), for the purposes of section 31 the\nleaving entity's tax-free threshold in respect of the remainder of the financial\nyear is reduced by an amount equal to the leaving entity's net wagering revenue\nduring the financial year while the leaving entity was a member of the\ngroup.\n     (3)     If the amount of the leaving entity's net wagering revenue\nreferred to in subsection (2) is equal to or exceeds the leaving entity's\ntax&#8209;free threshold in respect of the financial year but for subsection\n(2), the tax&#8209;free threshold for the leaving entity in respect of the\nremainder of the financial year is zero.\nExamples\nSection 1 A wagering and betting entity ceases to be a member of a group\non 1 October 2023. From 1 July to 30 September 2023 the entity's net\nwagering revenue was $800 000. This amount is reduced from the entity's tax-free\nthreshold in respect of the remainder of the financial year, which would\notherwise be $1 000 000, so the entity's tax-free threshold in respect\nof the remainder of the financial year is $200 000.\nSection 2 A wagering and betting entity ceases to be a member of a group on 1\nMarch 2024. From 1 July 2023 to 29 February 2024 the entity's\nnet wagering revenue was $1 500 000. As this amount exceeds what would\notherwise be the entity's tax&#8209;free threshold in respect of the\nfinancial year ($1 000 000), the entity's tax-free threshold in\nrespect of the remainder of the financial year is zero."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Victorian racing industry payment",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Victorian racing industry payment",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--provides for tax payable groupsups. > Section 33",
+      "text": "(1)     The Treasurer, by notice published in the\nGovernment Gazette, must determine from time to time a proportion of the\namount of wagering and betting tax paid or payable to be the Victorian racing\nindustry payment to be paid to an entity specified in the notice that, in\nthe Treasurer's opinion, represents or is connected with the Victorian racing\nindustry.\n     (2)     Before determining the amount of the Victorian racing industry\npayment, the Treasurer must consult the Gaming Minister and the Racing\nMinister.\n     (3)     The Victorian racing industry payment must be paid out of the\nConsolidated Fund (which is appropriated to the necessary extent) each month to\nthe specified entity.\n     (4)     The Victorian racing industry payment or any part of it must not\nbe used by the specified entity or any other entity to provide direct or\nindirect financial or other support to a wagering and betting entity.\n     (5)     A notice published under subsection (1) is not a legislative\ninstrument within the meaning of the Subordinate Legislation Act\n1994.\n     (6)     In this section&#8212;\n\"specified entity\" means the entity specified in the notice\nunder subsection (1)."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - ANZAC Day Proceeds Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "ANZAC Day Proceeds Fund",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--provides for tax payable groupsups. > Section 34",
+      "text": "Before the end of each financial year the\nTreasurer must pay out of the Consolidated Fund (which is appropriated to the\nnecessary extent) into the ANZAC Day Proceeds Fund established under the\nANZAC Day Act 1958 an amount equal to one-thirtieth of the amount of\nwagering and betting tax paid or payable in respect of the month of April in\nthat financial year."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Hospitals and Charities Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Hospitals and Charities Fund",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--provides for tax payable groupsups. > Section 35",
+      "text": "The following amounts must be paid out of the\nConsolidated Fund (which is appropriated to the necessary extent) into the\nHospitals and Charities Fund&#8212;\n         (a)     an amount equal to the amount of wagering and betting tax paid or\npayable in respect of each month other than April less the Victorian racing\nindustry payment for that month;\n         (b)     an amount equal to the amount of wagering and betting tax paid or\npayable in respect of the month of April less&#8212;\n               (i)     the Victorian racing industry payment for that month; and\n               (ii)     the payment into the ANZAC Day Proceeds Fund under\nsection 34 in respect of that month.\nDivision\n3&#8212;Registration and returns"
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Registration of wagering and betting entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Registration of wagering and betting entities",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 3--Registration and returns > Section 36",
+      "text": "(1)     Subject to subsection (2) and Division 4,\na wagering and betting entity that becomes liable to pay wagering and\nbetting tax must apply to the Commissioner, in the form approved by that\nCommissioner, for registration under this Division before the end of the first\nmonth in which the entity becomes liable.\nPenalty:     500 penalty units in the case of a body corporate;\n     100 penalty units in any other case.\nNote\nSection 130B of the Taxation Administration Act 1997 applies to\nan offence against this subsection.\n     (2)     A wagering and betting entity does not commit an offence against\nsubsection (1) if the entity has a reasonable excuse for not applying\nfor registration.\n     (3)     The Commissioner must register a wagering and betting entity that\napplies under subsection (1)."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Cancellation of registration by Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Cancellation of registration by Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 3--Registration and returns > Section 37",
+      "text": "(1)     The Commissioner, by written notice to a\nregistered wagering and betting entity, may cancel the entity's\nregistration under this Division for any reason the Commissioner thinks\nsufficient.\n     (2)     A cancellation of registration has effect from the date specified\nfor the purpose by the Commissioner in the notice\nof cancellation."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Cancellation of registration by registered wagering and betting entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Cancellation of registration by registered wagering and betting entity",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 3--Registration and returns > Section 38",
+      "text": "(1)     A registered wagering and betting entity\nthat ceases to incur any liability to pay wagering and betting tax and does not\nexpect to incur any such liability in the future must, within 14 days after\nso ceasing&#8212;\n         (a)     give written notice of that fact to the Commissioner; and\n         (b)     unless previously lodged&#8212;\n               (i)     lodge a return for the final month in respect of which they are liable\nto pay wagering and betting tax under section 31; and\n               (ii)     pay any wagering and betting tax to which the return\nrelates.\n     (2)     The notice cancels the registered wagering and betting entity's\nregistration under this Division on the day on which it is received by the\nCommissioner."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Returns and payment of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Returns and payment of tax",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 3--Registration and returns > Section 39",
+      "text": "(1)     Subject to Division 4, every wagering and\nbetting entity that is registered or required to apply for registration under\nthis Division must, within 30 days after the end of each\nmonth&#8212;\n         (a)     lodge with the Commissioner a return in respect of the month;\nand\n         (b)     pay to the Commissioner any wagering and betting tax payable under\nsection 31 on net wagering revenue in respect of the month.\n     (2)     A wagering and betting entity must lodge a return under\nsubsection (1) even if no wagering and betting tax is payable in respect of the\nmonth.\n     (3)     A return is to be in the form, and contain the information,\ndetermined by the Commissioner.\nDivision\n4&#8212;Grouping provisions"
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Constitution of groups",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Constitution of groups",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 40",
+      "text": "(1)     A group is constituted by all the entities\nforming a group that is not part of any larger group.\n     (2)     The fact that an entity is not a member of a group constituted under a\nprovision of this Division does not prevent that entity from being a member of a\ngroup constituted under another provision of this Division."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Groups of corporations",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Groups of corporations",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 41",
+      "text": "Corporations constitute a group if they are\nrelated bodies corporate within the meaning of the Corporations Act."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Groups of commonly controlled businesses",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Groups of commonly controlled businesses",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 42",
+      "text": "(1)     If a person or set of persons has a\ncontrolling interest in each of 2 businesses, the persons who carry on those\nbusinesses constitute a group.\n     (2)     For the purposes of this section, a person or set of persons has a\ncontrolling interest in a business if&#8212;\n         (a)     in the case of one person&#8212;the person is the sole owner\n(whether or not as trustee) of the business; or\n         (b)     in the case of a set of persons&#8212;the persons are together as\ntrustees the sole owners of the business; or\n         (c)     in the case of a business carried on by a corporation&#8212;\n               (i)     the person or each of the set of persons is a director of the\ncorporation and the person or set of persons is entitled to exercise more than\n50% of the voting power at meetings of the directors of the corporation;\nor\n               (ii)     a director or set of directors of the corporation that is entitled to\nexercise more than 50% of the voting power at meetings of the directors of\nthe corporation is under an obligation, whether formal or informal, to act\nin accordance with the direction, instructions or wishes of that person\nor set of persons; or\n         (d)     in the case of a business carried on by a corporation that has a\nshare capital&#8212;that person or set of persons can, directly or indirectly,\nexercise, control the exercise of, or substantially influence the exercise of,\nmore than 50% of the voting power attached to the voting shares, or any\nclass of voting shares, issued by the corporation; or\n         (e)     in the case of a business carried on by a partnership&#8212;that\nperson or set of persons&#8212;\n               (i)     own (whether beneficially or not) more than 50% of the capital of\nthe partnership; or\n               (ii)     is entitled (whether beneficially or not) to more than 50% of\nthe profits of the partnership; or\n         (f)     in the case of a business carried on under a trust&#8212;that person\nor set of persons (whether or not as trustee of, or beneficiary under, another\ntrust) is the beneficiary in respect of more than 50% of the value of the\ninterests in the first&#8209;mentioned trust.\n     (3)     If&#8212;\n         (a)     2 corporations are related bodies corporate within the meaning of the\nCorporations Act; and\n         (b)     one of the corporations has a controlling interest in a\nbusiness&#8212;\nthe other corporation has a controlling interest in the\nbusiness.\n     (4)     If&#8212;\n         (a)     a person or set of persons has a controlling interest in a business;\nand\n         (b)     a person or set of persons who carry on the business has a controlling\ninterest in another business&#8212;\nthe person or set of persons referred to in paragraph (a) has a controlling\ninterest in that other business.\n     (5)     If&#8212;\n         (a)     a person or set of persons is the beneficiary of a trust in respect of\nmore than 50% of the value of the interests in the trust; and\n         (b)     the trustee of the trust (whether alone or together with another\ntrustee or trustees) has a controlling interest in the business of\nanother trust&#8212;\nthe person or set of persons has a controlling interest in the\nbusiness.\n     (6)     A person who may benefit from a discretionary trust as a result of the\ntrustee or another person, or the trustee and another person,\nexercising or failing to exercise a power or discretion, is taken, for\nthe purposes of this Division, to be a beneficiary in respect of more than 50%\nof the value of the interests in the trust.\n     (7)     If&#8212;\n         (a)     a person or set of persons has a controlling interest in the business\nof a trust; and\n         (b)     the trustee of the trust (whether alone or together with another\ntrustee or trustees) has a controlling interest in the business of a\ncorporation&#8212;\nthe person or set of persons is taken to have a controlling interest\nin the business of the corporation.\n     (8)     If&#8212;\n         (a)     a person or set of persons has a controlling interest in the business\nof a trust; and\n         (b)     the trustee of the trust (whether alone or together with another\ntrustee or trustees) has a controlling interest in the business of\na partnership&#8212;\nthe person or set of persons is taken to have a controlling interest\nin the business of the partnership."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Smaller groups subsumed by larger groups",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Smaller groups subsumed by larger groups",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 43",
+      "text": "(1)     If a person is a member of 2 or more\ngroups, the members of all the groups together constitute a group.\n     (2)     If 2 or more members of a group have together a controlling\ninterest in a business (within the meaning of section 42), all the members\nof the group and the person or persons who carry on the business together\nconstitute a group."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Imposition and rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Imposition and rate of tax",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 44",
+      "text": "(1)     Subject to section 45, tax is payable on\nthe net wagering revenue of a group in accordance with the following\nformula&#8212;\nwhere&#8212;\n          TR     is&#8212;\n         (a)     10% on and after 1 July 2023 and before 1 July 2024;\n         (b)     15% on and after 1 July 2024;\n          ANWR     is the aggregate amount of the net wagering revenue of\nthe members of the group;\n          TFT     is the tax-free threshold.\n     (2)     Every member of the group, whether or not a wagering and betting\nentity, is jointly and severally liable to pay wagering and betting\ntax on the group's net wagering revenue."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Supplementary provisions for determining tax for groups&#8212;members joining or forming groups during financial year",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Supplementary provisions for determining tax for groups&#8212;members joining or forming groups during financial year",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 45",
+      "text": "(1)     This section applies if a wagering and\nbetting entity that is not a member of a group (the joining\nentity) becomes a member of a group during a financial year, whether by\njoining an existing group or forming a new group with another wagering and\nbetting entity.\nNote\nSee section 46 for the situation where the joining entity was a member of\nanother group during the financial year.\n     (2)     For the purposes of section 44&#8212;\n         (a)     any net wagering revenue of the joining entity during that financial\nyear before the joining entity became a member is to be included in the ANWR of\nthe group in the month in which the joining entity becomes a member unless\nwagering and betting tax was payable by the joining entity on that net wagering\nrevenue under section 31; and\n         (b)     if wagering and betting tax was payable by the joining entity\nunder section 31 as referred to in paragraph (a), the tax-free threshold\nfor the group is zero in respect of the remainder of the financial year,\nincluding the month in which the joining entity became a member.\nExamples\nSection 1 A wagering and betting entity becomes a member of a group on 1 October\nSection 2023. From 1 July to 30 September 2023 the joining entity's net wagering\nrevenue was $800 000. As that is below the tax-free threshold for the\njoining entity in respect of the financial year ($1 000 000),\ntax is not payable by the joining entity under section 31. However,\nthe amount of $800 000 is to be included in the ANWR of the group for\nOctober 2023.\nSection 2 A wagering and betting entity becomes a member of a group on 1\nMarch 2024. From 1 July 2023 to 29 February 2024 the joining entity's\nnet wagering revenue was $1 500 000. As that exceeds the tax-free threshold\nfor the joining entity in respect of the financial year ($1 000 000),\ntax is payable by the joining entity under section 31, and the tax-free\nthreshold for the group in respect of the remainder of the financial year (being\nMarch to June 2024) is zero.\nSection 3 Wagering and betting entity A and wagering and betting entity B form a\ngroup on 1 October 2023. From 1 July 2023 to 30 September 2023\nA's net wagering revenue was $800 000 and B's net wagering revenue was\n$1 500 000. As tax is not payable by A under section 31, the amount of\n$800 000 is to be included in the ANWR of the group for October 2023.\nFurthermore, as tax is payable by B under section 31, B's net wagering revenue\nfrom July to September 2023 is not included in the ANWR of the group for October\nSection 2023 but the tax-free threshold for the group in respect of the remainder of the\nfinancial year (being October 2023 to June 2024) is zero."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Supplementary provisions for determining tax for groups&#8212;members leaving groups and joining other groups during financial year",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Supplementary provisions for determining tax for groups&#8212;members leaving groups and joining other groups during financial year",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 46",
+      "text": "(1)     This section applies if a wagering and\nbetting entity (the transferring entity) ceases to be a member of\na group (group A) and becomes a member of another group\n(group B) during a financial year, whether group B is an existing\ngroup or a new group formed by the transferring entity and another wagering and\nbetting entity.\n     (2)     For the purposes of section 44&#8212;\n         (a)     if wagering and betting tax was payable by group A during that\nfinancial year before the transferring entity ceased to be a member, the\ntax-free threshold for group B is zero in respect of the remainder of the\nfinancial year, including the month in which the transferring entity became a\nmember; and\n         (b)     if all of the members of group B were members of group A before\njoining or forming group B, any net wagering revenue of each of the transferring\nentities during that financial year while they were members of group A is to be\nincluded in the ANWR of group B in the month in which the transferring entities\nbecame members of group B unless wagering and betting tax was payable by group A\non that net wagering revenue under section 44."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Designated group entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Designated group entities",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 47",
+      "text": "(1)     The members of a group may, with the\napproval of the Commissioner, designate a qualified member of the group to be\nthe designated group entity for the group for the purposes of this\nDivision.\n     (2)     A member of a group is a qualified member if&#8212;\n         (a)     the member's net wagering revenue in the previous financial year\nexceeded the tax-free threshold; or\n         (b)     the member's likely net wagering revenue in the current financial year\nis likely to exceed the tax-free threshold.\n     (3)     If none of the members of a group is a qualified member\nbut&#8212;\n         (a)     the aggregate of the members' net wagering revenue in the previous\nfinancial year exceeded the tax-free threshold; or\n         (b)     in the opinion of the Commissioner, the aggregate of the members'\nlikely net wagering revenue in the current financial year is likely to exceed\nthe tax-free threshold&#8212;\nthe members may, with the approval of the Commissioner, designate any\nmember of the group to be the designated group entity for the group for the\npurposes of this Division.\n     (4)     The Commissioner must designate a member of a group as the\ndesignated group entity for the group if the members of the group do not\ndesignate a member under subsection (1) or (3) within 30 days after\nthe end of the month in which the group is established.\n     (5)     The designated group entity of a group stops being the designated\ngroup entity from and including the earlier of the following\ndays&#8212;\n         (a)     the first day of the month following the month in which there is a\nchange in the membership of the group;\n         (b)     the first day of the month following the month in which the\nmembers of the group revoke the designation.\n     (6)     The designation of a designated group entity under subsection (1) or\n(3) must be by written notice.\n     (7)     Such a notice&#8212;\n         (a)     must be executed by or on behalf of each member of the group;\nand\n         (b)     must be served on the Commissioner."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Registration of designated group entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Registration of designated group entity",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 48",
+      "text": "(1)     Subject to subsection (2), the designated\ngroup entity of a group must apply to the Commissioner, in the form approved by\nthe Commissioner, before the end of the first month in which the members of the\ngroup become liable to pay tax under section 44, for registration under this\nDivision.\nPenalty:     500 penalty units in the case of a body corporate;\n     100 penalty units in any other case.\nNote\nSection 130B of the Taxation Administration Act 1997 applies to\nan offence against this subsection.\n     (2)     A designated group entity does not commit an offence against\nsubsection (1) if the entity has a reasonable excuse for not applying for\nregistration.\n     (3)     The Commissioner must register a designated group entity that applies\nunder subsection (1)."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Cancellation of registration by Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Cancellation of registration by Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 49",
+      "text": "(1)     The Commissioner, by written notice to a\nregistered designated group entity, may cancel the entity's registration under\nthis Division for any reason the Commissioner thinks sufficient.\n     (2)     A cancellation of registration has effect from the date specified\nfor the purpose by the Commissioner in the notice\nof cancellation."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Cancellation of registration by registered designated group entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Cancellation of registration by registered designated group entity",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 50",
+      "text": "(1)     If the members of a group cease to incur\nany liability to pay wagering and betting tax under section 44 and do not expect\nto incur any such liability in the future, the registered designated group\nentity must, within 14 days after so ceasing&#8212;\n         (a)     give written notice of that fact to the Commissioner; and\n         (b)     unless previously lodged&#8212;\n               (i)     lodge a group return for the final month in respect of which the\nmembers of the group are liable to pay wagering and betting tax under\nsection 44; and\n               (ii)     pay any wagering and betting tax to which the group return\nrelates.\n     (2)     The notice cancels the registered designated group entity's\nregistration under this Division on the day on which it is received by the\nCommissioner."
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Group returns and payment of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Group returns and payment of tax",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 51",
+      "text": "(1)     Every designated group entity that is\nregistered or required to apply for registration under this Division must,\nwithin 30 days after the end of each month&#8212;\n         (a)     lodge with the Commissioner a group return in respect of the month;\nand\n         (b)     pay to the Commissioner any wagering and betting tax payable under\nsection 44 on the group's net wagering revenue in respect of the\nmonth.\n     (2)     A designated group entity must lodge a group return under subsection\n(1) even if no wagering and betting tax is payable in respect of the\nmonth.\n     (3)     A group return is to be in the form, and contain the information,\ndetermined by the Commissioner."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Supplementary provisions for joint and several liability of group members",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Supplementary provisions for joint and several liability of group members",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 4--Grouping provisions > Section 52",
+      "text": "(1)     Each member of a group who is jointly and\nseverally liable to pay wagering and betting tax under section 44 is also\njointly and severally liable to pay&#8212;\n         (a)     any amount payable to the Commissioner under this or any other Act in\nrelation to that tax, including any interest and penalty tax; and\n         (b)     any costs and expenses incurred in relation to the recovery\nof that tax that the Commissioner is entitled to recover from any such\nmember.\n     (2)     A member of a group who pays an amount in accordance with the\nliability imposed by this Division has such rights of contribution or\nindemnity from the other member or members as is just.\nDivision\n5&#8212;General"
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Multi-jurisdictional agreements",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Multi-jurisdictional agreements",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 5--General > Section 53",
+      "text": "(1)     The Treasurer may enter into an agreement\n(a multi-jurisdictional agreement) with one or more\nother States or one or more Territories, or both, to establish and implement\nprocesses for achieving improvements in the assessment and collection of taxes,\ninterest and penalties imposed by the participating jurisdictions\non wagering and betting operations that are carried on in multiple\njurisdictions.\n     (2)     A multi-jurisdictional agreement may&#8212;\n         (a)     provide for collection of taxes, interest and penalties by a\nparticipating jurisdiction on behalf of other participating jurisdictions and\nfor the distribution of amounts so collected; and\n         (b)     provide for each participating jurisdiction to collect, on behalf\nof all participating jurisdictions, taxes, interest and penalties payable\nto those jurisdictions by wagering and betting entities whose businesses are\nbased in the collecting jurisdiction; and\n         (c)     provide for participating jurisdictions to undertake audits or\ninvestigations in respect of taxes, interest and penalties payable by a wagering\nand betting entity under the law of another participating jurisdiction;\nand\n         (d)     authorise the performance of functions under this Act or the\nTaxation Administration Act 1997 by a specified authority of a\nparticipating jurisdiction, subject to subsection (4) and any other limitations\nspecified in the agreement; and\n         (e)     authorise the performance of functions under a specified law of\nanother participating jurisdiction by the Commissioner, subject to any law\nof that jurisdiction and any other limitations specified in the agreement;\nand\n         (f)     provide for participating jurisdictions to assist each other in\nmaking timely and accurate determinations of taxes, interest and penalties\npayable by sharing information available to them, including the results of\naudits and investigations and any other information of a kind specified in the\nagreement; and\n         (g)     provide for any other measures or matters that the participating\njurisdictions consider necessary or expedient for achieving improvements in the\nassessment or collection of taxes, interest and penalties or for\nimplementing processes established by the agreement for that\npurpose.\n     (3)     A multi-jurisdictional agreement operates for the period, and may be\nvaried or terminated in such a manner, as the participating jurisdictions\nagree.\n     (4)     A multi-jurisdictional agreement&#8212;\n         (a)     must be consistent with this Act and the Taxation Administration\nAct 1997; and\n         (b)     cannot authorise a participating jurisdiction&#8212;\n               (i)     to make a binding determination of the amount of tax, interest or\npenalties payable by a wagering and betting entity under the laws of\nanother participating jurisdiction; or\n               (ii)     to take enforcement action in respect of tax, interest or penalties\npayable by a wagering and betting entity under the laws of another participating\njurisdiction."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Guidelines for determining location",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Guidelines for determining location",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 5--General > Section 54",
+      "text": "(1)     The Commissioner may from time to time\npublish guidelines, not inconsistent with this Act or the regulations, for\ndetermining the location of a person who makes a bet with, or through a\nservice provided by, a wagering and betting entity.\n     (2)     Guidelines published under subsection (1) are not legislative\ninstruments within the meaning of the Subordinate Legislation Act\n1994."
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Extraterritorial operation",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Extraterritorial operation",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 5--General > Section 55",
+      "text": "This Part applies in relation to a wagering and\nbetting entity, including a designated group entity, that is located outside\nVictoria."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Regulations for wagering and betting tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Regulations for wagering and betting tax",
+      "defined_term": null,
+      "structure_path": "Part 4--TAXATION OF WAGERING AND BETTING > Division 5--General > Section 56",
+      "text": "The regulations may prescribe&#8212;\n         (a)     kinds of wagering and betting that are bets; and\n         (b)     amounts associated with the making of bets that are to be\nincluded in net wagering revenue; and\n         (c)     amounts associated with the making of bets that are not to be included\nin net wagering revenue; and\n         (d)     methods for determining the location of persons making bets with, or\nthrough a service provided by, a wagering and betting entity; and\n         (e)     persons or classes of persons that are wagering and betting\nentities.\nPart\n5&#8212;General and transitional\nDivision\n1&#8212;General"
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 5--GENERAL AND TRANSITIONAL > Division 1--General > Section 57",
+      "text": "(1)     The Governor in Council may make\nregulations for or with respect to any matter or thing required or permitted by\nthis Act to be prescribed or necessary to be prescribed to give effect to this\nAct.\n     (2)     Regulations made under this Act&#8212;\n         (a)     may be of general or specially limited application; and\n         (b)     may differ according to differences in time, place or circumstances;\nand\n         (c)     may impose penalties not exceeding 20 penalty units for a\ncontravention of the regulations.\nDivision\n2&#8212;Transitional provisions"
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Transitional provisions in Schedule 2",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Transitional provisions in Schedule 2",
+      "defined_term": null,
+      "structure_path": "Part 5--GENERAL AND TRANSITIONAL > Division 2--Transitional provisions > Section 58",
+      "text": "Schedule 2 has effect.\nPt 6 (Headings and ss 59&#8211;80)\nrepealed by No. 14/2023 s. 80.\n     *     *     *     *     *"
+    },
+    {
+      "key": "schedule:1",
+      "title": "Schedule 1 - Schedule 1&#8212;Amount of additional casino tax on gross gaming revenue Section 10 Column 1 Column 2 Amount by which gross gaming revenue in a financial year exceeds the base amount for that year Amount of additional casino tax Not exceeding $20 million 1% of the amount exceeding the base amount Exceeding $20 million but not exceeding $40 million $200 000 + 2% of the amount exceeding $20 million Exceeding $40 million but not exceeding $60 million $600 000 + 3% of the amount exceeding $40 million Exceeding $60 million but not exceeding $80 million $1 200 000 + 4% of the amount exceeding $60 million Exceeding $80 million but not exceeding $100 million $2 000 000 + 5% of the amount exceeding $80 million Exceeding $100 million but not exceeding $120 million $3 000 000 + 6% of the amount exceeding $100 million Exceeding $120 million but not exceeding $140 million $4 200 000 + 7% of the amount exceeding $120 million Exceeding $140 million but not exceeding $160 million $5 600 000 + 8% of the amount exceeding $140 million Exceeding $160 million but not exceeding $180 million $7 200 000 + 9% of the amount exceeding $160 million Exceeding $180 million but not exceeding $200 million $9 000 000 + 10% of the amount exceeding $180 million Exceeding $200 million but not exceeding $220 million $11 000 000 + 11% of the amount exceeding $200 million Exceeding $220 million but not exceeding $240 million $13 200 000 + 12% of the amount exceeding $220 million Exceeding $240 million but not exceeding $260 million $15 600 000 + 13% of the amount exceeding $240 million Exceeding $260 million but not exceeding $280 million $18 200 000 + 14% of the amount exceeding $260 million Exceeding $280 million but not exceeding $300 million $21 000 000 + 15% of the amount exceeding $280 million Exceeding $300 million but not exceeding $320 million $24 000 000 + 16% of the amount exceeding $300 million Exceeding $320 million but not exceeding $340 million $27 200 000 + 17% of the amount exceeding $320 million Exceeding $340 million but not exceeding $360 million $30 600 000 + 18% of the amount exceeding $340 million Exceeding $360 million but not exceeding $380 million $34 200 000 + 19% of the amount exceeding $360 million Exceeding $380 million $38 000 000 + 20% of the amount exceeding $380 million Example If the gross gaming revenue in a financial year is $2250 million and the base amount for that financial year is $2000 million, the amount exceeding the base amount is $250 million, and so the additional casino tax under section 10 for the financial year is $15 600 000 + 13% of $10 million ($250 million  $240 million) = $16 900 000. GAMBLING TAXATION ACT 2023",
+      "main_structural_unit": "schedule",
+      "main_structural_unit_number": "1",
+      "main_structural_unit_heading": "Schedule 1&#8212;Amount of additional casino tax on gross gaming revenue Section 10 Column 1 Column 2 Amount by which gross gaming revenue in a financial year exceeds the base amount for that year Amount of additional casino tax Not exceeding $20 million 1% of the amount exceeding the base amount Exceeding $20 million but not exceeding $40 million $200 000 + 2% of the amount exceeding $20 million Exceeding $40 million but not exceeding $60 million $600 000 + 3% of the amount exceeding $40 million Exceeding $60 million but not exceeding $80 million $1 200 000 + 4% of the amount exceeding $60 million Exceeding $80 million but not exceeding $100 million $2 000 000 + 5% of the amount exceeding $80 million Exceeding $100 million but not exceeding $120 million $3 000 000 + 6% of the amount exceeding $100 million Exceeding $120 million but not exceeding $140 million $4 200 000 + 7% of the amount exceeding $120 million Exceeding $140 million but not exceeding $160 million $5 600 000 + 8% of the amount exceeding $140 million Exceeding $160 million but not exceeding $180 million $7 200 000 + 9% of the amount exceeding $160 million Exceeding $180 million but not exceeding $200 million $9 000 000 + 10% of the amount exceeding $180 million Exceeding $200 million but not exceeding $220 million $11 000 000 + 11% of the amount exceeding $200 million Exceeding $220 million but not exceeding $240 million $13 200 000 + 12% of the amount exceeding $220 million Exceeding $240 million but not exceeding $260 million $15 600 000 + 13% of the amount exceeding $240 million Exceeding $260 million but not exceeding $280 million $18 200 000 + 14% of the amount exceeding $260 million Exceeding $280 million but not exceeding $300 million $21 000 000 + 15% of the amount exceeding $280 million Exceeding $300 million but not exceeding $320 million $24 000 000 + 16% of the amount exceeding $300 million Exceeding $320 million but not exceeding $340 million $27 200 000 + 17% of the amount exceeding $320 million Exceeding $340 million but not exceeding $360 million $30 600 000 + 18% of the amount exceeding $340 million Exceeding $360 million but not exceeding $380 million $34 200 000 + 19% of the amount exceeding $360 million Exceeding $380 million $38 000 000 + 20% of the amount exceeding $380 million Example If the gross gaming revenue in a financial year is $2250 million and the base amount for that financial year is $2000 million, the amount exceeding the base amount is $250 million, and so the additional casino tax under section 10 for the financial year is $15 600 000 + 13% of $10 million ($250 million  $240 million) = $16 900 000. GAMBLING TAXATION ACT 2023",
+      "defined_term": null,
+      "structure_path": "Gambling Taxation Act 2023 > Schedule 1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1&#8212;Amount of additional casino tax on gross gaming revenue Section 10 Column 1 Column 2 Amount by which gross gaming revenue in a financial year exceeds the base amount for that year Amount of additional casino tax Not exceeding $20 million 1% of the amount exceeding the base amount Exceeding $20 million but not exceeding $40 million $200 000 + 2% of the amount exceeding $20 million Exceeding $40 million but not exceeding $60 million $600 000 + 3% of the amount exceeding $40 million Exceeding $60 million but not exceeding $80 million $1 200 000 + 4% of the amount exceeding $60 million Exceeding $80 million but not exceeding $100 million $2 000 000 + 5% of the amount exceeding $80 million Exceeding $100 million but not exceeding $120 million $3 000 000 + 6% of the amount exceeding $100 million Exceeding $120 million but not exceeding $140 million $4 200 000 + 7% of the amount exceeding $120 million Exceeding $140 million but not exceeding $160 million $5 600 000 + 8% of the amount exceeding $140 million Exceeding $160 million but not exceeding $180 million $7 200 000 + 9% of the amount exceeding $160 million Exceeding $180 million but not exceeding $200 million $9 000 000 + 10% of the amount exceeding $180 million Exceeding $200 million but not exceeding $220 million $11 000 000 + 11% of the amount exceeding $200 million Exceeding $220 million but not exceeding $240 million $13 200 000 + 12% of the amount exceeding $220 million Exceeding $240 million but not exceeding $260 million $15 600 000 + 13% of the amount exceeding $240 million Exceeding $260 million but not exceeding $280 million $18 200 000 + 14% of the amount exceeding $260 million Exceeding $280 million but not exceeding $300 million $21 000 000 + 15% of the amount exceeding $280 million Exceeding $300 million but not exceeding $320 million $24 000 000 + 16% of the amount exceeding $300 million Exceeding $320 million but not exceeding $340 million $27 200 000 + 17% of the amount exceeding $320 million Exceeding $340 million but not exceeding $360 million $30 600 000 + 18% of the amount exceeding $340 million Exceeding $360 million but not exceeding $380 million $34 200 000 + 19% of the amount exceeding $360 million Exceeding $380 million $38 000 000 + 20% of the amount exceeding $380 million Example If the gross gaming revenue in a financial year is $2250 million and the base amount for that financial year is $2000 million, the amount exceeding the base amount is $250 million, and so the additional casino tax under section 10 for the financial year is $15 600 000 + 13% of $10 million ($250 million  $240 million) = $16 900 000. GAMBLING TAXATION ACT 2023",
+      "text": "Schedule 1 - Schedule 1&#8212;Amount of additional casino tax on gross gaming revenue Section 10 Column 1 Column 2 Amount by which gross gaming revenue in a financial year exceeds the base amount for that year Amount of additional casino tax Not exceeding $20 million 1% of the amount exceeding the base amount Exceeding $20 million but not exceeding $40 million $200 000 + 2% of the amount exceeding $20 million Exceeding $40 million but not exceeding $60 million $600 000 + 3% of the amount exceeding $40 million Exceeding $60 million but not exceeding $80 million $1 200 000 + 4% of the amount exceeding $60 million Exceeding $80 million but not exceeding $100 million $2 000 000 + 5% of the amount exceeding $80 million Exceeding $100 million but not exceeding $120 million $3 000 000 + 6% of the amount exceeding $100 million Exceeding $120 million but not exceeding $140 million $4 200 000 + 7% of the amount exceeding $120 million Exceeding $140 million but not exceeding $160 million $5 600 000 + 8% of the amount exceeding $140 million Exceeding $160 million but not exceeding $180 million $7 200 000 + 9% of the amount exceeding $160 million Exceeding $180 million but not exceeding $200 million $9 000 000 + 10% of the amount exceeding $180 million Exceeding $200 million but not exceeding $220 million $11 000 000 + 11% of the amount exceeding $200 million Exceeding $220 million but not exceeding $240 million $13 200 000 + 12% of the amount exceeding $220 million Exceeding $240 million but not exceeding $260 million $15 600 000 + 13% of the amount exceeding $240 million Exceeding $260 million but not exceeding $280 million $18 200 000 + 14% of the amount exceeding $260 million Exceeding $280 million but not exceeding $300 million $21 000 000 + 15% of the amount exceeding $280 million Exceeding $300 million but not exceeding $320 million $24 000 000 + 16% of the amount exceeding $300 million Exceeding $320 million but not exceeding $340 million $27 200 000 + 17% of the amount exceeding $320 million Exceeding $340 million but not exceeding $360 million $30 600 000 + 18% of the amount exceeding $340 million Exceeding $360 million but not exceeding $380 million $34 200 000 + 19% of the amount exceeding $360 million Exceeding $380 million $38 000 000 + 20% of the amount exceeding $380 million Example If the gross gaming revenue in a financial year is $2250 million and the base amount for that financial year is $2000 million, the amount exceeding the base amount is $250 million, and so the additional casino tax under section 10 for the financial year is $15 600 000 + 13% of $10 million ($250 million  $240 million) = $16 900 000. GAMBLING TAXATION ACT 2023"
+    },
+    {
+      "key": "schedule:2.section:12",
+      "title": "Schedule 2 Section 12 - to reduce the Operator's total commission based players gaming",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "12",
+      "main_structural_unit_heading": "to reduce the Operator's total commission based players gaming",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Section 12",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 12 - to reduce the Operator's total commission based players gaming\n\nrevenue for July 2023.\n     (3)     In this clause&#8212;\n\"Commission Based Players' Gaming Revenue\" has the same meaning\nas in the Agreement;\n\"Gaming Revenue\" has the same meaning as in the\nAgreement;\nMelbourne Casino Operator has the meaning given by"
+    },
+    {
+      "key": "schedule:2.section:4",
+      "title": "Schedule 2 Section 4 - of the Casino (Management Agreement) Act 1993;",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "4",
+      "main_structural_unit_heading": "of the Casino (Management Agreement) Act 1993;",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Section 4",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 4 - of the Casino (Management Agreement) Act 1993;\n\n\"State Tax credit\" has the same meaning as in the\nAgreement;\nthe Agreement has the meaning given by section 4 of the\nCasino (Management Agreement) Act 1993.\n          2     Taxation of keno\n     (1)     This Act applies to keno tax on the net\nkeno revenue of a keno entity in respect of any period on and after 1 July\n2023.\nNote\nSee clause 40.2 of Schedule 7 to the Gambling Regulation Act 2003 in\nrelation to periods before 1 July 2023.\n     (2)     Section 19 applies on and after 1 July 2023 in relation to any\nnegative amount of net keno revenue in respect of a month before that day that\nhas not been applied to reduce net keno revenue in the next or a subsequent\nmonth under section 6A.4A.6 of the Gambling Regulation\nAct 2003.\n     (3)     A keno entity that, immediately before 1 July 2023, was registered\nunder section 6A.4A.7 of the Gambling Regulation Act 2003 is taken, on\nand after that day, to be registered under section 20.\n          3     Taxation of wagering and betting\n     (1)     This Act applies to wagering and betting\ntax on the net wagering revenue of a wagering and betting entity in respect of\nany period on and after 1 July 2023.\nNote\nSee clause 40.1 of Schedule 7 to the Gambling Regulation Act 2003 in\nrelation to periods before 1 July 2023.\n     (2)     A notice that was in effect under section 4.6A.5(1) of the Gambling\nRegulation Act 2003 immediately before 1 July 2023 continues in effect on\nand after that day as if it were a notice under section 33(1).\n     (3)     A wagering and betting entity that, immediately before 1 July 2023,\nwas registered under section 4.6A.7 of the Gambling Regulation\nAct 2003 is taken, on and after that day, to be registered under Section 36.\n     (4)     A designation of an entity that was in effect under section 4.6A.17(1)\nor (3) of the Gambling Regulation Act 2003 immediately before 1 July 2023\ncontinues in effect on and after that day as if it were a designation under\nsection 47(1) or (3), as the case requires.\n     (5)     An entity that, immediately before 1 July 2023, was registered as a\ndesignated group entity under section 4.6A.18 of the Gambling Regulation\nAct 2003 is taken, on and after that day, to be a designated group\nentity registered under section 48.\n&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;\nGAMBLING TAXATION ACT 2023\n- NOTES\nVersion No.\n003\nNo. 14 of 2023Version incorporating amendments as at1 July 2024\n&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;\nVersion No. 003\nGambling Taxation Act 2023\nNo. 14 of 2023\nVersion incorporating amendments as at1 July\n2024\nGAMBLING TAXATION ACT 2023\n- NOTES Endnotes\nEndnotes\n     1     General information\nSee www.legislation.vic.gov.au for Victorian Bills, Acts and current\nVersions of legislation and up-to-date legislative information.\nMinister's second reading speech&#8212;\nLegislative Assembly: 3 May 2023\nLegislative Council: 30 May 2023\nThe long title for the Bill for this Act was \"A Bill for an Act to\nconsolidate and amend various gambling taxes, to make consequential amendments\nto the Casino Control Act 1991, the Casino (Management Agreement) Act\n1993, the Gambling Regulation Act 2003 and the Taxation\nAdministration Act 1997 and for other purposes.\"\n          Constitution Act 1975:\n     Section 85(5) statement:\n     Legislative Assembly: 3 May 2023\n     Legislative Council: 30 May 2023\n     Absolute majorities:\n     Legislative Assembly: 18 May 2023\n     Legislative Council: 30 May 2023\nThe Gambling Taxation Act 2023 was assented to on 6 June"
+    },
+    {
+      "key": "schedule:2.section:2023",
+      "title": "Schedule 2 Section 2023 - and came into operation on 1 July 2023: section 2.",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2023",
+      "main_structural_unit_heading": "and came into operation on 1 July 2023: section 2.",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Section 2023",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 2023 - and came into operation on 1 July 2023: section 2.\n\nINTERPRETATION OF LEGISLATION ACT 1984\n(ILA)\nStyle changes"
+    },
+    {
+      "key": "schedule:2.section:54A",
+      "title": "Schedule 2 Section 54A - of the ILA authorises the making of the style changes set out",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "54A",
+      "main_structural_unit_heading": "of the ILA authorises the making of the style changes set out",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Section 54A",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 54A - of the ILA authorises the making of the style changes set out\n\nin Schedule 1 to that Act.\nReferences to ILA s. 39B\nSidenotes which cite ILA s. 39B refer to section 39B of the ILA which\nprovides that where an undivided section or clause of a Schedule is amended by\nthe insertion of one or more subsections or subclauses, the original section or\nclause becomes subsection or subclause (1) and is amended by the insertion of\nthe expression \"(1)\" at the beginning of the original section or\nclause.\nInterpretation\nAs from 1 January 2001, amendments to section 36 of the ILA have the\nfollowing effects:\n&#8226;     Headings\nAll headings included in an Act which is passed on or after 1 January 2001\nform part of that Act.  Any heading inserted in an Act which was passed before 1\nJanuary 2001, by an Act passed on or after 1 January 2001, forms part of that\nAct.  This includes headings to Parts, Divisions or Subdivisions in a Schedule;\nsections; clauses; items; tables; columns; examples; diagrams; notes or forms.\nSee section 36(1A)(2A).\n&#8226;     Examples, diagrams or notes\nAll examples, diagrams or notes included in an Act which is passed on or\nafter 1 January 2001 form part of that Act.  Any examples, diagrams or notes\ninserted in an Act which was passed before 1 January 2001, by an Act passed on\nor after 1 January 2001, form part of that Act.  See section 36(3A).\n&#8226;     Punctuation\nAll punctuation included in an Act which is passed on or after 1 January"
+    },
+    {
+      "key": "schedule:2.section:2001",
+      "title": "Schedule 2 Section 2001 - forms part of that Act. Any punctuation inserted in an Act which was",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2001",
+      "main_structural_unit_heading": "forms part of that Act. Any punctuation inserted in an Act which was",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Section 2001",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 2001 - forms part of that Act. Any punctuation inserted in an Act which was\n\npassed before 1 January 2001, by an Act passed on or after 1 January 2001, forms\npart of that Act.  See section 36(3B).\n&#8226;     Provision numbers\nAll provision numbers included in an Act form part of that Act, whether\ninserted in the Act before, on or after 1 January 2001.  Provision numbers\ninclude section numbers, subsection numbers, paragraphs and subparagraphs.  See\nSection 36(3C).\n&#8226;     Location of \"legislative items\"\nA \"legislative item\" is a penalty, an example or a note.  As from 13\nOctober 2004, a legislative item relating to a provision of an Act is taken to\nbe at the foot of that provision even if it is preceded or followed by another\nlegislative item that relates to that provision.  For example, if a penalty at\nthe foot of a provision is followed by a note, both of these legislative items\nwill be regarded as being at the foot of that provision.  See section\n36B.\n&#8226;     Other material\nAny explanatory memorandum, table of provisions, endnotes, index and other\nmaterial printed after the Endnotes does not form part of an Act.  See\nSection 36(3)(3D)(3E).\n     2     Table of Amendments\nThis publication incorporates amendments made to\nthe Gambling Taxation Act 2023 by Acts and subordinate\ninstruments.\n&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;\nGambling Taxation Act 2023,\nNo. 14/2023\nAssent Date:"
+    },
+    {
+      "key": "schedule:2.part:of.section:6-6",
+      "title": "Schedule 2 Section 6-6 - 23",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "6-6",
+      "main_structural_unit_heading": "23",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Part of that Act. See section 36(3B). > Section 6-6",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 6-6 - 23\n\nCommencement Date:\nS. 80 on 1.7.23: s. 2\nNote:\nS. 80 repealed Pt 6 (ss 59&#8211;80) on"
+    },
+    {
+      "key": "schedule:2.part:of.section:1-7",
+      "title": "Schedule 2 Section 1-7 - 24",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-7",
+      "main_structural_unit_heading": "24",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Part of that Act. See section 36(3B). > Section 1-7",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 1-7 - 24\n\nCurrent State:\nThis information relates only to the provision/s amending\nthe Gambling Taxation Act 2023\nState Taxation Amendment Act 2024,\nNo. 22/2024\nAssent Date:"
+    },
+    {
+      "key": "schedule:2.part:of.section:4-6",
+      "title": "Schedule 2 Section 4-6 - 24",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "4-6",
+      "main_structural_unit_heading": "24",
+      "defined_term": null,
+      "structure_path": "Schedule 2 > Part of that Act. See section 36(3B). > Section 4-6",
+      "schedule_id": "2",
+      "schedule_heading": "Schedule 2&#8212;Transitional provisions Section 58",
+      "text": "Schedule 2 - Schedule 2&#8212;Transitional provisions Section 58\n\nSection 4-6 - 24\n\nCommencement Date:\nS. 5 on 5.6.24: s. 2(2)\nCurrent State:\nThis information relates only to the provision/s amending\nthe Gambling Taxation Act 2023\n&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;\n     3     Explanatory details\nNo entries at date of publication."
+    }
+  ]
+}

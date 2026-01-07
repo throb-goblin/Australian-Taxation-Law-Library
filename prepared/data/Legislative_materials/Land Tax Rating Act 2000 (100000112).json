@@ -1,0 +1,23 @@
+{
+  "doc": {
+    "jurisdiction": "tasmania",
+    "source_url": "https://classic.austlii.edu.au/au/legis/tas/consol_act/ltra2000153/",
+    "register_url": "https://www.legislation.tas.gov.au/view/html/inforce/current/act-2000-073",
+    "source": "Land Tax Rating Act 2000 (100000112).txt",
+    "filename": "Land Tax Rating Act 2000 (100000112).json",
+    "name": "Land Tax Rating Act 2000",
+    "citation": "Land Tax Rating Act 2000"
+  },
+  "chunks": [
+    {
+      "key": "section:4",
+      "title": "Section 4 - of the Administrative Arrangements Act 1990  -",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "of the Administrative Arrangements Act 1990  -",
+      "defined_term": null,
+      "structure_path": "Land Tax Rating Act 2000 > Section 4",
+      "text": "(a) the administration of this Act is assigned to the Treasurer; and\n     (b) the department responsible to the Treasurer in relation to the\n     administration of this Act is the Department of Treasury and\n     Finance.\n   9.   Miscellaneous amendments\n     (1)  The Land Tax Act 1996 is repealed.\n     (2)  The Land Tax Act 1997 is repealed.\n     SCHEDULE 1 - Rate of land tax Section 6\n   Assessed or apportioned assessed land value of land\n   Amounts and rates of land tax\n   1.\n   Less than $125 000\n   Nil\n   2.\n   $125 000 - $499 999.99\n   $50 and 0.45 cents for each dollar of the assessed land value or\n   apportioned assessed land value in excess of $125 000\n   3.\n   $500 000 or more\n   $1 737.50 and 1.5 cents for each dollar of the assessed land value or\n   apportioned assessed land value in excess of $500 000"
+    }
+  ]
+}

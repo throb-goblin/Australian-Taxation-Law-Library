@@ -1,0 +1,63 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/ftdtla1998547/",
+    "register_url": "https://www.legislation.gov.au/C2004A05323/latest/text",
+    "source": "Family Trust Distribution Tax (Primary Liability) Act 1998 (100000054).txt",
+    "filename": "Family Trust Distribution Tax (Primary Liability) Act 1998 (100000054).json",
+    "name": "Family Trust Distribution Tax (Primary Liability) Act 1998",
+    "citation": "Family Trust Distribution Tax (Primary Liability) Act 1998"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Family Trust Distribution Tax (Primary Liability) Act 1998 > Section 1",
+      "text": "This Act may be cited as the Family Trust Distribution Tax (Primary Liability) Act 1998."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Family Trust Distribution Tax (Primary Liability) Act 1998 > Section 2",
+      "text": "This Act commences on the day on which it receives the Royal Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Family Trust Distribution Tax (Primary Liability) Act 1998 > Section 3",
+      "text": "Tax payable under section  271-15, 271-20, 271-25, 271-30 or 271-55 in Schedule  2F to the Income Tax Assessment Act 1936 on the amount or value of income or capital is imposed."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Amount of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Amount of tax",
+      "defined_term": null,
+      "structure_path": "Family Trust Distribution Tax (Primary Liability) Act 1998 > Section 4",
+      "text": "The amount of the tax imposed by this Act is 47% of the amount or value of the income or capital."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Temporary budget repair levy",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Temporary budget repair levy",
+      "defined_term": null,
+      "structure_path": "Family Trust Distribution Tax (Primary Liability) Act 1998 > Section 5",
+      "text": "(1) This section applies:\n (a) in relation to tax payable under section  271-55 in Schedule 2F to the Income Tax Assessment Act 1936--to notices mentioned in that section that are given by the Commissioner in a temporary budget repair levy year; or\n (b) otherwise--to present entitlements conferred, or distributions made, in a temporary budget repair levy year.\n (2) Increase the amount of the percentage mentioned in section  4 by 2 percentage points.\n (3) In this section:\n\"temporary budget repair levy year\" has the same meaning as in section 4-11 of the Income Tax (Transitional Provisions) Act 1997."
+    }
+  ]
+}

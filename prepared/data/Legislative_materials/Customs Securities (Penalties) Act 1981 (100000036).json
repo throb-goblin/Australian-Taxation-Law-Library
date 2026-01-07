@@ -1,0 +1,72 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/csa1981334/",
+    "source": "Customs Securities (Penalties) Act 1981 (100000036).txt",
+    "filename": "Customs Securities (Penalties) Act 1981 (100000036).json",
+    "name": "Customs Securities (Penalties) Act 1981",
+    "citation": "Customs Securities (Penalties) Act 1981"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Customs Securities (Penalties) Act 1981 > Section 1",
+      "text": "This Act may be cited as the Customs Securities (Penalties) Act 1981."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Customs Securities (Penalties) Act 1981 > Section 2",
+      "text": "This Act shall come into operation on the day on which the Customs Amendment (Tenders) Act 1981 comes into operation."
+    },
+    {
+      "key": "section:2A",
+      "title": "Section 2A - General administration of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "2A",
+      "main_structural_heading": "General administration of Act",
+      "defined_term": null,
+      "structure_path": "Customs Securities (Penalties) Act 1981 > Section 2A",
+      "text": "The Comptroller-General of Customs (within the meaning of the Customs Act 1901) has the general administration of this Act."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Customs Securities (Penalties) Act 1981 > Section 3",
+      "text": "(1) In this Act, unless the contrary intention appears:\n\"Customs undertaking\" means an undertaking given, in accordance with subsection 267(1) of the Customs Act 1901 , by a person who furnishes a tender in accordance with a call for tenders made under a scheme under Part XV of the Customs Act 1901.\n\"prescribed percentage\", in relation to goods, means the prescribed percentage set out in the Customs undertaking that relates to the goods.\n\"relevant Customs undertaking\", in relation to a tender furnished in accordance with a call for tenders made under a scheme under Part XV of the Customs Act 1901, means the undertaking relating to that tender that is given in accordance with subsection 267(1) of the Customs Act 1901.\n (2) For the purposes of this Act, where a Customs undertaking sets out the value of a unit of the goods to which the undertaking relates, the value of the goods shall be calculated in accordance with that value."
+    },
+    {
+      "key": "section:3A",
+      "title": "Section 3A - Act does not extend to Norfolk Island",
+      "main_structural_unit": "section",
+      "main_structural_number": "3A",
+      "main_structural_heading": "Act does not extend to Norfolk Island",
+      "defined_term": null,
+      "structure_path": "Customs Securities (Penalties) Act 1981 > Section 3A",
+      "text": "This Act does not extend to Norfolk Island."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Penalty",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Penalty",
+      "defined_term": null,
+      "structure_path": "Customs Securities (Penalties) Act 1981 > Section 4",
+      "text": "Where:\n (a) a tender furnished by a person in accordance with a call for tenders made under a scheme under Part  XV of the Customs Act 1901 has been accepted; and\n (b) the person refuses, or fails, when required by a Collector under section  42 of that Act to do so, to give a security for payment of any penalty in connection with the relevant Customs undertaking that the person may become liable to pay to the Commonwealth under the Customs Undertakings (Penalties) Act 1981;\nthere is payable by that person to the Commonwealth, by way of penalty, an amount equal to the prescribed percentage of the value of the goods to which that undertaking relates."
+    }
+  ]
+}

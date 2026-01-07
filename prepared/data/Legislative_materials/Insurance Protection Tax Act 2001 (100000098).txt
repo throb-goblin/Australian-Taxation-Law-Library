@@ -6,42 +6,47 @@ Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download
 When scraped: 2025-12-30T01:08:22.312253Z
 
 INSURANCE PROTECTION TAX ACT 2001
- 
- 
 - As at 20 August 2024
- 
 - Act 40 of 2001
- 
- 
- 
- 
- 
-
-Section 1
-Name of Act
- 
- 
-1 Name of Act
+TABLE OF PROVISIONS
+PART 1 - PRELIMINARY
+Section 1. Name of Act
+Section 2. Commencement
+Section 3. Definitions
+PART 1A - ABOLITION OF TAX
+3A, 3B. (Repealed)
+Section 3C. Refunds of tax from Policyholders Protection Fund
+PARTS 2, 3 - (Repealed)
+None
+PART 3A - POLICYHOLDERS PROTECTION FUND
+Section 16. Definitions
+Section 16A. Declaration of insolvent insurers
+Section 16B. Policyholders Protection Fund
+Section 16C. Tax to be paid into Policyholders Protection Fund
+Section 16D. (Repealed)
+Section 16E. Application of Policyholders Protection Fund--claims under third-party
+motor accident policies of insolvent insurers
+Section 16F. (Repealed)
+Section 16G. Repayments to Policyholders Protection Fund--money recovered from motor
+accident insolvent insurers and re-insurers
+Section 16H. Policyholders Protection Fund to reimburse additional money advanced from
+Consolidated Fund
+17-23,. (Repealed)
+Section 24. Regulations
+PARTS 4, 5 - (Repealed)
+None
+SCHEDULE 1
+INSURANCE PROTECTION TAX ACT 2001
+- LONG TITLE
+An Act to impose a tax on the total annual amount of premiums received by
+insurers for general insurance; to amend the Taxation Administration Act 1996;
+and for other purposes.
+Section 1 Name of Act
 This Act is the Insurance Protection Tax Act 2001.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 2
-Commencement
- 
- 
-2 Commencement
+Section 2 Commencement
 This Act commences on 1 July 2001.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 3
-Definitions
- 
- 
-3 Definitions
+Section 3 Definitions
 In this Act--
-
 "annuity" means a contract that satisfies the following requirements--
      (a) the contract provides for the periodic payment of money to the
      annuitant in fee for life or for a specified term of years as an
@@ -51,10 +56,8 @@ In this Act--
      (c) the periodic payments are not derived from the money paid for the
      contract but are derived solely from the contract and comprise income
      and not the repayment of capital.
-
 "Chief Commissioner" means the Chief Commissioner of State Revenue referred to
 in section 60 of the Taxation Administration Act 1996.
-
 "exempt insurance" means any of the following--
      (a) insurance covering only property of the Crown,
      (b) insurance effected by a separate policy in a distinct sum against
@@ -111,7 +114,6 @@ in section 60 of the Taxation Administration Act 1996.
      other reason), and which is insurance, or insurance of a class, for
      the time being approved by the Treasurer for the purposes of this
      paragraph.
-
 "general insurance" means--
      (a) any kind of insurance that is applicable to--
           (i) property in New South Wales, or
@@ -123,7 +125,6 @@ in section 60 of the Taxation Administration Act 1996.
      meaning of the Motor Accidents Compensation Act 1999,
 but does not include life insurance, a life insurance rider or exempt
 insurance.
-
 "insurance intermediary" means--
      (a) a person who arranges contracts of insurance in New South Wales--
           (i) for reward, or
@@ -137,13 +138,11 @@ insurance.
      Corporations Act 2001 of the Commonwealth) when carrying on business
      as an insurance broker as authorised by Subdivision D of Division 1
      of Part 10.2 of that Act.
-
 "insurer" means a person--
      (a) who writes general insurance, and
      (b) who does so otherwise than as an insurance intermediary, and
      (c) who is authorised to carry on insurance business under the
      Insurance Act 1973 of the Commonwealth.
-
 "life insurance" means insurance described in section 9 (1) (a)-(g) and 9A of
 the Life Insurance Act 1995 of the Commonwealth in respect of--
      (a) a life or lives, or
@@ -152,23 +151,14 @@ the Life Insurance Act 1995 of the Commonwealth in respect of--
 of a person whose principal place of residence is, or persons whose principal
 places of residence are, in New South Wales at the time the policy that effects
 the insurance is issued.
-
 "life insurance rider" means insurance that--
      (a) is attached to a policy of life insurance, and
      (b) adds specified events and contingencies to those insured under
      the policy, and
      (c) is subject to the terms and conditions of the policy.
-
 "Policyholders Protection Fund" means the Policyholders Protection Fund
 established under section 16B.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 3C
-Refunds of tax from Policyholders Protection Fund
- 
- 
-3C Refunds of tax from Policyholders Protection Fund
+Section 3C Refunds of tax from Policyholders Protection Fund
      (1) If, at any time after 1 July 2011, the Treasurer determines that
      any amount standing to the credit of the Policyholders Protection
      Fund is not needed for payments to the Nominal Defendant's Fund in
@@ -186,35 +176,17 @@ Refunds of tax from Policyholders Protection Fund
      under this Act in respect of that year.
      (5) The Chief Commissioner is to pay the refund amount to insurers in
      accordance with this section.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16
-Definitions
- 
- 
-16 Definitions
+Section 16 Definitions
 In this Part--
-
 "declared insolvent insurer" means an insurer to which an order of the
 Treasurer in force under section 16A relates.
-
 "Nominal Defendant" means the Nominal Defendant within the meaning of the Motor
 Accidents Compensation Act 1999.
-
 "Nominal Defendant's Fund" means the Fund established by section 40 of the
 Motor Accidents Compensation Act 1999.
-
 "third-party policy" means a third-party policy within the meaning of Part 7.3
 of the Motor Accidents Compensation Act 1999.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16A
-Declaration of insolvent insurers
- 
- 
-16A Declaration of insolvent insurers
+Section 16A Declaration of insolvent insurers
      (1) If the Treasurer is satisfied that a liquidator or provisional
      liquidator has been appointed in respect of an insurer, or that an
      insurer has been dissolved, the Treasurer may, by order published in
@@ -227,19 +199,12 @@ Declaration of insolvent insurers
           (a) HIH Casualty and General Insurance Limited,
           (b) FAI General Insurance Company Limited,
           (c) CIC Insurance Limited.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16B
-Policyholders Protection Fund
- 
- 
-16B Policyholders Protection Fund
+Section 16B Policyholders Protection Fund
      (1) There is established in the Special Deposits Account a
      Policyholders Protection Fund.
      (2) The following is to be paid into the Fund--
           (a) money appropriated by Parliament to the Fund under
-          section 16C,
+Section 16C,
           (c) money required to be paid into the Fund from the
           Nominal Defendant's Fund in accordance with section 16G,
           (d) any gift or bequest of money for the purposes of the
@@ -258,29 +223,15 @@ Policyholders Protection Fund
           accordance with section 3C,
           (d) any other money required by law to be paid from the
           Fund.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16C
-Tax to be paid into Policyholders Protection Fund
- 
- 
-16C Tax to be paid into Policyholders Protection Fund
+Section 16C Tax to be paid into Policyholders Protection Fund
      (1) There is appropriated by this section for payment out of the
      Consolidated Fund into the Policyholders Protection Fund all amounts
      received in payment of tax under this Act.
      (2) There is payable out of the Policyholders Protection Fund such
      amounts as may become payable under this Act by way of refunds of
      tax.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16E
-Application of Policyholders Protection Fund--claims under third-party motor
-accident policies of insolvent insurers
- 
- 
-16E Application of Policyholders Protection Fund--claims under third-party
+Section 16E Application of Policyholders Protection Fund--claims under third-party motor accident policies of insolvent insurers
+Section 16E Application of Policyholders Protection Fund--claims under third-party
 motor accident policies of insolvent insurers
      (1) The Policyholders Protection Fund must be applied to meet
      expenditure from the Nominal Defendant's Fund in connection with
@@ -288,15 +239,8 @@ motor accident policies of insolvent insurers
      (2) All payments made from the Policyholders Protection Fund under
      this section are to be made in the amounts, on the conditions and at
      the times determined by the Treasurer.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16G
-Repayments to Policyholders Protection Fund--money recovered from motor
-accident insolvent insurers and re-insurers
- 
- 
-16G Repayments to Policyholders Protection Fund--money recovered from motor
+Section 16G Repayments to Policyholders Protection Fund--money recovered from motor accident insolvent insurers and re-insurers
+Section 16G Repayments to Policyholders Protection Fund--money recovered from motor
 accident insolvent insurers and re-insurers
      (1) This section applies in relation to money recovered by the
      Nominal Defendant--
@@ -311,39 +255,21 @@ accident insolvent insurers and re-insurers
      paid from the Nominal Defendant's Fund into the Policyholders
      Protection Fund in accordance with arrangements made between the
      Treasurer and the Nominal Defendant.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 16H
-Policyholders Protection Fund to reimburse additional money advanced from
-Consolidated Fund
- 
- 
-16H Policyholders Protection Fund to reimburse additional money advanced from
+Section 16H Policyholders Protection Fund to reimburse additional money advanced from Consolidated Fund
+Section 16H Policyholders Protection Fund to reimburse additional money advanced from
 Consolidated Fund
 If the Treasurer determines that money standing to the credit of the
 Policyholders Protection Fund is not needed for payments to the Nominal
 Defendant's Fund in accordance with this Part, the Treasurer may pay an amount
 of money from the Policyholders Protection Fund (up to the amount advanced to
 the Policyholders Protection Fund by the Treasurer) into the Consolidated Fund.
- 
-
-INSURANCE PROTECTION TAX ACT 2001
-Section 24
-Regulations
- 
- 
-24 Regulations
+Section 24 Regulations
      (1) The Governor may make regulations, not inconsistent with this
      Act, for or with respect to any matter that by this Act is required
      or permitted to be prescribed or that is necessary or convenient to
      be prescribed for carrying out or giving effect to this Act.
- 
-
 INSURANCE PROTECTION TAX ACT 2001
 - SCHEDULE 1
- 
- 
 SCHEDULE 1 - Savings, transitional and other provisions Part 1 - General 1
 Regulations
      (1) The regulations may contain provisions of a savings or
@@ -368,35 +294,24 @@ An amendment made to this Act by the Regulatory Reform and Other Legislative
 Repeals Act 2015 does not affect any liability to pay tax imposed by this Act
 that arose before 1 July 2011 and this Act, as in force before that amendment,
 continues to have effect in respect of any such liability.
-3 Application of section 30 of Interpretation Act 1987
+Section 3 Application of section 30 of Interpretation Act 1987
 Nothing in this Part affects the application of section 30 of the
 Interpretation Act 1987.
- 
-
 INSURANCE PROTECTION TAX ACT 2001
 - NOTES
- 
-
 Editorial note
 The Parliamentary Counsel's Office is progressively updating certain formatting
 styles in versions of NSW in force legislation published from 29 July 2019. For
 example, colons are being replaced by em-rules (em-dashes). Text of the
 legislation is not affected.
-
 This version has been updated.
-
- 
-
 INSURANCE PROTECTION TAX ACT 2001
 - NOTES
- 
-
 Historical notes
 Table of amending instrumentsInsurance Protection Tax
 Act 2001 No 40. Minister's second reading speech made: Legislative Assembly,
 29.5.2001; Legislative Council, 28.6.2001. Assented to 29.6.2001. Date of
 commencement, 1.7.2001, sec 2. This Act has been amended as follows--
-
  _____________________________________________________________________________
 ||    |      |Insurance (Policyholders                                        |
 ||    |      |Protection) Legislation Amendment Act 2001. Assented to         |
@@ -443,20 +358,16 @@ commencement, 1.7.2001, sec 2. This Act has been amended as follows--
 ||    |      |                                                                |
 |_____________________________________________________________________________|
 Table of amendments
-
  ___________________________________________________________________________
 ||                                  |Am 2001 No 41, Sch 1 [1]; 2001 No 87,  |
 ||Sec 3                             |Sch 1 [1]; 2002 No 26, Sch 2.6 [1] [2];|
 ||                                  |2005 No 111, Sch 3 [1]; 2009 No 51, Sch|
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Secs 3A, 3B                       |Ins 2010 No 46, Sch 5 [1]. Rep 2015 No |
 |___________________________________________________________________________|
 ||Sec 3C                            |Ins 2010 No 46, Sch 5 [1]. Am 2024 No  |
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Part 2, Div 1, heading            |Am 2001 No 87, Sch 1 [2]. Rep 2015 No  |
-|___________________________________________________________________________|
 |___________________________________________________________________________|
 ||Sec 4                             |Am 2001 No 87, Sch 1 [3]. Rep 2015 No  |
 |___________________________________________________________________________|
@@ -464,51 +375,33 @@ Table of amendments
 |___________________________________________________________________________|
 ||Sec 6                             |Subst 2001 No 87, Sch 1 [7]. Rep 2015  |
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Sec 8                             |Am 2001 No 87, Sch 1 [8]. Rep 2015 No  |
 |___________________________________________________________________________|
 ||Sec 9                             |Am 2009 No 51, Sch 7.3 [2]. Rep 2015 No|
 |___________________________________________________________________________|
 ||Sec 10                            |Am 2001 No 87, Sch 1 [9]. Rep 2015 No  |
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Part 2, Div 2 (sec 11A)           |Ins 2001 No 87, Sch 1 [10]. Rep 2015 No|
 |___________________________________________________________________________|
 ||Part 2, Div 3, heading (previously|Renumbered 2001 No 87, Sch 1 [11]. Rep |
 |___________________________________________________________________________|
-|___________________________________________________________________________|
-|___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Sec 16                            |Subst 2001 No 41, Sch 1 [2]. Am 2024 No|
-|___________________________________________________________________________|
 |___________________________________________________________________________|
 ||Sec 16B                           |Ins 2001 No 41, Sch 1 [2]. Am 2010 No  |
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Sec 16D                           |Ins 2001 No 41, Sch 1 [2]. Rep 2024 No |
-|___________________________________________________________________________|
 |___________________________________________________________________________|
 ||Sec 16F                           |Ins 2001 No 41, Sch 1 [2]. Rep 2024 No |
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Sec 16H                           |Ins 2001 No 41, Sch 1 [2]. Am 2024 No  |
-|___________________________________________________________________________|
-|___________________________________________________________________________|
 |___________________________________________________________________________|
 ||Sec 19                            |Am 2002 No 26, Sch 2.6 [3]. Rep 2015 No|
 |___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Sec 20A                           |Ins 2001 No 87, Sch 1 [12]. Rep 2015 No|
 |___________________________________________________________________________|
-|___________________________________________________________________________|
-|___________________________________________________________________________|
 ||Sec 23                            |Am 2007 No 94, Sch 4. Rep 2015 No 48,  |
-|___________________________________________________________________________|
-|___________________________________________________________________________|
-|___________________________________________________________________________|
 |___________________________________________________________________________|
 ||Sec 27                            |Ins 2001 No 87, Sch 1 [13]. Rep 2015 No|
 |___________________________________________________________________________|
 ||Sec 28                            |Ins 2005 No 111, Sch 3 [2]. Rep 2015 No|
-|___________________________________________________________________________|
 |___________________________________________________________________________|

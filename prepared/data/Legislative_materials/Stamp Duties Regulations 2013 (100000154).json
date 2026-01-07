@@ -1,0 +1,163 @@
+{
+  "doc": {
+    "jurisdiction": "south_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/sa/consol_reg/sdr2013266/",
+    "register_url": "https://www.legislation.sa.gov.au/lz?path=/c/r/stamp%20duties%20regulations%202013",
+    "source": "Stamp Duties Regulations 2013 (100000154).txt",
+    "filename": "Stamp Duties Regulations 2013 (100000154).json",
+    "name": "Stamp Duties Regulations 2013",
+    "citation": "Stamp Duties Regulations 2013"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title These regulations may be cited as the Stamp Duties Regulations 2013.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title These regulations may be cited as the Stamp Duties Regulations 2013.",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 1",
+      "text": ""
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Interpretation In these regulations-- Act means the Stamp Duties Act 1923.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation In these regulations-- Act means the Stamp Duties Act 1923.",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 3",
+      "text": ""
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Financial products (section 2 of Act) An interest in a unit trust scheme listed on a recognised financial market is brought within the ambit of the definition of financial product in section 2 of the Act.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Financial products (section 2 of Act) An interest in a unit trust scheme listed on a recognised financial market is brought within the ambit of the definition of financial product in section 2 of the Act.",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 4",
+      "text": ""
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Recognised financial markets (section 2 of Act) The following financial markets are brought within the ambit of the definition of recognised financial market in section 2 of the Act:",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Recognised financial markets (section 2 of Act) The following financial markets are brought within the ambit of the definition of recognised financial market in section 2 of the Act:",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 5",
+      "text": "(a) financial markets operated by the National Stock Exchange of\n   Australia Limited;\n   (b) financial markets operated by stock exchanges that are members of\n   the World Federation of Exchanges;\n   (c) financial markets operated by the Asia Pacific Exchange Limited;\n   (d) financial markets operated by NZX Limited."
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Impressed stamps",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Impressed stamps",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 6",
+      "text": "(1) Unless the Commissioner otherwise determines, a person requiring an\n   impressed stamp must--\n   (a) lodge with the Commissioner the instrument or other material to be\n   stamped together with a requisition to the Commissioner; and\n   (b) pay in advance to the Commissioner the value of the stamp to be\n   impressed.\n   (2) The Commissioner may determine the manner in which the value of a\n   stamp must be paid.\n   7--Application for allowance for spoiled or unused stamps (section 106\n   of Act)\n   For the purposes of section 106 of the Act, an application for\n   allowance for spoiled or unused stamps must be made in a form approved\n   by the Commissioner and be accompanied by a statutory declaration\n   setting out such information as the Commissioner may reasonably require\n   to determine the application."
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Grant of application and deduction",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Grant of application and deduction",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 8",
+      "text": "(1) Subject to subregulation (2), on the grant of an application under\n   regulation 7, the Commissioner must--\n   (a) pay the amount allowed to the person entitled to the allowance; or\n   (b) give other stamps to the equivalent value to the allowance in lieu\n   of payment.\n   (2) The minimum amount which will be paid or given as stamps in lieu of\n   payment under this regulation is $4."
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Disposal of spoiled or unused stamps After the grant of an application for allowance for any spoiled or unused stamp or stamped material, the Commissioner must--",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Disposal of spoiled or unused stamps After the grant of an application for allowance for any spoiled or unused stamp or stamped material, the Commissioner must--",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 9",
+      "text": "(a) cancel and retain or destroy the stamp or stamped material; or\n   (b) at his or her discretion, in the case of a spoiled stamp affixed to\n   an instrument, cancel or remove the spoiled stamp and return the\n   instrument to the applicant."
+    },
+    {
+      "key": "regulation:10",
+      "title": "Regulation 10 - Disallowed applications for spoiled stamps or material If the Commissioner refuses to grant an application for allowance for spoiled stamps or stamped material, the spoiled stamp or material on which it is affixed or impressed must be marked with the word \"Disallowed\" and the date on which it is disallowed, and be returned to the applicant.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Disallowed applications for spoiled stamps or material If the Commissioner refuses to grant an application for allowance for spoiled stamps or stamped material, the spoiled stamp or material on which it is affixed or impressed must be marked with the word \"Disallowed\" and the date on which it is disallowed, and be returned to the applicant.",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 10",
+      "text": ""
+    },
+    {
+      "key": "regulation:10A",
+      "title": "Regulation 10A - Exemption for certain heavy vehicles",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10A",
+      "main_structural_heading": "Exemption for certain heavy vehicles",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 10A",
+      "text": "(1) Pursuant to section 42E of the Act, an application to register a\n   motor vehicle that is a heavy vehicle is exempt from the component of\n   duty payable in respect of registration under Schedule 2 clause 2(1) of\n   the Act if--\n   (a) the vehicle is, immediately before the date on which the\n   application is made, registered in the name of the applicant (and not\n   in the name of any other person) under the Interstate Road Transport\n   Act 1985 of the Commonwealth (the Commonwealth Act); and\n   (b) the registration of the vehicle under the Commonwealth Act expires\n   during the period commencing on 1 July 2018 and ending on 30 June 2019.\n   (2) In this regulation--\n   heavy vehicle has the same meaning as in the Heavy Vehicle National Law\n   (South Australia)."
+    },
+    {
+      "key": "regulation:10B",
+      "title": "Regulation 10B - Variation of exemptions for electric vehicles",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10B",
+      "main_structural_heading": "Variation of exemptions for electric vehicles",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 10B",
+      "text": "(1) Pursuant to section 42E of the Act, the following exemptions do not\n   apply to an application relating to an electric vehicle in respect of\n   which the registration fee is remitted in accordance with\n   regulation 90(3a) of the Motor Vehicles Regulations 2010:\n   (a) exemption number 3 in Schedule 2 clause 2(2) of the Act;\n   (b) exemption number 1 in Schedule 2 clause 2(4) of the Act.\n   (2) In this regulation--\n   electric vehicle has the same meaning as in regulation 90(3a) of the\n   Motor Vehicles Regulations 2010.\n   11--Computation of duty where instruments are interrelated (section 67\n   of Act)\n   (1) For the purposes of section 67(2)(d) of the Act, an instrument is\n   excluded from the operation of section 67 of the Act if--\n   (a) it is 1 of a series of separate conveyances under which rights or\n   interests in a hotel, motel, resort or managed apartment complex are\n   conveyed in separate parcels to different persons, each of whom is or\n   becomes a member of the same managed investment scheme; and\n   (b) the Commissioner is satisfied that, apart from any arrangement or\n   understanding entered into for the purposes of the managed investment\n   scheme, no arrangement or understanding exists between the members\n   under which the parcels of property conveyed are to be used otherwise\n   than separately and independently from each other.\n   (2) In this regulation--\n   managed investment scheme and member of a managed investment scheme\n   have the same respective meanings as in the Corporations Act 2001 of\n   the Commonwealth."
+    },
+    {
+      "key": "regulation:12",
+      "title": "Regulation 12 - Certain transactions excluded (section 71E of Act) For the purposes of section 71E(2)(e) of the Act, the vesting of property or a right (whether certain or contingent) in a registered co-operative by virtue of a merger or transfer of engagements under",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12",
+      "main_structural_heading": "Certain transactions excluded (section 71E of Act) For the purposes of section 71E(2)(e) of the Act, the vesting of property or a right (whether certain or contingent) in a registered co-operative by virtue of a merger or transfer of engagements under",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 12",
+      "text": "Part 12 Division 1 or Part 14 Division 3 of the Co-operatives Act 1997\n   is a transaction of a prescribed class."
+    },
+    {
+      "key": "regulation:13",
+      "title": "Regulation 13 - Special Acts (section 71F of Act) Pursuant to paragraph (c) of the definition of special Act in section 71F(6) of the Act, the following Acts are prescribed for the purposes of that section:",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13",
+      "main_structural_heading": "Special Acts (section 71F of Act) Pursuant to paragraph (c) of the definition of special Act in section 71F(6) of the Act, the following Acts are prescribed for the purposes of that section:",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 13",
+      "text": "(a) Financial Sector Reform (ACT) Act 1999 of the Australian Capital\n   Territory (repealed);^1\n   (b) Financial Sector Reform (New South Wales) Act 1999 of New South\n   Wales;\n   (c) Financial Sector Reform (Northern Territory) Act 1999 of the\n   Northern Territory;\n   (d) Financial Sector Reform (Queensland) Act 1999 of Queensland;\n   (e) Financial Sector Reform (Tasmania) Act 1999 of Tasmania;\n   (f) Financial Sector Reform (Victoria) Act 1999 of Victoria;\n   (g) Acts Amendment and Repeal (Financial Sector Reform) Act 1999 of\n   Western Australia.\n   Note--\n   1 The Financial Sector Reform (ACT) Act 1999 (ACT) was repealed by the\n   Statute Law Amendment Act 2002 (ACT) and was declared by that Act to be\n   a law to which section 88 of the Legislation Act 2001 (ACT) applies.\n   Section 88 of the Legislation Act 2001 (ACT) provides that the effect\n   of a declared law does not end only because of its repeal."
+    },
+    {
+      "key": "regulation:14",
+      "title": "Regulation 14 - Concession card holders For the purposes of subparagraph (i) of paragraph (b) of exemption 8 of clause 2(4) of Schedule 2 of the Act, a State concession card issued by the administrative unit that is, under a Minister, responsible for the administration of the Family and Community Services Act 1972 is a State concession card of a prescribed class. Legislative history o Please note--References in the legislation to other legislation or instruments or to titles of bodies or offices are not automatically updated as part of the program for the revision and publication of legislation and therefore may be obsolete. o Earlier versions of these regulations (historical versions) are listed at the end of the legislative history. o For further information relating to the Act and subordinate legislation made under the Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. Legislation revoked by principal regulations The Stamp Duties Regulations 2013 revoked the following: Stamp Duties Regulations 2002 Principal regulations and variations New entries appear in bold. Year No Reference Commencement 2013 209 Gazette 22.8.2013 p3574",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "14",
+      "main_structural_heading": "Concession card holders For the purposes of subparagraph (i) of paragraph (b) of exemption 8 of clause 2(4) of Schedule 2 of the Act, a State concession card issued by the administrative unit that is, under a Minister, responsible for the administration of the Family and Community Services Act 1972 is a State concession card of a prescribed class. Legislative history o Please note--References in the legislation to other legislation or instruments or to titles of bodies or offices are not automatically updated as part of the program for the revision and publication of legislation and therefore may be obsolete. o Earlier versions of these regulations (historical versions) are listed at the end of the legislative history. o For further information relating to the Act and subordinate legislation made under the Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. Legislation revoked by principal regulations The Stamp Duties Regulations 2013 revoked the following: Stamp Duties Regulations 2002 Principal regulations and variations New entries appear in bold. Year No Reference Commencement 2013 209 Gazette 22.8.2013 p3574",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 14",
+      "text": "22.8.2013: r 2\n   2018\n       171\n          Gazette 28.6.2018 p2627\n                                 28.6.2018: r 2\n   2022\n       85\n          Gazette 29.9.2022 p6266\n                                 29.9.2022: r 2\n   Provisions varied\n   New entries appear in bold.\n   Entries that relate to provisions that have been deleted appear in\n   italics.\nProvision\n         How varied\n                                                                                                 Commencement\nr 2\n         omitted under Legislation Revision and Publication Act 2002\n                                                                                                   28.6.2018\nr 10A\n         inserted by 171/2018 r 4\n                                                                                                   28.6.2018\nr 10B\n         inserted by 85/2022 r 3\n                                                                                                   29.9.2022\nSch 1\n         omitted under Legislation Revision and Publication Act 2002\n                                                                                                   28.6.2018\n   Historical versions\n   28.6.2018"
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Application for allowance for spoiled or unused stamps (section",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Application for allowance for spoiled or unused stamps (section",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 7",
+      "text": ""
+    },
+    {
+      "key": "regulation:11",
+      "title": "Regulation 11 - Computation of duty where instruments are interrelated (section",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "11",
+      "main_structural_heading": "Computation of duty where instruments are interrelated (section",
+      "defined_term": null,
+      "structure_path": "Stamp Duties Regulations 2013 > Regulation 11",
+      "text": ""
+    }
+  ]
+}

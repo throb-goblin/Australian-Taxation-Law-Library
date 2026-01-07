@@ -1,0 +1,243 @@
+{
+  "doc": {
+    "jurisdiction": "western_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/wa/consol_reg/ltar2003323/",
+    "register_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_s15942.html&view=consolidated",
+    "source": "Land Tax Assessment Regulations 2003 (100000110).txt",
+    "filename": "Land Tax Assessment Regulations 2003 (100000110).json",
+    "name": "Land Tax Assessment Regulations 2003",
+    "citation": "Land Tax Assessment Regulations 2003"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 -         Citation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "        Citation",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 1",
+      "text": "These regulations may\nbe cited as the\nLand Tax Assessment Regulations  2003\n.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 -         Commencement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "        Commencement",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 2",
+      "text": "and application\n        (1)         These regulations\ncome into operation on the day on which the\nTaxation Administration Act 2003\ncomes into operation.\n        (2)         These regulations\napply —\n            (a)         to\nland tax that is assessed for an assessment year that ends after the day\nreferred to in subregulation (1); and\n            (b)         for\nthe purposes of paragraph (a) of the definition of “arrears”\nin\nRegulation 3(1) — to land tax, as defined in the\nLand Tax Assessment Act 1976\n 1\nsection 5(1)\n, that is payable\nin respect of an assessment year that ends before that day.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 -         Terms and",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "        Terms and",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 3",
+      "text": "abbreviations used\n        (1)         In these\nregulations —\narrears\nmeans the sum, as at the date an\nassessment notice (the\nrelevant assessment notice\n) is issued, of —\n            (a)         any\nland tax that is due and payable and shown on an assessment notice issued in\nan assessment year before the assessment year in which the relevant assessment\nnotice is issued; and\n            (b)         any\npenalty tax under the\nTaxation Administration Act 2003\n section 26\nor 27 that is due and payable in relation to land tax; and\n            (c)         any\ninterest under the\nTaxation Administration Act 2003\n section 47 that\nis due and payable in relation to land tax; and\n            (d)         any\nlegal costs or costs, as referred to in the\nTaxation  Administration\nAct 2003\nsection 62(a), (b) or (ba), that are incurred by the\nCommissioner and due and payable in relation to land tax;\nassessed amount\nmeans the total amount of land tax\nand arrears due and payable and shown on an assessment notice;\n        discountable amount\nmeans the amount of land tax\n(not including arrears) due and payable and shown on an assessment notice (the\nrelevant assessment notice\n)\nbut not shown on an assessment notice issued in\nan assessment year before the assessment year in which the relevant assessment\nnotice is issued;\n        option 1\nmeans the option for discharging a\nliability to pay an assessed amount set out in\nRegulation 6 ;\n        option 2\nmeans the option for discharging a\nliability to pay an assessed amount set out in\nRegulation 7 ;\n        option 3\nmeans the option for discharging a\nliability to pay an assessed amount set out in\nRegulation 8 ;\n        residual amount\nmeans the assessed amount\nless —\n            (a)\narrears; and\n            (b)         the\ndiscountable amount.\n        (2)         In these\nregulations, the following abbreviations are used —\n        A\nfor arrears;\n        DA\nfor discountable amount;\n        RA\nfor residual amount.\n        [Regulation 3 amended: Gazette"
+    },
+    {
+      "key": "regulation:13",
+      "title": "Regulation 13 - Aug 2019 p. 3041; SL 2022/91 r. 4.]",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13",
+      "main_structural_heading": "Aug 2019 p. 3041; SL 2022/91 r. 4.]",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 13",
+      "text": "3A.\n1M\n        Modification, to insert regulation 3A, to\nhave effect under the\nCommonwealth Places (Mirror Taxes Administration) Act 1999\ns. 7\n, see\nCommonwealth Places (Mirror Taxes Administration) Regulations  2007\nr. 20\nand endnote 1M.]\n3A.\n1MC\n        Modification, to insert regulation 3A,\nto have effect under the\nCommonwealth Places (Mirror Taxes) Act 1998\n(Commonwealth)\ns. 8\n, see Commonwealth Places (Mirror Taxes) (Modification\nof Applied Laws (WA)) Notice 2007 cl. 21 and endnote 1MC.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 -         Tax payment",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "        Tax payment",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 4",
+      "text": "arrangements not affected\n                Nothing in these\nregulations affects the payment of land tax under a tax payment arrangement.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 -         Taxpayer’s",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "        Taxpayer’s",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 5",
+      "text": "options in discharging liability to pay assessed amount\n                A taxpayer may\ndischarge a liability to pay an assessed amount by paying in accordance with"
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - , 7 ,",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": ", 7 ,",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 6",
+      "text": "8\n or\n9\n.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 -         Paying",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "        Paying",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 6",
+      "text": "assessed amount in one discounted payment (option 1)\n                A taxpayer may\ndischarge a liability to pay an assessed amount by making one payment of the\namount, due and payable within 49 days after the date of the assessment\nnotice, calculated using the formula —\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 -         Paying",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "        Paying",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 7",
+      "text": "assessed amount in 2 instalments (option 2)\n        (1)         A taxpayer may\ndischarge a liability to pay an assessed amount by paying in\nRegulation 2 instalments.\n        (2)         The first\ninstalment is due and payable within 49 days after the date of the\nassessment notice and is the amount calculated using the formula —\n        (3)         The second\ninstalment is due and payable within 175 days after the date of the\nassessment notice and is the amount calculated using the formula —\n        [Regulation 7 amended: Gazette\nRegulation 17 Nov 2009 p. 4633.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 -         Paying",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "        Paying",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 8",
+      "text": "assessed amount in 3 instalments (option 3)\n        (1)         A taxpayer may\ndischarge a liability to pay an assessed amount by paying in 3 instalments.\n        (2)         The first\ninstalment is due and payable within 49 days after the date of the\nassessment notice and is the amount calculated using the formula —\n        (3)         The second\ninstalment is due and payable within 175 days after the date of the\nassessment notice and is the amount calculated using the formula —\n        (4)         The third\ninstalment is due and payable within 240 days after the date of the\nassessment notice and is the amount calculated using the formula —\n        [Regulation 8 amended: Gazette\nRegulation 17 Nov 2009 p. 4633; SL 2022/91 r. 5.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 -         Other",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "        Other",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 9",
+      "text": "arrangements for paying assessed amount\n        (1)         If the amount of\nland tax paid within 49 days after the date of the assessment notice (the\namount paid\n)\nis —\n            (a)         less\nthan the amount payable under option 1; and\n            (b)         more\nthan the first instalment payable under option 2,\n                the Commissioner is to\ndeduct the amount paid from the assessed amount, and the remaining amount is\ndue and payable by the taxpayer within 175 days after the date of the\nassessment notice.\n        (2)         If the amount of\nland tax paid within 49 days after the date of the assessment notice (the\namount paid\n)\nis —\n            (a)         less\nthan the first instalment payable under option 2; and\n            (b)         more\nthan the first instalment payable under option 3,\n                the Commissioner is to\ndeduct the amount paid from the assessed amount, and the remaining amount is\nto be divided into 2 equal instalments.\n        (3)         The first of those\ninstalments is due and payable by the taxpayer within 175 days after the\ndate of the assessment notice.\n        (4)         The second of\nthose instalments is due and payable by the taxpayer within 240 days\nafter the date of the assessment notice.\n        [Regulation 9 amended: Gazette\nRegulation 17 Nov 2009 p. 4633-4; SL 2022/91 r. 6.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:10A",
+      "title": "Regulation 10A -         Incorrect",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10A",
+      "main_structural_heading": "        Incorrect",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 10A",
+      "text": "payment of assessed amount\n        (1)         In this\nRegulation —\nincorrect payment\nmeans a payment to discharge a\nliability to pay an assessed amount that is not in accordance with\nRegulation 6 , 7 ,\n8\n or\n9\n where —\n            (a)         the\nCommissioner is satisfied that it is clear from the circumstances in which the\npayment is made that the payment was intended to be an amount or instalment\ndue and payable under\nRegulation 6 , 7\n(2),\n8\n(2) or (3) or\n9\n(3) (the\nrelevant provision\n); and\n            (b)         the\npayment was received by the Commissioner within 7 days after the amount\nor instalment was due and payable under the relevant provision.\n        (2)         If this\nsubregulation applies in respect of an incorrect payment —\n            (a)         the\npayment —\n                  (i)\n      is to be taken to have been made under the relevant\nprovision; and\n                  (ii)\n      so far as is practicable, the relevant provision applies\nin respect of the payment;\n                and\n            (b)\nregulations 9(1)\n and (2) and\n11\n do not apply in respect of the payment.\n        (3)\nSubregulation (2) applies in respect of an incorrect payment —\n            (a)         if\nthe payment is equal to or more than the amount or instalment due under the\nrelevant provision; or\n            (b)\nif —\n                  (i)\n      the payment is less than the amount or instalment due\nunder the relevant provision; and\n                  (ii)\n      the amount of the shortfall has been paid by the taxpayer\nimmediately in accordance with subregulation (4).\n        (4)         If an incorrect\npayment is less than the amount or instalment due under the relevant provision\nthe Commissioner is to deduct the amount of the payment from that amount or\ninstalment and the amount of the shortfall is immediately due and payable by\nthe taxpayer.\n        [Regulation 10A inserted: Gazette 18 Sep 2015\np. 3814‑15.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:10",
+      "title": "Regulation 10 -         Instalments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "        Instalments",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 10",
+      "text": "to be multiples of 5 cents\n        (1)         Amounts payable as\ninstalments under"
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - , 8 or",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": ", 8 or",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 7",
+      "text": "9\n are to be multiples of\nRegulation 5 cents.\n        (2)         If the application\nof subregulation (1) results in unequal instalments being payable that\nwould have been equal instalments if not for the application of that\nsubregulation, the first of those instalments is to be the greater or greatest\namount, as the case requires.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:11",
+      "title": "Regulation 11 -         When full",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "11",
+      "main_structural_heading": "        When full",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 11",
+      "text": "amount of land tax becomes due and payable\n                If —\n            (a)         the\namount of land tax paid within 49 days after the date of the assessment\nnotice is less than the first instalment due and payable under option 3;\nor\n            (b)         an\ninstalment under these regulations is not paid when it is due and payable,\n                the full amount of\nunpaid land tax is immediately due and payable by the taxpayer.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:12",
+      "title": "Regulation 12 -         Taxable",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12",
+      "main_structural_heading": "        Taxable",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 12",
+      "text": "authorities\n        (1)         For the purposes\nof paragraph (b) of the definition of “taxable authority” in\nclause 1 of the Glossary at the end of the\nLand Tax Assessment Act 2002\n, the bodies to which this subregulation\napplies are prescribed.\n        (2)\nSubregulation (1) applies to the following bodies —\n            (a)         the\nElectricity Generation and Retail Corporation established by the\nElectricity Corporations Act 2005\nsection 4(1)(a)\n;\n            (aa)         the\nElectricity Networks Corporation established by the\nElectricity Corporations Act 2005\nsection 4(1)(b)\n;\n            (ac)         the\nRegional Power Corporation established by the\nElectricity  Corporations\nAct 2005\nsection 4(1)(d)\n;\n            (b)         the\nWater Corporation established by the\nWater Corporations  Act 1995\nsection 4(1)\n;\n            (ca)         the\nBunbury Water Corporation established by the\nWater  Corporations Act 1995\nsection 4(2)\n;\n            (cb)         the\nBusselton Water Corporation established by the\nWater  Corporations\nAct 1995\nsection 4(3)\n;\n            (c)         the\nWestern Australian Land Authority established by the\nWestern  Australian Land\nAuthority Act 1992\nsection 5\n;\n        [(d)‑(f)\ndeleted]\n            (g)         the\nFremantle Port Authority established by the\nPort Authorities  Act 1999\nsection 4\n;\n            (h)         the\nKimberley Ports Authority established by the\nPort Authorities  Act 1999\nsection 4\n;\n                  (i)\n      the Mid West Ports Authority established by the\nPort Authorities  Act 1999\nsection 4\n;\n            (j)         the\nPilbara Ports Authority established by the\nPort Authorities  Act 1999\nsection 4\n;\n            (k)         the\nSouthern Ports Authority established by the\nPort Authorities  Act 1999\nsection 4\n;\n            (l)         the\nWestern Australian Land Information Authority established by the\nLand Information Authority Act 2006\nsection 5\n;\n            (m)         the\nChemistry Centre (WA) established by the\nChemistry Centre (WA)  Act 2007\nsection 4\n;\n            (n)         the\nInsurance Commission of Western Australia continued under the\nInsurance Commission of Western Australia Act 1986\nsection 4.\n        [Regulation 12 amended: Gazette\nRegulation 31 Mar 2006 p. 1350‑1; 20 Mar 2007\np. 1049; 4 Sep 2007 p. 4522; 30 May 2008\np. 2088; 27 Dec 2013 p. 6478; 30 Jun 2014\np. 2425‑6; 19 Sep 2014 p. 3340; 18 Sep 2015\np. 3815.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:12AA",
+      "title": "Regulation 12AA -         Circumstances",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12AA",
+      "main_structural_heading": "        Circumstances",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 12AA",
+      "text": "in which subdivision does not cause parent lot to cease being a lot\n                For the purposes of\nthe\nLand Tax Assessment Act 2002\nGlossary clause 2(2B),\nclause 2(2) of that Glossary does not apply to a subdivision of land that\nis the subject of a leasehold scheme to be registered under the\nStrata Titles Act 1985\n.\n        [Regulation 12AA inserted: Gazette\nRegulation 13 Aug 2019 p. 3042.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:12A",
+      "title": "Regulation 12A -         Taxable",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12A",
+      "main_structural_heading": "        Taxable",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 12A",
+      "text": "value: prescribed percentage\n                The percentages\nprescribed for the purposes of clause 6(4) of the Glossary at the end of\nthe\nLand Tax Assessment Act 2002\nare as follows —\n            (a)\nunder paragraph (a) — 150% for a financial year;\n            (b)\nunder paragraph (b) —\n                  (i)\n      150% for the financial year 2009/10;\n                  (ii)\n      150% for a financial year after 2009/10.\n        [Regulation 12A inserted as\nRegulation 13A:\nGazette 17 Nov 2009 p. 4634; renumbered as 12A: Gazette\nRegulation 12 Jun 2018 p. 1898.]\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:13",
+      "title": "Regulation 13 -         Inner city",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13",
+      "main_structural_heading": "        Inner city",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 13",
+      "text": "area\n                For the purposes of\nthe\nLand Tax Assessment Act 2002\nsection 28(2)(a), the area of the\nState that corresponds to the shaded area on the plan set out in\nSchedule 1 is an inner city area.\nWestern Australian Current Regulations\nSearch this Regulation"
+    },
+    {
+      "key": "regulation:13A",
+      "title": "Regulation 13A -         Land used",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13A",
+      "main_structural_heading": "        Land used",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 13A",
+      "text": "for production-based agistment is used for primary production\n(s. 30A(1)(e))\n        (1)         In this\nRegulation —\nsection\nmeans a section of the\nLand Tax Assessment  Act 2002\n.\n        (2)         Land used for\nproduction-based agistment is prescribed for the purposes of\nsection 30A(1).\n        (3)         Land is used for\nproduction-based agistment if —\n            (a)         the\nland is used for the purpose of rearing living creatures in accordance with an\nagistment arrangement provided for in a contract, or agreement, that is in\nwriting; and\n            (b)         the\nagistment arrangement provided for in the contract or agreement is limited to\nagistment of the living creatures for a purpose referred to in\nsection 30A(1)(b)(ii) or (iii); and\n            (c)         the\ncontract or agreement is made between —\n                  (i)\n      a person who may lawfully use the land for the purpose\nreferred to in paragraph (a); and\n                  (ii)\n      a person to whom subparagraph (i) does not apply who\nowns the living creatures.\n        (4)         This regulation\napplies to the assessment year that began on 1 July 2014 and each\nsubsequent assessment year.\n        [Regulation 13A inserted: Gazette\nRegulation 12 Jun 2018 p. 1898‑9; amended: Gazette\nRegulation 13 Aug 2019 p. 3042.]\nWestern Australian Current Regulations\nSearch this Regulation\nLAND TAX ASSESSMENT REGULATIONS 2003 - SCHEDULE 1\nThis is a compilation of the\nLand Tax Assessment Regulations 2003\n and\nincludes amendments made by other written laws. For provisions that have come\ninto operation, and for information about any reprints, see the compilation\ntable."
+    },
+    {
+      "key": "regulation:14",
+      "title": "Regulation 14 - Repeal and savings",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "14",
+      "main_structural_heading": "Repeal and savings",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 14",
+      "text": ""
+    },
+    {
+      "key": "regulation:47",
+      "title": "Regulation 47 - that",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "47",
+      "main_structural_heading": "that",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 47",
+      "text": ""
+    },
+    {
+      "key": "regulation:62",
+      "title": "Regulation 62 - (a), (b) or (ba), that are incurred by the",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "62",
+      "main_structural_heading": "(a), (b) or (ba), that are incurred by the",
+      "defined_term": null,
+      "structure_path": "Land Tax Assessment Regulations 2003 > Regulation 62",
+      "text": ""
+    }
+  ]
+}

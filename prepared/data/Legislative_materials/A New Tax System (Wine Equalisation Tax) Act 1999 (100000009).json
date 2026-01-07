@@ -1,0 +1,2103 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/antseta1999417/",
+    "register_url": "https://www.legislation.gov.au/C2004A00452/latest/text",
+    "source": "A New Tax System (Wine Equalisation Tax) Act 1999 (100000009).txt",
+    "filename": "A New Tax System (Wine Equalisation Tax) Act 1999 (100000009).json",
+    "name": "A New Tax System (Wine Equalisation Tax) Act 1999",
+    "citation": "A New Tax System (Wine Equalisation Tax) Act 1999"
+  },
+  "chunks": [
+    {
+      "key": "section:1-1",
+      "title": "Section 1-1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-1",
+      "text": "This Act may be cited as the A New Tax System (Wine Equalisation Tax) Act 1999."
+    },
+    {
+      "key": "section:1-2",
+      "title": "Section 1-2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-2",
+      "text": "This Act commences on 1 July 2000."
+    },
+    {
+      "key": "section:1-3",
+      "title": "Section 1-3 - How the wine tax law applies to things outside the indirect tax zone and things happening before commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-3",
+      "main_structural_heading": "How the wine tax law applies to things outside the indirect tax zone and things happening before commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-3",
+      "text": "(1) The *wine tax law extends to acts, omissions, matters and things outside Australia (within the meaning of the *ITAA 1997) (except where a contrary intention appears).\n (2) The *wine tax law applies to acts and omissions happening before or after the commencement of this Act (except where there is an express statement to the contrary)."
+    },
+    {
+      "key": "section:1-4",
+      "title": "Section 1-4 - States and Territories are bound by the wine tax law",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-4",
+      "main_structural_heading": "States and Territories are bound by the wine tax law",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-4",
+      "text": "The *wine tax law binds the Crown in right of each of the States, of the Australian Capital Territory and of the Northern Territory. However, it does not make the Crown liable to be prosecuted for an offence."
+    },
+    {
+      "key": "section:2-1",
+      "title": "Section 2-1 - What this Act is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-1",
+      "main_structural_heading": "What this Act is about",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-1",
+      "text": "This Act is about the wine equalisation tax (or wine tax).\n  The wine tax is a single stage tax applying (in most cases) to dealings in wine at the wholesale level. In almost all dealings to which it applies, the GST will also apply.\nNote 1: Wine is widely defined in Subdivision  31-A. It can apply to beverages fermented from any fruit or vegetable. It also extends to cider, perry, mead and sake.\nNote 2: The wine tax is imposed by 3 Acts:\n        (a) the A New Tax System (Wine Equalisation Tax Imposition--General) Act 1999; and\n        (b) the A New Tax System (Wine Equalisation Tax Imposition--Customs) Act 1999; and\n        (c) the A New Tax System (Wine Equalisation Tax Imposition--Excise) Act 1999 ."
+    },
+    {
+      "key": "section:2-5",
+      "title": "Section 2-5 - Liability to tax (Part 2)",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-5",
+      "main_structural_heading": "Liability to tax (Part 2)",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-5",
+      "text": "Part 2 sets out the rules that establish the liability for the wine tax. The broad aim of the wine tax law is to tax the last wholesale sale of wine (usually the sale from the last wholesaler to the retailer)."
+    },
+    {
+      "key": "section:2-10",
+      "title": "Section 2-10 - Quoting (Part 3)",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-10",
+      "main_structural_heading": "Quoting (Part 3)",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-10",
+      "text": "Part 3 is about quoting. The system of quoting is designed to avoid wine tax becoming payable on earlier sales."
+    },
+    {
+      "key": "section:2-15",
+      "title": "Section 2-15 - Wine tax credits (Part 4)",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-15",
+      "main_structural_heading": "Wine tax credits (Part 4)",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-15",
+      "text": "Part 4 is about the entitlement to, and claiming of, wine tax credits. The system of wine tax credits deals (among other things) with situations where wine tax has become payable more than once on the same wine."
+    },
+    {
+      "key": "section:2-20",
+      "title": "Section 2-20 - Payment of wine tax (Part 5)",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-20",
+      "main_structural_heading": "Payment of wine tax (Part 5)",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-20",
+      "text": "Part 5 provides for amounts of wine tax, and wine tax credits, to be included in net amounts under the GST system. This has the effect of incorporating the wine tax into the payments and refunds system for the GST. However, the assessed wine tax is paid together with customs duty (where appropriate)."
+    },
+    {
+      "key": "section:2-25",
+      "title": "Section 2-25 - Miscellaneous (Part 6)",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-25",
+      "main_structural_heading": "Miscellaneous (Part 6)",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-25",
+      "text": "Part 6 deals with miscellaneous matters."
+    },
+    {
+      "key": "section:2-30",
+      "title": "Section 2-30 - Interpretative provisions (Part 7)",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-30",
+      "main_structural_heading": "Interpretative provisions (Part 7)",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-30",
+      "text": "Part 7 contains the Dictionary, which sets out a list of all the terms that are defined in this Act. It also sets out the meanings of some important concepts and rules on how to interpret this Act."
+    },
+    {
+      "key": "section:2-33",
+      "title": "Section 2-33 - Administration, collection and recovery provisions in the Taxation Administration Act 1953",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-33",
+      "main_structural_heading": "Administration, collection and recovery provisions in the Taxation Administration Act 1953",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of the wine tax legislation > Section 2-33",
+      "text": "Parts 3-10, 4-1 and 4-15 in Schedule 1 to the Taxation Administration Act 1953 contain provisions relating to the administration of the wine tax, and to collection and recovery of amounts of wine tax."
+    },
+    {
+      "key": "section:3-1",
+      "title": "Section 3-1 - When defined terms are identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-1",
+      "main_structural_heading": "When defined terms are identified",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 3--Defined terms > Section 3-1",
+      "text": "(1) Many of the terms used in the law relating to the wine tax are defined.\n (2) Most defined terms in this Act are identified by an asterisk appearing at the start of the term: as in &quot; *taxable dealing&quot;. The footnote that goes with the asterisk contains a signpost to the Dictionary definitions starting at section  33-1."
+    },
+    {
+      "key": "section:3-5",
+      "title": "Section 3-5 - When terms are not identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-5",
+      "main_structural_heading": "When terms are not identified",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 3--Defined terms > Section 3-5",
+      "text": "(1) Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.\n (2) Terms are not asterisked in the non-operative material contained in this Act.\nNote: The non-operative material is described in Division 4.\n (3) The following basic terms used throughout the Act are not identified with an asterisk.\nCommon definitions that are not asteriskedItemThis term:1amount2Commissioner3entity3Aindirect tax zone5wine6wine tax7you"
+    },
+    {
+      "key": "section:3-10",
+      "title": "Section 3-10 - Identifying the defined term in a definition",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-10",
+      "main_structural_heading": "Identifying the defined term in a definition",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 3--Defined terms > Section 3-10",
+      "text": "Within a definition, the defined term is identified by bold italics."
+    },
+    {
+      "key": "section:4-1",
+      "title": "Section 4-1 - Non - operative material",
+      "main_structural_unit": "section",
+      "main_structural_number": "4-1",
+      "main_structural_heading": "Non - operative material",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 4--Status of Guides and other non-operative material > Section 4-1",
+      "text": "In addition to the operative provisions themselves, this Act contains other material to help you identify accurately and quickly the provisions that are relevant to you and to help you understand them.\n  This other material falls into 2 main categories."
+    },
+    {
+      "key": "section:4-5",
+      "title": "Section 4-5 - Explanatory sections",
+      "main_structural_unit": "section",
+      "main_structural_number": "4-5",
+      "main_structural_heading": "Explanatory sections",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 4--Status of Guides and other non-operative material > Section 4-5",
+      "text": "One category is the explanatory section in many Divisions. Under the section heading &quot;What this Division is about&quot;, a short explanation of the Division appears in boxed text.\n  Explanatory sections form part of this Act but are not operative provisions. In interpreting an operative provision, explanatory sections may only be considered for limited purposes. They are set out in section  29-10."
+    },
+    {
+      "key": "section:4-10",
+      "title": "Section 4-10 - Other material",
+      "main_structural_unit": "section",
+      "main_structural_number": "4-10",
+      "main_structural_heading": "Other material",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 4--Status of Guides and other non-operative material > Section 4-10",
+      "text": "The other category consists of material such as notes and examples. These also form part of the Act. They are distinguished by type size from the operative provisions (except for formulas), but are not kept separate from them."
+    },
+    {
+      "key": "section:5-1",
+      "title": "Section 5-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-1",
+      "text": "Liability for wine tax centres around the concept of an assessable dealing. This concept is defined in the Assessable Dealings Table and the sections following the table."
+    },
+    {
+      "key": "section:5-5.p1",
+      "title": "Section 5-5 - General rules for taxing assessable dealings",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-5",
+      "main_structural_heading": "General rules for taxing assessable dealings",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-5",
+      "text": "(1) The *Assessable Dealings Table sets out all the *assessable dealings that can be subject to wine tax. (2) If the time of an *assessable dealing (as specified in column 4 of the table) is on or after 1 July 2000, and no exemption applies under Division 7, then: (a) the dealing is a *taxable dealing; and (b) the entity specified in column 3 is the entity liable to the tax; and (c) the tax becomes payable at the time of the dealing, as specified in column 4. However, an assessable dealing (other than a *customs dealing) is a taxable dealing only if the entity specified in column 3 is *registered or *required to be registered. Note: Under Part 5, amounts of wine tax, on assessable dealings (other than customs dealings), are included in your net amount under the GST system. (3) To calculate the amount of the tax: (a) determine the *taxable value of the dealing under Division 9; and (b) multiply the result by 29%. Note: The amount of tax is reduced for some importations (e.g. accompanied baggage of passengers) that are free of customs duty (see section 5-40). (4) The table does not apply to a dealing with wine unless the wine is *assessable wine immediately before the time of the dealing, and is in the indirect tax zone at the time of the dealing. Assessable Dealings TableColumn 1No.Column 2*Assessable dealingColumn 3*Entity liableColumn 4Time of dealingColumn 5Normal taxable valuePart A--Australian WineAD1a*wholesale sale by an entity that *manufactured the wine in the course of any businesssellertime of salethe *price (excluding wine tax and *GST) for which the wine was soldAD1b*wholesale sale by an entity that is not the *manufacturer of the winesellertime of salethe *price (excluding wine tax and *GST) for which the wine was soldAD2a*retail sale by an entity that *manufactured the wine in the course of any businesssellertime of salethe *notional wholesale selling priceAD2b*retail sale by an entity that is not the *manufacturer of the wine, but that *obtained the wine under quote; excludes case covered by AD2dsellerAssessable Dealings TableColumn 1No.Column 2*Assessable dealingColumn 3*Entity liableColumn 4Time of dealingColumn 5Normal taxable valuePart A--Australian WineAD1a*wholesale sale by an entity that *manufactured the wine in the course of any businesssellertime of salethe *price (excluding wine tax and *GST) for which the wine was soldAD1b*wholesale sale by an entity that is not the *manufacturer of the winesellertime of salethe *price (excluding wine tax and *GST) for which the wine was soldAD2a*retail sale by an entity that *manufactured the wine in the course of any businesssellertime of salethe *notional wholesale selling priceAD2b*retail sale by an entity that is not the *manufacturer of the wine, but that *obtained the wine under quote; excludes case covered by AD2dsellertime of salethe *notional wholesale selling priceAD2c*royalty-inclusive salesellertime of salethe amount that would be the *notional wholesale purchase price of the wine if the *manufacturer had incurred the *eligible royalty costsAD2d*indirect marketing salesellertime of salethe *notional wholesale selling priceAD2e*untaxed sale by an entity that is not the *manufacturer of the winesellertime of salethe *notional wholesale selling priceAD2f*retail sale, in the course of any business, of wine that is placed in *containers at a time after wine tax became payable on the wine by a person other than the sellersellertime of salethe *notional wholesale selling priceAD3a*untaxed AOU by an entity that is not the *manufacturer of the wineappliertime of *AOUthe *notional wholesale selling priceAD3b*AOU by an entity that manufactured the wine in the course of any businessappliertime of *AOUtime of salethe *notional wholesale selling priceAD2c*royalty-inclusive salesellertime of salethe amount that would be the *notional wholesale purchase price of the wine if the *manufacturer had incurred the *eligible royalty costsAD2d*indirect marketing salesellertime of salethe *notional wholesale selling priceAD2e*untaxed sale by an entity that is not the *manufacturer of the winesellertime of salethe *notional wholesale selling priceAD2f*retail sale, in the course of any business, of wine that is placed in *containers at a time after wine tax became payable on the wine by a person other than the sellersellertime of salethe *notional wholesale selling priceAD3a*untaxed AOU by an entity that is not the *manufacturer of the wineappliertime of *AOUthe *notional wholesale selling priceAD3b*AOU by an entity that manufactured the wine in the course of any businessappliertime of *AOUthe *notional wholesale selling priceAD3c*AOU by an entity that is not the *manufacturer of the wine, but that *obtained the wine under quoteappliertime of *AOU(a) the purchase *price (excluding *GST), if the wine was *purchased under quote;(b) in other cases, the *notional wholesale selling priceAD3d*royalty-inclusive AOUappliertime of *AOUthe amount that would be the *notional wholesale purchase price of the wine"
+    },
+    {
+      "key": "section:5-5.p2",
+      "title": "Section 5-5 - General rules for taxing assessable dealings",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-5",
+      "main_structural_heading": "General rules for taxing assessable dealings",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-5",
+      "text": "*notional wholesale selling priceAD3a*untaxed AOU by an entity that is not the *manufacturer of the wineappliertime of *AOUthe *notional wholesale selling priceAD3b*AOU by an entity that manufactured the wine in the course of any businessappliertime of *AOUthe *notional wholesale selling priceAD3c*AOU by an entity that is not the *manufacturer of the wine, but that *obtained the wine under quoteappliertime of *AOU(a) the purchase *price (excluding *GST), if the wine was *purchased under quote;(b) in other cases, the *notional wholesale selling priceAD3d*royalty-inclusive AOUappliertime of *AOUthe amount that would be the *notional wholesale purchase price of the wine if the *manufacturer had incurred the *eligible royalty costsAD4bremoval from a *customs clearance area of *airport shop goods purchased by a *relevant traveller from an *inwards duty free shop*relevant travellertime at which wine tax is payable under section23-5the *price for which the wine was purchased by the *relevant traveller Assessable Dealings TableColumn 1No.Column 2*Assessable dealingColumn 3*Entity liableColumn 4Time of dealingColumn 5Normal taxable valuePart B--Imported WineAD10*local entryentity that makes the *local entrytime at which wine tax is payable under section23-5the *GST importation valueAD11b*wholesale sale by any entitysellertime of salethe *price (excluding wine tax and *GST) for which the wine was soldAD12b*retail sale by an entity that *obtained the wine under quote; excludes case covered by AD12dsellertime of salethe *notional wholesale selling priceAD12c*royalty-inclusive salesellertime of salethe amount that would be the *notional wholesale purchase price of the wine if the entity thatAssessable Dealings TableColumn 1No.Column 2*Assessable dealingColumn 3*Entity liableColumn 4Time of dealingColumn 5Normal taxable valuePart B--Imported WineAD10*local entryentity that makes the *local entrytime at which wine tax is payable under section23-5the *GST importation valueAD11b*wholesale sale by any entitysellertime of salethe *price (excluding wine tax and *GST) for which the wine was soldAD12b*retail sale by an entity that *obtained the wine under quote; excludes case covered by AD12dsellertime of salethe *notional wholesale selling priceAD12c*royalty-inclusive salesellertime of salethe amount that would be the *notional wholesale purchase price of the wine if the entity that *imported the wine had incurred the *eligible royalty costsAD12d*indirect marketing salesellertime of salethe *notional wholesale selling priceAD12e*untaxed salesellertime of salethe *notional wholesale selling priceAD12f*retail sale, in the course of any business, of wine that is placed in *containers at a time after wine tax became payable on the wine by a person other than the sellersellertime of salethe *notional wholesale selling priceAD13a*untaxed AOUappliertime of *AOUthe*notional wholesale selling priceAD13c*AOU by an entity that *obtained the wine under quoteappliertime of *AOU(a) if the wine was *purchased under quote: the purchase *price (excluding *GST);(b) if the wine was *locally entered under quote by the applier: the *GST importation valueAD13d*royalty-inclusive AOUappliertime of *AOU*imported the wine had incurred the *eligible royalty costsAD12d*indirect marketing salesellertime of salethe *notional wholesale selling priceAD12e*untaxed salesellertime of salethe *notional wholesale selling priceAD12f*retail sale, in the course of any business, of wine that is placed in *containers at a time after wine tax became payable on the wine by a person other than the sellersellertime of salethe *notional wholesale selling priceAD13a*untaxed AOUappliertime of *AOUthe*notional wholesale selling priceAD13c*AOU by an entity that *obtained the wine under quoteappliertime of *AOU(a) if the wine was *purchased under quote: the purchase *price (excluding *GST);(b) if the wine was *locally entered under quote by the applier: the *GST importation valueAD13d*royalty-inclusive AOUappliertime of *AOUthe amount that would be the *notional wholesale purchase price of the wine if the entity that *imported the wine had incurred the *eligible royalty costsAD14bremoval from a *customs clearance area of *airport shop goods purchased by a *relevant traveller from an *inwards duty free shop*relevant travellertime at which wine tax is payable under section23-5the *price for which the wine was purchased by the *relevant traveller Note: The numbering of items in the table uses the following pattern: For Australian wine, the dealings are divided into 4 groups: wholesale sales begin with AD1retail sales begin with AD2an AOU begins with AD3miscellaneous dealings begin with AD4. Imported wine has an additional class of local entry (AD10). The other dealings with imported wine have a number that is 10 higher than the broadly corresponding dealing with Australian wine. For example, AD12b for imported wine corresponds to AD2b for Australian wine."
+    },
+    {
+      "key": "section:5-10",
+      "title": "Section 5-10 - Sale time brought forward if purchaser uses the wine before title passes",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-10",
+      "main_structural_heading": "Sale time brought forward if purchaser uses the wine before title passes",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-10",
+      "text": "(1) This section applies to an *assessable dealing that consists of a sale, if the purchaser uses the wine after the time when the contract is made but before the time when title is to pass to the purchaser under the contract.\n (2) The time when the purchaser first so uses the wine is taken to be the time of the sale for the purposes of the *wine tax law."
+    },
+    {
+      "key": "section:5-15",
+      "title": "Section 5-15 - Royalty - inclusive sale (AD2c and AD12c) or AOU (AD3d and AD13d)",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-15",
+      "main_structural_heading": "Royalty - inclusive sale (AD2c and AD12c) or AOU (AD3d and AD13d)",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-15",
+      "text": "(1) A *retail sale, or an *AOU, of wine (the current wine) by you in the course of a business is a royalty-inclusive sale or a royalty-inclusive AOU respectively if the following conditions are met:\n (a) *eligible royalty costs have been incurred at or before the time of the sale or AOU, or could reasonably be expected to be incurred after the time of the sale or AOU, by any or all of the following:\n (i) you;\n (ii) your *associate;\n (iii) any entity (other than the *manufacturer) under an arrangement with you or with your associate;\n (b) the sale or AOU is not covered by another category of *assessable dealing in the *Assessable Dealings Table.\n (2) Eligible royalty cost is a *royalty that is paid or payable in connection with the current wine, except where the amount was paid or payable by any entity before 24  March 1999."
+    },
+    {
+      "key": "section:5-20",
+      "title": "Section 5-20 - Indirect marketing sale (AD2d and AD12d)",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-20",
+      "main_structural_heading": "Indirect marketing sale (AD2d and AD12d)",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-20",
+      "text": "A sale of *assessable wine is an indirect marketing sale if it is a *retail sale made by an entity (the marketer) that is not the *manufacturer of the wine and the sale is made:\n (a) under an arrangement that provides for the sale of the wine to be made by an entity that is acting for the marketer but is not an employee of the marketer; or\n (b) from premises that:\n (i) are used, mainly for making retail sales of wine, by an entity or entities other than the marketer; and\n (ii) are held out to be premises of, or premises used by, the other entity or entities."
+    },
+    {
+      "key": "section:5-25",
+      "title": "Section 5-25 - Untaxed sale (AD2e and AD12e) or AOU (AD3a and AD13a)",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-25",
+      "main_structural_heading": "Untaxed sale (AD2e and AD12e) or AOU (AD3a and AD13a)",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-25",
+      "text": "(1) A *retail sale of wine by you is an untaxed sale unless:\n (a) you *obtained the wine under quote; or\n (b) the wine has previously passed through a taxing point; or\n (c) the sale is an *indirect marketing sale.\n (2) An *AOU, in the course of any business, by you is an untaxed AOU unless:\n (a) you *obtained the wine under quote; or\n (b) the wine has previously passed through a taxing point.\n (3) For the purposes of this section, wine is taken to have passed through a taxing point only if:\n (a) the wine has been the subject of a *taxable dealing; or\n (b) the wine has been the subject of an *assessable dealing that was exempted because you could not be taxed or were entitled to an exemption arising outside the *wine tax law; or\n (c) the wine has been the subject of sales tax within the meaning of the former Sales Tax Assessment Act 1992; or\n (d) section 5 of the former Sales Tax Amendment (Transitional) Act 1992 applies to the wine (whether or not the wine would, but for that section, have been subject to sales tax under the former Sales Tax Assessment Act 1992).\nNote: Section 5 ensured that goods subject to sales tax under the pre-1992 sales tax law were not also taxable under the 1992 sales tax law."
+    },
+    {
+      "key": "section:5-30",
+      "title": "Section 5-30 - Local entry of imported wine (AD10)",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-30",
+      "main_structural_heading": "Local entry of imported wine (AD10)",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-30",
+      "text": "(1) The Local Entry Table sets out the situations that amount to a local entry of *imported wine for the purposes of the *wine tax law. The rest of this section deals with situations involving the withdrawal of a customs entry, or multiple local entries of the same wine.\n (2) The withdrawal of the customs entry underlying a formal local entry (the earlier local entry) usually has the effect that the earlier local entry is taken never to have happened. However, if:\n (a) there is a later formal local entry after the withdrawal; and\n (b) the tax on that later entry would be less than the tax on the earlier local entry;\nthen the earlier local entry is taken never to have been extinguished and the later entry is taken never to have happened.\n (3) If a formal local entry happens after a deemed local entry, the formal local entry is taken never to have happened.\n (4) If a deemed local entry happens after a formal local entry, the formal local entry is taken never to have happened.\n (5) In this section:\n\"customs entry\" means an entry for home consumption under the Customs Act 1901.\n\"deemed local entry\" means a local entry that is not a formal local entry.\n\"formal local entry\" means a local entry covered by *LE1 or *LE2 in the Local Entry Table.\nLocal Entry TableColumn 1No.Column 2Situation giving rise to local entryColumn 3*Entity to be regarded as making the local entryLE1the wine is taken to have been entered for home consumption under subsection 71A(7) of the Customs Act 1901owner (within the meaning of the Customs Act 1901) of the wineLE2the wine is taken to have been entered for home consumption under subsection 71A(8) of the Customs Act 1901owner (within the meaning of the Customs Act 1901) of the wineLE3the wine is delivered into home consumption under section 71 of the Customs Act 1901entity authorised under section 71 of the Customs Act 1901 to deliver the wineLE4the wine is sold under section 72, 87 or 96 of the Customs Act 1901entity that bought the wineLE5the wine is delivered to an entity under section 208 of the Customs Act 1901entity to which the wine is deliveredLE6the wine is delivered to an entity under a court order made in an action under the Customs Act 1901 for condemnation or recovery of the wineentity to which the wine is deliveredLE7the wine is delivered to an entity under a court order made in an action for a declaration that the wine is not forfeited under the Customs Act 1901entity to which the wine is deliveredLE8the wine has been seized under a warrant issued under section 203 of the Customs Act 1901, or under section 203B or 203C of that Act, and is delivered to an entity on the basis that it is not forfeited goodsentity to which the wine is deliveredLE9delivery of the wine is authorised under subsection 209(6) of the Customs Act 1901entity to which the wine is delivered or is to be deliveredLE10a demand is made under section 35A or 149 of the Customs Act 1901 in relation to the wineentity on which the demand is madeLE11the wine is treated as entered for home consumption under subsection 96A(12) of the Customs Act 1901entity treated under section 96A of the Customs Act 1901 as having entered the wine for home consumptionLE12the wine is taken out of a warehouse under a permission granted under section 97 of the Customs Act 1901 and is not returned to the warehouse before the expiration of the period specified in the permissionentity to which the permission is givenLE14the wine is taken into home consumption in accordance with a permission granted under section 77D of the Customs Act 1901entity to which the permission is grantedLE14Athe wine is *tradex scheme goods, and any of the circumstances referred to in subsection 21(1) of that Act have occurred in respect of any of the wineholder (within the meaning of the Tradex Scheme Act 1999) of the *tradex order relating to the wineLE15the wine is not covered by any other item in this table but is *imported, and is not entered for home consumption as required under the Customs Act 1901owner (within the meaning of the Customs Act 1901) of the wine"
+    },
+    {
+      "key": "section:5-50",
+      "title": "Section 5-50 - Purchaser quoting on purchase from producer--failure to deal according to quote",
+      "main_structural_unit": "section",
+      "main_structural_number": "5-50",
+      "main_structural_heading": "Purchaser quoting on purchase from producer--failure to deal according to quote",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 5--General rules for taxability > Section 5-50",
+      "text": "(1) This section applies if:\n (a) you *purchased wine under quote from the *producer of the wine; and\n (b) in your *quote you did not state that you have the intention of dealing with the wine in one of the following ways:\n (i) a way described in paragraph  13-5(1)(c) or (d);\n (ii) by sale to an entity that will quote for the sale; and\n (c) you cause an *assessable dealing with the wine that is a dealing in a way described in subparagraph (b)(i) or (ii).\n (2) Sections 7-5 (Exemption for dealings that are GST-free supplies etc.) and 7 -10 (Exemptions based on quoting) do not apply to the *assessable dealing mentioned in paragraph (1)(c).\n (3) For the purposes of this Division:\n (a) disregard paragraph  (g) of the definition of application to own use in section 33-1; and\n (b) treat the matter referred to in that paragraph as being an application to own use."
+    },
+    {
+      "key": "section:7-1",
+      "title": "Section 7-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 7--Exemptions > Section 7-1",
+      "text": "In some circumstances, a dealing with wine is exempt from wine tax even if it is an assessable dealing."
+    },
+    {
+      "key": "section:7-5",
+      "title": "Section 7-5 - Exemption for dealings that are GST - free supplies or non - taxable importations",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-5",
+      "main_structural_heading": "Exemption for dealings that are GST - free supplies or non - taxable importations",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 7--Exemptions > Section 7-5",
+      "text": "An *assessable dealing is not taxable if the dealing is:\n (a) a *supply that is *GST-free (other than because of Subdivision  38-D (child care) of the *GST Act); or\n (b) a *local entry relating to an *importation that is a *non-taxable importation."
+    },
+    {
+      "key": "section:7-10",
+      "title": "Section 7-10 - Exemptions based on quoting",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-10",
+      "main_structural_heading": "Exemptions based on quoting",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 7--Exemptions > Section 7-10",
+      "text": "(1) A sale is not taxable if the purchaser *quotes for the sale at or before the time of the sale.\n (2) A *customs dealing is not taxable if the entity that would, apart from this subsection, be liable for the wine tax on the dealing *quotes for the dealing at or before the time of the dealing."
+    },
+    {
+      "key": "section:7-15",
+      "title": "Section 7-15 - Exemptions based on Schedule 4 to the Customs Tariff Act 1995",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-15",
+      "main_structural_heading": "Exemptions based on Schedule 4 to the Customs Tariff Act 1995",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 7--Exemptions > Section 7-15",
+      "text": "(1) A *customs dealing is not taxable if it is an *importation of wine covered by item 10, 11, 15, 18, 21, 21A, 24 or 27 in Schedule  4 to the *Customs Tariff.\n (2) To avoid doubt, a reference to wine that is covered by an item in Schedule  4 to the *Customs Tariff includes a reference to goods to which that item would apply apart from the operation of subsection  18(1) of the Customs Tariff Act 1995."
+    },
+    {
+      "key": "section:7-20",
+      "title": "Section 7-20 - Exemption for local entry if wine has been taxed while in bond",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-20",
+      "main_structural_heading": "Exemption for local entry if wine has been taxed while in bond",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 7--Exemptions > Section 7-20",
+      "text": "A *local entry of wine is not taxable if you or anyone else became liable to tax on a previous *assessable dealing with the wine while it was in bond or under customs control under the Customs Act 1901."
+    },
+    {
+      "key": "section:7-25",
+      "title": "Section 7-25 - Goods returned to the indirect tax zone in an unaltered condition",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-25",
+      "main_structural_heading": "Goods returned to the indirect tax zone in an unaltered condition",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 7--Exemptions > Section 7-25",
+      "text": "(1) A *local entry of wine is not taxable if:\n (a) the wine was exported from the indirect tax zone and is returned to the indirect tax zone, without having been subject to any treatment, industrial processing, alteration or any other process since its export; and\n (b) the importer was not entitled to, and did not claim, a payment under Division  25 (about the tourist refund scheme) related to the export of the wine; and\n (c) the importer:\n (i) is the manufacturer of the wine; or\n (ii) has previously acquired the wine, and the supply by means of which the importer acquired the wine was a *taxable dealing; or\n (iii) has previously imported the goods, and the previous importation was a *taxable dealing.\n (2) A *local entry of wine is not taxable if:\n (a) the importer had manufactured, acquired or imported the wine before 1  July 2000; and\n (b) the wine was exported from the indirect tax zone before, on or after 1  July 2000; and\n (c) the wine is returned to the indirect tax zone on or after 1  July 2000, without having been subject to any treatment, industrial processing, alteration or any other process since its export; and\n (d) the importer was not entitled to, and did not claim, a payment under Division  25 (about the tourist refund scheme) related to the export of the wine; and\n (e) the ownership of the wine when it is returned to the indirect tax zone is the same as its ownership on 1 July 2000.\nNote: An importation covered by this section may also be duty-free under item  17 of Schedule 4 to the Customs Tariff Act 1995."
+    },
+    {
+      "key": "section:9-1",
+      "title": "Section 9-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Section 9-1",
+      "text": "In most cases, the taxable value of an assessable dealing is multiplied by the rate of wine tax to calculate the amount of wine tax."
+    },
+    {
+      "key": "section:9-5",
+      "title": "Section 9-5 - How to work out the taxable value of a taxable dealing",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-5",
+      "main_structural_heading": "How to work out the taxable value of a taxable dealing",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-A--General rules for working out taxable value > Section 9-5",
+      "text": "(1) The general rules for calculating the taxable value are set out in the *Assessable Dealings Table.\n (2) In some cases, the *Assessable Dealings Table refers to the *notional wholesale selling price as the *taxable value. Subdivision 9-B sets out how to work out the notional wholesale selling price.\n (3) In some cases, amounts must be added to the amount set out in the *Assessable Dealings Table. These additions are set out in Subdivision 9-C.\n (4) In working out the *taxable value of wine, any rebate, refund or other payment or credit made by a State or Territory in respect of the wine is to be disregarded."
+    },
+    {
+      "key": "section:9-10",
+      "title": "Section 9-10 - Agreement with Commissioner regarding calculation of taxable value",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-10",
+      "main_structural_heading": "Agreement with Commissioner regarding calculation of taxable value",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-A--General rules for working out taxable value > Section 9-10",
+      "text": "(1) The Commissioner may enter into an agreement with you about calculating the *taxable values of particular *taxable dealings for which you are liable for the wine tax.\n (2) So far as the agreement is inconsistent with this Act, the agreement prevails."
+    },
+    {
+      "key": "section:9-25",
+      "title": "Section 9-25 - The 2 methods of working out notional wholesale selling prices for retail dealings with grape wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-25",
+      "main_structural_heading": "The 2 methods of working out notional wholesale selling prices for retail dealings with grape wine",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-B--Notional wholesale selling price > Section 9-25",
+      "text": "(1) There are 2 methods for working out the notional wholesale selling price for a *taxable dealing that is either:\n (a) a *retail sale of *grape wine; or\n (b) an *AOU connected with retail sales of wine that is grape wine.\n (2) The *half retail price method is used unless you have chosen under subsection (3) to use the *average wholesale price method.\n (3) You may choose to use the *average wholesale price method if, during the *tax period in respect of which you are liable to pay wine tax on the dealing, at least 10% by value of all your sales of *grape wine that:\n (a) is of the same vintage as the grape wine to which the dealing relates; and\n (b) is produced from the same grape varieties, or the same blend of grape varieties, as the grape wine to which the dealing relates;\nare *wholesale sales."
+    },
+    {
+      "key": "section:9-30",
+      "title": "Section 9-30 - Working out notional wholesale selling prices for retail dealings with wine that is not grape wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-30",
+      "main_structural_heading": "Working out notional wholesale selling prices for retail dealings with wine that is not grape wine",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-B--Notional wholesale selling price > Section 9-30",
+      "text": "The notional wholesale selling price for a *taxable dealing that is either:\n (a) a *retail sale of wine that is not *grape wine; or\n (b) an *AOU connected with retail sales of wine that is not grape wine;\nis worked out using the *half retail price method."
+    },
+    {
+      "key": "section:9-35",
+      "title": "Section 9-35 - The half retail price method",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-35",
+      "main_structural_heading": "The half retail price method",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-B--Notional wholesale selling price > Section 9-35",
+      "text": "(1) The notional wholesale selling price for a *retail sale of *grape wine, worked out using the half retail price method , is 50% of the *price of the sale.\n (2) The notional wholesale selling price for an *AOU connected with retail sales of grape wine, worked out using the half retail price method, is 50% of the *price for which you would normally have sold the wine if the sale were a *retail sale."
+    },
+    {
+      "key": "section:9-40",
+      "title": "Section 9-40 - The average wholesale price method",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-40",
+      "main_structural_heading": "The average wholesale price method",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-B--Notional wholesale selling price > Section 9-40",
+      "text": "The notional wholesale selling price for a *retail sale of *grape wine, or for an *AOU connected with retail sales of grape wine, worked out using the average wholesale price method is the weighted average of the *prices (excluding wine tax and *GST) for *wholesale sales that you have made of grape wine that:\n (a) is of the same vintage as the grape wine to which the retail sale or AOU relates; and\n (b) is produced from the same grape varieties, or the same blend of grape varieties, as the grape wine to which the retail sale or AOU relates;\nduring the *tax period in respect of which you are liable to pay wine tax on the retail sale or AOU.\nExample: If, during a tax period, you make 70% of wholesale sales of grape wine of a particular vintage and variety at $80 per dozen, and the remaining 30% at $90 per dozen, the weighted average of the wholesale prices for wholesale sales during the tax period is:"
+    },
+    {
+      "key": "section:9-45",
+      "title": "Section 9-45 - Notional wholesale selling prices for other dealings",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-45",
+      "main_structural_heading": "Notional wholesale selling prices for other dealings",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-B--Notional wholesale selling price > Section 9-45",
+      "text": "The notional wholesale selling price for a taxable dealing with wine that is neither:\n (a) a *retail sale of wine; nor\n (b) an *AOU connected with retail sales of wine;\nis the *price (excluding wine tax and *GST) for which you could reasonably have been expected to sell the wine by wholesale under an arm&#39;s length transaction."
+    },
+    {
+      "key": "section:9-65",
+      "title": "Section 9-65 - Taxable dealing with wine that is the contents of a container",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-65",
+      "main_structural_heading": "Taxable dealing with wine that is the contents of a container",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-C--Additions to taxable value > Section 9-65",
+      "text": "(1) This section deals with situations in which a *container is associated with wine (the contents) that is the subject of a *taxable dealing. The aim of this section is to ensure that the *taxable value will include a component for the container, even though the parties may have allocated a separate amount to the container.\n (2) If:\n (a) the *taxable value of the dealing is calculated by reference to the *price (excluding wine tax and *GST) for which the contents were sold; and\n (b) the parties have allocated a separate amount to the *container;\nthen the taxable value is *increased by so much of the value of the container as is recouped by the seller in connection with the sale of the contents.\n (3) If the *taxable value of the dealing is not calculated as mentioned in subsection (2), then the taxable value is *increased by so much of the value of the *container as could reasonably be expected to have been recouped by you in connection with a hypothetical sale of the contents at the time of the actual *taxable dealing with the contents."
+    },
+    {
+      "key": "section:9-70",
+      "title": "Section 9-70 - Assessable dealings with wine that involve the payment of an associated royalty",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-70",
+      "main_structural_heading": "Assessable dealings with wine that involve the payment of an associated royalty",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-C--Additions to taxable value > Section 9-70",
+      "text": "(1) If a *royalty is paid or payable, or likely to be paid or payable, in connection with any of the following events in respect of particular wine:\n (a) the *manufacture of the wine;\n (b) the *importation or *local entry of the wine;\n (c) a sale of the wine;\nthen the *taxable value of any *taxable dealing with that wine that happens at or after that event includes the amount or value of the royalty.\n (2) Royalty is any amount to the extent to which it is paid or payable (whether or not periodically) as consideration for any of the following things (or for the right to do them):\n (a) doing anything that would be an infringement of copyright if it were done without the licence of the copyright owner;\n (b) making, using, exercising or vending an invention (each of those terms having the meaning it has in the Patents Act 1990);\n (c) using a design that is of a kind capable of being registered under the Designs Act 2003 (whether or not it is registered under that Act or under any other law);\n (d) using a trade mark that is of a kind capable of being registered under the Trade Marks Act 1995 (whether or not it is registered under that Act or under any other law), but not including a mark that relates to a service;\n (e) using confidential information;\n (f) using machinery, implements, apparatus or other equipment;\n (g) *supplying scientific, technical, industrial, commercial or other knowledge or information;\n (h) supplying assistance that is ancillary to, and is supplied as a means of enabling the application or enjoyment of, any matter covered by paragraphs  (a) to (g);\n (i) a total or partial forbearance in respect of any matter covered by paragraphs  (a) to (h).\nTerms used in paragraph (a) of this definition have the same meaning as in the Copyright Act 1968."
+    },
+    {
+      "key": "section:9-75",
+      "title": "Section 9-75 - Assessable dealing with wine in bond",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-75",
+      "main_structural_heading": "Assessable dealing with wine in bond",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-C--Additions to taxable value > Section 9-75",
+      "text": "If a *taxable dealing happens while the wine is in bond or otherwise subject to customs control under the Customs Act 1901, the *taxable value is *increased by the amount of *customs duty to which the wine would have been subject if it had been entered for home consumption under the Customs Act 1901 at the time of the taxable dealing."
+    },
+    {
+      "key": "section:9-80",
+      "title": "Section 9-80 - Amounts not to be added if they are already included in the taxable value",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-80",
+      "main_structural_heading": "Amounts not to be added if they are already included in the taxable value",
+      "defined_term": null,
+      "structure_path": "Part 2--WINE--TAX > Division 9--Taxable value > Subdivision 9-C--Additions to taxable value > Section 9-80",
+      "text": "This Subdivision does not add any amount to the *taxable value so far as it would already be included in the taxable value."
+    },
+    {
+      "key": "section:13-1",
+      "title": "Section 13-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-1",
+      "text": "In certain circumstances you can quote for a dealing with wine. This is designed to avoid the wine tax becoming payable on sales preceding the last wholesale sale. (Under section  7-10, wine tax is not payable on a sale for which the purchaser has quoted.)"
+    },
+    {
+      "key": "section:13-5",
+      "title": "Section 13-5 - Standard grounds for quoting ABN",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-5",
+      "main_structural_heading": "Standard grounds for quoting ABN",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-5",
+      "text": "(1) You are entitled to *quote your *ABN for a dealing with wine if, at the time of quoting, you have the intention of dealing with the wine in any of the following ways:\n (a) selling the wine by *wholesale, or by *indirect marketing sale, while the wine is in the indirect tax zone;\n (b) selling the wine, by any kind of sale, while it is in the indirect tax zone (this ground is available only if you are mainly a wholesaler at the time of quoting);\n (c) using the wine as a material in *manufacture or other treatment or processing, whether or not it relates to or results in other wine;\n (d) making a *supply of the wine that will be *GST-free.\n (2) However, you are not entitled to *quote unless you are *registered.\n (3) For the purposes of paragraph  (1)(b), you are mainly a wholesaler at the quoting time only if:\n (a) *wholesale sales and *indirect marketing sales account for more than half of the total value of all sales of *assessable wine by you during the 12 months ending at the quoting time; or\n (b) you have an expectation (based on reasonable grounds) that wholesale sales and indirect marketing sales will account for more than half of the total value of all sales of assessable wine by you during the 12 months starting at the quoting time.\nFor this purpose, the value of a sale of wine is the *price for which the wine is sold."
+    },
+    {
+      "key": "section:13-10",
+      "title": "Section 13-10 - Additional quoting grounds in special circumstances",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-10",
+      "main_structural_heading": "Additional quoting grounds in special circumstances",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-10",
+      "text": "The Commissioner may (if you are *registered) authorise you to *quote your *ABN in special circumstances in which you would not otherwise be entitled to quote."
+    },
+    {
+      "key": "section:13-15",
+      "title": "Section 13-15 - Periodic quoting",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-15",
+      "main_structural_heading": "Periodic quoting",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-15",
+      "text": "(1) You may make a periodic *quote under this section for purchases that you propose to make from an entity (the supplier) during the period, not exceeding 12 months, covered by the periodic quote.\n (2) If you make such a periodic *quote on or before the first day of the period to which the quote relates, you are treated as having quoted your *ABN for all purchases during the period from the *supplier, other than purchases in respect of which you have notified the supplier in accordance with subsection (3).\n (3) If you are not entitled to *quote for a particular purchase from the *supplier during the period, you must notify the supplier of that fact at or before the time of the purchase. The notification must be in the *approved form.\n (4) You commit an offence if you contravene subsection  (3).\nPenalty: 20 penalty units.\nNote 1: Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.\nNote 2: See section 4AA of the Crimes Act 1914 for the current value of a penalty unit.\n (5) Section 13-30 applies to a *quote that you are treated as having made under subsection  (2) of this section for a particular purchase."
+    },
+    {
+      "key": "section:13-20",
+      "title": "Section 13-20 - Manner in which quote must be made",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-20",
+      "main_structural_heading": "Manner in which quote must be made",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-20",
+      "text": "(1) A *quote (including a periodic quote) must be made in the *approved form.\n (2) A *quote for a dealing is not effective unless it is made at or before the time of the dealing."
+    },
+    {
+      "key": "section:13-25",
+      "title": "Section 13-25 - Incorrect quote nevertheless effective for certain purposes",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-25",
+      "main_structural_heading": "Incorrect quote nevertheless effective for certain purposes",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-25",
+      "text": "If you *quote in circumstances in which you are not entitled to quote, or the quote is not in the *approved form, the quote is nevertheless:\n (a) effective for the purposes of Subdivision  31-D; and\n (b) effective for the purpose of section  7-10, unless section 13-30 applies."
+    },
+    {
+      "key": "section:13-30",
+      "title": "Section 13-30 - Quote not effective for certain purposes if there are grounds for believing it was improperly made",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-30",
+      "main_structural_heading": "Quote not effective for certain purposes if there are grounds for believing it was improperly made",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-30",
+      "text": "A *quote is not effective, so far as it would have resulted in an exemption, if at the time of the quote the entity to which the quote is made has reasonable grounds for believing that:\n (a) you are not entitled to quote in the particular circumstances; or\n (b) the quote is not made in the *approved form; or\n (c) the quote is false or misleading in a material particular (either because of something stated in the quote or something left out)."
+    },
+    {
+      "key": "section:13-32",
+      "title": "Section 13-32 - Quote not effective if entity to whom quote is made purchased the wine for a price that included wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-32",
+      "main_structural_heading": "Quote not effective if entity to whom quote is made purchased the wine for a price that included wine tax",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-32",
+      "text": "A *quote is not effective for the purposes of applying subsection 7-10(1) to a particular sale if the entity to which the quote is made purchased the wine for a *price that included wine tax."
+    },
+    {
+      "key": "section:13-35",
+      "title": "Section 13-35 - Improper quoting is an offence",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-35",
+      "main_structural_heading": "Improper quoting is an offence",
+      "defined_term": null,
+      "structure_path": "Part 3--QUOTING > Division 13--Quoting for dealings in wine > Section 13-35",
+      "text": "You must not, in relation to any dealing with wine:\n (a) quote an *ABN for the purposes of this Act:\n (i) in circumstances in which you are not entitled to quote; or\n (ii) in contravention of subsection  13-20(1); or\n (b) in any other way falsely quote an ABN.\nPenalty: 20 penalty units.\nNote 1: Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.\nNote 2: See section 4AA of the Crimes Act 1914 for the current value of a penalty unit.\nNote 3: Section 23 of the A New Tax System (Australian Business Number) Act 1999 provides penalties for misuse of ABNs."
+    },
+    {
+      "key": "section:17-1",
+      "title": "Section 17-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-1",
+      "text": "Wine tax credits can arise in a number of circumstances. Generally speaking, they prevent wine tax applying more than once to the same goods.\nNote: If you are in the GST system, wine tax credits are included in your net amounts (see Part 5). If you are not in the GST system, you can claim wine tax credits under this Part. Producer rebates under Division  19 are a form of wine tax credit."
+    },
+    {
+      "key": "section:17-5",
+      "title": "Section 17-5 - Wine tax credit entitlements",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-5",
+      "main_structural_heading": "Wine tax credit entitlements",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-5",
+      "text": "(1) The *Wine Tax Credit Table sets out the situations in which you are entitled to a *wine tax credit.\n (2) You are not entitled to a *wine tax credit for an amount of tax for which a wine tax credit entitlement has previously arisen (whether for you or another entity).\n (3) You are not entitled to a *wine tax credit unless you make a claim for the wine tax credit under section 17-10.\nWine Tax Credit TableNo.Summary of groundDetails of groundAmount of *wine tax creditTime *wine tax credit arisesCR1Tax overpaidYou have paid an amount as wine tax that was not legally payable.the amount overpaid, to the extent that you have not *passed it onwhen the amount became overpaidCR4Avoiding double tax on the same wineYou have become liable to wine tax on an *assessable dealing (the current dealing) in relation to wine, but have *borne wine tax on all of the wine before the time of the current dealing.the wine tax previously *borne on the winetime of the current dealingCR7Ensuring no double tax in respect of *containersYou are liable to the wine tax on an *assessable dealing with wine that is the contents of a *container. You have *borne wine tax on the container.the *wine tax borne on the *containertime of the *assessable dealingCR8Replacement of defective wineYou have *borne wine tax on *assessable wine used for the purpose of replacing other wine because of defects in the other wine.*wine tax borne on replacement winetime of replacementWine Tax Credit TableNo.Summary of groundDetails of groundAmount of *wine tax creditTime *wine tax credit arisesCR1Tax overpaidYou have paid an amount as wine tax that was not legally payable.the amount overpaid, to the extent that you have not *passed it onwhen the amount became overpaidCR4Avoiding double tax on the same wineYou have become liable to wine tax on an *assessable dealing (the current dealing) in relation to wine, but have *borne wine tax on all of the wine before the time of the current dealing.the wine tax previously *borne on the winetime of the current dealingCR7Ensuring no double tax in respect of *containersYou are liable to the wine tax on an *assessable dealing with wine that is the contents of a *container. You have *borne wine tax on the container.the *wine tax borne on the *containertime of the *assessable dealingCR8Replacement of defective wineYou have *borne wine tax on *assessable wine used for the purpose of replacing other wine because of defects in the other wine.*wine tax borne on replacement winetime of replacementCR9*Producer rebateAn *assessable dealing is made in circumstances that entitle you to a producer rebate under Division 19.the amount of the producer rebate under Division 19immediately before the end of the financial year in which the assessable dealing occursCR14Drawback of *customs duty on *imported wineYou have become liable to wine tax on a *local entry of wine for which drawback of *customs duty has been allowed under section  168 of the Customs Act 1901 (or, in the Commissioner&#39;s opinion, would have been allowed if wine had been liable to duty).wine tax payable on the *local entrytime when drawback was allowed (or would have been allowed)CR15Sale *price written off as bad debtYou have:(a) paid wine tax on an *assessable dealing that is a sale and later written off some or all of the *price for which the wine was sold; or(b) paid wine tax on an assessable dealing that is a *local entry (other than an *LE4) and later written off some or all of the price for which the wine was first sold by you after the local entry.a proportion of the wine tax paid that is equal to the proportion of the debt written offtime of writing off"
+    },
+    {
+      "key": "section:17-10",
+      "title": "Section 17-10 - Claims for wine tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-10",
+      "main_structural_heading": "Claims for wine tax credits",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-10",
+      "text": "(1) If you are *registered or *required to be registered, you may make a claim for a *wine tax credit (other than a claim for a *producer rebate under subsection  19-5(2)) by including the amount of the wine tax credit in the *reduction of your *net amount for the*tax period in question under section 21-15.\n (2) If you are not *registered or *required to be registered, you may make a claim for a *wine tax credit (other than a claim for a *producer rebate under subsection  19-5(2)) in the *approved form. The claim must be accompanied by such supporting evidence as the Commissioner requires.\n (2A) If you are a *New Zealand participant, you may make a claim for a *wine tax credit under subsection  19-5(2) in the *approved form. The claim must be accompanied by such supporting evidence as the Commissioner requires.\n (2B) The Commissioner may determine, by legislative instrument, the time or times during which claims for *wine tax credits under subsection 19-5(2) may be made.\n (3) A claim under subsection  (2) or (2A) must be lodged with the Commissioner within 4 years after the time when the *wine tax credit arises."
+    },
+    {
+      "key": "section:17-15",
+      "title": "Section 17-15 - Commissioner not required to consider credit claims for less than $200",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-15",
+      "main_structural_heading": "Commissioner not required to consider credit claims for less than $200",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-15",
+      "text": "The Commissioner is not required to consider a claim under subsection  17-10(2) or (2A) for a *wine tax credit if the total amount claimed is less than $200."
+    },
+    {
+      "key": "section:17-20",
+      "title": "Section 17-20 - Wine tax credits to be applied against tax liabilities and excess refunded",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-20",
+      "main_structural_heading": "Wine tax credits to be applied against tax liabilities and excess refunded",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-20",
+      "text": "If you have claimed under subsection  17-10(2) or (2A) a *wine tax credit to which you are entitled, the Commissioner must apply the wine tax credit under Division  3 of Part IIB of the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:17-25",
+      "title": "Section 17-25 - Excess wine tax credits must be repaid",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-25",
+      "main_structural_heading": "Excess wine tax credits must be repaid",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-25",
+      "text": "If the amount applied by the Commissioner in accordance with section  17-20 is more than the amount of the *wine tax credit to which you are properly entitled, the excess is to be treated as if it were wine tax that became payable, and due for payment, by you at the time when it was applied.\nNote: The main effect of treating the amount as if it were tax is to apply the collection and recovery rules in Part  3-10 in Schedule 1 to the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:17-30",
+      "title": "Section 17-30 - Clawback of CR15 wine tax credit on later recovery of bad debt",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-30",
+      "main_structural_heading": "Clawback of CR15 wine tax credit on later recovery of bad debt",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-30",
+      "text": "(1) A *wine tax credit under *CR15 in relation to an amount written off by you as a bad debt is subject to the condition that you are liable to pay an amount under this section if you later recover some or all of the amount written off.\n (2) The amount payable by you is calculated using the following formula:\n (3) The amount is to be treated as if it were wine tax that became payable by you at the time of recovery of the bad debt, and, for the purposes of Part  5, were attributable to the *tax period in which the recovery happened.\nNote: The main effect of treating the amount as if it were wine tax is to apply the collection and recovery rules in Part  3-10 in Schedule 1 to the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:17-35",
+      "title": "Section 17-35 - Clawback of CR8 wine tax credit on later sale of defective wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-35",
+      "main_structural_heading": "Clawback of CR8 wine tax credit on later sale of defective wine",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-35",
+      "text": "(1) A *wine tax credit under *CR8 for wine tax on wine that was used to replace defective wine is subject to the condition that you are liable to pay an amount under this section if you later sell the defective wine.\n (2) The amount payable by you is calculated using the following formula:\n (3) The amount is to be treated as if it were wine tax that became payable by you at the time of the later sale of the defective wine, and, for the purposes of Part  5, were attributable to the *tax period in which the later sale happened.\nNote: The main effect of treating the amount as if it were wine tax is to apply the collection and recovery rules in Part  3-10 in Schedule 1 to the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:17-40",
+      "title": "Section 17-40 - Agreement with Commissioner regarding wine tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-40",
+      "main_structural_heading": "Agreement with Commissioner regarding wine tax credits",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-40",
+      "text": "(1) The Commissioner may enter into an agreement with you regarding the manner of calculating and claiming *wine tax credits to which you are entitled.\n (2) So far as the agreement is inconsistent with this Act, the agreement prevails."
+    },
+    {
+      "key": "section:17-45",
+      "title": "Section 17-45 - Notifying disallowance of wine tax credit claim",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-45",
+      "main_structural_heading": "Notifying disallowance of wine tax credit claim",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 17--Wine tax credits > Section 17-45",
+      "text": "If the Commissioner decides to disallow the whole or a part of a claim for a *wine tax credit, the Commissioner must notify you of the decision.\nNote: Disallowing the whole or a part of a claim for a wine tax credit is a reviewable wine tax decision (see Subdivision  111-C in Schedule 1 to the Taxation Administration Act 1953)."
+    },
+    {
+      "key": "section:19-1",
+      "title": "Section 19-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-1",
+      "text": "Wine producers are entitled to a rebate for certain dealings in wine. The rebate is provided in the form of a wine tax credit.\nNote: Credit ground CR9 is producer rebates."
+    },
+    {
+      "key": "section:19-5.p1",
+      "title": "Section 19-5 - Entitlement to producer rebates",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-5",
+      "main_structural_heading": "Entitlement to producer rebates",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-5",
+      "text": "(1) You are entitled to a *producer rebate for *rebatable wine for a *financial year if: (a) you are the *producer of the wine; and (b) either: (i) you are liable to wine tax for an *assessable dealing in the wine during the financial year; or (ii) you would have been liable to wine tax for an assessable dealing in the wine during the financial year had the purchaser not *quoted for the sale at or before the time of the sale; and (c) if subparagraph (b)(ii) applies--the purchaser&#39;s *quote did not state an intention of dealing with the wine in a way described in subparagraph 5-50(1)(b)(i) or (ii); and (d) you satisfy the requirements in subsection (3) (ownership of source product) for at least 85% of the wine (measured by volume); and (e) the wine is in a *container that meets the requirements in subsection (7) at the time of the assessable dealing. (2) You are entitled to a *producer rebate for *rebatable wine for a *financial year if: (a) you are approved as a *New Zealand participant; and (b) you are the *producer of the wine; and (c) the wine was produced in *New Zealand and exported to the indirect tax zone; and (d) you, or another entity, paid wine tax for an *assessable dealing in the wine during the financial year; and (e) you satisfy the requirements in subsection (3) (ownership of source product) for at least 85% of the wine (measured by volume); and (f) the wine is in a *container that meets the requirements in subsection (7) at the time of the assessable dealing. (3) You satisfy the requirements in this subsection for wine if you own the *source product for the wine throughout the period: (a) starting: (i) if that source product is covered by paragraph (4)(a), (b), (c) or (d)--immediately before the crushing of that source product; or (ii) if that source product is covered by paragraph (4)(e) or (f)--immediately before the initial fermentation of that source product; and (b) ending when the wine is placed in a *container that meets the requirements in subsection (7). (4) The source product for wine is: (a) for *grape wine--the fresh grapes from which the grape wine is produced; or (b) for *grape wine products--the fresh grapes from which the grape wine products are produced; or (c) for *fruit or vegetable wine--the fruit or vegetables from which the fruit or vegetable wine is produced; or (d) for *cider or perry--the apples or pears from which the cider or perry is produced; or (e) for *mead--the honey from which the mead is produced; or (f) for *sake--the rice from which the sake is produced. (5) You are taken to have satisfied the requirements in subsection (3) for wine, to the extent that the wine is composed of any of the following substances that you have caused to be added to the wine: (a) grape spirit; (b) brandy; (c) alcohol used in preparing vegetable extracts (including spices, herbs and grasses); (d) ethyl alcohol from a source as specified in the regulations for the purposes of paragraph 31-4(b), 31-5(b), 31-6(b) or 31-7(b); (e) water; (f) if no more than 10% of the wine (measured by volume) is grape juice concentrate that you have caused to be added to the wine--that grape juice concentrate; (g) if no more than 1% of the wine (measured by volume) is another substance that you have caused to be added to the wine--that other substance. (6) For the purposes of paragraph (5)(g), treat substances that are similar to each other as being the same substance. (7) A *container in which wine is placed meets the requirements in this subsection if: (a) any of the following requirements are satisfied: (i) the container is suitable for *retail sale and the volume of the container does not exceed 5 litres; (ii) if the wine is *cider or perry--the container is suitable for retail sale of portions of the contents of the container and the volume of the container does not exceed 51 litres; and (b) the container in which the wine is placed at the time of the *assessable dealing is branded by a trade mark applied to the container; and (c) the trade mark identifies, or can readily be associated with, the *producer of the wine; and (d) the trade mark is owned by: (i) the producer of the wine; or (ii) an entity that is an *associated producer of the producer of the wine for the *financial year in which the assessable dealing occurs because it satisfies the requirement in paragraph 19-20(1)(a) (on"
+    },
+    {
+      "key": "section:19-5.p2",
+      "title": "Section 19-5 - Entitlement to producer rebates",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-5",
+      "main_structural_heading": "Entitlement to producer rebates",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-5",
+      "text": "not exceed 51 litres; and (b) the container in which the wine is placed at the time of the *assessable dealing is branded by a trade mark applied to the container; and (c) the trade mark identifies, or can readily be associated with, the *producer of the wine; and (d) the trade mark is owned by: (i) the producer of the wine; or (ii) an entity that is an *associated producer of the producer of the wine for the *financial year in which the assessable dealing occurs because it satisfies the requirement in paragraph 19-20(1)(a) (on the assumption that it were a producer); and (e) the trade mark is: (i) a trade mark (within the meaning of the Trade Marks Act 1995); or (ii) if paragraphs (2)(a), (b) and (c) apply--a trade mark (within the meaning of the Trade Marks Act 2002 of New Zealand); and (f) the trade mark satisfies any of the following requirements: (i) the trade mark is a registered trade mark (within the meaning of the Trade Marks Act 1995); (ii) if paragraphs (2)(a), (b) and (c) apply--the trade mark is a registered trade mark (within the meaning of the Trade Marks Act 2002 of New Zealand); (iii) an application for registration of the trade mark under the Trade Marks Act 1995 satisfies the requirements under that Act for the application to be pending (within the meaning of that Act); (iv) if paragraphs (2)(a), (b) and (c) apply--an application for registration of the trade mark under the Trade Marks Act 2002 of New Zealand satisfies requirements under that Act that are equivalent to the requirements mentioned in subparagraph (iii); (v) the trade mark has been used by the producer of the wine throughout the period beginning on 1 July 2015 and ending at the time of the assessable dealing."
+    },
+    {
+      "key": "section:19-7",
+      "title": "Section 19-7 - Approval as New Zealand participant",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-7",
+      "main_structural_heading": "Approval as New Zealand participant",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-7",
+      "text": "(1) You may apply, in writing, in the *approved form, to the Commissioner for approval as a *New Zealand participant.\n (2) You are eligible to be approved as a *New Zealand participant if the Commissioner is satisfied, on the basis of your application and any other relevant information of which the Commissioner becomes aware, that:\n (a) you are a *producer of *rebatable wine in *New Zealand; and\n (b) the rebatable wine has been, or is likely to be, exported to the indirect tax zone.\n (3) If the Commissioner, after consideration of your application, is satisfied of the matters referred to in subsection  (2) in relation to you, the Commissioner must, by written instrument, approve you as a *New Zealand participant.\n (4) The Commissioner must decide the date of effect of that approval and include that date in the instrument of approval. That date may be the day of the decision, or a day before or after that day.\nNote: Deciding under this subsection the date of effect of any approval of an entity as a New Zealand participant is a reviewable wine tax decision (see Subdivision  111-C in Schedule 1 to the Taxation Administration Act 1953).\n (5) If the Commissioner approves you as a *New Zealand participant, the Commissioner must, by notice in writing sent to you, inform you that you have been so approved and of the date from which the approval has effect.\n (6) If the Commissioner, after consideration of your application, is not satisfied of the matters referred to in subsection  (2) in relation to you, the Commissioner must:\n (a) by written instrument, refuse to approve you as a *New Zealand participant; and\n (b) by notice in writing sent to you, inform you that the Commissioner has so decided and of the reasons for that decision.\nNote: Refusing to approve an entity as a New Zealand participant is a reviewable wine tax decision (see Subdivision  111-C in Schedule 1 to the Taxation Administration Act 1953).\n (7) An instrument of approval under subsection  (3) and an instrument refusing approval under subsection (6) are not legislative instruments."
+    },
+    {
+      "key": "section:19-8",
+      "title": "Section 19-8 - Revoking an approval as a New Zealand participant",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-8",
+      "main_structural_heading": "Revoking an approval as a New Zealand participant",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-8",
+      "text": "(1) If, at any time, the Commissioner becomes aware that you cease to satisfy the criteria for approval as a *New Zealand participant, the Commissioner must, by written instrument, revoke your approval.\nNote: Revoking under this subsection the approval of an entity as a New Zealand participant is a reviewable wine tax decision (see Subdivision  111-C in Schedule 1 to the Taxation Administration Act 1953).\n (2) The Commissioner must decide the date of effect of that revocation and include that date in the instrument of revocation. That date may be the day of the decision, or a day before or after that day.\nNote: Deciding under this subsection the date of effect of any revocation of an approval as a New Zealand participant is a reviewable wine tax decision (see Subdivision  111-C in Schedule 1 to the Taxation Administration Act 1953).\n (3) If the Commissioner revokes your approval as a *New Zealand participant, the Commissioner must, by notice in writing sent to you, inform you that the Commissioner has revoked your approval, indicate the date from which the revocation has effect and of the reasons for revoking that approval.\n (4) An instrument of revocation under subsection  (1) is not a legislative instrument."
+    },
+    {
+      "key": "section:19-9",
+      "title": "Section 19-9 - Notification of changed circumstances",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-9",
+      "main_structural_heading": "Notification of changed circumstances",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-9",
+      "text": "(1) An entity approved as a *New Zealand participant must notify the Commissioner in writing of any circumstances under which the Commissioner must revoke the approval. The notification must be given to the Commissioner within 21 days after the circumstances occurred.\n (2) A notification under subsection  (1) is not a legislative instrument."
+    },
+    {
+      "key": "section:19-15",
+      "title": "Section 19-15 - Amount of producer rebates",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-15",
+      "main_structural_heading": "Amount of producer rebates",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-15",
+      "text": "(1) The amount of the *producer rebates to which you are entitled because of subsection 19-5(1) for the wine for the *financial year is:\n (a) for *wholesale sales--29% of the *price (excluding wine tax and *GST) for which the wine was sold; and\n (b) for *retail sales and *AOUs--29% of the *notional wholesale selling price of the wine.\n (1A) The amount of the *producer rebates to which you are entitled because of subsection 19-5(2) for the wine for the *financial year is an amount equal to 29% of the approved selling price for the wine.\n (1B) In working out the amount of the *producer rebate to which you are entitled because of subsection 19-5(2), any component used to determine the approved selling price that is expressed in a currency other than Australian currency is to be treated as if it were an amount of Australian currency worked out in the manner determined, by legislative instrument, by the Commissioner.\n (1C) In this section:\n\"approved selling price\", in relation to wine sold by a *New Zealand participant, means the participant&#39;s selling price for the wine net of any expenses unrelated to the production of the wine in *New Zealand, including but not limited to:\n (a) expenses relating to transportation, freight and insurance, agent&#39;s fees and any other costs associated with exportation of the wine from New Zealand and importation of the wine into the indirect tax zone; and\n (b) New Zealand and Australian taxes including customs duties.\n (2) The maximum amount of *producer rebates to which a *producer is entitled for a *financial year under this Division is $350,000.\n (3) However, if the *producer is an *associated producer of one or more other producers for a *financial year, the maximum amount of *producer rebates to which those producers are entitled as a group for the financial year under this Division is $350,000."
+    },
+    {
+      "key": "section:19-20",
+      "title": "Section 19-20 - Associated producers",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-20",
+      "main_structural_heading": "Associated producers",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-20",
+      "text": "(1) A *producer is an associated producer of another producer for a *financial year if, at any time during that financial year:\n (a) the producer would be *connected with the other producer if subsection 328-125(8) of the *ITAA 1997 were omitted; or\n (b) the producer:\n (i) is under an obligation (whether formal or informal); or\n (ii) might reasonably be expected;\n  to act in accordance with the directions, instructions or wishes (however communicated) of the other producer in relation to the first producer&#39;s financial affairs; or\n (c) the other producer:\n (i) is under an obligation (whether formal or informal); or\n (ii) might reasonably be expected;\n  to act in accordance with the directions, instructions or wishes (however communicated) of the first producer in relation to the other producer&#39;s financial affairs.\n (2) 2 *producers are associated producers if each of them:\n (a) is under an obligation (whether formal or informal); or\n (b) might reasonably be expected;\nto act in accordance with the directions, instructions or wishes (however communicated) of the same third entity in relation to their financial affairs.\n (3) A *producer is an associated producer of another producer if:\n (a) the first producer:\n (i) is under an obligation (whether formal or informal); or\n (ii) might reasonably be expected;\n  to act in accordance with the directions, instructions or wishes (however communicated) of a third producer in relation to the first producer&#39;s financial affairs; and\n (b) the third producer:\n (i) is under an obligation (whether formal or informal); or\n (ii) might reasonably be expected;\n  to act in accordance with the directions, instructions or wishes (however communicated) of the other producer in relation to the third producer&#39;s financial affairs."
+    },
+    {
+      "key": "section:19-25",
+      "title": "Section 19-25 - Excess claims",
+      "main_structural_unit": "section",
+      "main_structural_number": "19-25",
+      "main_structural_heading": "Excess claims",
+      "defined_term": null,
+      "structure_path": "Part 4--WINE--TAX CREDITS > Division 19--Producer rebates > Section 19-25",
+      "text": "(1) If the sum of the amounts of *producer rebates that you claim because of subsection 19-5(1) for *tax periods during the *financial year exceeds the amount of the *producer rebates to which you are entitled in respect of the financial year, you are liable to pay an amount equal to that excess.\n (1A) If the sum of the amounts of *producer rebates that you claim because of subsection 19-5(2) for the *financial year exceeds the amount of the producer rebates to which you are entitled in respect of that financial year, you are liable to pay an amount equal to that excess.\n (2) Subsection (3) applies if a *producer is an *associated producer of one or more other producers for a *financial year and the *producer rebates claimed by those producers as a group for the financial year under this Division is more than $350,000.\n (3) Each *producer member of the group is jointly and severally liable to pay an amount equal to the excess. However, none of the individual producer members is liable to pay an amount that exceeds the sum of the amounts of *producer rebates that that producer claimed for the *financial year.\n (4) An amount payable under this section is to be treated as if it were wine tax payable at the end of the *financial year, and, except in the case of a *New Zealand participant, for the purposes of Part  5, were attributable to the last tax period of the financial year.\nNote: The main effect of treating the amount as if it were wine tax is to apply the collection and recovery rules in Part  3-10 in Schedule 1 to the Taxation Administration Act 1953.\n (5) For the purposes of the application of Parts  3-10 and 4-1 in Schedule 1 to the Taxation Administration Act 1953, a *producer rebate under subsection 19-5(2) is to be treated as a net amount.\nTable of Subdivisions\nSection 21-A General\nSection 21-B Members of GST groups\nSection 21-C Participants in GST joint ventures"
+    },
+    {
+      "key": "section:21-1",
+      "title": "Section 21-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Section 21-1",
+      "text": "Wine tax (except wine tax on customs dealings) is added to net amounts under the GST Act. Wine tax credits are subtracted from those net amounts.\nNote: Division 165 (Anti-avoidance) of the GST Act will cover avoidance schemes relating to wine tax so far as they affect net amounts, because such schemes affect amounts payable under the GST Act."
+    },
+    {
+      "key": "section:21-5",
+      "title": "Section 21-5 - Net amounts increased by amounts of wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-5",
+      "main_structural_heading": "Net amounts increased by amounts of wine tax",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-A--General > Section 21-5",
+      "text": "(1) Your *net amount for a *tax period is *increased by the sum of all of the amounts of wine tax (if any) payable by you that are attributable to that tax period.\n (2) However, this section does not apply to wine tax payable on *customs dealings.\nNote: This section has the effect of incorporating your liability for the wine tax (other than wine tax on customs dealings) into the amount of GST that you are liable to pay under Division  33 of the GST Act, or into the amount of refund to which you are entitled under Division 35 of the GST Act."
+    },
+    {
+      "key": "section:21-10",
+      "title": "Section 21-10 - Attribution rules for wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-10",
+      "main_structural_heading": "Attribution rules for wine tax",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-A--General > Section 21-10",
+      "text": "(1) The wine tax payable by you on a *taxable dealing that is a *supply is attributable to the same *tax period, or tax periods, applying to you as the tax period or tax periods to which:\n (a) if the supply is a *taxable supply--the taxable supply is attributable; or\n (b) if the supply is not a taxable supply--the supply would be attributable if it were a taxable supply.\nFor the basic rules on attribution of taxable supplies, see section 29-5 of the GST Act.\n (2) The wine tax payable by you on a *taxable dealing that is not a *supply is attributable to the *tax period during which the time of dealing occurs, as specified in column 4 of the *Assessable Dealings Table."
+    },
+    {
+      "key": "section:21-15",
+      "title": "Section 21-15 - Net amounts reduced by amounts of wine tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-15",
+      "main_structural_heading": "Net amounts reduced by amounts of wine tax credits",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-A--General > Section 21-15",
+      "text": "Your *net amount for a *tax period is *reduced by the sum of all of the amounts of *wine tax credits (if any) to which you are entitled that arise during that tax period.\nNote 1: This section has the effect of incorporating your entitlement to wine tax credits into the amount of GST that you are liable to pay under Division  33 of the GST Act, or into the amount of refund to which you are entitled under Division 35 of the GST Act.\nNote 2: If you are not registered or required to be registered (and therefore do not have net amounts), you can claim wine tax credits to which you are entitled directly from the Commissioner (see subsection  17-10(2))."
+    },
+    {
+      "key": "section:21-40",
+      "title": "Section 21-40 - Who is liable for wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-40",
+      "main_structural_heading": "Who is liable for wine tax",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-B--Members of GST groups > Section 21-40",
+      "text": "(1) Wine tax payable on a *taxable dealing for which a *member of a *GST group would (apart from this section) be liable to the tax:\n (a) is payable by the *representative member; and\n (b) is not payable by the member that would be so liable (unless the member is the representative member).\n (2) However, if the member is not the *representative member of the *GST group, this section only applies to wine tax payable on a *customs dealing if the tax is payable at a time when wine tax on *taxable dealings is normally payable by the representative member.\n (3) This section has effect despite subsection  5-5(2) (which is about liability for wine tax)."
+    },
+    {
+      "key": "section:21-45",
+      "title": "Section 21-45 - Who is entitled to wine tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-45",
+      "main_structural_heading": "Who is entitled to wine tax credits",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-B--Members of GST groups > Section 21-45",
+      "text": "(1) If a *member of a *GST group would (apart from this section) be entitled to a *wine tax credit:\n (a) the *representative member is entitled to the wine tax credit; and\n (b) the member that would be so entitled is not entitled to the wine tax credit (unless the member is the representative member).\n (2) This section has effect despite section  17-5 (which is about entitlement to wine tax credits)."
+    },
+    {
+      "key": "section:21-70",
+      "title": "Section 21-70 - Who is liable for wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-70",
+      "main_structural_heading": "Who is liable for wine tax",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-C--Participants in GST joint ventures > Section 21-70",
+      "text": "(1) Wine tax payable on a *taxable dealing that the *joint venture operator of a *GST joint venture makes, on behalf of another *participant in the joint venture, in the course of activities for which the joint venture was entered into:\n (a) is payable by the joint venture operator; and\n (b) is not payable by the other participant.\n (2) This section has effect despite subsection  5-5(2) (which is about liability for wine tax)."
+    },
+    {
+      "key": "section:21-75",
+      "title": "Section 21-75 - Who is entitled to wine tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-75",
+      "main_structural_heading": "Who is entitled to wine tax credits",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-C--Participants in GST joint ventures > Section 21-75",
+      "text": "(1) If a *participant in a *GST joint venture would (apart from this section) be entitled to a *wine tax credit relating to a *taxable dealing that the *joint venture operator of the joint venture makes on the participant&#39;s behalf:\n (a) the joint venture operator is entitled to the wine tax credit; and\n (b) the participant that would be so entitled is not entitled to the wine tax credit (unless the participant is the joint venture operator).\n (2) This section has effect despite section  17-5 (which is about entitlement to wine tax credits)."
+    },
+    {
+      "key": "section:21-80",
+      "title": "Section 21-80 - Additional net amounts relating to GST joint ventures",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-80",
+      "main_structural_heading": "Additional net amounts relating to GST joint ventures",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 21--Inclusion of wine tax and wine tax credits in net amounts > Subdivision 21-C--Participants in GST joint ventures > Section 21-80",
+      "text": "The additional net amount relating to a *GST joint venture in section 51-45 of the *GST Act:\n (a) is increased by the amount of any wine tax on *taxable dealings for which the *joint venture operator is liable because of section  21-70; and\n (b) is decreased by the amount of any *wine tax credits to which the joint venture operator is entitled because of section 21-75."
+    },
+    {
+      "key": "section:23-1",
+      "title": "Section 23-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "23-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 23--Wine tax on customs dealings > Section 23-1",
+      "text": "Wine tax on a customs dealing is not included in net amounts. Generally speaking, it is paid together with customs duty. (This is consistent with payment of assessed GST on taxable importations.)"
+    },
+    {
+      "key": "section:23-5",
+      "title": "Section 23-5 - Payment of wine tax on customs dealings",
+      "main_structural_unit": "section",
+      "main_structural_number": "23-5",
+      "main_structural_heading": "Payment of wine tax on customs dealings",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 23--Wine tax on customs dealings > Section 23-5",
+      "text": "(1) Amounts of *assessed wine tax on *customs dealings are to be paid to the Commonwealth:\n (a) at the same time, at the same place, and in the same manner, as *customs duty is payable on the wine in question (or would be payable if the wine were subject to customs duty); or\n (b) in the circumstances specified in the regulations, within such further time specified in the regulations, and at the place and in the manner specified in the regulations.\nNote 1: The regulations could (for example) allow for deferral of payments to coincide with payments of assessed net amounts.\nNote 1A: For provisions about assessment of wine tax on customs dealings, see Division 155 in Schedule  1 to the Taxation Administration Act 1953.\nNote 2: For provisions about collection and recovery of assessed wine tax on customs dealings, see Subdivision  105-C, and Part 4-15, in Schedule 1 to the Taxation Administration Act 1953 .\n (2) An officer of Customs (within the meaning of subsection  4(1) of the Customs Act 1901) may refuse to deliver the goods concerned unless the *assessed wine tax has been paid."
+    },
+    {
+      "key": "section:23-10",
+      "title": "Section 23-10 - Application of Division 165 of the GST Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "23-10",
+      "main_structural_heading": "Application of Division 165 of the GST Act",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 23--Wine tax on customs dealings > Section 23-10",
+      "text": "Division 165 of the *GST Act applies to amounts that are payable under this Division as if they were amounts payable under the GST Act."
+    },
+    {
+      "key": "section:25-1",
+      "title": "Section 25-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 25--Tourist refund scheme > Section 25-1",
+      "text": "If you take wine overseas as accompanied baggage, or you are a resident of an external Territory and send wine home, you may be entitled to a refund of the wine tax borne by you on the wine."
+    },
+    {
+      "key": "section:25-5",
+      "title": "Section 25-5 - Tourist refund scheme",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-5",
+      "main_structural_heading": "Tourist refund scheme",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 25--Tourist refund scheme > Section 25-5",
+      "text": "Exporting wine as accompanied baggage\n (1) If:\n (a) you have *borne wine tax on wine that you purchased; and\n (b) the purchase is of a kind specified in the regulations; and\n (c) you leave the indirect tax zone, and export the wine from the indirect tax zone as accompanied baggage, in the circumstances specified in the regulations;\nthe Commissioner must, on behalf of the Commonwealth, pay to you an amount equal to:\n (d) the amount of the wine tax that you have borne on the wine; or\n (e) such proportion of that amount of wine tax as is specified in the regulations.\nResident of external Territory sending wine home\n (1A) If:\n (a) you have *borne wine tax on wine that you purchased; and\n (b) the purchase is of a kind specified in the regulations; and\n (c) an amount is payable to you under subsection  168-5(1A) of the *GST Act for the *taxable supply corresponding to the purchase;\nthe Commissioner must, on behalf of the Commonwealth, pay to you an amount equal to:\n (d) the amount of the wine tax that you have borne on the wine; or\n (e) such proportion of that amount of wine tax as is specified in the regulations.\nWorking out amounts of wine tax borne\n (2) The regulations may specify how amounts of *wine tax borne are to be worked out.\nPaying the refund\n (3) An amount payable under this section is payable within the period and in the manner specified in the regulations."
+    },
+    {
+      "key": "section:25-10",
+      "title": "Section 25-10 - Purchases later found to be GST - free supplies",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-10",
+      "main_structural_heading": "Purchases later found to be GST - free supplies",
+      "defined_term": null,
+      "structure_path": "Part 5--PAYMENTS--AND REFUNDS OF WINE TAX > Division 25--Tourist refund scheme > Section 25-10",
+      "text": "(1) If:\n (a) you are paid an amount under subsection  25-5(1A) for a purchase; and\n (b) the supply corresponding to the purchase is or becomes a *GST-free supply;\nyou become liable to repay the amount (the recoverable amount) to the Commonwealth on the later of the following days (the due day):\n (c) the day you were paid the recoverable amount;\n (d) the day the supply becomes a GST -free supply.\n (2) You are liable to pay general interest charge on the whole, or any part, of the recoverable amount that remains unpaid after the due day for each day in the period that:\n (a) starts on the due day; and\n (b) finishes at the end of the last day at the end of which any of the following remains unpaid:\n (i) the recoverable amount;\n (ii) general interest charge on any of the recoverable amount."
+    },
+    {
+      "key": "section:27-5",
+      "title": "Section 27-5 - Wine tax must be specified on invoice for wholesale sales",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-5",
+      "main_structural_heading": "Wine tax must be specified on invoice for wholesale sales",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-5",
+      "text": "(1) If you sell wine by *wholesale at a *price that includes wine tax that you have or will become liable to pay on the wine, you must specify the amount of the tax on any invoice given to the purchaser.\n (2) You commit an offence if you contravene this section.\nPenalty: 20 penalty units.\nNote 1: Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.\nNote 2: See section 4AA of the Crimes Act 1914 for the current value of a penalty unit."
+    },
+    {
+      "key": "section:27-10",
+      "title": "Section 27-10 - Alteration of wine tax liability or wine tax credit if affected by non - arm&#39;s length transaction",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-10",
+      "main_structural_heading": "Alteration of wine tax liability or wine tax credit if affected by non - arm&#39;s length transaction",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-10",
+      "text": "(1) This section applies to you if:\n (a) you (or your *associate) has been a party to a non-arm&#39;s length transaction; and\n (b) if the transaction had instead been an arm&#39;s length transaction, it would have been the case (or could reasonably be expected to have been the case) that:\n (i) your liability to wine tax on the non -arm&#39;s length transaction, or any other transaction, would have been *increased; or\n (ii) your entitlement to a *wine tax credit in connection with the non-arm&#39;s length transaction, or any other transaction, would have been *reduced.\n (2) The liability or *wine tax credit is taken always to have been the amount that it would have been (or could reasonably be expected to have been) if it had been based on an arm&#39;s length transaction instead of on the non -arm&#39;s length transaction."
+    },
+    {
+      "key": "section:27-15",
+      "title": "Section 27-15 - Apportionment of global amounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-15",
+      "main_structural_heading": "Apportionment of global amounts",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-15",
+      "text": "(1) If there is a need to know the *price for which particular wine was sold, but the parties have not allocated a particular amount to the wine, the price for which the wine was sold is (for the purposes of the *wine tax law) the price for which the wine could reasonably be expected to have been sold if it had been sold separately.\n (2) Similarly, if there is a need to know how much of a global amount relates to some other element of a transaction, but the parties have not allocated a particular amount to that element, the amount to be allocated to that element (for the purposes of the *wine tax law) is the amount that could reasonably be expected to have been allocated to that element if that element had been the only subject matter of the transaction."
+    },
+    {
+      "key": "section:27-20",
+      "title": "Section 27-20 - Commonwealth etc. not liable to pay wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-20",
+      "main_structural_heading": "Commonwealth etc. not liable to pay wine tax",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-20",
+      "text": "(1) The Commonwealth and *untaxable Commonwealth entities are not liable to pay wine tax payable under this Act. However, it is the Parliament&#39;s intention that the Commonwealth and untaxable Commonwealth entities should:\n (a) be notionally liable to pay wine tax payable under this Act; and\n (b) be notionally entitled to *wine tax credits arising under this Act.\n (2) The *Finance Minister may give such written directions as are necessary or convenient for carrying out or giving effect to subsection (1) and, in particular, may give directions in relation to the transfer of *money within an account, or between accounts, operated by the Commonwealth or an *untaxable Commonwealth entity.\n (2A) The directions given under subsection  (2) may also take account of the provisions of the A New Tax System (Wine Equalisation Tax and Luxury Car Tax Transition) Act 1999.\n (3) Directions under subsection  (2) have effect, and must be complied with, despite any other Commonwealth law."
+    },
+    {
+      "key": "section:27-25",
+      "title": "Section 27-25 - Cancellation of exemptions from wine tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-25",
+      "main_structural_heading": "Cancellation of exemptions from wine tax",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-25",
+      "text": "(1) This section cancels the effect of a provision of another Act that would have the effect of exempting a person from liability to pay wine tax payable under this Act.\n (2) The cancellation does not apply if the provision of the other Act:\n (a) commences after this section commences; and\n (b) refers specifically to wine tax payable under this Act."
+    },
+    {
+      "key": "section:27-30",
+      "title": "Section 27-30 - Application of the Criminal Code",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-30",
+      "main_structural_heading": "Application of the Criminal Code",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-30",
+      "text": "The Criminal Code applies to all offences against this Act."
+    },
+    {
+      "key": "section:27-35",
+      "title": "Section 27-35 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "27-35",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 27--Miscellaneous > Section 27-35",
+      "text": "(1) The Governor-General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n (2) In particular, the regulations may make provision:\n (b) relating to the service of documents under, or for the purposes of, the *wine tax law (including the service of process in proceedings for the recovery of tax or other amounts payable under the wine tax law);\n (c) for penalties for offences against the regulations by way of fines of up to $1,000."
+    },
+    {
+      "key": "section:29-1",
+      "title": "Section 29-1 - What forms part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-1",
+      "main_structural_heading": "What forms part of this Act",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 29--Rules for interpreting this Act > Section 29-1",
+      "text": "(1) These all form part of this Act:\n &iuml;&#130;&middot; the headings to the Parts, Divisions and Subdivisions of this Act;\n &iuml;&#130;&middot; *explanatory sections;\n &iuml;&#130;&middot; the headings to the sections and subsections of this Act;\n &iuml;&#130;&middot; the notes and examples (however described) that follow provisions of this Act.\n (2) The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision."
+    },
+    {
+      "key": "section:29-5",
+      "title": "Section 29-5 - What does not form part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-5",
+      "main_structural_heading": "What does not form part of this Act",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 29--Rules for interpreting this Act > Section 29-5",
+      "text": "These do not form part of this Act:\n &iuml;&#130;&middot; footnotes and endnotes;\n &iuml;&#130;&middot; Tables of Subdivisions."
+    },
+    {
+      "key": "section:29-10",
+      "title": "Section 29-10 - Explanatory sections, and their role in interpreting this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-10",
+      "main_structural_heading": "Explanatory sections, and their role in interpreting this Act",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 29--Rules for interpreting this Act > Section 29-10",
+      "text": "(1) An explanatory section is:\n (a) any section that is the first section in a Division and that has as its heading &quot;What this Division is about&quot;; or\n (b) any section in Division  2, 3 or 4.\n (2) *Explanatory sections form part of this Act, but they are not operative provisions. In interpreting an operative provision, an explanatory section may only be considered:\n (a) in determining the purpose or object underlying the provision; or\n (b) to confirm that the provision&#39;s meaning is the ordinary meaning conveyed by its text, taking into account its context in this Act and the purpose or object underlying the provision; or\n (c) in determining the provision&#39;s meaning if the provision is ambiguous or obscure; or\n (d) in determining the provision&#39;s meaning if the ordinary meaning conveyed by its text, taking into account its context in this Act and the purpose or object underlying the provision, leads to a result that is manifestly absurd or is unreasonable."
+    },
+    {
+      "key": "section:31-1",
+      "title": "Section 31-1 - Meaning of wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-1",
+      "main_structural_heading": "Meaning of wine",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-1",
+      "text": "(1) Wine means any of these:\n (a) *grape wine;\n (b) *grape wine products;\n (c) *fruit or vegetable wine;\n (d) *cider or perry;\n (e) *mead;\n (f) *sake.\n (2) However, wine does not include beverages that do not contain more than 1.15% by volume of ethyl alcohol."
+    },
+    {
+      "key": "section:31-2",
+      "title": "Section 31-2 - Meaning of grape wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-2",
+      "main_structural_heading": "Meaning of grape wine",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-2",
+      "text": "(1) Grape wine is a beverage that:\n (a) is the product of the complete or partial fermentation of fresh grapes or products derived solely from fresh grapes; and\n (b) complies with any requirements of the regulations, made for the purposes of section  31-8, relating to grape wine.\n (2) A beverage does not cease to be the product of the complete or partial fermentation of fresh grapes or products derived solely from fresh grapes merely because grape spirit, brandy, or both grape spirit and brandy, have been added to it.\nNote: The concept of grape wine is used in Subdivision 9-B to work out the taxable value of retail transactions involving wine produced from grapes. In the case of grape wine, you can choose to use the average wholesale price method of working out taxable values."
+    },
+    {
+      "key": "section:31-3",
+      "title": "Section 31-3 - Meaning of grape wine product",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-3",
+      "main_structural_heading": "Meaning of grape wine product",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-3",
+      "text": "Grape wine product is a beverage that:\n (a) contains at least 700 millilitres of *grape wine per litre; and\n (b) has not had added to it, at any time, any ethyl alcohol from any other source, except:\n (i) grape spirit; or\n (ii) alcohol used in preparing vegetable extracts (including spices, herbs and grasses); and\n (c) contains at least 8% by volume of ethyl alcohol, but not more than 22% by volume of ethyl alcohol; and\n (d) complies with any requirements of the regulations, made for the purposes of section  31-8, relating to grape wine products."
+    },
+    {
+      "key": "section:31-4",
+      "title": "Section 31-4 - Meaning of fruit or vegetable wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-4",
+      "main_structural_heading": "Meaning of fruit or vegetable wine",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-4",
+      "text": "Fruit or vegetable wine is a beverage that:\n (a) is the product of the complete or partial fermentation of the juice or must of:\n (i) fruit or vegetables; or\n (ii) products derived solely from fruit or vegetables; and\n (b) has not had added to it, at any time, any ethyl alcohol from any other source, except as specified in the regulations; and\n (c) has not had added to it, at any time, any liquor or substance that gives colour or flavour, except as specified in the regulations; and\n (d) contains at least 8% by volume of ethyl alcohol, but not more than 22% by volume of ethyl alcohol; and\n (e) complies with any requirements of the regulations, made for the purposes of section  31-8, relating to fruit or vegetable wine."
+    },
+    {
+      "key": "section:31-5",
+      "title": "Section 31-5 - Meaning of cider or perry",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-5",
+      "main_structural_heading": "Meaning of cider or perry",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-5",
+      "text": "Cider or perry is a beverage that:\n (a) is the product of the complete or partial fermentation of the juice or must of apples or pears; and\n (b) has not had added to it, at any time, any ethyl alcohol from any other source, except as specified in the regulations; and\n (c) has not had added to it, at any time, any liquor or substance (other than water or the juice or must of apples or pears) that gives colour or flavour, except as specified in the regulations; and\n (d) complies with any requirements of the regulations, made for the purposes of section  31-8, relating to cider or perry."
+    },
+    {
+      "key": "section:31-6",
+      "title": "Section 31-6 - Meaning of mead",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-6",
+      "main_structural_heading": "Meaning of mead",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-6",
+      "text": "Mead is a beverage that:\n (a) is the product of the complete or partial fermentation of honey; and\n (b) has not had added to it, at any time, any ethyl alcohol from any other source, except as specified in the regulations; and\n (c) has not had added to it, at any time, any liquor or substance (other than honey) that gives colour or flavour, except as specified in the regulations; and\n (d) complies with any requirements of the regulations, made for the purposes of section  31-8, relating to mead."
+    },
+    {
+      "key": "section:31-7",
+      "title": "Section 31-7 - Meaning of sake",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-7",
+      "main_structural_heading": "Meaning of sake",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-7",
+      "text": "Sake is a beverage that:\n (a) is the product of the complete or partial fermentation of rice; and\n (b) has not had added to it, at any time, any ethyl alcohol from any other source, except as specified in the regulations; and\n (c) has not had added to it, at any time, any liquor or substance that gives colour or flavour, except as specified in the regulations; and\n (d) complies with any requirements of the regulations, made for the purposes of section  31-8, relating to sake."
+    },
+    {
+      "key": "section:31-8",
+      "title": "Section 31-8 - Requirements for types of wine",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-8",
+      "main_structural_heading": "Requirements for types of wine",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-8",
+      "text": "(1) The regulations may specify requirements for these types of wine:\n (a) *grape wine;\n (b) *grape wine products;\n (c) *fruit or vegetable wine;\n (d) *cider or perry;\n (e) *mead;\n (f) *sake.\n (2) The requirements for a particular type of wine may relate to any of the following:\n (a) the substances that may be added to that type of wine;\n (b) the quantities in which those substances may be added to that type of wine;\n (c) the substances that must not be added to that type of wine;\n (d) the substances that may be used in the production of that type of wine;\n (e) the quantities in which those substances may be used in the production of that type of wine;\n (f) the substances that must not be used in the production of that type of wine;\n (g) the composition of that type of wine."
+    },
+    {
+      "key": "section:31-9",
+      "title": "Section 31-9 - Measuring alcoholic content",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-9",
+      "main_structural_heading": "Measuring alcoholic content",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-A--Wine > Section 31-9",
+      "text": "For the purposes of this Subdivision, the volume of ethyl alcohol in beverages is to be measured at 20&Acirc;&deg;C and is to be calculated on the basis that the specific gravity of ethyl alcohol is 0.79067 (at 20&Acirc;&deg;C in a vacuum)."
+    },
+    {
+      "key": "section:31-10",
+      "title": "Section 31-10 - Meanings of borne wine tax and wine tax borne",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-10",
+      "main_structural_heading": "Meanings of borne wine tax and wine tax borne",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-C--Borne wine tax and wine tax borne > Section 31-10",
+      "text": "(1) This section sets out the 2 situations in which an entity is taken to have borne wine tax on wine.\n (2) An entity is taken to have borne wine tax on wine if the entity has become liable to wine tax on an *assessable dealing with the wine. However, the wine tax for which the entity has become liable is not counted to the extent to which it has been the basis of a *wine tax credit entitlement.\n (3) An entity is taken to have borne wine tax on wine if the entity purchased the wine for a *price that included wine tax. However, the amount of wine tax borne is to be *reduced by any amount of the wine tax included in that price that has been refunded or *wine tax credited to the entity."
+    },
+    {
+      "key": "section:31-15",
+      "title": "Section 31-15 - Meaning of obtain wine under quote etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "31-15",
+      "main_structural_heading": "Meaning of obtain wine under quote etc.",
+      "defined_term": null,
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 31--Meaning of some important concepts > Subdivision 31-D--Obtaining wine under quote etc. > Section 31-15",
+      "text": "(1) This section sets out the circumstances in which wine is taken to be obtained by an entity under quote.\n (2) An entity purchases wine under quote if the entity *quotes on the purchase of the wine, and either:\n (a) the sale is an *assessable dealing by the seller that is exempted from tax only because of the quote; or\n (b) on the basis of the quote, the seller agrees to exclude tax from the *price of the wine.\n (3) An entity locally enters wine under quote if the entity *quotes on the *local entry of the wine and the local entry is exempted from tax only because of the quote.\n (4) An entity obtains wine under quote if:\n (a) the entity *purchases, or *locally enters, the wine under quote as described in subsection (2) or (3); or\n (b) the entity *quotes on a *customs dealing with the wine and the dealing is exempted from tax only because of the quote."
+    },
+    {
+      "key": "section:33-1.term:abn",
+      "title": "Section 33-1 Dictionary \"ABN\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"ABN\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"ABN\" has the meaning given by section 41 of the A New Tax System (Australian Business Number) Act 1998 ."
+    },
+    {
+      "key": "section:33-1.term:ad1a",
+      "title": "Section 33-1 Dictionary \"AD1a\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"AD1a\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"AD1a\" means the *assessable dealing of that name in the *Assessable Dealings Table, and AD1b, AD2a etc. have corresponding meanings."
+    },
+    {
+      "key": "section:33-1.term:airport-shop-goods",
+      "title": "Section 33-1 Dictionary \"airport shop goods\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"airport shop goods\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"airport shop goods\" has the same meaning as in the Customs Act 1901."
+    },
+    {
+      "key": "section:33-1.term:amount",
+      "title": "Section 33-1 Dictionary \"amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"amount\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"amount\" includes a nil amount."
+    },
+    {
+      "key": "section:33-1.term:aou",
+      "title": "Section 33-1 Dictionary \"AOU\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"AOU\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"AOU\" means *application to own use."
+    },
+    {
+      "key": "section:33-1.term:aou-connected-with-retail-sales-of-wine",
+      "title": "Section 33-1 Dictionary \"AOU connected with retail sales of wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"AOU connected with retail sales of wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"AOU connected with retail sales of wine\" means an *AOU that:\n (a) is constituted by consuming wine or giving wine away; and\n (b) is connected with making, or attempting to make, *retail sales of wine.\n\"application to own use\", in relation to wine, includes any of the following:\n (a) consuming the wine;\n (b) giving the wine away, or transferring property in the wine under a contract that is not a contract of sale;\n (c) granting any right or permission to use the wine;\n (d) if an entity other than the owner has *locally entered the wine--anything done by the entity that would be an application to own use of the wine by the owner if it had been done by the owner;\nbut does not include:\n (e) selling the wine or consigning it for sale by consignment; or\n (f) if the wine is *imported wine--anything done with it after *importation and before it is locally entered; or\n (g) using the wine as part of the process of manufacture or other treatment or processing of wine or other goods."
+    },
+    {
+      "key": "section:33-1.term:approved-form",
+      "title": "Section 33-1 Dictionary \"approved form\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"approved form\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"approved form\" has the meaning given by section 995-1 of the *ITAA 1997."
+    },
+    {
+      "key": "section:33-1.term:assessable-dealing",
+      "title": "Section 33-1 Dictionary \"assessable dealing\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"assessable dealing\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"assessable dealing\" means any dealing covered by the *Assessable Dealings Table."
+    },
+    {
+      "key": "section:33-1.term:assessable-dealings-table",
+      "title": "Section 33-1 Dictionary \"Assessable Dealings Table\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Assessable Dealings Table\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Assessable Dealings Table\" means the table in section 5-5."
+    },
+    {
+      "key": "section:33-1.term:assessable-wine",
+      "title": "Section 33-1 Dictionary \"assessable wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"assessable wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"assessable wine\" means *Australian wine or *imported wine.\n\"assessed wine tax\", on a *customs dealing, means the wine tax *assessed on the customs dealing."
+    },
+    {
+      "key": "section:33-1.term:assessment",
+      "title": "Section 33-1 Dictionary \"assessment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"assessment\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"assessment\" has the meaning given by the *ITAA 1997."
+    },
+    {
+      "key": "section:33-1.term:associate",
+      "title": "Section 33-1 Dictionary \"associate\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"associate\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"associate\" has the meaning given by section 318 of the Income Tax Assessment Act 1936 ."
+    },
+    {
+      "key": "section:33-1.term:associated-producer",
+      "title": "Section 33-1 Dictionary \"associated producer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"associated producer\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"associated producer\" has the meaning given by section 19-20."
+    },
+    {
+      "key": "section:33-1.term:australian-wine",
+      "title": "Section 33-1 Dictionary \"Australian wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Australian wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Australian wine\" means wine that has been *manufactured in the indirect tax zone, but does not include *imported wine."
+    },
+    {
+      "key": "section:33-1.term:average-wholesale-price-method",
+      "title": "Section 33-1 Dictionary \"average wholesale price method\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"average wholesale price method\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"average wholesale price method\" for working out the *notional wholesale selling price of a *taxable dealing is the method set out in section 9-40."
+    },
+    {
+      "key": "section:33-1.term:borne-wine-tax",
+      "title": "Section 33-1 Dictionary \"borne wine tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"borne wine tax\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"borne wine tax\" has the meaning given by Subdivision 31-C."
+    },
+    {
+      "key": "section:33-1.term:cider-or-perry",
+      "title": "Section 33-1 Dictionary \"cider or perry\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"cider or perry\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"cider or perry\" has the meaning given by section 31-5."
+    },
+    {
+      "key": "section:33-1.term:commissioner",
+      "title": "Section 33-1 Dictionary \"Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Commissioner\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Commissioner\" means the Commissioner of Taxation."
+    },
+    {
+      "key": "section:33-1.term:company",
+      "title": "Section 33-1 Dictionary \"company\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"company\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"company\" means:\n (a) a body corporate; or\n (b) any other unincorporated association or body of persons;\nbut does not include a *partnership."
+    },
+    {
+      "key": "section:33-1.term:connected-with",
+      "title": "Section 33-1 Dictionary \"connected with\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"connected with\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"connected with\" has the meaning given by section 328-125 of the *ITAA 1997."
+    },
+    {
+      "key": "section:33-1.term:container",
+      "title": "Section 33-1 Dictionary \"container\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"container\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"container\" means:\n (a) packaging in which, or with which, any property (the contents) is packed or secured, in the ordinary course of a business, for the purpose of the marketing or delivery of the contents; and\n (b) ancillary items that are packed or secured with the contents and are intended, and reasonably necessary, to allow or facilitate the use of the contents."
+    },
+    {
+      "key": "section:33-1.term:cr1",
+      "title": "Section 33-1 Dictionary \"CR1\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"CR1\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"CR1\" means the wine tax credit ground of that name in the *Wine Tax Credit Table, and CR4, CR7 etc. have corresponding meanings."
+    },
+    {
+      "key": "section:33-1.term:customs-clearance-area",
+      "title": "Section 33-1 Dictionary \"customs clearance area\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"customs clearance area\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"customs clearance area\" means an area that is designated or set aside for the performance of functions under the Customs Act 1901 ."
+    },
+    {
+      "key": "section:33-1.term:customs-dealing",
+      "title": "Section 33-1 Dictionary \"customs dealing\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"customs dealing\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"customs dealing\" means *AD4b, *AD10 or *AD14b."
+    },
+    {
+      "key": "section:33-1.term:customs-duty",
+      "title": "Section 33-1 Dictionary \"customs duty\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"customs duty\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"customs duty\" means any duty of customs imposed by that name under a law of the Commonwealth, other than:\n (a) the A New Tax System (Goods and Services Tax Imposition--Customs) Act 1999 ; or\n (aa) the A New Tax System (Goods and Services Tax Imposition (Recipients)--Customs) Act 2005 ; or\n (b) the A New Tax System (Wine Equalisation Tax Imposition--Customs) Act 1999 ."
+    },
+    {
+      "key": "section:33-1.term:customs-tariff",
+      "title": "Section 33-1 Dictionary \"Customs Tariff\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Customs Tariff\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Customs Tariff\" means the Customs Tariff Act 1995 as amended by any Act, and as proposed to be amended by Customs Tariff Proposals introduced into the House of Representatives."
+    },
+    {
+      "key": "section:33-1.term:eligible-royalty-cost",
+      "title": "Section 33-1 Dictionary \"eligible royalty cost\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"eligible royalty cost\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"eligible royalty cost\" has the meaning given by subsection 5-15(2)."
+    },
+    {
+      "key": "section:33-1.term:entity",
+      "title": "Section 33-1 Dictionary \"entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"entity\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"entity\" has the meaning given in section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:explanatory-section",
+      "title": "Section 33-1 Dictionary \"explanatory section\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"explanatory section\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"explanatory section\" has the meaning given by section 29-10.\n\"export\", in relation to wine, means export the wine from the indirect tax zone."
+    },
+    {
+      "key": "section:33-1.term:finance-minister",
+      "title": "Section 33-1 Dictionary \"Finance Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Finance Minister\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Finance Minister\" means the Minister administering the Public Governance, Performance and Accountability Act 2013 ."
+    },
+    {
+      "key": "section:33-1.term:financial-year",
+      "title": "Section 33-1 Dictionary \"financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"financial year\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"financial year\" means a period of 12 months beginning on 1 July."
+    },
+    {
+      "key": "section:33-1.term:food",
+      "title": "Section 33-1 Dictionary \"food\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"food\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"food\" has the meaning given by section 38-4 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:fruit-or-vegetable-wine",
+      "title": "Section 33-1 Dictionary \"fruit or vegetable wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fruit or vegetable wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"fruit or vegetable wine\" has the meaning given by section 31-4."
+    },
+    {
+      "key": "section:33-1.term:grape-wine",
+      "title": "Section 33-1 Dictionary \"grape wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"grape wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"grape wine\" has the meaning given by section 31-2."
+    },
+    {
+      "key": "section:33-1.term:grape-wine-product",
+      "title": "Section 33-1 Dictionary \"grape wine product\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"grape wine product\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"grape wine product\" has the meaning given by section 31-3."
+    },
+    {
+      "key": "section:33-1.term:gst",
+      "title": "Section 33-1 Dictionary \"GST\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"GST\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:gst-act",
+      "title": "Section 33-1 Dictionary \"GST Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST Act\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"GST Act\" means the A New Tax System (Goods and Services Tax) Act 1999."
+    },
+    {
+      "key": "section:33-1.term:gst-free",
+      "title": "Section 33-1 Dictionary \"GST-free\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST-free\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"GST-free\" has the meaning given by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:gst-group",
+      "title": "Section 33-1 Dictionary \"GST group\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST group\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"GST group\" has the meaning given by section 48-5 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:gst-importation-value",
+      "title": "Section 33-1 Dictionary \"GST importation value\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST importation value\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"GST importation value\" of a *local entry is an amount equal to what would be the value of the local entry (disregarding any wine tax payable in respect of the local entry), for the purposes of the *GST Act, if it were a taxable importation within the meaning of section  195-1 of that Act.\nFor the basic rules on the value of taxable importations, see section 13-20 of the GST Act."
+    },
+    {
+      "key": "section:33-1.term:gst-joint-venture",
+      "title": "Section 33-1 Dictionary \"GST joint venture\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST joint venture\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"GST joint venture\" has the meaning given by section 51-5 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:half-retail-price-method",
+      "title": "Section 33-1 Dictionary \"half-retail price method\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"half-retail price method\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"half-retail price method\" for working out the *notional wholesale selling price of a *taxable dealing is:\n (a) if the dealing is a *retail sale--the method set out in subsection 9-35(1); or\n (b) if the dealing is an *AOU connected with retail sales of grape wine--the method set out in subsection 9-35(2)."
+    },
+    {
+      "key": "section:33-1.term:import",
+      "title": "Section 33-1 Dictionary \"import\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"import\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"import\" means import goods into the indirect tax zone."
+    },
+    {
+      "key": "section:33-1.term:imported-wine",
+      "title": "Section 33-1 Dictionary \"imported wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"imported wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"imported wine\" means wine that has been *imported (whether or not the wine was *manufactured in the indirect tax zone)."
+    },
+    {
+      "key": "section:33-1.term:increase",
+      "title": "Section 33-1 Dictionary \"increase\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"increase\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"increase\" includes increase from nil."
+    },
+    {
+      "key": "section:33-1.term:indirect-marketing-sale",
+      "title": "Section 33-1 Dictionary \"indirect marketing sale\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"indirect marketing sale\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"indirect marketing sale\" has the meaning given by section 5-20."
+    },
+    {
+      "key": "section:33-1.term:indirect-tax-zone",
+      "title": "Section 33-1 Dictionary \"indirect tax zone\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"indirect tax zone\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"indirect tax zone\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:inwards-duty-free-shop",
+      "title": "Section 33-1 Dictionary \"inwards duty free shop\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"inwards duty free shop\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"inwards duty free shop\" has the same meaning as in section 96B of the Customs Act 1901 ."
+    },
+    {
+      "key": "section:33-1.term:itaa-1997",
+      "title": "Section 33-1 Dictionary \"ITAA 1997\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"ITAA 1997\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"ITAA 1997\" means the Income Tax Assessment Act 1997.\n\"joint venture operator\", for a *GST joint venture, has the meaning given by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:le1",
+      "title": "Section 33-1 Dictionary \"LE1\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"LE1\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"LE1\" means the *local entry of that name in the *Local Entry Table, and LE2, LE3 etc. have corresponding meanings."
+    },
+    {
+      "key": "section:33-1.term:local-entry",
+      "title": "Section 33-1 Dictionary \"local entry\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"local entry\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"local entry\" has the meaning given by section 5-30."
+    },
+    {
+      "key": "section:33-1.term:local-entry-table",
+      "title": "Section 33-1 Dictionary \"Local Entry Table\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Local Entry Table\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Local Entry Table\" means the table in section 5-30."
+    },
+    {
+      "key": "section:33-1.term:locally-enter-wine-under-quote",
+      "title": "Section 33-1 Dictionary \"locally enter wine under quote\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"locally enter wine under quote\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"locally enter wine under quote\" has the meaning given by subsection 31-15(3)."
+    },
+    {
+      "key": "section:33-1.term:manufacture",
+      "title": "Section 33-1 Dictionary \"manufacture\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"manufacture\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"manufacture\" includes the following:\n (a) production;\n (b) combining parts or ingredients so as to form an article or substance that is commercially distinct from the parts or ingredients;\n (c) applying a treatment to foodstuffs as a process in preparing them for human consumption;\nbut does not include any prescribed combination of parts or ingredients.\n\"manufacturer\", in relation to particular wine, means the entity that (not as an employee) *manufactured the wine, whether or not the entity owned the materials out of which the wine was manufactured."
+    },
+    {
+      "key": "section:33-1.term:mead",
+      "title": "Section 33-1 Dictionary \"mead\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"mead\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"mead\" has the meaning given by section 31-6.\n\"member\", in relation to a *GST group, has the meaning given by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:money",
+      "title": "Section 33-1 Dictionary \"money\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"money\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"money\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:net-amount",
+      "title": "Section 33-1 Dictionary \"net amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"net amount\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"net amount\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:new-zealand",
+      "title": "Section 33-1 Dictionary \"New Zealand\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"New Zealand\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"New Zealand\" means the territory of New Zealand but does not include Tokelau or the Associated Self Governing States of the Cook Islands and Niue."
+    },
+    {
+      "key": "section:33-1.term:new-zealand-participant",
+      "title": "Section 33-1 Dictionary \"New Zealand participant\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"New Zealand participant\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"New Zealand participant\" means an entity that is approved as a New Zealand participant under section  19-7."
+    },
+    {
+      "key": "section:33-1.term:non-taxable-importation",
+      "title": "Section 33-1 Dictionary \"non-taxable importation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"non-taxable importation\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"non-taxable importation\" has the meaning given by section  13-10 and Division 42 of the *GST Act.\n\"notional wholesale purchase price\", in relation to wine, means the *price (excluding wine tax and *GST) for which you could reasonably have been expected to purchase the wine by wholesale under an arm&#39;s length transaction."
+    },
+    {
+      "key": "section:33-1.term:notional-wholesale-selling-price",
+      "title": "Section 33-1 Dictionary \"notional wholesale selling price\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"notional wholesale selling price\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"notional wholesale selling price\" has the meaning given by Subdivision 9-B."
+    },
+    {
+      "key": "section:33-1.term:obtain-wine-under-quote",
+      "title": "Section 33-1 Dictionary \"obtain wine under quote\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"obtain wine under quote\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"obtain wine under quote\" has the meaning given by Subdivision 31-D.\n\"participant\", in relation to a *GST joint venture, has the meaning given by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:partnership",
+      "title": "Section 33-1 Dictionary \"partnership\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"partnership\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"partnership\" has the meaning given by section 995-1 of the *ITAA 1997.\n\"passed on\", in relation to an amount of tax that has been *borne by an entity, does not include an amount that the entity has passed on to another entity, but has later refunded to that other entity.\n\"premises\", in relation to a supply of *food (other than wine), has the meaning given by section  38-5 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:prescribed-rules-for-export-sales",
+      "title": "Section 33-1 Dictionary \"prescribed rules for export sales\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"prescribed rules for export sales\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"prescribed rules for export sales\" means the rules prescribed by the regulations setting out conditions that must be complied with in order for dealings with wine to be exempted, or otherwise relieved from wine tax, on the basis of the *export, or intended export, of the wine."
+    },
+    {
+      "key": "section:33-1.term:price",
+      "title": "Section 33-1 Dictionary \"price\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"price\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"price\" has the meaning given by section 9-75 of the *GST Act.\n\"producer\", of wine, means:\n (a) an entity that *manufactures the wine; or\n (b) an entity that satisfies the following requirements:\n (i) the entity (the first entity) supplies another entity with the *source product from which the wine is manufactured;\n (ii) the other entity manufactures the wine on behalf of the first entity."
+    },
+    {
+      "key": "section:33-1.term:producer-rebate",
+      "title": "Section 33-1 Dictionary \"producer rebate\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"producer rebate\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"producer rebate\" means a rebate to which a *producer of *rebatable wine is entitled under Division 19."
+    },
+    {
+      "key": "section:33-1.term:purchase-wine-under-quote",
+      "title": "Section 33-1 Dictionary \"purchase wine under quote\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"purchase wine under quote\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"purchase wine under quote\" has the meaning given by subsection 31-15(2)."
+    },
+    {
+      "key": "section:33-1.term:quote",
+      "title": "Section 33-1 Dictionary \"quote\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"quote\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"quote\" means quote an *ABN."
+    },
+    {
+      "key": "section:33-1.term:rebatable-wine",
+      "title": "Section 33-1 Dictionary \"rebatable wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"rebatable wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"rebatable wine\" means *grape wine, *grape wine products, *fruit or vegetable wine, *cider or perry, *mead or *sake."
+    },
+    {
+      "key": "section:33-1.term:reduce",
+      "title": "Section 33-1 Dictionary \"reduce\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"reduce\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"reduce\" includes reduce to nil."
+    },
+    {
+      "key": "section:33-1.term:registered",
+      "title": "Section 33-1 Dictionary \"registered\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"registered\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"registered\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:relevant-traveller",
+      "title": "Section 33-1 Dictionary \"relevant traveller\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"relevant traveller\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"relevant traveller\" has the same meaning as in section 96B of the Customs Act 1901 .\n\"representative member\", for a *GST group, has the meaning given by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:required-to-be-registered",
+      "title": "Section 33-1 Dictionary \"required to be registered\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"required to be registered\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"required to be registered\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:retail-sale",
+      "title": "Section 33-1 Dictionary \"retail sale\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"retail sale\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"retail sale\" means any sale that is not a *wholesale sale."
+    },
+    {
+      "key": "section:33-1.term:royalty",
+      "title": "Section 33-1 Dictionary \"royalty\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"royalty\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"royalty\" has the meaning given by subsection 9-70(2)."
+    },
+    {
+      "key": "section:33-1.term:royalty-inclusive-aou",
+      "title": "Section 33-1 Dictionary \"royalty-inclusive AOU\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"royalty-inclusive AOU\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"royalty-inclusive AOU\" has the meaning given by section  5-15."
+    },
+    {
+      "key": "section:33-1.term:royalty-inclusive-sale",
+      "title": "Section 33-1 Dictionary \"royalty-inclusive sale\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"royalty-inclusive sale\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"royalty-inclusive sale\" has the meaning given by section  5-15."
+    },
+    {
+      "key": "section:33-1.term:sake",
+      "title": "Section 33-1 Dictionary \"sake\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"sake\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"sake\" has the meaning given by section 31-7."
+    },
+    {
+      "key": "section:33-1.term:sale",
+      "title": "Section 33-1 Dictionary \"sale\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"sale\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"sale\" includes barter or exchange."
+    },
+    {
+      "key": "section:33-1.term:source-product",
+      "title": "Section 33-1 Dictionary \"source product\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"source product\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"source product\" has the meaning given by subsection 19-5(4)."
+    },
+    {
+      "key": "section:33-1.term:state-law",
+      "title": "Section 33-1 Dictionary \"State law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"State law\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"State law\" has the meaning given by section 995-1 of the *ITAA 1997."
+    },
+    {
+      "key": "section:33-1.term:supply",
+      "title": "Section 33-1 Dictionary \"supply\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"supply\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"supply\" has the meaning given by section 9-10 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:taxable-dealing",
+      "title": "Section 33-1 Dictionary \"taxable dealing\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxable dealing\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"taxable dealing\" means an *assessable dealing that happens on or after 1  July 2000 for which no exemption is available under Division 7."
+    },
+    {
+      "key": "section:33-1.term:taxable-supply",
+      "title": "Section 33-1 Dictionary \"taxable supply\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxable supply\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"taxable supply\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:taxable-value",
+      "title": "Section 33-1 Dictionary \"taxable value\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxable value\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"taxable value\" means the taxable value that applies under Division 9.\n\"tax-bearing dealing\", in relation to an amount of *wine tax borne by an entity, means the dealing through which, or because of which, the tax was borne."
+    },
+    {
+      "key": "section:33-1.term:tax-period",
+      "title": "Section 33-1 Dictionary \"tax period\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tax period\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"tax period\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:territory-law",
+      "title": "Section 33-1 Dictionary \"Territory law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Territory law\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Territory law\" has the meaning given by section 995-1 of the *ITAA 1997."
+    },
+    {
+      "key": "section:33-1.term:tradex-order",
+      "title": "Section 33-1 Dictionary \"tradex order\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tradex order\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"tradex order\" has the meaning given by section 4 of the Tradex Scheme Act 1999 ."
+    },
+    {
+      "key": "section:33-1.term:tradex-scheme-goods",
+      "title": "Section 33-1 Dictionary \"tradex scheme goods\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tradex scheme goods\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"tradex scheme goods\" has the meaning given by subsection 141-10(1) of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:untaxable-commonwealth-entity",
+      "title": "Section 33-1 Dictionary \"untaxable Commonwealth entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"untaxable Commonwealth entity\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"untaxable Commonwealth entity\" has the meaning given by section 177-1 of the *GST Act."
+    },
+    {
+      "key": "section:33-1.term:untaxed-aou",
+      "title": "Section 33-1 Dictionary \"untaxed AOU\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"untaxed AOU\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"untaxed AOU\" has the meaning given by subsection 5-25(2)."
+    },
+    {
+      "key": "section:33-1.term:untaxed-sale",
+      "title": "Section 33-1 Dictionary \"untaxed sale\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"untaxed sale\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"untaxed sale\" has the meaning given by subsection 5-25(1)."
+    },
+    {
+      "key": "section:33-1.term:wholesale-sale",
+      "title": "Section 33-1 Dictionary \"wholesale sale\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"wholesale sale\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"wholesale sale\" means a sale to an entity that purchases for the purpose of resale, but does not include a sale of wine from stock in a retail store (or retail section of a store) to make up for a temporary shortage of stock of the purchaser, if the wine is of a kind that:\n (a) is usually *manufactured by the purchaser; or\n (b) is usually purchased by the purchaser for resale."
+    },
+    {
+      "key": "section:33-1.term:wine",
+      "title": "Section 33-1 Dictionary \"wine\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"wine\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"wine\" has the meaning given by Subdivision 31-A."
+    },
+    {
+      "key": "section:33-1.term:wine-tax",
+      "title": "Section 33-1 Dictionary \"wine tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"wine tax\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"wine tax\" means tax that is payable under the *wine tax law and imposed as wine equalisation tax by any of these:\n (a) the A New Tax System (Wine Equalisation Tax Imposition--General) Act 1999 ; or\n (b) the A New Tax System (Wine Equalisation Tax Imposition--Customs) Act 1999 ; or\n (c) the A New Tax System (Wine Equalisation Tax Imposition--Excise) Act 1999 ."
+    },
+    {
+      "key": "section:33-1.term:wine-tax-borne",
+      "title": "Section 33-1 Dictionary \"wine tax borne\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"wine tax borne\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"wine tax borne\" has the meaning given by Subdivision 31-C."
+    },
+    {
+      "key": "section:33-1.term:wine-tax-credit",
+      "title": "Section 33-1 Dictionary \"wine tax credit\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"wine tax credit\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"wine tax credit\" means a wine tax credit under Part 4."
+    },
+    {
+      "key": "section:33-1.term:wine-tax-credit-table",
+      "title": "Section 33-1 Dictionary \"Wine Tax Credit Table\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Wine Tax Credit Table\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"Wine Tax Credit Table\" means the table in section 17-5."
+    },
+    {
+      "key": "section:33-1.term:wine-tax-law",
+      "title": "Section 33-1 Dictionary \"wine tax law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"wine tax law\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"wine tax law\" means:\n (a) this Act; and\n (b) any Act that imposes wine tax; and\n (c) the A New Tax System (Wine Equalisation Tax and Luxury Car Tax Transition) Act 1999 so far as it relates to the Acts covered by paragraphs (a) and (b); and\n (d) the Taxation Administration Act 1953 , so far as it relates to any Act covered by paragraphs (a) to (c); and\n (e) any other Act, so far as it relates to any Act covered by paragraphs  (a) to (d) (or to so much of that Act as is covered); and\n (f) regulations under an Act, so far as they relate to any Act covered by paragraphs  (a) to (e) (or to so much of that Act as is covered)."
+    },
+    {
+      "key": "section:33-1.term:you",
+      "title": "Section 33-1 Dictionary \"you\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"you\"",
+      "structure_path": "Part 7--INTERPRETING--THIS ACT > Division 33--Dictionary > Section 33-1",
+      "text": "\"you\": if a provision of this Act uses the expression you, it applies to entities generally, unless its application is expressly limited.\nNote: The expression you is not used in provisions that apply only to entities that are not individuals."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/ita1986116/",
+    "register_url": "https://www.legislation.gov.au/C2004A03349/latest/text",
+    "source": "Income Tax Act 1986 (100000093).txt",
+    "filename": "Income Tax Act 1986 (100000093).json",
+    "name": "Income Tax Act 1986",
+    "citation": "Income Tax Act 1986"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Income Tax Act 1986 > Section 1",
+      "text": "This Act may be cited as the Income Tax Act 1986."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax Act 1986 > Section 2",
+      "text": "This Act shall come into operation on the day on which it receives the Royal Assent."
+    },
+    {
+      "key": "section:3.term:assessment-act",
+      "title": "Section 3 Definitions \"Assessment Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Assessment Act\"",
+      "structure_path": "Income Tax Act 1986 > Section 3",
+      "text": "\"Assessment Act\" means the Income Tax Assessment Act 1936."
+    },
+    {
+      "key": "section:3.term:non-profit-company",
+      "title": "Section 3 Definitions \"non-profit company\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"non-profit company\"",
+      "structure_path": "Income Tax Act 1986 > Section 3",
+      "text": "\"non-profit company\" means:\n (a) a company that is not carried on for the purposes of profit or gain to its individual members and is, by the terms of the company&#39;s constituent document, prohibited from making any distribution, whether in money, property or otherwise, to its members; or\n (b) a friendly society dispensary."
+    },
+    {
+      "key": "section:3.term:prescribed-unit-trust",
+      "title": "Section 3 Definitions \"prescribed unit trust\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"prescribed unit trust\"",
+      "structure_path": "Income Tax Act 1986 > Section 3",
+      "text": "\"prescribed unit trust\" means a trust estate that is a public trading trust within the meaning of Division 6C of Part  III of the Assessment Act.\n (2) In this Act, a reference to taxable income shall be read as a reference to taxable income of the year of income."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Income Tax Act 1986 > Section 4",
+      "text": "The Assessment Act is incorporated, and shall be read as one, with this Act."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Imposition of income tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Imposition of income tax",
+      "defined_term": null,
+      "structure_path": "Income Tax Act 1986 > Section 5",
+      "text": "(1) Income tax is imposed in accordance with this Act and at the relevant rates declared by the Income Tax Rates Act 1986.\n (2) This Act does not impose tax payable in accordance with section  121H, 126, 128B, 128NA, 128NB or 128V of the Assessment Act.\n (2A) This Act does not impose tax payable in accordance with section  301-175 or 306-15, or Division 840, of the Income Tax Assessment Act 1997 or Division 840 of the Income Tax (Transitional Provisions) Act 1997.\n (3) This Act does not impose tax upon the taxable income of a non -profit company where that taxable income does not exceed $416.\n (4) If this Act, insofar as it imposes tax upon the taxable income of a complying superannuation fund, a non -complying superannuation fund, a complying approved deposit fund, a non-complying approved deposit fund or a pooled superannuation trust (as defined in the Income Tax Assessment Act 1997), would, apart from this subsection, deal with 2 subjects of taxation (within the meaning of section 55 of the Constitution), namely:\n (a) the taxation of so much of the taxable income as is attributable to contributions that are included in assessable income under Subdivision  295-C of the Income Tax Assessment Act 1997; and\n (b) the taxation of the remainder of the taxable income;\nthis Act imposes tax in respect of only that subject of taxation mentioned in paragraph (b).\n (5) This Act does not impose tax upon the taxable income of a non -complying superannuation fund within the meaning of the Income Tax Assessment Act 1997, to the extent that the taxable income is attributable to the inclusion of an amount in the fund&#39;s assessable income under table item  2 in section 295-320 of that Act.\n (6) This Act does not impose tax upon the taxable income of a Australian superannuation fund, to the extent that the taxable income is attributable to the inclusion of an amount in the fund&#39;s assessable income under table item  3 in section  295-320 of that Act."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Adjustment where amount to be paid by, or refunded to, taxpayer would not exceed 49 cents",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Adjustment where amount to be paid by, or refunded to, taxpayer would not exceed 49 cents",
+      "defined_term": null,
+      "structure_path": "Income Tax Act 1986 > Section 6",
+      "text": "(1) This section applies for the purposes of the making of an assessment of tax (other than further tax payable under subsection  94(9), (11) or (12) of the Assessment Act) in respect of the income of a taxpayer of a year of income where, upon the making of the assessment and the serving of notice of the assessment upon the taxpayer, there would, but for this section, be a net amount of not more than 49 cents payable by the Commissioner to the taxpayer, or by the taxpayer to the Commissioner, under the law relating to income tax, after taking into account all liabilities of the taxpayer, and all rebates and credits allowable to the taxpayer, under that law.\n (2) Where this section applies in relation to the making of an assessment:\n (a) if the amount of not more than 49 cents would be an amount payable to the taxpayer--additional tax equal to that amount is imposed by this Act in respect of the income of the taxpayer of the year of income; and\n (b) if the amount of not more than 49 cents would be an amount payable to the Commissioner--the amount that, but for this section, would be the amount of income tax imposed in respect of the income of the taxpayer of the year of income before the allowance of any rebates to which the taxpayer is entitled, is reduced by so much of that amount of not more than 49 cents as does not exceed the amount calculated by deducting the amount of any such rebates from the sum of the amount that is to be so reduced and any amount of further tax payable by the taxpayer in respect of that year of income under subsection  94(9), (11) or (12) of the Assessment Act.\n (3) A reference in this section to a liability of the taxpayer shall be read as including a reference to a liability in respect of income tax or provisional tax notified to the taxpayer by the Commissioner, notwithstanding that the amount of the liability has not become due and payable.\n (4) For the purposes of any calculation under the law relating to income tax that depends upon the amount of tax paid or payable by, or assessed in respect of the income of, a taxpayer, the tax assessed and payable under an assessment in relation to which this section applies shall be deemed to be the tax that would have been so assessed and payable if this section had not applied."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Levy of Tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Levy of Tax",
+      "defined_term": null,
+      "structure_path": "Income Tax Act 1986 > Section 7",
+      "text": "The tax imposed by subsection 5(1) is levied, and shall be paid, for the financial year commencing on 1  July 1986 and for all subsequent financial years until the Parliament otherwise provides."
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "doc": {
+    "jurisdiction": "western_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/wa/consol_act/tca1987208/",
+    "register_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a832.html&view=consolidated",
+    "source": "Trustee Companies Act 1987 (100000191).txt",
+    "filename": "Trustee Companies Act 1987 (100000191).json",
+    "name": "Trustee Companies Act 1987",
+    "citation": "Trustee Companies Act 1987"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 1",
+      "text": "This Act may be cited as the Trustee Companies Act 1987^ 1."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 2",
+      "text": "This Act shall come into operation on such day as is fixed by proclamation^ 1."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Terms used",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Terms used",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 3",
+      "text": "(1) In this Act unless the contrary intention appears --\nboard of directors, in relation to a trustee company, includes committee of\nmanagement, council or other governing body of the trustee company;\nCommissioner means the Commissioner for Corporate Affairs;\nCorporations Act means the Corporations Act 2001 of the Commonwealth;\nCourt means the Supreme Court of Western Australia;\nestate includes all real or personal property of any kind committed to the\nmanagement or administration of a trustee company;\nTreasurer means the Treasurer of the State;\ntrustee company means a licensed trustee company as defined in the Corporations\nAct section 601RAA;\nwill includes a codicil and any other testamentary instrument or disposition.\n[Section 3 amended: No. 42 of 1994 s. 4; No. 10 of 2001 s. 198; No. 27 of 2007\ns. 25; No. 39 of 2011 s. 4.]\n               Part II -- Powers and duties of trustee companies"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Trustee company may act as executor and obtain probate",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Trustee company may act as executor and obtain probate",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 5",
+      "text": "(1) Where a trustee company is named, either alone or jointly with any other\nperson, as executor in the last will of a testator, that trustee company may --\n(a) act as executor and may apply to the Court for and obtain probate of the\nwill of the testator; and\n(b) may perform and discharge all the acts and duties of an executor as fully\nand effectually as any other executor.\n(2) The Court may grant probate to a trustee company on an application under\nsubsection (1).\n(3) This section applies to wills made before or after the commencement of this\nAct."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Person entitled to probate may authorise trustee company to obtain",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Person entitled to probate may authorise trustee company to obtain",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 6",
+      "text": "administration with will annexed\n(1) Where a person may apply for and obtain probate of the will of a testator\nwithout reserving leave to any other person to apply for probate, the\nfirst-mentioned person may instead of applying for probate --\n(a) join with a trustee company in an application for a grant of letters of\nadministration with the will annexed to himself and the trustee company\njointly; or\n(b) authorise a trustee company to apply to the Court for a grant of letters of\nadministration with the will annexed.\n(2) Where a trustee company applies to the Court as authorised under\nsubsection (1), the Court may grant letters of administration with the will\nannexed to the trustee company, either alone or jointly as the case may\nrequire, unless the testator by his will expressed his desire that the office\nof executor should not be delegated or should not be delegated to a trustee\ncompany.\n(3) This section applies to wills made before or after the commencement of this\nAct."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Person entitled to administration with will annexed may authorise trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Person entitled to administration with will annexed may authorise trustee",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 7",
+      "text": "company to obtain administration with will annexed\n(1) Where a person may apply for and obtain letters of administration with the\nwill annexed of the estate of a testator, the person may --\n(a) join with a trustee company in an application for a grant of letters of\nadministration with the will annexed to himself and the trustee company\njointly; or\n(b) instead of applying to the Court for a grant, authorise a trustee company\nto apply to the Court for a grant of letters of administration with the will\nannexed.\n(2) Where a trustee company applies to the Court as authorised under\nsubsection (1), the Court may grant letters of administration with the will\nannexed to the trustee company, either alone or jointly as the case may\nrequire, unless the testator by his will expressed his desire that the office\nof administrator should not be held by a trustee company or by that trustee\ncompany.\n(3) This section applies to wills made before or after the commencement of this\nAct."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Person entitled to administration on intestacy may authorise trustee company",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Person entitled to administration on intestacy may authorise trustee company",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 8",
+      "text": "to obtain administration\n(1) A person who is entitled to obtain administration of the estate of a person\nwho died intestate may --\n(a) join with a trustee company in an application for a grant of letters of\nadministration of the estate to himself and the trustee company jointly; or\n(b) instead of applying to the Court for a grant, authorise a trustee company\nto apply to the Court for a grant of letters of administration of the estate.\n(2) Where --\n(a) a person joins with a trustee company in an application under subsection\n(1)(a); or\n(b) a trustee company makes an application as authorised under subsection (1)\n(b),\nthe Court may grant letters of administration of the estate in accordance with\nthe application."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Trustee company may act as administrator",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Trustee company may act as administrator",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 9",
+      "text": "Where the administration of an estate, with or without the will annexed, is\ngranted to a trustee company, the trustee company may perform and discharge all\nthe acts and duties that belong to the office of administrator or administrator\nwith the will annexed, as the case may require."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Trustee company may elect to administer small estates without grant of",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Trustee company may elect to administer small estates without grant of",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 10",
+      "text": "probate or administration\n(1) Where a person, before or after the commencement of this Act, dies testate\nor intestate, in or out of Western Australia, leaving property in Western\nAustralia the gross value of which as estimated by a trustee company does not\nat the time of election exceed the amount prescribed by regulation for the\npurposes of this section and no person has taken out probate or administration\nin Western Australia, the trustee company may, in all cases where it is\nentitled to apply for a grant of administration or a grant of probate, instead\nof obtaining such a grant, file in the office of the Court an election in\nwriting setting out the name, residence, and occupation (so far as then known\nto it) of the deceased person, and the estimated value of the property of the\ndeceased person in Western Australia, as then known, and electing to\nadminister.\n(2) On such an election being filed, the trustee company shall be deemed to be\nthe executor of the will or the administrator of the whole of the estate of the\ndeceased person in all respects as if a grant of probate or letters of\nadministration, as the case may be, had been granted to it.\n(3) Where after the filing of an election under this section the gross value of\nthe property to be administered is found to exceed the amount prescribed for\nthe purposes of this section, or the property to which the election relates is\nfound to include property outside the State, the trustee company shall, as soon\nas practicable, file in the Court an affidavit made pursuant to section 16 as\nto the facts, and when that is done such election shall cease to have effect\nand the trustee company shall proceed in the manner provided by the\nAdministration Act 1903 to seek an order to administer the estate.\n(4) Where after the filing of an election under this section the trustee\ncompany finds that the person named in the notice who had been believed to have\ndied intestate had died testate, the trustee company shall, as soon as\npracticable, file in the Court an affidavit made under section 16 as to the\nfacts, and when that is done such election shall cease to have effect\naccordingly, and the Company shall file with the Master of the Court its\naccounts of all transactions in the matter of the estate of the deceased\nperson."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Rights of interested persons not prejudiced by grant to trustee company",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Rights of interested persons not prejudiced by grant to trustee company",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 11",
+      "text": "Nothing in this Part and no grant of probate or letters of administration with\nor without the will annexed to a trustee company or election to administer\nfiled under section 10 by a trustee company shall prejudice or affect the right\nof any person interested in the estate of a deceased person, other than a\nperson who authorised the trustee company to apply to the Court for a grant of\nprobate or letters of administration or to file an election to administer, to\napply for and obtain from the Court a grant of probate or letters of\nadministration with or without the will annexed."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Trustee company may be appointed trustee, receiver etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Trustee company may be appointed trustee, receiver etc.",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 12",
+      "text": "(1) Where any court, judge or other person has power to appoint a person as --\n(a) trustee; or\n(b) receiver or receiver and manager; or\n(c) guardian of the estate of a minor; or\n(d) surety or guarantor,\na trustee company may be so appointed.\n(2) Subject to this section, a trustee company may be appointed or may act or\ncontinue to act as sole trustee in all cases notwithstanding that it is\nprovided by the terms of any instrument creating the trust or of any power or\notherwise that there shall be more than one trustee to perform the trust.\n(3) A trustee company shall not be appointed in any case in which the\ninstrument creating the trust or power forbids the appointment of a trustee\ncompany.\n(4) A trustee company shall not be appointed or be entitled to act as sole\ntrustee in any case in which the instrument creating the trust or power\nexpressly provides that there shall be another trustee in addition to a trustee\ncompany or that a trustee company shall not be appointed or act as sole\ntrustee.\n(5) No bond, recognizance or other security for the proper discharge of any of\nthe duties referred to in subsection (1) shall be required to be given by or on\nbehalf of a trustee company."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Trustee company may act under power of attorney",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Trustee company may act under power of attorney",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 13",
+      "text": "(1) A trustee company may act, either alone or jointly with any other person,\nunder a power of attorney by which the trustee company is appointed attorney by\nany person or by any company or other corporation.\n(2) Nothing in this section authorises any person, company or other corporation\nto confer any power upon a trustee company that cannot by law be delegated to\nor performed by an attorney."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Executor etc. may appoint trustee company to act instead",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Executor etc. may appoint trustee company to act instead",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 14",
+      "text": "Any executor, administrator or trustee may appoint a trustee company to act as\nexecutor, administrator or trustee in his stead, and a trustee company if so\nappointed by power of attorney may act within the scope of the authority\nconferred upon it as effectually as the executor, administrator or trustee\ncould have acted and may exercise all discretionary and other powers delegated\nby the principal as fully as the principal could have exercised them."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Executor etc. may appoint trustee company to discharge duties",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Executor etc. may appoint trustee company to discharge duties",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 15",
+      "text": "(1) Subject to this section, an executor or administrator acting under a\nprobate or letters of administration, a trustee, receiver, receiver and\nmanager, guardian of the estate of a minor, or committee or manager of the\nestate of a person of unsound mind or an incapable person may, with the consent\nof the Court, appoint a trustee company to perform and discharge all the acts\nand duties of the executor, administrator, trustee, receiver, receiver and\nmanager, guardian, committee or manager, as the case may be, and upon such an\nappointment the trustee company shall have power to perform and discharge all\nthose acts and duties.\n(2) Subsection (1) applies in relation to a probate or letters of\nadministration granted before or after the commencement of this Act and in\nrelation to a trustee, receiver, receiver and manager, guardian, committee or\nmanager appointed before or after the commencement of this Act.\n(3) No appointment may be made under this section if the testator in his will\nor the settlor of the trust, as the case may be, expressed the desire in the\nwill or trust instrument that a trustee company should not be appointed to\nperform and discharge acts and duties instead of the executor, administrator or\ntrustee.\n(4) Where a trustee company is appointed under this section to perform and\ndischarge the acts and duties of an office, the executor, administrator,\ntrustee, receiver, receiver and manager, guardian, committee or manager so\nappointing the trustee company shall be released from liability in respect of\nall acts done or omitted to be done by the trustee company acting under the\nappointment."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Who may represent trustee company in court etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Who may represent trustee company in court etc.",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 16",
+      "text": "(1) Where a trustee company applies for a grant of probate or letters of\nadministration or acts as executor, administrator, trustee, receiver, receiver\nand manager, guardian, committee, manager, surety, guarantor or in any other\nfiduciary capacity, the trustee company may be represented in any court or\nelsewhere by a director, secretary or other officer of the trustee company\nauthorised for that purpose by the board of directors.\n(2) Where in any of the circumstances referred to in subsection (1) a\ndeclaration, affidavit or statement is required to be made by a trustee\ncompany, whether on oath or otherwise, the declaration, affidavit or statement\nmay be made on behalf of the trustee company by a director, secretary or other\nofficer of the trustee company authorised for that purpose by the board of\ndirectors.\n(3) In each of the circumstances referred to in subsection (1), the members of\nthe board of directors shall be jointly and severally responsible to the Court\nand liable to be proceeded against by process in any court having jurisdiction\nfor the proper discharge of the duties of the trustee company as if such\nmembers of the board had jointly and severally applied for appointment or been\nappointed as executor, administrator, trustee, receiver, receiver and manager,\nguardian, committee, manager, surety or guarantor instead of the trustee\ncompany.\n(4) Notwithstanding the personal liability of any director or other officer of\na trustee company, the trustee company remains liable for any pecuniary loss\noccasioned through any breach or neglect of trust or duty committed by the\ntrustee company or any of its officers, whether such trust or duty is implied\nby the law or expressly conferred or imposed by the instrument under which the\ntrustee company acts."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Trustee company may be removed from office etc. as executor etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Trustee company may be removed from office etc. as executor etc.",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 17",
+      "text": "A trustee company that has been appointed executor or administrator, with or\nwithout a will annexed and whether by appointment, assignment, power of\nattorney, election or otherwise, shall be subject in all respects to the same\ncontrol and to removal or restraint from acting and generally to the\njurisdiction of the courts in the same manner as any other executor or\nadministrator."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Unclaimed estate property, how trustee company to deal with",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Unclaimed estate property, how trustee company to deal with",
+      "defined_term": null,
+      "structure_path": "Part II -- Powers and duties of trustee companies > Section 27",
+      "text": "(1) This section applies only to moneys and property that form part of an\nestate of which a trustee company is --\n(a) executor; or\n(b) administrator, with or without a will annexed and whether by appointment,\nassignment, power of attorney, election or otherwise.\n(2) All moneys that remain unclaimed by the person entitled to them for 2 years\nafter the time when those moneys became payable to that person shall, except\nwhere payment is restrained by injunction of a court of competent jurisdiction,\nbe paid by the trustee company to the Treasurer.\n(3) All property, other than moneys, that remains unclaimed by the person\nentitled to it for 2 years after the time when that property became available\nto that person shall, except where action by the trustee company under this\nsubsection is restrained by injunction of a court of competent jurisdiction or\nthe approval of the Treasurer is obtained, be sold without delay by the trustee\ncompany and the net proceeds paid to the Treasurer after deducting and\nretaining the reasonable costs of and incidental to the sale.\n(4) On paying moneys to the Treasurer in accordance with this section a trustee\ncompany shall be relieved from all further liability in respect of the moneys\nso paid.\n(5) The Treasurer shall deal with moneys received under this section in the\nsame manner as prescribed retained money is dealt with under the Unclaimed\nMoney Act 1990 and that Act shall apply accordingly.\n(6) A trustee company shall, not later than 2 months after the end of each\nfinancial year of the company, deliver to the Treasurer a statement of all\nunclaimed moneys to which subsection (1) applies that during that financial\nyear have been held by it and setting out particulars of the estates for which\nthe money has been received, the dates and amounts of payments to the Treasurer\nunder this section and, if any moneys have not been paid to the Treasurer as\nrequired by subsection (2) or (3), the reason for the delay.\n(7) A trustee company that, without reasonable excuse, refuses or fails to\ncomply with subsection (2), (3) or (6) commits an offence and is liable to a\nfine not exceeding $500 and $50 for each day during which the offence\ncontinues.\n             Part III -- Transfer of estate assets and liabilities\n                           Division 1 -- Preliminary"
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Terms used in Corporations Act have the same meaning in this Part",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Terms used in Corporations Act have the same meaning in this Part",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 1 -- Preliminary > Section 28",
+      "text": "If a term is given a meaning in the Corporations Act, it has the same meaning\nin this Part unless the contrary intention appears in this Part.\n                       Division 2 -- Compulsory transfers"
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Compulsory transfer if trustee company's licence cancelled",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Compulsory transfer if trustee company's licence cancelled",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 2 -- Compulsory transfers > Section 29",
+      "text": "(1) The purpose of this section is to facilitate compulsory transfers of estate\nassets and liabilities under the Corporations Act Part 5D.6.\n(2) This section applies if --\n(a) ASIC cancels the licence of a trustee company (the transferring company)\nand makes a determination under the Corporations Act section 601WBA that there\nis to be a transfer of estate assets and liabilities from the transferring\ncompany to another licensed trustee company (the receiving company); and\n(b) ASIC issues a certificate of transfer under the Corporations Act section\nSection 601WBG for the transfer; and\n(c) either or both of the transferring company or the receiving company are\nregistered in Western Australia.\n(3) When the certificate of transfer comes into force, the receiving company is\ntaken to be the successor in law of the transferring company, to the extent of\nthe transfer.\n(4) In particular --\n(a) if the transfer is a total transfer -- all the assets and liabilities of the\ntransferring company become respectively the assets and liabilities of the\nreceiving company without any transfer, conveyance or assignment; and\n(b) if the transfer is a partial transfer -- all the assets and liabilities of\nthe transferring company that are included in the list (referred to in the\nCorporations Act section 601WBG(2)(c)) included in, or attached to, the\ncertificate of transfer become respectively assets and liabilities of the\nreceiving company without any transfer, conveyance or assignment; and\n(c) to the extent of the transfer -- the duties, obligations, immunities, rights\nand privileges applying to the transferring company apply to the receiving\ncompany.\n(5) If the certificate of transfer includes provisions of a kind referred to in\nthe Corporations Act section 601WBG(3) --\n(a) specifying that particular things are to happen or are taken to be the\ncase, those things are taken to happen, or to be the case, in accordance with\nthose provisions; or\n(b) specifying a mechanism for determining things that are to happen or are\ntaken to be the case, things determined in accordance with that mechanism are\ntaken to happen, or to be the case, as determined in accordance with that\nmechanism."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Certificates evidencing operation of this Division",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Certificates evidencing operation of this Division",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 2 -- Compulsory transfers > Section 30",
+      "text": "(1) An authorised ASIC officer may, by a certificate in writing signed by the\nofficer, certify that a specific asset or liability has become an asset or\nliability of the receiving company under this Division.\n(2) For all purposes and in all proceedings, a certificate purporting to be\nissued under subsection (1) is evidence of the matters certified.\n(3) ASIC is empowered to authorise, in writing, a person who is a member of\nASIC, or of its staff, to issue certificates under this section."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Registration or record of transfer",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Registration or record of transfer",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 2 -- Compulsory transfers > Section 31",
+      "text": "The Registrar of Titles, the Registrar of Deeds and Transfers and any other\nperson or authority required or authorised under a law of the State to register\nor record transactions affecting assets or liabilities, or documents relating\nto such transactions, must, on application under this section accompanied by a\ncertificate issued under section 30, register or record in an appropriate\nmanner the transfer or transfers to which the certificate relates."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Exemption from State tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Exemption from State tax",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 2 -- Compulsory transfers > Section 32",
+      "text": "(1) In this section --\nState tax includes duty chargeable under the Duties Act 2008 and any other tax,\nduty, fee, levy or charge under a law of the State.\n(2) State tax is not payable in respect of a compulsory transfer of estate\nassets or liabilities facilitated under this Division.\n                       Division 3 -- Voluntary transfers"
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Voluntary transfers, regulations about",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Voluntary transfers, regulations about",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 3 -- Voluntary transfers > Section 33",
+      "text": "(1) The Governor may make regulations to facilitate the voluntary transfer of\nestate assets and liabilities from one trustee company (the transferring\ncompany) to another trustee company (the receiving company) if ASIC has made a\ndetermination under the Corporations Act allowing the transfer.\n(2) Without limiting the generality of subsection (1), the regulations may --\n(a) give effect to the transfer of estate assets and liabilities from the\ntransferring company to the receiving company; and\n(b) provide that the receiving company is to be taken to be the successor in\nlaw in relation to estate assets and liabilities of the transferring company,\nto the extent of the transfer; and\n(c) provide for the liquidation or dissolution of the transferring company; and\n(d) provide for the identification of estate assets or liabilities of the\ntransferring company; and\n(e) provide for the transfer of estate assets and liabilities of the\ntransferring company; and\n(f) provide for the registration or recording of the transfer (with or without\nformal application) by the Registrar of Titles or any other person or\nauthority; and\n(g) provide for evidence of matters relating to the transfer; and\n(h) provide for relief from the consequences of anything done or allowed under\nregulations made under this section; and\n(i) provide for payment, or exemption from payment, of a State tax, as defined\nin section 32(1), in respect of the transfer; and\n(j) provide for any other matter of a savings or transitional nature consequent\non the transfer; and\n(k) provide for and give effect to the transfer of duties, obligations,\nimmunities, rights and privileges of the transferring company from the\ntransferring company to the receiving company.\n(3) Regulations made under this section have effect despite anything in a\ncontract, deed, undertaking, agreement or other instrument.\n               Division 4 -- Relationship of Part with other laws"
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Relationship of Part with other laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Relationship of Part with other laws",
+      "defined_term": null,
+      "structure_path": "Part III -- Transfer of estate assets and liabilities > Division 4 -- Relationship of Part with other laws > Section 34",
+      "text": "(1) This Part has effect despite anything in a contract, deed, undertaking,\nagreement or other instrument.\n(2) Nothing done by or under this Part --\n(a) places a receiving company, a transferring company or another person in\nbreach of contract or confidence or otherwise makes any of them guilty of a\ncivil wrong; or\n(b) places a receiving company, a transferring company or another person in\nbreach of --\n(i) a law of the State; or\n(ii) a contractual provision prohibiting, restricting or regulating the\nassignment or transfer of an asset or liability or the disclosure of\ninformation;\nor\n(c) releases a surety, wholly or partly, from all or any of the surety's\nobligations.\n(3) Without limiting subsection (1), if, apart from this section, the advice or\nconsent of a person would be necessary in a particular respect, the advice is\ntaken to have been obtained or the consent is taken to have been given.\n                           Part VII -- Miscellaneous"
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Trust funds held by trustee company may be pooled for investment",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Trust funds held by trustee company may be pooled for investment",
+      "defined_term": null,
+      "structure_path": "Part VII -- Miscellaneous > Section 38",
+      "text": "(1) Where a trustee company holds moneys belonging to more than one estate upon\ntrusts which require or permit the investment of those moneys, the trustee\ncompany may invest such moneys as one fund and distribute the income arising\nrateably among the estates to which the moneys so invested belong; and any loss\narising from any such investment shall likewise be borne rateably by those\nestates.\n(2) Any such investment shall be made either in investments for the time being\nauthorised by the Trustees Act 1962 for the investment of trust funds or in\ninvestments authorised by each of the trust instruments."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Costs of applications made under this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Costs of applications made under this Act",
+      "defined_term": null,
+      "structure_path": "Part VII -- Miscellaneous > Section 41",
+      "text": "The Court may order the costs and expenses of and incidental to any application\nunder this Act to the Court to be paid or raised out of the estate in respect\nof which the application is made, or out of the income of the estate, or to be\nborne and paid in such a manner and by such person as the Court considers just."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - False or misleading statements in documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "False or misleading statements in documents",
+      "defined_term": null,
+      "structure_path": "Part VII -- Miscellaneous > Section 43",
+      "text": "(1) A person who, in a document required by or for the purposes of this Act or\nlodged with the Commissioner, makes or authorises the making of a statement\nthat to his knowledge is false or misleading in a material particular, or omits\nor authorises the omission of any matter or thing without which the document is\nto his knowledge misleading in a material respect, is guilty of an offence.\nPenalty: $10 000 or imprisonment for 2 years, or both.\n(2) A person who makes or authorises the making of a statement that is based on\ninformation that to his knowledge --\n(a) is false or misleading in a material particular; or\n(b) has omitted from it a matter or thing the omission of which renders the\ninformation misleading in a material respect,\nshall, for the purposes of subsection (1), be deemed to have made or authorised\nthe making of a statement that to his knowledge was false or misleading in a\nmaterial particular.\n(3) A person who, in a document required by or for the purposes of this Act or\nlodged with the Commissioner --\n(a) makes or authorises the making of a statement that is false or misleading\nin a material particular; or\n(b) omits or authorises the omission of any matter or thing without which the\ndocument is misleading in a material respect,\nwithout having taken reasonable steps to ensure that the statement was not\nfalse or misleading or to ensure that the statement did not omit any matter or\nthing without which the document would be misleading, as the case may be, is\nguilty of an offence.\nPenalty: $5 000 or imprisonment for 1 year, or both.\n(4) A person who makes or authorises the making of a statement without having\ntaken reasonable steps to ensure that the information on which the statement\nwas based --\n(a) was not false or misleading in a material particular; and\n(b) did not have omitted from it a matter or thing the omission of which would\nrender the information misleading in a material respect,\nshall, for the purposes of subsection (3), be deemed to have made or authorised\nthe making of a statement without having taken reasonable steps to ensure that\nthe statement was not false or misleading.\n(5) For the purposes of subsections (1) and (3), where --\n(a) at a meeting, a person votes in favour of a resolution approving, or\notherwise approves, a document required by or for the purposes of this Act or\nrequired to be lodged with the Commissioner; and\n(b) the document contains a statement that, to the person's knowledge, is false\nor misleading in a material particular, or omits any matter or thing without\nwhich the document is, to the person's knowledge, misleading in a material\nrespect,\nthe person shall be deemed to have authorised the making of the statement or\nthe omission of the matter or thing."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Criminal liability of trustee company officers",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Criminal liability of trustee company officers",
+      "defined_term": null,
+      "structure_path": "Part VII -- Miscellaneous > Section 44",
+      "text": "(1) Where a trustee company is guilty of an offence against this Act --\n(a) every officer of the trustee company (including a person who has\nsubsequently ceased to be an officer of the trustee company) who was in any\nway, by act or omission, directly or indirectly knowingly concerned in or party\nto the commission of the offence is guilty of an offence; and\n(b) the penalty applicable to an offence committed by an officer under\nparagraph (a), is the penalty applicable to the offence of which the trustee\ncompany is guilty.\n(2) For the purposes of this section, officer in relation to a trustee company\nincludes a member of the board of directors, a principal executive officer and\na secretary."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part VII -- Miscellaneous > Section 45",
+      "text": "The Governor may make regulations prescribing all matters and things that by\nthis Act are required or permitted to be prescribed or that are necessary or\nconvenient to be prescribed for giving effect to this Act and in particular for\nand with respect to --\n(a) the form and content of statements and documents required to be lodged with\nthe Commissioner;\n(b) fees to be paid for the lodgment of statements or documents with the\nCommissioner.\n  Part VIII -- Transitional provisions for the Trustee Companies (Commonwealth\n                        Regulation) Amendment Act 2011"
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Term used: amending Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Term used: amending Act",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Transitional provisions for the Trustee Companies (Commonwealth > Section 46",
+      "text": "In this Part --\namending Act means the Trustee Companies (Commonwealth Regulation) Amendment\nAct 2011."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Transitional provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Transitional provisions",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Transitional provisions for the Trustee Companies (Commonwealth > Section 47",
+      "text": "(1) Immediately before the commencement of section 4 of the amending Act a\ntrustee company was a body corporate listed in Schedule 1 (a Schedule 1 trustee\ncompany).\n(2) After the commencement of section 4 of the amending Act, a trustee company\nmeans a licensed trustee company as defined in the Corporations Act Section 601RAA.\n(3) Each of the Schedule 1 trustee companies is, and was before the repeal of\nSchedule 1 by section 16 of the amending Act, a licensed trustee company as\ndefined in the Corporations Act section 601RAA.\n(4) Accordingly --\n(a) the repeal of Schedule 1 does not affect the appointment of a Schedule 1\ntrustee company made before the repeal as --\n(i) the executor of a will, or the administrator of an estate of a deceased\nperson; or\n(ii) a trustee, agent, attorney, manager or receiver; or\n(iii) the guardian of the estate of a minor; or\n(iv) a surety or guarantor; or\n(v) the administrator, committee, guardian or manager of the estate of a person\nwho is unable to manage his or her own affairs;\nand\n(b) this Act, as amended by the amending Act, continues to apply to a\nSchedule 1 trustee company; and\n(c) except to the extent of any inconsistency with the Corporations Act --\n(i) any duties, obligations, immunities, rights and privileges of a Schedule 1\ntrustee company arising before the repeal of that Schedule are not affected by\nthe repeal; and\n(ii) the assets and liabilities of a Schedule 1 trustee company are not\naffected by the repeal; and\n(iii) any action taken or notice given by a Schedule 1 trustee company before\nthe repeal of that Schedule or the amendment of this Act by the amending Act is\nnot affected by the repeal or amendment;\nand\n(d) proceedings relating to a Schedule 1 trustee company that have been\ncommenced but not determined before the repeal of that Schedule are not\naffected by the repeal."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Regulations for transitional matters",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Regulations for transitional matters",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Transitional provisions for the Trustee Companies (Commonwealth > Section 48",
+      "text": "(1) In this section --\ncommencement day means --\n(a) in the case of transitional regulations made under subsection (2)(a) -- the\nday on which the amending provision commences; or\n(b) in the case of transitional regulations made under subsection (2)(b) -- the\nday on which the Commonwealth provision commences;\ngazettal day means the day on which transitional regulations are published in\nthe Gazette;\ntransitional matter means a matter of a transitional, savings or application\nnature;\ntransitional regulations means regulations made under subsection (2).\n(2) Regulations made under this Act may prescribe anything else required,\nnecessary or convenient to be prescribed in relation to a transitional matter\nin connection with --\n(a) the amendment of this Act by a provision of the amending Act (the amending\nprovision); or\n(b) the interaction between this Act and a provision of an Act of the\nCommonwealth (the Commonwealth provision).\n(3) If transitional regulations provide that a state of affairs is to be taken\nto have existed, or not to have existed, on and from a day (the operative day)\nthat is earlier than Gazettal day, the regulations have effect according to\ntheir terms as long as the operative day is not earlier than the commencement\nday.\n(4) If regulations contain a provision referred to in subsection (3), the\nprovision does not operate so as to --\n(a) affect in a manner prejudicial to any person (other than the State or an\nauthority of the State), the rights of that person existing before Gazettal\nday; or\n(b) impose liabilities on any person (other than the State or an authority of\nthe State), in respect of anything done or omitted to be done before Gazettal\nday.\n                                     dline\n^1 This is a compilation of the Trustee Companies Act 1987 and includes the\namendments made by the other written laws referred to in the following table.\nThe table also contains information about any reprint."
+    }
+  ]
+}

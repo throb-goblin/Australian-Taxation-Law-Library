@@ -1,0 +1,153 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/ffwta1997339/",
+    "register_url": "https://www.legislation.gov.au/C2004A05225/latest/text",
+    "source": "Franchise Fees Windfall Tax (Collection) Act 1997 (100000063).txt",
+    "filename": "Franchise Fees Windfall Tax (Collection) Act 1997 (100000063).json",
+    "name": "Franchise Fees Windfall Tax (Collection) Act 1997",
+    "citation": "Franchise Fees Windfall Tax (Collection) Act 1997"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 1",
+      "text": "This Act may be cited as the Franchise Fees Windfall Tax\n         (Collection) Act 1997."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 2",
+      "text": "This Act is taken to have commenced on 5Â August 1997."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - This Act binds the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "This Act binds the Crown",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 3",
+      "text": "This Act binds the Crown in each of its capacities."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Definitions",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 4",
+      "text": "(1)   In this Act, unless the contrary intention appears:\n         Commissioner means the Commissioner of Taxation.\n         liable to repay has the meaning given by subsectionÂ (3).\n         State includes the Australian Capital Territory and the Northern\n         Territory.\n         State franchise law has the meaning given by subsectionÂ (2).\n         windfall tax means the tax payable under this Act.\n      (2)   The following are State franchise laws for the purposes of this\n         Act:\n      (a)   the Business Franchise (Liquor) Act 1993 of the Australian\n             Capital Territory;\n      (b)   the Business Franchise (Tobacco and Petroleum Products) Act\n             1984 of the Australian Capital Territory;\n      (c)   the Business Franchise Licenses (Petroleum Products) Act 1987\n             of New South Wales;\n      (d)   the Business Franchise Licences (Tobacco) Act 1987 of New South\n             Wales;\n      (e)   the Liquor Act 1982 of New South Wales;\n      (f)   the Business Franchise Act 1978 of the Northern Territory;\n      (g)   the Liquor Act 1978 of the Northern Territory;\n      (h)   the Liquor Act 1992 of Queensland;\n      (i)   the Tobacco Products (Licensing) Act 1988 of Queensland;\n      (j)   the Business Franchise (Petroleum Products) Act 1979 of South\n             Australia;\n      (k)   the Liquor Licensing Act 1985 of South Australia;\n      (l)   the Petroleum Products Regulation Act 1995 of South Australia;\n      (m)   the Tobacco Products (Licensing) Act 1986 of South Australia;\n      (n)   the Tobacco Products Regulation Act 1997 of South Australia;\n      (o)   the Liquor and Accommodation Act 1990 of Tasmania;\n      (p)   the Tobacco Business Franchise Licences Act 1980 of Tasmania;\n      (q)   the Petroleum Products Business Franchise Licences Act 1981 of\n             Tasmania;\n      (r)   the Business Franchise (Petroleum Products) Act 1979 of\n             Victoria;\n      (s)   the Business Franchise (Tobacco) Act 1974 of Victoria;\n      (t)   the Liquor Control Act 1987 of Victoria;\n      (u)   the Business Franchise (Tobacco) Act 1975 of Western Australia;\n      (v)   the Liquor Licensing Act 1988 of Western Australia;\n      (w)   the Transport Co-ordination Act 1966 of Western Australia.\n      (3)   For the purposes of this Act, a State is liable to repay an\n         amount to a person if:\n      (a)   the State is liable to repay the amount to the person; or\n      (b)   the State is required or permitted to offset the amount against\n             other amounts that are owing, or may become owing, to the State\n             by the person; or\n      (c)   the State is required or permitted to apply the amount for the\n             benefit of the person in any other way."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Administration",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Administration",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 5",
+      "text": "The Commissioner has the general administration of this Act.\n         Note:    An effect of this provision is that people who acquire\n                information under this Act are subject to the\n                confidentiality obligations and exceptions in DivisionÂ 355\n                in ScheduleÂ 1 to the Taxation Administration Act 1953.\nPartÂ 2âLiability"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Taxable amount",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Taxable amount",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 6",
+      "text": "(1)   A taxable amount is any amount that meets all the following\n         conditions:\n      (a)   a State is liable to repay the amount to a person (the\n             taxpayer) because a State franchise law is wholly or partly\n             invalid because of sectionÂ 90 of the Constitution;\n      (b)   the amount is by way of repayment of an amount paid under the\n             State franchise law before 5Â August 1997 in respect of a\n             licensing period commencing before 5Â August 1997;\n      (c)   the amount is claimed by the taxpayer from the State, or a\n             court orders the State to pay the amount to the taxpayer.\n      (2)   A taxable amount is reduced by deducting any part of it that a\n         State would have been liable to repay even if the State franchise\n         law were wholly valid.\n         Example: An amount that is repayable solely because of an\n                overpayment by the taxpayer would be deducted."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Reduction of taxable amountâliquor franchise fees",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Reduction of taxable amountâliquor franchise fees",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 7",
+      "text": "(1)   If a taxable amount calculated under sectionÂ 6 relates to a\n         liquor franchise fee for which the licensing period ends after\n         6Â August 1997, then the taxable amount is reduced by an amount\n         calculated as follows:\n      (2)   If:\n      (a)   a State franchise law required or permitted the payment by\n             instalments of a liquor franchise fee for a licensing period\n             (the actual licensing period); and\n      (b)   at least one of those instalments was payable after 6Â August\n             1997;\n         then this section applies as if each of the following periods were\n         a separate licensing period (in place of the actual licensing\n         period):\n      (c)   the period starting on the day on which an instalment was\n             payable and ending immediately before the day on which the next\n             instalment was payable;\n      (d)   the period starting on the day on which last instalment was\n             payable and ending at the end of the actual licensing period.\n      (3)   In this section:\n         liquor franchise fee means a fee payable under a law specified in\n         paragraph 4(2)(a), (e), (g), (h), (k), (o), (t) or (v)."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Liability to windfall tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Liability to windfall tax",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 8",
+      "text": "(1)   The taxpayer in respect of a taxable amount is the person to\n         whom the State was liable to repay the taxable amount.\n         Note:    SectionÂ 9 extinguishes the liability of the State to repay\n                the taxable amount.\n      (2)   The person who is the taxpayer in respect of a taxable amount\n         is liable to pay windfall tax on the taxable amount.\nPartÂ 3âCollection"
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - State must withhold windfall tax from taxable amounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "State must withhold windfall tax from taxable amounts",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 9",
+      "text": "State must withhold and remit windfall tax\n      (1)   A State that is liable to repay a taxable amount must not repay\n         or otherwise apply the taxable amount without first having deducted\n         the tax on the taxable amount.\n      (2)   As soon as practicable after making a deduction under\n         subsectionÂ (1), the State must notify the taxpayer in writing that\n         the deduction was made.\n      (3)   A State that makes a deduction under subsectionÂ (1) must remit\n         it to the Commissioner within 21 days after the end of the month in\n         which the deduction is made. The remitted tax must be accompanied\n         by a statement that:\n      (a)   sets out the amount deducted; and\n      (b)   identifies the taxpayer.\n         State discharged from liability to account\n      (4)   When a State makes a deduction from a taxable amount under\n         subsectionÂ (1) (or purportedly under subsectionÂ (1)), the State is\n         discharged from any liability to pay or account for the amount\n         deducted to any person other than the Commissioner."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Taxpayer entitled to credit for amount deducted by State",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Taxpayer entitled to credit for amount deducted by State",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 10",
+      "text": "(1)   When a State makes a deduction from a taxable amount under\n         sectionÂ 9 (or purportedly under sectionÂ 9), the taxpayer is\n         entitled to a credit equal to the amount deducted.\n      (2)   However, the taxpayer is not entitled to a credit for any\n         amount purportedly deducted under sectionÂ 9 in relation to an\n         amount paid under a valid State franchise law.\n      (3)   The credit is a debt due to the taxpayer by the Commissioner on\n         behalf of the Commonwealth.\n      (4)   The Commissioner may apply some or all of the credit against\n         the taxpayerâs liability to windfall tax (whether or not that\n         liability is in respect of the taxable amount that gives rise to\n         the credit). The Commissioner must refund any amount not applied."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Regulations for collection etc. of unpaid windfall tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Regulations for collection etc. of unpaid windfall tax",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 11",
+      "text": "The regulations may provide for the collection and recovery of\n         any unpaid windfall tax. In particular, the regulations may:\n      (a)   prescribe the time when windfall tax is due for payment; and\n      (b)   prescribe penalties for late payment of windfall tax (not\n             exceeding an amount calculated at the rate of 20% per annum).\n         Note:    Windfall tax would normally be collected under sectionÂ 9.\nPartÂ 4âMiscellaneous"
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 12",
+      "text": "After the end of each financial year, the Commissioner must\n         give a report to the Minister, for presentation to the Parliament,\n         on the operation of this Act during the year."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Arrangements with States",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Arrangements with States",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 13",
+      "text": "(1)   The Commissioner may make an arrangement with an appropriate\n         officer or authority of a State about any matter in connection with\n         the administration of this Act.\n      (2)   In particular, an arrangement may relate to the Commissionerâs\n         delegation of powers or functions under this Act or the\n         regulations.\n         Note:    SectionÂ 8 of the Taxation Administration Act 1953 contains\n                the Commissionerâs delegation power."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 1âPreliminary 1 > Section 14",
+      "text": "(1)   The Governor-General may make regulations prescribing matters:\n      (a)   required or permitted by this Act to be prescribed; or\n      (b)   necessary or convenient to be prescribed for carrying out or\n             giving effect to this Act.\n      (2)   In particular, the regulations may prescribe penalties for\n         offences against the regulations by way of fines of up to 10\n         penalty units.\nNotes to the Franchise Fees Windfall Tax (Collection) Act 1997\nNote 1\nThe Franchise Fees Windfall Tax (Collection) Act 1997 as shown in this\ncompilation comprises Act No.Â 132, 1997 amended as indicated in the Tables\nbelow.\nTable of Acts\n|Act              |Number  |Date      |Date of    |Applica|\n|                 |and year|of Assent |commencemen|tion,  |\n|                 |        |          |t          |saving |\n|                 |        |          |           |or     |\n|                 |        |          |           |transit|\n|                 |        |          |           |ional  |\n|                 |        |          |           |provisi|\n|                 |        |          |           |ons    |\n|Franchise Fees   |132,    |19 Sept   |5 Aug 1997 |       |\n|Windfall Tax     |1997    |1997      |           |       |\n|(Collection) Act |        |          |           |       |\n|1997             |        |          |           |       |\n|Tax Laws         |145,    |16 Dec    |ScheduleÂ 2 |â      |\n|Amendment        |2010    |2010      |(itemÂ 21): |       |\n|(Confidentiality |        |          |17 Dec 2010|       |\n|of Taxpayer      |        |          |           |       |\n|Information) Act |        |          |           |       |\n|2010             |        |          |           |       |\nTable of Amendments\n|ad. = added or inserted     am. = amended     rep. =      |\n|repealed     rs. = repealed and substituted               |\n|Provision affected|How affected                           |\n|PartÂ 1            |                                       |\n|Note to s. 5      |ad. No.Â 145, 2010                      |"
+    }
+  ]
+}

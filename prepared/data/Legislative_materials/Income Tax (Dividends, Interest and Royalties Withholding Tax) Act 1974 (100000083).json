@@ -1,0 +1,73 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/itiarwta1974590/",
+    "register_url": "https://www.legislation.gov.au/C2004A00086/latest/text",
+    "source": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 (100000083).txt",
+    "filename": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 (100000083).json",
+    "name": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974",
+    "citation": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 > Section 1",
+      "text": "This Act may be cited as the Income Tax (Dividends, Interest\n         and Royalties Withholding Tax) Act 1974."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 > Section 2",
+      "text": "This Act shall come into operation on the day on which it\n         receives the Royal Assent."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Definition",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definition",
+      "defined_term": null,
+      "structure_path": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 > Section 4",
+      "text": "In this Act, the Assessment Act means the Income Tax Assessment\n         Act 1936."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 > Section 5",
+      "text": "The Assessment Act is incorporated and shall be read as one\n         with this Act."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 > Section 6",
+      "text": "The tax known as income tax, to the extent that that tax is\n         payable in accordance with sectionÂ 128B of the Assessment Act, is\n         imposed on income to which that section applies."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Rates of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Rates of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974 > Section 7",
+      "text": "The rates of income tax imposed by this Act are:\n      (a)   in respect of income to which subsection 128B(4) of the\n             Assessment Act appliesâ30%; and\n      (b)   in respect of income to which subsectionÂ (5) of that section\n             appliesâ10%; and\n      (c)   in respect of income to which subsectionÂ (5A) of that section\n             appliesâ30%.\nNotes to the Income Tax (Dividends, Interest and Royalties Withholding Tax)\nAct 1974\nNote 1\nThe Income Tax (Dividends, Interest and Royalties Withholding Tax) Act 1974\nas shown in this compilation comprises Act No.Â 27, 1974 amended as\nindicated in the Tables below.\nTable of Acts\n|Act             |Number  |Date     |Date of    |Applica|\n|                |and year|of Assent|commencemen|tion,  |\n|                |        |         |t          |saving |\n|                |        |         |           |or     |\n|                |        |         |           |transit|\n|                |        |         |           |ional  |\n|                |        |         |           |provisi|\n|                |        |         |           |ons    |\n|Income Tax      |27, 1974|1 Aug    |1 Aug 1974 |       |\n|(Dividends and  |        |1974     |           |       |\n|Interest        |        |         |           |       |\n|Withholding Tax)|        |         |           |       |\n|Act 1974        |        |         |           |       |\n|Income Tax      |199,    |21 Dec   |24 Dec 1992|â      |\n|(Dividends and  |1992    |1992     |(see s. 2) |       |\n|Interest        |        |         |           |       |\n|Withholding Tax)|        |         |           |       |\n|Amendment Act   |        |         |           |       |\n|1992            |        |         |           |       |\n|Tax Laws        |143,    |24 Sept  |ScheduleÂ 7 |â      |\n|Amendment (2007 |2007    |2007     |(itemsÂ 69â7|       |\n|Measures No.Â 4) |        |         |2): Royal  |       |\n|Act 2007        |        |         |Assent     |       |\nTable of Amendments\n|ad. = added or inserted      am. = amended      rep. =|\n|repealed    rs. = repealed and substituted            |\n|Provision affected|How affected                        |\n|Title             |am. No.Â 199, 1992                   |\n|S. 1              |am. No.Â 199, 1992                   |\n|S. 3              |rep. No.Â 143, 2007                  |\n|S. 4              |am. No.Â 143, 2007                   |\n|S. 6              |rs. No.Â 199, 1992                   |\n|S. 7              |am. No.Â 199, 1992; No.Â 143, 2007    |\n|S. 8              |rep. No.Â 143, 2007                  |"
+    }
+  ]
+}

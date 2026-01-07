@@ -5,24 +5,29 @@ Register: https://www.legislation.gov.au/C2004A03048/latest/text
 Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download.cgi/download/au/legis/cth/consol_act/trtaa1985400.txt
 When scraped: 2025-12-30T03:34:52.385912Z
 
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985 
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985 
-Section 1
-Short title
-
+TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
+- TABLE OF PROVISIONS
+Section 1. Short title
+Section 2. Commencement
+Section 3. Interpretation
+Section 4. Application of tax legislation
+Section 5. Primary taxable amounts
+Section 6. Secondary taxable amounts
+Section 7. Requests to eliminate trust recoupment tax on certain taxable amounts
+Section 8. Liability to pay trust recoupment tax
+Section 9. Reduction of liability where tax paid
+Section 10. Right of contribution and apportionment of liability
+Section 12. Penalty tax
+Section 13. Arrangements etc. to avoid operation of Act
+Section 14. Regulations
+An Act relating to the assessment and collection of a tax in respect of income of certain trusts
+- LONG TITLE
+An Act relating to the assessment and collection of a tax in respect of income of certain trusts
+Section 1 Short title
   This Act may be cited as the Trust Recoupment Tax Assessment Act 1985.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 2
-Commencement
-
+Section 2 Commencement
   This Act shall come into operation on the day on which it receives the Royal Assent.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 3
-Interpretation
-
+Section 3 Interpretation
  (1) In this Act, unless the contrary intention appears:
 "applied penalty tax" means a penalty under Part 4-25 in Schedule 1 to the Taxation Administration Act 1953 in relation to trust recoupment tax.
 "Assessment Act" means the Income Tax Assessment Act 1936 or the Income Tax Assessment Act 1997 .
@@ -76,11 +81,7 @@ it would be concluded that the person, or any of the persons, who entered into o
  (a) a reference to the carrying out of a scheme or a part of a scheme by a person shall be read as including a reference to the carrying out of a scheme or a part of a scheme by a person together with another person or other persons; and
  (b) a reference to a scheme or a part of a scheme being entered into or carried out by a person for a particular purpose shall be read as including a reference to a scheme or a part of a scheme being entered into or carried out by the person for 2 or more purposes of which that particular purpose is the dominant purpose.
  (6) For the purposes of this Act, trust recoupment tax that has been assessed shall be deemed to be payable notwithstanding that it has not become due and payable.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 4
-Application of tax legislation
-
+Section 4 Application of tax legislation
  (1) Unless the contrary intention appears in this Act, sections  6 and 7A, Part II, section 21, Part IV, section 204, and Parts VII and VIII of the Assessment Act, Part  IIA of, and Part 4-15 in Schedule 1 to, the Taxation Administration Act 1953 , and regulations made under those Acts, apply for the purposes of the assessment and collection of trust recoupment tax and penalty tax, in like manner, mutatis mutandis, as those provisions apply for the purposes of the assessment and collection of income tax under the Assessment Act.
  (2) A reference in this Act to a provision of the Assessment Act or of the Taxation Administration Act 1953 shall, unless the contrary intention appears, be read as a reference to that provision in its application, in accordance with subsection  (1), for the purposes of this Act.
  (3) For the purposes of section  14 of the Assessment Act, this Act shall be deemed to be part of the Assessment Act.
@@ -95,11 +96,7 @@ Application of tax legislation
  (d) penalty tax.
  (9) For the purposes of the application of any of the provisions of the Assessment Act  or of the Taxation Administration Act 1953 in accordance with subsection (1), where 2 or more persons are jointly and severally liable to pay trust recoupment tax, or penalty tax, on a secondary taxable amount, service of a notice of assessment or any other notice in respect of that liability on any of those persons shall be deemed to be service of the notice on each of those persons.
  (10) The validity of an assessment of the trust recoupment tax or penalty tax payable on a secondary taxable amount by the persons included in an eligible beneficiaries class in relation to that secondary taxable amount is not affected by reason that the notice of assessment identifies only one or some of the persons included in that eligible beneficiaries class.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 5
-Primary taxable amounts
-
+Section 5 Primary taxable amounts
  (1) Subject to subsections  (2) and (3), where:
  (a) at any time, whether before or after the commencement of this Act, a beneficiary of a trust estate had a vested and indefeasible interest in any of the income of the trust estate of a year of income (in this subsection referred to as the relevant year of income);
  (b) the beneficiary was not presently entitled to that income but would, apart from this section and subsection  100A(1) of the Assessment Act, have been deemed for the purposes of that Act to be presently entitled to that income;
@@ -142,11 +139,7 @@ the present entitlement of the beneficiary to so much of the increased amount as
  (b) income of the trust estate was paid to, or applied for the benefit of, the beneficiary and the amount (in this subsection referred to as the increased amount) of that income exceeds the amount (in this subsection referred to as the original amount) that would have been, or could reasonably be expected to have been, paid to, or applied for the benefit of, the beneficiary if the tax avoidance scheme had not been entered into or if an act, transaction or circumstance that occurred as part of, in connection with or as a result of the tax avoidance scheme had not occurred;
 so much of the increased amount as exceeds the original amount shall be taken to be income of the trust estate that was paid to, or applied for the benefit of, the beneficiary as a result of the tax avoidance scheme.
  (8) A primary taxable amount may be taken to exist in relation to the trustee of a trust estate notwithstanding that the trust estate has ceased to exist.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 6
-Secondary taxable amounts
-
+Section 6 Secondary taxable amounts
  (1) Where:
  (a) a primary taxable amount exists in relation to the trustee of a trust estate in relation to a year of income; and
  (b) either of the following conditions is satisfied:
@@ -174,11 +167,7 @@ a secondary taxable amount shall be taken to exist in relation to the eligible b
  (7) For the purposes of this section, a trust estate is a holding trust estate in relation to another trust estate at a particular time if the trustee of the first -mentioned trust estate has a beneficial interest in the other trust estate at that time.
  (8) For the purposes of subsection  (7), where the trustee of a trust estate has a beneficial interest in a second trust estate and the trustee of the second trust estate has a beneficial interest in a third trust estate (including a beneficial interest that the trustee of the second trust estate has in the third trust estate by another application or other applications of this subsection), the trustee of the first -mentioned trust estate shall be deemed to have a beneficial interest in the third trust estate.
  (9) In this section, unless the contrary intention appears, trust recoupment tax includes late payment tax and penalty tax.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 7
-Requests to eliminate trust recoupment tax on certain taxable amounts
-
+Section 7 Requests to eliminate trust recoupment tax on certain taxable amounts
  (1) Subject to subsections  (3) and (5), where:
  (a) a primary taxable amount exists in relation to the trustee of a trust estate (in this subsection referred to as the relevant trust estate); and
  (b) if there had been a distribution (in this subsection referred to as the income distribution) at the relevant distribution time of income of the relevant trust estate of an amount equal to the primary taxable amount, an eligible person or eligible persons would have received, or might reasonably be expected to have received, the whole or a part of the income distribution if there had been successive distributions of the relative parts of the income distribution to and by each of any trustees, not being prescribed persons, interposed between the relevant trust estate and the eligible person or eligible persons;
@@ -262,18 +251,10 @@ subsections (7) and (8) have effect in relation to the request as if:
 "eligible person" means a prescribed person or a company not being a prescribed person.
 "replacement company", in relation to a substitution request, means a company that is not a party to the request but would, but for subsection  (3), be entitled to be a party to the request.
 "substitution request" means a request under subsection (1) any of the parties to which is a party by virtue only of the application of subsection  (3).
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 8
-Liability to pay trust recoupment tax
-
+Section 8 Liability to pay trust recoupment tax
  (1) Subject to this Act, where a primary taxable amount, an elected taxable amount or a company taxable amount exists in relation to a person, the person is liable to pay the tax imposed on that taxable amount by the Trust Recoupment Tax Act 1985.
  (2) Subject to this Act, where a secondary taxable amount exists in relation to an eligible beneficiaries class, the persons included in that class are jointly and severally liable to pay the tax imposed on that amount by the Trust Recoupment Tax Act 1985 .
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 9
-Reduction of liability where tax paid
-
+Section 9 Reduction of liability where tax paid
  (1) Where:
  (a) trust recoupment tax is or was payable on a secondary taxable amount and trust recoupment tax is payable on the primary taxable amount by reference to trust recoupment tax on which the secondary taxable amount was ascertained; and
  (b) an amount of trust recoupment tax on that primary taxable amount is paid;
@@ -284,11 +265,7 @@ there shall be deemed to be applied, or to have been applied, in reduction of th
 an amount equal to the amount paid as mentioned in paragraph (b) shall be deemed to be applied, or to have been applied, in reduction of the trust recoupment tax that is or was payable on the primary taxable amount.
  (3) Where under this section an amount is deemed to be applied, or to have been applied, in reduction of the trust recoupment tax that is or was payable on a taxable amount, being trust recoupment tax that includes or included late payment tax, the amount shall, to the extent to which it does not exceed the amount of that late payment tax, be deemed to be applied, or to have been applied, in reduction of that late payment tax and the balance (if any) shall be deemed to be applied, or to have been applied, in reduction of the remaining trust recoupment tax.
  (4) In this section, trust recoupment tax includes late payment tax and penalty tax.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 10
-Right of contribution and apportionment of liability
-
+Section 10 Right of contribution and apportionment of liability
  (1) Where:
  (a) the persons included in an eligible beneficiaries class are jointly and severally liable to pay trust recoupment tax on a secondary taxable amount; and
  (b) a person included in that eligible beneficiaries class has paid any of that trust recoupment tax;
@@ -300,11 +277,7 @@ the person referred to in paragraph (b) may, in a court of competent jurisdictio
  (ii) any other relevant circumstances;
   determine, on just and equitable grounds, the respective proportions of the amount of the trust recoupment tax that the co -defendants are liable to pay.
  (3) In this section trust recoupment tax includes late payment tax and penalty tax.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 12
-Penalty tax
-
+Section 12 Penalty tax
  (1) Where:
  (a) for the purpose of making an assessment, the Commissioner has calculated the trust recoupment tax that is assessable to a person or persons in relation to a taxable amount, not being a secondary taxable amount arising under subsection  6(3);
  (b) the tax avoidance scheme to which the taxable amount relates was entered into after 28  April 1983 and before the commencement of this Act;
@@ -347,11 +320,7 @@ the person is liable to pay, by way of penalty, additional tax equal to:
  (8) Notice of an assessment made in respect of a person or persons under subsection  (7) may be incorporated in notice of any other assessment made in respect of the person or persons under this Act or the Assessment Act.
  (9) The Commissioner may, in the Commissioner&#39;s discretion, remit the whole or any part of the additional tax payable by a person or persons under a provision of this section, but, for the purposes of the application of subsection  33(1) of the Acts Interpretation Act 1901 to the power of remission conferred by this subsection, nothing in this Act shall be taken to preclude the exercise of the power at a time before an assessment is made under subsection  (7) of the additional tax.
  (10) In this section, index number, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of the quarter.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 13
-Arrangements etc. to avoid operation of Act
-
+Section 13 Arrangements etc. to avoid operation of Act
  (1) Where:
  (a) a scheme entered into or carried out by a person after 28  April 1983 would, but for this section, have the effect of in any way, directly or indirectly, defeating, evading or avoiding any liability of the person to pay trust recoupment tax; and
  (b) it would be reasonable to conclude or infer that the person entered into or carried out the scheme for the purpose of in any way, directly or indirectly, defeating, evading or avoiding any liability of the person to pay trust recoupment tax or future trust recoupment tax;
@@ -388,25 +357,18 @@ then, in any prescribed recovery proceedings, the transfer shall be treated as b
  (b) proceedings for enforcement of a judgment given in proceedings referred to in paragraph  (a); or
  (c) proceedings by a trustee within the meaning of the Bankruptcy Act 1966 or by a liquidator, being proceedings for the benefit of the Crown, the Commissioner or a Deputy Commissioner or for the benefit of persons including the Crown, the Commissioner or a Deputy Commissioner.
 "trust recoupment tax" includes applied penalty tax, late payment tax and penalty tax.
-
-TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
-Section 14
-Regulations
-
+Section 14 Regulations
   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
  (a) required or permitted by this Act to be prescribed; or
  (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 and, in particular, may make regulations prescribing penalties not exceeding a fine of 5 penalty units for offences against the regulations.
-
 TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
 - NOTES
-
 No. 9, 1985
 Compilation No. 13
 Compilation date:    21 October 2016
 Includes amendments up to: Act No. 61, 2016
 Registered:    24 October 2016
- 
 About this compilation
 This compilation
 This is a compilation of the Trust Recoupment Tax Assessment Act 1985 that shows the text of the law as amended and in force on 21 October 2016 (the compilation date).
@@ -421,20 +383,11 @@ Modifications
 If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the series page on the Legislation Register for the compiled law.
 Self-repealing provisions
 If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
- 
- 
- 
- 
- 
-
 TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
 - NOTES
-
  Endnotes
-
 TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
 - NOTES
-
  Endnote 1--About the endnotes
 The endnotes provide information about this compilation and the compiled law.
 The following endnotes are included in every compilation:
@@ -454,27 +407,15 @@ If the compilation includes editorial changes, the endnotes include a brief outl
 Misdescribed amendments
 A misdescribed amendment is an amendment that does not accurately describe the amendment to be made. If, despite the misdescription, the amendment can be given effect as intended, the amendment is incorporated into the compiled law and the abbreviation &quot;(md)&quot; added to the details of the amendment included in the amendment history.
 If a misdescribed amendment cannot be given effect as intended, the abbreviation &quot;(md not incorp)&quot; is added to the details of the amendment included in the amendment history.
- 
-
 TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
 - NOTES
-
  Endnote 2--Abbreviation key
- 
 ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x    /sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumbered    effectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative Instrument    effectSR = Statutory Rules(md not incorp) = misdescribed amendmentad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x    /sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumbered    effectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative Instrument    effectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub-Ch = Sub-Chapter(s)    cannot be given effectSubPt = Subpart(s)mod = modified/modificationunderlining = whole or part notNo. = Number(s)    commenced or to be commenced
- 
-
 TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
 - NOTES
-
  Endnote 3--Legislation history
- 
 ActNumber and yearAssentCommencementApplication, saving and transitional provisionsTrust Recoupment Tax Assessment Act 19859, 19855 Apr 19855 Apr 1985 (s 2) Taxation Laws (Miscellaneous Provisions) Act 1986109, 19864 Nov 1986s 8 and Sch: 4 Nov 1986 (s 2)s 8Taxation Laws Amendment (Rates and Rebates) Act 198970, 198921 June 1989s 9 and Sch: 21 June 1989 (s 2)s 9Taxation Laws Amendment Act (No. 3) 1991216, 199124 Dec 1991s 114 and Sch 4: 1 Mar 1992 (s 2(10) and gaz 1992, No GN7)s 114Income Tax (Consequential Amendments) Act 199739, 199717 Apr 1997Sch 3 (item 132): 1 July 1997 (s 2)--Taxation Laws Amendment Act (No. 3) 199911, 199931 Mar 1999Sch 1 (item 395): 1 July 1999 (sActNumber and yearAssentCommencementApplication, saving and transitional provisionsTrust Recoupment Tax Assessment Act 19859, 19855 Apr 19855 Apr 1985 (s 2) Taxation Laws (Miscellaneous Provisions) Act 1986109, 19864 Nov 1986s 8 and Sch: 4 Nov 1986 (s 2)s 8Taxation Laws Amendment (Rates and Rebates) Act 198970, 198921 June 1989s 9 and Sch: 21 June 1989 (s 2)s 9Taxation Laws Amendment Act (No. 3) 1991216, 199124 Dec 1991s 114 and Sch 4: 1 Mar 1992 (s 2(10) and gaz 1992, No GN7)s 114Income Tax (Consequential Amendments) Act 199739, 199717 Apr 1997Sch 3 (item 132): 1 July 1997 (s 2)--Taxation Laws Amendment Act (No. 3) 199911, 199931 Mar 1999Sch 1 (item 395): 1 July 1999 (s 2(3))--A New Tax System (Tax Administration) Act (No. 1) 200044, 20003 May 2000Sch 3 (item 72): 22 Dec 1999 (s 2(1))Sch 3 (items 73, 74): 1 July 2000 (s 2(9))Sch 3 (item 74)Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 200655, 200619 June 2006Sch 1 (items 31, 32(1)): 1 July 2006 (s 2(1) item 2)Sch 1 (item 32(1))Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006101, 200614 Sept 2006Sch 1 (items 1, 318), Sch 2 (items 996-1006) and Sch 6 (items  1, 6-11): 14 Sept 2006 (s 2(1) items 2, 4)Sch 6 (items 1, 6-11)Statute Law Revision Act 200873, 20083 July 2008Sch 4 (item 495): 4 July 2008 (s 2(1) item 64)--Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010145, 201016 Dec 2010Sch 2 (item 122): 17 Dec 2010 (s 2(1) item 2)--Statute Law Revision Act (No. 2) 2015145, 201512 Nov 2015 2(3))--A New Tax System (Tax Administration) Act (No. 1) 200044, 20003 May 2000Sch 3 (item 72): 22 Dec 1999 (s 2(1))Sch 3 (items 73, 74): 1 July 2000 (s 2(9))Sch 3 (item 74)Tax Laws Amendment (Personal Tax Reduction and Improved Depreciation Arrangements) Act 200655, 200619 June 2006Sch 1 (items 31, 32(1)): 1 July 2006 (s 2(1) item 2)Sch 1 (item 32(1))Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006101, 200614 Sept 2006Sch 1 (items 1, 318), Sch 2 (items 996-1006) and Sch 6 (items  1, 6-11): 14 Sept 2006 (s 2(1) items 2, 4)Sch 6 (items 1, 6-11)Statute Law Revision Act 200873, 20083 July 2008Sch 4 (item 495): 4 July 2008 (s 2(1) item 64)--Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010145, 201016 Dec 2010Sch 2 (item 122): 17 Dec 2010 (s 2(1) item 2)--Statute Law Revision Act (No. 2) 2015145, 201512 Nov 2015Sch 4 (item 39): 10 Dec 2015 (s 2(1) item 7)--Statute Update Act 201661, 201623 Sept 2016Sch 1 (item 488): 21 Oct 2016 (s 2(1) item 1)--
- 
-
 TRUST RECOUPMENT TAX ASSESSMENT ACT 1985
 - NOTES
-
  Endnote 4--Amendment history
- 
 Provision affectedHow affecteds 3.....................am No 39, 1997; No 101, 2006s 4.....................am No 216, 1991; No 44, 2000; No 101, 2006; No 145, 2010s 6.....................am No 109, 1986; No 70, 1989; No 55, 2006s 7.....................am No 101, 2006s 10....................am No 101, 2006s 11....................rep No 11, 1999s 12....................am No 73, 2008; No 145, 2015s 14....................am No 61, 2016

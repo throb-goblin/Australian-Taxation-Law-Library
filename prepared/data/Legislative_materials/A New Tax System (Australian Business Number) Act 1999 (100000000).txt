@@ -5,24 +5,73 @@ Register: https://www.legislation.gov.au/C2004A00467/latest/text
 Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download.cgi/download/au/legis/cth/consol_act/antsbna1999470.txt
 When scraped: 2025-12-29T22:37:51.894406Z
 
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999 
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999 
-Section 1
-Short title
-
+A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
+- TABLE OF PROVISIONS
+PART 1--PRELIMINARY
+Division 1--Formalities
+Section 1. Short title
+Section 2. Commencement
+Division 2--Objects
+Section 3. Objects
+Division 3--Application of this Act
+Section 4. Crown bound by this Act
+Section 5. Application to government entities, non - profit sub - entities, superannuation funds and certain RSE licensees
+Section 5A. Application to religious practitioners and religious institutions
+Section 6. Application of Criminal Code
+Section 7. Application to the external Territories
+PART 2--REGISTERING--FOR ABN PURPOSES
+Division 4--Registration
+Section 8. Are you entitled to an ABN?
+Section 9. Applying for an ABN
+Section 9A. Applying for registration of representatives
+Section 10. Registrar must register you if conditions met
+Section 10A. Registrar must register your representative if conditions met
+Section 11. Steps taken by Registrar to register you
+Section 11A. Steps taken by Registrar to register your representative
+Section 12. If you are registered, notices may be sent to you at your registered address for service
+Section 13. Refusal to register
+Division 5--Your obligations if you are registered
+Section 14. You must notify Registrar of changes to matters set out in the Register
+Section 15. Obligation to give Registrar information if requested
+Section 16. Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees
+Division 6--Variation and cancellation of registration
+Section 17. Registrar may change your ABN
+Section 18. When your registration can be cancelled
+Section 19. Reinstating your registration
+Division 8--Review of reviewable ABN decisions
+Section 21. Review of reviewable ABN decisions
+Division 9--Offences
+Section 23. Identification offences
+PART 3--ADMINISTRATION
+Division 10--The Australian Business Register
+Section 24. The Australian Business Register
+Section 25. Entries in the Australian Business Register
+Section 26. Access to certain information in the Australian Business Register
+Section 27. Evidentiary value of the Australian Business Register
+Division 11--Other administrative matters
+Section 28. The Registrar
+Section 29. Annual report on operation of this Act
+Section 29A. Adjustments to details
+Section 30. Protection of confidentiality of information
+Section 31. Regulations
+PART 4--RULES--FOR INTERPRETING THIS ACT
+Division 12--Identifying defined terms
+Section 32. When defined terms are identified
+Section 33. When terms are not identified
+Section 34. Identifying the defined term in a definition
+Division 13--What forms part of this Act
+Section 35. What forms part of this Act
+Section 36. What does not form part of this Act
+Division 15--The Dictionary
+Section 41. Dictionary
+An Act to implement A New Tax System by establishing a Register of Australian Business and providing for the issue of Australian Business Numbers, and for related purposes
+- LONG TITLE
+An Act to implement A New Tax System by establishing a Register of Australian Business and providing for the issue of Australian Business Numbers, and for related purposes
+Section 1 Short title
   This Act may be cited as the A New Tax System (Australian Business Number) Act 1999.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 2
-Commencement
-
+Section 2 Commencement
   This Act commences on the day on which it receives the Royal Assent.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 3
-Objects
-
+Section 3 Objects
 Main object
  (1) The main object of this Act is to make it easier for businesses to conduct their dealings with the Australian Government. This is done by establishing a system for registering businesses and issuing them with unique identifying numbers so that they can identify themselves reliably:
  (a) in all their dealings with the Australian Government; and
@@ -33,24 +82,12 @@ Reducing registration and reporting requirements
 Note: Section 30 facilitates this object by enabling the Registrar to provide information collected under this Act to State, Territory and local government bodies.
 Multi-agency dealings
  (4) The objects of this Act also include allowing the *Registrar to register and maintain details about representatives of *businesses that are registered under this Act, for the purpose of facilitating electronic dealings by those businesses with *government entities.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 4
-Crown bound by this Act
-
+Section 4 Crown bound by this Act
   This Act binds the Crown in each of its capacities, but does not make the Crown liable to be prosecuted for an offence.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 5
-Application to government entities, non - profit sub - entities, superannuation funds and certain RSE licensees
-
+Section 5 Application to government entities, non - profit sub - entities, superannuation funds and certain RSE licensees
  (1) This Act applies to a *government entity, a *non-profit sub-entity or a *superannuation fund as if it were an *entity *carrying on an *enterprise in *Australia.
  (2) This Act applies to an *RSE licensee, or an applicant for an *RSE licence, that is a group of individual trustees as if the group were an *entity *carrying on an *enterprise in *Australia.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 5A
-Application to religious practitioners and religious institutions
-
+Section 5A Application to religious practitioners and religious institutions
   If a *religious practitioner:
  (a) does an activity, or a series of activities:
  (i) in pursuit of his or her vocation as a religious practitioner; and
@@ -58,23 +95,11 @@ Application to religious practitioners and religious institutions
  (b) does not do the activity, or series of activities, as an employee or agent of the religious institution or another entity;
 this Act applies as if the activity, or series of activities, had been done by the religious institution and not by the religious practitioner.
 Note: This will mean that such an activity will be an enterprise of the religious institution and not an enterprise of the religious practitioner.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 6
-Application of Criminal Code
-
+Section 6 Application of Criminal Code
   The Criminal Code applies to all offences against this Act.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 7
-Application to the external Territories
-
+Section 7 Application to the external Territories
   This Act extends to every external Territory.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 8
-Are you entitled to an ABN?
-
+Section 8 Are you entitled to an ABN?
  (1) *You are entitled to have an Australian Business Number (*ABN) if:
  (a) you are *carrying on an *enterprise in *Australia; or
  (b) in the course or furtherance of carrying on an enterprise, you make *supplies that are *connected with the indirect tax zone.
@@ -82,33 +107,21 @@ Corporations Act companies
  (2) A *Corporations Act company is entitled to have an Australian Business Number (*ABN).
 Limited registration entities
  (3) However, a limited registration entity (within the meaning of the A New Tax System (Goods and Services Tax) Act 1999) is not entitled to an *ABN.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 9
-Applying for an ABN
-
+Section 9 Applying for an ABN
  (1) To get an *ABN, *you must apply to the *Registrar to be registered in the *Australian Business Register.
 Note 1: You may apply yourself or someone may apply on your behalf.
 Note 2: If you are registered, you will be allocated an ABN and your ABN will be entered in the Register (see subsection  11(1)).
  (2) *Your application must be in the *approved form.
  (3) That form may request, but not compel, *you to provide your *TFN or that of an *associate.
 Note: Including a TFN in an application will not be an offence against subsection 8WB(1) of the Taxation Administration Act 1953 (see paragraph 8WB(1A)(a) of that Act).
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 9A
-Applying for registration of representatives
-
+Section 9A Applying for registration of representatives
  (1) If *you are registered in the *Australian Business Register, or you are applying to be so registered, you may make an application to the *Registrar requesting the Registrar to register details about a nominated representative (who is an individual) for the purpose of facilitating your electronic dealings with *government entities.
  (2) An application must be in the *approved form.
  (3) That form may request, but not compel, the provision of:
  (a) the *TFN of the representative; and
  (b) the TFN of the individual (the nominating individual) who is to sign the declaration in the form.
 Note: Including a TFN in an application will not be an offence against subsection 8WB(1) of the Taxation Administration Act 1953 (see paragraph 8WB(1A)(a) of that Act).
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 10
-Registrar must register you if conditions met
-
+Section 10 Registrar must register you if conditions met
  (1) The *Registrar must register *you in the *Australian Business Register if:
  (a) you have applied under section  9; and
  (b) the Registrar is satisfied that you:
@@ -120,22 +133,14 @@ Registrar must register you if conditions met
  (2) The *Registrar may request *you to give the Registrar specified information or a specified document the Registrar needs to be satisfied that:
  (a) you are entitled to have an *ABN; or
  (b) your identity, or that of an *associate referred to in paragraph (1)(ca), is established.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 10A
-Registrar must register your representative if conditions met
-
+Section 10A Registrar must register your representative if conditions met
  (1) The *Registrar must register *your representative in the *Australian Business Register if:
  (a) an application has been made under section  9A; and
  (b) the Registrar is satisfied that the identity of the nominating individual (see paragraph  9A(3)(b)) has been established; and
  (c) if the representative is to be authorised to nominate other representatives of yours--the Registrar is satisfied that the identity of the representative has been established; and
  (d) the representative&#39;s details are not already registered in the *Australian Business Register in relation to you.
  (2) If *your proposed representative is to be authorised to nominate other representatives of yours, the *Registrar may request you or your proposed representative to give the Registrar specified information or a specified document the Registrar needs to be satisfied that the identity of the proposed representative is established.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 11
-Steps taken by Registrar to register you
-
+Section 11 Steps taken by Registrar to register you
  (1) The *Registrar registers *you (for an application under section 9) by:
  (a) allocating you an *ABN; and
  (b) entering in the *Australian Business Register:
@@ -150,30 +155,18 @@ Note: A decision setting the date of effect of your registration is a reviewable
  (c) the date of effect of your registration; and
  (d) the other details entered in relation to you in the *Australian Business Register (see section 25).
 Note: Section 12 deals with giving notice to an entity registered under this section.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 11A
-Steps taken by Registrar to register your representative
-
+Section 11A Steps taken by Registrar to register your representative
   The *Registrar registers *your representative (for an application under section 9A) by entering in the *Australian Business Register in relation to you:
  (a) the name of the representative; and
  (b) the representative&#39;s email address; and
  (c) the date of effect of the registration.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 12
-If you are registered, notices may be sent to you at your registered address for service
-
+Section 12 If you are registered, notices may be sent to you at your registered address for service
  (1) If *you are registered in the *Australian Business Register, a notice under this Act, or the regulations, may be given to you by leaving it at, or sending it by pre -paid post to, the address shown in the Register as your address for service.
 Note: This subsection applies only to entities registered under section 11.
  (2) Subsection (1):
  (a) does not affect the operation of any other law of the Commonwealth, or any law of a State or Territory, that authorises the service of a document in some other way; and
  (b) does not affect the power of a court to authorise service of a document in some other way.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 13
-Refusal to register
-
+Section 13 Refusal to register
  (1) If the *Registrar refuses *your application for registration under section 9 or your application for registration of your representative under section  9A, the Registrar must give you written notice of:
  (a) the refusal; and
  (b) the reasons for the refusal.
@@ -186,11 +179,7 @@ Note: A decision refusing to register you or your representative is a reviewable
  (5) For the purposes of measuring the 28 days mentioned in subsection  (2) for *your application under section 9A, disregard each period (if any):
  (a) starting on the day when the *Registrar requests you, or your proposed representative, under subsection 10A(2) to give the Registrar specified information or a specified document; and
  (b) ending at the end of the day you give the Registrar the specified information or document.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 14
-You must notify Registrar of changes to matters set out in the Register
-
+Section 14 You must notify Registrar of changes to matters set out in the Register
  (1) If:
  (a) *you give information to the *Registrar; and
  (b) the information is recorded in relation to you in the *Australian Business Register under section 25; and
@@ -201,13 +190,8 @@ Note 2: This Act is a taxation law for the purposes of the Taxation Administrati
  (2) The notice:
  (a) must be lodged with the *Registrar; and
  (b) must be in the *approved form.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 15
-Obligation to give Registrar information if requested
-
+Section 15 Obligation to give Registrar information if requested
  (1) The *Registrar may request an *entity to give the Registrar information in accordance with the following table. The entity must comply with the request.
- 
 Entities that can be requested to give informationItemThese entities ...can be requested to give this information ...1*You, if you are registered in the *Australian Business Registerinformation that is relevant to:(a) your entitlement to be registered; or(b) confirming your identity; or(c) the details entered in relation to you in the Register2*Your *associate (if any) entered in the *Australian Business Register in relation to youinformation relevant to confirming the associate&#39;s identity3Either:(a) *your representative (if any) registered in the *Australian Business Register in relation to you; or(b) youinformation relevant to:(a) confirming the representative&#39;s identity; or(b) the details entered in relation to the representative in the Register
 Note: This Act is a taxation law for the purposes of the Taxation Administration Act 1953 . If an entity fails to comply with this subsection, the entity commits an offence against section 8C of that Act.
  (2) A request under subsection  (1) to an *entity:
@@ -221,11 +205,7 @@ Note: Section 12 deals with giving notice to an entity registered under section 
  (3) If the request asks the *entity to give the information in writing, the information:
  (a) must be lodged with the *Registrar; and
  (b) must be in the *approved form.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 16
-Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees
-
+Section 16 Application of sections 14 and 15 to partnerships, unincorporated associations and bodies and certain RSE licensees
 Application to partnerships
  (1) If, but for this subsection, section  14 or 15 would impose an obligation on a *partnership, the obligation is imposed on each partner, but may be discharged by any of the partners.
 Application to unincorporated association or body
@@ -244,22 +224,14 @@ the obligation is imposed on that person.
  (5) Subsection (4) has effect despite:
  (a) subsection (2); and
  (b) sections 14 and 15 as they apply because of section  5.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 17
-Registrar may change your ABN
-
+Section 17 Registrar may change your ABN
  (1) The *Registrar may, at any time, change *your *ABN by:
  (a) making an appropriate change to the *Australian Business Register (including the date from which the new ABN has effect); and
  (b) giving you written notice of the new ABN.
 Note: Section 12 deals with giving notice to an entity registered under section  11.
  (2) The notice must state the date from which the new *ABN has effect.
  (3) The change to the *ABN takes effect on the date stated in the *Australian Business Register.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 18
-When your registration can be cancelled
-
+Section 18 When your registration can be cancelled
 On Registrar&#39;s initiative
  (1) The *Registrar may cancel *your registration in the *Australian Business Register if satisfied that:
  (a) you are registered under an identity that is not your true identity; or
@@ -294,30 +266,17 @@ Note 2: A decision setting the date of effect of a cancellation is a reviewable 
  (a) the date on which *you are given notice under subsection (5);
  (b) a specified date in the future;
  (c) a date before the date on which the notice is given.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 19
-Reinstating your registration
-
+Section 19 Reinstating your registration
  (1) The *Registrar must reinstate *your registration, or the registration of your representative, in the *Australian Business Register if the Registrar is satisfied that the registration should not have been cancelled.
  (2) The *Registrar must give *you written notice of the reinstatement.
 Note: Section 12 deals with giving notice to an entity registered under section  11.
  (3) The reinstatement has effect on and from the day on which the registration was cancelled.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 21
-Review of reviewable ABN decisions
-
+Section 21 Review of reviewable ABN decisions
  (1) *You may object, in the manner set out in Part IVC of the Taxation Administration Act 1953, against a decision you are dissatisfied with that is a *reviewable ABN decision.
  (2) Each of the following decisions is a reviewable ABN decision:
- 
 Reviewable ABN decisionsItemDecisionProvision under which decision is made1Setting the date of effect of *your registrationsubsection 11(1)2Refusing to register *you or your representativesection 133Cancelling *your registrationsubsection 18(1)4Cancelling the registration of *your representativesubsection 18(1A)5Refusing to cancel *your registration or that of your representativesubsection 18(4)6Setting the date of effect of a cancellationsubsection 18(2) or (5)7Refusing an application not to disclose detailssubsection 26(4) or 27(7)
  (3) Part IVC of the Taxation Administration Act 1953 applies in relation to a *reviewable ABN decision as if references in that Part  to the Commissioner of Taxation were references to the *Registrar.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 23
-Identification offences
-
+Section 23 Identification offences
  (1) *You must not purport to identify yourself by using:
  (a) a number that is not an *ABN as if it were an ABN; or
  (b) an ABN that is not your own.
@@ -330,18 +289,10 @@ Penalty: Imprisonment for 2 years.
  (a) you purport to identify yourself as being registered under this Act as the representative of an *entity; and
  (b) you are not the registered representative of the entity.
 Penalty: Imprisonment for 2 years.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 24
-The Australian Business Register
-
+Section 24 The Australian Business Register
  (1) The *Registrar must establish and maintain an *Australian Business Register.
  (2) The *Australian Business Register may be kept in any form that the *Registrar considers appropriate.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 25
-Entries in the Australian Business Register
-
+Section 25 Entries in the Australian Business Register
  (1) Under paragraph  11(1)(b), the *Registrar enters in the *Australian Business Register in relation to each *entity registered in the Register:
  (a) the entity&#39;s name; and
  (b) the entity&#39;s *ABN; and
@@ -357,11 +308,7 @@ Entries in the Australian Business Register
  (4) The *Registrar must also enter in the *Australian Business Register in relation to a representative the details prescribed in the regulations.
 Note 1: Section 30-229 of the ITAA 1997 also requires the Registrar to make entries in the Australian Business Register about entities gifts to which are tax -deductible.
 Note 2: Section 426-65 in Schedule 1 to the Taxation Administration Act 1953 also requires the Registrar to make entries in the Australian Business Register about entities that are endorsed in the ways mentioned in that section.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 26
-Access to certain information in the Australian Business Register
-
+Section 26 Access to certain information in the Australian Business Register
  (1) The *Registrar may (on receiving payment of any prescribed fee) give a *person a copy of the entry in the *Australian Business Register relating to an *entity.
  (2) Before the copy is given to the *person, the*Registrar must excise from it:
  (a) any detail not listed in subsection  (3) or in regulations made under subsection (3); and
@@ -396,11 +343,7 @@ Access to certain information in the Australian Business Register
 the Registrar must not disclose the detail under this section.
 Note: A decision refusing an application not to disclose details is a reviewable ABN decision.
  (5) In addition to providing copies under subsection  (1), the *Registrar may make publicly available any details listed in subsection (3), or in regulations made under subsection  (3), in relation to an *entity, other than any detail that the Registrar is prohibited from disclosing under subsection  (4).
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 27
-Evidentiary value of the Australian Business Register
-
+Section 27 Evidentiary value of the Australian Business Register
  (1) The *Australian Business Register is admissible in proceedings as prima facie evidence of the matters registered in it.
  (2) If the *Australian Business Register is kept by the use of a computer, the *Registrar may issue a document containing the details of a matter taken from the Register.
  (3) The document issued under subsection  (2) is admissible in proceedings as prima facie evidence of the matter.
@@ -412,40 +355,24 @@ Evidentiary value of the Australian Business Register
  (b) the *Registrar is satisfied that it is not appropriate to disclose the detail;
 the detail must not be included in any document the Registrar issues or gives under subsection (2) or (4).
 Note: A decision refusing an application not to disclose details is a reviewable ABN decision.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 28
-The Registrar
-
+Section 28 The Registrar
  (1) There is to be a Registrar of the *Australian Business Register.
  (2) The Commissioner of Taxation is the Registrar of the *Australian Business Register.
 Note 1: Subsections 6B(6) and (6A) of the Taxation Administration Act 1953 allow a person acting as Commissioner of Taxation to exercise the powers and perform the functions that this Act gives to the Registrar.
 Note 2: Subsections 8(1) and (1A) of the Taxation Administration Act 1953 allow the Registrar to delegate powers and functions that this Act gives the Registrar.
  (3) As well as the specific powers and functions conferred on the *Registrar by this Act, the Registrar has the general administration of this Act.
  (4) For the purposes of any other law of the Commonwealth, this Act is taken to be one that the Commissioner of Taxation administers or has the general administration of.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 29
-Annual report on operation of this Act
-
+Section 29 Annual report on operation of this Act
  (1) The *Registrar must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report on the working of this Act during the year ending on that 30  June.
 Note: Section 34C of the Acts Interpretation Act 1901 applies to reports under this section.
  (2) The Minister must table a copy of the report before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 29A
-Adjustments to details
-
+Section 29A Adjustments to details
  (1) This section applies if the *Registrar is satisfied that:
  (a) details entered in relation to an *entity in the *Australian Business Register; or
  (b) details entered in relation to an entity&#39;s representative in that Register;
 are incorrect and the Registrar has access to details that the Registrar believes to be the correct ones.
  (2) The *Registrar may adjust the details accordingly.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 30
-Protection of confidentiality of information
-
+Section 30 Protection of confidentiality of information
  (1) This section restricts what a *person (the entrusted person) may do with *protected information, or *protected documents, that the person has obtained in the course of *official employment.
  (2) The *entrusted person:
  (a) must not make a record of *protected information; and
@@ -483,11 +410,7 @@ Note: A disclosure under paragraph (3)(e) could, for example, be for the purpose
  (b) to disclose *protected information to a court.
  (6) In this section:
 "disclose" means divulge or communicate.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 31
-Regulations
-
+Section 31 Regulations
  (1) The Governor -General may make regulations prescribing matters:
  (a) required or permitted by this Act to be prescribed; or
  (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;
@@ -497,46 +420,22 @@ and, in particular:
  (2) The amount of a fee prescribed under paragraph  (1)(c):
  (a) must be reasonably related to the expenses incurred or to be incurred by the *Registrar in connection with the activity that attracts the fee; and
  (b) must not be such as to amount to taxation.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 32
-When defined terms are identified
-
+Section 32 When defined terms are identified
  (1) Many of the terms used in this Act are defined.
  (2) Most defined terms in this Act are identified by an asterisk appearing at the start of the term: as in &quot; *enterprise&quot;. The footnote that goes with the asterisk contains a signpost to the Dictionary definitions in section  41.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 33
-When terms are not identified
-
+Section 33 When terms are not identified
   Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 34
-Identifying the defined term in a definition
-
+Section 34 Identifying the defined term in a definition
   Within a definition, the defined term is identified by bold italics.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 35
-What forms part of this Act
-
+Section 35 What forms part of this Act
  (1) These all form part of this Act:
  &bull;  the headings to the Parts, Divisions and Subdivisions of this Act;
  &bull;  the headings to the sections and subsections of this Act;
  &bull;  the notes and examples (however described) that follow provisions of this Act.
  (2) The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 36
-What does not form part of this Act
-
+Section 36 What does not form part of this Act
   Footnotes and endnotes do not form part of this Act.
-
-A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
-Section 41
-Dictionary
-
+Section 41 Dictionary
   In this Act, except so far as the contrary intention appears:
 "ABN (Australian Business Number)" for an *entity means the entity&#39;s ABN as shown in the *Australian Business Register.
 "approved form" has the same meaning as in the *ITAA 1997.
@@ -609,10 +508,8 @@ Note: The Registrar may delegate powers and functions under section 8 of the Tax
 "withholding payment" covered by a particular provision in Schedule 1 to the Taxation Administration Act 1953 has the meaning given by subsection 995-1(1) of the *ITAA 1997.
 "you": if a provision of this Act uses the expression you, it applies to entities generally, unless its application is expressly limited.
 Note: The expression you is not used in provisions that apply only to entities that are not individuals.
-
 A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
 - NOTES
-
 No. 84, 1999
 Compilation No. 31
 Compilation date: 14 October 2024
@@ -631,18 +528,11 @@ Modifications
 If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law.
 Self-repealing provisions
 If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
- 
- 
- 
-
 A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
 - NOTES
-
  Endnotes
-
 A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
 - NOTES
-
  Endnote 1--About the endnotes
 The endnotes provide information about this compilation and the compiled law.
 The following endnotes are included in every compilation:
@@ -662,26 +552,15 @@ If the compilation includes editorial changes, the endnotes include a brief outl
 Misdescribed amendments
 A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the Legislation Act 2003.
 If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and &quot;(md not incorp)&quot; is added to the amendment history.
- 
-
 A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
 - NOTES
-
  Endnote 2--Abbreviation key
- 
 ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub-Ch = Sub-Chapter(s)cannot be given effectSubPt = Subpart(s)mod = modified/modificationunderlining = whole or part notNo. = Number(s)commenced or to be commenced
- 
-
 A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
 - NOTES
-
  Endnote 3--Legislation history
- 
 ActNumber and yearAssentCommencementApplication, saving and transitional provisionsA New Tax System (Australian Business Number) Act 199984, 19998 July 19998 July 1999 (s 2) Public Employment (Consequential and Transitional) Amendment Act 1999146, 199911 Nov 1999Sch 1 (items 92-94): 5 Dec 1999 (s 2(1), (2))--A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999177, 199922 Dec 1999Sch 4 (items 1-9): 1 July 2000 (s 2(7))--A New Tax System (Pay As You Go) Act 1999178, 199922 Dec 1999Sch 1 (items 72-78): 22 Dec 1999 (2(1)) as amended by    A New Tax System (Tax Administration) Act 1999179, 199922 Dec 1999Sch 10 (item 19): 22 Dec 1999 (s 2(11))--A New Tax System (Tax Administration) Act 1999179, 1999ActNumber and yearAssentCommencementApplication, saving and transitional provisionsA New Tax System (Australian Business Number) Act 199984, 19998 July 19998 July 1999 (s 2) Public Employment (Consequential and Transitional) Amendment Act 1999146, 199911 Nov 1999Sch 1 (items 92-94): 5 Dec 1999 (s 2(1), (2))--A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999177, 199922 Dec 1999Sch 4 (items 1-9): 1 July 2000 (s 2(7))--A New Tax System (Pay As You Go) Act 1999178, 199922 Dec 1999Sch 1 (items 72-78): 22 Dec 1999 (2(1)) as amended by    A New Tax System (Tax Administration) Act 1999179, 199922 Dec 1999Sch 10 (item 19): 22 Dec 1999 (s 2(11))--A New Tax System (Tax Administration) Act 1999179, 199922 Dec 1999Sch 9: 22 Dec 1999 (s 2(7)(d))--Diesel and Alternative Fuels Grants Scheme (Administration and Compliance) Act 1999201, 199923 Dec 1999Sch 3 (item 1): 24 Dec 1999 (s 2(3))--A New Tax System (Tax Administration) Act (No. 2) 200091, 200030 June 2000Sch 2 (item 1) and Sch 4C (item 9): 1 July 2000 (s 3(1), (5B))Sch 4C (item 9)Indirect Tax Legislation Amendment Act 200092, 200030 June 2000Sch 7 (items 1-3) and Sch 11 (items 1-2B): 1 July 2000 (s 2(1), (5))--Corporations (Repeals, Consequentials and Transitionals) Act 200155, 200128 June 2001s 4-14 and Sch 3 (items 28-30): 15 July 2001 (s 2(1), (3))s 4-14Taxation Laws Amendment Act (No. 5) 2001168, 20011 Oct 2001Sch 1 (items 1-3): 1 Oct 2001 (s 2(1))Sch 1 (item 3)Energy Grants (Credits) Scheme (Consequential Amendments) Act 200354, 200327 June 2003Sch 6 (item 1): 1 July 2003 (s 2)22 Dec 1999Sch 9: 22 Dec 1999 (s 2(7)(d))--Diesel and Alternative Fuels Grants Scheme (Administration and Compliance) Act 1999201, 199923 Dec 1999Sch 3 (item 1): 24 Dec 1999 (s 2(3))--A New Tax System (Tax Administration) Act (No. 2) 200091, 200030 June 2000Sch 2 (item 1) and Sch 4C (item 9): 1 July 2000 (s 3(1), (5B))Sch 4C (item 9)Indirect Tax Legislation Amendment Act 200092, 200030 June 2000Sch 7 (items 1-3) and Sch 11 (items 1-2B): 1 July 2000 (s 2(1), (5))--Corporations (Repeals, Consequentials and Transitionals) Act 200155, 200128 June 2001s 4-14 and Sch 3 (items 28-30): 15 July 2001 (s 2(1), (3))s 4-14Taxation Laws Amendment Act (No. 5) 2001168, 20011 Oct 2001Sch 1 (items 1-3): 1 Oct 2001 (s 2(1))Sch 1 (item 3)Energy Grants (Credits) Scheme (Consequential Amendments) Act 200354, 200327 June 2003Sch 6 (item 1): 1 July 2003 (s 2)--Tax Laws Amendment (2004 Measures No. 1) Act 200495, 200429 June 2004Sch 6: 29 June 2004 (s 2(1) item 5)Sch 10 (items 1-3): 1 July 2005 (s 2(1) item 8)Sch 6 (item 5)Tax Laws Amendment (2006 Measures No. 3) Act 200680, 200630 June 2006Sch 10 (items 1, 2, 5): 1 July 2005 (s 2(1) item 8)Sch 10 (item 5)Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006101, 200614 Sept 2006Sch 1 (items 1, 2), Sch 2 (items 5-8) and Sch 6 (items  1, 6-11): 14 Sept 2006 (s 2(1) items 2, 4)Sch 6 (items 1, 6-11)Tax Laws Amendment (2007 Measures No. 4) Act 2007143, 200724 Sept 2007Sch 7 (item 1): 24 Sept 2007 (s 2(1) item 9)--Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007154, 200724 Sept 2007Sch 1 (items 1-9, 296): 24 Sept 2007 (s 2(1) items 2, 6)Sch 1 (item 245): 24 Sept 2008 (s 2(1) item 4)Sch 1 (item 296)Tax Laws Amendment (2009 Measures No. 2) Act 200942, 200923 June 2009Sch 6 (items 1-32): 23 June 2009 (s 2(1) item 13)Sch 6 (items 35-57): 5 Apr 2010 (s 2(1) item 14)Sch 6 (item 32)Tax Laws Amendment (2009 Measures No. 4) Act 200988, 200918 Sept 2009Sch 2 (item 1): 1 Oct 2009 (s 2(1) item 3)Sch 5 (items 283-287): 18 Sept 2009 (s 2(1) item 10)--Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010145, 201016 Dec 2010Sch 2 (item 2): 17 Dec 2010 (s 2(1) item 2)--Statute Law Revision Act 20115, 201122 Mar 2011Sch 6 (item 120): 19 Apr 2011 (s 2(1) item 17)--Business Names Registration (Transitional and Consequential Provisions) Act 2011127, 20113 Nov 2011Sch 2 (item 1): 20 Apr 2012 (s 2(1) item 4)Sch 2 (item 27): 28 May 2013 (s 2(1) item 5)Act No 172, 2011 (Sch 1 (item 1))Tax Laws Amendment (2011 Measures No. 7) Act 2011147, 201129 Nov 2011Sch 8 (item 1): 1 Jan 2012 (s 2(1) item 8)--Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012169, 20123 Dec 2012 13)Sch 6 (items 35-57): 5 Apr 2010 (s 2(1) item 14)Sch 6 (item 32)Tax Laws Amendment (2009 Measures No. 4) Act 200988, 200918 Sept 2009Sch 2 (item 1): 1 Oct 2009 (s 2(1) item 3)Sch 5 (items 283-287): 18 Sept 2009 (s 2(1) item 10)--Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010145, 201016 Dec 2010Sch 2 (item 2): 17 Dec 2010 (s 2(1) item 2)--Statute Law Revision Act 20115, 201122 Mar 2011Sch 6 (item 120): 19 Apr 2011 (s 2(1) item 17)--Business Names Registration (Transitional and Consequential Provisions) Act 2011127, 20113 Nov 2011Sch 2 (item 1): 20 Apr 2012 (s 2(1) item 4)Sch 2 (item 27): 28 May 2013 (s 2(1) item 5)Act No 172, 2011 (Sch 1 (item 1))Tax Laws Amendment (2011 Measures No. 7) Act 2011147, 201129 Nov 2011Sch 8 (item 1): 1 Jan 2012 (s 2(1) item 8)--Australian Charities and Not-for-profits Commission (Consequential and Transitional) Act 2012169, 20123 Dec 2012Sch 3 (item 2): 3 Dec 2012 (s 2(1) item 8)--Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 201462, 201430 June 2014Sch 7 (item 122) and Sch 14: 1 July 2014 (s 2(1) items 6, 14)Sch 14as amended by    Public Governance and Resources Legislation Amendment Act (No. 1) 201536, 201513 Apr 2015Sch 2 (items 7-9) and Sch 7: 14 Apr 2015 (s 2)Sch 7as amended by    Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015126, 201510 Sept 2015Sch 1 (item 486): 5 Mar 2016 (s 2(1) item 2)--Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015126, 201510 Sept 2015Sch 1 (item 495): 5 Mar 2016 (s 2(1) item 2)--Treasury Legislation Amendment (Repeal Day) Act 20152, 201525 Feb 2015Sch 4 (items 32-37, 79): 25 Feb 2015 (s 2(1) item 6)Sch 4 (item 79)Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 201652, 20165 May 2016Sch 1 (items 9, 38, 39): 1 July 2016 (s 2(1) item 1)Sch 3 (item 2): 3 Dec 2012 (s 2(1) item 8)--Public Governance, Performance and Accountability (Consequential and Transitional Provisions) Act 201462, 201430 June 2014Sch 7 (item 122) and Sch 14: 1 July 2014 (s 2(1) items 6, 14)Sch 14as amended by    Public Governance and Resources Legislation Amendment Act (No. 1) 201536, 201513 Apr 2015Sch 2 (items 7-9) and Sch 7: 14 Apr 2015 (s 2)Sch 7as amended by    Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015126, 201510 Sept 2015Sch 1 (item 486): 5 Mar 2016 (s 2(1) item 2)--Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015126, 201510 Sept 2015Sch 1 (item 495): 5 Mar 2016 (s 2(1) item 2)--Treasury Legislation Amendment (Repeal Day) Act 20152, 201525 Feb 2015Sch 4 (items 32-37, 79): 25 Feb 2015 (s 2(1) item 6)Sch 4 (item 79)Tax and Superannuation Laws Amendment (2016 Measures No. 1) Act 201652, 20165 May 2016Sch 1 (items 9, 38, 39): 1 July 2016 (s 2(1) item 1)Sch 1 (items 38, 39)Statute Update Act 201661, 201623 Sept 2016Sch 3 (item 4): 21 Oct 2016 (s 2(1) item 1)--Treasury Laws Amendment (Working Holiday Maker Reform) Act 201689, 20162 Dec 2016Sch 2 (items 1, 6): 2 Dec 2016 (s 2(1) item 3)Sch 2 (item 6)Treasury Laws Amendment (Working Holiday Maker Employer Register) Act 2018125, 20183 Oct 2018Sch 1 (items 1, 4): 1 Jan 2019 (s 2(1) item 1)Sch 1 (item 4)Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 202069, 202022 June 2020Sch 1 (items 20-89, 1465-1467): awaiting commencement (s 2(1) items 2, 5)Sch 1 (items 1465-1467) and Sch 1 (item  1468)as amended by    Treasury Laws Amendment (2021 Measures No. 5) Act 2021127, 20217 Dec 2021Sch 3 (item 105): 22 June 2020 (s 2(1) item 8)--Treasury Laws Amendment (2022 Measures No. 1) Act 202235, 20229 Aug 2022Sch 4 (items 6, 7): 21 June 2022 (s 2(1) item 5)Sch 4 (item 15): 10 Aug 2022 (s 2(1) item 6)--Sch 1 (items 38, 39)Statute Update Act 201661, 201623 Sept 2016Sch 3 (item 4): 21 Oct 2016 (s 2(1) item 1)--Treasury Laws Amendment (Working Holiday Maker Reform) Act 201689, 20162 Dec 2016Sch 2 (items 1, 6): 2 Dec 2016 (s 2(1) item 3)Sch 2 (item 6)Treasury Laws Amendment (Working Holiday Maker Employer Register) Act 2018125, 20183 Oct 2018Sch 1 (items 1, 4): 1 Jan 2019 (s 2(1) item 1)Sch 1 (item 4)Treasury Laws Amendment (Registries Modernisation and Other Measures) Act 202069, 202022 June 2020Sch 1 (items 20-89, 1465-1467): awaiting commencement (s 2(1) items 2, 5)Sch 1 (items 1465-1467) and Sch 1 (item  1468)as amended by    Treasury Laws Amendment (2021 Measures No. 5) Act 2021127, 20217 Dec 2021Sch 3 (item 105): 22 June 2020 (s 2(1) item 8)--Treasury Laws Amendment (2022 Measures No. 1) Act 202235, 20229 Aug 2022Sch 4 (items 6, 7): 21 June 2022 (s 2(1) item 5)Sch 4 (item 15): 10 Aug 2022 (s 2(1) item 6)--Corporate Collective Investment Vehicle Framework and Other Measures Act 20228, 202222 Feb 2022Sch 5 (item 7): 1 July 2022 (s 2(1) item 4)--Administrative Review Tribunal (Consequential and Transitional Provisions No. 1) Act 202438, 202431 May 2024Sch 1 (item 51): 14 Oct 2024 (s 2(1) item 2)--Treasury Laws Amendment (Support for Small Business and Charities and Other Measures) Act 202452, 202428 June 2024Sch 3 (item 35): 29 June 2024 (s 2(1) item 3)--
-
 A NEW TAX SYSTEM (AUSTRALIAN BUSINESS NUMBER) ACT 1999
 - NOTES
-
  Endnote 4--Amendment history
- 
 Provision affectedHow affectedTitle....................am No 69, 2020Part 1 Division 2 s 3.....................am No 91, 2000; No 42, 2009; No 69, 2020Division 3 s 5.....................am No 177, 1999; No 92, 2000; No 154, 2007s 5A....................ad No 168, 2001 am No 101, 2006Part 2 Division 4 s 8.....................am No 177, 1999; No 55, 2001; No 169, 2012; No 2, 2015; No 52, 2016s 9.....................am No 42, 2009; No 69, 2020s 9A....................ad No 42, 2009 am No 69, 2020s 10....................am No 179, 1999; No 42, 2009; No 69, 2020s 10A...................ad No 42, 2009 am No 69, 2020Provision affectedHow affectedTitle....................am No 69, 2020Part 1 Division 2 s 3.....................am No 91, 2000; No 42, 2009; No 69, 2020Division 3 s 5.....................am No 177, 1999; No 92, 2000; No 154, 2007s 5A....................ad No 168, 2001 am No 101, 2006Part 2 Division 4 s 8.....................am No 177, 1999; No 55, 2001; No 169, 2012; No 2, 2015; No 52, 2016s 9.....................am No 42, 2009; No 69, 2020s 9A....................ad No 42, 2009 am No 69, 2020s 10....................am No 179, 1999; No 42, 2009; No 69, 2020s 10A...................ad No 42, 2009 am No 69, 2020s 11....................am No 42, 2009; No 69, 2020s 11A...................ad No 42, 2009 am No 69, 2020s 12....................am No 42, 2009 rep No 69, 2020s 13....................am No 179, 1999; No. 42, 2009; No 69, 2020Division 5 s 14....................am No 179, 1999; No 42, 2009; No 69, 2020s 15....................rs No 42, 2009 am No 42, 2009; No 69, 2020s 16....................am No 179, 1999; No 154, 2007Division 6 s 17....................am No 42, 2009; No 69, 2020s 18....................am No 42, 2009; No 69, 2020s 19....................am No 42, 2009; No 69, 2020Division 7................rep No 42, 2009s 20....................rep No 42, 2009Division 8 Divisions 11....................am No 42, 2009; No 69, 2020s 11A...................ad No 42, 2009 am No 69, 2020s 12....................am No 42, 2009 rep No 69, 2020s 13....................am No 179, 1999; No. 42, 2009; No 69, 2020Division 5 s 14....................am No 179, 1999; No 42, 2009; No 69, 2020s 15....................rs No 42, 2009 am No 42, 2009; No 69, 2020s 16....................am No 179, 1999; No 154, 2007Division 6 s 17....................am No 42, 2009; No 69, 2020s 18....................am No 42, 2009; No 69, 2020s 19....................am No 42, 2009; No 69, 2020Division 7................rep No 42, 2009s 20....................rep No 42, 2009Division 8 Division 8................rs No 42, 2009s 21....................rs No 42, 2009 am No 42, 2009; No 69, 2020s 22....................rep No 42, 2009Division 9 Division 9 heading..........rs No 42, 2009s 23....................am No 42, 2009Part 3 Division 10 Division 10 heading..........rs No 69, 2020s 24....................rep No 69, 2020s 25....................am No 179, 1999; No 95, 2004; No 42, 2009; No 88, 2009 rs No 69, 2020s 26....................rs No 91, 2000 am No 95, 2004; No 154, 2007; No 42, 2009; No 88, 2009; No 127, 2011; No 147, 2011; No 89, 2016; No 125, 2018; No 8, 2022; No 52, 2024 rep No 69, 2020s 27....................am No 91, 2000; No 42, 2009; No 61, 2016 rep No 69, 2020Division 10A..............ad No 91, 2000 rep No 42, 2009s 27A...................ad. No. 91, 2000 rep. No. 42, 2009s 27B...................ad No 91, 2000 rep No 42, 2009Division 11 Division 11 heading..........rep No 69, 2020s 28....................rep No 69, 2020s 29....................rep No 69, 2020s 29A...................ad No 42, 2009 am No 42, 2009 rep No 69, 2020s 30....................am No 146, 1999; No 201, 1999; No 91, 2000; No 54, 2003; No 95, 2004; No 42, 2009; No 62, 2014; No 38, 2024 rep No 69, 2020Part 4 Division 14...............rep No 101, 2006s 37....................am No 92, 2000 rep No 101, 2006s 38....................am No 177, 1999; No 178, 1999; No 92, 2000; No 80, 2006 91, 2000 rep No 42, 2009s 27A...................ad. No. 91, 2000 rep. No. 42, 2009s 27B...................ad No 91, 2000 rep No 42, 2009Division 11 Division 11 heading..........rep No 69, 2020s 28....................rep No 69, 2020s 29....................rep No 69, 2020s 29A...................ad No 42, 2009 am No 42, 2009 rep No 69, 2020s 30....................am No 146, 1999; No 201, 1999; No 91, 2000; No 54, 2003; No 95, 2004; No 42, 2009; No 62, 2014; No 38, 2024 rep No 69, 2020Part 4 Division 14...............rep No 101, 2006s 37....................am No 92, 2000 rep No 101, 2006s 38....................am No 177, 1999; No 178, 1999; No 92, 2000; No 80, 2006 rep No 101, 2006s 39....................rep No 177, 1999s 40....................rep No 101, 2006Division 15 s 41....................am No 146, 1999; No 177, 1999; No 178, 1999; No 179, 1999; No 91, 2000; No 92, 2000; No 55, 2001; No 168, 2001; No 101, 2006; No 143, 2007; No 154, 2007; No  42, 2009; No 88, 2009; No 145, 2010; No 5, 2011; No 2, 2015; No 69, 2020

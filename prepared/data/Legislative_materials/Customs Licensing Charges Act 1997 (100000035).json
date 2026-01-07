@@ -1,0 +1,322 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/clca1997261/",
+    "source": "Customs Licensing Charges Act 1997 (100000035).txt",
+    "filename": "Customs Licensing Charges Act 1997 (100000035).json",
+    "name": "Customs Licensing Charges Act 1997",
+    "citation": "Customs Licensing Charges Act 1997"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": "This Act may be cited as the Customs Licensing Charges Act 1997."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 2",
+      "text": "This Act commences at the same time as item  25 of Schedule 1 to the Customs Amendment Act (No. 1) 1997 commences."
+    },
+    {
+      "key": "section:3.term:broker-39-s-licence",
+      "title": "Section 3 Definitions \"broker&#39;s licence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"broker&#39;s licence\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"broker&#39;s licence\" means a licence to act as a customs broker granted under section 183C of the Customs Act and includes such a licence that has been renewed under section  183CJ of that Act."
+    },
+    {
+      "key": "section:3.term:cargo-report",
+      "title": "Section 3 Definitions \"cargo report\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"cargo report\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"cargo report\" means a cargo report under section 64AB of the Customs Act."
+    },
+    {
+      "key": "section:3.term:commencement-day",
+      "title": "Section 3 Definitions \"commencement day\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"commencement day\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"commencement day\" means the day on which Part IVA of the Customs Act commences."
+    },
+    {
+      "key": "section:3.term:comptroller-general-of-customs",
+      "title": "Section 3 Definitions \"Comptroller-General of Customs\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Comptroller-General of Customs\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"Comptroller-General of Customs\" means the person who is the Comptroller -General of Customs in accordance with subsection 11(3) or 14(2) of the Australian Border Force Act 2015."
+    },
+    {
+      "key": "section:3.term:customs-act",
+      "title": "Section 3 Definitions \"Customs Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Customs Act\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"Customs Act\" means the Customs Act 1901."
+    },
+    {
+      "key": "section:3.term:customs-broker-licence-application-charge",
+      "title": "Section 3 Definitions \"customs broker licence application charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"customs broker licence application charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"customs broker licence application charge\" means the customs broker licence application charge payable as set out in section 183CA of the Customs Act."
+    },
+    {
+      "key": "section:3.term:customs-broker-licence-charge",
+      "title": "Section 3 Definitions \"customs broker licence charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"customs broker licence charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"customs broker licence charge\" means the customs broker licence charge payable as set out in section 183CJA of the Customs Act."
+    },
+    {
+      "key": "section:3.term:depot-licence",
+      "title": "Section 3 Definitions \"depot licence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"depot licence\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"depot licence\" means a licence granted under section 77G of the Customs Act and includes such a licence that has been renewed under section  77T of that Act."
+    },
+    {
+      "key": "section:3.term:depot-licence-application-charge",
+      "title": "Section 3 Definitions \"depot licence application charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"depot licence application charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"depot licence application charge\" means the depot licence application charge payable as set out in section 77H of the Customs Act."
+    },
+    {
+      "key": "section:3.term:depot-licence-charge",
+      "title": "Section 3 Definitions \"depot licence charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"depot licence charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"depot licence charge\" means the depot licence charge payable as set out in section 77U of the Customs Act."
+    },
+    {
+      "key": "section:3.term:depot-licence-variation-charge",
+      "title": "Section 3 Definitions \"depot licence variation charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"depot licence variation charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"depot licence variation charge\" means the depot licence variation charge payable as set out in section 77LA of the Customs Act."
+    },
+    {
+      "key": "section:3.term:line-of-cargo",
+      "title": "Section 3 Definitions \"line of cargo\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"line of cargo\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"line of cargo\" means cargo covered by that part of a cargo report that constitutes a reference to:\n (a) a single air waybill or similar document; or\n (b) a single bill of lading or similar document.\n\"transactions handled\", in relation to a place that is, or becomes, a depot licensed under Part IVA of the Customs Act and to a period, means lines of cargo received into that place during that period."
+    },
+    {
+      "key": "section:3.term:warehouse-licence",
+      "title": "Section 3 Definitions \"warehouse licence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"warehouse licence\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"warehouse licence\" means a licence granted under section 79 of the Customs Act and includes such a licence that has been renewed under section  84 of that Act."
+    },
+    {
+      "key": "section:3.term:warehouse-licence-application-charge",
+      "title": "Section 3 Definitions \"warehouse licence application charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"warehouse licence application charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"warehouse licence application charge\" means the warehouse licence application charge payable as set out in section 80 of the Customs Act."
+    },
+    {
+      "key": "section:3.term:warehouse-licence-charge",
+      "title": "Section 3 Definitions \"warehouse licence charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"warehouse licence charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"warehouse licence charge\" means the warehouse licence charge payable as set out in section 85 of the Customs Act."
+    },
+    {
+      "key": "section:3.term:warehouse-licence-variation-charge",
+      "title": "Section 3 Definitions \"warehouse licence variation charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"warehouse licence variation charge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"warehouse licence variation charge\" means the warehouse licence variation charge payable as set out in section 81B of the Customs Act."
+    },
+    {
+      "key": "section:3A",
+      "title": "Section 3A - Act does not extend to Norfolk Island",
+      "main_structural_unit": "section",
+      "main_structural_number": "3A",
+      "main_structural_heading": "Act does not extend to Norfolk Island",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 3A",
+      "text": "This Act does not extend to Norfolk Island."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Imposition of charges",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Imposition of charges",
+      "defined_term": null,
+      "structure_path": "Part 2--DEPOTS > Section 4",
+      "text": "(1) Depot licence application charge payable as set out in section  77H of the Customs Act is imposed.\n (3) Depot licence charge payable as set out in section  77U of the Customs Act is imposed.\n (4) Depot licence variation charge payable as set out in section  77LA of the Customs Act is imposed."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Amount of depot licence application charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Amount of depot licence application charge",
+      "defined_term": null,
+      "structure_path": "Part 2--DEPOTS > Section 5",
+      "text": "The amount of depot licence application charge payable by an applicant for a depot licence is $3,000, or, if another amount not exceeding $4,500 is prescribed, that other amount."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Amount of depot licence charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Amount of depot licence charge",
+      "defined_term": null,
+      "structure_path": "Part 2--DEPOTS > Section 6",
+      "text": "Grant of licence\n (1) The amount of depot licence charge payable in respect of the grant of a depot licence is:\n (a) for the grant of a depot licence that comes into force on a 1  July--$4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount; or\n (b) for the grant of a depot licence that comes into force on a day in a financial year other than 1  July--the amount worked out using the formula:\nRenewal of licence\n (2) Subject to subsection  (3), the amount of depot licence charge payable in respect of the renewal of a depot licence is $4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount.\n (3) If:\n (a) the depot concerned was licensed under Part  IVA of the Customs Act during the whole of the period of 12 months ending on the last 31 March before the start of the financial year for which the renewal is sought; and\n (b) there were less than 300 transactions handled in relation to the depot during that 12 -month period;\nthe amount of depot licence charge payable in respect of the renewal of the depot licence is $1,500, or, if another amount not exceeding $2,250 is prescribed, that other amount."
+    },
+    {
+      "key": "section:6A",
+      "title": "Section 6A - Amount of depot licence variation charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "6A",
+      "main_structural_heading": "Amount of depot licence variation charge",
+      "defined_term": null,
+      "structure_path": "Part 2--DEPOTS > Section 6A",
+      "text": "The amount of depot licence variation charge payable by an applicant for the variation of a depot licence is $300 or, if another amount, not exceeding $450, is prescribed, that other amount."
+    },
+    {
+      "key": "section:6B",
+      "title": "Section 6B - Imposition of charges",
+      "main_structural_unit": "section",
+      "main_structural_number": "6B",
+      "main_structural_heading": "Imposition of charges",
+      "defined_term": null,
+      "structure_path": "Part 3--WAREHOUSES > Section 6B",
+      "text": "(1) Warehouse licence application charge payable as set out in section  80 of the Customs Act is imposed.\n (2) Warehouse licence charge payable as set out in section  85 of the Customs Act is imposed.\n (3) Warehouse licence variation charge payable as set out in section  81B of the Customs Act is imposed."
+    },
+    {
+      "key": "section:6C",
+      "title": "Section 6C - Amount of warehouse licence application charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "6C",
+      "main_structural_heading": "Amount of warehouse licence application charge",
+      "defined_term": null,
+      "structure_path": "Part 3--WAREHOUSES > Section 6C",
+      "text": "The amount of warehouse licence application charge payable by an applicant for a warehouse licence is $3,000, or, if another amount not exceeding $4,500 is prescribed, that other amount."
+    },
+    {
+      "key": "section:6D",
+      "title": "Section 6D - Amount of warehouse licence charge--general",
+      "main_structural_unit": "section",
+      "main_structural_number": "6D",
+      "main_structural_heading": "Amount of warehouse licence charge--general",
+      "defined_term": null,
+      "structure_path": "Part 3--WAREHOUSES > Section 6D",
+      "text": "Grant of licence\n (1) The amount of warehouse licence charge payable in respect of the grant of a warehouse licence is:\n (a) for the grant of a warehouse licence that comes into force on a 1  July--$4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount; or\n (b) for the grant of a warehouse licence that comes into force on a day in a financial year other than 1  July--the amount worked out using the formula:\nRenewal of licence\n (2) The amount of warehouse licence charge payable in respect of the renewal of a warehouse licence is $4,000, or, if another amount not exceeding $6,000 is prescribed, that other amount."
+    },
+    {
+      "key": "section:6F",
+      "title": "Section 6F - Amount of warehouse licence variation charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "6F",
+      "main_structural_heading": "Amount of warehouse licence variation charge",
+      "defined_term": null,
+      "structure_path": "Part 3--WAREHOUSES > Section 6F",
+      "text": "The amount of warehouse licence variation charge payable by an applicant for the variation of a warehouse licence is $300, or, if another amount not exceeding $450 is prescribed, that other amount."
+    },
+    {
+      "key": "section:6G",
+      "title": "Section 6G - Imposition of charges",
+      "main_structural_unit": "section",
+      "main_structural_number": "6G",
+      "main_structural_heading": "Imposition of charges",
+      "defined_term": null,
+      "structure_path": "Part 4--CUSTOMS--BROKERS > Section 6G",
+      "text": "(1) Customs broker licence application charge payable as set out in section  183CA of the Customs Act is imposed.\n (2) Customs broker licence charge payable as set out in section  183CJA of the Customs Act is imposed."
+    },
+    {
+      "key": "section:6H",
+      "title": "Section 6H - Amount of customs broker licence application charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "6H",
+      "main_structural_heading": "Amount of customs broker licence application charge",
+      "defined_term": null,
+      "structure_path": "Part 4--CUSTOMS--BROKERS > Section 6H",
+      "text": "The amount of customs broker licence application charge payable by an applicant for a broker&#39;s licence is:\n (a) if the applicant is a natural person who does not intend to act as a customs broker in his or her own right when the licence is in force--$130, or, if another amount not exceeding $195 is prescribed, that other amount; or\n (b) in any other case--$1,300, or, if another amount not exceeding $1,950 is prescribed, that other amount."
+    },
+    {
+      "key": "section:6J",
+      "title": "Section 6J - Amount of customs broker licence charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "6J",
+      "main_structural_heading": "Amount of customs broker licence charge",
+      "defined_term": null,
+      "structure_path": "Part 4--CUSTOMS--BROKERS > Section 6J",
+      "text": "The amount of customs broker licence charge payable in respect of the grant or renewal of a broker&#39;s licence is:\n (a) if the holder of the licence is a natural person who does not intend to act as a customs broker in his or her own right when the licence is in force--$240, or, if another amount not exceeding $360 is prescribed, that other amount; or\n (b) in any other case--$2,400, or, if another amount not exceeding $3,600 is prescribed, that other amount."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 5--REGULATIONS > Section 7",
+      "text": "The Governor-General may make regulations for the purposes of this Act."
+    }
+  ]
+}

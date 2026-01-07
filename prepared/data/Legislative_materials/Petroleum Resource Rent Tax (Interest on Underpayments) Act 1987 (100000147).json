@@ -1,0 +1,43 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/prrtoua1987619/",
+    "register_url": "https://www.legislation.gov.au/C2004A03553/latest/text",
+    "source": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987 (100000147).txt",
+    "filename": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987 (100000147).json",
+    "name": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987",
+    "citation": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987 > Section 1",
+      "text": "(Assented to 18 December 1987)\n  1. This Act may be cited as the Petroleum Resource Rent Tax (Interest on\nUnderpayments) Act 1987.\n(Minister's second reading speech made in-\n    House of Representatives on 21 October 1987\n    Senate on 3 November 1987)\nNo. 144 of 1987"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987 > Section 2",
+      "text": "2. This Act shall come into operation on the day on which the Petroleum\nResource Rent Tax Assessment Act 1987 comes into operation.\nNo. 144 of 1987"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Imposition of interest charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Imposition of interest charge",
+      "defined_term": null,
+      "structure_path": "Petroleum Resource Rent Tax (Interest on Underpayments) Act 1987 > Section 3",
+      "text": "3. Interest that is payable in accordance with section 65 of the Petroleum\nResource Rent Tax Assessment Act 1987 is imposed by this Act."
+    }
+  ]
+}

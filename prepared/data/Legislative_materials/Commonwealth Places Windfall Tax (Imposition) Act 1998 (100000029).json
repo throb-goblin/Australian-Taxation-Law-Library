@@ -1,0 +1,53 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/cpwta1998445/",
+    "register_url": "https://www.legislation.gov.au/C2004A05337/latest/text",
+    "source": "Commonwealth Places Windfall Tax (Imposition) Act 1998 (100000029).txt",
+    "filename": "Commonwealth Places Windfall Tax (Imposition) Act 1998 (100000029).json",
+    "name": "Commonwealth Places Windfall Tax (Imposition) Act 1998",
+    "citation": "Commonwealth Places Windfall Tax (Imposition) Act 1998"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places Windfall Tax (Imposition) Act 1998 > Section 1",
+      "text": "This Act may be cited as the Commonwealth Places Windfall Tax (Imposition)\nAct 1998.\nNo. 26, 1998\n-"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places Windfall Tax (Imposition) Act 1998 > Section 2",
+      "text": "This Act is taken to have commenced at the same time as the Commonwealth\nPlaces Windfall Tax (Collection) Act 1998.\nNo. 26, 1998\n-"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - This Act binds the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "This Act binds the Crown",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places Windfall Tax (Imposition) Act 1998 > Section 3",
+      "text": "This Act binds the Crown in each of its capacities.\nNo. 26, 1998\n-"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Imposition of Commonwealth places windfall tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Imposition of Commonwealth places windfall tax",
+      "defined_term": null,
+      "structure_path": "Commonwealth Places Windfall Tax (Imposition) Act 1998 > Section 4",
+      "text": "(1)    Commonwealth places windfall tax is hereby imposed at the rate of 100%.\n    (2)    In this section:\nCommonwealth places windfall tax means the tax that is payable\nunder the Commonwealth Places Windfall Tax (Collection) Act 1998.\n[Minister's second reading speech made in--\nHouse of Representatives on 5 March 1998\nSenate on 23 March 1998]"
+    }
+  ]
+}

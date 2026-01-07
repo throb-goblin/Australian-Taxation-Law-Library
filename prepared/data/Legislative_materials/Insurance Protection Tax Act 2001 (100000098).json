@@ -1,0 +1,275 @@
+{
+  "doc": {
+    "jurisdiction": "new_south_wales",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nsw/consol_act/ipta2001283/",
+    "register_url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2001-040",
+    "source": "Insurance Protection Tax Act 2001 (100000098).txt",
+    "filename": "Insurance Protection Tax Act 2001 (100000098).json",
+    "name": "Insurance Protection Tax Act 2001",
+    "citation": "Insurance Protection Tax Act 2001"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 1",
+      "text": "This Act is the Insurance Protection Tax Act 2001."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 2",
+      "text": "This Act commences on 1 July 2001."
+    },
+    {
+      "key": "section:3.term:annuity",
+      "title": "Section 3 Definitions \"annuity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"annuity\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"annuity\" means a contract that satisfies the following requirements--\n     (a) the contract provides for the periodic payment of money to the\n     annuitant in fee for life or for a specified term of years as an\n     annual or more frequent entitlement,\n     (b) the periodic payment is a sum certain expressed as a dollar\n     amount, but may be varied according to a predetermined formula,\n     (c) the periodic payments are not derived from the money paid for the\n     contract but are derived solely from the contract and comprise income\n     and not the repayment of capital."
+    },
+    {
+      "key": "section:3.term:chief-commissioner",
+      "title": "Section 3 Definitions \"Chief Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Chief Commissioner\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Chief Commissioner\" means the Chief Commissioner of State Revenue referred to\nin section 60 of the Taxation Administration Act 1996."
+    },
+    {
+      "key": "section:3.term:exempt-insurance",
+      "title": "Section 3 Definitions \"exempt insurance\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"exempt insurance\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"exempt insurance\" means any of the following--\n     (a) insurance covering only property of the Crown,\n     (b) insurance effected by a separate policy in a distinct sum against\n     loss by fire on the tools, implements of work or labour used by any\n     working mechanic, artificer, handcrafter or labourer,\n     (c) insurance taken out by or on behalf of a non-profit organisation\n     having as one of its objects a charitable, benevolent, philanthropic\n     or patriotic purpose,\n     (d) insurance taken out by or on behalf of a society or institution\n     for the time being approved for the purposes of this paragraph by the\n     Chief Commissioner whose resources are, in accordance with its rules\n     or objects, used wholly or predominantly for--\n          (i) the relief of poverty, or\n          (ii) the promotion of education, or\n          (iii) any purpose directly or indirectly connected with\n          defence or the amelioration of the condition of past or\n          present members of the naval, military or air forces of the\n          Commonwealth or their dependants or any other patriotic\n          object, or\n          (iv) such other purpose as, in the opinion of the Chief\n          Commissioner, warrants the society or institution being\n          taken to be a charitable society or institution,\n     (e) insurance covering mortgages or pools of mortgages acquired for\n     the purpose of issuing mortgage-backed securities within the meaning\n     of the Duties Act 1997,\n     (f) medical benefits insurance, being insurance effected by a\n     contract of insurance that is issued by a private health insurer\n     within the meaning of the Private Health Insurance Act 2007 of the\n     Commonwealth and that provides hospital benefits or medical benefits\n     (or both), whether or not other benefits are also provided,\n     (g) insurance effected under the Workers Compensation Act 1987 or the\n     Workplace Injury Management and Workers Compensation Act 1998,\n     (h) insurance of--\n          (i) the hull of a floating vessel used primarily for\n          commercial purposes, or\n          (ii) goods or merchandise, or the freight of goods or\n          merchandise, carried by land, sea or air,\n     or both,\n     (i) redundancy insurance in respect of a housing loan where the sum\n     insured does not exceed $124,000,\n     (j) reinsurance (being a contract or contracts between two parties by\n     which one party indemnifies the other against liability or payment\n     under a contract or contracts of insurance or reinsurance),\n     (k) an annuity--\n          (i) issued, created or sold by a life company,\n          (ii) purchased by a person from a life company,\n     (l) insurance under which the class of persons who take out the\n     insurance are liable, or may become liable, under a contract of\n     insurance or by or under an Act, to meet the cost of claims made\n     under policies of insurance issued to members of that class in the\n     event that the insurer is unable to meet the cost of those claims\n     (due to the insolvency of the insurer, a shortfall in the funds\n     available to the insurer to meet the cost of the claims or for any\n     other reason), and which is insurance, or insurance of a class, for\n     the time being approved by the Treasurer for the purposes of this\n     paragraph."
+    },
+    {
+      "key": "section:3.term:general-insurance",
+      "title": "Section 3 Definitions \"general insurance\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"general insurance\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"general insurance\" means--\n     (a) any kind of insurance that is applicable to--\n          (i) property in New South Wales, or\n          (ii) a risk, contingency or event concerning an act or\n          omission that, in the normal course of events, may occur\n          within, or partly within, New South Wales,\n     or both, and\n     (b) insurance that is effected by a third-party policy within the\n     meaning of the Motor Accidents Compensation Act 1999,\nbut does not include life insurance, a life insurance rider or exempt\ninsurance."
+    },
+    {
+      "key": "section:3.term:insurance-intermediary",
+      "title": "Section 3 Definitions \"insurance intermediary\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"insurance intermediary\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"insurance intermediary\" means--\n     (a) a person who arranges contracts of insurance in New South Wales--\n          (i) for reward, or\n          (ii) as an agent for a person carrying on a business of\n          insurance, or\n     (b) a financial services licensee (as defined in section 761A of the\n     Corporations Act 2001 of the Commonwealth) whose licence covers\n     arranging contracts of insurance as an agent for a person carrying on\n     a business of insurance, or\n     (c) a regulated principal (as defined in section 1430 of the\n     Corporations Act 2001 of the Commonwealth) when carrying on business\n     as an insurance broker as authorised by Subdivision D of Division 1\n     of Part 10.2 of that Act."
+    },
+    {
+      "key": "section:3.term:insurer",
+      "title": "Section 3 Definitions \"insurer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"insurer\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"insurer\" means a person--\n     (a) who writes general insurance, and\n     (b) who does so otherwise than as an insurance intermediary, and\n     (c) who is authorised to carry on insurance business under the\n     Insurance Act 1973 of the Commonwealth."
+    },
+    {
+      "key": "section:3.term:life-insurance",
+      "title": "Section 3 Definitions \"life insurance\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"life insurance\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"life insurance\" means insurance described in section 9 (1) (a)-(g) and 9A of\nthe Life Insurance Act 1995 of the Commonwealth in respect of--\n     (a) a life or lives, or\n     (b) any event or contingency relating to or depending on a life or\n     lives,\nof a person whose principal place of residence is, or persons whose principal\nplaces of residence are, in New South Wales at the time the policy that effects\nthe insurance is issued."
+    },
+    {
+      "key": "section:3.term:life-insurance-rider",
+      "title": "Section 3 Definitions \"life insurance rider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"life insurance rider\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"life insurance rider\" means insurance that--\n     (a) is attached to a policy of life insurance, and\n     (b) adds specified events and contingencies to those insured under\n     the policy, and\n     (c) is subject to the terms and conditions of the policy."
+    },
+    {
+      "key": "section:3.term:policyholders-protection-fund",
+      "title": "Section 3 Definitions \"Policyholders Protection Fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Policyholders Protection Fund\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Policyholders Protection Fund\" means the Policyholders Protection Fund\nestablished under section 16B."
+    },
+    {
+      "key": "section:3C",
+      "title": "Section 3C - Refunds of tax from Policyholders Protection Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "3C",
+      "main_structural_heading": "Refunds of tax from Policyholders Protection Fund",
+      "defined_term": null,
+      "structure_path": "Part 1A - ABOLITION OF TAX > Section 3C",
+      "text": "(1) If, at any time after 1 July 2011, the Treasurer determines that\n     any amount standing to the credit of the Policyholders Protection\n     Fund is not needed for payments to the Nominal Defendant's Fund in\n     accordance with Part 3A, the Treasurer may direct that the amount\n     (the\n     \"refund amount\") be paid from the Policyholders Protection Fund for\n     the purposes of providing a refund to insurers.\n     (2) The refund amount is to be paid to insurers who pay tax under\n     this Act in respect of the year commencing 1 July 2010.\n     (3) Each of those insurers is to be paid the relevant proportion of\n     the refund amount.\n     (4) The relevant proportion is the proportion that the amount of tax\n     paid by the insurer under this Act in respect of the year commencing\n     1 July 2010 bears to the total amount of tax paid by all insurers\n     under this Act in respect of that year.\n     (5) The Chief Commissioner is to pay the refund amount to insurers in\n     accordance with this section."
+    },
+    {
+      "key": "section:16.term:declared-insolvent-insurer",
+      "title": "Section 16 Definitions \"declared insolvent insurer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"declared insolvent insurer\"",
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16",
+      "text": "\"declared insolvent insurer\" means an insurer to which an order of the\nTreasurer in force under section 16A relates."
+    },
+    {
+      "key": "section:16.term:nominal-defendant",
+      "title": "Section 16 Definitions \"Nominal Defendant\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Nominal Defendant\"",
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16",
+      "text": "\"Nominal Defendant\" means the Nominal Defendant within the meaning of the Motor\nAccidents Compensation Act 1999."
+    },
+    {
+      "key": "section:16.term:nominal-defendant-s-fund",
+      "title": "Section 16 Definitions \"Nominal Defendant's Fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Nominal Defendant's Fund\"",
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16",
+      "text": "\"Nominal Defendant's Fund\" means the Fund established by section 40 of the\nMotor Accidents Compensation Act 1999."
+    },
+    {
+      "key": "section:16.term:third-party-policy",
+      "title": "Section 16 Definitions \"third-party policy\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"third-party policy\"",
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16",
+      "text": "\"third-party policy\" means a third-party policy within the meaning of Part 7.3\nof the Motor Accidents Compensation Act 1999."
+    },
+    {
+      "key": "section:16A",
+      "title": "Section 16A - Declaration of insolvent insurers",
+      "main_structural_unit": "section",
+      "main_structural_number": "16A",
+      "main_structural_heading": "Declaration of insolvent insurers",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16A",
+      "text": "(1) If the Treasurer is satisfied that a liquidator or provisional\n     liquidator has been appointed in respect of an insurer, or that an\n     insurer has been dissolved, the Treasurer may, by order published in\n     the Gazette, declare that the insurer is a declared insolvent insurer\n     for the purposes of this Part.\n     (2) The following insurers are taken to have been declared by order\n     under this section to be declared insolvent insurers for the purposes\n     of this Part on 15 March 2001 (the date on which a provisional\n     liquidator was appointed in respect of those insurers)--\n          (a) HIH Casualty and General Insurance Limited,\n          (b) FAI General Insurance Company Limited,\n          (c) CIC Insurance Limited."
+    },
+    {
+      "key": "section:16B",
+      "title": "Section 16B - Policyholders Protection Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "16B",
+      "main_structural_heading": "Policyholders Protection Fund",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16B",
+      "text": "(1) There is established in the Special Deposits Account a\n     Policyholders Protection Fund.\n     (2) The following is to be paid into the Fund--\n          (a) money appropriated by Parliament to the Fund under\nSection 16C,\n          (c) money required to be paid into the Fund from the\n          Nominal Defendant's Fund in accordance with section 16G,\n          (d) any gift or bequest of money for the purposes of the\n          Fund,\n          (e) any money appropriated by Parliament for the purposes\n          of the Fund,\n          (f) any other money required by law to be paid into the\n          Fund.\n     (3) The following is to be paid from the Fund--\n          (b) money required to be paid from the Fund into the\n          Nominal Defendant's Fund in accordance with section 16E,\n          (c) money to be paid from the Fund into the Consolidated\n          Fund in accordance with section 16H,\n          (ca) money the Treasurer directs to be paid from the Fund\n          for the purposes of providing a refund to insurers in\n          accordance with section 3C,\n          (d) any other money required by law to be paid from the\n          Fund."
+    },
+    {
+      "key": "section:16C",
+      "title": "Section 16C - Tax to be paid into Policyholders Protection Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "16C",
+      "main_structural_heading": "Tax to be paid into Policyholders Protection Fund",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16C",
+      "text": "(1) There is appropriated by this section for payment out of the\n     Consolidated Fund into the Policyholders Protection Fund all amounts\n     received in payment of tax under this Act.\n     (2) There is payable out of the Policyholders Protection Fund such\n     amounts as may become payable under this Act by way of refunds of\n     tax."
+    },
+    {
+      "key": "section:16E",
+      "title": "Section 16E - Application of Policyholders Protection Fund--claims under third-party motor accident policies of insolvent insurers",
+      "main_structural_unit": "section",
+      "main_structural_number": "16E",
+      "main_structural_heading": "Application of Policyholders Protection Fund--claims under third-party motor accident policies of insolvent insurers",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16E",
+      "text": "Section 16E Application of Policyholders Protection Fund--claims under third-party\nmotor accident policies of insolvent insurers\n     (1) The Policyholders Protection Fund must be applied to meet\n     expenditure from the Nominal Defendant's Fund in connection with\n     third-party policies issued by declared insolvent insurers.\n     (2) All payments made from the Policyholders Protection Fund under\n     this section are to be made in the amounts, on the conditions and at\n     the times determined by the Treasurer."
+    },
+    {
+      "key": "section:16G",
+      "title": "Section 16G - Repayments to Policyholders Protection Fund--money recovered from motor accident insolvent insurers and re-insurers",
+      "main_structural_unit": "section",
+      "main_structural_number": "16G",
+      "main_structural_heading": "Repayments to Policyholders Protection Fund--money recovered from motor accident insolvent insurers and re-insurers",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16G",
+      "text": "Section 16G Repayments to Policyholders Protection Fund--money recovered from motor\naccident insolvent insurers and re-insurers\n     (1) This section applies in relation to money recovered by the\n     Nominal Defendant--\n          (a) from a re-insurer under section 191 of the Motor\n          Accidents Compensation Act 1999 in connection with a third-\n          party policy issued by a declared insolvent insurer, or\n          (b) in connection with the winding up of a declared\n          insolvent insurer.\n     (2) If the Treasurer determines that any money to which this section\n     applies is not needed for payments in connection with third-party\n     policies issued by declared insolvent insurers, the money is to be\n     paid from the Nominal Defendant's Fund into the Policyholders\n     Protection Fund in accordance with arrangements made between the\n     Treasurer and the Nominal Defendant."
+    },
+    {
+      "key": "section:16H",
+      "title": "Section 16H - Policyholders Protection Fund to reimburse additional money advanced from Consolidated Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "16H",
+      "main_structural_heading": "Policyholders Protection Fund to reimburse additional money advanced from Consolidated Fund",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16H",
+      "text": "Section 16H Policyholders Protection Fund to reimburse additional money advanced from\nConsolidated Fund\nIf the Treasurer determines that money standing to the credit of the\nPolicyholders Protection Fund is not needed for payments to the Nominal\nDefendant's Fund in accordance with this Part, the Treasurer may pay an amount\nof money from the Policyholders Protection Fund (up to the amount advanced to\nthe Policyholders Protection Fund by the Treasurer) into the Consolidated Fund."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 24",
+      "text": "(1) The Governor may make regulations, not inconsistent with this\n     Act, for or with respect to any matter that by this Act is required\n     or permitted to be prescribed or that is necessary or convenient to\n     be prescribed for carrying out or giving effect to this Act."
+    },
+    {
+      "key": "section:16D",
+      "title": "Section 16D - (Repealed)",
+      "main_structural_unit": "section",
+      "main_structural_number": "16D",
+      "main_structural_heading": "(Repealed)",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16D",
+      "text": ""
+    },
+    {
+      "key": "section:16F",
+      "title": "Section 16F - (Repealed)",
+      "main_structural_unit": "section",
+      "main_structural_number": "16F",
+      "main_structural_heading": "(Repealed)",
+      "defined_term": null,
+      "structure_path": "Part 3A - POLICYHOLDERS PROTECTION FUND > Section 16F",
+      "text": ""
+    },
+    {
+      "key": "schedule:1.part:2.section:29-5",
+      "title": "Schedule 1 Section 29-5 - 2001; Legislative Council, 28.6.2001. Assented to 29.6.2001. Date of",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "29-5",
+      "main_structural_unit_heading": "2001; Legislative Council, 28.6.2001. Assented to 29.6.2001. Date of",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 - Provisions consequent on enactment of Regulatory Reform and Other > Section 29-5",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions Part 1 - General 1 Regulations (1) The regulations may contain provisions of a savings or transitional nature consequent on the enactment of this Act or any Act that amends this Act. (2) Any such provision may, if the regulations so provide, take effect from the date of assent to the Act concerned or a later date. (3) To the extent to which any such provision takes effect from a date that is earlier than the date of its publication on the NSW legislation website, the provision does not operate so as-- (a) to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the date of its publication, or (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of its publication.",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions Part 1 - General 1 Regulations (1) The regulations may contain provisions of a savings or transitional nature consequent on the enactment of this Act or any Act that amends this Act. (2) Any such provision may, if the regulations so provide, take effect from the date of assent to the Act concerned or a later date. (3) To the extent to which any such provision takes effect from a date that is earlier than the date of its publication on the NSW legislation website, the provision does not operate so as-- (a) to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the date of its publication, or (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of its publication.\n\nSection 29-5 - 2001; Legislative Council, 28.6.2001. Assented to 29.6.2001. Date of\n\ncommencement, 1.7.2001, sec 2. This Act has been amended as follows--\n _____________________________________________________________________________\n||    |      |Insurance (Policyholders                                        |\n||    |      |Protection) Legislation Amendment Act 2001. Assented to         |\n||2001|No 41 |29.6.2001.                                                      |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |Insurance Protection Tax                                        |\n||    |      |Amendment Act 2001. Assented to 29.11.2001.                     |\n||    |No 87 |                                                                |\n||    |      |Date of commencement, Sch 1 [10] and [11] excepted, 1.7.2001,   |\n||    |      |sec 2 (1); date of commencement of Sch 1 [10] and [11], assent, |\n|_____________________________________________________________________________|\n||    |      |Financial Services Reform                                       |\n||2002|No 26 |(Consequential Amendments) Act 2002. Assented to 21.6.2002.     |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |Statute Law (Miscellaneous                                      |\n||2003|No 82 |Provisions) Act (No 2) 2003. Assented to 27.11.2003.            |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |State Revenue Legislation                                       |\n||2005|No 111|Further Amendment Act 2005. Assented to 7.12.2005.              |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |Miscellaneous Acts (Local                                       |\n||    |      |Court) Amendment Act 2007. Assented to 13.12.2007.              |\n||2007|No 94 |                                                                |\n||    |      |Date of commencement of Sch 4, 6.7.2009, sec 2 and 2009 (314) LW|\n|_____________________________________________________________________________|\n||    |      |State Revenue Legislation                                       |\n||2009|No 51 |Further Amendment Act 2009. Assented to 26.6.2009.              |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |State Revenue Legislation                                       |\n||2010|No 46 |Amendment Act 2010. Assented to 28.6.2010.                      |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |Regulatory Reform and Other                                     |\n||2015|No 48 |Legislative Repeals Act 2015. Assented to 5.11.2015.            |\n||    |      |                                                                |\n|_____________________________________________________________________________|\n||    |      |Better Regulation Legislation                                   |\n||2024|No 53 |Amendment (Miscellaneous) Act 2024. Assented to 20.8.2024.      |\n||    |      |                                                                |\n|_____________________________________________________________________________|\nTable of amendments\n ___________________________________________________________________________\n||                                  |Am 2001 No 41, Sch 1 [1]; 2001 No 87,  |\n||Sec 3                             |Sch 1 [1]; 2002 No 26, Sch 2.6 [1] [2];|\n||                                  |2005 No 111, Sch 3 [1]; 2009 No 51, Sch|\n|___________________________________________________________________________|\n||Secs 3A, 3B                       |Ins 2010 No 46, Sch 5 [1]. Rep 2015 No |\n|___________________________________________________________________________|\n||Sec 3C                            |Ins 2010 No 46, Sch 5 [1]. Am 2024 No  |\n|___________________________________________________________________________|\n||Part 2, Div 1, heading            |Am 2001 No 87, Sch 1 [2]. Rep 2015 No  |\n|___________________________________________________________________________|\n||Sec 4                             |Am 2001 No 87, Sch 1 [3]. Rep 2015 No  |\n|___________________________________________________________________________|\n||Sec 5                             |Am 2001 No 87, Sch 1 [4]-[6]. Rep 2015 |\n|___________________________________________________________________________|\n||Sec 6                             |Subst 2001 No 87, Sch 1 [7]. Rep 2015  |\n|___________________________________________________________________________|\n||Sec 8                             |Am 2001 No 87, Sch 1 [8]. Rep 2015 No  |\n|___________________________________________________________________________|\n||Sec 9                             |Am 2009 No 51, Sch 7.3 [2]. Rep 2015 No|\n|___________________________________________________________________________|\n||Sec 10                            |Am 2001 No 87, Sch 1 [9]. Rep 2015 No  |\n|___________________________________________________________________________|\n||Part 2, Div 2 (sec 11A)           |Ins 2001 No 87, Sch 1 [10]. Rep 2015 No|\n|___________________________________________________________________________|\n||Part 2, Div 3, heading (previously|Renumbered 2001 No 87, Sch 1 [11]. Rep |\n|___________________________________________________________________________|\n||Sec 16                            |Subst 2001 No 41, Sch 1 [2]. Am 2024 No|\n|___________________________________________________________________________|\n||Sec 16B                           |Ins 2001 No 41, Sch 1 [2]. Am 2010 No  |\n|___________________________________________________________________________|\n||Sec 16D                           |Ins 2001 No 41, Sch 1 [2]. Rep 2024 No |\n|___________________________________________________________________________|\n||Sec 16F                           |Ins 2001 No 41, Sch 1 [2]. Rep 2024 No |\n|___________________________________________________________________________|\n||Sec 16H                           |Ins 2001 No 41, Sch 1 [2]. Am 2024 No  |\n|___________________________________________________________________________|\n||Sec 19                            |Am 2002 No 26, Sch 2.6 [3]. Rep 2015 No|\n|___________________________________________________________________________|\n||Sec 20A                           |Ins 2001 No 87, Sch 1 [12]. Rep 2015 No|\n|___________________________________________________________________________|\n||Sec 23                            |Am 2007 No 94, Sch 4. Rep 2015 No 48,  |\n|___________________________________________________________________________|\n||Sec 27                            |Ins 2001 No 87, Sch 1 [13]. Rep 2015 No|\n|___________________________________________________________________________|\n||Sec 28                            |Ins 2005 No 111, Sch 3 [2]. Rep 2015 No|\n|___________________________________________________________________________|"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "doc": {
+    "jurisdiction": "victoria",
+    "source_url": "https://classic.austlii.edu.au/au/legis/vic/consol_act/paaa1968327/",
+    "register_url": "https://www.legislation.vic.gov.au/in-force/acts/perpetuities-and-accumulations-act-1968/",
+    "source": "Perpetuities and Accumulations Act 1968 (100000144).txt",
+    "filename": "Perpetuities and Accumulations Act 1968 (100000144).json",
+    "name": "Perpetuities and Accumulations Act 1968",
+    "citation": "Perpetuities and Accumulations Act 1968"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title and Act and rule against perpetuities to bind Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title and Act and rule against perpetuities to bind Crown",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 1",
+      "text": "(1)     This Act may be cited as the\nPerpetuities and Accumulations Act 1968.\nCf. Law Reform (Property, Perpetuities and\nSuccession) Act 1962 (W.A.) s. 2, Perpetuities and Accumu-lations Act 1964\n(U.K.) s. 15, Perpetuities Act 1964 (N.Z.) s. 3.\n     (2)     This Act and the rule against perpetuities shall bind the Crown except\nin respect of dispositions of property made by the Crown.\nCf. W.A. Act s. 4, U.K. Act s. 15,\nN.Z. Act s. 2."
+    },
+    {
+      "key": "section:2.term:court",
+      "title": "Section 2 Definitions \"Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Court\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"Court\" means the Supreme Court;"
+    },
+    {
+      "key": "section:2.term:disposition",
+      "title": "Section 2 Definitions \"disposition\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"disposition\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"disposition\" includes the conferring or exercise of a power of\nappointment or any other power or authority to dispose of an interest in or a\nright over property and any other disposition of an interest in or right over\nproperty; and references to the interest disposed of shall be construed\naccordingly;\nS. 2(1) def. of domestic partner\ninserted by No. 27/2001 s. 3(Sch. 1 item 8.1), substituted by\nNo. 12/2008 s. 73(1)(Sch. 1 item 46.1), amended by No. 4/2009\ns. 37(Sch. 1 item 20.1).\n\"domestic partner \"of a person\nmeans&#8212;\n         (a)     a person who is in a registered domestic relationship with the person;\nor\n         (b)     a person to whom the person is not married but with whom the person is\nliving as a couple on a genuine domestic basis (irrespective of\ngender);"
+    },
+    {
+      "key": "section:2.term:instrument",
+      "title": "Section 2 Definitions \"instrument\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"instrument\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"instrument\" includes a will, and also includes an instrument,\ntestamentary or otherwise exercising a power of appointment whether general or\nspecial but does not include an Act of Parliament;\nS. 2(1) def. of partner inserted by\nNo. 27/2001 s. 3(Sch. 1 item 8.1)."
+    },
+    {
+      "key": "section:2.term:partner",
+      "title": "Section 2 Definitions \"partner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"partner\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"partner\" of a person means the person's spouse or domestic\npartner;"
+    },
+    {
+      "key": "section:2.term:power-of-appointment",
+      "title": "Section 2 Definitions \"power of appointment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"power of appointment\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"power of appointment\" includes any discretionary power to\ntransfer or grant or create a beneficial interest in property without the\nfurnishing of valuable consideration;"
+    },
+    {
+      "key": "section:2.term:property",
+      "title": "Section 2 Definitions \"property\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"property\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"property\" includes any interest in real or personal property\nand any thing in action;\nS. 2(1) def. of spouse inserted by\nNo. 27/2001 s. 3(Sch. 1 item 8.1)."
+    },
+    {
+      "key": "section:2.term:spouse",
+      "title": "Section 2 Definitions \"spouse\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"spouse\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"spouse\" of a person means a person to whom the person is\nmarried;'."
+    },
+    {
+      "key": "section:2.term:will",
+      "title": "Section 2 Definitions \"will\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"will\"",
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 2",
+      "text": "\"will\" includes a codicil.\n     (2)     For the purposes of this Act a disposition contained in a will shall\nbe deemed to be made at the death of the testator.\n     (3)     For the purposes of this Act a person shall be treated as a member of\na class if in his case all the conditions identifying a member of the class are\nsatisfied, and shall be treated as a potential member if in his case only one or\nsome of those conditions are satisfied but there is a possibility that the\nremainder will in time be satisfied.\nS. 2(4) inserted by No. 27/2001\ns. 3(Sch. 1 item 8.2), substituted by No. 12/2008\ns. 73(1)(Sch. 1 item 46.2).\n     (4)     For the purposes of the definition of domestic\npartner in subsection (1)&#8212;\nS. 2(4)(a) amended by No. 4/2009\ns. 37(Sch. 1 item 20.2(a)).\n         (a)     \"registered domestic relationship\" has the same meaning as\nin the Relationships Act 2008; and\nS. 2(4)(b) amended by No. 4/2009\ns. 37(Sch. 1 item 20.2(b)).\n         (b)     in determining whether persons who are not in a registered domestic\nrelationship are domestic partners of each other, all the circumstances of their\nrelationship are to be taken into account, including any one or more of the\nmatters referred to in section 35(2) of the Relationships Act 2008\nas may be relevant in a particular case.\nCf. W.A. Act s. 3, U.K. Act s. 15,\nN.Z. Act s. 4."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Application",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Application",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 3",
+      "text": "(1)     Save as otherwise provided in this Act,\nthis Act shall apply only in relation to instruments taking effect after the\ncommencement of this Act, and in the case of an instrument whereby a special\npower of appointment is exercised shall apply only where the instrument creating\nthe power takes effect after that commencement: Provided that section 4 shall\napply in all cases for construing the foregoing reference to a special power of\nappointment.\n     (2)     This Act shall apply in relation to a disposition made otherwise than\nby an instrument as if the disposition had been contained in an instrument\ntaking effect when the disposition was made.\nCf. W.A. Act s. 16, U.K. Act s. 7,\nN.Z. Act s. 5."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Powers of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Powers of appointment",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 4",
+      "text": "For the purpose of the rule against\nperpetuities a power of appointment shall be treated as a special power\nunless&#8212;\n         (a)     in the instrument creating the power it is expressed to be exercisable\nby one person only; and\n         (b)     it could at all time during its currency when that person is of full\nage and capacity be exercised by him so as immediately to transfer to or\notherwise vest in himself the whole of the interest governed by the power\nwithout the consent of any other person or compliance with any other condition,\nnot being a formal condition relating only to the mode of exercise of the\npower:\nProvided that for the purpose of determining whether a disposition made\nunder a power of appointment exercisable by will only is void for remoteness the\npower shall be treated as a general power where it would have fallen to be so\ntreated if exercisable by deed.\nPerpetuities\nCf. W.A. Act s. 5, U.K. Act s. 1,\nN.Z. Act s. 6."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Power to specify perpetuity period",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Power to specify perpetuity period",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 5",
+      "text": "(1)     Save as in this Act otherwise provided\nwhere the instrument by which any disposition is made so provides the perpetuity\nperiod applicable to the disposition under the rule against perpetuities instead\nof being of any other duration shall be such number of years not exceeding\neighty as is specified in the instrument as the perpetuity period applicable to\nthe disposition.\n     (2)     Subsection (1) shall not have effect where the disposition is made in\nexercise of a special power of appointment but where a period is specified under\nthat subsection in the instrument creating such a power the period shall apply\nin relation to any disposition under the power as it applies in relation to the\npower itself.\n     (3)     If no period of years is specified in an instrument by which a\ndisposition is made as the perpetuity period applicable to the disposition but a\ndate certain is specified in the instrument as the date on which the disposition\nshall vest the instrument shall, for the purposes of this section, be deemed to\nspecify as the perpetuity period applicable to the disposition a number of years\nequal to the number of years from the date of the taking effect of the\ninstrument to the specified vesting date.\nCf. W.A. Act s. 7, U.K. Act s. 3,\nN.Z. Act s. 8.\nSection 6 \"Wait and see\" rule\nS. 6(1) amended\nby No. 74/2000 s. 3(Sch. 1 item 97.1).\n     (1)     Where apart from the provisions of this section and of section 9 a\ndisposition would be void on the ground that the interest disposed of might not\nbecome vested until too remote a time the disposition shall be treated until\nsuch time (if any) as it becomes established that the vesting must occur, if at\nall, after the end of the perpetuity period as if the disposition were not\nsubject to the rule against perpetuities; and its becoming so established shall\nnot affect the validity of anything previously done in relation to the interest\ndisposed of by way of advancement, application of intermediate income or\notherwise.\n     (2)     Where apart from the said provisions a disposition consisting of the\nconferring of a general power of appointment would be void on the ground that\nthe power might not become exercisable until too remote a time the disposition\nshall be treated until such time (if any) as it becomes established that the\npower will not be exercisable within the perpetuity period as if the disposition\nwere not subject to the rule against perpetuities.\n     (3)     Where apart from the said provisions a disposition consisting of the\nconferring of any power option or other right would be void on the ground that\nthe right might be exercised at too remote a time the disposition shall be\ntreated as regards any exercise of the right within the perpetuity period as if\nit were not subject to the rule against perpetuities and subject to the said\nprovisions shall be treated as void for remoteness only if and so far as the\nright is not fully exercised within that period.\n     (4)     Nothing in this section makes any person a life in being for the\npurposes of ascertaining the perpetuity period unless the life of that person is\none expressed or implied as relevant for this purpose by the terms of the\ndisposition and would have been reckoned a life in being for such purpose if\nthis section had not been enacted:\nProvided however that in the case of a disposition to a class of persons or\nto one or more members of a class, any person living at the date of the\ndisposition whose life is so expressed or implied as relevant for any member of\nthe class may be reckoned a life in being in ascertaining the perpetuity\nperiod.\nCf. W.A. Act s. 8, N.Z. Act\ns. 22."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Power to apply to Court for declaration as to validity",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Power to apply to Court for declaration as to validity",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 7",
+      "text": "(1)     A trustee of any property, or any person\ninterested under or on the invalidity of, a disposition of property may at any\ntime apply to the Court for a declaration as to the validity, in respect to the\nrule against perpetuities, of a disposition of that property.\n     (2)     The Court may, on an application under subsection (1), make a\ndeclaration on the basis of facts existing and events that have occurred at the\ntime the declaration is made, as to the validity or otherwise of the disposition\nin respect of which the application is made; but the Court shall not make a\ndeclaration in respect of any disposition the validity of which cannot be\ndetermined at the time at which the Court is asked to make the\ndeclaration.\nCf. W.A. Act s. 6, U.K. Act s. 2,\nN.Z. Act s. 6."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Presumptions and evidence as to future parenthood",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Presumptions and evidence as to future parenthood",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 8",
+      "text": "(1)     Where in any proceedings there arises on\nthe rule against perpetuities a question which turns on the capacity of a person\nto have a child at some future time, then&#8212;\n         (a)     it shall be presumed, subject to paragraph (b), that a male can have a\nchild at the age of twelve years or over but not under that age and that a\nfemale can have a child at the age of twelve years or over but not under that\nage or over the age of fifty-five years; but\n         (b)     in the case of a living person evidence may be given to show that he\nor she will or will not be capable of having a child at the time in\nquestion.\n     (2)     Where any such question is decided by treating a person as incapable\nof having a child at a particular time and he or she does so, the Court may make\nsuch order as it thinks fit for placing the persons interested in the property\ncomprised in the disposition so far as may be just in the position they would\nhave held if the question had not been so decided.\n     (3)     Subject to subsection (2), where any such question is decided in\nrelation to a disposition by treating a person as capable or incapable of having\na child at a particular time then he or she shall be so treated for the purpose\nof any question which may arise on the rule against perpetuities in relation to\nthe same disposition in any subsequent proceedings.\n     (4)     In the foregoing provisions of this section references to having a\nchild are references to begetting or giving birth to a child; but those\nprovisions (except subsection (1)(b)) shall apply in relation to the possibility\nthat a person will at any time have a child by adoption, legitimation or other\nmeans as they apply to his or her capacity at that time to beget or give birth\nto a child.\nCf. No. 6344 s. 162. W.A. Act\ns. 9, U.K. Act s. 4, N.Z. Act s. 9."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Reduction of age and exclusion of class members to avoid remoteness",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Reduction of age and exclusion of class members to avoid remoteness",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 9",
+      "text": "(1)     Where a disposition is limited by\nreference to the attainment by any person or persons of a specified age\nexceeding twenty-one years and it is apparent at the time the disposition is\nmade or becomes apparent at a subsequent time&#8212;\n         (a)     that the disposition would apart from this section be void for\nremoteness; but\n         (b)     that it would not be so void if the specified age had been twenty-one\nyears&#8212;\nthe disposition shall be treated for all purposes as if instead of being\nlimited by reference to the age in fact specified it had been limited by\nreference to the age nearest to that age which would if specified instead, have\nprevented the disposition from being so void.\n     (2)     Where in the case of any disposition different ages exceeding\ntwenty-one years are specified in relation to different persons&#8212;\n         (a)     the reference in paragraph (b) of subsection (1) to the specified age\nshall be construed as a reference to all the specified ages; and\n         (b)     that subsection shall operate to reduce each such age so far as is\nnecessary to save the disposition from being void for remoteness.\n     (3)     Where the inclusion of any persons being potential members of a class\nor unborn persons who at birth would become members or potential members of the\nclass prevents the foregoing provisions of this section from operating to save a\ndisposition from being void for remoteness those persons shall thenceforth be\ndeemed for all the purposes of the disposition to be excluded from the class and\nthe said provisions shall thereupon have effect accordingly.\n     (4)     Where in the case of a disposition to which subsection (3) does not\napply it is apparent at the time the disposition is made or becomes apparent at\na subsequent time that apart from this subsection the inclusion of any persons,\nbeing potential members of a class or unborn persons who at birth could become\nmembers or potential members of the class would cause the disposition to be\ntreated as void for remoteness those persons shall unless their exclusion would\nexhaust the class thenceforth be deemed for all the purposes of the disposition\nto be excluded from the class.\n     (5)     Where this action has effect in relation to a disposition to which\nsection 6 applies the operation of this section shall not affect the validity of\nanything previously done in relation to the interest disposed of by way of\nadvancement, application of intermediate income or otherwise.\nCf. W.A. Act s. 12, U.K. Act s. 5,\nN.Z. Act s. 13.\nS. 10 (Heading) inserted by No. 27/2001\ns. 3(Sch. 1 item 8.3).\nS. 10 amended by No. 27/2001 s. 3(Sch.\nSection 1 item 8.4)."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Unborn partner",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Unborn partner",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 10",
+      "text": "The surviving partner of a person who is a life\nin being for the purposes of the rule against perpetuities shall be deemed to be\na life in being for the purpose of&#8212;\nS. 10(a) amended by No. 27/2001\ns. 3(Sch. 1 item 8.4).\n         (a)     a disposition in favour of that surviving partner; and\nS. 10(b) amended by No. 27/2001\ns. 3(Sch. 1 item 8.4).\n         (b)     a disposition in favour of a charity which attains or of a person who\nattains or of a class the members of which attain according to the terms of the\ndisposition a vested interest on or after the death of the survivor of the said\nperson who is a life in being and that surviving partner, or on or after the\ndeath of that surviving partner or on or after the happening of any contingency\nduring her or his lifetime.\nCf. W.A. Act s. 13, U.K. Act s. 6,\nN.Z. Act s. 14."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Dependent limitations",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Dependent limitations",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 11",
+      "text": "A disposition shall not be treated as void for\nremoteness by reason only that the interest disposed of is ulterior to and\ndependent upon an interest under a disposition which is so void, and the vesting\nof an interest shall not be prevented from being accelerated on the failure of a\nprior interest by reason only that the failure arises because of\nremoteness.\nNo. 6344 s. 161."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Abolition of the double possibility rule",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Abolition of the double possibility rule",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 12",
+      "text": "(1)     The rule of law prohibiting the\nlimitation, after a life interest to an unborn person, of an interest in land to\nthe unborn child or other issue of an unborn person is hereby declared to have\nbeen abolished by section 161 of the Property Law Act 1928, but without\nprejudice to any other rule relating to perpetuities.\n     (2)     This section shall apply only to limitations or trusts created by an\ninstrument within the meaning of the Property Law Act 1958 coming into\noperation after the commencement of the Property Law Act 1928.\nNo. 6344 s. 161."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Restrictions on the perpetuity rule",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Restrictions on the perpetuity rule",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 13",
+      "text": "(1)     For removing doubts, it is hereby declared\nthat the rule of law relating to perpetuities does not apply and shall be deemed\nnever to have applied&#8212;\n         (a)     to any power to distrain on or to take possession of land or the\nincome thereof given by way of indemnity against a rent, whether charged upon or\npayable in respect of any part of that land or not; or\n         (b)     to any rentcharge created only as an indemnity against another\nrentcharge, although the indemnity rentcharge may arise or become payable only\non breach of a condition or stipulation; or\n         (c)     to any power, whether exercisable on breach of a condition or\nstipulation or not, to retain or withhold payment of any instalment of a\nrentcharge as an indemnity against another rentcharge; or\n         (d)     to any grant, exception or reservation of and right of entry on, or\nuser of, the surface of land or of any easements, rights or privileges over or\nunder land for the purpose of&#8212;\n               (i)     winning, working, inspecting, measuring, converting, manufacturing,\ncarrying away and disposing of mines and minerals;\n               (ii)     inspecting, grubbing up, felling and carrying away timber and other\ntrees, and the tops and lops thereof;\n               (iii)     executing repairs, alterations or additions to any adjoining land,\nor the buildings and erections thereon;\n               (iv)     constructing, laying down, altering, repairing, renewing, cleansing\nand maintaining sewers, watercourses, cesspools, gutters, drains, water-pipes,\ngas-pipes, electric wires or cables or other like works.\n     (2)     This section shall apply to instruments within the meaning of the\nProperty Law Act 1958 coming into operation before or after the\ncommencement of that Act.\nCf. No. 6401 s. 73, U.K. Act s. 8,\nN.Z. Act s. 16."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Administrative powers of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Administrative powers of trustees",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 14",
+      "text": "(1)     The rule against perpetuities shall not\noperate and shall be deemed never to have operated to invalidate a power\nconferred on trustees or other persons to sell lease exchange or otherwise\ndispose of any property for full consideration or to do any other act in the\nadministration (as opposed to the distribution) of any property, and shall not\nprevent and shall be deemed never to have prevented the payment to trustees or\nother persons of reasonable remuneration for their services.\n     (2)     This section&#8212;\n         (a)     shall not render any trustee liable for any acts done prior to the\ncommencement of the Trustee Act 1953 for which such trustee would not\nhave been liable if this section and any corresponding previous enactment had\nnot been enacted or for any acts done after the commencement of the Trustee\nAct 1953 but before the commencement of this Act for which such trustee\nwould not have been liable if this section had not been enacted;\n         (b)     shall not enable any person to recover any money distributed or paid\nunder any trust before the commencement of the Trustee Act 1953 if he\ncould not have recovered such money if this section and any corresponding\nprevious enactment had not been enacted or any money distributed or paid under\nany trust after the commencement of the Trustee Act 1953 but before the\ncommencement of this Act if he could not have recovered such money if this\nsection had not been enacted.\nCf. W.A. Act s. 14, U.K. Act s. 9,\n10, N.Z. Act s. 17."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Options",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Options",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 15",
+      "text": "(1)     The rule against perpetuities shall not\napply to a disposition consisting of the conferring of an option to acquire for\nvaluable consideration an interest reversionary (whether directly or indirectly)\non the term of a lease if&#8212;\n         (a)     the option is exercisable only by the lessee or his successors in\ntitle; and\n         (b)     it ceases to be exercisable at or before the expiration of one year\nfollowing the determination of the lease.\nThis subsection shall apply in relation to an agreement for a lease as it\napplies in relation to a lease, and \"lessee\" shall be construed\naccordingly.\n     (2)     An option to acquire an interest in land (not being an option to which\nsubsection (1) refers) or a right of pre-emption in respect of land, which\naccording to its terms is or may be exercisable at a date more than twenty-one\nyears from the date of its grant shall after the expiration of twenty-one years\nfrom the date of its grant be void and not exercisable by any person and no\nremedy shall lie in contract or otherwise for giving effect to it or making\nrestitution for its lack of effect, but&#8212;\n         (a)     this subsection shall not apply to an option or right of pre-emption\nconferred by will; and\n         (b)     nothing in this subsection shall affect an option for renewal or right\nof pre-emption contained in a lease or an agreement for a lease.\nCf. W.A. Act s. 15, U.K. Act\ns. 12, N.Z. Act s. 18."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Determinable interests",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Determinable interests",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 16",
+      "text": "(1)     The rule against perpetuities shall\napply&#8212;\n         (a)     to a possibility of reverter in land on the determination of a\ndeterminable fee simple; in which case if the fee simple does not determine\nwithin the perpetuity period it shall thereafter continue as a fee simple\nabsolute;\n         (b)     to a possibility of a resulting trust on the determination of any\nother determinable interest in property; in which case if the first interest\ncreated by the trust does not determine within the perpetuity period the\ninterest it creates shall thereafter continue as an absolute interest;\n         (c)     to a right of entry for condition broken the exercise of which may\ndetermine a fee simple subject to a condition subsequent and to an equivalent\nright in the case of property other than land; in which case if the right of\nentry or other right is not exercised within the perpetuity period the fee\nsimple shall thereafter continue as an absolute interest and any such other\ninterest in property shall thereafter continue free from the\ncondition.\n     (2)     This section shall apply whether the determinable or conditional\ndisposition is charitable or not except that the rule against perpetuities shall\nnot apply to a gift over from one charity to another.\n     (3)     Where a disposition is subject to any provision that causes an\ninterest to which paragraph (a) or paragraph (b) of subsection (1) applies to be\ndeterminable, or to any condition subsequent giving rise on breach thereof to a\nright of re-entry or an equivalent right in the case of property other than\nland, or to any exception or reservation the disposition shall be treated for\nthe purposes of this Act as including a separate disposition of any rights\narising by virtue of the provision condition subsequent exception or\nreservation.\nNo. 6401 s. 73.\nCf. W.A. Act s. 19, N.Z. Act\ns. 19."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Superannuation funds",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Superannuation funds",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 17",
+      "text": "(1)     The rule of law known as the rule against\nperpetuities shall not apply and shall be deemed never to have applied so as to\nrender void&#8212;\nS. 17(1)(a) amended by Nos 74/2000\ns. 3(Sch. 1 item 97.2), 27/2001 s. 3(Sch. 1\nitem 8.5).\n         (a)     a trust or fund established for the purpose of making provision by way\nof assistance, benefits, superannuation, allowances, gratuities or pensions for\nthe directors, officers, servants or employees of any employer or the partners\nchildren grandchildren parents dependants or legal personal representatives of\nany such directors officers servants or employees or for any persons duly\nselected or nominated for that purpose by any such directors officers servants\nor employees pursuant to the provisions of such trust or fund; or\nS. 17(1)(b) amended by Nos 74/2000\ns. 3(Sch. 1 item 97.2), 27/2001 s. 3(Sch. 1\nitem 8.5).\n         (b)     a trust or fund established for the purpose of making provision by way\nof superannuation for persons (not being employees) engaged in any lawful\nprofession trade occupation or calling or the partners children grandchildren\nparents dependants or legal personal representatives of any of those persons or\nfor any persons duly selected or nominated for that purpose pursuant to the\nprovisions of the trust or fund.\n     (2)     This section&#8212;\n         (a)     shall not render any trustee liable for any acts done prior to the\ncommencement of the Trustee Act 1953 for which such trustee would not\nhave been liable if this section and any corresponding previous enactment had\nnot been enacted or for any acts done after the commencement of the Trustee\nAct 1953 but before the commencement of this Act for which such trustee\nwould not have been liable if this section had not been enacted;\n         (b)     shall not enable any person to recover any money distributed or paid\nunder any trust before the commencement of the Trustee Act 1953 if he\ncould not have recovered such money if this section and any corresponding\nprevious enactment had not been enacted or any money distributed or paid under\nany trust after the commencement of the Trustee Act 1953 but before the\ncommencement of this Act if he could not have recovered such money if this\nsection had not been enacted.\nCf. U.K. Act s. 15, N.Z. Act\ns. 20."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Non-charitable purpose trusts",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Non-charitable purpose trusts",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 18",
+      "text": "(1)     Except as provided in subsection (2)\nnothing in this Act shall affect the operation of the rule of law rendering\nnon-charitable purpose trusts and trusts for the benefit of corporations which\nare not charities void for remoteness in cases where the trust property may be\napplied for the purposes of the trusts after the end of the perpetuity\nperiod.\n     (2)     If any such trust is not otherwise void the provisions of sections 5\nand 6 shall apply to it and the property subject to the trust may be applied for\nthe purposes of the trust during the perpetuity period but not\nthereafter.\nAccumulations\nCf. W.A. Act s. 17, U.K. Act\nss 13, 14, N.Z. Act s. 21."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Accumulation of income",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Accumulation of income",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 19",
+      "text": "(1)     Where property is settled or disposed of\nin such manner that the income thereof may be or is directed to be accumulated\nwholly or in part the power or direction to accumulate that income shall be\nvalid if the disposition of the accumulated income is or may be valid but not\notherwise.\n     (2)     Nothing in this section shall affect the power of any person or\npersons to terminate an accumulation that is for his or her benefit and any\njurisdiction or power of the Court to maintain or advance out of accumulations\nor any power of a trustee under the Trustee Act 1958 or under any other\nAct or law or under any instrument creating a trust or making a\ndisposition.\nHeading preceding s. 20\nrepealed by No. 21/2015 s. 3(Sch. 1\nitem 38).\nS. 20 repealed by No. 28/2007\ns. 3(Sch. item 51).\n     *     *     *     *     *\n&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - &quot;Wait and see&quot; rule",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "&quot;Wait and see&quot; rule",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1968 > Section 6",
+      "text": ""
+    }
+  ]
+}

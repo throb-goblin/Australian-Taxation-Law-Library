@@ -1,0 +1,235 @@
+{
+  "doc": {
+    "jurisdiction": "new_south_wales",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nsw/consol_reg/mvtr2025359/",
+    "register_url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2025-0304",
+    "source": "Motor Vehicles Taxation Regulation 2025 (100000120).txt",
+    "filename": "Motor Vehicles Taxation Regulation 2025 (100000120).json",
+    "name": "Motor Vehicles Taxation Regulation 2025",
+    "citation": "Motor Vehicles Taxation Regulation 2025"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Name of regulation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of regulation",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 1",
+      "text": "This regulation is the Motor Vehicles Taxation Regulation 2025."
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 2",
+      "text": "This regulation commences on 1 July 2025.\n     Note--: This regulation repeals and replaces the Motor Vehicles\n     Taxation Regulation 2016, which would otherwise be repealed on 1\n     September 2025 by the Subordinate Legislation Act 1989, section 10\n     (2)."
+    },
+    {
+      "key": "regulation:3.term:caravan",
+      "title": "Regulation 3 Definitions \"caravan\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"caravan\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"caravan\" means a trailer, including a camper trailer, that is--\n     (a) permanently fitted for human habitation in connection with a\n     journey, and\n     (b) used substantially for private purposes."
+    },
+    {
+      "key": "regulation:3.term:local-land-services",
+      "title": "Regulation 3 Definitions \"Local Land Services\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Local Land Services\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"Local Land Services\" has the same meaning as in the Local Land Services Act\n2013."
+    },
+    {
+      "key": "regulation:3.term:local-land-services-vehicle",
+      "title": "Regulation 3 Definitions \"Local Land Services vehicle\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Local Land Services vehicle\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"Local Land Services vehicle\" means a vehicle owned and used by or on behalf of\nLocal Land Services."
+    },
+    {
+      "key": "regulation:3.term:pcyc-vehicle",
+      "title": "Regulation 3 Definitions \"PCYC vehicle\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"PCYC vehicle\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"PCYC vehicle\" means a vehicle owned and used by or on behalf of Police\nCitizens Youth Clubs NSW Ltd."
+    },
+    {
+      "key": "regulation:3.term:registration",
+      "title": "Regulation 3 Definitions \"registration\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"registration\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"registration\" includes a renewal of registration."
+    },
+    {
+      "key": "regulation:3.term:school-student-driver-education-vehicle",
+      "title": "Regulation 3 Definitions \"school student driver education vehicle\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"school student driver education vehicle\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"school student driver education vehicle\" means a vehicle used for school-based\ndriver education at a government school or non-government school."
+    },
+    {
+      "key": "regulation:3.term:tax-concession-vehicle",
+      "title": "Regulation 3 Definitions \"tax concession vehicle\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax concession vehicle\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"tax concession vehicle\" means the following--\n     (a) a caravan,\n     (b) a Local Land Services vehicle,\n     (c) a mobile library that is--\n          (i) a motor lorry, or\n          (ii) a trailer than is not plant,\n     (d) a PCYC vehicle that is--\n          (i) a bus, or\n          (ii) a motor car, or\n          (iii) a station wagon,\n     (e) plant,\n     (f) a primary producer's vehicle that is--\n          (i) a motor car, or\n          (ii) a motor lorry, or\n          (iii) a station wagon, or\n          (iv) a tractor, or\n          (v) a trailer that is not plant,\n     (g) a school student driver education vehicle that is--\n          (i) a bus, or\n          (ii) a motor car, or\n          (iii) a station wagon,\n     (h) a tow truck that is a motor lorry,\n     (i) a very light trailer."
+    },
+    {
+      "key": "regulation:3.term:tax-unit",
+      "title": "Regulation 3 Definitions \"tax unit\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax unit\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"tax unit\" --see section 6(1)."
+    },
+    {
+      "key": "regulation:3.term:the-act",
+      "title": "Regulation 3 Definitions \"the Act\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the Act\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"the Act\" means the Motor Vehicles Taxation Act 1988."
+    },
+    {
+      "key": "regulation:3.term:tow-truck",
+      "title": "Regulation 3 Definitions \"tow truck\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tow truck\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"tow truck\" means a tow truck referred to in the Tow Truck Industry Act 1998,\nsection 4(1)(a)."
+    },
+    {
+      "key": "regulation:3.term:trailer",
+      "title": "Regulation 3 Definitions \"trailer\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"trailer\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"trailer\" has the same meaning as in the Road Transport Act 2013."
+    },
+    {
+      "key": "regulation:3.term:urban-tow-truck",
+      "title": "Regulation 3 Definitions \"urban tow truck\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"urban tow truck\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"urban tow truck\" means a tow truck used in a transport district referred to in\nthe Transport Administration Act 1988, section 108(1)(a)-(c)."
+    },
+    {
+      "key": "regulation:3.term:very-light-trailer",
+      "title": "Regulation 3 Definitions \"very light trailer\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"very light trailer\"",
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "\"very light trailer\" means the following vehicles weighing 760kg or less--\n     (a) plant other than self-propelled plant,\n     (b) a trailer other than a caravan.\n\"weight\", of a motor vehicle--see section 4.\n     Note--: The Act and the Interpretation Act 1987 contain definitions\n     and other provisions that affect the interpretation and application\n     of this regulation."
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Weight of motor vehicles--the Act, s 23(2)(e)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Weight of motor vehicles--the Act, s 23(2)(e)",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 4",
+      "text": "(1) The weight of a motor vehicle for the Act and this regulation is-\n     -\n          (a) if Transport for NSW has given a direction in\n          accordance with this section specifying the weight of the\n          vehicle--the weight specified, or\n          (b) otherwise--the weight calculated in accordance with\n          subsection (2) or (3).\n     (2) The weight of a motor vehicle, other than a trailer, is the\n     unladen mass of the motor vehicle including--\n          (a) the tools and accessories usually carried by the\n          vehicle, and\n          (b) the fuel, water and oil in or on the vehicle.\n     (3) The weight of a motor vehicle that is a trailer is the unladen\n     mass of the trailer, including the tools and accessories usually\n     carried by the trailer.\n     (4) The weight of a motor vehicle calculated under subsection (2) or\n     (3) must be rounded to the nearest 10kg, with 5kg being rounded up.\n     (5) A direction may be given for this section--\n          (a) in relation to motor vehicles of a specified make and\n          description, and\n          (b) by written order of Transport for NSW."
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Motor vehicle tax payable",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Motor vehicle tax payable",
+      "defined_term": null,
+      "structure_path": "Part 2 - MOTOR VEHICLE TAX > Division 1 - Tax payable--the Act, s 4 > Regulation 5",
+      "text": "(1) The motor vehicle tax payable for a motor vehicle of the type and\n     with the characteristics and weight shown in Schedule 1 is the number\n     of tax units specified for the vehicle--\n          (a) for a vehicle weighing 2,500kg or less--in Schedule 1,\n          Part 1, or\n          (b) for a vehicle weighing more than 2,500kg--in Schedule\n          1, Part 2.\n     (2) The tax payable for a motor vehicle weighing more than 3,560kg is\n     increased by--\n          (a) if the vehicle is a bus--200 tax units, or\n          (b) otherwise--333 tax units.\n     (3) Subsection (2) does not apply to a motor vehicle used\n     substantially for private purposes.\n     (4) The motor vehicle tax payable for a tax concession vehicle of a\n     kind shown in Schedule 1, Part 3 is the amount calculated in the way\n     specified for the vehicle in the part."
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Calculation of tax unit for purposes of regulation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Calculation of tax unit for purposes of regulation",
+      "defined_term": null,
+      "structure_path": "Part 2 - MOTOR VEHICLE TAX > Division 1 - Tax payable--the Act, s 4 > Regulation 6",
+      "text": "(1) For this regulation, a\n     \"tax unit\" is--\n          (a) in the financial year commencing on 1 July 2025--$1,\n          and\n          (b) in each later financial year--the amount calculated as\n          follows--\n               \"A\" is the sum of the CPI numbers for the March,\n               June, September and December quarters in the\n               calendar year preceding the financial year for\n               which the amount is calculated.\n               \"B\" is the sum of the CPI numbers for the March,\n               June, September and December quarters immediately\n               before 1 January 2025.\n     (2) The amount of a tax unit must be rounded to the nearest cent, and\n     an amount of 0.5 cent must be rounded down.\n     (3) If the amount of a tax unit calculated for a financial year is\n     less than the amount that applied for the previous financial year,\n     the amount for the previous financial year applies instead.\n     (4) As soon as practicable after the Australian Bureau of Statistics\n     publishes the CPI number for the December quarter, Transport for NSW\n     must--\n          (a) notify the Parliamentary Counsel of the amount of the\n          tax unit for the next financial year to allow notice of the\n          amount to be published on the NSW legislation website, and\n          (b) publish, on an appropriate NSW Government website, the\n          taxes applying in each financial year under this section.\n     (5) A failure to comply with subsection (4) does not affect the\n     operation of this section.\n     (6) In this section--\n     \"CPI number\" means the Consumer Price Index (All Groups Index) for\n     Sydney published by the Australian Bureau of Statistics in the latest\n     published series of the index."
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Refund for surrender of registration--the Act, s 13(b)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Refund for surrender of registration--the Act, s 13(b)",
+      "defined_term": null,
+      "structure_path": "Part 2 - MOTOR VEHICLE TAX > Division 2 - Refunds and exemptions > Regulation 7",
+      "text": "(1) The refund of motor vehicle tax must be calculated to reflect the\n     unexpired days of the registration period as a proportion of the\n     registration period.\n     (2) Only whole unexpired days may be counted for subsection (1).\n     (3) The relevant date for counting the unexpired days is--\n          (a) if the cancellation occurred because the motor vehicle\n          was damaged in an incident or stolen--the date on which the\n          vehicle was damaged or stolen, or\n          (b) otherwise--the date on which Transport for NSW cancels\n          the registration.\n     (4) The amount calculated under subsection (1) must be reduced to pay\n     unpaid fees in relation to the motor vehicle payable under the Road\n     Transport Act 2013, including fees--\n          (a) under a regulation made under that Act, or\n          (b) for the cancellation of the registration.\n     (5) The amount of a refund calculated under this section must be\n     rounded down to the nearest dollar."
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Vehicles exempt from tax--the Act, ss 16(3) and 23(2)(a)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Vehicles exempt from tax--the Act, ss 16(3) and 23(2)(a)",
+      "defined_term": null,
+      "structure_path": "Part 2 - MOTOR VEHICLE TAX > Division 2 - Refunds and exemptions > Regulation 8",
+      "text": "(1) Motor vehicle tax is not payable in relation to the following--\n          (a) a conditionally registered vehicle,\n          (b) a caravan weighing 250kg or less,\n          (c) a very light trailer--\n               (i) weighing 250kg or less, and\n               (ii) used substantially for private purposes,\n          (d) a vehicle used solely for or in connection with\n          providing a service for conveying--\n               (i) sick or injured persons, or\n               (ii) persons with a disability, or\n               (iii) persons with mobility problems,\n          (e) a motor vehicle, other than a government-owned motor\n          vehicle, that is--\n               (i) not for let or hire, and\n               (ii) used solely for or in connection with road\n               construction, road maintenance or road repair,\n          (f) a motor vehicle owned by--\n               (i) an Aboriginal Land Council, or\n               (ii) a cemetery operator, or\n               (iii) a park trust, or\n               (iv) a consulate or trade mission representing a\n               country other than Australia or an overseas\n               territory, or\n               (v) an employee of a consulate or trade mission\n               referred to in subparagraph (iv).\n     (2) In this section--\n     \"Aboriginal Land Council\" has the same meaning as in the Aboriginal\n     Land Rights Act 1983.\n     \"cemetery operator\" has the same meaning as in the Cemeteries and\n     Crematoria Act 2013.\n     \"disability\" has the same meaning as in the Disability Inclusion Act\n     2014.\n     \"park trust\" means a trust responsible for the care, control and\n     management of a park or reserve."
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Repeal and savings",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Repeal and savings",
+      "defined_term": null,
+      "structure_path": "Part 3 - MISCELLANEOUS > Regulation 9",
+      "text": "(1) The Motor Vehicles Taxation Regulation 2016 is repealed.\n     (2) An act, matter or thing that, immediately before the repeal of\n     the Motor Vehicles Taxation Regulation 2016, had effect under that\n     regulation continues to have effect under this regulation.\nMOTOR VEHICLES TAXATION REGULATION 2025"
+    },
+    {
+      "key": "schedule:1.part:3.section:2025",
+      "title": "Schedule 1 Section 2025 - (304). LW 27.6.2025. Date of commencement: not in force.",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2025",
+      "main_structural_unit_heading": "(304). LW 27.6.2025. Date of commencement: not in force.",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 3 - Reductions in tax payable for tax concession vehicles > Section 2025",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Motor vehicle tax section 5",
+      "text": "Schedule 1 - SCHEDULE 1 - Motor vehicle tax section 5\n\nSection 2025 - (304). LW 27.6.2025. Date of commencement: not in force."
+    }
+  ]
+}

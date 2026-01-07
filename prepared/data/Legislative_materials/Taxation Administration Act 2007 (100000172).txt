@@ -6,1034 +6,599 @@ Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download
 When scraped: 2025-12-30T03:24:22.466924Z
 
 NORTHERN TERRITORY OF AUSTRALIA
-
                       TAXATION ADMINISTRATION ACT 2007
-
                          AS IN FORCE AT 1 JULY 2024
-
-1     Short title      1
-
-2     Commencement     1
-
-3     Interpretation   1
-
-3A    Taxation law     5
-
-4     Act binds the Crown    5
-
-5     Purpose of Act and relationship with other taxation laws      5
-
+                             Table of provisions
+Part 1      Preliminary matters
+Section 1 Short title      1
+Section 2 Commencement     1
+Section 3 Interpretation   1
+Section 3A Taxation law     5
+Section 4 Act binds the Crown    5
+Section 5 Purpose of Act and relationship with other taxation laws      5
 Part 2      Administration
-
 Division 1  Commissioner and staff
-
-6     Commissioner     6
-
-7     Acting Commissioner    6
-
-8     Deputy Commissioners   6
-
-9     Other staff      7
-
-10    Use of consultants and contractors     7
-
+Section 6 Commissioner     6
+Section 7 Acting Commissioner    6
+Section 8 Deputy Commissioners   6
+Section 9 Other staff      7
+Section 10 Use of consultants and contractors     7
 Division 2  Commissioner's role and functions
-
-11    Role of Commissioner in administration of taxation laws 7
-
-12    Legal proceedings in Commissioner's name     7
-
-13    Commissioner may exercise functions under Commonwealth Act    7
-
+Section 11 Role of Commissioner in administration of taxation laws 7
+Section 12 Legal proceedings in Commissioner's name     7
+Section 13 Commissioner may exercise functions under Commonwealth Act    7
 Division 3  Delegation
-
-14    Delegation by Commissioner  8
-
+Section 14 Delegation by Commissioner  8
 Division 4  Authorised officers
-
-15    Authorised officers    8
-
-16    Identity cards for authorised officers 8
-
+Section 15 Authorised officers    8
+Section 16 Identity cards for authorised officers 8
 Division 5  Immunity from liability
-
-17    Protection from liability   9
-
+Section 17 Protection from liability   9
 Part 3      Assessment of tax liability
-
 Division 1  Forms of assessment
-
-18    General power to make assessment  9
-
-19    Information on which assessment is to be based     9
-
-20    Negotiated assessments 9
-
+Section 18 General power to make assessment  9
+Section 19 Information on which assessment is to be based     9
+Section 20 Negotiated assessments 9
 Division 2  Reassessment and withdrawal of assessment
-
-21    Reassessment     10
-
-22    Withdrawal of assessment    11
-
+Section 21 Reassessment     10
+Section 22 Withdrawal of assessment    11
 Division 3  Notice of assessment etc.
-
-23    Notice of assessment, reassessment or withdrawal of assessment
+Section 23 Notice of assessment, reassessment or withdrawal of assessment
          12
-
 Division 4  Information on which assessment is to be based
-
-24    Requirement for full and true disclosure     12
-
-25    Valuation of property  14
-
+Section 24 Requirement for full and true disclosure     12
+Section 25 Valuation of property  14
 Division 5  Ancillary provisions
-
-26    Time as at which tax liability is to be assessed   15
-
-27    Certain amounts to be rounded down     15
-
-28    Valuation of foreign currency     15
-
-29    Validity of assessment 15
-
-30    Acceptance of money not an assessment  16
-
+Section 26 Time as at which tax liability is to be assessed   15
+Section 27 Certain amounts to be rounded down     15
+Section 28 Valuation of foreign currency     15
+Section 29 Validity of assessment 15
+Section 30 Acceptance of money not an assessment  16
 Part 4      Refunds of tax
-
-31    Refunds only made under this Part 16
-
-32    Entitlement to refund  16
-
-33    Windfalls  17
-
+Section 31 Refunds only made under this Part 16
+Section 32 Entitlement to refund  16
+Section 33 Windfalls  17
 Part 5      Interest and penalty tax
-
 Division 1  Interest
-
-34    Interest in respect of tax defaults    18
-
-35    Statutory interest rate     19
-
-36    Minimum amount of interest  19
-
-37    Interest rate under this Division to prevail 19
-
-38    Reduction or remission of interest     19
-
+Section 34 Interest in respect of tax defaults    18
+Section 35 Statutory interest rate     19
+Section 36 Minimum amount of interest  19
+Section 37 Interest rate under this Division to prevail 19
+Section 38 Reduction or remission of interest     19
 Division 2  Penalty tax
-
-39    Penalty tax in respect of certain tax defaults     20
-
-40    Imposition etc. of penalty tax    20
-
-41    Amount of penalty tax  20
-
-42    Minimum amount of penalty tax     21
-
-43    Time for payment of penalty tax   22
-
-44    Remission of penalty tax    22
-
+Section 39 Penalty tax in respect of certain tax defaults     20
+Section 40 Imposition etc. of penalty tax    20
+Section 41 Amount of penalty tax  20
+Section 42 Minimum amount of penalty tax     21
+Section 43 Time for payment of penalty tax   22
+Section 44 Remission of penalty tax    22
 Part 6      Returns
-
 Division 1  General
-
-45    Form of returns  22
-
-46    Time of lodgement      22
-
-47    Presumption about person making and signing  22
-
-48    Modification of requirements relating to returns   22
-
+Section 45 Form of returns  22
+Section 46 Time of lodgement      22
+Section 47 Presumption about person making and signing  22
+Section 48 Modification of requirements relating to returns   22
 Division 2  Special arrangements
-
-49    Approval of special arrangements  23
-
-50    Application for approval    23
-
-51    Conditions of approval 24
-
-52    Effect of approval     25
-
-52A   Agent must remit amount collected 25
-
-52B   Failure to remit amount collected 25
-
-52C   Redetermination of amount payable 26
-
-52D   Notice of liability    27
-
-52E   Payment and recovery of amount payable 27
-
-52F   Withdrawal of agent determination 28
-
+Section 49 Approval of special arrangements  23
+Section 50 Application for approval    23
+Section 51 Conditions of approval 24
+Section 52 Effect of approval     25
+Section 52A Agent must remit amount collected 25
+Section 52B Failure to remit amount collected 25
+Section 52C Redetermination of amount payable 26
+Section 52D Notice of liability    27
+Section 52E Payment and recovery of amount payable 27
+Section 52F Withdrawal of agent determination 28
 Part 7      Payment and recovery of tax
-
 Division 1  Payment of tax
-
-53    Payment by cheque      28
-
-54    Extension of time for payment of tax   28
-
-55    Power to bring forward the time for payment of tax 29
-
-56    Instalment arrangements     29
-
-56A   Application of payment 29
-
+Section 53 Payment by cheque      28
+Section 54 Extension of time for payment of tax   28
+Section 55 Power to bring forward the time for payment of tax 29
+Section 56 Instalment arrangements     29
+Section 56A Application of payment 29
 Division 2  Recovery of tax
-
-57    Recovery of tax as a debt   30
-
-58    Joint and several liability 30
-
-59    Recovery from partnerships and other groups  30
-
-60    Recovery of tax from third parties     30
-
-61    Recovery from directors     32
-
+Section 57 Recovery of tax as a debt   30
+Section 58 Joint and several liability 30
+Section 59 Recovery from partnerships and other groups  30
+Section 60 Recovery of tax from third parties     30
+Section 61 Recovery from directors     32
 Division 3  Statutory Charges
-
-62    Definitions      33
-
-63    Power to secure tax by registration of statutory charge over land
+Section 62 Definitions      33
+Section 63 Power to secure tax by registration of statutory charge over land
          34
-
-64    Registration authority may be required to register charge     34
-
-65    Notification of persons affected by charge   34
-
-66    Commissioner to give notice 34
-
-67    Prohibition on dealings     35
-
-68    Application for order to sell land     35
-
-69    Order for sale of land 36
-
-70    Proceeds of sale 36
-
-71    Other means of enforcement not affected      37
-
+Section 64 Registration authority may be required to register charge     34
+Section 65 Notification of persons affected by charge   34
+Section 66 Commissioner to give notice 34
+Section 67 Prohibition on dealings     35
+Section 68 Application for order to sell land     35
+Section 69 Order for sale of land 36
+Section 70 Proceeds of sale 36
+Section 71 Other means of enforcement not affected      37
 Division 4  Death of taxpayer
-
-72    Death of taxpayer      37
-
+Section 72 Death of taxpayer      37
 Division 5  Waiver of tax
-
-73    Waiver of tax    38
-
+Section 73 Waiver of tax    38
 Part 8      Record keeping and general offences
-
-74    Requirement to keep proper records     38
-
-75    Additional records     38
-
-76    Keeping records that contain misleading information     38
-
-77    Accessibility    39
-
-78    Form of record â English language and Australian currency     39
-
-79    Period of retention    39
-
-80    Intentional damage to, or destruction of, records  40
-
-81    Evasion of tax   40
-
-82    Misleading information and documents   40
-
-83    Falsifying or concealing information   41
-
-84    Failure to lodge documents  41
-
-85    Non-compliance with other requirements of a taxation law      41
-
-86    General defence under this Part   41
-
+Section 74 Requirement to keep proper records     38
+Section 75 Additional records     38
+Section 76 Keeping records that contain misleading information     38
+Section 77 Accessibility    39
+Section 78 Form of record â English language and Australian currency     39
+Section 79 Period of retention    39
+Section 80 Intentional damage to, or destruction of, records  40
+Section 81 Evasion of tax   40
+Section 82 Misleading information and documents   40
+Section 83 Falsifying or concealing information   41
+Section 84 Failure to lodge documents  41
+Section 85 Non-compliance with other requirements of a taxation law      41
+Section 86 General defence under this Part   41
 Part 9      Investigations
-
 Division 1  Preliminary matters
-
-87    Definitions      42
-
-88    Authorised investigations   42
-
-89    Investigations for purposes of corresponding laws  43
-
+Section 87 Definitions      42
+Section 88 Authorised investigations   42
+Section 89 Investigations for purposes of corresponding laws  43
 Division 2  Powers of investigation
-
-90    Access to public records without fee   44
-
-91    Power to request information and production of records  44
-
-92    Power to require person to attend for examination  45
-
-93    Power to enter premises     46
-
-94    Search warrants  47
-
-95    Powers of authorised officers while on premises    48
-
+Section 90 Access to public records without fee   44
+Section 91 Power to request information and production of records  44
+Section 92 Power to require person to attend for examination  45
+Section 93 Power to enter premises     46
+Section 94 Search warrants  47
+Section 95 Powers of authorised officers while on premises    48
 Division 3  Ancillary provisions
-
-96    Authorised officer may obtain assistance     49
-
-97    Obstructing etc. authorised officer    49
-
-98    Use of force     50
-
-99    General defence  50
-
-100   Self-incrimination     50
-
+Section 96 Authorised officer may obtain assistance     49
+Section 97 Obstructing etc. authorised officer    49
+Section 98 Use of force     50
+Section 99 General defence  50
+Section 100 Self-incrimination     50
 Part 10     Disclosure of information
-
 Division 1  Preliminary matters
-
-101   Definitions      51
-
+Section 101 Definitions      51
 Division 2  Disclosure of confidential information
-
-102   Prohibition on certain disclosures of information by tax officers
+Section 102 Prohibition on certain disclosures of information by tax officers
          52
-
-103   Obligations of persons (other than tax officers) who gain access to
+Section 103 Obligations of persons (other than tax officers) who gain access to
          confidential information  53
-
-104   Compellability of disclosure before court    53
-
-105   Protection of tax informants      54
-
-106   Required disclosures of information    54
-
+Section 104 Compellability of disclosure before court    53
+Section 105 Protection of tax informants      54
+Section 106 Required disclosures of information    54
 Division 3  Collection of information for disclosure to Commonwealth
-
-106A  Collection and disclosure of reportable information     54
-
+Section 106A Collection and disclosure of reportable information     54
 Part 11     Objections, reviews and appeals
-
 Division 1  Preliminary
-
-107   Definitions      55
-
-108   Certain decisions not subject to challenge except in proceedings by
+Section 107 Definitions      55
+Section 108 Certain decisions not subject to challenge except in proceedings by
          way of objection, review or appeal   57
-
 Division 2  Objections
-
-109   Right to object  57
-
-110   How to object    57
-
-111   Objections lodged out of time     57
-
-112   Onus on the objector   57
-
-113   Decision on objection  57
-
-114   Notice of decision     58
-
+Section 109 Right to object  57
+Section 110 How to object    57
+Section 111 Objections lodged out of time     57
+Section 112 Onus on the objector   57
+Section 113 Decision on objection  57
+Section 114 Notice of decision     58
 Division 3  Right of review or appeal
-
-115   Right of review or appeal   58
-
-116   Time for making application for review 59
-
-117   Time for commencing appeal  59
-
+Section 115 Right of review or appeal   58
+Section 116 Time for making application for review 59
+Section 117 Time for commencing appeal  59
 Division 4  Reviews by NTCAT
-
-118   Grounds of review and response and onus on review  60
-
-119   Transfer of proceedings to Supreme Court     60
-
-120   Other modifications to application of Northern Territory Civil and
+Section 118 Grounds of review and response and onus on review  60
+Section 119 Transfer of proceedings to Supreme Court     60
+Section 120 Other modifications to application of Northern Territory Civil and
          Administrative Tribunal Act 2014     60
-
 Division 5  Appeals to Supreme Court
-
-124   How to commence appeal 61
-
-125   Grounds of appeal and response and onus on appeal  61
-
-126   Admissibility of new evidence     61
-
-127   Determining appeal     62
-
+Section 124 How to commence appeal 61
+Section 125 Grounds of appeal and response and onus on appeal  61
+Section 126 Admissibility of new evidence     61
+Section 127 Determining appeal     62
 Division 6  Other matters
-
-128   Objection, review or appeal not to suspend recovery of tax    62
-
-129   Giving effect to decision on objection, review or appeal      62
-
+Section 128 Objection, review or appeal not to suspend recovery of tax    62
+Section 129 Giving effect to decision on objection, review or appeal      62
 Part 13     Prosecutions and offence provisions
-
 Division 1  Prosecutions
-
-135   Time for commencing prosecutions  63
-
-136   Evidentiary matters    63
-
+Section 135 Time for commencing prosecutions  63
+Section 136 Evidentiary matters    63
 Division 2  Offence provisions
-
-137   Criminal liability of executive officer of body corporate     64
-
-138   Further offences 65
-
+Section 137 Criminal liability of executive officer of body corporate     64
+Section 138 Further offences 65
 Division 3  Effect of criminal penalty
-
-139   Effect of criminal penalty  65
-
+Section 139 Effect of criminal penalty  65
 Part 14     Miscellaneous
-
 Division 1  Appropriation
-
-140   Appropriation of Central Holding Authority   66
-
+Section 140 Appropriation of Central Holding Authority   66
 Division 2  Notice of certain appointments to be given
-
-141   Notice of appointment of administrator or liquidator    66
-
+Section 141 Notice of appointment of administrator or liquidator    66
 Division 3  Service of documents
-
-142   Service of documents on Commissioner   66
-
-143   Time of service  67
-
-144   Service of documents by Commissioner   67
-
-145   Service on an agent and other forms of subrogated service     68
-
+Section 142 Service of documents on Commissioner   66
+Section 143 Time of service  67
+Section 144 Service of documents by Commissioner   67
+Section 145 Service on an agent and other forms of subrogated service     68
 Division 4  Evidence
-
-146   Judicial notice of Commissioner's name and signature    68
-
-147   Presumption of regularity as to issue of documents 68
-
-148   Evidentiary value of notice or certificate   68
-
-149   Certificate evidence   69
-
+Section 146 Judicial notice of Commissioner's name and signature    68
+Section 147 Presumption of regularity as to issue of documents 68
+Section 148 Evidentiary value of notice or certificate   68
+Section 149 Certificate evidence   69
 Division 5  Regulations
-
-150   Regulations      70
-
+Section 150 Regulations      70
 Part 15     Transitional provisions for Taxation Administration Act 2007
-
-151   Definitions      70
-
-152   Administration   70
-
-153   Investigators    71
-
-154   Assessments      71
-
-155   Refunds of tax   71
-
-156   Interest and penalty tax    72
-
-157   Special arrangement for filing returns or paying tax    72
-
-158   Collection and recovery of tax    72
-
-159   Records    72
-
-160   Investigations   72
-
-161   Disclosure of information   72
-
-162   Objections and appeals 73
-
-163   Offences   73
-
-164   Evidence   73
-
-165   Substantive criminal law unaffected by this Part   73
-
+Section 151 Definitions      70
+Section 152 Administration   70
+Section 153 Investigators    71
+Section 154 Assessments      71
+Section 155 Refunds of tax   71
+Section 156 Interest and penalty tax    72
+Section 157 Special arrangement for filing returns or paying tax    72
+Section 158 Collection and recovery of tax    72
+Section 159 Records    72
+Section 160 Investigations   72
+Section 161 Disclosure of information   72
+Section 162 Objections and appeals 73
+Section 163 Offences   73
+Section 164 Evidence   73
+Section 165 Substantive criminal law unaffected by this Part   73
 Part 16     Transitional matters for Revenue and Other Legislation
                 Amendment Act 2010
-
-166   Application      73
-
+Section 166 Application      73
 Part 17     Transitional matters for Statute Law Amendment (Directors'
                 Liability) ActÂ 2015
-
-167   Offences â before and after commencement     74
-
+Section 167 Offences â before and after commencement     74
 Part 18     Transitional matters for Statute Law Amendment (NTCAT Conferral
                 of Jurisdiction) Act 2023
-
-168   Definitions      74
-
-169   Right of appeal or review for existing objection decisions    75
-
-170   Appeals to former Tribunal not determined before commencement 75
-
-171   Appeals against objection decisions not determined by Supreme Court
+Section 168 Definitions      74
+Section 169 Right of appeal or review for existing objection decisions    75
+Section 170 Appeals to former Tribunal not determined before commencement 75
+Section 171 Appeals against objection decisions not determined by Supreme Court
          before commencement 76
-
-172   Appeals against decisions of former Tribunal not commenced before
+Section 172 Appeals against decisions of former Tribunal not commenced before
          commencement  77
-
-173   Appeals against decisions of former Tribunal not determined before
+Section 173 Appeals against decisions of former Tribunal not determined before
          commencement  77
-
-174   Remittal of matters to NTCAT on appeals determined after commencement
+Section 174 Remittal of matters to NTCAT on appeals determined after commencement
          77
-
 ENDNOTES
-
                        NORTHERN TERRITORY OF AUSTRALIA
-
                             ____________________
-
                          As in force at 1 July 2024
                             ____________________
-
                       TAXATION ADMINISTRATION ACT 2007
-
  AN ACT TO MAKE GENERAL PROVISION FOR THE ADMINISTRATION AND ENFORCEMENT OF
                                 TAXATION LAWS
-
 Part 1      Preliminary matters
-
-1     Short title
-
+Section 1 Short title
          This Act may be cited as the Taxation Administration Act 2007.
-
-2     Commencement
-
+Section 2 Commencement
          This Act commences on 1 January 2008.
-
-3     Interpretation
-
+Section 3 Interpretation
       (1)   In this Act:
-
          agent determination means a determination made under sectionÂ 52B(3)
          or a redetermination made under section 52C.
-
          agent payment means an amount that an agent is required to  pay  to
          the Commissioner under:
-
          (a)      an approval under Part 6, Division 2; or
-
          (b)      an agent determination.
-
          approved form means a form approved by  the  Commissioner  for  use
          under the provision in which the expression appears.
-
          assessment means an assessment, or a reassessment, made under  this
          Act.
-
          authorised officer, see section 15.
-
          Commissioner means the person holding or acting in  the  office  of
          Commissioner of Territory Revenue.
-
          court includes a judicial or administrative tribunal or other  body
          with power to summon witnesses.
-
          disclosure,  of  information,   includes   producing   a   document
          containing  the  information  to  a  person,  or   permitting,   or
          assisting, a person to gain access to the information or a document
          containing it.
-
          due â tax falls due for payment at the end of  the  period  allowed
          for its payment by or under a taxation law.
-
          due date means the date on which tax falls due for payment under  a
          taxation law.
-
          event includes:
-
          (a)      a series of events; and
-
          (b)      a state of affairs;
-
          exercise a function means, if the function is in the  nature  of  a
          duty, perform the function.
-
          function includes power, authority and duty.
-
          instalment  arrangement  means  an  arrangement,  approved  by  the
          Commissioner, for the payment of tax by instalments.
-
          market interest rate, see section 35(2).
-
          notice means written notice.
-
          notice of liability  means  a  notice  of  liability  issued  under
          sectionÂ 52D.
-
          overpayment means:
-
          (a)      in relation to tax â a payment made to the Commissioner by
              a taxpayer in excess  of  the  taxpayer's  tax  liability  and
              includes a payment made in purported  satisfaction  of  a  tax
              liability that does not actually exist; or
-
          (b)      in relation to any other amount â a payment  made  to  the
              Commissioner by a person in excess of the  person's  liability
              and includes a payment made in  purported  satisfaction  of  a
              liability that does not actually exist.
-
          premises includes:
-
          (a)      land and a structure on land; and
-
          (b)      a vehicle; and
-
          (c)      a vessel; and
-
          (d)      an aircraft.
-
          primary tax means tax exclusive of interest and penalty tax.
-
          record includes:
-
          (a)      a documentary record; and
-
          (b)       a  record  made  by   an   electronic,   electromagnetic,
              photographic or optical process; and
-
          (c)      any other kind of record.
-
          refund, of tax, includes a credit given  to  the  taxpayer  against
          present or future liabilities for tax.
-
          return means a return, statement, declaration, application,  report
          or other record that:
-
          (a)      a person is required or authorised under a taxation law to
              make or lodge; and
-
          (b)      is liable to tax or records matters in  respect  of  which
              there is or may be a tax liability.
-
          service, of a document, extends to the giving, sending, or  lodging
          of a document.
-
          statutory interest rate, see section 35.
-
          tax means a tax, duty or levy under a taxation  law,  and  includes
          the following:
-
          (a)      interest and penalty tax;
-
          (b)      any other amount, other than an agent payment, that is:
-
              (i) paid or payable by a taxpayer to the Commissioner  or  the
                   Territory under a taxation law; or
-
              (ii)      actually  paid  to  the  Commissioner  in  purported
                   compliance with a taxation law.
-
          Examples for paragraph (b)
-
          1  The cost (where payable by a taxpayer) of a  valuation  required
            by the Commissioner.
-
          2  The costs of recovery of tax (including costs awarded in  favour
            of the Commissioner in court proceedings).
-
          3  Fines and costs awarded against a taxpayer in proceedings for  a
            tax prosecution.
-
          taxation law, see section 3A.
-
          tax default means a failure by a taxpayer  to  pay,  in  accordance
          with a taxation law, the whole or part of the tax that the taxpayer
          is liable to pay.
-
          tax liability means a liability to pay tax under a taxation law.
-
          tax officer means:
-
          (a)      the Commissioner; or
-
          (b)      an authorised officer; or
-
          (c)      any other person  engaged  (as  an  officer,  employee  or
              otherwise) in the administration or enforcement of a  taxation
              law or in related functions.
-
          taxpayer means a person:
-
          (a)      who has paid tax; or
-
          (b)      who has been assessed as liable (or  not  liable)  to  pay
              tax; or
-
          (c)      who is or may be liable to pay tax.
-
          tax prosecution means  a  prosecution  for  an  offence  against  a
          taxation law.
-
          tax record means a record required to  be  made  or  kept  under  a
          taxation law.
-
          transaction includes an event or matter that may give rise to a tax
          liability under a taxation law.
-
          unremitted amount, see section 52B(1)(b).
-
          valuer means a certified practising valuer who is a member  of  the
          Australian Property Institute, and includes a person  who,  in  the
          Commissioner's opinion, has equivalent qualifications.
-
          Note for subsection (1)
-
          The  Interpretation  Act  1978  contains  definitions   and   other
          provisions that may be relevant to this Act.
-
       (2)   If a taxation law provides that a decision or assessment is  not
          subject to judicial review, no court has jurisdiction to  entertain
          any question about the validity or correctness of the  decision  or
          assessment.
-
-3A    Taxation law
-
+Section 3A Taxation law
       (1)   A taxation law is any of the following:
-
          (a)      this Act;
-
          (b)      the Payroll Tax Act 2009;
-
          (ba)     the Racing and Wagering Act 2024;
-
          (bb)     the Totalisator Licensing and Regulation Act 2000;
-
          (c)      the Stamp Duty Act 1978.
-
       (2)   In addition, a taxation law includes a provision of any  of  the
          following as in force at any time  (whether  before  or  after  the
          commencement of  this  section)  to  the  extent  to  which  a  tax
          liability accrued under the provision:
-
          (a)      the repealed Pay-roll Tax ActÂ 1978;
-
          (b)      the repealed Stamp Duty ActÂ 1978;
-
          (ba)     the repealed Property Activation Act 2019;
-
          (c)      a law mentioned in subsection (1) (for example, the  Stamp
              Duty  ActÂ 1978  when  it  was  in  force   as   the   Taxation
              (Administration) ActÂ 1978).
-
-4     Act binds the Crown
-
+Section 4 Act binds the Crown
       (1)   This Act binds the Crown in right of the Territory and,  to  the
          extent the legislative power of the Legislative  Assembly  permits,
          the Crown in all its other capacities.
-
       (2)   This section does not affect the liability of the Crown  to  tax
          under another taxation law.
-
-5     Purpose of Act and relationship with other taxation laws
-
+Section 5 Purpose of Act and relationship with other taxation laws
       (1)   The purpose of this Act is to make  general  provision  for  the
          administration and enforcement of taxation laws.
-
       (2)   However, this Act does not derogate from a provision of  another
          taxation law dealing with the administration or enforcement of that
          law.
-
       (3)   Each taxation law (apart from this Act) must  be  read  together
          with this Act as a single Act.
-
 Part 2      Administration
-
 Division 1  Commissioner and staff
-
-6     Commissioner
-
+Section 6 Commissioner
       (1)   There is to be a Commissioner of Territory Revenue.
-
       (2)   The Commissioner is to be appointed by the Administrator.
-
-7     Acting Commissioner
-
+Section 7 Acting Commissioner
       (1)   The Minister may appoint a public  sector  employee  to  act  as
          Commissioner:
-
          (a)      during a vacancy in the office of Commissioner; or
-
          (b)      when the Commissioner is unable or  unavailable  to  carry
              out official functions.
-
       (2)   A vacancy in the office of Commissioner cannot be filled  by  an
          acting appointee for more than 12 months.
-
       (3)   An acting appointment:
-
          (a)      is to be made by instrument in writing; and
-
          (b)       may  be  expressed  to  be  subject  to  conditions   and
              limitations stated in the instrument.
-
-8     Deputy Commissioners
-
+Section 8 Deputy Commissioners
       (1)   A Deputy Commissioner of  Territory  Revenue  may  be  appointed
          under the Public Sector Employment and Management Act 1993.
-
       (2)   There may be 2 or more Deputy Commissioners at any one time.
-
       (3)   If:
-
          (a)      there is a vacancy in the office of  Commissioner  or  the
              Commissioner is unable or unavailable to  carry  out  official
              functions; and
-
          (b)      no Acting Commissioner has been appointed, or  the  Acting
              Commissioner is unable or unavailable to  carry  out  official
              functions;
-
          a Deputy Commissioner who is able  and  available  to  act  in  the
          office  of  the  Commissioner  may  act  in  the  office   of   the
          Commissioner.
-
-9     Other staff
-
+Section 9 Other staff
          The other staff necessary for the administration and enforcement of
          taxation  laws  are  to  be  appointed  under  the  Public   Sector
          Employment and Management Act 1993.
-
-10    Use of consultants and contractors
-
+Section 10 Use of consultants and contractors
          The Commissioner may engage consultants and contractors  to  assist
          in carrying out statutory responsibilities.
-
 Division 2  Commissioner's role and functions
-
-11    Role of Commissioner in administration of taxation laws
-
+Section 11 Role of Commissioner in administration of taxation laws
       (1)   The Commissioner is responsible for the  general  administration
          and enforcement of the taxation laws.
-
       (2)   The Commissioner may do all things necessary  or  convenient  to
          give effect to the taxation laws.
-
       (3)   The Commissioner is  not  subject  to  Ministerial  control  and
          direction in relation to:
-
          (a)      the interpretation of a taxation law; or
-
          (b)      the exercise of a function under a taxation law.
-
-12    Legal proceedings in Commissioner's name
-
+Section 12 Legal proceedings in Commissioner's name
       (1)   Legal proceedings may be taken by or  against  the  Commissioner
          in the name "Commissioner of Territory Revenue''.
-
       (2)   A person who states that he or she appears in legal  proceedings
          by authority of the Commissioner will  be  presumed  to  have  that
          authority, in the absence of evidence to the contrary.
-
       (3)   The  production  of  an  instrument  apparently  signed  by  the
          Commissioner  authorising  a  person  to  commence  proceedings  is
          evidence of the authority of the person to commence the proceedings
          in the name of the Commissioner.
-
-13    Commissioner may exercise functions under Commonwealth Act
-
+Section 13 Commissioner may exercise functions under Commonwealth Act
          The Commissioner may exercise the functions  of  a  State  taxation
          officer under PartÂ IIIA of the  Taxation  Administration  Act  1953
          (Cth).
-
 Division 3  Delegation
-
-14    Delegation by Commissioner
-
+Section 14 Delegation by Commissioner
        (1)    The  Commissioner  may  delegate  any  of  the  Commissioner's
          functions under a taxation law.
-
-      (2)   However, the Commissioner cannot delegate:Â 
-
+      (2)   However, the Commissioner cannot delegate:Â
          (a)      the power to authorise entry to residential premises; or
-
          (b)      the power to authorise the use of force to enter premises,
              or carry out a search, in circumstances where the force  will,
              or may, result in damage to property.
-
       (3)   This section does not limit  the  Commissioner's  power  to  act
          through agents without a formal delegation of power.
-
 Division 4  Authorised officers
-
-15    Authorised officers
-
+Section 15 Authorised officers
       (1)   The Commissioner is an authorised officer.
-
       (2)   The Commissioner may appoint as an authorised officer:
-
          (a)      a person named in the instrument of appointment; or
-
          (b)      a person who at any time holds or acts  in  an  office  or
              position designated in the instrument of appointment.
-
       (3)   A tax officer to whom the Commissioner  delegates  investigative
          functions  is,  in  relation  to  the  exercise  of  the  delegated
          functions, an authorised officer.
-
-16    Identity cards for authorised officers
-
+Section 16 Identity cards for authorised officers
          An authorised officer must be issued with an identity card  in  the
          approved form:
-
          (a)      containing the person's  name  and  a  photograph  of  the
              person; and
-
          (b)      stating that the person is an authorised officer.
-
 Division 5  Immunity from liability
-
-17    Protection from liability
-
+Section 17 Protection from liability
       (1)   A tax officer incurs no personal  civil  or  criminal  liability
          for anything done, or omitted to be done,  in  good  faith  in  the
          exercise, or purported exercise, of a  function  under  a  taxation
          law.
-
       (2)   This section does not affect any liability the Territory  would,
          apart from this section, have for the act or omission.
-
 Part 3      Assessment of tax liability
-
 Division 1  Forms of assessment
-
-18    General power to make assessment
-
+Section 18 General power to make assessment
       (1)   The Commissioner may assess a tax liability.
-
       (2)   An assessment of a tax liability is:
-
          (a)      a determination that a specified amount of tax, or that no
              tax, is payable by a particular person, or  in  respect  of  a
              particular instrument, transaction or event, under a  taxation
              law; or
-
          (b)      a determination that a particular person, or a  particular
              instrument, transaction or event,  is  liable  to,  or  exempt
              from, tax under a taxation law.
-
-19    Information on which assessment is to be based
-
+Section 19 Information on which assessment is to be based
       (1)   The  Commissioner  may  make  an  assessment  on  the  basis  of
          information the Commissioner has from any source.
-
       (2)   If the Commissioner has  insufficient  information  to  make  an
          exact assessment of a tax liability, the Commissioner may  make  an
          assessment by way of estimate.
-
-20    Negotiated assessments
-
+Section 20 Negotiated assessments
       (1)   The Commissioner may, if satisfied there is good  reason  to  do
          so, make an assessment (a negotiated assessment) by agreement  with
          a taxpayer.
-
          Example for subsection (1)
-
          The Commissioner might make an assessment  by  agreement  with  the
          taxpayer in a case of substantial complexity or uncertainty  or  if
          satisfied that an assessment made in  the  conventional  way  would
          involve undue delay or expense.
-
        (2)    A  negotiated  assessment  is  an  assessment,  made  by   the
          Commissioner with the written agreement of the taxpayer,  assessing
          a tax liability at an amount, or  on  a  basis,  specified  in  the
          agreement.
-
       (3)   If a tax liability is determined by negotiated  assessment,  the
          Commissioner cannot reassess the tax liability unless:
-
          (a)      the taxpayer agrees; or
-
          (b)      in the opinion of the Commissioner:
-
              (i) the assessment was procured by fraud; or
-
              (ii)       there  was   a   failure   to   disclose   material
                   information.
-
       (4)   The Commissioner has a discretion to  make,  or  to  decline  to
          make, a negotiated assessment and is under no obligation to do so.
-
       (5)   The following are not subject to judicial review:
-
          (a)       a  decision  to  make,  or  not  to  make,  a  negotiated
              assessment;
-
          (b)      a negotiated assessment, or a reassessment made  with  the
              taxpayer's  agreement  of  a  tax  liability   determined   by
              negotiated assessment.
-
 Division 2  Reassessment and withdrawal of assessment
-
-21    Reassessment
-
+Section 21 Reassessment
       (1)   Subject to this Act,  the  Commissioner  may,  after  making  an
          assessment, make a reassessment.
-
       (2)   A reassessment may be made:
-
          (a)      on the Commissioner's own initiative; or
-
          (b)      on receipt of a written application by the taxpayer.
-
       (3)   A reassessment may:
-
          (a)      confirm the earlier assessment; or
-
          (b)      increase the amount of the earlier assessment; or
-
          (c)      reduce the amount of the earlier assessment  (and,  if  it
              appears on the reassessment that no tax is payable, reduce the
              amount of the earlier assessment to nil); or
-
          (d)      alter the earlier assessment in any other way.
-
       (4)   The Commissioner cannot reassess a tax  liability  more  than  5
          years after the initial assessment of the liability, unless:
-
          (a)      the reassessment is necessary to give effect to a decision
              on an objection, review or appeal under Part 11 in relation to
              the initial assessment of liability; or
-
          (b)      the taxpayer failed to make a full and true disclosure  of
              all the facts and circumstances affecting the  liability  and,
              as a result, the tax liability was assessed at a lower  amount
              than it should have been; or
-
          (c)       the  taxation  law  under  which  the   liability   arose
              authorises the making of a  reassessment  more  than  5  years
              after the initial assessment; or
-
          (d)      the taxpayer applies, in  writing,  for  the  reassessment
              within 5Â years after the date of the initial assessment.
-
-22    Withdrawal of assessment
-
+Section 22 Withdrawal of assessment
       (1)   The Commissioner may withdraw an assessment at any  time  within
          5Â years after the initial assessment, whether or not the amount  of
          tax specified in the assessment has been paid.
-
       (2)   If an assessment is withdrawn:
-
          (a)      any tax paid in satisfaction, or  purported  satisfaction,
              of the tax liability to which the assessment related is to  be
              refunded (or credited against any other tax liability  of  the
              taxpayer); and
-
          (b)       if  the  withdrawn  assessment  is  the  subject  of   an
              objection, application for review or appeal under  Part  11  â
              interest is to be allowed on the  amount  of  the  refund  (or
              credit) on the same basis as would  have  been  applicable  if
              that amount had been required to be refunded as  a  result  of
              the objection, review or appeal; and
-
          (c)      a fresh assessment of  the  tax  liability  to  which  the
              withdrawn assessment related cannot be made more than 5  years
              after the date of the initial assessment of the tax  liability
@@ -1041,449 +606,307 @@ Division 2  Reassessment and withdrawal of assessment
              been withdrawn if the  taxpayer  had  made  a  full  and  true
              disclosure of all the facts and  circumstances  affecting  the
              liability.
-
 Division 3  Notice of assessment etc.
-
-23    Notice of assessment, reassessment or withdrawal of assessment
-
+Section 23 Notice of assessment, reassessment or withdrawal of assessment
       (1)   The Commissioner may issue a notice of assessment.
-
       (2)   The Commissioner must issue a notice of assessment if:
-
          (a)      the taxpayer requests a  notice  of  assessment  within  5
              years after the date of the assessment; or
-
          (b)      the assessment is a reassessment.
-
       (3)   If the Commissioner withdraws an  assessment,  the  Commissioner
          must issue a notice of withdrawal of assessment.
-
       (4)   A notice of an assessment of a tax liability  must  specify  the
          amount assessed.
-
       (5)   If interest or penalty tax (or both) was payable at the date  of
          an assessment, the notice of assessment must specify the amount  of
          interest and penalty tax payable as at the date of the assessment.
-
       (6)   A notice under this section is to be in the approved form.
-
 Division 4  Information on which assessment is to be based
-
-24    Requirement for full and true disclosure
-
+Section 24 Requirement for full and true disclosure
       (1)   A taxpayer must, when a  relevant  occasion  arises,  fully  and
          truly disclose, in writing, to the Commissioner all the  facts  and
          circumstances affecting a tax liability.
-
          Maximum penalty:    100 penalty units.
-
       (2)   It is a defence to a charge of  an  offence  against  subsection
          (1) for the taxpayer to prove that:
-
          (a)      the taxpayer reasonably relied on some other person who is
              subject to the same tax liability to ensure  the  requirements
              of that subsection were satisfied; or
-
          (b)      the taxpayer:
-
              (i) made a full and true disclosure to a tax  adviser  of  all
                   facts and circumstances affecting the tax liability; and
-
              (ii)      reasonably relied on the tax adviser to  ensure  the
                   requirements of that subsection were satisfied.
-
          Example for subsection (2)(a)
-
          A taxpayer who is a member of a payroll tax group may  be  able  to
          establish that the taxpayer reasonably  relied  on  the  designated
          group employer to make the disclosure.
-
       (3)   A tax adviser must, when a relevant occasion arises,  fully  and
          truly disclose, in writing, to the Commissioner all the  facts  and
          circumstances affecting a tax liability.
-
          Maximum penalty:    100 penalty units.
-
       (4)   It is a defence to a charge of  an  offence  against  subsection
          (3) for the tax adviser to prove that the tax adviser:
-
          (a)       reasonably  relied  on  an  apparently  full   and   true
              disclosure by the taxpayer of all the facts and  circumstances
              affecting the tax liability; and
-
          (b)      fully and truly disclosed all facts and  circumstances  of
              which the tax adviser was aware.
-
       (5)   The Commissioner  may  permit  a  taxpayer  or  tax  adviser  to
          correct an error in any instrument, return or information submitted
          to the Commissioner.
-
       (6)   In this section:
-
          relevant occasion â a relevant occasion for disclosure arises when:
-
          (a)      a taxpayer, or  a  tax  adviser  acting  on  behalf  of  a
              taxpayer, submits an instrument or return to the  Commissioner
              for the assessment of tax; or
-
          (b)      a taxpayer or a tax adviser acting on behalf of a taxpayer
              submits an application to the Commissioner for  an  assessment
              of tax; or
-
          (c)      the Commissioner, by notice, requests a taxpayer, or a tax
              adviser  acting  on  behalf  of  a  taxpayer,  to  provide   a
              disclosure of information  under  this  section  about  a  tax
              liability that the Commissioner proposes to assess; or
-
          (d)      facts or circumstances become known to a  taxpayer,  or  a
              tax adviser acting on behalf of a taxpayer, showing  that  the
              basis on which tax has been paid, or the basis  on  which  the
              Commissioner has assessed or may be  about  to  assess  a  tax
              liability, is incorrect.
-
          tax adviser means a person engaged in a professional capacity by  a
          taxpayer for fee or reward (but not as an employee of the taxpayer)
          in business involving:
-
          (a)      the preparation on behalf of the taxpayer of an instrument
              or return on which, or by reference to which,  tax  is  to  be
              assessed; or
-
          (b)      the submission on  behalf  of  the  taxpayer  of  such  an
              instrument or return to the Commissioner; or
-
          (c)       the  provision  of  information,   or   the   making   of
              submissions, to the Commissioner relating  to  the  taxpayer's
              tax liability.
-
-25    Valuation of property
-
+Section 25 Valuation of property
       (1)   For the purpose of determining whether a  person  is  liable  to
          pay tax or a person's tax liability, the Commissioner may do one or
          more of the following:
-
          (a)      require the person to provide to the Commissioner:
-
              (i) a valuer's valuation of property; or
-
              (ii)      other evidence of the value of property satisfactory
                   to the Commissioner;
-
          (b)      obtain a valuer's valuation of property;
-
          (c)      adopt any available valuation of property prepared for any
              purpose (whether or not relating to the determination  of  tax
              liability) by a valuer or other person whom  the  Commissioner
              considers suitably qualified to value the property.
-
       (2)   The Commissioner may recover valuation costs from  the  taxpayer
          if:
-
          (a)      the taxpayer is required to provide a valuation  or  other
              evidence under subsection (1)(a) and fails to do so; or
-
          (b)      a valuation obtained or adopted by the Commissioner  under
              subsection (1)(b) or (c) exceeds the valuation provided by the
              taxpayer by 15% or more.
-
        (5)    However,  if  the  valuation  obtained  or  adopted   by   the
          Commissioner is successfully challenged on an objection, review  or
          appeal, the Commissioner may recover valuation costs  only  if  the
          value on which tax  is  finally  assessed  exceeds  the  taxpayer's
          valuation by 15% or more.
-
       (6)   If a valuation gives a range  of  values  and  does  not  fix  a
          particular point in the range at which the value probably lies, the
          valuation is taken (but only for the  purpose  of  comparison  with
          other valuations under this section) to fix a value at  the  median
          point in the range.
-
       (7)   In this section:
-
          valuation cost includes the cost of, or incidental to, obtaining or
          adopting a valuation  or  otherwise  related  to  the  use  by  the
          Commissioner of the valuation.
-
 Division 5  Ancillary provisions
-
-26    Time as at which tax liability is to be assessed
-
+Section 26 Time as at which tax liability is to be assessed
       (1)    A  tax  liability  is  to  be  assessed  by  reference  to  the
          provisions of the relevant  taxation  law  as  in  force  when  the
          liability arose.
-
        (2)    However,  the  Commissioner  must  have  regard  to   judicial
          decisions, affecting the interpretation of the relevant provisions,
          delivered since the tax liability arose.
-
-27    Certain amounts to be rounded down
-
+Section 27 Certain amounts to be rounded down
          If the amount of a taxpayer's tax liability would, apart from  this
          section, not be an exact multiple of 5c, the amount must be rounded
          down by an amount not exceeding 5c to the highest exact multiple of
          5c that is less than that amount.
-
-28    Valuation of foreign currency
-
+Section 28 Valuation of foreign currency
          If an  amount  involved  in  the  calculation  of  tax  is  not  in
          Australian currency, the amount must  be  converted  to  Australian
          currency at the rate of exchange last reported by the Reserve  Bank
          of Australia before the tax liability arose.
-
-29    Validity of assessment
-
+Section 29 Validity of assessment
          The validity of an assessment is  not  affected  by  non-compliance
          with a provision of a taxation law.
-
-30    Acceptance of money not an assessment
-
+Section 30 Acceptance of money not an assessment
          The acceptance by the Commissioner of money paid in connection with
          the lodging of a return or other document is not an assessment  and
          does not imply that the Commissioner accepts the  payment  in  full
          satisfaction of the tax liability to which the payment relates.
-
 Part 4      Refunds of tax
-
-31    Refunds only made under this Part
-
+Section 31 Refunds only made under this Part
       (1)   A person  is  not  entitled  to  recover  any  amount  paid,  or
          purportedly paid, under a taxation law except under this Part.
-
       (2)   Subsection (1) applies whether or not the amount was paid  under
          a mistake of law or fact.
-
-32    Entitlement to refund
-
+Section 32 Entitlement to refund
       (1)   If it appears to the Commissioner that a taxpayer  has  made  an
          overpayment of tax, the Commissioner must refund  to  the  taxpayer
          the amount of the overpayment.
-
       (1A)  If it appears to the  Commissioner  that  an  agent,  acting  on
          behalf of a taxpayer in accordance with an approval under  Part  6,
          Division 2, has made an overpayment of an  amount  required  to  be
          paid under the approval, the Commissioner may refund to  the  agent
          or taxpayer the amount of the overpayment.
-
       (1B)  If it appears to the Commissioner that  an  agent  has  made  an
          overpayment of an amount payable under an agent determination,  the
          Commissioner may refund to the agent the amount of the overpayment.
-
       (2)   However:
-
          (a)      if a taxation law provides for a refund on application  by
              the taxpayer, a refund is only to be made, in circumstances to
              which the relevant provision applies, on such an  application;
              and
-
          (b)      a refund cannot be  made  more  than  5  years  after  the
              overpayment was made except to give effect to  a  reassessment
-             of the relevant  tax  liability  or  a  redetermination  under
-             section 52C.
-
+             of the relevant  tax  liability  or  a  redetermination  under Section 52C.
       (3)   The Commissioner's decision to make a refund may be based on  an
          assessment of the relevant tax liability or on any  other  evidence
          the Commissioner considers sufficient.
-
       (4)   The Commissioner may refund the whole or part of the  refundable
          amount by crediting the whole or  part  of  the  refundable  amount
          against present or future  liabilities  of  the  taxpayer  under  a
          taxation law or another law administered  by  the  Commissioner  or
          under which the Commissioner exercises statutory functions.
-
          Example for subsection (4)
-
          The Commissioner might credit the amount of a refund of stamp  duty
          against a liability of the taxpayer as a member of  a  payroll  tax
          group.
-
       (5)   However, an amount is not to  be  credited  against  future  tax
          liabilities unless the taxpayer consents.
-
-33    Windfalls
-
+Section 33 Windfalls
       (1)   A taxpayer gains a windfall profit at  the  expense  of  another
          (the third party) if:
-
          (a)      the third party pays  tax  on  the  taxpayer's  behalf  or
              indemnifies the taxpayer for the payment of tax; and
-
          (b)      the amount of the tax, or a proportion of the  amount,  is
              refunded to the taxpayer under this Part.
-
       (2)   A third party is taken to indemnify a taxpayer for  the  payment
          of tax if the taxpayer identifies the tax as  a  component  of  the
          price of goods or services and receives or recovers  the  price  of
          the goods or services (including the component  referable  to  tax)
          from the third party.
-
       (3)   A taxpayer must reimburse a third party for the  amount  of  any
          windfall profit gained at the third party's expense.
-
       (4)   A reimbursement under this  section  must  be  made  within  the
          relevant period.
-
       (5)   Within 7  days  after  the  end  of  the  relevant  period,  the
          taxpayer must:
-
          (a)      give the Commissioner a notice setting out the extent  the
              windfall profit  has  been  reimbursed  as  required  by  this
              section; and
-
          (b)      return to the Commissioner any amount that  has  not  been
              reimbursed together with interest at  the  statutory  interest
              rate from the date the refund was made to the date the  amount
              is returned to the Commissioner.
-
       (6)   A taxpayer must not fail to comply with  an  obligation  imposed
          by this section.
-
          Maximum penalty:    100 penalty units.
-
       (7)   Before the Commissioner refunds tax to  a  taxpayer  under  this
          Part, the Commissioner may require  the  taxpayer  to  satisfy  the
          Commissioner that the taxpayer has  made  appropriate  arrangements
          for complying with the taxpayer's obligations under  this  section,
          and, if the Commissioner is not so satisfied, the Commissioner must
          not refund the tax to the taxpayer.
-
       (8)   In this section:
-
          relevant period means the period of 90 days  (or  a  longer  period
          allowed by the Commissioner) from the date of the refund.
-
 Part 5      Interest and penalty tax
-
 Division 1  Interest
-
-34    Interest in respect of tax defaults
-
+Section 34 Interest in respect of tax defaults
       (1)   If a tax default occurs, the taxpayer is liable to pay  interest
          on the unpaid primary and penalty tax.
-
       (2)   Interest accrues at the statutory  interest  rate  as  in  force
          from time to time.
-
       (3)   Interest is calculated on a daily basis from  the  date  of  the
          tax default to the date of payment.
-
       (4)   However, if:
-
          (a)      a taxpayer fails to  make  periodic  payments  of  tax  as
              required under a taxation law; and
-
          (b)      the Commissioner makes an assessment of the tax  to  which
              the tax defaults relate;
-
          the Commissioner may fix, in the  assessment,  for  each  financial
          year to which the tax defaults relate, a date (which must be at  or
          about the mid-point of the part of the relevant financial  year  to
          which the tax defaults relate) from which interest on the aggregate
          amount involved in the tax defaults for the relevant financial year
          is to be calculated.
-
        (5)    If  the  Commissioner  exercises  the   power   conferred   by
          subsectionÂ (4), interest is to be calculated in accordance with the
          assessment.
-
-35    Statutory interest rate
-
+Section 35 Statutory interest rate
       (1)   The statutory interest rate is the sum of:
-
          (a)      the market interest rate; and
-
          (b)      the premium interest rate.
-
       (2)   The market interest rate is (for each financial year):
-
          (a)      the rate prescribed by regulation as the  market  interest
              rate for the relevant financial year; or
-
          (b)      if no rate is  prescribed  by  regulation  as  the  market
              interest rate for the relevant financial year  â  the  average
              yield (expressed as an annual rate) on  90-day  bank  accepted
              bills published by the Reserve Bank of Australia for the month
              of  May  in  the  financial  year  immediately  preceding  the
              relevant financial year.
-
       (3)   The premium interest rate is:
-
          (a)      up to (and including) 30 June 2008 â 7%; and
-
          (b)      from (and including) 1 July 2008 â 8%.
-
-36    Minimum amount of interest
-
+Section 36 Minimum amount of interest
          Interest is not to be charged if the amount of the accrued interest
          is less thanÂ $20.
-
-37    Interest rate under this Division to prevail
-
+Section 37 Interest rate under this Division to prevail
          If judgment is given by or entered in a  court  for  an  amount  of
          unpaid tax (or an amount that includes an amount  of  unpaid  tax),
          interest continues to accrue at the statutory interest rate, to the
          exclusion of any other interest rate, until the tax is paid.
-
-38    Reduction or remission of interest
-
+Section 38 Reduction or remission of interest
       (1)   The Commissioner may, if satisfied that it is appropriate to  do
          so, remit interest wholly or in part.
-
       (2)   However, the Commissioner may only remit interest to  an  extent
          that would reduce the effective rate below the market interest rate
          if satisfied that exceptional circumstances justify the remission.
-
 Division 2  Penalty tax
-
-39    Penalty tax in respect of certain tax defaults
-
+Section 39 Penalty tax in respect of certain tax defaults
       (1)   If a tax default occurs, the taxpayer is liable to  pay  penalty
          tax.
-
       (2)   Penalty tax is in addition to:
-
          (a)      primary tax; and
-
          (b)      interest.
-
       (3)   Penalty tax is not payable for a tax default that consists of  a
          failure to pay:
-
          (a)      interest; or
-
          (b)      penalty tax previously imposed.
-
-40    Imposition etc. of penalty tax
-
+Section 40 Imposition etc. of penalty tax
          Penalty tax  is  imposed,  and  may  be  reduced  or  remitted,  by
          assessment.
-
-41    Amount of penalty tax
-
+Section 41 Amount of penalty tax
       (1)   As a general rule, the amount of  penalty  tax  is  25%  of  the
          amount of the tax default.
-
       (2)   The general rule is subject to the following exceptions:
-
          (a)      no penalty tax is to be imposed  if  the  Commissioner  is
              satisfied that the tax default arose from circumstances beyond
              the taxpayer's control (other than  the  taxpayer's  financial
              incapacity to meet the tax liability) and that  the  taxpayer,
              having discovered the default, took all  reasonable  steps  to
              rectify it;
-
          (b)      the amount of the penalty tax is 10% of the amount of  the
              tax default if the Commissioner is satisfied that the taxpayer
              took reasonable care to comply with the relevant taxation law;
-
          (c)      the amount of the penalty tax is 75% of the amount of  the
              tax default if the Commissioner is satisfied as to one of  the
              following, and 95% of the amount of the  tax  default  if  the
              Commissioner is satisfied as to both of the following:
-
              (i) that the tax default  arose  wholly  or  partly  from  the
                   intentional disregard by the taxpayer (or a person  acting
                   on behalf of the taxpayer) of a taxation law;
-
              (ii)      that the taxpayer (or a person acting on  behalf  of
                   the  taxpayer)  deliberately   concealed   or   suppressed
                   information  from  the  Commissioner   relevant   to   the
@@ -1491,2839 +914,1906 @@ Division 2  Penalty tax
                   the tax default) or hindered the  assessment  of  the  tax
                   liability (or the investigation of the tax default) in any
                   other way.
-
       (3)   The Commissioner has a discretion to reduce penalty tax  in  the
          following circumstances:
-
          (a)      the Commissioner may reduce the amount of penalty  tax  by
              up to 20% of the amount otherwise payable if the  Commissioner
              conducts an investigation of the tax default and the  taxpayer
              cooperates fully with the investigation;
-
          (b)      the Commissioner may reduce the amount of penalty  tax  by
              up to 80% of the amount otherwise payable if the  Commissioner
              has not commenced an investigation of the tax default and  the
              taxpayer's full and immediate disclosure of the extent of  the
              tax default avoids the need for an investigation;
-
          (but if the taxpayer is liable to penalty tax because of deliberate
          concealment or suppression  of  information,  there  is  to  be  no
          discretionary reduction of penalty tax imposed on that or any other
          ground).
-
       (4)   A person hinders the investigation  of  a  tax  default  if  the
          person:
-
          (a)      deliberately falsifies, damages, conceals or destroys  tax
              records to which the investigation relates; or
-
          (b)      refuses or fails (without  reasonable  excuse)  to  comply
              with a  requirement  lawfully  made  in  connection  with  the
              investigation; or
-
          (c)      hinders or  obstructs  an  authorised  officer  exercising
              functions in  the  course  of,  or  in  connection  with,  the
              investigation; or
-
          (d)       does  anything   else   to   hinder   or   obstruct   the
              investigation.
-
-42    Minimum amount of penalty tax
-
+Section 42 Minimum amount of penalty tax
          Penalty tax is not to be imposed if the amount of the  penalty  tax
          would be less than $20.
-
-43    Time for payment of penalty tax
-
+Section 43 Time for payment of penalty tax
          Penalty tax must be paid by a taxpayer within the period (not  less
          than 14Â days) specified in a notice of the assessment imposing  the
          penalty tax.
-
-44    Remission of penalty tax
-
+Section 44 Remission of penalty tax
          The Commissioner may, if satisfied that it is appropriate to do so,
          remit penalty tax in whole or part.
-
 Part 6      Returns
-
 Division 1  General
-
-45    Form of returns
-
+Section 45 Form of returns
          A return must be in the approved form.
-
-46    Time of lodgement
-
+Section 46 Time of lodgement
          A return is taken to have been lodged by a person at the  time  the
          return is received by the Commissioner.
-
-47    Presumption about person making and signing
-
+Section 47 Presumption about person making and signing
          A return apparently made and signed by or on behalf of a person  is
          presumed, unless the contrary is proved,  to  have  been  made  and
          signed by the person or with the person's authority.
-
-48    Modification of requirements relating to returns
-
+Section 48 Modification of requirements relating to returns
       (1)   The Commissioner may, by notice to a person who is  to  lodge  a
          return under a taxation law, exercise one or both of the  following
          powers:
-
          (a)      extend the time for lodging the return;
-
          (b)      vary the period to which the return is to relate.
-
       (2)   An extension or variation under this section:
-
          (a)      takes effect on, or from, a date specified in the  notice;
              and
-
          (b)      is subject to conditions stated in  the  notice  or  in  a
              later notice given to the person  to  whom  the  extension  or
              variation relates.
-
 Division 2  Special arrangements
-
-49    Approval of special arrangements
-
+Section 49 Approval of special arrangements
        (1)    Despite  the  provisions  of   another   taxation   law,   the
          Commissioner may, by notice, approve a special arrangement for  the
          lodging of returns and the payment of tax or  other  amounts  under
          the taxation law in relation to:
-
          (a)      a specified taxpayer or specified class of taxpayers;Â or
-
          (b)      a specified agent, or specified class of agents, acting or
              proposing  to  act  on  behalf  of  a  specified  taxpayer  or
              specified class of taxpayers.
-
       (2)   Without limiting subsectionÂ (1), the approval may do any of  the
          following:
-
          (a)      exempt the taxpayer or taxpayers from specified provisions
              of the taxation law to which it applies;
-
          (b)      authorise or  require  the  lodging  of  returns  and  the
              payment of tax or other amounts by electronic means;
-
          (c)      provide that a tax liability is  taken  to  be  wholly  or
              partly satisfied in specified circumstances.
-
       (3)   An approval may be given on the initiative of  the  Commissioner
          or on application.
-
       (4)   The Commissioner may vary, suspend or cancel an approval at  any
          time by notice to the affected taxpayer or agent.
-
       (5)   The calculation of tax by a person other than  the  Commissioner
          in accordance  with  a  special  arrangement  approved  under  this
          section is not an assessment.
-
-50    Application for approval
-
+Section 50 Application for approval
       (1)   An application for an approval under this Division must be  made
          to the Commissioner in the approved form.
-
       (2)   The Commissioner may grant  or  refuse  an  application  for  an
          approval under this Division.
-
       (3)   Notice of a decision under subsection (2) must be given  to  the
          applicant.
-
-51    Conditions of approval
-
+Section 51 Conditions of approval
       (1)   An  approval  under  this  Division  is  subject  to  conditions
          specified by the Commissioner in  the  notice  of  approval  or  by
          subsequent notice.
-
       (2)   The conditions of an approval may include:
-
          (a)      conditions limiting the approval to tax liabilities  of  a
              specified class; and
-
          (b)      conditions limiting the approval to transactions  effected
              by instruments of a specified class; and
-
          (c)      conditions about the content of returns and  the  time  of
              lodgement; and
-
          (d)      conditions requiring payments of tax or other  amounts  at
              specified times; and
-
          (e)      conditions about the means by  which  returns  are  to  be
              lodged or payments of tax or other amounts are to be made; and
-
          (f)      if the approval provides an exemption from  a  requirement
              for  the  stamping  of  instruments,  conditions   about   the
              endorsement of the instruments; and
-
          (g)      conditions requiring the taxpayer or  agent  to  whom  the
              approval is given to keep specified records; and
-
          (h)      conditions requiring the payment of interest in accordance
              with the approval on any  amount  that  is  not  paid  to  the
              Commissioner when it is required  under  the  approval  to  be
              paid;Â and
-
          (i)      conditions requiring the payment of a penalty  imposed  by
              the Commissioner on  any  amount  that  is  not  paid  to  the
              Commissioner when it is required  under  the  approval  to  be
              paid;Â and
-
          (j)      conditions about facilitating refunds under PartÂ 4; and
-
          (k)       any   other   conditions   the   Commissioner   considers
              appropriate.
-
-52    Effect of approval
-
+Section 52 Effect of approval
       (1)   If an approval is given under this Division to a taxpayer, or  a
          class of taxpayers, and a condition of the approval is not complied
          with, each taxpayer obliged to comply with  the  condition,  or  to
          ensure that it is complied with, is guilty of an offence.
-
          Maximum penalty:    100 penalty units.
-
       (3)   However, if  a  taxpayer  complies  with  the  provisions  of  a
          taxation law that apply apart from an approval under this Division,
          no offence is committed against subsection (1) by the taxpayer  for
          non-compliance with a condition of the approval.
-
-52A   Agent must remit amount collected
-
+Section 52A Agent must remit amount collected
          If, under a special arrangement approved under  this  Division,  an
          agent is required to pay to the Commissioner  an  amount  collected
          from a taxpayer for payment of tax, the agent must pay  the  amount
          to the Commissioner in accordance with the approval.
-
          Maximum penalty:    200 penalty units.
-
-52B   Failure to remit amount collected
-
+Section 52B Failure to remit amount collected
       (1)   This section applies if:
-
          (a)      a taxpayer pays an agent an amount for payment  of  a  tax
              under a special arrangement approved under this Division; and
-
          (b)      the agent fails to pay the amount (the unremitted  amount)
              to the Commissioner in accordance with the approval.
-
       (2)   The taxpayer is taken  to  have  satisfied  the  taxpayer's  tax
          liability to the extent  that  the  unremitted  amount  would  have
          reduced the tax liability had the unremitted amount  been  paid  to
          the Commissioner.
-
       (3)   The Commissioner  may  determine  that  the  unremitted  amount,
          together with the following amounts, are payable by the agent:
-
          (a)      interest on the unremitted amount in accordance  with  the
              approval, unless the amount of interest  would  be  less  than
              $20;
-
          (b)      a penalty equal to 20% of the  unremitted  amount,  unless
              the amount of the penalty would be less than $20;
-
          (c)      interest on the amount of the penalty in  accordance  with
              the approval, unless the amount of interest would be less than
              $20.
-
       (4)   The Commissioner may make a determination under  subsection  (3)
          on the basis of information the Commissioner has from any source.
-
       (5)   The Commissioner may, if satisfied it is appropriate to  do  so,
          remit, in whole or in part, any of the following:
-
          (a)      interest mentioned in subsectionÂ (3)(a) or (c);
-
          (b)      a penalty mentioned in subsectionÂ (3)(b).
-
-52C   Redetermination of amount payable
-
+Section 52C Redetermination of amount payable
       (1)   Subject to subsection (4), the Commissioner may redetermine  the
          amount payable by an agent after making:
-
          (a)      a determination under section 52B(3); or
-
          (b)      a redetermination under this section.
-
       (2)   A redetermination may be made:
-
          (a)      on the Commissioner's own initiative or on  receipt  of  a
              written application made by the agent; and
-
          (b)      on the basis of information the Commissioner has from  any
              source.
-
       (3)   A redetermination may:
-
          (a)      confirm the earlier agent determination; or
-
          (b)      increase the amount of the earlier agent determination; or
-
          (c)      reduce the  amount  of  the  earlier  agent  determination
              (including  reducing  the  amount   of   the   earlier   agent
              determination to nil); or
-
          (d)      alter the earlier agent determination in any other way.
-
       (4)   The Commissioner cannot redetermine the  amount  payable  by  an
          agent more than  5Â years  after  the  date  on  which  the  initial
          determination  in  relation   to   the   agent   was   made   under
          sectionÂ 52B(3) unless:
-
          (a)      the redetermination is  necessary  to  give  effect  to  a
              decision on an objection, review or appeal under  Part  11  in
              relation to the initial agent determination; or
-
          (b)      the agent failed to make a full and true disclosure of all
              the facts and circumstances affecting  the  agent's  liability
              and, as a result, the liability was determined or redetermined
              at a lower amount than it should have been; or
-
          (c)      the agent applied, in  writing,  for  the  redetermination
              within 5Â years after the date of the initial determination.
-
-52D   Notice of liability
-
+Section 52D Notice of liability
       (1)   The Commissioner  must  issue  a  notice  of  liability  if  the
          Commissioner makes an agent determination.
-
       (2)   A notice of liability must:
-
          (a)       specify  the  name  of  the  agent  to  whom  the   agent
              determination relates; and
-
          (b)      set out the agent determination; and
-
          (c)      include the following details:
-
              (i) the unremitted amount and the date it became payable;
-
              (ii)      the amount of any interest or penalty payable at the
                   date of the notice.
-
-52E   Payment and recovery of amount payable
-
+Section 52E Payment and recovery of amount payable
       (1)    The  amount  an  agent  is  required  to  pay  under  an  agent
          determination is a debt payable to the Territory and recoverable by
          the Commissioner in a court of competent jurisdiction.
-
       (2)   Subject to subsection  (3),  the  amount  must  be  paid  within
          14Â days after the date of issue of the  notice  of  liability  that
          sets out the agent determination.
-
       (3)   Part 7, Divisions 1 and 2 apply to the payment and  recovery  of
          the amount as if:
-
          (a)      the  agent  named  in  the  notice  of  liability  were  a
              taxpayer; and
-
          (b)      the amount were a tax, tax liability or  amount  assessed;
              and
-
          (c)       interest  payable  under  the  agent  determination  were
              interest payable under Part 5, Division 1; and
-
          (d)      any penalty payable under  the  agent  determination  were
              penalty tax payable under Part 5, Division 2; and
-
          (e)      the notice of liability were a notice of assessment.
-
-52F   Withdrawal of agent determination
-
+Section 52F Withdrawal of agent determination
       (1)   The Commissioner may withdraw  an  agent  determination  at  any
          time within 5 years after the date of the determination, whether or
          not the amount payable under it has been paid.
-
       (2)   If  the  Commissioner  withdraws  an  agent  determination,  the
          Commissioner  must  issue  a  notice  withdrawing  the  notice   of
          liability issued in relation to the agent determination.
-
       (3)   If an agent determination is withdrawn, the following apply:
-
          (a)       any   amount   paid   in   satisfaction,   or   purported
              satisfaction, of the amount that was payable under it is to be
              refunded;
-
          (b)      if the withdrawn agent determination is the subject of  an
              objection, application for review or appeal under  Part  11  â
              interest is to be allowed on the amount of the refund  on  the
              same basis as would have been applicable if  that  amount  had
              been required to be refunded as a  result  of  the  objection,
              review or appeal;
-
          (c)      a fresh  determination  of  the  liability  to  which  the
              withdrawn agent determination related cannot be made more than
              5Â years after the date  of  the  initial  determination  under
              sectionÂ 52B(3) of the agent's liability.
-
       (4)   However, if it later appears that the agent determination  would
          not have been withdrawn if the agent to whom it related had made  a
          full and  true  disclosure  of  all  the  facts  and  circumstances
          affecting the liability, subsection (3)(c) does not apply.
-
 Part 7      Payment and recovery of tax
-
 Division 1  Payment of tax
-
-53    Payment by cheque
-
+Section 53 Payment by cheque
          If a tax officer accepts a cheque given  in  purported  payment  of
          tax, the payment is accepted  conditionally  on  the  cheque  being
          honoured on first presentation and the tax will be  taken  to  have
          been paid at the time of the acceptance of the cheque if (and  only
          if) the cheque is honoured on first presentation.
-
-54    Extension of time for payment of tax
-
+Section 54 Extension of time for payment of tax
          On written application by a  taxpayer,  the  Commissioner  may,  if
          satisfied it is appropriate to do so, extend the time  for  payment
          of tax.
-
-55    Power to bring forward the time for payment of tax
-
+Section 55 Power to bring forward the time for payment of tax
          If the Commissioner has reason to believe that a taxpayer may leave
          Australia before tax falls due for payment, the  Commissioner  may,
          by notice to the taxpayer, bring forward the date on which the  tax
          falls due for payment to an earlier date specified in the notice.
-
-56    Instalment arrangements
-
+Section 56 Instalment arrangements
       (1)   The Commissioner may approve an arrangement for payment  of  tax
          by instalments.
-
       (2)   An instalment arrangement must  be  in  writing  and  state  the
          conditions applying to it.
-
       (3)   An instalment arrangement has effect according to its terms.
-
       (4)   An instalment  arrangement  must  provide  for  the  payment  of
          interest at the statutory interest rate from the due date until the
          tax is paid under the arrangement.
-
       (4A)  However, if satisfied that it  is  appropriate  to  do  so,  the
          Commissioner may remit, in whole or part, interest payable under an
          instalment arrangement.
-
       (5)   The Commissioner may, at  any  time,  by  notice  given  to  the
          taxpayer, terminate an instalment arrangement.
-
       (6)    If  the  Commissioner  terminates  an  instalment  arrangement,
          amounts outstanding under the arrangement are  immediately  payable
          by the taxpayer to the Commissioner.
-
-56A   Application of payment
-
+Section 56A Application of payment
       (1)   An amount received  by  the  Commissioner  from  a  taxpayer  or
          someone on behalf of a taxpayer must be applied  in  the  following
          order:
-
          (a)      firstly, any interest payable by the taxpayer  under  Part
              5, Division 1;
-
          (b)      secondly, any penalty tax payable by  the  taxpayer  under
              PartÂ 5, Division 2;
-
          (c)      lastly, any tax (other than any interest or  penalty  tax)
              payable by the taxpayer.
-
       (2)   Subsection (1) has effect except as  otherwise  decided  by  the
          Commissioner.
-
       (3)   This section does not affect the operation of section 56.
-
 Division 2  Recovery of tax
-
-57    Recovery of tax as a debt
-
+Section 57 Recovery of tax as a debt
          Tax, on becoming due for payment, is a debt due  to  the  Territory
          recoverable  by  the  Commissioner  in   a   court   of   competent
          jurisdiction.
-
-58    Joint and several liability
-
+Section 58 Joint and several liability
       (1)   If 2 or more persons are liable for tax, the liability is  joint
          and several and the Commissioner may recover the tax from  any  one
          or more of them.
-
       (2)   A person who pays  tax  for  which  another  person  is  jointly
          liable has a right of contribution from the other person.
-
       (3)   However, a right of contribution under  subsection  (2)  may  be
          altered or excluded by contract.
-
-59    Recovery from partnerships and other groups
-
+Section 59 Recovery from partnerships and other groups
        (1)    If  a  tax  liability  is  incurred  by  or  on  behalf  of  a
          partnership, the liability is joint and several and the tax may  be
          recovered from any one or more of the partners.
-
       (2)   If 2 or more persons are grouped together for the assessment  of
          tax under a particular taxation law,  a  tax  liability  under  the
          relevant taxation law relating to the group, or any of its members,
          is joint and  several  and  the  tax  (including  penalty  tax  and
          interest) may be recovered from any one or more  persons  who  were
          members of the group when the liability was incurred.
-
-60    Recovery of tax from third parties
-
+Section 60 Recovery of tax from third parties
       (1)   The Commissioner may, by notice, require  a  person  (the  third
          party) to pay money towards a taxpayer's unsatisfied tax liability.
-
       (2)   A payment or payments may be required from any one  or  more  of
          the following sources:
-
          (a)      money that is due or accruing, or may become  due  or  may
              accrue, to the taxpayer from the third party;
-
          (b)      money that the third  party  holds,  or  may  subsequently
              hold, for or on account of the taxpayer;
-
          (c)      money that the third party holds or may subsequently  hold
              on account of some other person for payment to the taxpayer;
-
          (d)      money that the third party is authorised  to  pay  to  the
              taxpayer.
-
       (3)   A copy of the notice must be served on the taxpayer.
-
       (4)   The notice may require:
-
          (a)      a single payment not  exceeding  the  amount  of  the  tax
              liability (or the amount available to make the payment); or
-
          (b)      if the third party is liable from time  to  time  to  make
              payments to the taxpayer â the whole of  each  payment,  or  a
              specified amount from or proportion of each payment, until the
              tax liability is satisfied.
-
       (5)   The money must be paid to the Commissioner:
-
          (a)      within 14 days,  or  a  longer  period  specified  by  the
              Commissioner, after the date of issue of the notice; or
-
          (b)      if the money does not become due  to  the  taxpayer  until
              after the end of the period referred to in  paragraph  (a)  as
              soon as practicable after it becomes due to the taxpayer.
-
       (6)   A person required to pay  an  amount  under  this  section  must
          comply with the requirement.
-
          Maximum penalty:    100 penalty units.
-
       (7)   A third party  who  makes  a  payment  as  required  under  this
          section is taken to be acting under the authority of  the  taxpayer
          and incurs no civil liability by making the payment.
-
       (8)   If, after the Commissioner gives  a  notice  to  a  third  party
          under this section, the relevant tax  liability  is  satisfied,  in
          whole or part, from another source, the Commissioner must promptly,
          by notice to the third party:
-
          (a)      revoke the notice under this section; or
-
          (b)      make any necessary amendment to that notice.
-
       (9)   The issue of a notice to a third party under this  section  does
          not affect the liability of the taxpayer to pay the tax, except  to
          the extent that an amount paid  by  the  third  party  reduces  the
          amount payable by the taxpayer.
-
-61    Recovery from directors
-
+Section 61 Recovery from directors
       (1)   This section applies if the  Commissioner  issues  a  notice  of
          assessment to a company and the amount assessed is not paid by  the
          due date.
-
       (2)   The Commissioner may serve a notice  on  the  directors  of  the
          company informing them that they will become jointly and  severally
          liable with the company for the  payment  of  the  tax  unless  the
          company remedies its tax default within 28 days from  the  date  of
          the notice.
-
       (3)   A notice under subsection (2) must be served on each director:
-
          (a)      personally; or
-
          (b)      if personal service is impracticable â by a form  of  non-
              personal service authorised under section 144.
-
       (4)   For the purposes of this section, a company remedies  a  default
          if:
-
          (a)      the tax liability as assessed, and any  further  liability
              for  interest  that  has  accrued  since  the  date   of   the
              assessment, is paid; or
-
          (b)      the company  enters  into  an  instalment  arrangement  on
              conditions satisfactory to the Commissioner; or
-
          (c)      the company enters  into  voluntary  administration  under
              PartÂ 5.3A of the Corporations Act 2001; or
-
          (d)      the company goes into liquidation.
-
        (5)    If  a  company  remedies  its  default  by  entering  into  an
          instalment arrangement but later contravenes  a  condition  of  the
          arrangement, the company's default  is  taken  to  revive  and  the
          Commissioner may serve another notice on the directors  under  this
          section.
-
       (6)   If the company fails to remedy its  default  within  the  28-day
          period, the directors become jointly and severally liable, with the
          company, for the payment of the tax liability assessed against  the
          company.
-
       (7)   In proceedings for recovery of tax from a  director  under  this
          section, it is a defence for the director to establish that:
-
          (a)      the director took all reasonable steps that were  possible
              in the circumstances to get the company to remedy its default;
              or
-
          (b)      the director was unable because of  illness  or  for  some
              other proper reason to take steps to get the company to remedy
              its default.
-
       (8)   If a director pays tax or  tax  is  recovered  from  a  director
          under this section, the director is entitled to be  indemnified  by
          the company for the amount paid or recovered.
-
       (9)   In this section:
-
          director, of a company, includes a person who was a  director  when
          the relevant tax liability was incurred by the company, or a notice
          under this section was  issued,  but  has  since  ceased  to  be  a
          director.
-
 Division 3  Statutory Charges
-
-62    Definitions
-
+Section 62 Definitions
          In this Division:
-
          land, see section 4(1) of the Stamp Duty Act 1978.
-
          land-holding corporation,  see  section  4(1)  of  the  Stamp  Duty
          ActÂ 1978.
-
          linked entity, see section 56NA of the Stamp Duty Act 1978.
-
          mining tenement, see section 4(1) of the Stamp Duty Act 1978.
-
          register means:
-
          (a)      for land registered under the Land  Title  Act  2000Â âÂ the
              land register; or
-
          (b)       for  a  mining   tenementÂ âÂ the   appropriate   statutory
              register.
-
          registration authority means:
-
          (a)      for land registered under the Land  Title  Act  2000Â âÂ the
              Registrar-General; or
-
          (b)      for a  mining  tenementÂ âÂ the  authority  responsible  for
              administering the register.
-
          taxable transaction means an instrument or transaction  in  respect
          of which tax is payable.
-
-63    Power to secure tax by registration of statutory charge over land
-
+Section 63 Power to secure tax by registration of statutory charge over land
        (1)    If  a  taxpayer  acquires  land  as  a  result  of  a  taxable
          transaction and the tax payable on the transaction is not  paid  by
          the due date,  the  unpaid  tax  liability  becomes  an  overriding
          statutory charge over the land.
-
       (2)   If a taxpayer who is required to lodge a  statement  in  respect
          of the acquisition of an interest  in  a  land-holding  corporation
          fails to lodge the required statement, or to pay the tax payable in
          respect of the  transaction,  by  the  due  date,  the  unpaid  tax
          liability becomes an overriding statutory charge over the  land  of
          the land-holding corporation and of linked entities.
-
-64    Registration authority may be required to register charge
-
+Section 64 Registration authority may be required to register charge
       (1)   If a tax liability becomes an  overriding  statutory  charge  on
          land under this Division, the Commissioner may lodge a request with
          the registration authority for the charge  to  be  registered  over
          land specified in the request to which the charge relates.
-
       (2)   The registration  authority  must  (without  fee)  register  the
          charge by making appropriate entries in the register.
-
       (3)   A charge registered under this Division has  priority  over  all
          other  registered   and   unregistered   mortgages,   charges   and
          encumbrances except a previously  registered  overriding  statutory
          charge.
-
-65    Notification of persons affected by charge
-
+Section 65 Notification of persons affected by charge
       (1)   When a charge is registered,  the  registration  authority  must
          notify all persons who have registered interests  in  or  over  the
          land.
-
       (2)   Failure to notify one or more persons under subsectionÂ (1)  does
          not invalidate registration of the charge.
-
-66    Commissioner to give notice
-
+Section 66 Commissioner to give notice
       (1)   A registration authority must cancel registration  of  a  charge
          on receiving notice from the Commissioner that:
-
          (a)      the tax liability to which the  charge  relates  has  been
              fully satisfied; or
-
          (b)       the  Commissioner  no  longer  wants  the  charge  to  be
              registered.
-
       (2)   When a tax liability to which a  registered  charge  relates  is
          fully satisfied, the  Commissioner  must  notify  the  registration
          authority of that fact.
-
       (3)   The registration authority must also cancel  registration  of  a
          charge if a duly stamped conveyance is lodged for  registration  to
          give effect to the sale of the land under this Division.
-
-67    Prohibition on dealings
-
+Section 67 Prohibition on dealings
        (1)    While  a  statutory  charge  under   this   Division   remains
          registered,  the  registration  authority  must  not  register   an
          instrument affecting the land unless the Commissioner consents,  in
          writing, to its registration.
-
       (2)   The Commissioner has a  discretion  to  consent,  or  refuse  to
          consent, to the registration of an instrument under this section.
-
-68    Application for order to sell land
-
+Section 68 Application for order to sell land
       (1)   The Commissioner may apply to the Supreme  Court  for  an  order
          for the sale of land subject to a registered  overriding  statutory
          charge.
-
       (2)   An application may only be made for the sale of the land if:
-
          (a)      the Commissioner has made an  assessment  of  the  tax  to
              which the overriding statutory charge relates; and
-
          (b)      at least 18 months have elapsed  from  the  due  date  for
              payment fixed in the notice of assessment; and
-
          (c)      at least 6 months before the date of the  application  the
              Commissioner has given the taxpayer and  anyone  else  with  a
              registered interest in the  land  the  notice  required  under
              subsectionÂ (3).
-
       (3)   The required notice  is  a  notice  stating  the  Commissioner's
          intention to apply to the Supreme Court for an order  for  sale  of
          the land unless the outstanding tax is paid within 6  months  after
          the date of the notice.
-
       (4)   A notice under subsection (2)(c) must be served:
-
          (a)      personally; or
-
          (b)      if personal service is impracticable â by a form  of  non-
              personal service authorised under section 144; or
-
          (c)      if non-personal service under section 144 is impracticable
              â by posting the notice on the land.
-
-69    Order for sale of land
-
+Section 69 Order for sale of land
       (1)   The Supreme Court must, on the application of the  Commissioner,
          make an order  for  the  sale  of  land  subject  to  a  registered
          overriding statutory charge (or so much of the land as is necessary
          to meet the tax liability) if satisfied:
-
          (a)      that the tax, or part of the tax, secured  by  the  charge
              remains outstanding; and
-
          (b)       the  statutory  pre-conditions  to  the  making  of   the
              application have been satisfied.
-
       (2)   The Court may, if it thinks fit, act on the basis  of  affidavit
          evidence.
-
       (3)   The Court may nominate an officer of  the  Court  to  execute  a
          conveyance to give effect to a sale ordered by the Court under this
          section.
-
       (4)   A conveyance giving effect to a sale of land under this  section
          vests  the  land  in  the  purchaser  freed  and  discharged   from
          registered and unregistered mortgages,  charges,  encumbrances  and
          other interests.
-
-70    Proceeds of sale
-
+Section 70 Proceeds of sale
       (1)   If land is sold under this Division,  the  proceeds  are  to  be
          applied as follows:
-
          (a)      first â in payment of the costs, charges and  expenses  of
              and incidental to the sale;
-
          (b)      secondly â in payment of  any  money  owing  to  a  person
              entitled under a law of the Commonwealth to priority  over  an
              overriding statutory charge;
-
          (c)      thirdly â in payment of money  secured  by  an  overriding
              statutory charge registered before the statutory charge  under
              this Division;
-
          (d)      fourthly â in payment of the outstanding tax liability;
-
          (e)      fifthly â in payment of money  secured  by  an  overriding
              statutory  charge  registered  after   registration   of   the
              statutory charge under this Division;
-
          (f)      sixthly â  in  payment  of  money  secured  by  registered
              mortgages in the order of their priority;
-
          (g)      seventhly â in payment of money  secured  by  unregistered
              mortgages in order of their priority;
-
          (h)      eighthly â in payment to the taxpayer.
-
       (2)   In this section:
-
          mortgage includes a charge or encumbrance securing the  payment  of
          money.
-
-71    Other means of enforcement not affected
-
+Section 71 Other means of enforcement not affected
          The registration of  an  overriding  statutory  charge  under  this
          Division does  not  affect  the  Commissioner's  power  to  recover
          outstanding tax in proceedings unrelated to the charge.
-
 Division 4  Death of taxpayer
-
-72    Death of taxpayer
-
+Section 72 Death of taxpayer
       (1)   The death of a taxpayer does not affect a tax liability.
-
       (2)   In particular, the death  of  a  taxpayer  does  not  suspend  a
          liability to interest or to penalty tax.
-
       (3)   A tax liability  becomes,  on  the  taxpayer's  death,  a  first
          charge on the deceased taxpayer's estate.
-
        (4)    A  deceased  taxpayer's  non-pecuniary  obligations  under   a
          taxation law pass to the taxpayer's personal representative.
-
          Examples for subsection (4)
-
          1  If a taxpayer  was  required  under  a  taxation  law  to  lodge
            returns, the obligation passes to, and must  be  discharged  by,
            the personal representative.
-
          2  The deceased taxpayer's tax records must be kept by the personal
            representative for as long  as  the  taxpayer  would  have  been
            required to keep them if the taxpayer were still alive.
-
       (5)   Powers and remedies that would have been available  against  the
          taxpayer if the taxpayer were still alive are available against the
          taxpayer's personal representative.
-
          Examples for subsection (5)
-
          1  The Commissioner may make an assessment of the  tax  payable  by
            the taxpayer's  personal  representative  out  of  the  deceased
            taxpayer's estate.
-
          2  The Commissioner may commence proceedings against  the  personal
            representative for the recovery of tax.
-
          3  If proceedings commenced against a taxpayer for recovery of  tax
            are incomplete at the time of the taxpayer's death, they may  be
            continued  and  completed  against   the   taxpayer's   personal
            representative.
-
 Division 5  Waiver of tax
-
-73    Waiver of tax
-
+Section 73 Waiver of tax
       (1)   The Commissioner may waive a tax liability in whole or  part  if
          the amount of tax waived is less than $20.
-
       (2)   If the Commissioner waives stamp duty  under  this  section,  an
          instrument to which the waiver relates:
-
          (a)      may be marked as duly stamped although no stamp  duty,  or
              insufficient stamp duty, has been paid; and
-
          (b)      if so marked, is taken to have been duly stamped.
-
 Part 8      Record keeping and general offences
-
-74    Requirement to keep proper records
-
+Section 74 Requirement to keep proper records
       (1)   A taxpayer must keep the records that are  necessary  to  enable
          the taxpayer's tax liability to be ascertained.
-
          Maximum penalty:    100 penalty units.
-
       (2)   This section extends to returns designated by or  under  another
          taxation law as made that are required to be kept.
-
-75    Additional records
-
+Section 75 Additional records
       (1)   The Commissioner may,  by  notice  given  to  a  person  who  is
          required to keep a record under a taxation law, require the  person
          to keep the additional records that are specified in the notice.
-
       (2)   The person must comply with the notice.
-
          Maximum penalty:    100 penalty units.
-
-76    Keeping records that contain misleading information
-
+Section 76 Keeping records that contain misleading information
          A person must not keep a tax record that the  person  knows  to  be
          misleading in a material particular.
-
          Maximum penalty:    400 penalty units.
-
-77    Accessibility
-
+Section 77 Accessibility
       (1)   A person who is required under a taxation  law  to  keep  a  tax
          record must keep the record so that it can be readily  produced  to
          the Commissioner if the Commissioner requires it.
-
          Maximum penalty:    100 penalty units.
-
       (2)   If a tax record is not kept as required by subsection  (1),  any
          cost incurred by the Commissioner in  gaining  access  to  the  tax
          record, or the information contained in it, may be recovered by the
          Commissioner as a debt due from the person  required  to  keep  the
          record.
-
-78    Form of record â English language and Australian currency
-
+Section 78 Form of record â English language and Australian currency
       (1)   A person who is required to keep a  tax  record  must  keep  the
          record:
-
          (a)      in the  form  of  a  document  expressed  in  the  English
              language and in Australian currency; or
-
          (b)      in a form from which a document expressed in  the  English
              language and in Australian currency can be readily produced.
-
          Maximum penalty:    100 penalty units.
-
       (2)   If a tax record is not kept as required by subsection  (1),  any
          cost incurred by the Commissioner in having the  record  translated
          into  English,  or  converted  into  Australian  currency,  may  be
          recovered by the  Commissioner  as  a  debt  due  from  the  person
          required to keep the record.
-
-79    Period of retention
-
+Section 79 Period of retention
       (1)   A person required to keep a tax record must  retain  the  record
          for  5Â years  after  the  record  was  made  or  obtained,  or  the
          transaction to which it relates was  completed  (whichever  is  the
          later).
-
          Maximum penalty:    100 penalty units.
-
       (2)   However, the Commissioner may, by written approval:
-
          (a)      reduce the period of retention required  under  subsection
              (1) for specified tax records, or tax records of  a  specified
              class; or
-
          (b)      authorise the destruction of specified tax records  before
              the period of retention required under subsection (1) comes to
              an end.
-
       (3)   An approval under subsection (2) operates only for the  purposes
          of a taxation law and does not confer an exemption from other laws.
-
-80    Intentional damage to, or destruction of, records
-
+Section 80 Intentional damage to, or destruction of, records
       (1)   A person must not intentionally damage or destroy a  tax  record
          required to be retained under this Act.
-
          Maximum penalty:    400 penalty units.
-
       (2)   This section does not prevent the destruction of  a  tax  record
          if the Commissioner has authorised or approved its destruction.
-
-81    Evasion of tax
-
+Section 81 Evasion of tax
       (1)   A person liable to tax must not knowingly evade the tax.
-
          Maximum penalty:    400 penalty units.
-
        (2)    A  prosecution  under  this  section  does  not  prevent   the
          Commissioner from pursuing any other right, remedy or action  under
          this Act or any other law in relation to the evasion of tax or  the
          tax evaded.
-
-82    Misleading information and documents
-
+Section 82 Misleading information and documents
       (1)   A person must not make a statement to a  tax  officer  that  the
          person knows to be misleading in a material particular.
-
          Maximum penalty:    400 penalty units.
-
       (2)   A person must not give to a tax  officer  a  document  that  the
          person knows to be misleading in a material particular.
-
          Maximum penalty:    400 penalty units.
-
       (3)   This section extends to  a  statement  or  a  document  that  is
          misleading because of the omission of relevant information as  well
          as to one that is misleading because it consists of,  or  includes,
          misinformation.
-
       (4)   However, no offence is committed against subsection (2)  if  the
          person, when giving the document to the tax officer:
-
          (a)      draws the misleading aspect of the  document  to  the  tax
              officer's attention; and
-
          (b)      to the extent the person can reasonably do so,  gives  the
              tax officer the information necessary to correct the document.
-
-83    Falsifying or concealing information
-
+Section 83 Falsifying or concealing information
          A person must not falsify or conceal:
-
          (a)      information  about  the  identity  of  a  taxpayer,  or  a
              taxpayer's residential or business address; or
-
          (b)      information about the identity, or residential or business
              address, of any other  person  who  may  be  able  to  provide
              information relevant to the administration or enforcement of a
              taxation law; or
-
          (c)       information   that   is   otherwise   relevant   to   the
              administration or enforcement of a taxation law.
-
          Maximum penalty:    100 penalty units.
-
-84    Failure to lodge documents
-
+Section 84 Failure to lodge documents
          A person must lodge a document or return that  is  required  to  be
          lodged under a  taxation  law  within  the  time  allowed  for  its
          lodgement.
-
          Maximum penalty:    100 penalty units.
-
-85    Non-compliance with other requirements of a taxation law
-
+Section 85 Non-compliance with other requirements of a taxation law
          A taxpayer must comply with any other non-pecuniary requirement:
-
          (a)      imposed by or under a taxation law; and
-
          (b)      for which no penalty for  non-compliance  is  specifically
              fixed.
-
          Maximum penalty:    100 penalty units.
-
-86    General defence under this Part
-
+Section 86 General defence under this Part
          It is a defence to a charge of an offence against this Part if  the
          defendant proves that:
-
          (a)      the defendant took reasonable  care  to  comply  with  the
              relevant provision; or
-
          (b)      the contravention arose solely from  circumstances  beyond
              the defendant's control.
-
 Part 9      Investigations
-
 Division 1  Preliminary matters
-
-87    Definitions
-
+Section 87 Definitions
          In this Part:
-
          authorised investigation means an investigation under section 88 or
          89.
-
          corresponding authority means the  authority  responsible  for  the
          administration of a corresponding law.
-
          corresponding law means a law of the Commonwealth, of  a  State  or
          another Territory:
-
          (a)      corresponding to a taxation law; or
-
          (b)      dealing with taxation; or
-
          (c)      declared by regulation to be a corresponding law  for  the
              purposes of this Part.
-
          powers of entry and  search  means  the  powers  of  an  authorised
          officer under sections 93, 94 and 95(1)(a) to (e).
-
          relevant material means an instrument, document,  record  or  other
          thing relevant to an authorised investigation.
-
          residential premises â if premises are used partly for  residential
          and partly for non-residential purposes, a reference to residential
          premises  refers  only  to  the  part  of  the  premises  used  for
          residential purposes.
-
          search warrant means a warrant under section 94.
-
          taxation law includes the First Home Owner Grant Act 2000.
-
-88    Authorised investigations
-
+Section 88 Authorised investigations
          An authorised investigation is an investigation  undertaken  by  an
          authorised officer for one or more of the following purposes:
-
          (a)      to ascertain whether a tax liability exists;
-
          (b)      to assess the amount of a tax liability;
-
          (c)      to decide an application under a taxation law;
-
          Example for paragraph (c)
-
          An application for a first home owner grant, an exemption from tax,
          or a rebate or refund of tax.
-
          (d)      to audit records required to be kept under a taxation law;
-
          (e)      to gather information relevant to an objection, review  or
              appeal under a taxation law;
-
          (f)      to ascertain whether a person  is  entitled  to  a  grant,
              concession, rebate or exemption under a taxation law;
-
          (g)      to  ascertain  whether  a  condition  on  which  a  grant,
              concession, rebate or exemption has been paid or granted under
              a taxation law has been complied with;
-
          (h)      to ascertain whether a contravention of a taxation law has
              occurred or to gather evidence of a suspected contravention of
              a taxation law;
-
          (i)      to gather information or evidence that is relevant in some
              other way to the administration or enforcement of  a  taxation
              law.
-
-89    Investigations for purposes of corresponding laws
-
+Section 89 Investigations for purposes of corresponding laws
        (1)    The  Commissioner  may,  by  agreement  with  a  corresponding
          authority:
-
          (a)      authorise an investigation under this Part, on  behalf  of
              the  corresponding  authority,   for   the   purposes   of   a
              corresponding law; or
-
          (b)      authorise the corresponding  authority  to  carry  out  an
              investigation  under  this  Part  for  the   purposes   of   a
              corresponding law.
-
       (2)   For the purposes of such an investigation:
-
          (a)      a reference in this Part  to  tax  is  to  be  read  as  a
              reference to tax payable under the corresponding law; and
-
          (b)      a reference in this Part to a tax liability is to be  read
              as a reference to a tax liability under the corresponding law;
              and
-
          (c)      a reference in this Part to records required  to  be  kept
              under a taxation law is to be read as a reference  to  records
              required to be  kept  under,  or  for  the  purposes  of,  the
              corresponding law; and
-
          (d)      a reference in this Part to a taxation law is to  be  read
              as a reference to the corresponding law.
-
       (3)   If the Commissioner  authorises  a  corresponding  authority  to
          carry out an investigation under this Part:
-
          (a)      a reference in this Part to the Commissioner is to be read
              as a reference to the corresponding authority; and
-
          (b)      a reference in this Part to an authorised officer is to be
              read as a person authorised under  the  corresponding  law  to
              carry  out  an  investigation  in  the  jurisdiction  of   the
              corresponding law or to exercise  under  a  corresponding  law
              functions corresponding to  those  of  an  authorised  officer
              under this Act; and
-
          (c)      a reference  in  this  Part  to  an  identity  card  is  a
              reference to a card,  certificate  or  other  document  issued
              under a corresponding law identifying the holder as  a  person
              entitled   to   exercise   investigative   powers   under    a
              corresponding law.
-
 Division 2  Powers of investigation
-
-90    Access to public records without fee
-
+Section 90 Access to public records without fee
          An authorised officer  may,  for  the  purposes  of  an  authorised
          investigation, inspect and take copies of any public record without
          payment of any fee.
-
-91    Power to request information and production of records
-
+Section 91 Power to request information and production of records
       (1)   An authorised officer may, for the  purposes  of  an  authorised
          investigation, ask a person:
-
          (a)       to  answer  specified  questions  or  provide   specified
              information; or
-
          (b)       to  produce  specified  relevant  material  or   relevant
              material of a specified kind, in the  person's  possession  or
              control.
-
       (2)   The request may be made:
-
          (a)      if an oral response is required â orally; or
-
          (b)      in any other case by notice given to the  person  to  whom
              the request is addressed.
-
       (3)   The authorised officer must disclose to the person to  whom  the
          request is addressed:
-
          (a)      that the request is made for the purposes of an authorised
              investigation; and
-
          (b)      if the person to whom the request is  addressed  is  under
              investigation â that fact;
-
          (but the authorised officer is not required  to  make  any  further
              disclosure about the nature or purpose of the investigation).
-
       (4)   A person requested, by notice under  this  section,  to  provide
          written information  must,  if  the  notice  requires,  verify  the
          information by statutory declaration.
-
       (5)   A request made by one authorised officer may  be  complied  with
          by providing  the  information  or  relevant  material  to  another
          authorised officer (whether or not both are  present  at  the  same
          time).
-
       (6)   The person to whom a request is made must comply with it to  the
          extent the person is able to do  so  and,  if  asked  to  answer  a
          question, must do  so  to  the  best  of  the  person's  knowledge,
          information and belief.
-
          Maximum penalty:    100 penalty units.
-
-92    Power to require person to attend for examination
-
+Section 92 Power to require person to attend for examination
       (1)   An authorised officer may, for the  purposes  of  an  authorised
          investigation, require a person to attend for examination before an
          authorised officer.
-
       (2)   The person must be given a notice:
-
          (a)      requiring the  person  to  attend  for  examination  at  a
              specified time and place; and
-
          (b)      specifying the subject of the examination.
-
       (3)   The notice may require the person to bring and  produce  to  the
          authorised officer any relevant material in the person's possession
          or control relating to the subject of the examination.
-
       (4)   An  authorised  officer  may  require  a  person  attending  for
          examination to do any one or more of the following:
-
          (a)      to take an oath to answer all questions truthfully;
-
          (b)      to answer a question relevant to the examination asked  by
              the officer or by another person present at the examination;
-
          (c)      to produce at the examination any relevant material in the
              person's possession or control.
-
       (6)   The Commissioner may reimburse  reasonable  travelling  expenses
          actually incurred by a person who attends for examination before an
          authorised officer.
-
       (7)   An authorised officer may have a  written  transcript  or  audio
          recording (or both) made of oral evidence.
-
       (8)   A person must comply with a requirement under  this  section  to
          the extent the person is able to do so and, if required to answer a
          question, must do  so  to  the  best  of  the  person's  knowledge,
          information and belief.
-
          Maximum penalty:    100 penalty units.
-
-93    Power to enter premises
-
+Section 93 Power to enter premises
       (1)   An authorised officer may, for the  purposes  of  an  authorised
          investigation, enter and remain on  premises  if  the  officer  has
          reason to suspect there is relevant material on the premises.
-
       (2)   The power may be exercised:
-
          (a)      with the consent of the occupier; or
-
          (b)      with the authority of a search warrant.
-
       (3)   The power may also be  exercised  without  the  consent  of  the
          occupier and without a search warrant if:
-
          (a)      the premises are non-residential premises; or
-
          (b)      the premises are residential premises and the Commissioner
              gives an authorisation under subsection (4).
-
       (4)   If the Commissioner believes, on reasonable grounds, that it  is
          urgently necessary for an authorised officer to  enter  residential
          premises in order to prevent destruction of, or interference  with,
          relevant material, the  Commissioner  may  authorise  the  officer,
          orally or in writing, to do so.
-
       (5)   No authorisation is  to  be  given  by  the  Commissioner  under
          subsection (4) if an application has, within the preceding 14 days,
          been made for  a  search  warrant  and  the  application  has  been
          refused.
-
       (6)   The authorised officer must, at  the  reasonable  request  of  a
          person apparently in charge of the premises or any other person  on
          the premises, display the officer's identity card.
-
-94    Search warrants
-
+Section 94 Search warrants
       (1)   An authorised officer may apply to a justice of the peace for  a
          search warrant if the  officer  has  reason  to  suspect  there  is
          relevant material on the premises.
-
       (2)   If the justice of the peace is satisfied  by  evidence  on  oath
          that there are reasonable grounds to suspect that there is relevant
          material on the premises to  which  the  application  relates,  the
          justice of the peace may issue a search warrant.
-
       (3)   A search warrant authorises an authorised officer to  enter  and
          remain on the premises specified in the warrant for the purpose  of
          carrying out a search of the premises under this Part.
-
       (4)   A search warrant  may  authorise  the  exercise  of  the  powers
          conferred by the warrant:
-
          (a)      at any time; or
-
          (b)      subject to limitations as to hours of the day  (or  night)
              when the powers may be exercised or other  limits  as  to  the
              time when the powers may be exercised.
-
       (5)   A search warrant may be executed by the  authorised  officer  to
          whom it is issued or by any other authorised officer.
-
       (6)   A search warrant remains in force for a period specified in  the
          warrant.
-
        (7)    An  authorised  officer  executing  a  warrant  must,  at  the
          reasonable request of a person apparently in charge of the premises
          or any other person on the premises, display the warrant.
-
-95    Powers of authorised officers while on premises
-
+Section 95 Powers of authorised officers while on premises
       (1)   An authorised officer who enters premises under  this  Part  for
          the purposes of an authorised investigation  may  exercise  one  or
          more of the following powers:
-
          (a)      search the premises and examine anything on  the  premises
              (opening it if necessary and, if specifically authorised to do
              so by the Commissioner, breaking it open);
-
          (b)      photograph or film anything on the premises;
-
          (c)      operate equipment or facilities on the premises;
-
          (d)      take possession of relevant material found on the premises
              and retain it for as long as may be necessary for one or  more
-             of the following purposes:Â 
-
+             of the following purposes:Â
              (i) to examine it to determine its evidentiary value;
-
              (ii)      to copy it;
-
              (iii)     if it is relevant to possible  legal  proceedings  â
                   for the purposes of the proceedings;
-
          (e)      if relevant material  found  on  the  premises  cannot  be
              conveniently removed â secure it against interference;
-
          (f)      ask any person on the premises to do any of the following:
-
              (i) to state  the  person's  full  name,  date  of  birth  and
                   address;
-
              (ii)      to answer (orally or in writing) questions asked  by
                   the officer;
-
              (iii)     to produce relevant material;
-
              (iv)      to operate equipment or facilities on the premises;
-
              (v) to give the officer any  translation,  code,  password  or
                   other information  necessary  to  gain  access  to  or  to
                   interpret and understand any relevant material located  or
                   obtained by the officer in the course  of  exercising  the
                   officer's functions under this Part;
-
              (vi)      to give  other  assistance  the  officer  reasonably
                   requires.
-
       (2)   A person to whom a request is addressed under subsection  (1)(f)
          must comply with the request to the extent the person is able to do
          so and, if asked to answer a question, must do so to  the  best  of
          the person's knowledge, information and belief.
-
          Maximum penalty:    100 penalty units.
-
       (3)   If an authorised officer takes anything from the  premises,  the
          officer must issue a receipt in the approved form and:
-
          (a)      if the occupier or a person apparently responsible to  the
              occupier is present, give it to him or her; or
-
          (b)      otherwise,  leave  it  on  the  premises  in  an  envelope
              addressed to the occupier.
-
 Division 3  Ancillary provisions
-
-96    Authorised officer may obtain assistance
-
+Section 96 Authorised officer may obtain assistance
          An authorised officer may make use of assistance from other persons
          in exercising functions under this Part.
-
          Examples
-
          1  An authorised officer might take assistants to help overcome any
            physical barriers to the entry and search of premises.
-
          2  An authorised officer might take  a  technical  assistant  to  a
            place where tax records are kept on computer to help in  gaining
            access to the computer files.
-
-97    Obstructing etc. authorised officer
-
+Section 97 Obstructing etc. authorised officer
       (1)   A person must not obstruct or hinder:
-
          (a)      an authorised officer who is exercising a  function  under
              this Part; or
-
          (b)      a person who is assisting an  authorised  officer  in  the
              exercise of such a function.
-
          Maximum penalty:    100 penalty units or imprisonment for 6Â months.
-
       (2)   A person must not, without reasonable excuse, refuse or fail  to
          comply with a requirement of an authorised officer under this Part.
-
          Maximum penalty:    100 penalty units or imprisonment for 6Â months.
-
-98    Use of force
-
+Section 98 Use of force
       (1)   An authorised officer may use reasonable force to  exercise  any
          of the powers of entry and search.
-
       (2)   However, if the use of  reasonable  force  is  likely  to  cause
          damage to property, the officer is not  to  use  force  unless  the
          Commissioner has in the particular  case  authorised  the  officer,
          orally or in writing, to do so.
-
-99    General defence
-
+Section 99 General defence
          It is a defence to  a  charge  of  an  offence  against  this  Part
          involving a failure to comply with a requirement or request made by
          an authorised officer (including a requirement or request to answer
          a question or provide information) for the defendant to prove:
-
          (a)      that the officer did not, before making the requirement or
              request, identify himself or herself to the  defendant  as  an
              authorised officer by producing the officer's identity card or
              in some other way; or
-
          (b)      that the officer did not warn the defendant  that  failure
              to comply with the requirement or request would constitute  an
              offence.
-
-100   Self-incrimination
-
+Section 100 Self-incrimination
       (1)   A person is not excused from  answering  a  question,  providing
          information or producing relevant material, when required to do  so
          under this Part, on  the  ground  that  to  do  so  might  tend  to
          incriminate the person or make the person liable to a penalty.
-
       (2)   However, the answer, information or material is  not  admissible
          against the person in criminal proceedings other than:
-
          (a)      proceedings for an offence under a taxation law; or
-
          (b)      proceedings for an offence in the nature of perjury.
-
 Part 10     Disclosure of information
-
 Division 1  Preliminary matters
-
-101   Definitions
-
+Section 101 Definitions
          In this Part:
-
          confidential information means information obtained  under,  or  in
          the course of the administration  of,  a  taxation  law  about  the
          identity, or the personal or financial affairs,  of  a  person  but
          does not include information in the public domain.
-
          corresponding authority means an authority  or  person  responsible
          for the administration or enforcement of a corresponding law.
-
          corresponding law means a law  of  the  Commonwealth,  a  State  or
          another Territory corresponding to a taxation law or  dealing  with
          taxation.
-
          law enforcement agency means any of the following:
-
          (a)      a member of the police force of the Territory;
-
          (b)      the Director of Public Prosecutions;
-
          (c)       any  other  authority  or  person  responsible  for   the
              enforcement of laws of the Territory;
-
          (d)      the Australian Crime Commission;
-
          (e)      ASIC;
-
          (f)      the Australian Federal Police;
-
          (g)      Centrelink;
-
          (h)       the   Commonwealth   department   or   agency   primarily
              responsible for regulating immigration;
-
          (i)      a member of  the  police  force  of  a  State  or  another
              Territory;
-
          (j)      any other authority or person responsible for  enforcement
              of the laws of the Commonwealth, a State or another Territory.
-
          taxation law includes:
-
          (a)      the First Home Owner Grant Act 2000; and
-
          (b)      any other law administered by the  Commissioner  or  under
              which the Commissioner exercises statutory functions.
-
 Division 2  Disclosure of confidential information
-
-102   Prohibition on certain disclosures of information by tax officers
-
+Section 102 Prohibition on certain disclosures of information by tax officers
       (1)   A person  who  is  or  was  a  tax  officer  must  not  disclose
          confidential information, except as permitted under this Part.
-
          Maximum penalty:    400 penalty units or imprisonment for 2Â years.
-
       (2)   The following disclosures are permitted:
-
          (a)      a disclosure made in the course of official functions  for
              purposes related to the administration  or  enforcement  of  a
              taxation law;
-
          (b)      a disclosure to a corresponding  authority,  or  a  person
              authorised by  the  corresponding  authority  to  receive  the
              disclosure, of information relevant to the  administration  or
              enforcement of a corresponding law;
-
          (ba)     a disclosure  to  the  Commonwealth  in  relation  to  the
              payment of  a  royalty  amount  under  the  Mineral  Royalties
              ActÂ 2024 by a holder of a mining tenement on Aboriginal  land,
              as defined in section  3(1)  of  the  Aboriginal  Land  Rights
              (Northern Territory) ActÂ 1976 (Cth);
-
          (bb)     a disclosure to the Commonwealth Grants  Commission  (CGC)
              established under the Commonwealth Grants Commission  ActÂ 1973
              (Cth), or a third party designated by the CGC, in relation  to
              information requested by the CGC;
-
          (c)      a disclosure to:
-
              (i) the Auditor-General; or
-
              (ii)      the Ombudsman; or
-
              (iii)     an officer of the Agency; or
-
              (iv)      the Registrar of Motor Vehicles; or
-
              (v) the Valuer-General;
-
          (d)      a disclosure to a law enforcement agency;
-
          (e)      a disclosure made to,  or  with  the  express  or  implied
              consent of, the person to whom  the  confidential  information
              relates or a person who  appears  to  be  the  agent  of  that
              person;
-
          (f)      a disclosure authorised under the regulations.
-
-103   Obligations of persons (other than tax officers) who gain access to
+Section 103 Obligations of persons (other than tax officers) who gain access to
          confidential information
-
       (1)   A person  (other  than  a  tax  officer)  who  gains  access  to
          confidential information as a result of its lawful disclosure under
          this Part must not disclose the information except:
-
          (a)      as may  be  necessary  for  the  purposes  for  which  the
              disclosure was made; or
-
          (b)      as authorised by the Commissioner.
-
          Maximum penalty:    400 penalty units or imprisonment for 2Â years.
-
          Example for subsection (1)
-
          An officer of another jurisdiction to whom information is disclosed
          for purposes related to the  administration  or  enforcement  of  a
          corresponding law must not disclose the information except  as  may
          be necessary for those purposes (unless the Commissioner authorises
          disclosure for some other purpose).
-
        (2)    A  person  who  gains  unauthorised  access  to   confidential
          information must not disclose the  information  except  as  may  be
          authorised by the Commissioner.
-
          Maximum penalty:    400 penalty units or imprisonment for 2Â years.
-
          Example for subsection (2)
-
          A  cleaner  comes  across  a   document   containing   confidential
          information in the course of cleaning a tax officer's office  or  a
          person other than the intended recipient receives a misdirected fax
          or email containing confidential information.
-
-104   Compellability of disclosure before court
-
+Section 104 Compellability of disclosure before court
          A person who is or  was  a  tax  officer  cannot  be  compelled  to
          disclose  (or  to  produce  a  document  containing)   confidential
          information to a court unless the disclosure is necessary  for  the
          administration or enforcement of a taxation law.
-
-105   Protection of tax informants
-
+Section 105 Protection of tax informants
       (1)   A person who is or was a tax  officer  cannot  be  compelled  to
          disclose to a court or any other body or person:
-
          (a)      whether a tax informant  provided  the  Commissioner  with
              information leading to an investigation, prosecution or  other
              proceeding; or
-
          (b)      the identity of a tax informant; or
-
          (c)      information provided by a tax informant.
-
       (2)   In this section:
-
          tax  informant  means  a  person  who  gives  information  to   the
          Commissioner about a contravention, or suspected contravention,  of
          a taxation law by someone else.
-
-106   Required disclosures of information
-
+Section 106 Required disclosures of information
       (1)   An Agency must, at the request of the Commissioner, disclose  to
          the Commissioner information held by the  Agency  relevant  to  the
          administration or enforcement of a taxation law.
-
          Example for subsection (1)
-
          The Commissioner might require an  Agency  to  provide  its  client
          database so that the Commissioner may use the information  in  data
          matching procedures for the purpose of  detecting  undisclosed  tax
          liabilities.
-
       (2)   This section prevails over a law that is inconsistent with it.
-
       (3)   Information must be provided  to  the  Commissioner  under  this
          section free of charge.
-
       (4)   In this section:
-
          Agency includes a statutory corporation that is declared  to  be  a
          Government owned corporation by the Act by which it is incorporated
          or continued in existence.
-
 Division 3  Collection of information for disclosure to Commonwealth
-
-106A  Collection and disclosure of reportable information
-
+Section 106A Collection and disclosure of reportable information
       (1)   The Commissioner may collect reportable information.
-
       (2)   Without limiting subsection (1), the  Commissioner  may  collect
          reportable information by:
-
          (a)      requesting a person providing information for  a  function
              carried out under a taxation law  to  provide  the  reportable
              information; or
-
          (b)       requesting  reportable  information  to  be  provided  in
              connection with the lodgement of an instrument, or the  making
              of an application, under a taxation law.
-
       (3)   The Commissioner may  disclose  reportable  information  to  the
          Commissioner of Taxation of the Commonwealth.
-
       (4)   In this section:
-
          reportable information means information that is reportable by  the
          Territory to the Commissioner of Taxation of the Commonwealth under
          Schedule 1, Chapter 5, Part 5-25, Division  396,  subdivisionÂ 396-B
          of the Taxation Administration Act 1953 (Cth).
-
 Part 11     Objections, reviews and appeals
-
 Division 1  Preliminary
-
-107   Definitions
-
+Section 107 Definitions
          In this Part:
-
          decision maker means:
-
          (a)      for a decision made under the MRA â the Secretary; or
-
          (b)      for any other decision â the Commissioner.
-
          first home owner grant  decision  means  a  decision  made  by  the
          Commissioner under the First Home Owner Grant Act 2000:
-
          (a)      on an application for a first home owner grant; or
-
          (b)      requiring the repayment of money paid by way of first home
              owner grant; or
-
          (c)      relating to penalties or interest.
-
          MRA means the Mineral Royalty Act 1982.
-
          person affected by a relevant decision means:
-
          (a)      if the decision is a taxation decision â the taxpayer; or
-
          (b)      if the decision is a first home owner grant decision â the
              applicant for the first home owner grant; or
-
          (c)      if the decision is an agent determination â the  agent  to
              whom the determination relates.
-
          relevant decision means a taxation decision, first home owner grant
          decision or agent determination.
-
          royalty, see section 4 of the MRA.
-
          royalty assessment means an assessment of liability to pay  royalty
          under Part II of the MRA.
-
          royalty payer, see the MRA.
-
          Secretary, see the MRA.
-
          tax includes royalty.
-
          taxation decision means:
-
          (a)      an assessment by the Commissioner under this Act; or
-
          (b)      a decision affecting a taxpayer's  liability  to  pay  tax
              made by the Commissioner under a taxation law or the MRA; or
-
          (c)      a royalty assessment;
-
          but does not include:
-
          (d)      a decision not to make a reassessment; or
-
          (e)      a decision not to withdraw an assessment; or
-
          (f)      a decision not to make a negotiated assessment; or
-
          (g)      a negotiated assessment; or
-
          (h)      a reassessment made with the taxpayer's agreement of a tax
              liability determined by negotiated assessment.
-
          tax liability includes a liability to pay royalty.
-
          taxpayer includes a royalty payer.
-
-108   Certain decisions not subject to challenge except in proceedings by
+Section 108 Certain decisions not subject to challenge except in proceedings by
          way of objection, review or appeal
-
          The validity or  correctness  of  a  relevant  decision  (or  of  a
          procedural decision leading to the making of a  relevant  decision)
          cannot be challenged except in proceedings  by  way  of  objection,
          review or appeal under this Act.
-
 Division 2  Objections
-
-109   Right to object
-
+Section 109 Right to object
       (1)   A person affected by a  relevant  decision  may  object  to  the
          decision.
-
       (2)   However, if the relevant decision is the reassessment of  a  tax
          liability or a redetermination made under section 52C, the decision
          is only liable to objection to the extent  that  it  increases  the
          assessed amount of the tax liability or the amount payable  by  the
          agent.
-
-110   How to object
-
+Section 110 How to object
       (1)   The objection must be in writing and must  be  lodged  with  the
          decision maker within 60 days after notice of the relevant decision
          is issued by the decision maker.
-
       (2)   The objection must state fully and  in  detail  the  grounds  of
          objection.
-
-111   Objections lodged out of time
-
+Section 111 Objections lodged out of time
       (1)   If the decision maker is satisfied an objector has a  reasonable
          excuse for not lodging the objection within the 60-day period,  the
          decision maker may extend the time for lodgement.
-
       (2)   An extension of time may only be granted under this  section  on
          written application for the extension  setting  out  fully  and  in
          detail the reasons for the failure to lodge  the  objection  within
          the 60-day period.
-
-112   Onus on the objector
-
+Section 112 Onus on the objector
          The objector bears the burden of  establishing  that  the  decision
          subject to the objection was wrong.
-
-113   Decision on objection
-
+Section 113 Decision on objection
       (1)   If an objection is properly made within the time allowed  by  or
          under this Act, the decision maker must consider the objection  and
          may:
-
          (a)      allow it in whole or in part; or
-
          (b)      disallow it.
-
       (2)   If an objection to a royalty assessment  alleges  the  incorrect
          exercise of a  discretion  by  the  Minister  under  the  MRA,  the
          Secretary must refer the objection  to  the  Minister  as  soon  as
          practicable.
-
       (3)   Within 60 days after the referral, the Minister:
-
          (a)      must consider the allegation; and
-
          (b)      may confirm or vary the exercise of the discretion; and
-
          (c)      must inform the Secretary accordingly.
-
       (4)   In making a decision on the objection under subsection (1),  the
          Secretary must  give  effect  to  the  Minister's  confirmation  or
          variation.
-
-114   Notice of decision
-
+Section 114 Notice of decision
       (1)   The decision maker must give written notice of the  decision  on
          the objection under section 113 to the objector.
-
       (2)   If the objection is disallowed or  allowed  in  part  only,  the
          notice must:
-
          (a)      state the reasons for the decision; and
-
          (b)      state that the objector has a right to:
-
              (i) apply to NTCAT for review of the decision; or
-
              (ii)      subject to section 115(2),  appeal  to  the  Supreme
                   Court against the decision.
-
 Division 3  Right of review or appeal
-
-115   Right of review or appeal
-
+Section 115 Right of review or appeal
       (1)   Subject to  subsections  (2)  to  (4),  if  the  decision  maker
          decides to disallow the objection or allow it  in  part  only,  the
          objector may:
-
          (a)       apply  to  NTCAT  for  review  of  the  decision  on  the
              objection; or
-
          (b)      appeal to the Supreme Court against the  decision  on  the
              objection.
-
       (2)   If the relevant decision that was subject to the objection is  a
          first home owner grant decision, the objector  may  only  apply  to
          NTCAT for review of the decision on the objection.
-
       (3)   If the objector has commenced  a  proceeding  before  NTCAT  for
          review of the decision under subsection (1)(a), the objector cannot
          also appeal to the Supreme Court under  subsection  (1)(b)  against
          the decision.
-
       (4)   If the objector has appealed to the Supreme  Court  against  the
          decision under subsection (1)(b), the objector cannot also apply to
          NTCAT under subsection (1)(a) for review of the decision.
-
-116   Time for making application for review
-
+Section 116 Time for making application for review
       (1)   An application to NTCAT under section 115(1)(a) must be made  by
          the objector within 60 days after the date on  which  the  decision
          maker  gives  notice  of  the  decision  to  the   objector   under
          sectionÂ 114.
-
       (2)   The objector may apply to NTCAT for  an  extension  of  time  to
          apply for review of the decision.
-
       (3)   An application for an extension of  time  under  subsection  (2)
          must state fully and in detail the objector's reasons  for  failing
          to apply for review within the 60-day period.
-
       (4)   NTCAT may extend the time for making an application  for  review
          of the decision under subsection (1) if NTCAT is satisfied that the
          objector has a reasonable excuse for  not  making  the  application
          within the 60-day period.
-
-117   Time for commencing appeal
-
+Section 117 Time for commencing appeal
       (1)   An appeal to the Supreme Court under section 115(1)(b)  must  be
          commenced by the objector within 60 days after the  date  on  which
          the decision maker gives notice of the  decision  to  the  objector
          under section 114.
-
       (2)   The objector may apply to the Supreme Court for an extension  of
          the time to appeal against the decision.
-
       (3)   An application for an extension of  time  under  subsection  (2)
          must:
-
          (a)      be made in accordance with the Supreme Court  Rules  1987;
              and
-
          (b)      state fully and  in  detail  the  objector's  reasons  for
              failing to commence the appeal within the 60-day period.
-
       (4)   The Supreme Court may extend the time for commencing  an  appeal
          against the decision under subsection (1) if the Court is satisfied
          that the objector has a reasonable excuse for  not  commencing  the
          appeal within the 60-day period.
-
 Division 4  Reviews by NTCAT
-
          Note for Division 4
-
          The Northern Territory Civil and Administrative Tribunal  Act  2014
          sets out the procedure for applying to NTCAT for review  and  other
          relevant matters in relation to reviews.
-
-118   Grounds of review and response and onus on review
-
+Section 118 Grounds of review and response and onus on review
       (1)   An application for review under  section  115(1)(a)  must  state
          fully and in detail the grounds on which the application is made.
-
       (2)   The applicant's  grounds  of  review  are  not  limited  to  the
          grounds on which the objection was made.
-
       (3)   The decision maker's response to the grounds of  review  is  not
          limited  to  the  decision  maker's  reasons  for  disallowing  the
          objection or for allowing it in part only.
-
       (4)   On the review,  the  applicant  has  the  onus  of  proving  the
          applicant's case.
-
-119   Transfer of proceedings to Supreme Court
-
+Section 119 Transfer of proceedings to Supreme Court
       (1)   If the President of NTCAT considers  that  a  proceeding  before
          NTCAT  for  review  of  a  decision  on  an  objection  would  more
          appropriately be dealt with by the Supreme  Court  because  of  the
          complexity of the questions of fact or law (or both) arising in the
          proceeding, or for any other reason, the President may,  by  order,
          transfer the proceeding from NTCAT to the Court.
-
       (2)   The President may make an order  under  subsection  (1)  on  the
          application of a party to the proceeding or on the President's  own
          initiative.
-
       (3)   If an order  is  made  under  subsection  (1),  the  transferred
          proceeding is to  proceed  in  the  Supreme  Court  as  if  it  had
          originally been commenced in the Court by way of appeal against the
          decision under section 115(1)(b).
-
       (4)   Section 99A of the Northern Territory Civil  and  Administrative
          Tribunal Act 2014 does not apply in relation to  a  proceeding  for
          review of a decision on an objection.
-
-120   Other modifications to application of Northern Territory Civil and
+Section 120 Other modifications to application of Northern Territory Civil and
          Administrative Tribunal Act 2014
-
       (1)   Section 42 of the Northern Territory  Civil  and  Administrative
          Tribunal Act 2014 does not apply in relation to a  decision  on  an
          objection under section 113.
-
       (2)   Section 44(2) and  (3)  of  the  Northern  Territory  Civil  and
          Administrative Tribunal Act 2014 does not apply in  relation  to  a
          proceeding for review of a decision on an objection.
-
        (3)    Section  141(2)  of   the   Northern   Territory   Civil   and
          Administrative Tribunal Act 2014 does not apply in relation  to  an
          appeal to the Supreme Court against a decision of NTCAT  on  review
          of a decision on an objection.
-
 Division 5  Appeals to Supreme Court
-
-124   How to commence appeal
-
+Section 124 How to commence appeal
          An appeal to the Supreme Court under section 115(1)(b) is commenced
          in accordance with the Supreme Court Rules 1987.
-
-125   Grounds of appeal and response and onus on appeal
-
+Section 125 Grounds of appeal and response and onus on appeal
       (1)   The appellant's  grounds  of  appeal  are  not  limited  to  the
          grounds on which the objection was made.
-
       (2)   The decision maker's response to the grounds of  appeal  is  not
          limited to the reasons for disallowing the objection or allowing it
          in part only.
-
       (3)   On the appeal,  the  appellant  has  the  onus  of  proving  the
          appellant's case.
-
-126   Admissibility of new evidence
-
+Section 126 Admissibility of new evidence
       (1)   In hearing the appeal, the Supreme Court may admit any  evidence
          that was not before the decision maker  when  making  the  decision
          subject to appeal (new evidence) if satisfied the new  evidence  is
          material to the decision.
-
       (2)   However, if the Court admits new evidence:
-
          (a)      the Court must, unless the decision maker asks  the  Court
              to proceed with the appeal, adjourn the proceedings  to  allow
              the decision maker to reconsider the decision subject  to  the
              appeal; and
-
          (b)      if the decision maker's decision  on  the  reconsideration
              (the new decision) is acceptable to the appellant,  the  Court
              will resolve the appeal in accordance with the  new  decision;
              but
-
          (c)      if the new decision is not acceptable to the appellant:
-
              (i) the Court will continue with the hearing  of  the  appeal;
                   and
-
              (ii)      the appeal will become, from that point,  an  appeal
                   against the new decision.
-
       (3)   If, on reconsideration, the decision maker amends or varies  the
          decision in  the  appellant's  favour,  the  Court  may  order  the
          appellant to pay all or a specified part of the respondent's  costs
          in the appeal if satisfied that it is fair to do so  having  regard
          to the nature of the amendment or variation.
-
-127   Determining appeal
-
+Section 127 Determining appeal
          In determining the appeal, the Supreme Court may:
-
          (a)      confirm the decision appealed against; or
-
          (b)      vary the decision appealed against; or
-
          (c)      substitute another decision that would have been available
              to the decision maker.
-
 Division 6  Other matters
-
-128   Objection, review or appeal not to suspend recovery of tax
-
+Section 128 Objection, review or appeal not to suspend recovery of tax
          An objection, application for review or appeal does not suspend:
-
          (a)      the operation  of  a  decision  to  which  the  objection,
              application for review or appeal relates; or
-
          (b)      the recovery of any tax or other amount that is,  assuming
              the validity and correctness of that decision, recoverable.
-
-129   Giving effect to decision on objection, review or appeal
-
+Section 129 Giving effect to decision on objection, review or appeal
       (1)   When a decision  on  an  objection,  review  or  appeal  becomes
          final, the decision maker must, as soon as reasonably  practicable,
          take any action that is necessary to give effect to  the  decision,
          including the following actions:
-
          (a)      if the decision affects an assessment of tax  liability  â
              making a reassessment to accord with the decision;
-
          (b)       if  the  decision  affects  a  determination  made  under
              sectionÂ 52B(3) â making a redetermination under section 52C to
              accord with the decision;
-
          (c)      if the decision affects a royalty assessment â  making  an
              amendment to the assessment under the MRA to accord  with  the
              decision;
-
          (d)      refunding any amount that is required to be  refunded,  or
              paying any other amount that is required  to  be  paid,  as  a
              result of the decision.
-
       (2)   For a decision on an objection, if no application for review  is
          made, or no appeal is commenced, in respect of the decision  within
          the 60-day period referred to in sections 116 and 117, the decision
          becomes final at the end of that period for subsection (1).
-
       (3)   For a decision of NTCAT  on  a  review,  if  no  appeal  to  the
          Supreme Court against the decision is commenced within a period  of
          30Â days after the day on which the decision is made,  the  decision
          becomes final at the end of that period for subsection (1).
-
       (4)   For a decision of the Supreme Court on an appeal, if no  further
          appeal to a court against the  decision  is  commenced  within  the
          period allowed for commencing  the  further  appeal,  the  decision
          becomes final at the end of that period for subsection (1).
-
       (5)   If an amount is required to be refunded to a person as a  result
          of a decision on an objection, review or appeal  under  this  Part,
          the person is entitled to be paid the amount with interest.
-
       (6)   For subsection (5), the interest payable on the amount is to  be
          calculated on a daily basis from the date of  its  payment  by  the
          objector to the date of the refund at the market interest rate.
-
 Part 13     Prosecutions and offence provisions
-
 Division 1  Prosecutions
-
-135   Time for commencing prosecutions
-
+Section 135 Time for commencing prosecutions
       (1)   A tax prosecution must be commenced within  5  years  after  the
          day on which the offence is alleged to have been committed.
-
       (2)    However,  if  the  alleged  offence  involves  tax  evasion,  a
          prosecution may be commenced at any time.
-
-136   Evidentiary matters
-
+Section 136 Evidentiary matters
       (1)   In a tax prosecution, an allegation of fact  by  the  prosecutor
          in the information or complaint is evidence of the fact alleged.
-
       (2)   However, this section does  not  operate  to  the  exclusion  of
          other evidence and all  relevant  evidence  (whether  it  tends  to
          support or rebut the allegation) must be considered on its merits.
-
       (3)   This section does not apply to:
-
          (a)      an allegation as to a mental element of an offence; or
-
          (b)      proceedings  for  an  indictable  offence  or  an  offence
              punishable by imprisonment.
-
 Division 2  Offence provisions
-
-137   Criminal liability of executive officer of body corporate
-
+Section 137 Criminal liability of executive officer of body corporate
       (1)   An executive officer of a body corporate commits an offence if:
-
          (a)      the body corporate commits an offence  by  contravening  a
              declared provision (a relevant offence) and the officer  knew,
              or could reasonably have been expected to have known, that the
              contravention would happen; and
-
          (b)      the officer was in a position to influence the conduct  of
              the body corporate in relation to the contravention; and
-
          (c)      the officer failed to take reasonable steps to prevent the
              contravention.
-
          Maximum penalty:    The maximum penalty that may be imposed on an
                             individual for the relevant offence.
-
       (2)   In deciding whether the executive officer  took  (or  failed  to
          take) reasonable steps to prevent the contravention, a  court  must
          consider the following:
-
          (a)      any action the officer took directed towards ensuring  the
              following (to  the  extent  the  action  is  relevant  to  the
              contravention):
-
              (i)  the  body   corporate   arranged   regular   professional
                   assessments of the body corporate's  compliance  with  the
                   declared provision;
-
              (ii)       the  body  corporate  implemented  any  appropriate
                   recommendation   arising   from   an   assessment    under
                   subparagraph (i);
-
              (iii)      the  body   corporate's   employees,   agents   and
                   contractors had a reasonable knowledge  and  understanding
                   of the requirement to comply with the declared provision;
-
          (b)      any action the officer took when the officer became  aware
              that the contravention was, or could be, about to happen.
-
       (3)   Subsection  (2)  does  not  limit  the  matters  the  court  may
          consider.
-
       (4)    This  section  does  not  affect  the  liability  of  the  body
          corporate.
-
       (5)   This section applies  whether  or  not  the  body  corporate  is
          prosecuted for, or found guilty of, the relevant offence.
-
       (6)   This section does not apply if the body corporate would  have  a
          defence to a prosecution for the relevant offence.
-
       (7)   In this section:
-
          declared provision means:
-
          (a)      section 24(1) or (3), 33(6), 52(1) or (2),  60(6),  74(1),
              75(2), 76, 77(1), 78(1), 79(1), 80(1), 81(1),  82(1)  or  (2),
              83, 84, 85, 91(6) or 97(1) or (2); or
-
          (b)      section 24(2), 39(1),  56K(9),  56W(3),  57(1),  59(5)  or
              83B(5) of the Stamp Duty Act 1978; or
-
          (c)      a provision of regulations made  under  this  Act  or  the
              Stamp Duty Act 1978 prescribed by regulation.
-
          executive officer, of a body corporate, means a director  or  other
          person who is concerned with, or takes part in, the  management  of
          the body corporate.
-
-138   Further offences
-
+Section 138 Further offences
       (1)   If a contravention of a provision of a taxation law  amounts  to
          an offence, and the contravention continues after the  offender  is
          convicted, the offender is liable to be charged with, and convicted
          of, a further offence against the same provision.
-
       (2)   If a person is convicted of an offence against a provision of  a
          taxation law, and is convicted of a  further  offence  against  the
          same provision within 5 years, the maximum penalty for the  further
          offence is double the maximum prescribed by the  taxation  law  for
          the offence.
-
 Division 3  Effect of criminal penalty
-
-139   Effect of criminal penalty
-
+Section 139 Effect of criminal penalty
          A criminal penalty imposed on  a  person  for  contravention  of  a
          taxation law does not affect the person's liability to pay tax,  or
          any other amount, under a taxation law.
-
 Part 14     Miscellaneous
-
 Division 1  Appropriation
-
-140   Appropriation of Central Holding Authority
-
+Section 140 Appropriation of Central Holding Authority
          If the Commissioner is authorised or  required  to  pay  an  amount
          under a taxation law, the amount must  be  paid  from  the  Central
          Holding Authority which is appropriated  by  this  section  to  the
          necessary extent.
-
 Division 2  Notice of certain appointments to be given
-
-141   Notice of appointment of administrator or liquidator
-
+Section 141 Notice of appointment of administrator or liquidator
       (1)   If a person is appointed to be the administrator  or  liquidator
          of a corporate taxpayer, the person must notify the Commissioner of
          the appointment within 30Â days of the appointment.
-
          Maximum penalty:    100 penalty units.
-
       (2)   If:
-
          (a)      a taxpayer is absent from the Territory; and
-
          (b)      a person (the agent) is appointed to wind up the  business
              of the taxpayer in the Territory;
-
          the agent must notify the Commissioner of  the  appointment  within
          30Â days of the appointment and must reserve out of  the  assets  of
          the business sufficient to  satisfy  the  tax  liabilities  of  the
          taxpayer.
-
          Maximum penalty:    100 penalty units.
-
       (3)   If the agent contravenes subsection (2),  the  Commissioner  may
          recover the unpaid tax from the agent personally.
-
 Division 3  Service of documents
-
-142   Service of documents on Commissioner
-
+Section 142 Service of documents on Commissioner
        (1)    A  document  authorised  or  required  to  be  served  on  the
          Commissioner under a taxation law may be served:
-
          (a)      by delivering it to an office of the Commissioner; or
-
          (b)      by leaving it with a person who has  authority  to  accept
              documents on the Commissioner's behalf; or
-
          (c)       by  post   addressed   to   the   Commissioner   to   the
              Commissioner's postal address (which must be the number  of  a
              box or locked bag at a post office); or
-
          (d)      by faxing the document to a fax number  nominated  by  the
              Commissioner; or
-
          (e)      by a means of service approved by the Commissioner.
-
       (2)   The Commissioner may, under subsection (1)(e), approve  a  means
          of service  for  documents  generally  or  a  particular  class  of
          documents.
-
          Example
-
          The Commissioner might approve service by document exchange  or  by
          email to a nominated email address.
-
-143   Time of service
-
+Section 143 Time of service
       (1)   If a document is  received  by  the  Commissioner  after  normal
          business hours, the document is taken to have been  served  on  the
          Commissioner on the following business day.
-
       (2)   If a payment of money is  received  by  the  Commissioner  after
          normal business hours, the payment is taken to have  been  made  on
          the following business day.
-
       (3)   In this section:
-
          normal business hours  means  the  hours  when  the  Commissioner's
          offices are normally open to the public for business.
-
-144   Service of documents by Commissioner
-
+Section 144 Service of documents by Commissioner
          A document authorised or required to be served on  or  given  to  a
          person by the Commissioner for a taxation law may be served  on  or
          given to the person:
-
          (a)      personally; or
-
          (b)      by leaving it at the last address of the person  known  to
              the Commissioner; or
-
          (c)      if there is a postal service to the last  address  of  the
              person known to the CommissionerÂ âÂ by post  addressed  to  the
              person at that address; or
-
          (d)      if the person has notified  the  Commissioner  of  a  fax,
              email or DX address â by sending or transmitting the  document
              to the person at that address; or
-
          (e)      by any means provided for the service of the  document  by
              another Act or law.
-
-145   Service on an agent and other forms of subrogated service
-
+Section 145 Service on an agent and other forms of subrogated service
       (1)   If the Commissioner effects service of a document  on  an  agent
          who has actual or apparent  authority  to  accept  service  of  the
          document on behalf of  the  agent's  principal,  the  principal  is
          taken, for the purposes of  a  taxation  law,  to  have  been  duly
          served.
-
       (2)   If the Commissioner effects service of a document relating to  a
          partnership on a member  of  a  partnership,  each  member  of  the
          partnership is taken, for the purposes of a taxation law,  to  have
          been served.
-
       (3)   If the Commissioner effects service of a  document  relating  to
          an unincorporated association on  a  member  of  the  committee  or
          management of the association, each member of  the  association  is
          taken, for the purposes of a taxation law, to have been served.
-
       (4)   Subject to the regulations, if 2 or more taxpayers  are  jointly
          liable for tax, service on any  one  of  them  is  taken,  for  the
          purposes of a taxation law, to be service on each one of them.
-
 Division 4  Evidence
-
-146   Judicial notice of Commissioner's name and signature
-
+Section 146 Judicial notice of Commissioner's name and signature
          Judicial notice must  be  taken  of  the  Commissioner's  name  and
          signature.
-
-147   Presumption of regularity as to issue of documents
-
+Section 147 Presumption of regularity as to issue of documents
          A document apparently signed or issued by, or under  the  authority
          of, the Commissioner or the  Commissioner's  delegate  is,  in  the
          absence of evidence to the contrary, taken to  have  been  lawfully
          signed or issued by, or under the authority of, the Commissioner on
          the date appearing on the document.
-
-148   Evidentiary value of notice or certificate
-
+Section 148 Evidentiary value of notice or certificate
        (1)    A  decision,  determination  or   assessment   made   by   the
          Commissioner under a taxation law must be  accepted  in  any  legal
          proceedings (other than proceedings by way of objection, review  or
          appeal under this Act) as valid and correct.
-
       (2)   A certificate or  notice,  signed  by  the  Commissioner,  of  a
          decision, determination or assessment  must  be  accepted,  in  any
          legal  proceedings,  as  proof  of  the  making  of   a   decision,
          determination or assessment on the terms stated in the  certificate
          or notice.
-
-149   Certificate evidence
-
+Section 149 Certificate evidence
       (1)   A certificate signed by the Commissioner that states any of  the
          following matters is admissible in  proceedings  under  a  taxation
          law:
-
          (a)      the person named in the certificate:
-
              (i) is liable to pay tax; or
-
              (ii)      was liable to pay tax on  a  day  specified  in  the
                   certificate; or
-
              (iii)     paid tax on a day specified in the certificate;
-
          (b)      notice of a  decision,  determination  or  assessment  was
              issued to a person named in the certificate, or  the  person's
              agent, on the day specified in the certificate;
-
          (c)      the amount of tax, interest or penalty  tax  specified  in
              the  certificate  is  payable  by  a  person  named   in   the
              certificate or has been paid in whole or  in  part  by  or  on
              behalf of a person so named;
-
          (d)      a document specified in the certificate was  served  on  a
              person named in the certificate on  a  day  specified  in  the
              certificate;
-
          (e)      a person named in the certificate was, or was  not,  on  a
              date specified in the certificate, registered or  licensed  as
              required by a specified taxation law;
-
          (f)      a person  named  in  the  certificate  had,  or  had  not,
              complied with a specified requirement under a taxation law;
-
          (g)      a return required by a taxation law has been, or  has  not
              been, lodged by  or  on  behalf  of  a  person  named  in  the
              certificate on or as at a day specified in the certificate;
-
          (h)      a document specified in the certificate:
-
              (i) was not received by the Commissioner on a day specified in
                   the certificate; or
-
              (ii)      was not received by the Commissioner at all;
-
          (i)       a  person  named  in  the  certificate  is,  or  was,  an
              authorised officer on the date specified in the certificate.
-
       (2)   In the absence of evidence to the  contrary,  a  certificate  is
          proof of the matters stated in the certificate.
-
 Division 5  Regulations
-
-150   Regulations
-
+Section 150 Regulations
       (1)   The Administrator may make regulations under this Act.
-
        (2)    The  regulations  may  prescribe  fees  to  be  paid   on   an
          application, request, objection or appeal under this Act or for any
          service provided under this Act.
-
 Part 15     Transitional provisions for Taxation Administration Act 2007
-
-151   Definitions
-
+Section 151 Definitions
          In this Part:
-
          date of transition means 1 January 2008.
-
          old law means  relevant  provisions  of  the  following  Acts  (and
          regulations under the following Acts) as in force before  the  date
          of transition:
-
          (a)      the Taxation (Administration) Act 2000;
-
          (b)      the Stamp Duty Act 1978;
-
          (c)      the Pay-roll Tax Act 1979;
-
          (d)      the First Home Owner Grant Act 2000.
-
-152   Administration
-
+Section 152 Administration
       (1)   A person holding office under the old  law  as  Commissioner  of
          Taxes immediately before the date of transition continues in office
          after the date of transition as Commissioner of Territory Revenue.
-
        (2)    A  person  holding  office  under  the  old  law   as   Deputy
          Commissioner of Taxes immediately before  the  date  of  transition
          continues in office after  the  date  of  transition  as  a  Deputy
          Commissioner of Territory Revenue.
-
       (3)   A person holding office  under  the  old  law  as  an  Assistant
          Commissioner of Taxes immediately before  the  date  of  transition
          continues in office after  the  date  of  transition  as  a  Deputy
          Commissioner of Territory Revenue.
-
       (4)   The terms and conditions on which  a  person  holds  office  are
          unaffected by this section.
-
       (5)   Any legal proceedings that were commenced  before  the  date  of
          transition by or against the Commissioner of Taxes and had not been
          completed by the date of transition may be continued and  completed
          by or against the Commissioner of Territory Revenue.
-
       (6)   A  reference  in  any  statutory  or  other  instrument  to  the
          Commissioner of Taxes is (where the context admits) to be read as a
          reference to the Commissioner of Territory Revenue.
-
-153   Investigators
-
+Section 153 Investigators
       (1)   A person who was, immediately  before  the  date  of  transition
          vested with powers of investigation or inquiry under  the  old  law
          because of an appointment, authorisation or delegation made by  the
          Commissioner of Taxes is, on the date of transition, taken to  have
          been appointed by the Commissioner as an authorised officer.
-
       (2)   A presumptive appointment under subsection  (1)  terminates,  or
          may be terminated, in the same way as an  actual  appointment  made
          under this Act.
-
-154   Assessments
-
+Section 154 Assessments
       (1)   The provisions of this Act relevant to the assessment of  a  tax
          liability apply whether the liability was incurred  before,  on  or
          after the date of transition.
-
       (2)   A tax liability  assessed  under  the  old  law  is  subject  to
          reassessment under this Act as if this Act had been in  force  when
          the assessment had been made and it had then been made  under  this
          Act.
-
       (3)   However, a liability to stamp duty assessed under  the  old  law
          before 1Â JanuaryÂ 2005 cannot be reassessed.
-
-155   Refunds of tax
-
+Section 155 Refunds of tax
          The provisions of this  Act  governing  the  refund  of  tax  apply
          whether  the  tax  was  paid  before,  on  or  after  the  date  of
          transition.
-
-156   Interest and penalty tax
-
+Section 156 Interest and penalty tax
       (1)   Interest accrues on  a  tax  default  that  occurs  before,  but
          continues after, the date of transition as if this Act had been  in
          force when the relevant tax liability was incurred.
-
       (2)   Penalty tax may be imposed under this  Act  for  a  tax  default
          occurring before the date of transition.
-
       (3)   The powers conferred by this Act to remit  interest  or  penalty
          tax extend to interest that accrued before the date  of  transition
          and to any penalty or additional tax payable under the old law.
-
-157   Special arrangement for filing returns or paying tax
-
+Section 157 Special arrangement for filing returns or paying tax
          Any special arrangement for filing returns or paying tax  in  force
          under the  old  law  immediately  before  the  date  of  transition
          continues in force under this Act (subject  to  revocation  by  the
          Commissioner) as if it were an arrangement approved under Part 6.
-
-158   Collection and recovery of tax
-
+Section 158 Collection and recovery of tax
       (1)   Part 7 applies to the collection and  recovery  of  tax  whether
          the relevant tax liability arose before, on or after  the  date  of
          transition.
-
       (2)   However, Part 7, Division 3 applies only in relation to:
-
          (a)      a tax liability incurred under a provision  of  the  Stamp
              Duty ActÂ 19678, Part 3, DivisionÂ 8A; or
-
          (b)      a tax liability incurred before the  date  of  transition,
              under a  provision  of  an  old  law  that  corresponds  to  a
              provision mentioned in paragraph (a); or
-
          (c)       a  tax  liability  incurred  on  or  after  the  date  of
              transition.
-
-159   Records
-
+Section 159 Records
          Part 8 extends to tax liabilities,  and  records  relevant  to  tax
          liabilities, incurred before the date of transition.
-
-160   Investigations
-
+Section 160 Investigations
          Part 9 extends to the investigation of a tax liability incurred, an
          offence committed, or circumstances occurring before  the  date  of
          transition.
-
-161   Disclosure of information
-
+Section 161 Disclosure of information
          Part 10 extends to confidential information obtained under the  old
          law.
-
-162   Objections and appeals
-
+Section 162 Objections and appeals
       (1)   Part 11 extends to an objection or  appeal  against  a  decision
          made before the date of transition.
-
       (2)   However, if at the date of  transition  proceedings  by  way  of
          objection or appeal had been commenced under  the  old  law,  those
          proceedings are to be dealt with under the old law  and,  if  those
          proceedings lead to an appeal or further appeal, that is also to be
          dealt with under the old law.
-
-163   Offences
-
+Section 163 Offences
          The provisions of this Act regarding the time for commencement of a
          tax prosecution apply whether the offence is alleged to  have  been
          committed before or after the date of transition.
-
-164   Evidence
-
+Section 164 Evidence
          The provisions of this Act  creating  evidentiary  presumptions  or
          providing for evidence by  certificate  extend,  subject  to  their
          terms, to proceedings related to civil or criminal causes of action
          arising before the date of transition or to tax liabilities arising
          before the date of transition.
-
-165   Substantive criminal law unaffected by this Part
-
+Section 165 Substantive criminal law unaffected by this Part
          This Part does not affect the substantive law by reference to which
          criminal liability for an offence  committed  before  the  date  of
          transition is determined.
-
 Part 16     Transitional matters for Revenue and Other Legislation
                 Amendment Act 2010
-
-166   Application
-
+Section 166 Application
       (1)   The amendments  relating  to  the  definition  taxation  law  in
          sectionsÂ 3 and  3A  made  by  the  Revenue  and  Other  Legislation
          Amendment Act 2010 apply in relation to a tax  liability  mentioned
          in section  3A  accrued  at  any  time  before,  on  or  after  the
          commencement of this section.
-
       (2)   Subsection (1) has effect except as otherwise provided  by  Part
          15.
-
 Part 17     Transitional matters for Statute Law Amendment (Directors'
                 Liability) ActÂ 2015
-
-167   Offences â before and after commencement
-
+Section 167 Offences â before and after commencement
        (1)    Section  137,  as  inserted  by  the  Statute  Law   Amendment
          (Directors' Liability)  ActÂ 2015,  (the  new  section)  applies  in
          relation to a relevant offence committed by a body corporate  after
          the  commencement  of  Part  2,  Division  37  of  that  Act   (the
          commencement) only if:
-
          (a)      all the conduct constituting the relevant offence occurred
              after the commencement; and
-
          (b)      all the conduct of the executive officer constituting  the
              offence  against  the   new   section   occurred   after   the
              commencement.
-
       (2)   Section 137, as in force before the commencement:
-
          (a)      continues to apply in relation to offences committed by  a
              company before the commencement; and
-
          (b)      applies in relation to relevant offences  committed  by  a
              body corporate after the commencement to which, as a result of
              subsection (1), the new section does not apply.
-
 Part 18     Transitional matters for Statute Law Amendment (NTCAT Conferral
                 of Jurisdiction) Act 2023
-
-168   Definitions
-
+Section 168 Definitions
          In this Part:
-
          amending Act means the Statute Law Amendment  (NTCAT  Conferral  of
          Jurisdiction) Act 2023.
-
          commencement means the commencement of Part 14 of the amending Act.
-
          former Act means:
-
          (a)      this Act as in force immediately before the  commencement;
              and
-
          (b)      the Taxation and Royalty Appeals Tribunal Rules  2005,  as
              in force immediately before the commencement.
-
          former Tribunal means the Taxation  and  Royalty  Appeals  Tribunal
          continued by section 130 of the former Act.
-
          new Act means this Act, as amended by Part 14 of the amending Act.
-
-169   Right of appeal or review for existing objection decisions
-
+Section 169 Right of appeal or review for existing objection decisions
       (1)   This section applies to a  person  if,  immediately  before  the
          commencement, the person:
-
          (a)      was entitled to appeal  to  the  former  Tribunal  or  the
              Supreme Court under section 115 of the former  Act  against  a
              decision on an objection (an existing objection decision); and
-
          (b)      had not yet commenced an appeal to the former Tribunal  or
              the Supreme Court against the existing objection decision.
-
       (2)   The person:
-
          (a)      cannot commence an appeal against the  existing  objection
              decision to the former Tribunal or  the  Supreme  Court  under
              section 115 of the former Act after the commencement; and
-
          (b)      may apply to NTCAT for review of, or appeal to the Supreme
              Court against, the existing objection decision  in  accordance
              section 115 of the new Act.
-
       (3)   For subsection (2)(b), an  application  for  review  of,  or  an
          appeal against, the existing objection decision  must  be  made  or
          commenced by the person within the period specified in section  116
          or 117 of the new Act in respect of that decision.
-
-170   Appeals to former Tribunal not determined before commencement
-
+Section 170 Appeals to former Tribunal not determined before commencement
       (1)   This section applies in relation to  an  appeal  to  the  former
          Tribunal (a pending proceeding) that:
-
          (a)      was commenced by a person under section 115 of the  former
              Act; and
-
          (b)      had not been finally determined  by  the  former  Tribunal
              before the commencement.
-
       (2)   Despite the repeal of Part 12 of the former Act by  section  136
          of the amending Act, the former Tribunal:
-
          (a)      continues in existence  after  the  commencement  for  the
              purpose of enabling it to  determine  the  pending  proceeding
              before it; and
-
          (b)      must continue to hear and determine the pending proceeding
              in accordance with the former  Act,  as  if  Part  14  of  the
              amending Act had not commenced.
-
       (3)   Sections 128 and 129 of the former Act continue to  apply  after
          the commencement in relation to:
-
          (a)      the pending proceeding; and
-
          (b)      a decision made by the  former  Tribunal  in  the  pending
              proceeding.
-
       (4)   A party to the pending proceeding  may  appeal  to  the  Supreme
          Court  against  the  former  Tribunal's  decision  in  the  pending
          proceeding in accordance with section 123 of the former Act, as  if
          Part 14 of the amending Act had not commenced.
-
       (5)   Subject  to  section  174,  the  Supreme  Court  must  hear  and
          determine the party's appeal in accordance with section 123 of  the
          former Act, as if Part 14 of the amending Act had not commenced.
-
-171   Appeals against objection decisions not determined by Supreme Court
+Section 171 Appeals against objection decisions not determined by Supreme Court
          before commencement
-
       (1)   This section  applies  in  relation  to  an  appeal  (a  pending
          appeal) to the Supreme Court that:
-
          (a)      was commenced by a person under section 115 of the  former
              Act; and
-
          (b)      had not been finally determined by the  Court  before  the
              commencement.
-
       (2)   The Supreme Court  must  continue  to  hear  and  determine  the
          pending appeal in accordance with Part 11 of the former Act, as  if
          Part 14 of the amending Act had not commenced.
-
       (3)   Sections 128 and 129 of the former Act continue to  apply  after
          the commencement in relation to:
-
          (a)      the pending appeal; and
-
          (b)      a decision made  by  the  Supreme  Court  in  the  pending
              appeal.
-
-172   Appeals against decisions of former Tribunal not commenced before
+Section 172 Appeals against decisions of former Tribunal not commenced before
          commencement
-
       (1)   This section applies to a  person  if,  immediately  before  the
          commencement, the person:
-
          (a)      was entitled to appeal to  the  Supreme  Court  against  a
              decision of the former  Tribunal  under  section  123  of  the
              former Act; and
-
          (b)      had not yet commenced an appeal against the decision.
-
       (2)   The person may appeal to the Supreme Court against the  decision
          of the former Tribunal in accordance with section 123 of the former
          Act, as if Part 14 of the amending Act had not commenced.
-
       (3)   Subject  to  section  174,  the  Supreme  Court  must  hear  and
          determine the person's appeal in accordance with section 123 of the
          former Act, as if Part 14 of the amending Act had not commenced.
-
-173   Appeals against decisions of former Tribunal not determined before
+Section 173 Appeals against decisions of former Tribunal not determined before
          commencement
-
       (1)   Subsection (2) applies in relation to an appeal to  the  Supreme
          Court against a decision of the former Tribunal that:
-
          (a)      was commenced by a person under section 123 of the  former
              Act; and
-
          (b)      had not been finally determined by the  Court  before  the
              commencement.
-
       (2)   Subject to section 174, the Supreme Court must continue to  hear
          and determine the person's appeal in accordance with section 123 of
          the former Act,  as  if  Part  14  of  the  amending  Act  had  not
          commenced.
-
-174   Remittal of matters to NTCAT on appeals determined after commencement
-
+Section 174 Remittal of matters to NTCAT on appeals determined after commencement
       (1)   If the Supreme Court's decision on  an  appeal  referred  to  in
          sectionÂ 170(5), 172(3) or 173(2) would require  the  matter  to  be
          remitted  to  the  former  Tribunal   for   reconsideration   under
          sectionÂ 123(3)(d) of the former Act, the Court:
-
          (a)      must instead remit the matter to NTCAT  for  determination
              in accordance with the Court's directions; and
-
          (b)      may make any  orders  and  give  any  directions  that  it
              considers appropriate to facilitate the remittal of the matter
              to NTCAT instead of the former Tribunal.
-
       (2)   Subject to subsection (3), NTCAT must  hear  and  determine  the
          remitted matter as if it had originally been commenced in NTCAT  by
          way of application for review of the decision on the objection that
          was the subject of the appeal to the former Tribunal.
-
       (3)   For the determination of the remitted  matter,  NTCAT  may  make
          any decision or order under the former Act  that  could  have  been
          made  by  the  former  Tribunal  in  accordance  with  the  Court's
          directions if the matter had been remitted to it.
-
       (4)   Sections 128 and 129 of the new Act apply  in  relation  to  the
          determination of the remitted matter by NTCAT.
-
                                   ENDNOTES
-
-1     KEY
+Section 1 KEY
                             Key to abbreviations
-
 amd = amended                     od = order
 app = appendix                    om = omitted
 bl = by-law                       pt = Part
@@ -4337,9 +2827,7 @@ hdg = heading                           sdiv = Subdivision
 ins = inserted                          SL = Subordinate Legislation
 lt = long title                         sub = substituted
 nc = not commenced
-
-2     LIST OF LEGISLATION
-
+Section 2 LIST OF LEGISLATION
 |Taxation Administration Act 2007 (Act No. 28, 2007)               |
 |Assent date          |29 October 2007                             |
 |Commenced            |1 January 2008 (s 2)                        |
@@ -4414,16 +2902,12 @@ nc = not commenced
 |Mineral Royalties Act 2024 (Act No. 12, 2024)                     |
 |Assent date          |11 June 2024                                |
 |Commenced            |1 July 2024 (s 2)                           |
-
-3     GENERAL AMENDMENTS
-
+Section 3 GENERAL AMENDMENTS
            General amendments of a formal nature (which are not referred to
            in the table of amendments to this  reprint)  are  made  by  the
            Interpretation Legislation Amendment Act 2018 (Act No. 22, 2018)
            to: ss 1, 3A, 8, 9, 62, 87, 101, 107, 124, 137, 151 and 158.
-
-4     LIST OF AMENDMENTS
-
+Section 4 LIST OF AMENDMENTS
 s 3   amd No. 18, 2009, s 114; No. 21, 2010, s 29; No. 13, 2021, sÂ 4
 s 3A  ins No. 21, 2010, s 30
       amd No. 21, 2019, s 23; No. 24, 2023, sÂ 119; No. 8, 2024, sÂ 339

@@ -1,0 +1,793 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/sctocpsfaaca19971271/",
+    "register_url": "https://www.legislation.gov.au/C2004A05279/latest/text",
+    "source": "Superannuation Contributions Tax (Members of constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 (100000158).txt",
+    "filename": "Superannuation Contributions Tax (Members of constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 (100000158).json",
+    "name": "Superannuation Contributions Tax (Members of constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997",
+    "citation": "Superannuation Contributions Tax (Members of constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": "This Act may be cited as the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 2",
+      "text": "This Act commences on the day on which it receives the Royal Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Act to bind Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Act to bind Crown",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "(1) This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory.\n (2) Nothing in this Act permits the Crown to be prosecuted for an offence."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Extension to Norfolk Island",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Extension to Norfolk Island",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "This Act extends to Norfolk Island."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Object of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Object of Act",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 5",
+      "text": "The object of this Act is to provide for the assessment and collection of the superannuation contributions surcharge payable on surchargeable contributions for high -income members of constitutionally protected superannuation funds."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Simplified outline of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Simplified outline of Act",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 6",
+      "text": "The following is a simplified outline of this Act.\n        (a) If there are surchargeable contributions for a member for the 1996 -97 financial year or a later financial year (being a financial year that ends before 1 July 2005), the Commissioner will calculate the member&#39;s adjusted taxable income for the financial year.(b) If the amount calculated is greater than the surcharge threshold amount, the Commissioner will calculate the rate of surcharge and the amount of the surcharge payable on the surchargeable contributions. Only surchargeable contributions calculated for a period after 7.30 pm on 20  August 1996 are subject to surcharge.(c) For a defined benefits superannuation scheme, the surcharge is payable on an amount calculated to be the actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of, the member for the financial year.(d) If, after the assessment of surcharge, the member&#39;s adjusted taxable income is found to be different from the amount that was previously calculated or the surchargeable contributions are found to be different from the amount on which the assessment was based, the Commissioner may amend the assessment.(e) The member is liable to pay the surcharge on the member&#39;s surchargeable contributions for a financial year, but the surcharge is not payable before benefits become payable.(f) If liability for surcharge is increased as a result of an amendment of an assessment, interest is payable on the additional surcharge.(g) A member may object against an assessment of surcharge in the way set out in Part  IVC of the Taxation Administration Act 1953 for objecting against assessments of income tax.(h) A late payment penalty applies if surcharge is not paid on time."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Exclusion of certain members",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Exclusion of certain members",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 7",
+      "text": "This Act does not apply to a person who is a member because he or she is a judge of a court of a State at the commencement of this Act."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Superannuation contributions surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Superannuation contributions surcharge",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY--TO SURCHARGE > Section 8",
+      "text": "Financial years to which surcharge applies\n (1) Superannuation contributions surcharge is payable on a member&#39;s surchargeable contributions for the financial year that began on 1  July 1996 or a later financial year that ends before 1 July 2005.\nNo surcharge is payable unless adjusted taxable income is greater than surcharge threshold\n (2) Surcharge is not payable for a financial year unless the member&#39;s adjusted taxable income for the financial year is greater than the surcharge threshold for the financial year.\nNo surcharge is payable by residents of external Territories\n (3) Surcharge is not payable for a financial year if the person who would be liable to pay the surcharge is a Territory resident for the purposes of Division  1A of Part III of the Income Tax Assessment Act as it applies to the year of income that comprises that financial year."
+    },
+    {
+      "key": "section:9.p1",
+      "title": "Section 9 - Surchargeable contributions",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Surchargeable contributions",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY--TO SURCHARGE > Section 9",
+      "text": "Application (1) This section explains what are the surchargeable contributions of a member for a financial year and how they are to be worked out. Member other than a member of a defined benefits superannuation scheme (2) If: (a) there are any contributed amounts for a financial year in relation to a member other than a member of a defined benefits superannuation scheme; and (b) the constitutionally protected superannuation fund is a complying superannuation fund for the purposes of the year of income comprising the financial year; the surchargeable contributions of the member for the financial year are the sum of: (c) so much of the amounts referred to in subparagraph (a)(i) of the definition of contributed amounts in section 38 as: (i) are taxable contributions under subparagraph 274(1)(a)(i), (b)(ii), (ba)(i) or (ba)(iv) or paragraph 274(1)(d) or (e) of the Income Tax Assessment Act; or (ii) are allowed as deductions to the member under section 82AAT of that Act; or (iii) subject to subsection (3), constitute amounts accrued after 20 August 1996 that are eligible termination payments under paragraph (a) of the definition of eligible termination payment in subsection 27A(1) of that Act and are rolled-over on or after 1 July 1997; and (d) any amounts referred to in subparagraph (a)(ii) or (iii) of the definition of contributed amount in section 38. (3) If an eligible termination payment within the meaning of subparagraph (2)(c)(iii) has been made or is made to or for a taxpayer after 20 August 1996, surcharge is payable only on the part of the reduced amount of the eligible termination payment that is worked out using the formula: where: \"post-20 August 1996 period\" means the number of days in the period of the taxpayer&#39;s employment for which the eligible termination payment was made that occurred after 20 August 1996. \"reduced amount\" of an eligible termination payment is the amount remaining after deducting from the amount of the payment any post-June 1994 invalidity component or CGT exempt component of the payment or any part of the payment that was made from an employee share acquisition scheme. \"total period\" means the number of days in the period of the taxpayer&#39;s employment for which the eligible termination payment was made. Member of defined benefits superannuation scheme (4) The surchargeable contributions for a financial year of a member of a defined benefits superannuation scheme are the amounts that constitute the actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of, the member for the financial year. Value of benefits and expenses--financial year earlier than 1999-2000 financial year (5) The actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of, a member of a defined benefits superannuation scheme for the 1996 -97 financial year or for either of the next 2 financial years is the amount worked out using the formula: where: \"annual salary\" means: (a) if paragraph (b) does not apply--the amount that is the member&#39;s annual salary for the financial year; or (b) if another amount is taken to be the member&#39;s annual salary for the purposes of the scheme as it applies to the member for the financial year--that other amount. \"notional surchargeable contributions factor\" means the factor applying to the member for the financial year worked out by an eligible actuary in accordance with: (a) the method set out in Superannuation Contributions Ruling SCR 97/1; or (b) if the Commissioner approves in writing another method as being appropriate in relation to the member for the financial year, being a method that excludes contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the Income Tax Assessment Act 1997--the method so approved. Value of benefits and expenses--1999-2000 financial year or a later financial year (6) The actuarial value of the benefits that accrued to, and the value of the administration expenses and risk benefits provided in respect of, a member of a defined benefits superannuation scheme for the 1999 -2000 financial year or a later financial year is an amount worked out using: (a) the method set out in the regulations, being a method that excludes Government co -contributions made under the Superannuation (Government Co-contribution for Low Income Earners) Act 2003 and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the Income Tax Assessment Act 1997 ; or (b) if"
+    },
+    {
+      "key": "section:9.p2",
+      "title": "Section 9 - Surchargeable contributions",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Surchargeable contributions",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY--TO SURCHARGE > Section 9",
+      "text": "and risk benefits provided in respect of, a member of a defined benefits superannuation scheme for the 1999 -2000 financial year or a later financial year is an amount worked out using: (a) the method set out in the regulations, being a method that excludes Government co -contributions made under the Superannuation (Government Co-contribution for Low Income Earners) Act 2003 and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the Income Tax Assessment Act 1997 ; or (b) if the Commissioner approves in writing another method as being appropriate in relation to the member for the financial year, being a method that excludes Government co -contributions made under the Superannuation (Government Co -contribution for Low Income Earners) Act 2003 and contributions made by the member for which the member is not entitled to an income tax deduction under the Income Tax Assessment Act or under the Income Tax Assessment Act 1997--the method so approved. Regulations (7) Regulations made for the purposes of paragraph (6)(a) may specify, or make provision for the Commissioner to specify in writing, different methods in relation to different superannuation schemes, different classes of superannuation schemes or different classes of members of a superannuation scheme. Transitional provision for 1996-97 financial year (8) For the 1996-97 financial year, a member&#39;s surchargeable contributions are to be worked out only for the part of that financial year that started immediately after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996. Reduced surchargeable contributions (9) The amount of the surchargeable contributions of a member for a financial year is the amount worked out under subsection (2) or (4) (as appropriate), reduced by the amount worked out under subsection (10), if: (a) an eligible termination payment is made to the member in the financial year from the constitutionally protected superannuation fund; and (b) the eligible termination payment has an excessive component. (10) The amount of the reduction is worked out as follows: Amount of the reductionStep 1. Work out the amount that would have been the taxed element of the retained amount of the post-June 83 component of the eligible termination payment if the amount of the excessive component of the eligible termination payment had been nil.Step 2. Work out the taxed element of the retained amount of the post-June 83 component of the eligible termination payment.Step 3. Subtract the result of step 2 from the result of step 1.Step 4. Divide the result of step 3 by 0.85.Step 5. Subtract the result of step 3 from the result of step 4.Step 6. Add the result of step 5 to the excessive component of the eligible termination payment.Step 7. Identify the amount of the surchargeable contributions (apart from subsection (9)) of the member reported for the financial year by the entity that paid the eligible termination payment.Step 8. Identify the lesser of the results of steps 6 and 7 (or either result if they are the same)."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Surcharge threshold",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Surcharge threshold",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY--TO SURCHARGE > Section 10",
+      "text": "Surcharge threshold for 1996-97 financial year\n (1) The surcharge threshold for the 1996-97 financial year is $70,000.\nSurcharge threshold for later financial year\n (2) The surcharge threshold for a later financial year is the amount calculated using the formula:\nwhere:\n\"previous surcharge threshold\" means the surcharge threshold for the financial year immediately before the financial year for which the surcharge threshold is being calculated.\n\"indexation factor\" means the number calculated under subsections (4) and (5) for the financial year for which the surcharge threshold is being calculated.\nRounding off of amount of surcharge threshold\n (3) If an amount worked out for the purposes of subsection  (2) is an amount of dollars and cents:\n (a) if the number of cents is less than 50--the amount is to be rounded down to the nearest whole dollar; or\n (b) otherwise--the amount is to be rounded up to the nearest whole dollar.\nIndexation factor\n (4) The indexation factor for a financial year is the number, calculated to 3 decimal places, using the formula:\nwhere:\n\"index number\", for a quarter, means the estimate of full-time adult average weekly ordinary time earnings for the middle month of the quarter published by the Australian Statistician.\n\"current March year\" means the period of 12 months ending on 31 March immediately before the financial year for which the surcharge threshold is being calculated.\n\"previous March year\" means the period of 12 months immediately before the current March year.\nRounding up of indexation factor\n (5) If the number calculated under subsection  (4) for a financial year would, if it were worked out to 4 decimal places, end with a number greater than 4, the number so calculated is increased by 0.001.\nChange in index numbers\n (6) If at any time, whether before or after the commencement of this Act, the Australian Statistician has published or publishes an index number for a quarter in substitution for an index number previously published for the quarter, the publication of the later index number is to be disregarded.\nSurcharge threshold to be published\n (7) The Commissioner must publish before, or as soon as practicable after, the start of the 1997 -98 financial year, and before the start of each later financial year (being a financial year that ends before 1 July 2005), the surcharge threshold for the financial year.\nNote: For the purposes of this section, Australian Statistician means the Australian Statistician referred to in subsection 5(2) of the Australian Bureau of Statistics Act 1975."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Member liable to pay surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Member liable to pay surcharge",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY--TO SURCHARGE > Section 11",
+      "text": "(1) The superannuation contributions surcharge on a member&#39;s surchargeable contributions for a financial year is payable by the member.\nNo surcharge payable if member dies\n (2) However, surcharge is not payable on surchargeable contributions for a member for a financial year in which the member dies or a later financial year."
+    },
+    {
+      "key": "section:12.p1",
+      "title": "Section 12 - Superannuation providers to give statements",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Superannuation providers to give statements",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 12",
+      "text": "Application (1) This section applies in respect of every member. Superannuation provider to give statement to Commissioner at end of financial year (2) Each superannuation provider must, after the end of each financial year (being a financial year that ends before 1 July 2005) but not later than the notification date for the financial year or such later date (if any) as the Commissioner allows, give the Commissioner, in respect of each person who, at the end of the financial year, was a member of the constitutionally protected superannuation fund of which the provider was the trustee, a statement setting out: (a) the member&#39;s name, the address of the member&#39;s place of residence or place of business or employment, the date of the member&#39;s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member&#39;s tax file number; and (b) the particulars referred to in subsection (5); and (c) any other matters required by the regulations. Superannuation provider that pays out contributed amounts (3) If, after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996 and before 1 July 2005, any of the contributed amounts in relation to the member were or are paid by a superannuation provider: (a) to the member; or (b) to the member, or to a person other than a member, under a payment split; then the provider must, not later than the notification date for the financial year in which the payment was or is made or such later date (if any) as the Commissioner allows, give the Commissioner a statement setting out: (c) the member&#39;s name, the address of the member&#39;s place of residence or place of business or employment, the date of the member&#39;s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member&#39;s tax file number; and (d) the particulars referred to in subsection (5); and (e) the date of the payment; and (f) any other information required by the regulations. Information to be given to member (4) A superannuation provider who is required to give a statement to the Commissioner under subsection (2) or (3) for a financial year earlier than the 1998-99 financial year must, not later than 12 months after the statement is given, give to the member the particulars referred to in subsection (5) that are required to be included in the statement. Member may request provider to give particulars (4A) If a member requests a superannuation provider who has given a statement to the Commissioner under this section for the 1998 -99 financial year or a later financial year to give to the member the particulars referred to in subsection (7) relating to the member that are included in the statement (other than particulars that the provider has previously given to the member), the provider must comply with the request within 30 days after receiving it. How particulars are to be given (4B) The particulars to be given to a member under subsection (4A) are to be given: (a) if the request asked for them to be given in writing--in writing; or (b) otherwise--in such manner as the superannuation provider considers appropriate. Particulars to be included in statements (5) The particulars that are required to be given in a statement under this section are the total of the contributed amounts (if any) in relation to the member for the financial year and: (a) if the statement is given by a superannuation (accumulated benefits) provider: (i) if any of those amounts are amounts referred to in subparagraph (a)(i) of the definition of contributed amounts in section 38--the total of so much of those amounts as are taxable contributions referred to in subparagraph 9(2)(c)(i); and (ii) the total of any of those amounts that are amounts referred to in subparagraph (a)(ii) or (iii) of that definition; and (b) if the statement is given by a superannuation (defined benefits) provider--the amount of the surchargeable contributions of the member for the financial year. (6) If: (a) a superannuation benefit (within the meaning of the Income Tax Assessment Act 1997) becomes payable by a superannuation provider for the benefit of a member; or (b) a payment split applies to a splittable payment in respect of an interest that a person has as a member; (being a member who was a member at any time after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996 and before 1 July 2005), then the provider must give the Commissioner a"
+    },
+    {
+      "key": "section:12.p2",
+      "title": "Section 12 - Superannuation providers to give statements",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Superannuation providers to give statements",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 12",
+      "text": "contributions of the member for the financial year. (6) If: (a) a superannuation benefit (within the meaning of the Income Tax Assessment Act 1997) becomes payable by a superannuation provider for the benefit of a member; or (b) a payment split applies to a splittable payment in respect of an interest that a person has as a member; (being a member who was a member at any time after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996 and before 1 July 2005), then the provider must give the Commissioner a statement setting out: (c) the member&#39;s name, the address of the member&#39;s place of residence or place of business or employment, the date of the member&#39;s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member&#39;s tax file number; and (d) the date on which the superannuation benefit became payable; and (e) the particulars in relation to the benefits referred to in paragraph 15(6)(b) or (6AA)(d) (as the case requires); and (f) any other information required by the regulations. Particulars to be included in statement under subsection (6) (7) The statement required to be given by a superannuation provider to the Commissioner under subsection (6) is to be given before: (a) if the provider is informed by the member, on or before the tenth day of the month after the month (the payment month) in which the lump sum was paid or the pension began to be paid, that: (i) the member had applied to the Commissioner for the issue of a tax file number; and (ii) the Commissioner had neither granted nor refused the application; the end of the 14th day of the second month after the payment month; or (b) otherwise--the end of the 14th day of the month after the payment month; or before the end of such further period as the Commissioner allows. Definitions (8) In this section: \"payment split\" means a payment split within the meaning of Part VIIIB or VIIIC of the Family Law Act 1975 . \"splittable payment\" means a splittable payment within the meaning of Part VIIIB or VIIIC of the Family Law Act 1975."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Giving of information in certain form",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Giving of information in certain form",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 13",
+      "text": "Notice stating how information to be given\n (1) The Commissioner may, by notice published in the Gazette, set out the way in which information to be contained in a statement under section 12 is to be given.\nDate of effect of notice\n (2) The notice has effect on and after the day stated in the notice.\nSuperannuation provider to comply with notice\n (3) If any of the information that a superannuation provider is required to give under section  12 is kept by or on behalf of the provider by a data processing device, the provider must give the information in a way set out in the notice.\nExemption\n (4) The Commissioner may, by legislative instrument, exempt a superannuation provider from subsection  (3)."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Assessment of liability to pay surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Assessment of liability to pay surcharge",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 14",
+      "text": "Commissioner to assess surcharge\n (1) For each financial year (being a financial year that ends before 1  July 2005) for which there are surchargeable contributions for a member, the Commissioner must make an assessment that:\n (a) calculates the member&#39;s adjusted taxable income; and\n (b) if the adjusted taxable income is greater than the surcharge threshold:\n (i) calculates the surchargeable contributions; and\n (ii) calculates the rate of surcharge that applies to the member; and\n (iii) specifies the amount of the surcharge payable or, if no surcharge is payable, states that a nil amount of surcharge is payable; and\n (c) if the adjusted taxable income is equal to or less than the surcharge threshold--states that a nil amount of surcharge is payable.\nWhat happens if member dies\n (2) If:\n (a) a member has died, whether before or after the commencement of this subsection; and\n (b) after the death an assessment was or is made of surcharge on the member&#39;s surchargeable contributions for the financial year in which the member died or a later financial year;\nthe assessment is taken not to have been made.\nNotice of assessment\n (3) When an assessment (including an amended assessment) is made, the Commissioner must, subject to subsection  (4), give notice of the assessment:\n (a) if paragraph (b) does not apply--to the member; or\n (b) if the assessment:\n (i) relates to the period when the relevant superannuation fund was a constitutionally protected superannuation fund; and\n (ii) is made after that superannuation fund ceases to be a constitutionally protected superannuation fund;\n  to the superannuation provider.\nNo notice if nil amount assessed\n (4) The Commissioner is not required under subsection  (3) to give a notice of an assessment if the assessment states that a nil amount of surcharge is payable.\nParticulars in notice of assessment\n (5) A notice of assessment must include particulars of the matters contained in the assessment under subsection  (1).\nHow a notice is to be given\n (6) A notice of assessment may be given in any manner prescribed by the regulations.\nNon-compliance not to affect validity of assessment\n (7) The validity of any assessment is not affected by any non -compliance with a provision of this Act."
+    },
+    {
+      "key": "section:15.p1",
+      "title": "Section 15 - When surcharge will become payable",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "When surcharge will become payable",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 15",
+      "text": "Explanation of section (1) This section makes provision for the deferment of the liability of a member of a constitutionally protected superannuation fund to pay surcharge, and for interest to accrue on the deferred amount. Accounts to be kept (2) The Commissioner is to keep a surcharge debt account for each member of a constitutionally protected superannuation fund. Account to be debited for surcharge (3) The Commissioner is to debit the account for surcharge assessed to be payable on the member&#39;s surchargeable contributions. Interest to be debited (4) If the member&#39;s account is in debit at the end of a financial year, the Commissioner is to debit the account for interest on the amount by which the account is in debit, calculated at the Treasury bond rate for the last day of the financial year for bonds with a 10 year term. Rate of interest (5) The Treasury bond rate for the last day of a financial year for bonds with a 10 year term is: (a) if any Treasury bonds with that term were issued on that day--the annual yield on those bonds; or (b) otherwise--the annual yield on Treasury bonds with that term, as published by the Reserve Bank of Australia for that day. Payment to be made when benefit becomes payable (6) Subject to subsection (6AA), when a superannuation benefit (within the meaning of the Income Tax Assessment Act 1997) becomes payable by a superannuation provider for the benefit of a member whose surcharge debt account is in debit, the member is liable to pay to the Commissioner the lesser of: (a) the amount by which the account is in debit; or (b) the total of the following amounts: (i) 15% of the employer -financed component of any part of the benefits payable to the member that accrued between 20 August 1996 and 1 July 2003; (ii) 14.5% of the employer -financed component of any part of the benefits payable to the member that accrued in the 2003-2004 financial year; (iii) 12.5% of the employer -financed component of any part of the benefits payable to the member that accrued in the 2004-2005 financial year. (6AA) If: (a) a payment split applies to a splittable payment in respect of an interest that a person has as a member; and (b) the splittable payment becomes payable in circumstances where the member&#39;s surcharge account is in debit; then the member is liable to pay to the Commissioner the lesser of: (c) the amount by which the account is in debit; and (d) the total of the following amounts: (i) 15% of the employer -financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued between 20 August 1996 and 1 July 2003; (ii) 14.5% of the employer -financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued in the 2003-2004 financial year; (iii) 12.5% of the employer -financed component of any part of the benefits that would have been payable to the member but for the payment split and that accrued in the 2004-2005 financial year. Payment to be made if fund ceases to be a constitutionally protected superannuation fund (6A) If a superannuation fund ceases to be a constitutionally protected superannuation fund at a time when a member&#39;s surcharge debt account is in debit, the member is liable to pay to the Commissioner the lesser of: (a) the amount by which the account is in debit; or (b) the total of the following amounts: (i) 15% of the employer -financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued between 20 August 1996 and 1 July 2003; (ii) 14.5% of the employer -financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2003 -2004 financial year; (iii) 12.5% of the employer -financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2004 -2005 financial year. (7) If a member becomes liable to pay an amount to the Commissioner under subsection (6), (6AA) or (6A), the Commissioner must give the member a notice stating that the member is liable to pay the amount. The notice must contain the date on"
+    },
+    {
+      "key": "section:15.p2",
+      "title": "Section 15 - When surcharge will become payable",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "When surcharge will become payable",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 15",
+      "text": "constitutionally protected superannuation fund that accrued in the 2003 -2004 financial year; (iii) 12.5% of the employer -financed component of any part of the value of the age retirement benefits of the member when the fund ceased to be a constitutionally protected superannuation fund that accrued in the 2004 -2005 financial year. (7) If a member becomes liable to pay an amount to the Commissioner under subsection (6), (6AA) or (6A), the Commissioner must give the member a notice stating that the member is liable to pay the amount. The notice must contain the date on which it is issued. (8) The amount is payable within 3 months after the date of issue of the notice and the notice is to state that the amount is so payable. Payment of the amount results in a nil balance in the account. Note: For provisions about collection and recovery of superannuation contributions surcharge and other related amounts, see Part 4-15 in Schedule 1 to the Taxation Administration Act 1953. Person may direct superannuation provider to pay amount to Commissioner (8A) If: (a) a person is liable to pay an amount to the Commissioner under subsection (6) or (6AA); and (b) a superannuation benefit (within the meaning of the Income Tax Assessment Act 1997) is not payable by the superannuation provider for the benefit of the person because the person has become: (i) a member of another superannuation fund; or (ii) a member of an approved deposit fund; or (iii) the holder of an RSA; or (iv) the purchaser of an annuity from a life assurance company or from a registered organisation; the person may direct the trustee of the other superannuation fund or the approved deposit fund, the RSA provider, the life assurance company or the registered organisation to pay to the Commissioner the whole or a part of the amount referred to in paragraph (a) and to make any necessary reductions in the benefits to which the person would otherwise be entitled from the other superannuation fund, the approved deposit fund, or the RSA or to the amount of the annuity to which the person would otherwise be entitled. Member of former constitutionally protected superannuation fund may direct superannuation provider to pay amount to Commissioner (8AA) If a person is liable to pay an amount to the Commissioner under subsection (6A), the person may direct the superannuation provider to pay to the Commissioner the whole or a part of that amount and to make any necessary reductions in the benefits to which the person would otherwise be entitled. Superannuation provider to comply with direction (8B) A superannuation provider to whom a direction is given under subsection (8A) or (8AA) must comply with the direction. Surcharge debt may be reduced (9) The member may make payments to the Commissioner for the purpose of reducing the amount by which the surcharge debt account is in debit. What happens if debt reduced (10) If a member makes a payment under subsection (9), the Commissioner is to: (a) acknowledge receipt of the payment to the member; and (b) credit the payment to the surcharge debt account; and (c) notify the member of the revised balance of the surcharge debt account. Definitions (11) In this section: \"payment split\" means a payment split within the meaning of Part VIIIB or VIIIC of the Family Law Act 1975 . \"splittable payment\" means a splittable payment within the meaning of Part VIIIB or VIIIC of the Family Law Act 1975."
+    },
+    {
+      "key": "section:15A.p1",
+      "title": "Section 15A - Periods within which assessments may be amended",
+      "main_structural_unit": "section",
+      "main_structural_number": "15A",
+      "main_structural_heading": "Periods within which assessments may be amended",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 15A",
+      "text": "General provision (1) The Commissioner may, subject to this section, at any time amend an assessment of surcharge on a member&#39;s surchargeable contributions by making such alterations or additions as the Commissioner thinks necessary, even though surcharge has been paid in respect of the assessment. Such an amendment may be made on the Commissioner&#39;s own initiative or at the request of the member. Period for making further amendment (2) If: (a) an assessment has been amended in any particular in a way that effected a reduction in the amount of surcharge payable; and (b) for the purposes of making the amendment, the Commissioner accepted a statement made by or on behalf of a member; the Commissioner may, within 4 years from the date of service of the notice of the amended assessment, further amend the assessment in, or in respect of, that particular in a way that increases the amount of the surcharge payable to the extent that the Commissioner considers necessary. Period where avoidance of surcharge (3) Subject to this section, if there has been an avoidance of surcharge, the Commissioner may: (a) if the Commissioner is of the opinion that the avoidance of surcharge is due to fraud or evasion--at any time; or (b) in any other case--within 4 years from the date upon which the surcharge became due and payable under the assessment; amend the assessment by making such alterations or additions as the Commissioner thinks necessary to correct the assessment. Period where amendment reduces surcharge (4) An amendment effecting a reduction in the amount of surcharge payable under an assessment is not to be made after the end of 4 years from the date upon which the surcharge became due and payable under the assessment. Application or request for extension of period (5) If: (a) the Commissioner has begun an examination of the affairs of a member; and (b) the examination was not completed within the period within which the Commissioner may amend an assessment to which the examination relates under subsection (3) or, if that period has been extended by any previous order or orders of the Federal Court of Australia made under subsection (6), or by any previous consent or consents of the member given under subsection (7), within that period as so extended; the Commissioner may, before the end of the period referred to in paragraph (b) of this subsection, apply to the Federal Court for an order extending, or request the member to consent to the extension of, the period within which the Commissioner may amend the assessment under paragraph (3)(b). Court may extend period (6) If, on application made to the Federal Court of Australia in accordance with subsection (5), the Court is satisfied that it was not reasonably practicable, or it was inappropriate, for the Commissioner to complete the examination within the period referred to in paragraph (5)(b) because of any action taken by the member or any failure of the member to take action that it would have been reasonable for the member to take, the Court may make an order extending the period within which the Commissioner may amend the assessment under paragraph (3)(b) for such period as the Court considers appropriate. Member or provider may extend period (7) If a request is made to the member in accordance with subsection (5), the member may, by writing, consent to the extension of the period within which the Commissioner may amend the assessment under paragraph (3)(b) for such period as is specified in the instrument of consent. Meaning of take action (8) In subsection (6), a reference to action taken by a member includes a reference to the institution by the member of a proceeding before a court or tribunal. Period for further amendment reducing surcharge (9) If an assessment has, under this section, been amended in any particular, the Commissioner may, within 4 years from the date upon which surcharge became due under the amended assessment, make, in or in respect of that particular, such further amendment of the assessment as, in the Commissioner&#39;s opinion, is necessary to effect such reduction in the amount of surcharge payable under the assessment as is just. Case when subsection (9) does not apply (10) Subsection (9) does not authorise the further amendment of an earlier further amendment of an assessment made under subsection (2). Assessment following application by member (11) If: (a) an application for an amendment of an assessment is made by a member within 4 years from the date upon which surcharge became due and payable under the assessment; and (b) the member has given to the"
+    },
+    {
+      "key": "section:15A.p2",
+      "title": "Section 15A - Periods within which assessments may be amended",
+      "main_structural_unit": "section",
+      "main_structural_number": "15A",
+      "main_structural_heading": "Periods within which assessments may be amended",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 15A",
+      "text": "as, in the Commissioner&#39;s opinion, is necessary to effect such reduction in the amount of surcharge payable under the assessment as is just. Case when subsection (9) does not apply (10) Subsection (9) does not authorise the further amendment of an earlier further amendment of an assessment made under subsection (2). Assessment following application by member (11) If: (a) an application for an amendment of an assessment is made by a member within 4 years from the date upon which surcharge became due and payable under the assessment; and (b) the member has given to the Commissioner within that period all information needed by the Commissioner for the purpose of deciding the application; the Commissioner may amend the assessment when he or she decides the application even though that period has elapsed. How application for amendment is to be made (12) An application for amendment must be made in writing, on a data processing device or by way of electronic transmission and must be signed in accordance with the regulations. Information to be contained in application (13) An application for amendment must be given in the prescribed manner and contain the prescribed information. Certain other powers of amendment not affected (14) Nothing in this section prevents: (a) the amendment of an assessment in order to give effect to the decision upon any appeal or review; or (b) the amendment of an assessment by way of reduction in the amount of surcharge payable pursuant to an objection made against the assessment or pending any appeal or review; or (c) the amendment of an assessment under section 16."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Amendment of assessment if tax file number quoted or found out after assessment",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Amendment of assessment if tax file number quoted or found out after assessment",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 16",
+      "text": "Application\n (1) This section applies if:\n (a) an assessment of surcharge on the surchargeable contributions of a member for a financial year has been made; and\n (b) the member did not, before the assessment was made, quote his or her tax file number to the Commissioner in connection with the operation or the possible future operation of this Act and the Commissioner did not know the tax file number when the assessment was made; and\n (c) the assessed amount was more than it would have been if the member had quoted the tax file number to the Commissioner; and\n (d) after the assessment was made:\n (i) the member quoted the tax file number to the Commissioner in connection with the operation or the possible future operation of this Act; or\n (ii) the Commissioner found out the tax file number.\nAmendment of assessment\n (2) The Commissioner must amend the assessment to reduce the amount of surcharge to the amount that would have been payable if the Commissioner had known the tax file number when the assessment was made."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Amendment of assessments",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Amendment of assessments",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 17",
+      "text": "Application\n (1) This section applies if, after the making of an assessment of surcharge on a member&#39;s surchargeable contributions for a financial year:\n (a) the member&#39;s adjusted taxable income for the financial year is increased or reduced and the increase or reduction affects the member&#39;s liability to pay the surcharge; or\n (b) the amount of the contributions is greater or less than the amount that was taken to be the amount of the contributions for the purposes of the assessment; or\n (c) the Commissioner is required or permitted under any other provision of this Act to amend the assessment.\nAdditional application\n (2) This section also applies if:\n (a) under an assessment of surcharge on a member&#39;s surchargeable contributions for a financial year, the rate of surcharge that applies to the member on particular surchargeable contributions for the financial year was assessed to be nil because paragraph  5(4)(e) of the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997 applied to the member; and\n (b) the rate of surcharge that applies to the member on those contributions for that financial year is afterwards determined to be greater than nil.\nCommissioner may amend assessment\n (3) The Commissioner may amend the assessment to take account of any matter referred to in paragraph  (1)(a), (b) or (c) or the matters referred to in subsection (2).\nAmendment increasing surcharge\n (4) If, as a result of the amendment of the assessment, the amount of surcharge is increased:\n (a) the Commissioner must debit the member&#39;s surcharge debt account for the amount of the increase if none of the following has become payable by the relevant superannuation provider for the benefit of the member:\n (i) a lump sum;\n (ii) a pension;\n (iii) a superannuation benefit (within the meaning of the Income Tax Assessment Act 1997); or\n (b) if paragraph (a) does not apply--the amount of the increase is payable by the member within 3 months after the day on which the assessment is amended or within such further period as the Commissioner allows.\nAmendment reducing surcharge\n (5) If, as a result of the amendment of the assessment, the amount of surcharge is reduced:\n (a) the Commissioner must credit the account with the amount by which the surcharge is reduced if none of the following has become payable by the relevant superannuation provider for the benefit of the member and the member&#39;s surcharge debt account is in debit:\n (i) a lump sum;\n (ii) a pension;\n (iii) a superannuation benefit (within the meaning of the Income Tax Assessment Act 1997); or\n (b) if paragraph  (a) does not apply:\n (i) the amount by which the surcharge is reduced is to be applied in reduction of any liability of the member under this Act; and\n (ii) any amount remaining is to be repaid to the member.\nSection subject to section 15A\n (6) This section is subject to section  15A."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Liability to pay the general interest charge if liability increased by an amendment of an assessment",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Liability to pay the general interest charge if liability increased by an amendment of an assessment",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 18",
+      "text": "Liability to pay general interest charge\n (1) If an amendment of an assessment increasing a member&#39;s liability to pay surcharge for a financial year is made, the member is liable to pay the general interest charge on the amount of the increase for each day in the period that:\n (a) started at the beginning of 15  June in the financial year; and\n (b) finishes at the end of the day before the amended assessment is made.\nNote: The general interest charge is worked out under Part IIA of the Taxation Administration Act 1953.\nAmendment of nil assessment\n (3) If:\n (a) the Commissioner has calculated that no surcharge is payable by a member on the member&#39;s surchargeable contributions for a financial year; and\n (b) the Commissioner afterwards makes an assessment of surcharge payable by the member on those contributions for the financial year;\nthe assessment referred to in paragraph (b) is taken to be an amended assessment."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Tax file numbers",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Tax file numbers",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 19",
+      "text": "Commissioner may use any tax file numbers for purposes of this Act\n  The Commissioner may use for the purposes of this Act a tax file number that has been provided for any other purpose under a law relating to taxation or superannuation."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Objections against assessments",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Objections against assessments",
+      "defined_term": null,
+      "structure_path": "Part 3--ASSESSMENT--AND COLLECTION OF SURCHARGE > Section 20",
+      "text": "Member may object against assessment\n (1) If:\n (a) an assessment of surcharge on a member&#39;s surchargeable contributions is made; and\n (b) the member is dissatisfied with the assessment;\nthe member may object against the assessment in the way set out in Part IVC of the Taxation Administration Act 1953.\nMatters on which Commissioner may rely in deciding an objection\n (2) In making a decision on the objection in so far as the objection relates to the calculation of the member&#39;s adjusted taxable income, the Commissioner is entitled to rely on:\n (a) the latest assessment of the member&#39;s taxable income under the Income Tax Assessment Act; and\n (b) the latest statement of the member&#39;s surchargeable contributions given to the Commissioner by the superannuation provider."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Penalty for non - payment of surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Penalty for non - payment of surcharge",
+      "defined_term": null,
+      "structure_path": "Part 4--RECOVERY--OF UNPAID SURCHARGE, GENERAL INTEREST CHARGE OR LATE PAYMENT PENALTY > Section 21",
+      "text": "Liability to pay general interest charge\n (1) If an amount of surcharge that a person is liable to pay remains unpaid after the time by which it is due to be paid, the person is liable to pay the general interest charge on the unpaid amount.\nNote: The general interest charge is worked out under Part IIA of the Taxation Administration Act 1953.\nGeneral interest charge period\n (2) The person is liable to pay the general interest charge on the unpaid amount for each day in the period that:\n (a) started at the beginning of the day by which the surcharge was due to be paid; and\n (b) finishes at the end of the last day on which, at the end of the day, any of the following remains unpaid:\n (i) the surcharge;\n (ii) general interest charge on any of the surcharge.\nCommissioner&#39;s right to sue not affected\n (5) This section does not prevent the Commissioner from suing for the recovery of any unpaid surcharge or late payment penalty at any time after it becomes due and payable."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - General administration of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "General administration of Act",
+      "defined_term": null,
+      "structure_path": "Part 5--ADMINISTRATION > Section 26",
+      "text": "The Commissioner has the general administration of this Act.\nNote: An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division  355 in Schedule 1 to the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Part 5--ADMINISTRATION > Section 27",
+      "text": "After the end of each financial year, the Commissioner must give the Treasurer a report on the working of this Act during the year for presentation to the Parliament."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Prohibition of avoidance schemes",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Prohibition of avoidance schemes",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 30",
+      "text": "A superannuation provider or fund trustee must not enter into, commence to carry out, or carry out, a scheme if the superannuation provider or fund trustee entered into, commenced to carry out, or carried out, the scheme or any part of the scheme with the intention that the scheme would result, or be likely to result, in the avoidance of the surcharge, including through the use of allocated surplus amounts."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Records to be kept and retained by superannuation provider",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Records to be kept and retained by superannuation provider",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 34",
+      "text": "Superannuation provider to keep records\n (1) A superannuation provider must keep records that record and explain all transactions and other acts engaged in by the provider, or required to be engaged in by the provider, under this Act.\nHow records to be kept\n (2) The records must be kept:\n (a) in writing in the English language or so as to enable the records to be readily accessible and convertible into writing in the English language; and\n (b) so that any liability under this Act of a member of a constitutionally protected superannuation fund of which the provider is the trustee can be readily worked out.\nPeriod for retention of records\n (3) A superannuation provider who has possession of any records kept or obtained under or for the purposes of this Act must retain them until the end of 5 years after they were prepared or obtained, or the completion of the transactions or acts to which those records relate, whichever is the later.\nWhen records need not be kept\n (4) This section does not require a superannuation provider to retain records if the Commissioner has notified the provider that the retention of the records is not required."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Application of the Criminal Code",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Application of the Criminal Code",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 36",
+      "text": "Chapter 2 of the Criminal Code applies to all offences against this Act."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 37",
+      "text": "The Governor-General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;\nand, in particular, prescribing:\n (c) how statements are to be given to the Commissioner; and\n (d) penalties not exceeding a fine of 5 penalty units, for offences against the regulations."
+    },
+    {
+      "key": "section:38.term:adjusted-taxable-income",
+      "title": "Section 38 Definitions \"adjusted taxable income\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"adjusted taxable income\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"adjusted taxable income\" has the same meaning as in the Superannuation Contributions Tax (Assessment and Collection) Act 1997 .\n\"allocated surplus amount\", in relation to a member in relation to a financial year, means an amount that is allocated by the relevant superannuation (accumulated benefits) provider for the benefit of the member in respect of the financial year (other than an amount paid for or by the member to the provider) to the extent to which the allocated amount exceeds an amount that, in the opinion of an eligible actuary according to Australian actuarial practice, is reasonable having regard to:\n (a) the amounts paid by or for the member to the provider; and\n (b) the relevant constitutionally protected superannuation fund&#39;s investment earnings relating to the member&#39;s interest in the fund; and\n (c) any other relevant matters."
+    },
+    {
+      "key": "section:38.term:assessment",
+      "title": "Section 38 Definitions \"assessment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"assessment\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"assessment\" means an assessment made under subsection 14(1)."
+    },
+    {
+      "key": "section:38.term:class",
+      "title": "Section 38 Definitions \"class\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"class\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"class\": a single member may constitute a class of members and a single superannuation scheme may constitute a class of superannuation schemes."
+    },
+    {
+      "key": "section:38.term:commissioner",
+      "title": "Section 38 Definitions \"Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Commissioner\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"Commissioner\" means the Commissioner of Taxation."
+    },
+    {
+      "key": "section:38.term:complying-superannuation-fund",
+      "title": "Section 38 Definitions \"complying superannuation fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"complying superannuation fund\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"complying superannuation fund\" has the meaning given by section 45 of the Superannuation Industry (Supervision) Act 1993 ."
+    },
+    {
+      "key": "section:38.term:constitutionally-protected-superannuation-fund",
+      "title": "Section 38 Definitions \"constitutionally protected superannuation fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"constitutionally protected superannuation fund\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"constitutionally protected superannuation fund\" has the same meaning as constitutionally protected fund has in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:38.term:contributed-amounts",
+      "title": "Section 38 Definitions \"contributed amounts\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"contributed amounts\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"contributed amounts\":\n (a) in relation to a member (other than a member of a defined benefits superannuation scheme) for a financial year, means:\n (i) any amounts paid for or by the member to, or otherwise credited or attributed to an account for the member by, a superannuation provider for the financial year other than amounts to which subparagraph  (ii) or (iii) applies, less any part of such an amount that is, under the regulations, to be regarded as reasonably attributable to interest; and\n (ii) if there are any regulations in force for the purposes of this subparagraph in respect of the financial year--any amounts referred to in the regulations that are credited, allocated or attributable to the member for the financial year less any part of such an amount that is, under the regulations, to be regarded as reasonably attributable to interest; and\n (iii) if there are no regulations in force for the purposes of subparagraph  (ii) and the financial year is later than the 1996-97 financial year--any allocated surplus amount in relation to the member in respect of the financial year; or\n (b) in relation to a member of a defined benefits superannuation scheme for a financial year:\n (i) means the surchargeable contributions of the member for the financial year; and\n (ii) includes any other amount that may be reasonably regarded as attributable to the member under the scheme for the financial year."
+    },
+    {
+      "key": "section:38.term:defined-benefit-member",
+      "title": "Section 38 Definitions \"defined benefit member\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"defined benefit member\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"defined benefit member\" means a member entitled, on retirement or termination of his or her employment, to be paid a benefit defined, wholly or in part, by reference to either or both of the following:\n (a) the amount of:\n (i) the member&#39;s salary at a particular date, being the date of the termination of the member&#39;s employment or of the member&#39;s retirement or an earlier date; or\n (ii) the member&#39;s salary averaged over a period before retirement;\n (b) a stated amount."
+    },
+    {
+      "key": "section:38.term:defined-benefits-superannuation-scheme",
+      "title": "Section 38 Definitions \"defined benefits superannuation scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"defined benefits superannuation scheme\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"defined benefits superannuation scheme\" means:\n (a) a public sector superannuation scheme that:\n (i) is a regulated superannuation fund or an exempt public sector superannuation scheme; and\n (ii) has at least one defined benefit member; or\n (b) a regulated superannuation fund (other than a public sector superannuation scheme):\n (i) that has at least one defined benefit member; and\n (ii) some or all of the contributions to which are not allocated to any individual member but are paid into and accumulated in a fund in the form of an aggregate amount."
+    },
+    {
+      "key": "section:38.term:deputy-commissioner",
+      "title": "Section 38 Definitions \"Deputy Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Deputy Commissioner\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"Deputy Commissioner\" means the Deputy Commissioner of Taxation."
+    },
+    {
+      "key": "section:38.term:eligible-actuary",
+      "title": "Section 38 Definitions \"eligible actuary\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"eligible actuary\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"eligible actuary\" means a Fellow or Accredited Member of the Institute of Actuaries of Australia."
+    },
+    {
+      "key": "section:38.term:eligible-termination-payment",
+      "title": "Section 38 Definitions \"eligible termination payment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"eligible termination payment\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"eligible termination payment\" has the same meaning as in Subdivision AA of Division 2 of Part III of the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:excessive-component",
+      "title": "Section 38 Definitions \"excessive component\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"excessive component\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"excessive component\" of an eligible termination payment has the meaning given by subsection 27A(1) of the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:exempt-public-sector-superannuation-scheme",
+      "title": "Section 38 Definitions \"exempt public sector superannuation scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"exempt public sector superannuation scheme\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"exempt public sector superannuation scheme\" has the same meaning as in section 10 of the Superannuation Industry (Supervision) Act 1993."
+    },
+    {
+      "key": "section:38.term:funded-defined-benefits-superannuation-scheme",
+      "title": "Section 38 Definitions \"funded defined benefits superannuation scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"funded defined benefits superannuation scheme\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"funded defined benefits superannuation scheme\" means a defined benefits superannuation scheme that is not an unfunded defined benefits superannuation scheme."
+    },
+    {
+      "key": "section:38.term:general-interest-charge",
+      "title": "Section 38 Definitions \"general interest charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"general interest charge\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"general interest charge\" means the charge worked out under Part IIA of the Taxation Administration Act 1953 ."
+    },
+    {
+      "key": "section:38.term:income-tax-assessment-act",
+      "title": "Section 38 Definitions \"Income Tax Assessment Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Income Tax Assessment Act\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"Income Tax Assessment Act\" means the Income Tax Assessment Act 1936."
+    },
+    {
+      "key": "section:38.term:late-payment-penalty",
+      "title": "Section 38 Definitions \"late payment penalty\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"late payment penalty\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"late payment penalty\" means general interest charge payable under section 21."
+    },
+    {
+      "key": "section:38.term:member",
+      "title": "Section 38 Definitions \"member\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"member\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"member\" means a member of a constitutionally protected superannuation fund and includes a person who has been a member of such a fund."
+    },
+    {
+      "key": "section:38.term:notification-date",
+      "title": "Section 38 Definitions \"notification date\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"notification date\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"notification date\" means:\n (a) for the 1996-97 financial year--15  December 1997; or\n (b) for a later financial year--31  October following the financial year."
+    },
+    {
+      "key": "section:38.term:post-june-83-component",
+      "title": "Section 38 Definitions \"post-June 83 component\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"post-June 83 component\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"post-June 83 component\" of an eligible termination payment has the meaning given by section  27AA of the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:public-sector-superannuation-scheme",
+      "title": "Section 38 Definitions \"public sector superannuation scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"public sector superannuation scheme\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"public sector superannuation scheme\" means a scheme for the payment of superannuation, retirement or death benefits, where the scheme is established:\n (a) by or under a law of a State; or\n (b) under the authority of:\n (i) the government of a State; or\n (ii) a municipal corporation, another local governing body, or a public authority, constituted by or under a law of a State."
+    },
+    {
+      "key": "section:38.term:regulated-superannuation-fund",
+      "title": "Section 38 Definitions \"regulated superannuation fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"regulated superannuation fund\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"regulated superannuation fund\" has the same meaning as in the Superannuation Industry (Supervision) Act 1993 ."
+    },
+    {
+      "key": "section:38.term:retained-amount",
+      "title": "Section 38 Definitions \"retained amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"retained amount\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"retained amount\" of the post-June 83 component of an eligible termination payment has the meaning given by section  27AC of the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:rolled-over",
+      "title": "Section 38 Definitions \"rolled-over\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"rolled-over\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"rolled-over\" has the meaning given by paragraph  27A(13)(a) of the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:second-commissioner",
+      "title": "Section 38 Definitions \"Second Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Second Commissioner\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"Second Commissioner\" means a Second Commissioner of Taxation."
+    },
+    {
+      "key": "section:38.term:superannuation-accumulated-benefits-provider",
+      "title": "Section 38 Definitions \"superannuation (accumulated benefits) provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation (accumulated benefits) provider\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation (accumulated benefits) provider\" means a superannuation provider that is not a superannuation (defined benefits) provider."
+    },
+    {
+      "key": "section:38.term:superannuation-contributions-ruling-scr-97-1",
+      "title": "Section 38 Definitions \"Superannuation Contributions Ruling SCR 97/1\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Superannuation Contributions Ruling SCR 97/1\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"Superannuation Contributions Ruling SCR 97/1\" has the same meaning as in the Superannuation Contributions Tax (Assessment and Collection) Act 1997 ."
+    },
+    {
+      "key": "section:38.term:superannuation-contributions-surcharge",
+      "title": "Section 38 Definitions \"superannuation contributions surcharge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation contributions surcharge\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation contributions surcharge\" or surcharge means the tax imposed by the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Imposition Act 1997."
+    },
+    {
+      "key": "section:38.term:superannuation-contributions-surcharge-threshold",
+      "title": "Section 38 Definitions \"superannuation contributions surcharge threshold\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation contributions surcharge threshold\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation contributions surcharge threshold\" or surcharge threshold has the meaning given by section  10."
+    },
+    {
+      "key": "section:38.term:superannuation-defined-benefits-provider",
+      "title": "Section 38 Definitions \"superannuation (defined benefits) provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation (defined benefits) provider\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation (defined benefits) provider\" means a superannuation (funded defined benefits) provider or a superannuation (unfunded defined benefits) provider."
+    },
+    {
+      "key": "section:38.term:superannuation-fund",
+      "title": "Section 38 Definitions \"superannuation fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation fund\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation fund\" means a public sector superannuation scheme."
+    },
+    {
+      "key": "section:38.term:superannuation-funded-defined-benefits-provider",
+      "title": "Section 38 Definitions \"superannuation (funded defined benefits) provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation (funded defined benefits) provider\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation (funded defined benefits) provider\" means a superannuation provider who is the trustee of a constitutionally protected superannuation fund established for the purposes of a funded defined benefits superannuation scheme."
+    },
+    {
+      "key": "section:38.term:superannuation-provider",
+      "title": "Section 38 Definitions \"superannuation provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation provider\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation provider\" means a trustee of a constitutionally protected superannuation fund."
+    },
+    {
+      "key": "section:38.term:superannuation-unfunded-defined-benefits-provider",
+      "title": "Section 38 Definitions \"superannuation (unfunded defined benefits) provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation (unfunded defined benefits) provider\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"superannuation (unfunded defined benefits) provider\" means a superannuation provider who is the trustee of a constitutionally protected superannuation fund established for the purposes of a superannuation scheme that is an unfunded defined benefits superannuation scheme."
+    },
+    {
+      "key": "section:38.term:surcharge",
+      "title": "Section 38 Definitions \"surcharge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"surcharge\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"surcharge\": see superannuation contributions surcharge."
+    },
+    {
+      "key": "section:38.term:surchargeable-contributions",
+      "title": "Section 38 Definitions \"surchargeable contributions\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"surchargeable contributions\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"surchargeable contributions\" has the meaning given by section 9."
+    },
+    {
+      "key": "section:38.term:surcharge-threshold",
+      "title": "Section 38 Definitions \"surcharge threshold\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"surcharge threshold\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"surcharge threshold\": see superannuation contributions surcharge threshold."
+    },
+    {
+      "key": "section:38.term:taxable-income",
+      "title": "Section 38 Definitions \"taxable income\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"taxable income\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"taxable income\" of a member for a year of income means the member&#39;s taxable income of that year of income as assessed under the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:taxed-element",
+      "title": "Section 38 Definitions \"taxed element\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"taxed element\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"taxed element\" of the retained amount of the post-June 83 component of an eligible termination payment has the meaning given by section  27AC of the Income Tax Assessment Act."
+    },
+    {
+      "key": "section:38.term:the-1996-97-financial-year",
+      "title": "Section 38 Definitions \"the 1996-97 financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the 1996-97 financial year\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"the 1996-97 financial year\" means the financial year starting on 1  July 1996."
+    },
+    {
+      "key": "section:38.term:the-1997-98-financial-year",
+      "title": "Section 38 Definitions \"the 1997-98 financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the 1997-98 financial year\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"the 1997-98 financial year\" means the financial year starting on 1  July 1997."
+    },
+    {
+      "key": "section:38.term:the-1998-99-financial-year",
+      "title": "Section 38 Definitions \"the 1998-99 financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the 1998-99 financial year\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"the 1998-99 financial year\" means the financial year starting on 1  July 1998."
+    },
+    {
+      "key": "section:38.term:the-1999-2000-financial-year",
+      "title": "Section 38 Definitions \"the 1999-2000 financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the 1999-2000 financial year\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"the 1999-2000 financial year\" means the financial year starting on 1  July 1999.\n\"trustee\", in relation to a constitutionally protected superannuation fund, means:\n (a) if there is a trustee (within the ordinary meaning of that expression) of the fund--the trustee; or\n (b) otherwise--the person who manages the fund."
+    },
+    {
+      "key": "section:38.term:unfunded-defined-benefits-superannuation-scheme",
+      "title": "Section 38 Definitions \"unfunded defined benefits superannuation scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"unfunded defined benefits superannuation scheme\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"unfunded defined benefits superannuation scheme\" has the same meaning as in the Superannuation Contributions Tax (Assessment and Collection) Act 1997 ."
+    },
+    {
+      "key": "section:38.term:year-of-income",
+      "title": "Section 38 Definitions \"year of income\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"year of income\"",
+      "structure_path": "Part 7--INTERPRETATION > Section 38",
+      "text": "\"year of income\" means a year of income for the purposes of the Income Tax Assessment Act as that Act applies to individuals."
+    }
+  ]
+}

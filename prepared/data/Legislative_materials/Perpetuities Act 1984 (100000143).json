@@ -1,0 +1,315 @@
+{
+  "doc": {
+    "jurisdiction": "new_south_wales",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nsw/consol_act/pa1984172/",
+    "register_url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1984-043",
+    "source": "Perpetuities Act 1984 (100000143).txt",
+    "filename": "Perpetuities Act 1984 (100000143).json",
+    "name": "Perpetuities Act 1984",
+    "citation": "Perpetuities Act 1984"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 1",
+      "text": "This Act may be cited as the Perpetuities Act 1984."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 2",
+      "text": "(1) Sections 1 and 2 shall commence on the date of assent to this\n     Act.\n     (2) Except as provided by subsection (1), this Act shall commence on\n     such day as may be appointed by the Governor in respect thereof and\n     as may be notified by proclamation published in the Gazette."
+    },
+    {
+      "key": "section:3.term:appointed-day",
+      "title": "Section 3 Definitions \"appointed day\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"appointed day\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"appointed day\" means the day appointed and notified under section 2\n     (2)."
+    },
+    {
+      "key": "section:3.term:disposition",
+      "title": "Section 3 Definitions \"disposition\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"disposition\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"disposition\" includes:\n          (a) the conferring or exercising of a power of appointment\n          and any other power or authority to dispose of property,\n          and\n          (b) any alienation of property."
+    },
+    {
+      "key": "section:3.term:interest",
+      "title": "Section 3 Definitions \"interest\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"interest\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"interest\" includes any estate and any right."
+    },
+    {
+      "key": "section:3.term:power-of-appointment",
+      "title": "Section 3 Definitions \"power of appointment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"power of appointment\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"power of appointment\" includes any discretionary power to make a\n     disposition."
+    },
+    {
+      "key": "section:3.term:property",
+      "title": "Section 3 Definitions \"property\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"property\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"property\" includes any interest in real or personal property and any\n     thing in action."
+    },
+    {
+      "key": "section:3.term:settlement",
+      "title": "Section 3 Definitions \"settlement\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"settlement\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"settlement\" includes:\n          (a) a will,\n          (b) an instrument, testamentary or otherwise, exercising a\n          power of appointment, whether general or special, and\n          (c) any other instrument, transaction or dealing whereby a\n          person makes a disposition,\n     but does not include an Act of Parliament."
+    },
+    {
+      "key": "section:3.term:the-rule-against-perpetual-trusts",
+      "title": "Section 3 Definitions \"the rule against perpetual trusts\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the rule against perpetual trusts\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"the rule against perpetual trusts\" means the common law rule that\n     invalidates a trust (not otherwise invalid) for a purpose which is\n     not charitable where the duration of the trust will or may exceed the\n     perpetuity period."
+    },
+    {
+      "key": "section:3.term:trust",
+      "title": "Section 3 Definitions \"trust\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"trust\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"trust\" and"
+    },
+    {
+      "key": "section:3.term:trustee",
+      "title": "Section 3 Definitions \"trustee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"trustee\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"trustee\" have the meanings respectively ascribed thereto in the\n     Trustee Act 1925."
+    },
+    {
+      "key": "section:3.term:will",
+      "title": "Section 3 Definitions \"will\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"will\"",
+      "structure_path": "Perpetuities Act 1984 > Section 3",
+      "text": "\"will\" includes a codicil.\n     (2) For the purposes of this Act, a will shall, in relation to a\n     disposition contained in it, be deemed to take effect on the death of\n     the testator.\n     (3) For the purposes of this Act:\n          (a) a person shall be treated as a member of a class if in\n          that person's case each and every condition identifying a\n          member of the class is satisfied, and\n          (b) a person shall be treated as a potential member of a\n          class if in that person's case only one or some of the\n          conditions identifying a member of the class is or are\n          satisfied but there is a possibility that the remainder of\n          those conditions will in time be satisfied."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Application",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Application",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 4",
+      "text": "(1) Except as provided by sections 11, 12 and 13, this Act does not\n     apply in relation to a settlement taking effect before the appointed\n     day.\n     (2) This Act applies in relation to a settlement exercising a power\n     of appointment, whether general or special, and taking effect on or\n     after the appointed day, whether or not it applies in relation to the\n     settlement creating the power of appointment.\n     (3) This Act does not apply to render invalid, at the outset or at\n     some future time, an interest created by a provision of a will\n     executed before the appointed day, but taking effect on or after the\n     appointed day, if the provision would not have infringed the rule\n     against perpetuities had this Act not been enacted and had the will\n     taken effect when it was executed."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - The Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "The Crown",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 5",
+      "text": "(1) Except as provided by subsection (2) or by any other Act, the\n     rule against perpetuities, the rule against perpetual trusts and this\n     Act bind the Crown not only in right of New South Wales but also, so\n     far as the legislative power of Parliament permits, the Crown in all\n     its other capacities.\n     (2) Nothing in the rule against perpetuities, in the rule against\n     perpetual trusts or in this Act affects any settlement made by the\n     Crown."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Powers of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Powers of appointment",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 6",
+      "text": "(1) For the purposes of the rule against perpetuities, a power of\n     appointment shall at any particular time be treated as a special\n     power unless, at that time, the appointor has, by the settlement\n     creating the power, unconditional authority at his or her own\n     discretion to exercise the power by appointing the interest the\n     subject of the power to himself or herself.\n     (2) Notwithstanding subsection (1), an appointment of an interest\n     made by will under a power of appointment that would, but for the\n     fact that it was made exercisable only by will, have been a general\n     power shall be treated as a general power for the purposes of\n     determining whether the appointment of the interest infringes the\n     rule against perpetuities.\n     (3) For the purposes of this section, an authority is unconditional\n     notwithstanding any formal condition relating to the mode of exercise\n     of the power."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - The perpetuity period",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "The perpetuity period",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 7",
+      "text": "(1) For the purposes of the rule against perpetuities, the perpetuity\n     period applicable to an interest created by a settlement shall be 80\n     years from the date on which the settlement takes effect.\n     (2) Where an appointment of an interest is made under a special power\n     of appointment, the perpetuity period shall be reckoned from the date\n     on which the settlement creating the power takes effect."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Wait-and-see",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Wait-and-see",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 8",
+      "text": "(1) Where a provision of a settlement which creates an interest\n     would, but for this section and section 9, infringe the rule against\n     perpetuities, the interest shall be treated, until such time (if any)\n     as it becomes certain that it must vest, if at all, after the end of\n     the perpetuity period, as if the provision did not infringe that\n     rule, and its becoming so certain does not affect the validity of any\n     thing previously done in relation to the interest.\n     (2) Where a provision of a settlement which creates an interest\n     consisting of the conferring of a general power of appointment would,\n     but for this section and section 9, infringe the rule against\n     perpetuities, the interest shall be treated, until such time (if any)\n     as it becomes certain that the power will not be exercisable within\n     the perpetuity period, as if the provision did not infringe that\n     rule.\n     (3) Where a provision of a settlement which creates an interest\n     consisting of the conferring of any power or right (except a general\n     power of appointment) would, but for this section and section 9,\n     infringe the rule against perpetuities, the interest shall be treated\n     as regards any exercise of the power or right within the perpetuity\n     period as if the provision did not infringe that rule, and the\n     provisions shall be treated as infringing that rule only if and so\n     far as the power or right is not fully exercised within the\n     perpetuity period.\n     (4) This section does not affect the operation of section 15."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Reduction of age and exclusion of class members",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Reduction of age and exclusion of class members",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 9",
+      "text": "(1) Where:\n          (a) a provision of a settlement creates an interest and the\n          vesting of the interest depends on the attainment by any\n          person of a specified age, and\n          (b) it becomes apparent that the provision would, but for\n          this subsection, infringe the rule against perpetuities but\n          that it would not infringe that rule if the specified age\n          had been a lesser age,\n     the interest shall, for all purposes, be treated as if, instead of\n     its vesting depending on the attainment by the person of the\n     specified age, its vesting depended on the attainment by the person\n     of the greatest age which, if put in place of the specified age,\n     would save the provision from infringing that rule.\n     (2) Where an interest to which subsection (1) applies is ulterior to\n     any other interest created by the settlement, that other interest\n     shall not be defeated or otherwise adversely affected by the\n     operation of subsection (1).\n     (3) Where, in relation to an interest created by a provision of a\n     settlement, different ages are specified in relation to different\n     persons:\n          (a) the reference in subsection (1) to the specified age\n          shall be construed as a reference to all the specified\n          ages, and\n          (b) subsection (1) shall operate to reduce each such age so\n          far as is necessary to save the provision from infringing\n          the rule against perpetuities.\n     (4) Where a provision of a settlement creates an interest which is to\n     be taken by a class of persons and it becomes apparent that the\n     inclusion of a person, being a member of the class or an unborn\n     person who at birth would become a member or potential member of the\n     class, would, but for this subsection:\n          (a) cause the provision to infringe the rule against\n          perpetuities, or\n          (b) prevent subsection (1) from operating to save the\n          provision from infringing that rule,\n     then, upon its so becoming apparent, the person shall, unless the\n     exclusion of the person would exhaust the class, be treated in\n     relation to the interest as if the person were not a member of the\n     class, and, where subsection (1) applies that subsection shall\n     thereupon have effect accordingly.\n     (5) Where this section has effect in relation to a provision to which\n     section 8 applies, the operation of this section does not affect the\n     validity of any thing previously done in relation to the interest\n     created by the provision."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Order of application of remedial provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Order of application of remedial provisions",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 10",
+      "text": "The following provisions shall, for the purposes of the rule against\nperpetuities, be applied in the following order:\n     (a) section 8,\n     (b) section 9 (1),\n     (c) section 9 (4)."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Administrative powers of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Administrative powers of trustees",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 11",
+      "text": "(1) In this section,\n     \"administrative power\" means a power of a trustee to sell, lease or\n     exchange trust property and any other power of a trustee, but does\n     not include a power to appoint, pay, transfer, advance, apply,\n     distribute or otherwise deal with trust property in or towards\n     satisfaction of the interest of a beneficiary under the trust or in\n     or towards satisfaction of a purpose of the trust.\n     (2) The rule against perpetuities does not invalidate an\n     administrative power in relation to trust property during the\n     subsistence of a beneficial interest in the trust property.\n     (3) This section applies to an administrative power taking effect,\n     and to any exercise of an administrative power, before, on or after\n     the appointed day."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Remuneration of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Remuneration of trustees",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 12",
+      "text": "(1) The rule against perpetuities does not invalidate a power or\n     other provision for remunerating a trustee for the trustee's\n     services.\n     (2) This section applies to a power or other provision for\n     remunerating a trustee taking effect before, on or after the\n     appointed day."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Superannuation and other funds",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Superannuation and other funds",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 13",
+      "text": "(1) In this section:\n     \"employees\" includes directors, officers, servants and employees of\n     any employer.\n     \"fund\" means a provident, superannuation, sick, accident, assurance,\n     unemployment, pension or co-operative benefit fund, scheme,\n     arrangement or provision or other like fund, scheme, arrangement or\n     provision.\n     \"self-employed persons\" includes persons engaged in any lawful\n     profession, trade, occupation or calling.\n     (2) The rule against perpetuities does not invalidate a fund\n     established by a settlement for the benefit of:\n          (a) employees,\n          (b) self-employed persons,\n          (c) spouses, children, grandchildren, parents, dependants\n          or legal personal representatives of employees or self-\n          employed persons, or\n          (d) persons duly selected or nominated for that purpose by\n          employees or self-employed persons pursuant to the\n          provisions of the settlement.\n     (2A) The rule against perpetuities does not invalidate a trust\n     established by a settlement and used for investing the assets of a\n     fund referred to in subsection (2) (whether or not it is also used\n     for investing other assets). This subsection does not affect the\n     generality of subsection (2).\n     (3) This section applies to settlements taking effect before, on or\n     after the appointed day."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Determinable interests",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Determinable interests",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 14",
+      "text": "(1) In this section:\n     \"determinable interest\" means an interest created by a settlement,\n     being an interest which is, by a provision of the settlement,\n     determinable on a contingency.\n     \"subsequent interest\", in relation to a determinable interest created\n     by a settlement, means an interest, whether vested or contingent:\n          (a) created by the settlement, or remaining undisposed of\n          by the settlement, or taking effect by way of reverter,\n          resulting trust, residuary gift or otherwise on a\n          possibility arising under the settlement, and\n          (b) as regards which the determinable interest is a prior\n          interest.\n     (2) The rule against perpetuities applies to render invalid the\n     provision for determination of a determinable interest created by a\n     settlement in the same manner as the rule would apply to render\n     invalid a condition subsequent in the settlement for defeasance of\n     the determinable interest on the same contingency, and where that\n     rule does so apply:\n          (a) the determinable interest shall not be so determinable,\n          and\n          (b) a subsequent interest not itself rendered invalid by\n          that rule shall be postponed or defeated to the extent\n          necessary to allow the determinable interest to have effect\n          free from the provision for determination.\n     (3) For the purposes of this section, an interest created by, or a\n     provision in, an appointment or other exercise of a power in a\n     settlement (except a general power of appointment) shall be treated\n     as an interest created by, or a provision in, the settlement.\n     (4) Notwithstanding subsection (2), the rule against perpetuities\n     shall not apply to a gift over from one charity to another."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Options",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Options",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 15",
+      "text": "The rule against perpetuities does not apply to:\n     (a) any option to renew a lease of property,\n     (b) any option to acquire a reversionary interest in property\n     comprised in a lease,\n     (c) any right of pre-emption given for valuable consideration or by\n     will in respect of property, or\n     (d) any other option given for valuable consideration or by will to\n     acquire an interest in property."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Trusts for purposes which are not charitable",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Trusts for purposes which are not charitable",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 16",
+      "text": "(1) Except as provided by this section, this Act shall not affect the\n     operation of the rule against perpetual trusts.\n     (2) Where, by a settlement, there is a disposition for a purpose, the\n     perpetuity period applicable to the disposition shall, for the\n     purposes of the rule against perpetual trusts, be 80 years from the\n     date on which the settlement takes effect.\n     (3) Where, by a settlement, there is a disposition for a purpose and\n     the disposition would, but for this Act, infringe the rule against\n     perpetual trusts, the disposition shall be treated, until such time\n     (if any) as it becomes certain that the disposition must infringe\n     that rule, as if it did not infringe that rule, and its so becoming\n     certain does not affect the validity of any thing previously done in\n     relation to the disposition.\n     (4) This section does not apply to a disposition for a purpose which\n     is charitable."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Dependent interests",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Dependent interests",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 17",
+      "text": "(1) Where a provision of a settlement creates an interest, the\n     provision is not rendered invalid by the rule against perpetuities or\n     the rule against perpetual trusts by reason only that the interest is\n     ulterior to and dependent upon an interest which is so invalid.\n     (2) Where a provision of a settlement creates an interest which is\n     ulterior to another interest and the other interest is rendered\n     invalid by the rule against perpetuities or the rule against\n     perpetual trusts, the acceleration of the vesting of the ulterior\n     interest shall not be affected by reason only that the other interest\n     is so invalid."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Accumulation of income",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Accumulation of income",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 18",
+      "text": "(1) Where property is disposed of in such a manner that the income of\n     the property may be or is directed to be accumulated wholly or in\n     part, the power or direction to accumulate that income is valid if\n     the disposition of the accumulated income is, or may be, valid, but\n     not otherwise.\n     (2) This section does not affect the power of any person to terminate\n     an accumulation that is for the person's benefit, or any jurisdiction\n     or power of a court to maintain or advance out of accumulations, or\n     any power of a trustee under the Trustee Act 1925, or under any other\n     Act or law or under any settlement."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Repeals",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Repeals",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 19",
+      "text": "Each Act specified in Column 1 of Schedule 1 is, to the extent specified\nopposite that Act in Column 2 of that Schedule, repealed."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Savings and transitional provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Savings and transitional provisions",
+      "defined_term": null,
+      "structure_path": "Perpetuities Act 1984 > Section 20",
+      "text": "(1) Section 12 does not affect any rights arising under a judgment or\n     an order which has taken effect before the appointed day or arising\n     under any agreement made before the appointed day.\n     (2) Notwithstanding the repeal of sections 31, 31A and 36 of the\n     Conveyancing Act 1919, the provisions of those sections continue to\n     apply in relation to a settlement taking effect before the appointed\n     day."
+    },
+    {
+      "key": "schedule:1.section:31-10",
+      "title": "Schedule 1 Section 31-10 - 1984, sec 2 and GG No 147 of 19.10.1984, p 5077. _____________________________________________________________________",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "31-10",
+      "main_structural_unit_heading": "1984, sec 2 and GG No 147 of 19.10.1984, p 5077. _____________________________________________________________________",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Section 31-10",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Repeals (Section 19) ____________________________________________________________________ |____________________________________________| |____________________________________________________________________| PERPETUITIES ACT 1984 - NOTES Reprint history: Reprint No 1   17 July 2001 PERPETUITIES ACT 1984 - NOTES Historical notes The following abbreviations are used in the Historical notes: _____________________________________________________________________ |_____________________________________________________________________| Table of ActPerpetuities Act 1984 No Section 43. Assented to 13.6.1984. Date of commencement, secs 1 and 2 excepted,",
+      "text": "Schedule 1 - SCHEDULE 1 - Repeals (Section 19) ____________________________________________________________________ |____________________________________________| |____________________________________________________________________| PERPETUITIES ACT 1984 - NOTES Reprint history: Reprint No 1   17 July 2001 PERPETUITIES ACT 1984 - NOTES Historical notes The following abbreviations are used in the Historical notes: _____________________________________________________________________ |_____________________________________________________________________| Table of ActPerpetuities Act 1984 No Section 43. Assented to 13.6.1984. Date of commencement, secs 1 and 2 excepted,\n\nSection 31-10 - 1984, sec 2 and GG No 147 of 19.10.1984, p 5077. _____________________________________________________________________\n\n|    |     |Perpetuities (Amendment) Act 1991. Assented to 11.12.1991.|\n|1991|No 57|                                                          |\n|_____________________________________________________________________|\nTable of amendments\n ____________________________\n|____________________________|"
+    }
+  ]
+}

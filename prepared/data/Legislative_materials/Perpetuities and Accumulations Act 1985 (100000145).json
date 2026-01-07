@@ -1,0 +1,223 @@
+{
+  "doc": {
+    "jurisdiction": "australian_capital_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/act/consol_act/paaa1985327/",
+    "register_url": "https://www.legislation.act.gov.au/a/1985-65/",
+    "source": "Perpetuities and Accumulations Act 1985 (100000145).txt",
+    "filename": "Perpetuities and Accumulations Act 1985 (100000145).json",
+    "name": "Perpetuities and Accumulations Act 1985",
+    "citation": "Perpetuities and Accumulations Act 1985"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act This Act is the Perpetuities and Accumulations Act 1985.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act This Act is the Perpetuities and Accumulations Act 1985.",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 1",
+      "text": ""
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain terms",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain terms",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 2",
+      "text": "used in this Act, and includes references (\"signpost definitions\")\nto other terms defined elsewhere.\nFor example, the signpost definition '\"trustee\"--see\nthe Trustee Act 1925\n, dictionary.' means that the term 'trustee' is defined\nin that dictionary and the definition applies to this Act.\nNote 2     A definition in the dictionary (including a signpost\ndefinition) applies to the entire Act unless the definition, or another\nprovision of the Act, provides otherwise or the contrary intention otherwise\nappears (see Legislation Act\n, s 155 and s 156 (1)).\nSection 2A A note included in this Act is explanatory and is not part of this Act. Note See the Legislation Act\n, s 127 (1), (4) and (5) for the legal status of notes."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Application of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Application of Act",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 3",
+      "text": "(1)     Except as provided by sections 12, 13 and 14, this Act\ndoes not apply in relation to a settlement taking effect before the commencement\ndate.\n     (2)     This Act applies in relation to a settlement exercising a power of\nappointment, whether general or special, and taking effect on or after the\ncommencement date, whether or not it applies in relation to the settlement\ncreating the power of appointment.\n     (3)     For subsection (2), a gift over in default of an appointment under a\npower, whether general or special, shall be treated as a settlement exercising a\npower of appointment.\n     (4)     Where a provision of a will executed before the commencement date but\ntaking effect on or after that date creates an interest--\n         (a)     if that provision would not have infringed the rule against\nperpetuities if this Act had not been made--the provision shall take effect\nas if this Act had not been made; or\n         (b)     if that provision would have infringed the rule against perpetuities\nif this Act had not been made--this Act applies to the provision."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Application of Act to Territory",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Application of Act to Territory",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 4",
+      "text": "(1)     The rule against perpetuities and the rule against perpetual trusts\nbind the Territory.\n     (2)     However, nothing in the rule against perpetuities, in the rule against\nperpetual trusts or in this Act affects any settlement made by the\nTerritory.\n     (3)     Subsection (1) has effect except so far as another Territory law\notherwise provides.\n     (4)     Subsection (2) has effect despite the Legislation Act 2001\n, section 121 (Binding effect of Acts)."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Time of effect of will For this Act, a will shall, in relation to a disposition contained in it, be deemed to take effect on the death of the testator.",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Time of effect of will For this Act, a will shall, in relation to a disposition contained in it, be deemed to take effect on the death of the testator.",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 5",
+      "text": ""
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Member of class For this Act, a person shall be treated as a member of a class if in the person's case each and every condition identifying a member of the class",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Member of class For this Act, a person shall be treated as a member of a class if in the person's case each and every condition identifying a member of the class",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 6",
+      "text": "is satisfied."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Powers of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Powers of appointment",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 7",
+      "text": "(1)     For the purposes of the rule against perpetuities, a power of\nappointment shall be treated as a special power unless--\n         (a)     in the settlement creating the power it is expressed to be exercisable\nby 1 person only; and\n         (b)     the power could at all times during its currency when that person is\nof full age and capacity be exercised immediately by him or her to transfer to,\nor otherwise vest in, himself or herself the whole of the interest governed by\nthe power without the consent of any person or compliance with any other\ncondition, not being a formal condition relating only to the mode of the\nexercise of the power.\n     (2)     Notwithstanding subsection (1), a power of appointment that would, but\nfor the fact that it was made exercisable only by will, have been a general\npower shall be treated as a general power for the purpose of determining whether\nan appointment under the power infringes the rule against\nperpetuities.\n     (3)     For this section, an authority shall be taken to be unconditional\nnotwithstanding any formal condition relating to the mode of exercise of the\npower."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Perpetuity period",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Perpetuity period",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 8",
+      "text": "(1)     For the purposes of the rule against perpetuities, the\nperpetuity period applicable to an interest created by a settlement shall,\nsubject to this section, be 80 years from the date on which the settlement takes\neffect.\n     (2)     Where an appointment of an interest is made under a special power of\nappointment, the perpetuity period shall be reckoned from the date on which the\nsettlement creating the power takes effect.\n     (3)     Where a child who is en ventre sa m&egrave;re at the time when\nthe perpetuity period applicable to an interest created by a settlement would,\nbut for this subsection, have expired would, if that child had been born before\nthat time, have taken that interest, that perpetuity period shall be extended\nuntil--\n         (a)     the expiry of the date on which the child is born; or\n         (b)     it becomes apparent that the child will not be born;\nas the case requires.\n     (4)     Subsection (3) does not apply unless, before the expiry of the\nperpetuity period that would, but for that subsection, be applicable to the\ninterest created by the relevant settlement, the trustees under that settlement\nhave received notice, supported by a certificate signed by a duly qualified\nmedical practitioner who has examined the woman carrying the child in question,\nthat the child is en ventre sa m&egrave;re."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Wait and see",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Wait and see",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 9",
+      "text": "(1)     Where a provision of a settlement which creates an interest would, but\nfor this section or this section and section 10, infringe the rule against\nperpetuities, the interest shall be treated, until such time (if any) as it\nbecomes certain that, notwithstanding section 10, it must vest, if at all, after\nthe end of the perpetuity period, as if the provision did not infringe that\nrule, and its so becoming certain does not affect the validity of any thing\npreviously done in relation to the interest.\n     (2)     Where a provision of a settlement which creates an interest consisting\nof the conferring of a general power of appointment would, but for this section\nor this section and section 10, infringe the rule against perpetuities, the\ninterest shall be treated, until such time (if any) as it becomes certain that,\nnotwithstanding section 10, the power will not be exercisable within the\nperpetuity period, as if the provision did not infringe that rule.\n     (3)     Where a provision of a settlement which creates an interest consisting\nof the conferring of any power or right (except a general power of appointment)\nwould, but for this section or this section and section 10, infringe the rule\nagainst perpetuities, the interest shall be treated as regards any exercise of\nthe power or right within the perpetuity period as if the provision did not\ninfringe that rule, and the provision shall be treated as infringing that rule\nonly if and so far as the power or right is not fully exercised within the\nperpetuity period."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Reduction of age and exclusion of class members",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Reduction of age and exclusion of class members",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 10",
+      "text": "(1)     Where--\n         (a)     a provision of a settlement creates an interest and the vesting of the\ninterest depends on the attainment by a person of a specified age or by persons\nof respective specified ages; and\n         (b)     immediately before the expiration of the perpetuity period applicable\nto that interest--\n               (i)     that person has not attained the specified age, or any of those\npersons has not attained the age specified in relation to that person, as the\ncase may be; and\n               (ii)     the interest has not vested; and\n         (c)     the provision is, by reason of the operation of section 9, to be\ntreated as if it did not infringe the rule against perpetuities;\nthe interest shall, for all purposes, be treated as if its vesting depended\non the attainment by the person, or each of the persons referred to in paragraph\n        (b) (i), as the case requires, of the age that he or she has attained\nimmediately before the expiration of that perpetuity period.\n     (2)     Where an interest to which subsection (1) applies is ulterior to any\nother interest created by the settlement, that other interest shall not be\ndefeated or otherwise adversely affected by the operation of subsection\n(1).\n     (3)     Subject to section 11, where--\n         (a)     a provision of a settlement creates an interest which is to be taken\nby a class of persons; and\n         (b)     immediately before the expiry of the perpetuity period applicable to\nthat interest--\n               (i)     the interest has not vested; and\n               (ii)     there is a person who is, or there are persons each of whom is, a\nmember of that class (whether under the operation of subsection (1) or\notherwise); and\n               (iii)     the provision is, by reason only of the operation of section 9, to\nbe treated as if it did not infringe the rule against perpetuities;\nin relation to that interest, that class shall be taken to comprise only\nthat person or those persons.\n     (4)     Where this section has effect in relation to a provision, the\noperation of this section does not affect the validity of any thing previously\ndone in relation to the interest created by the provision."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Death of potential class member Where--",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Death of potential class member Where--",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 11",
+      "text": "(a)     section 10 (1) applies to an interest that is to be taken by a class\nof persons; and\n         (b)     a person would have been a member, or persons would have been members,\nof that class (whether under the operation of section 10 (1) or otherwise) if\nthat person or those persons had survived to the expiry of the perpetuity period\napplicable to that interest; and\n         (c)     that person has, or those persons have, any children who survive to\nthe expiry of that perpetuity period;\nthose children will take, per stirpes, the interest that their\nparent, or the respective interests that their parents, would have taken had\nthat parent or those parents survived to the expiry of that perpetuity\nperiod."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Administrative power of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Administrative power of trustees",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 12",
+      "text": "(1)     The rule against perpetuities does not invalidate an administrative\npower in relation to trust property during the subsistence of a beneficial\ninterest in the trust property.\n     (2)     This section applies to an administrative power taking effect, and to\nany exercise of an administrative power, before, on or after the commencement\ndate.\n     (3)     In this section:\n\"administrative power\" means any power of a trustee other than\na power to appoint, pay, transfer, advance, apply, distribute or otherwise deal\nwith trust property in or towards satisfaction of the interest of a beneficiary\nunder the trust or in or towards satisfaction of a purpose of the\ntrust."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Remuneration of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Remuneration of trustees",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 13",
+      "text": "(1)     The rule against perpetuities does not invalidate a power or other\nprovision for remunerating a trustee for the trustee's services.\n     (2)     This section applies to a power or other provision for remunerating a\ntrustee taking effect before, on or after the commencement date."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Superannuation and other funds",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Superannuation and other funds",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 14",
+      "text": "(1)     The rule against perpetuities does not invalidate a fund established\nby a settlement for the benefit of--\n         (a)     employees; or\n         (b)     self-employed persons; or\n         (c)     domestic partners, children, grandchildren, parents, dependants or\nlegal personal representatives of employees or self-employed persons;\nor\nNote     For the meaning of domestic partner, see Legislation Act\n, s 169.\n         (d)     persons duly selected or nominated for that purpose by employees or\nself-employed persons pursuant to the provisions of the settlement.\n     (2)     This section applies to settlements taking effect before, on or after\nthe commencement date.\n     (3)     In this section:\n\"employees\" includes directors, officers, servants and\nemployees of any employer.\n\"fund\" means a provident, superannuation, sick, accident,\nassurance, unemployment, pension or co-operative benefit fund, scheme,\narrangement or provision or other like fund, scheme, arrangement or\nprovision.\n\"self-employed persons\" includes persons engaged on their own\nbehalf in any lawful profession, trade, occupation or calling."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Determinable interests",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Determinable interests",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 15",
+      "text": "(1)     The rule against perpetuities operates to render invalid the provision\nfor determination of a determinable interest in the same manner as the rule\nwould operate to render invalid a condition subsequent in a settlement for\ndefeasance of the determinable interest on the same contingency, and where that\nrule does so operate--\n         (a)     the determinable interest shall not be so determinable; and\n         (b)     a subsequent interest not itself rendered invalid by that rule shall\nbe postponed or defeated to the extent necessary to allow the determinable\ninterest to have effect free from the provision for determination.\n     (2)     For this section, an interest created by, or a provision of, an\nappointment or other exercise of a power in a settlement (except a general power\nof appointment) shall be treated as an interest created by, or a provision of,\nthe settlement.\n     (3)     Notwithstanding subsection (1), the rule against perpetuities shall\nnot apply to--\n         (a)     a gift over from 1 charity to another; or\n         (b)     any provision for the determination of a lease for breach of a\ncovenant or condition of the lease.\n     (4)     In this section:\n\"determinable interest\" means an interest created by a\nsettlement, being an interest which is, by a provision of the settlement,\ndeterminable on a contingency.\n\"subsequent interest\", in relation to a determinable interest\nmeans an interest, whether vested or contingent--\n         (a)     created by the settlement, or remaining undisposed of by the\nsettlement, or taking effect by way of reverter, resulting trust, residuary gift\nor otherwise on a possibility arising under the settlement; and\n         (b)     as regards which the determinable interest is a prior\ninterest."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Options",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Options",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 16",
+      "text": "(1)     The rule against perpetuities does not apply to--\n         (a)     any option to renew a lease; or\n         (b)     an option to acquire for valuable consideration a reversionary\ninterest in the property comprised in a lease if the option is exercisable\nonly--\n               (i)     by the lessee or the lessee's successors in title; and\n               (ii)     during the currency of the lease.\n     (2)     Where the rule against perpetuities operates to render invalid an\noption, no action lies, in contract or otherwise, for giving effect to it or\nmaking restitution for its lack of effect."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Trusts for purposes which are not charitable",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Trusts for purposes which are not charitable",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 17",
+      "text": "(1)     Except as provided by this section, this Act shall not affect the\noperation of the rule against perpetual trusts.\n     (2)     Where, by a settlement, there is a disposition for a purpose, the\nperpetuity period applicable to the disposition shall, for the purposes of the\nrule against perpetual trusts, be 80 years from the date on which the settlement\ntakes effect.\n     (3)     Where--\n         (a)     by a settlement, a disposition creates a trust for a purpose;\nand\n         (b)     the trust would, but for this section, infringe the rule against\nperpetual trusts; and\n         (c)     the term of the trust is determined by reference to the occurrence or\nnonoccurrence of a contingency or contingencies specified in the\nsettlement;\nthe trust shall be treated as if it did not infringe the rule until such\ntime as it becomes certain that, by reason of the occurrence or nonoccurrence of\nsuch a contingency, the term of the trust specified in the settlement will\nexceed the perpetuity period, and its so becoming certain does not affect the\nvalidity of anything previously done in relation to the trust.\n     (4)     This section does not apply to a disposition for a purpose which is\ncharitable."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Dependent interests",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Dependent interests",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 18",
+      "text": "(1)     Where a provision of a settlement creates an interest, the provision\nis not rendered invalid by the rule against perpetuities or the rule against\nperpetual trusts by reason only that the interest is ulterior to and dependent\nupon an interest which is so invalid.\n     (2)     Where a provision of a settlement creates an interest which is\nulterior to another interest and the other interest is rendered invalid by the\nrule against perpetuities or the rule against perpetual trusts, the acceleration\nof the vesting of the ulterior interest shall not be affected by reason only\nthat the other interest is so invalid."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Accumulation of income",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Accumulation of income",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 19",
+      "text": "(1)     Where property is disposed of in such a manner that the income of the\nproperty may be or is directed to be accumulated wholly or in part, the power or\ndirection to accumulate that income is valid if the disposition of the\naccumulated income is, or may be, valid, but not otherwise.\n     (2)     This section does not affect the power of any person to terminate an\naccumulation that is for the person's benefit, or any jurisdiction or\npower of a court to maintain or advance out of accumulations, or any power of a\ntrustee under any law in force in the ACT or under any settlement."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Savings and transitional provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Savings and transitional provisions",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 20",
+      "text": "(1)     Section 13 does not affect any rights arising under a judgment or an\norder which took effect before the commencement date or arising under any\nagreement made before that date.\n     (2)     Notwithstanding section 21, the provisions of the Act referred to in\nthat section continue to apply in relation to a settlement that took effect\nbefore the commencement date.\n- NOTES Dictionary\nDictionary\n(see s 2)\nNote 1     The Legislation Act\n contains definitions and other provisions relevant to this Act.\nNote 2     For example, the Legislation Act\n, dict, pt 1 defines the following terms:\n               o      ACT\n               o      exercise\n               o      interest\n               o      the Territory.\n\"commencement date\" means the date of commencement of this\nAct.\n\"disposition\" includes--\n         (a)     the conferring or exercising of a power of appointment or any other\npower or authority to dispose of property; and\n         (b)     any alienation of property.\n\"power of appointment\" includes any discretionary power to make\na disposition.\n\"property\" includes any interest in real or personal property\nand any thing in action.\n\"settlement\" includes--\n         (a)     a will; and\n         (b)     an instrument, testamentary or otherwise, exercising a power of\nappointment, whether general or special; and\n         (c)     any other instrument, transaction or dealing whereby a person makes a\ndisposition;\nbut does not include a law in force in the ACT.\n\"the rule against perpetual trusts\" means the common law rule\nthat invalidates a trust for a purpose which is not charitable where the\nduration of the trust, if it were valid, would or might exceed the perpetuity\nperiod.\n\"trust\"--see the Trustee Act 1925\n, section 4.\n\"trustee\"--see the Trustee Act 1925\n, dictionary.\n\"will\" includes a codicil.\n- NOTES Endnotes"
+    },
+    {
+      "key": "section:2A",
+      "title": "Section 2A - Notes",
+      "main_structural_unit": "section",
+      "main_structural_number": "2A",
+      "main_structural_heading": "Notes",
+      "defined_term": null,
+      "structure_path": "Perpetuities and Accumulations Act 1985 > Section 2A",
+      "text": ""
+    }
+  ]
+}

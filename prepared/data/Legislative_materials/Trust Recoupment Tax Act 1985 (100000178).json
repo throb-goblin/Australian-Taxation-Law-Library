@@ -1,0 +1,73 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/trta1985276/",
+    "register_url": "https://www.legislation.gov.au/C2004A03042/latest/text",
+    "source": "Trust Recoupment Tax Act 1985 (100000178).txt",
+    "filename": "Trust Recoupment Tax Act 1985 (100000178).json",
+    "name": "Trust Recoupment Tax Act 1985",
+    "citation": "Trust Recoupment Tax Act 1985"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Trust Recoupment Tax Act 1985 > Section 1",
+      "text": "This Act may be cited as the Trust Recoupment Tax Act 1985."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Trust Recoupment Tax Act 1985 > Section 2",
+      "text": "This Act shall come into operation on the day on which the Trust Recoupment Tax Assessment Act 1985 comes into operation."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Trust Recoupment Tax Act 1985 > Section 3",
+      "text": "The Trust Recoupment Tax Assessment Act 1985 is incorporated and shall be read as one with this Act."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Trust Recoupment Tax Act 1985 > Section 4",
+      "text": "Where a taxable amount exists under the Trust Recoupment Tax Assessment Act 1985, tax is imposed and shall be levied and paid on that taxable amount."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Rates of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Rates of tax",
+      "defined_term": null,
+      "structure_path": "Trust Recoupment Tax Act 1985 > Section 5",
+      "text": "The rate of tax imposed by this Act on a taxable amount is:\n (a) in the case of a primary taxable amount or a secondary taxable amount--45%;\n (b) in the case of an elected taxable amount--75%; and\n (c) in the case of a company taxable amount--46%."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Temporary budget repair levy",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Temporary budget repair levy",
+      "defined_term": null,
+      "structure_path": "Trust Recoupment Tax Act 1985 > Section 6",
+      "text": "(1) This section applies to the temporary budget repair levy years.\n (2) Increase the rate of tax mentioned in paragraph  5(a) by 2 percentage points.\n (3) In this section:\n\"temporary budget repair levy year\" means a year of income corresponding to a temporary budget repair levy year (within the meaning of section  4-11 of the Income Tax (Transitional Provisions) Act 1997)."
+    }
+  ]
+}

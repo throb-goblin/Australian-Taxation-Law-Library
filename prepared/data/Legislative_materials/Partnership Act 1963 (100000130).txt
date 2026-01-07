@@ -5,17 +5,132 @@ Register: https://www.legislation.act.gov.au/a/1963-5/
 Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download.cgi/download/au/legis/act/consol_act/pa1963154.txt
 When scraped: 2025-12-30T02:06:22.424026Z
 
-PARTNERSHIP ACT 1963 
-
-Section 1
-Name of Act 
-This Act is the Partnership Act 1963.
-
 PARTNERSHIP ACT 1963
-Section 2
-Dictionary
-The dictionary at the end of this Act is part of this Act.
-Note 1     The dictionary at the end of this Act defines certain terms
+- TABLE OF PROVISIONS
+PART 1--PRELIMINARY
+Section 1. Name of Act
+Section 2. Dictionary
+Section 3. Notes
+Section 4. Offences against Act--application of Criminal Code etc
+Section 5. Application of certain laws and rules of equity
+PART 2--NATURE OF PARTNERSHIP
+Section 6. Meaning of partnership
+Section 7. Rules for determining existence of partnership
+PART 3--RELATIONS OF PARTNERS TO PERSONS DEALING WITH THEM
+Section 9. Power of certain partners to bind firm
+Section 10. Partners bound by acts on behalf of firm
+Section 11. Partner using credit of firm for private purpose
+Section 12. Effect of notice that firm will not be bound by acts of partner
+Section 13. Liability of partner
+Section 14. Liability of firm not incorporated limited partnership for wrongs
+Section 14A. Liability of incorporated limited partnership for wrongs
+Section 15. Misapplication of money or property received for, or in custody of, firm
+Section 16. Liability for wrongs joint and several
+Section 17. Improper use of trust property for partnership other than incorporated limited
+Section 17A. Improper use of trust property for incorporated limited partnership
+Section 18. People liable by holding out
+Section 19. Admissions and representations of partners
+Section 20. Notice to acting partners is notice to firm
+Section 21. Liabilities of incoming and outgoing partners
+Section 22. Revocation of continuing guarantee by change of firm
+PART 4--RELATIONS OF PARTNERS TO ONE ANOTHER
+Section 23. Variation by consent of terms of partnership
+Section 24. Partnership property of firms other than incorporated limited
+Section 24A. Partnership property of incorporated limited partnership
+Section 25. Land bought by co-owners out of profits from land--other than incorporated
+Section 26. Property bought with money of firm
+Section 27. Conversion into personalty of land held by firm
+Section 29. Rules about interests and duties of partners other than in incorporated limited
+Section 30. Expulsion of partner
+Section 31. Retirement from partnership at will
+Section 32. Partnership for term continued over
+Section 33. Duty of partner to give accounts
+Section 34. Accountability of partners for private profits
+Section 35. Duty of partner not to compete with firm
+Section 36. Rights of assignee of share in partnership
+PART 5--DISSOLUTION OF PARTNERSHIP AND ITS CONSEQUENCES
+Section 36A. Application of pt 5
+Section 37. Dissolution by expiration or otherwise
+Section 38. Dissolution of partnership by death, bankruptcy, charge etc
+Section 39. Dissolution by illegality of partnership
+Section 40. Dissolution by Supreme Court
+Section 41. Rights of persons dealing with firm against apparent members of
+Section 42. Right of partners to notify dissolution
+Section 43. Public notice of dissolution or change
+Section 44. Continuing authority of partners for winding-up
+Section 45. Rights of partners to application of partnership property
+Section 46. Apportionment of premium when partnership prematurely dissolved
+Section 47. Rights where partnership dissolved for fraud or misrepresentation
+Section 48. Right of outgoing partner in certain cases to share profits made after
+Section 49. Retiring or deceased partner's share to be debt
+Section 50. Rules for distribution of assets on final settlement of accounts
+PART 6--INCORPORATED LIMITED PARTNERSHIPS
+Division 6.1--Preliminary
+Section 51. Definitions for pt 6
+Section 52. Application of other provisions of this Act
+Division 6.2--Nature and formation of incorporated limited partnerships
+Section 53. Incorporated limited partnership formed on registration
+Section 54. Incorporated limited partnership is separate legal entity
+Section 55. Partners in incorporated limited partnership
+Section 56. Partnership agreement
+Division 6.3--Registration of incorporated limited partnerships
+Section 57. Who may apply for registration
+Section 58. Application for registration
+Section 59. Registration of incorporated limited partnership
+Section 60. Register of incorporated limited partnerships
+Section 61. Changes in registered information
+Section 62. Certificates of registration etc
+Section 63. Business Names Registration Act (Cwlth) not to apply
+Section 64. Acts preparatory to registration do not create partnership
+Division 6.4--Powers of incorporated limited partnerships
+Section 65. Powers of partnership
+Section 66. Relationship of partners to others and between themselves
+Division 6.5--Liability and powers of limited partners
+Section 67. Limitation of liability of limited partners
+Section 68. Limited partner not to take part in incorporated limited partnership's management
+Section 69. Interpretation for s 68
+Section 70. Differences between partners
+Section 71. Change in partners
+Section 72. Change in status of partners
+Section 73. Liability for conduct, acts or omissions outside the ACT
+Section 74. Incorporated limited partnerships formed under corresponding laws
+Section 75. Effect of s 73 and s 74
+Division 6.6--Winding-up of incorporated limited partnership
+Section 76. Meaning of assets for div 6.6
+Section 77. Voluntary winding-up
+Section 78. Winding-up on commissioner's certificate
+Section 79. Review of certificate
+Section 80. Procedure for winding-up on certificate
+Section 81. Distribution of assets on winding-up required on commissioner's certificate
+Section 82. Displacement and application of Corporations legislation etc
+Section 83. Commissioner to be told about winding-up
+Section 84. Cancellation of incorporation
+Division 6.7--Miscellaneous
+Section 85. Execution of documents
+Section 86. Entitlement to make assumptions
+Section 87. Assumptions that may be made under s 86
+Section 88. Identification of incorporated limited partnerships
+Section 89. Display of certificate of registration
+Section 90. Registered office
+Section 91. Certain documents to be given to commissioner
+Section 92. Service on incorporated limited partnership
+Section 93. Entry in register constitutes notice
+Section 94. Duty to give information
+Section 95. Secrecy
+Section 96. Offences by partnerships
+Section 97. Delegation by commissioner
+Section 98. Relationship with Corporations legislation
+PART 7--MISCELLANEOUS
+Section 99. Determination of fees
+Section 100. Approved forms
+Section 101. Regulation-making power
+DICTIONARY
+ENDNOTES
+PARTNERSHIP ACT 1963
+- LONG TITLE
+An Act relating to partnership
+Section 1 Name of Act This Act is the Partnership Act 1963.
+Section 2 Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain terms
 used in this Act, and includes references ("signpost definitions")
 to other terms defined elsewhere in this Act.
      For example, the signpost definition 'incorporated limited
@@ -25,38 +140,24 @@ section.
 Note 2     A definition in the dictionary (including a signpost
 definition) applies to the entire Act unless the definition, or another
 provision of the Act, provides otherwise or the contrary intention otherwise
-appears (see Legislation Act 
+appears (see Legislation Act
 , s 155 and s 156 (1)).
-
-PARTNERSHIP ACT 1963
-Section 3
-A note included in this Act is explanatory and is not part of this
-Act.
-Note     See Legislation Act 
+Section 3 A note included in this Act is explanatory and is not part of this Act. Note See Legislation Act
 , s 127 (1), (4) and (5) for the legal status of notes.
-
-PARTNERSHIP ACT 1963
-Section 4
-Offences against Act--application of Criminal Code etc 
-Other legislation applies in relation to offences against this
-Act.
+Section 4 Offences against Act--application of Criminal Code etc Other legislation applies in relation to offences against this Act.
 Note 1     Criminal Code
-The Criminal Code 
-, ch 2 applies to all offences against this Act (see Code, pt 2.1). 
-
+The Criminal Code
+, ch 2 applies to all offences against this Act (see Code, pt 2.1).
 The chapter sets out the general principles of criminal responsibility
 (including burdens of proof and general defences), and defines terms used for
 offences to which the Code applies (eg "conduct",
 "intention", recklessness and strict
 liability).
 Note 2     Penalty units
-The Legislation Act 
+The Legislation Act
 , s 133 deals with the meaning of offence penalties that are expressed in
 penalty units.
-
-PARTNERSHIP ACT 1963
-Section 5
-Application of certain laws and rules of equity 
+Section 5 Application of certain laws and rules of equity
      (1)     The rules of equity and the common law applying to partnership
 continue in force except as far as they are inconsistent with this
 Act.
@@ -68,10 +169,7 @@ partnership and its partners.
 Note     A reference to an Act includes a reference to the statutory
 instruments made or in force under the Act, including regulations (see Legislation Act
 , s 104).
-
-PARTNERSHIP ACT 1963
-Section 6
-Meaning of partnership 
+Section 6 Meaning of partnership
      (1)     "Partnership" is the relation between people carrying on a
 business in common with a view of profit, and includes an incorporated limited
 partnership.
@@ -80,10 +178,7 @@ some stated provisions in part 6 (Incorporated limited partnerships).
      (2)     The relation between members of a corporation (other than an
 incorporated limited partnership), whether formed or incorporated in or outside
 the ACT, is not a partnership under this Act.
-
-PARTNERSHIP ACT 1963
-Section 7
-Rules for determining existence of partnership 
+Section 7 Rules for determining existence of partnership
      (1)     In determining whether a partnership does or does not exist, regard
 shall be had to subsections (2) to (4).
      (2)     Joint tenancy, tenancy in common, joint property or part ownership
@@ -106,7 +201,7 @@ partner with respect to the business; and
          (b)     a contract for the remuneration of an employee or agent of a person
 engaged in a business by a share of the profits of the business does not, of
 itself, make the employee or agent a partner in relation to the business or
-liable as a partner in relation to the business; and 
+liable as a partner in relation to the business; and
          (c)     a domestic partner or child of a deceased partner who receives, by way
 of periodical payment, a part of the profits made in a business is not, only
 because the domestic partner or child receives part of the profits, a partner in
@@ -126,10 +221,7 @@ with respect to the business or liable as a partner with respect to the
 business.
      (5)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 9
-Power of certain partners to bind firm 
+Section 9 Power of certain partners to bind firm
      (1)     A partner in a firm other than an incorporated limited partnership is
 the agent of the firm, and of the other partners in the firm, for the purposes
 of the firm's business.
@@ -154,10 +246,7 @@ for the partnership in the particular matter; and
          (b)     the person with whom the general partner is dealing either knows that
 the general partner has no authority or does not know or believe the general
 partner to be a general partner in the partnership.
-
-PARTNERSHIP ACT 1963
-Section 10
-Partners bound by acts on behalf of firm 
+Section 10 Partners bound by acts on behalf of firm
      (1)     An act or instrument relating to the business of a firm other than an
 incorporated limited partnership is binding on the firm and all the partners in
 the firm if it is done or executed by a person authorised to do the act or
@@ -175,10 +264,7 @@ partnership)--
 partnership.
      (3)     This section does not affect a rule of law about the execution of
 deeds or negotiable instruments.
-
-PARTNERSHIP ACT 1963
-Section 11
-Partner using credit of firm for private purpose 
+Section 11 Partner using credit of firm for private purpose
      (1)     If a partner in a firm other than an incorporated limited partnership
 pledges the credit of the firm for a purpose apparently not connected with the
 ordinary course of the firm's business, the firm is not bound unless the
@@ -193,10 +279,7 @@ bound unless the general partner is in fact specially authorised by the
 partnership.
      (4)     Subsection (3) does not affect a personal liability incurred by an
 individual general partner.
-
-PARTNERSHIP ACT 1963
-Section 12
-Effect of notice that firm will not be bound by acts of partner 
+Section 12 Effect of notice that firm will not be bound by acts of partner
      (1)     If it has been agreed by the partners in a firm other than an
 incorporated limited partnership that restrictions are to be placed on the power
 of 1 or more of the partners to bind the firm, an act contravening the agreement
@@ -207,10 +290,7 @@ partnership that restrictions are to be placed on the power (if any) of 1 or
 more of the partners to bind the partnership, an act contravening the agreement
 is not binding on the partnership in relation to a person with notice of the
 agreement.
-
-PARTNERSHIP ACT 1963
-Section 13
-Liability of partner 
+Section 13 Liability of partner
      (1)     Each partner in a firm other than an incorporated limited partnership
 is liable jointly with the other partners in the firm for the debts and
 obligations of the firm incurred while the partner is a partner.
@@ -234,10 +314,7 @@ only liable for the debts and obligations of the partnership--
          (a)     to the extent the partnership cannot satisfy the debts and
 obligations; or
          (b)     to a greater extent provided by the partnership agreement.
-
-PARTNERSHIP ACT 1963
-Section 14
-Liability of firm not incorporated limited partnership for wrongs 
+Section 14 Liability of firm not incorporated limited partnership for wrongs
      (1)     This section applies if, by any wrongful act or omission of a partner
 (the relevant partner) in a firm other than an incorporated
 limited partnership acting in the ordinary course of the business of the firm,
@@ -249,7 +326,7 @@ or
 same extent as the relevant partner.
      (3)     For this section, a partner in a firm other than an incorporated
 limited partnership who commits a wrongful act or omission as a director of a
-company or other body (within the meaning of the Corporations Act 
+company or other body (within the meaning of the Corporations Act
 ), as a member of a territory authority, or as a member of the board
 (however described) of a territory authority, is not to be taken to be acting in
 the ordinary course of business of the firm, or with the authority of the other
@@ -261,10 +338,7 @@ member;
 part of the income of the firm;
          (c)     any other partner of the firm is also such a director or member,
 whether of the same or a different body, territory authority or board.
-
-PARTNERSHIP ACT 1963
-Section 14A
-Liability of incorporated limited partnership for wrongs 
+Section 14A Liability of incorporated limited partnership for wrongs
      (1)     This section applies if, by any wrongful act or omission of a general
 partner (the relevant partner) in an incorporated limited
 partnership, acting in the ordinary course of the partnership's business,
@@ -276,7 +350,7 @@ partnership; or
 loss, injury or penalty to the same extent as the relevant partner.
      (3)     For this section, a general partner in an incorporated limited
 partnership who commits a wrongful act or omission as a director of a company or
-other body (within the meaning of the Corporations Act 
+other body (within the meaning of the Corporations Act
 ), as a member of a territory authority, or as a member of the board
 (however described) of a territory authority, is not to be taken to be acting in
 the ordinary course of the partnership's business, or with its authority,
@@ -286,14 +360,11 @@ partnership to be appointed or to act as director or member;
          (b)     the remuneration that the general partner receives as director or
 member forms part of the income of the partnership;
          (c)     any other general partner in the partnership is also a director of a
-company or other body (within the meaning of the Corporations Act 
+company or other body (within the meaning of the Corporations Act
 ), member of a territory authority, or member of the board (however
 described) of a territory authority, whether of the same or a different body,
 territory authority or board.
-
-PARTNERSHIP ACT 1963
-Section 15
-Misapplication of money or property received for, or in custody of, firm 
+Section 15 Misapplication of money or property received for, or in custody of, firm
      (1)     If either or both of the following happens, a firm that is not an
 incorporated limited partnership is liable to make good the loss:
          (a)     a partner in the firm, acting within the scope of the partner's
@@ -315,10 +386,7 @@ custody.
 "someone else", in relation to a firm that is not an
 incorporated limited partnership or an incorporated limited partnership, does
 not include a partner in the partnership.
-
-PARTNERSHIP ACT 1963
-Section 16
-Liability for wrongs joint and several 
+Section 16 Liability for wrongs joint and several
      (1)     Each partner in a firm other than an incorporated limited partnership
 is liable jointly with the other partners in the firm, and severally, for
 everything for which the firm becomes liable under section 14 (Liability of firm
@@ -335,11 +403,7 @@ only liable for any liability of the partnership mentioned in subsection
          (a)     to the extent the partnership cannot satisfy the liability;
 or
          (b)     to a greater extent provided by the partnership agreement.
-
-PARTNERSHIP ACT 1963
-Section 17
-Improper use of trust property for partnership other than incorporated limited 
-partnership
+Section 17 Improper use of trust property for partnership other than incorporated limited partnership
      (1)     If a partner in a firm other than an incorporated limited partnership
 who is a trustee improperly uses trust property in the firm's business, or
 for the firm, another partner in the firm is not liable for the trust property
@@ -349,10 +413,7 @@ to the people beneficially interested in the property.
 about a breach of trust; and
          (b)     prevent trust money from being followed and recovered from the firm if
 still in the possession, or under the control, of the firm.
-
-PARTNERSHIP ACT 1963
-Section 17A
-Improper use of trust property for incorporated limited partnership 
+Section 17A Improper use of trust property for incorporated limited partnership
      (1)     If a general partner in an incorporated limited partnership who is a
 trustee improperly uses trust property in the partnership's business, or
 for the partnership, the partnership and any other general partner is not liable
@@ -364,10 +425,7 @@ partner knew about a breach of trust; and
          (b)     prevent trust money from being followed and recovered from the
 partnership if still in the possession, or under the control, of the
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 18
-People liable by holding out 
+Section 18 People liable by holding out
      (1)     Subsection (2) applies if a person (the apparent
 partner)--
          (a)     represents themself as a partner in a firm other than an incorporated
@@ -396,10 +454,7 @@ the dead partner as part of that name does not, of itself, make the
 partner's legal personal representatives or the partner's estate or
 effects liable for the firm's debts contracted after the partner's
 death.
-
-PARTNERSHIP ACT 1963
-Section 19
-Admissions and representations of partners 
+Section 19 Admissions and representations of partners
      (1)     An admission or representation made by a partner in a firm other than
 an incorporated limited partnership about the firm's affairs, and in the
 ordinary course of the firm's business, is evidence against the
@@ -408,10 +463,7 @@ firm.
 incorporated limited partnership about the partnership's affairs, and in
 the ordinary course of the partnership's business, is evidence against the
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 20
-Notice to acting partners is notice to firm 
+Section 20 Notice to acting partners is notice to firm
      (1)     Notice to a partner in a firm other than an incorporated limited
 partnership who habitually acts in the firm's business, of a matter
 relating to the firm's affairs, operates as notice to the firm, except for
@@ -421,10 +473,7 @@ habitually acts in the partnership's business, of a matter relating to the
 partnership's affairs, operates as notice to the partnership, except for
 fraud on the partnership committed by or with the consent of that
 partner.
-
-PARTNERSHIP ACT 1963
-Section 21
-Liabilities of incoming and outgoing partners 
+Section 21 Liabilities of incoming and outgoing partners
      (1)     A person who is admitted as a partner in an existing firm other than
 an incorporated limited partnership does not by that admission alone become
 liable for anything done before the person became a partner.
@@ -451,10 +500,7 @@ inferred as a fact from the course of dealing between the creditors and the
 partnership.
      (7)     In subsection (4) and (6):
 "liabilities"--see section 51.
-
-PARTNERSHIP ACT 1963
-Section 22
-Revocation of continuing guarantee by change of firm 
+Section 22 Revocation of continuing guarantee by change of firm
      (1)     A continuing guarantee given either to a firm or to a third person in
 respect of the transactions of a firm is, in the absence of agreement to the
 contrary, revoked as to future transactions by a change in the constitution of
@@ -462,18 +508,9 @@ the firm to which, or in respect of whose transactions, the guarantee was
 given.
      (2)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 23
-Variation by consent of terms of partnership 
-The mutual rights and duties of partners, whether ascertained by agreement
-or defined by this Act, may be varied by the consent (either express or inferred
+Section 23 Variation by consent of terms of partnership The mutual rights and duties of partners, whether ascertained by agreement or defined by this Act, may be varied by the consent (either express or inferred
 from a course of dealing) of all the partners.
-
-PARTNERSHIP ACT 1963
-Section 24
-Partnership property of firms other than incorporated limited 
-partnerships
+Section 24 Partnership property of firms other than incorporated limited partnerships
      (1)     Subject to section 25, all property, and rights and interests in
 property, originally brought into the stock of a firm or acquired, whether by
 purchase or otherwise, on account of a firm or for the purposes, and in the
@@ -489,10 +526,7 @@ as is necessary for the persons beneficially interested in the estate or
 interest under this section.
      (4)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 24A
-Partnership property of incorporated limited partnership 
+Section 24A Partnership property of incorporated limited partnership
      (1)     All property, and rights and interests in property, acquired, whether
 by purchase or in another way, on account of an incorporated limited
 partnership, or for and in the course of the partnership's business, are
@@ -502,11 +536,7 @@ be applied by the partnership exclusively for the partnership.
      (3)     A partner in an incorporated limited partnership does not have any
 legal or beneficial interest in its partnership property only because the
 partner is a partner in the partnership.
-
-PARTNERSHIP ACT 1963
-Section 25
-Land bought by co-owners out of profits from land--other than incorporated 
-limited partnerships
+Section 25 Land bought by co-owners out of profits from land--other than incorporated limited partnerships
      (1)     If co-owners of an estate or interest in land, not being an estate or
 interest which is partnership property--
          (a)     are partners as to profits made by the use of the estate or interest
@@ -519,16 +549,8 @@ respective estates or interests as are held by them, at the date of the
 purchase, in the firstmentioned estate or interest.
      (2)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 26
-Property bought with money of firm 
-Property bought with money belonging to a firm is, unless the contrary
-intention appears, deemed to have been bought on account of the firm.
-
-PARTNERSHIP ACT 1963
-Section 27
-Conversion into personalty of land held by firm 
+Section 26 Property bought with money of firm Property bought with money belonging to a firm is, unless the contrary intention appears, deemed to have been bought on account of the firm.
+Section 27 Conversion into personalty of land held by firm
      (1)     If an estate or interest in land has become partnership property, the
 estate or interest shall, unless the contrary intention appears, be treated as
 between the partners, the legal personal representatives of a deceased partner
@@ -537,11 +559,7 @@ estate, of a deceased partner, as personal or movable property and not real
 property.
      (2)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 29
-Rules about interests and duties of partners other than in incorporated limited 
-partnership
+Section 29 Rules about interests and duties of partners other than in incorporated limited partnership
      (1)     All the partners in a firm are entitled to share equally in the
 capital and profits of the firm and are liable to contribute equally towards the
 losses, whether of capital or otherwise, sustained by the firm.
@@ -577,27 +595,16 @@ provision of this section is subject to any agreement express or implied between
 the partners in the firm.
      (11)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 30
-Expulsion of partner 
-A majority of partners in a firm are not entitled to expel another partner
-from the firm unless the majority are acting in the exercise of a power so to do
+Section 30 Expulsion of partner A majority of partners in a firm are not entitled to expel another partner from the firm unless the majority are acting in the exercise of a power so to do
 conferred by express agreement between all the partners in the firm.
-
-PARTNERSHIP ACT 1963
-Section 31
-Retirement from partnership at will 
+Section 31 Retirement from partnership at will
      (1)     If a fixed term has not been agreed upon for the duration of a
 partnership, a partner may determine the partnership at any time on giving
 notice to all the other partners of the partner's intention so to
 do.
      (2)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 32
-Partnership for term continued over 
+Section 32 Partnership for term continued over
      (1)     Where a partnership entered into for a fixed term is continued after
 the term has expired without an express new agreement, the rights and duties of
 the partners remain the same as they were at the expiration of the term so far
@@ -610,10 +617,7 @@ liquidation of the affairs of the firm is deemed to be a continuance of the
 partnership.
      (3)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 33
-Duty of partner to give accounts 
+Section 33 Duty of partner to give accounts
      (1)     A partner in a firm other than an incorporated limited partnership
 must give true accounts and full information about everything affecting the firm
 to another partner or another partner's legal personal
@@ -622,10 +626,7 @@ representatives.
 agreement, give true accounts and full information about everything affecting
 the partnership to any partner or any partner's legal personal
 representatives.
-
-PARTNERSHIP ACT 1963
-Section 34
-Accountability of partners for private profits 
+Section 34 Accountability of partners for private profits
      (1)     A partner in a firm is bound to account to the firm--
          (a)     for any benefit derived by the partner, without the consent of the
 other partners in the firm, from a transaction concerning the firm; or
@@ -638,20 +639,14 @@ partner in the firm or by the legal personal representatives of the deceased
 partner.
      (3)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 35
-Duty of partner not to compete with firm 
+Section 35 Duty of partner not to compete with firm
      (1)     If a partner in a firm carries on, without the consent of the other
 partners in the firm, a business of the same nature as, and competing with, that
 of the firm, the partner so carrying on business shall account for and pay over
 to the firm all profits made by the partner in the business.
      (2)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 36
-Rights of assignee of share in partnership 
+Section 36 Rights of assignee of share in partnership
      (1)     An assignment by a partner in a firm of the partner's share in
 the partnership, whether absolute or by way of mortgage or redeemable charge,
 does not, as against the other partners in the firm, entitle the assignee during
@@ -673,16 +668,8 @@ ascertaining that share, to an account as from the date of the
 dissolution.
      (4)     This section does not apply in relation to an incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 36A
-Application of pt 5 
-This part does not apply in relation to an incorporated limited
-partnership.
-
-PARTNERSHIP ACT 1963
-Section 37
-Dissolution by expiration or otherwise 
+Section 36A Application of pt 5 This part does not apply in relation to an incorporated limited partnership.
+Section 37 Dissolution by expiration or otherwise
      (1)     Subject to any agreement between the partners, a partnership is
 dissolved--
          (a)     where the partnership was entered into for a fixed term--by the
@@ -699,28 +686,17 @@ referred to in subsection (1) (c) is dissolved--
 or
          (b)     if no date of dissolution is so mentioned--as from the date of
 the communication of the notice.
-
-PARTNERSHIP ACT 1963
-Section 38
-Dissolution of partnership by death, bankruptcy, charge etc 
+Section 38 Dissolution of partnership by death, bankruptcy, charge etc
      (1)     Subject to any agreement between the partners, a partnership is
 dissolved in relation to all the partners if a partner dies, becomes bankrupt,
-or executes a personal insolvency agreement under the Bankruptcy Act 1966 
+or executes a personal insolvency agreement under the Bankruptcy Act 1966
  (Cwlth).
      (2)     If a partner's share in the partnership property is charged
 under this Act for the partner's separate debt, the other partners may
 dissolve the partnership.
-
-PARTNERSHIP ACT 1963
-Section 39
-Dissolution by illegality of partnership 
-A partnership is dissolved by the happening of an event which makes it
-unlawful for the business of the firm to be carried on or for the members of the
+Section 39 Dissolution by illegality of partnership A partnership is dissolved by the happening of an event which makes it unlawful for the business of the firm to be carried on or for the members of the
 firm to carry on the business of the firm in partnership.
-
-PARTNERSHIP ACT 1963
-Section 40
-Dissolution by Supreme Court 
+Section 40 Dissolution by Supreme Court
      (1)     Subject to this section, when--
          (a)     a partner in a firm--
                (i)     has been declared in accordance with law to be a person with a mental
@@ -755,11 +731,7 @@ agreement, means a person who is not legally competent to be a party to the
 partnership agreement, and includes such a person even if a guardian or manager
 has not been appointed for the person under the Guardianship and Management of Property Act 1991
 .
-
-PARTNERSHIP ACT 1963
-Section 41
-Rights of persons dealing with firm against apparent members of 
-firm
+Section 41 Rights of persons dealing with firm against apparent members of firm
      (1)     A person who deals with a firm after a change in its constitution is
 entitled to treat all apparent members of the old firm as still being members of
 the firm until the person has notice of the change.
@@ -768,16 +740,11 @@ be a partner in the firm, retires from the firm is not liable for the debts of
 the firm contracted, after the date of their retirement, with the person so
 dealing with the firm.
      (3)     If a person who is a partner in a firm dies, becomes bankrupt, or
-executes a personal insolvency agreement under the Bankruptcy Act 1966 
+executes a personal insolvency agreement under the Bankruptcy Act 1966
  (Cwlth), the estate of the partner is not liable for the debts of
 the firm contracted after the date of the death, bankruptcy or executing of the
 personal insolvency agreement.
-
-PARTNERSHIP ACT 1963
-Section 42
-Right of partners to notify dissolution 
-On the dissolution of a partnership or the retirement of a partner, a
-partner in the firm--
+Section 42 Right of partners to notify dissolution On the dissolution of a partnership or the retirement of a partner, a partner in the firm--
          (a)     may give public notice that the partnership has been so dissolved or
 that the partner has so retired, as the case may be; and
          (b)     may require the other partners in the firm to concur for that purpose
@@ -786,37 +753,26 @@ concurrence of the other partners.
 Note     Public notice means notice on an ACT government website
 or in a daily newspaper circulating in the ACT (see Legislation Act
 , dict, pt 1).
-
-PARTNERSHIP ACT 1963
-Section 43
-Public notice of dissolution or change 
-Public notice of the dissolution, or a change in the constitution, of a
-firm is notice of the dissolution or change to a person who did not have
+Section 43 Public notice of dissolution or change Public notice of the dissolution, or a change in the constitution, of a firm is notice of the dissolution or change to a person who did not have
 dealings with the firm before the date of the dissolution or change.
 Note     Public notice means notice on an ACT government website
 or in a daily newspaper circulating in the ACT (see Legislation Act
 , dict, pt 1).
-
-PARTNERSHIP ACT 1963
-Section 44
-Continuing authority of partners for winding-up 
+Section 44 Continuing authority of partners for winding-up
      (1)     After the dissolution of a partnership, the authority of each partner
 to bind the firm and the other rights and obligations of the partners continue,
 despite the dissolution, so far as necessary to wind up the affairs of the firm
 or to complete transactions started but unfinished at the time the partnership
 is dissolved, but not otherwise.
      (2)     If a person (A) who was a partner in the firm becomes
-bankrupt, or executes a personal insolvency agreement under the Bankruptcy Act 1966 
+bankrupt, or executes a personal insolvency agreement under the Bankruptcy Act 1966
  (Cwlth), subsection (1) does not make another person
             (B) who was a partner in the firm liable for A's
 acts.
      (3)     However, B is liable for A's acts if, after A became bankrupt or
 executed the personal insolvency agreement, B represented, or knowingly allowed
 a representation to be made, that A was their partner.
-
-PARTNERSHIP ACT 1963
-Section 45
-Rights of partners to application of partnership property 
+Section 45 Rights of partners to application of partnership property
      (1)     On the dissolution of partnership, every partner in the firm is
 entitled, as against the other partners in the firm and all persons claiming
 through those other partners in respect of their interests as
@@ -830,12 +786,7 @@ be due from that partner as a partner in the firm.
 partner in a firm, or the partner's legal personal representatives, may,
 on the termination of the partnership, apply to the Supreme Court to wind up the
 business and affairs of the firm.
-
-PARTNERSHIP ACT 1963
-Section 46
-Apportionment of premium when partnership prematurely dissolved 
-Where one partner has paid a premium to another on entering into
-partnership for a fixed term and the partnership is dissolved before the
+Section 46 Apportionment of premium when partnership prematurely dissolved Where one partner has paid a premium to another on entering into partnership for a fixed term and the partnership is dissolved before the
 expiration of that term otherwise than by the death of a partner, the Supreme
 Court may order the repayment of the premium or of such part of the premium as
 it thinks just having regard to the terms of the partnership agreement and to
@@ -845,12 +796,7 @@ unless--
 chiefly due to the misconduct of the partner who paid the premium; or
          (b)     the partnership has been dissolved by an agreement containing no
 provision for a return of the premium or any part of the premium.
-
-PARTNERSHIP ACT 1963
-Section 47
-Rights where partnership dissolved for fraud or misrepresentation 
-Where the partnership agreement is rescinded on the ground of the fraud or
-misrepresentation of one of the parties to the agreement, the party entitled to
+Section 47 Rights where partnership dissolved for fraud or misrepresentation Where the partnership agreement is rescinded on the ground of the fraud or misrepresentation of one of the parties to the agreement, the party entitled to
 rescind is, without prejudice to any other right, entitled--
          (a)     to a lien on, or right of retention of, the surplus of the partnership
 property of the firm after satisfying the liabilities of the firm for any sum of
@@ -860,11 +806,7 @@ any capital contributed by the party; and
 made by the party in respect of the liabilities of the firm; and
          (c)     to be indemnified by the person guilty of the fraud or making the
 representation against all the debts and liabilities of the firm.
-
-PARTNERSHIP ACT 1963
-Section 48
-Right of outgoing partner in certain cases to share profits made after 
-dissolution
+Section 48 Right of outgoing partner in certain cases to share profits made after dissolution
      (1)     Subject to subsection (2), where--
          (a)     a member of a firm has died or otherwise ceased to be a partner in the
 firm; and
@@ -887,19 +829,11 @@ partner, as the case may be, is not entitled to any further or other share of
 the profits of the firm, but, if a partner in the firm assuming to act in
 exercise of the option does not in all material respects comply with the terms
 of the option, that partner is liable to account under subsection (1).
-
-PARTNERSHIP ACT 1963
-Section 49
-Retiring or deceased partner's share to be debt 
-Subject to any agreement between the partners, the amount due from the
-surviving or continuing partners to an outgoing partner, or the legal personal
+Section 49 Retiring or deceased partner's share to be debt Subject to any agreement between the partners, the amount due from the surviving or continuing partners to an outgoing partner, or the legal personal
 representatives of a deceased partner, in respect of the outgoing or deceased
 partner's share in the partnership, is a debt accruing at the date of the
 dissolution or death.
-
-PARTNERSHIP ACT 1963
-Section 50
-Rules for distribution of assets on final settlement of accounts 
+Section 50 Rules for distribution of assets on final settlement of accounts
      (1)     In settling accounts between the partners in a firm after dissolution
 of partnership, this section applies subject to an agreement to the
 contrary.
@@ -920,12 +854,7 @@ firm to the partner in respect of capital;
          (d)     in dividing the ultimate residue (if any) among the partners in the
 firm in the proportions in which the profits of the firm were
 divisible.
-
-PARTNERSHIP ACT 1963
-Section 51
-Definitions for pt 6 
-In this part:
-"external partnership" means a partnership (or legal entity,
+Section 51 Definitions for pt 6 In this part: "external partnership" means a partnership (or legal entity,
 however described, in the nature of a partnership) formed under the law of a
 State, another Territory, foreign country or another jurisdiction, whether or
 not under the law--
@@ -962,10 +891,7 @@ of incorporated limited partnership).
 "special resolution", of limited partners in an incorporated
 limited partnership, means a resolution that has been passed by at least 75% of
 the limited partners.
-
-PARTNERSHIP ACT 1963
-Section 52
-Application of other provisions of this Act  
+Section 52 Application of other provisions of this Act
      (1)     Parts 1 to 4 apply to incorporated limited partnerships, except as
 provided under those parts or this part.
      (2)     If a provision made under this part is inconsistent with a provision
@@ -974,16 +900,8 @@ partnerships--
          (a)     the provision made under this part prevails; and
          (b)     the other provision does not, to the extent of the inconsistency, have
 effect in relation to incorporated limited partnerships.
-
-PARTNERSHIP ACT 1963
-Section 53
-Incorporated limited partnership formed on registration  
-An incorporated limited partnership is formed on registration under this
-part.
-
-PARTNERSHIP ACT 1963
-Section 54
-Incorporated limited partnership is separate legal entity  
+Section 53 Incorporated limited partnership formed on registration An incorporated limited partnership is formed on registration under this part.
+Section 54 Incorporated limited partnership is separate legal entity
      (1)     An incorporated limited partnership--
          (a)     is a corporation with legal personality separate from its partners and
 with perpetual succession; and
@@ -994,10 +912,7 @@ partnership--
          (a)     must be kept as the partnership directs; and
          (b)     may only be used if the use is authorised by the
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 55
-Partners in incorporated limited partnership  
+Section 55 Partners in incorporated limited partnership
      (1)     An incorporated limited partnership must have--
          (a)     at least 1 general partner but no more than 20 general partners;
 and
@@ -1016,10 +931,7 @@ partner in that partnership has, under the law of the place where the
 partnership is formed, limited liability for the liabilities of the
 partnership--only the number of partners in that partnership whose
 liability is not limited is counted.
-
-PARTNERSHIP ACT 1963
-Section 56
-Partnership agreement  
+Section 56 Partnership agreement
      (1)     There must at all times be a written partnership agreement between the
 partners in an incorporated limited partnership.
      (2)     The interests of the partners in an incorporated limited partnership
@@ -1031,10 +943,7 @@ and each partner agree to comply with and perform the agreement so far as it
 applies to them.
      (4)     Subsection (3) does not prevent an incorporated limited partnership
 itself signing a partnership agreement.
-
-PARTNERSHIP ACT 1963
-Section 57
-Who may apply for registration 
+Section 57 Who may apply for registration
      (1)     An application for registration as an incorporated limited partnership
 may be made, in the circumstances mentioned in subsection (2),
 by--
@@ -1043,7 +952,7 @@ by--
 proposing to be the partners in the proposed incorporated limited
 partnership.
      (2)     The circumstances are--
-         (a)     that the partnership is registered under the Venture Capital Act 2002 
+         (a)     that the partnership is registered under the Venture Capital Act 2002
  (Cwlth), part 2 (Registration of limited partnerships) as a VCLP, ESVCLP
 or AFOF; or
 Note     VCLP is a venture capital limited partnership, an ESVCLP is an
@@ -1052,21 +961,18 @@ venture capital fund of funds.
          (b)     that a general partner in the partnership, or a proposed general
 partner in the proposed incorporated limited partnership, intends to apply for
 registration of the incorporated limited partnership, or proposed partnership,
-under the Venture Capital Act 2002 
+under the Venture Capital Act 2002
  (Cwlth), part 2 as a VCLP, ESVCLP or AFOF; or
          (c)     that the partnership is a venture capital management partnership under
-the Income Tax Assessment Act 1936 
+the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3) (Corporate limited partnerships); or
          (d)     that the partners in the partnership, or the proposed partners in the
 proposed incorporated limited partnership, intend that the partnership, or
-proposed partnership, intends to meet the requirements set out in Income Tax Assessment Act 1936 
+proposed partnership, intends to meet the requirements set out in Income Tax Assessment Act 1936
  (Cwlth), section 94D (3) for recognition as a venture capital management
 partnership; or
          (e)     any other circumstances prescribed under the regulations.
-
-PARTNERSHIP ACT 1963
-Section 58
-Application for registration  
+Section 58 Application for registration
      (1)     An application for registration as an incorporated limited partnership
 must be made to the commissioner for fair trading.
      (2)     The application must be signed--
@@ -1107,31 +1013,28 @@ be, a general partner or limited partner; and
          (f)     for each partner or proposed partner that is a partnership (including
 an external partnership)--state that the partner or proposed partner is a
 partnership; and
-         (g)     for an application by a partnership that is registered under the Venture Capital Act 2002 
+         (g)     for an application by a partnership that is registered under the Venture Capital Act 2002
  (Cwlth), part 2 (Registration of limited partnerships) as a VCLP, ESVCLP
 or AFOF--be accompanied by a copy of a document proving its status as a
 VCLP, ESVCLP or AFOF; and
          (h)     for an application by people or partnerships (including external
 partnerships) proposing to be partners in a partnership that intends to apply
-for registration under the Venture Capital Act 2002 
+for registration under the Venture Capital Act 2002
  (Cwlth), part 2 as a VCLP, ESVCLP or AFOF--state that it intends to
 apply; and
                (i)     for an application by a partnership that is a venture capital
-management partnership under the Income Tax Assessment Act 1936 
+management partnership under the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3) (Corporate limited partnerships)--state that
 it is that partnership; and
          (j)     for an application by people or partnerships (including external
 partnerships) proposing to be a partnership that intends to meet the
 requirements for recognition as a venture capital management partnership under
-the Income Tax Assessment Act 1936 
+the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3)--state that it intends to meet the
 requirements; and
          (k)     include any other information prescribed under the
 regulations.
-
-PARTNERSHIP ACT 1963
-Section 59
-Registration of incorporated limited partnership 
+Section 59 Registration of incorporated limited partnership
      (1)     If an application for registration of an incorporated limited
 partnership is properly made under this division, the commissioner must register
 the incorporated limited partnership.
@@ -1140,15 +1043,12 @@ name of the partnership recorded in the register (see s 51, def firm
 name).
      (2)     The commissioner for fair trading must not record a name in the
 register as the firm name of an incorporated limited partnership if the name is
-registered as a business name under the Business Names Registration Act 2011 
+registered as a business name under the Business Names Registration Act 2011
  (Cwlth).
      (3)     An incorporated limited partnership is registered by recording in the
 register the information in the application under section 58 for its
 registration (the registered information).
-
-PARTNERSHIP ACT 1963
-Section 60
-Register of incorporated limited partnerships 
+Section 60 Register of incorporated limited partnerships
      (1)     The commissioner for fair trading must keep a register (the
 register) of incorporated limited partnerships registered under
 this part.
@@ -1163,10 +1063,7 @@ by--
          (c)     omitting an entry.
      (5)     The commissioner may omit an entry in the register only if satisfied
 that the whole of the entry was included in error.
-
-PARTNERSHIP ACT 1963
-Section 61
-Changes in registered information 
+Section 61 Changes in registered information
      (1)     If any of the registered information changes, a statement setting out
 the changes must be given to the commissioner for fair trading within 7 days
 after the day the change happens.
@@ -1187,10 +1084,7 @@ with subsection (5) if the general partner proves that--
 exercised to avoid the failure.
      (7)     An offence against subsection (5) is a strict liability
 offence.
-
-PARTNERSHIP ACT 1963
-Section 62
-Certificates of registration etc 
+Section 62 Certificates of registration etc
      (1)     The commissioner for fair trading must give the general partners in an
 incorporated limited partnership a certificate about its formation and the
 registered information when--
@@ -1218,27 +1112,14 @@ time; and
          (d)     about any other information in the register about an incorporated
 limited partnership as at a stated time is (unless the contrary is proven)
 conclusive evidence of that information as at that time.
-
-PARTNERSHIP ACT 1963
-Section 63
-Business Names Registration Act (Cwlth) not to apply 
-An incorporated limited partnership registered under this part is an
-excluded matter for the purposes of the Business Names Registration Act 2011 
+Section 63 Business Names Registration Act (Cwlth) not to apply An incorporated limited partnership registered under this part is an excluded matter for the purposes of the Business Names Registration Act 2011
  (Cwlth), section 13 in relation to that Act and the Business Names Registration (Transitional and Consequential Provisions) Act 2011
  (Cwlth).
-
-PARTNERSHIP ACT 1963
-Section 64
-Acts preparatory to registration do not create partnership  
-Anything done in relation to the making of an application for registration
-under this part by or on behalf of people or partnerships (including external
+Section 64 Acts preparatory to registration do not create partnership Anything done in relation to the making of an application for registration under this part by or on behalf of people or partnerships (including external
 partnerships) proposing to be the partners in a proposed incorporated limited
 partnership does not of itself create a partnership between the people or
 partnerships.
-
-PARTNERSHIP ACT 1963
-Section 65
-Powers of partnership 
+Section 65 Powers of partnership
      (1)     An incorporated limited partnership has the legal capacity and powers
 of an individual and also all the powers of a corporation, including, for
 example, power (whether within or outside the ACT or outside Australia)
@@ -1260,10 +1141,7 @@ profits; and
 partnership agreement.
      (2)     The powers of an incorporated limited partnership may be limited by
 the partnership agreement.
-
-PARTNERSHIP ACT 1963
-Section 66
-Relationship of partners to others and between themselves  
+Section 66 Relationship of partners to others and between themselves
      (1)     Except as otherwise provided by the partnership agreement or agreed
 between the partners in an incorporated limited partnership--
          (a)     a general partner, the partnership, or an officer, employee, agent or
@@ -1303,10 +1181,7 @@ part in incorporated limited partnership's management).
      (7)     In subsection (1):
 "general partner" includes, if the general partner is a
 partnership or an external partnership, a partner in that partnership.
-
-PARTNERSHIP ACT 1963
-Section 67
-Limitation of liability of limited partners  
+Section 67 Limitation of liability of limited partners
      (1)     A limited partner has no liability for the liabilities of the
 incorporated limited partnership or a general partner.
      (2)     Subsection (1), section 73 (Liability for conduct, acts or omissions
@@ -1320,11 +1195,7 @@ to the incorporated limited partnership being enforced by anyone to whom the
 obligation is owed in satisfaction of a liability of the partnership or a
 general partner.
      (3)     This section is subject to section 68.
-
-PARTNERSHIP ACT 1963
-Section 68
-Limited partner not to take part in incorporated limited partnership's management 
-
+Section 68 Limited partner not to take part in incorporated limited partnership's management
      (1)     A limited partner in an incorporated limited partnership must not take
 part in the management of the incorporated limited partnership's
 business.
@@ -1389,7 +1260,7 @@ partnership; or
 on, or has or exercises any right to appoint 1 or more people to, remove 1 or
 more people from, or to nominate 1 or more people for appointment to or removal
 from, a committee that considers, approves of, consents to or disapproves of any
-1 or more of the following proposals from a general partner:
+Section 1 or more of the following proposals from a general partner:
                (i)     a proposal involving a material change in the nature of the
 partnership's business (including a change in, or departure from, any
 investment guidelines, policies or conditions relating to the
@@ -1409,7 +1280,7 @@ arrangement or understanding between 1 or more of the partners, or their
 associates, and the general partner, the partnership or any associate of the
 general partner or of the partnership;
                (vi)     a proposal for the delegation, waiver, release or variation of an
-authority, right, duty or obligation of the general partner; 
+authority, right, duty or obligation of the general partner;
                (vii)     a proposal for the appointment or approval under the partnership
 agreement of anyone as a senior executive of the general partner or an associate
 of the general partner; or
@@ -1422,7 +1293,7 @@ general partner; or
          (k)     takes any action, or participates in any action taken by any other
 limited partner, for the purpose of registering or maintaining the registration
 of the partnership or a general partner in the partnership as a VCLP, ESVCLP or
-AFOF under the Venture Capital Act 2002 
+AFOF under the Venture Capital Act 2002
  (Cwlth), part 2 (Registration of limited partnerships).
      (5)     A limited partner in an incorporated limited partnership or a person
 authorised by the limited partner may, if and to the extent the partner or
@@ -1443,16 +1314,13 @@ management of the partnership's business only because the limited partner
 or a person acting on behalf of the partner does any thing in relation to the
 conduct of that business that is not mentioned in that subsection.
      (8)     For this section, a limited partner in an incorporated limited
-partnership that is a venture capital management partnership under the Income Tax Assessment Act 1936 
+partnership that is a venture capital management partnership under the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3) (Corporate limited partnerships) is not to be
 regarded as taking part in the management of the partnership's business
 only because of any act the limited partner takes in relation to the
 incorporated limited partnership in the capacity of a partner or associate of a
 partner in the venture capital management partnership.
-
-PARTNERSHIP ACT 1963
-Section 69
-Interpretation for s 68  
+Section 69 Interpretation for s 68
      (1)     In section 68:
 "associate"--
          (a)     of a general partner, includes--
@@ -1498,25 +1366,19 @@ corporation.
 "general partner", in an incorporated limited partnership,
 includes, if the general partner is a partnership (including an external
 partnership), a partner in that partnership.
-"related body corporate--"see the Corporations Act 
+"related body corporate--"see the Corporations Act
 , section 9 (Dictionary).
-"securities"--see the Corporations Act 
+"securities"--see the Corporations Act
 , section 92 (3) (Securities).
 "security holder", in relation to a body, includes a holder of
 securities in or of the body.
-
-PARTNERSHIP ACT 1963
-Section 70
-Differences between partners  
+Section 70 Differences between partners
      (1)     A difference arising about ordinary matters connected with an
 incorporated limited partnership's business may be decided by a majority
 of the general partners.
      (2)     The operation of this section may be varied with the partners'
 consent.
-
-PARTNERSHIP ACT 1963
-Section 71
-Change in partners  
+Section 71 Change in partners
      (1)     A limited partner in an incorporated limited partnership may, with the
 general partners' consent and the transferee's agreement, transfer
 all or part of the limited partner's interest in the
@@ -1541,10 +1403,7 @@ part.
 partnership without the consent of any limited partner.
      (6)     The operation of this section may be varied with the partners'
 consent.
-
-PARTNERSHIP ACT 1963
-Section 72
-Change in status of partners  
+Section 72 Change in status of partners
      (1)     If a general partner becomes a limited partner, the partner remains
 liable for any liability of the incorporated limited partnership that arose
 before the partner became a limited partner to the extent that the partnership
@@ -1558,12 +1417,7 @@ Note     Section 68 (2) and (3) imposes liability in certain
 circumstances on a limited partner who takes part in the management of the
 business of the incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 73
-Liability for conduct, acts or omissions outside the ACT 
-A limited partner in an incorporated limited partnership may only be liable
-for a liability incurred by the partnership because of either of the following
+Section 73 Liability for conduct, acts or omissions outside the ACT A limited partner in an incorporated limited partnership may only be liable for a liability incurred by the partnership because of either of the following
 in circumstances where the limited partner would be liable if the conduct or
 acts happened in the ACT:
          (a)     the conduct of the partnership's business outside the
@@ -1575,10 +1429,7 @@ Note     Section 68 (2) and (3) imposes liability in certain
 circumstances on a limited partner who takes part in the management of the
 business of the incorporated limited
 partnership.
-
-PARTNERSHIP ACT 1963
-Section 74
-Incorporated limited partnerships formed under corresponding laws 
+Section 74 Incorporated limited partnerships formed under corresponding laws
      (1)     A partner in a recognised incorporated limited partnership is liable
 for a liability incurred by the partnership as a result of either of the
 following, only in circumstances where the partner would be liable under the
@@ -1620,27 +1471,14 @@ relating to incorporated limited partnerships; or
 part.
 "recognised incorporated limited partnership" means a
 partnership formed in accordance with a corresponding law.
-
-PARTNERSHIP ACT 1963
-Section 75
-Effect of s 73 and s 74 
-Section 73 or section 74 does not imply that a limited partner has any
-liability (or apart from that section would have any liability) in connection
+Section 75 Effect of s 73 and s 74 Section 73 or section 74 does not imply that a limited partner has any liability (or apart from that section would have any liability) in connection
 with the conduct of a partnership's business, or acts or omissions outside
 the ACT, that the limited partner would not have in connection with the conduct
 of a partnership's business or acts or omissions in the ACT.
-
-PARTNERSHIP ACT 1963
-Section 76
-Meaning of assets for div 6.6  
-In this division:
-"assets", of an incorporated limited partnership, means the
+Section 76 Meaning of assets for div 6.6 In this division: "assets", of an incorporated limited partnership, means the
 assets remaining after satisfaction of the partnership's liabilities and
 the costs, charges and expenses of the winding-up.
-
-PARTNERSHIP ACT 1963
-Section 77
-Voluntary winding-up 
+Section 77 Voluntary winding-up
      (1)     An incorporated limited partnership may be wound up
 voluntarily--
          (a)     if the partnership agreement sets out the terms on which the
@@ -1662,10 +1500,7 @@ Court.
      (4)     On an application under subsection (3), the Supreme Court may make any
 order relating to the disposal of the assets that it considers
 appropriate.
-
-PARTNERSHIP ACT 1963
-Section 78
-Winding-up on commissioner's certificate  
+Section 78 Winding-up on commissioner's certificate
      (1)     The commissioner for fair trading may, by written notice given to an
 incorporated limited partnership, require the partnership to show good cause why
 it should not be required to be wound up if the commissioner considers
@@ -1675,9 +1510,9 @@ that--
 intended to be either of the following, the partnership has stopped being, or
 has not within the period of 2 years after its incorporation become, either of
 the following:
-               (i)     registered as a VCLP, ESVCLP or AFOF under the Venture Capital Act 2002 
+               (i)     registered as a VCLP, ESVCLP or AFOF under the Venture Capital Act 2002
  (Cwlth), part 2 (Registration of limited partnerships);
-               (ii)     a venture capital management partnership under the Income Tax Assessment Act 1936 
+               (ii)     a venture capital management partnership under the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3) (Corporate limited partnerships); or
          (c)     none of the partners is a limited partner; or
          (d)     incorporation of the partnership has been obtained by mistake or
@@ -1707,10 +1542,7 @@ registered office; or
 Note     Public notice means notice on an ACT government website
 or in a daily newspaper circulating in the ACT (see Legislation Act
 , dict, pt 1).
-
-PARTNERSHIP ACT 1963
-Section 79
-Review of certificate  
+Section 79 Review of certificate
      (1)     A person whose interests are affected by a decision of the
 commissioner for fair trading to issue a certificate under
 section 78 (2) may apply to the Supreme Court for review of the
@@ -1727,10 +1559,7 @@ certificate.
      (5)     This section does not prevent the commissioner for fair trading
 cancelling a certificate under section 78 (2) at any time after an application
 is made under subsection (1).
-
-PARTNERSHIP ACT 1963
-Section 80
-Procedure for winding-up on certificate  
+Section 80 Procedure for winding-up on certificate
      (1)     This section applies if a certificate is issued under section 78 (2)
 in relation to an incorporated limited partnership.
      (2)     The winding-up of the incorporated limited
@@ -1748,7 +1577,7 @@ day the notice is given.
 may appoint a person to be the liquidator of the incorporated limited
 partnership.
      (4)     The liquidator may be a general partner in the incorporated limited
-partnership and need not be a registered liquidator under the Corporations Act 
+partnership and need not be a registered liquidator under the Corporations Act
 .
      (5)     Within 10 days after the day the liquidator is appointed, the
 liquidator must give public notice of the liquidator's
@@ -1763,11 +1592,7 @@ commissioner for fair trading.
 trading must appoint a person to fill the position.
      (8)     The reasonable costs of the winding-up are payable out of the property
 of the incorporated limited partnership.
-
-PARTNERSHIP ACT 1963
-Section 81
-Distribution of assets on winding-up required on commissioner's certificate 
-
+Section 81 Distribution of assets on winding-up required on commissioner's certificate
      (1)     On the winding-up of an incorporated limited partnership under section
 80--
          (a)     if the partnership agreement sets out how the assets are to be dealt
@@ -1782,21 +1607,18 @@ Court.
      (3)     On an application under subsection (2), the Supreme Court may make any
 order relating to the disposal of the assets that it considers
 appropriate.
-
-PARTNERSHIP ACT 1963
-Section 82
-Displacement and application of Corporations legislation etc 
+Section 82 Displacement and application of Corporations legislation etc
      (1)     The winding-up of an incorporated limited partnership is declared to
-be an excluded matter for the purposes of the Corporations Act 
-, section 5F in relation to the Corporations Act 
+be an excluded matter for the purposes of the Corporations Act
+, section 5F in relation to the Corporations Act
 , part 5.7 (Winding up bodies other than companies).
-Note     The Corporations Act 
+Note     The Corporations Act
 , s 5F provides that if a State or Territory law declares a matter to be an
 excluded matter for the purposes of that section in relation to all or part of
 the Corporations legislation of the Commonwealth, the provisions that are the
 subject of the declaration will not apply in relation to that matter in the
 State or Territory that made the declaration.
-     (2)     The Corporations Act 
+     (2)     The Corporations Act
 , part 5.7 applies to an incorporated limited partnership as if the
 partnership were a Part 5.7 body, subject to the following changes:
          (a)     as if the words 'or in the public interest' were inserted
@@ -1808,21 +1630,18 @@ equitable';
      (3)     The Australian Securities and Investments Commission may exercise a
 function given to it under part 5.7 as changed under subsection
 (2)--
-         (a)     under an agreement or arrangement of the kind mentioned in the Australian Securities and Investments Commission Act 2001 
+         (a)     under an agreement or arrangement of the kind mentioned in the Australian Securities and Investments Commission Act 2001
  (Cwlth), section 11 (8) or (9A) (b); and
-         (b)     the commission is authorised to exercise that function under that Act 
+         (b)     the commission is authorised to exercise that function under that Act
 , section 11.
      (4)     Unless a function under part 5.7 as changed under subsection (2) is
 given to the Australian Securities and Investments Commission as mentioned in
 subsection (3), that part applies as if a reference in it to the commission were
 a reference to the commissioner for fair trading.
      (5)     In this section:
-Part 5.7 body--see the Corporations Act 
+Part 5.7 body--see the Corporations Act
 , section 9.
-
-PARTNERSHIP ACT 1963
-Section 83
-Commissioner to be told about winding-up  
+Section 83 Commissioner to be told about winding-up
      (1)     An incorporated limited partnership must give the commissioner for
 fair trading written notice of the beginning of the winding-up of the
 partnership within 7 days after--
@@ -1846,10 +1665,7 @@ with subsection (4) if the general partner proves that--
 exercised to avoid the failure.
      (6)     An offence against subsection (4) is a strict liability
 offence.
-
-PARTNERSHIP ACT 1963
-Section 84
-Cancellation of incorporation 
+Section 84 Cancellation of incorporation
      (1)     The commissioner for fair trading must, by written notice, cancel the
 incorporation of an incorporated limited partnership as soon as practicable
 after the partnership is wound up.
@@ -1859,10 +1675,7 @@ the notice is notified, record the cancellation of the incorporation in the
 register.
      (4)     An incorporated limited partnership ceases to exist on the
 cancellation of its incorporation under this part.
-
-PARTNERSHIP ACT 1963
-Section 85
-Execution of documents  
+Section 85 Execution of documents
      (1)     An incorporated limited partnership may execute a document (including
 a deed)--
          (a)     without using a common seal (whether it has one or not) if the
@@ -1872,10 +1685,7 @@ executed with the use of a common seal or in accordance with paragraph
         (a).
      (2)     This section does not limit the ways in which an incorporated limited
 partnership may execute a document (including a deed).
-
-PARTNERSHIP ACT 1963
-Section 86
-Entitlement to make assumptions 
+Section 86 Entitlement to make assumptions
      (1)     A person is entitled to make the assumptions in section 87 in relation
 to dealings with an incorporated limited partnership.
      (2)     The incorporated limited partnership is not entitled to assert in a
@@ -1894,10 +1704,7 @@ relation to the dealings.
      (6)     A person is not entitled to make an assumption in section 87 if, at
 the time of the dealings, the person knew or suspected that the assumption was
 incorrect.
-
-PARTNERSHIP ACT 1963
-Section 87
-Assumptions that may be made under s 86  
+Section 87 Assumptions that may be made under s 86
      (1)     A person may assume that the partnership agreement of the incorporated
 limited partnership has been complied with.
      (2)     A person may assume that anyone who appears, from information provided
@@ -1931,10 +1738,7 @@ certified copy of a document on its behalf also has authority to warrant that
 the document is genuine or is a true copy.
      (8)     Without limiting the generality of this section, the assumptions that
 may be made under this section apply for this section.
-
-PARTNERSHIP ACT 1963
-Section 88
-Identification of incorporated limited partnerships 
+Section 88 Identification of incorporated limited partnerships
      (1)     Any document issued on behalf of an incorporated limited partnership
 in relation to the conduct of the partnership's business must contain in
 legible letters the term 'An Incorporated Limited Partnership' (or
@@ -1959,10 +1763,7 @@ offence.
 offer, contract, order for goods or services, invoice, bill of exchange,
 promissory note, cheque, other negotiable instrument, endorsement, letter of
 credit, receipt and statement of account.
-
-PARTNERSHIP ACT 1963
-Section 89
-Display of certificate of registration 
+Section 89 Display of certificate of registration
      (1)     The certificate of registration of an incorporated limited partnership
 must be displayed at all times in a conspicuous position at the registered
 office of the partnership.
@@ -1977,10 +1778,7 @@ with subsection (2) if the general partner proves that--
 exercised to avoid the failure.
      (4)     An offence against subsection (2) is a strict liability
 offence.
-
-PARTNERSHIP ACT 1963
-Section 90
-Registered office 
+Section 90 Registered office
      (1)     An incorporated limited partnership must keep in the ACT (at the place
 shown in the register as the address of the registered office of the
 partnership) an office to which all communications with the partnership may be
@@ -1997,29 +1795,26 @@ with subsection (3) if the general partner proves that--
 exercised to avoid the failure.
      (5)     An offence against subsection (3) is a strict liability
 offence.
-
-PARTNERSHIP ACT 1963
-Section 91
-Certain documents to be given to commissioner 
+Section 91 Certain documents to be given to commissioner
      (1)     An incorporated limited partnership that was incorporated on the basis
 that it intended to apply for registration of the partnership as a VCLP, ESVCLP
-or AFOF under the Venture Capital Act 2002 
+or AFOF under the Venture Capital Act 2002
  (Cwlth), part 2 (Registration of limited partnerships) must, within
-1 month after being registered, give the commissioner for fair trading a
+Section 1 month after being registered, give the commissioner for fair trading a
 copy of a document proving its status as a VCLP, ESVCLP or AFOF.
      (2)     An incorporated limited partnership that was incorporated on the basis
 that it intended to meet the requirements for recognition as a venture capital
-management partnership under the Income Tax Assessment Act 1936 
+management partnership under the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3) (Corporate limited partnerships) must, within 1
 month after becoming that venture capital management partnership, give the
 commissioner for fair trading a statement that it is that venture capital
 management partnership.
      (3)     Subsection (4) applies if--
          (a)     the registration of an incorporated limited partnership as a VCLP,
-ESVCLP or AFOF under the Venture Capital Act 2002 
+ESVCLP or AFOF under the Venture Capital Act 2002
  (Cwlth), part 2 is revoked; or
          (b)     an incorporated limited partnership ceases to be a venture capital
-management partnership under the Income Tax Assessment Act 1936 
+management partnership under the Income Tax Assessment Act 1936
  (Cwlth), section 94D (3).
      (4)     The incorporated limited partnership must, within 7 days after the day
 the revocation took effect or it ceased to be that venture capital management
@@ -2041,10 +1836,7 @@ with subsection (7) if the general partner proves that--
 exercised to avoid the failure.
      (9)     An offence against subsection (7) is a strict liability
 offence.
-
-PARTNERSHIP ACT 1963
-Section 92
-Service on incorporated limited partnership 
+Section 92 Service on incorporated limited partnership
      (1)     A document concerning the business of an incorporated limited
 partnership may be served on the partnership if it is left at, or sent by post
 addressed to, the partnership's registered office shown in the
@@ -2056,18 +1848,10 @@ Note     For how documents may be served, see Legislation Act
 limited partnership; and
          (b)     does not apply to a document relating to a proceeding before a
 court.
-
-PARTNERSHIP ACT 1963
-Section 93
-Entry in register constitutes notice 
-An entry in the register of information about an incorporated limited
-partnership, including an entry stating the effect of any notice received by the
+Section 93 Entry in register constitutes notice An entry in the register of information about an incorporated limited partnership, including an entry stating the effect of any notice received by the
 commissioner for fair trading, is sufficient notice of the information, or of
 the effect of the notice, to all people who deal with the partnership.
-
-PARTNERSHIP ACT 1963
-Section 94
-Duty to give information  
+Section 94 Duty to give information
      (1)     For monitoring compliance with this part, the commissioner for fair
 trading may, by written notice given to an incorporated limited partnership,
 require the partnership to give the commissioner the information mentioned in
@@ -2088,15 +1872,12 @@ exercised to avoid the failure.
 subsection (3) if the defendant proves that it was not within the power of
 the incorporated limited partnership to give the information to the commissioner
 for fair trading.
-Note     The Legislation Act 
+Note     The Legislation Act
 , s 170 and s 171 deal with the application of the privilege against
 self-incrimination and client legal privilege.
      (6)     An offence against subsection (3) is a strict liability
 offence.
-
-PARTNERSHIP ACT 1963
-Section 95
-Secrecy
+Section 95 Secrecy
      (1)     In this section:
 "court" includes a tribunal or other entity with power to
 require the production of documents or the answering of questions.
@@ -2128,12 +1909,7 @@ or
 protected information to a court, or produce a document containing protected
 information to a court, unless it is necessary to do so for this Act or another
 territory law.
-
-PARTNERSHIP ACT 1963
-Section 96
-Offences by partnerships  
-If this part provides that a general partner in an incorporated limited
-partnership commits an offence, and the general partner is a partnership
+Section 96 Offences by partnerships If this part provides that a general partner in an incorporated limited partnership commits an offence, and the general partner is a partnership
 (whether or not an external partnership), the reference to the general partner
 is a reference to--
          (a)     each partner in the partnership (or external partnership);
@@ -2142,55 +1918,36 @@ or
 any partner has under the law of the place where it is formed limited liability
 for the liabilities of the partnership--each partner in the partnership
 whose liability is not limited.
-
-PARTNERSHIP ACT 1963
-Section 97
-Delegation by commissioner 
-The commissioner for fair trading may delegate the commissioner's
-functions under this part to a public servant.
+Section 97 Delegation by commissioner The commissioner for fair trading may delegate the commissioner's functions under this part to a public servant.
 Note     For the making of delegations and the exercise of delegated
-functions, see Legislation Act 
+functions, see Legislation Act
 , pt 19.4.
-
-PARTNERSHIP ACT 1963
-Section 98
-Relationship with Corporations legislation  
-The regulations may declare a matter that is dealt with by this Act to be
-an excluded matter for the Corporations Act 
+Section 98 Relationship with Corporations legislation The regulations may declare a matter that is dealt with by this Act to be an excluded matter for the Corporations Act
 , section 5F (Corporations legislation does not apply to matters declared
 by State or Territory law to be an excluded matter) in relation
 to--
-         (a)     the whole of the Corporations legislation to which the Corporations Act 
+         (a)     the whole of the Corporations legislation to which the Corporations Act
 , part 1.1A (Interaction between Corporations Legislation and State and
 Territory laws) applies; or
          (b)     a stated provision of that legislation; or
          (c)     that legislation other than a stated provision; or
          (d)     that legislation otherwise than to a stated extent.
-Note     Section 5F of the Corporations Act 
+Note     Section 5F of the Corporations Act
  provides that if a State or Territory law declares a matter to be an
 excluded matter for the purposes of that section in relation to all or part of
 the Corporations legislation of the Commonwealth, then the provisions that are
 the subject of the declaration will not apply in relation to that matter in the
 State or Territory that made the declaration.
-
-PARTNERSHIP ACT 1963
-Section 99
-Determination of fees 
+Section 99 Determination of fees
      (1)     The Minister may, in writing, determine fees for this Act.
      (2)     A determination is a disallowable instrument.
-
-PARTNERSHIP ACT 1963
-Section 100
-Approved forms 
+Section 100 Approved forms
      (1)     The commissioner for fair trading may, in writing, approve forms for
 this Act.
      (2)     If the commissioner approves a form for a particular purpose, the
 approved form must be used for that purpose.
      (3)     An approved form is a notifiable instrument.
-
-PARTNERSHIP ACT 1963
-Section 101
-Regulation-making power 
+Section 101 Regulation-making power
      (1)     The Executive may make regulations for this Act.
      (2)     A regulation may deal with the following:
          (a)     the keeping of records by an incorporated limited
@@ -2203,25 +1960,21 @@ matter or thing from this Act.
      (4)     A regulation may make provision about a matter by applying, adopting
 or incorporating (with or without change) a standard, or a provision of a
 standard, as in force from time to time.
-     (5)     The Legislation Act 
+     (5)     The Legislation Act
 , section 47 (6) does not apply in relation to an Australian Standard, or
 an Australian/New Zealand Standard, applied, adopted or incorporated under a
 regulation.
      (6)     A regulation may prescribe--
-         (a)     offences for contraventions of a regulation; and 
+         (a)     offences for contraventions of a regulation; and
          (b)     maximum penalties of not more than 10 penalty units for offences
 against a regulation.
-
 PARTNERSHIP ACT 1963
 - NOTES Dictionary
-
 Dictionary
 (see s 2)
-Note 1     The Legislation Act 
-
+Note 1     The Legislation Act
  contains definitions and other provisions relevant to this Act.
 Note 2     For example, the Legislation Act
-
 , dict, pt 1, defines the following terms:
                o      ACT
                o      commissioner for fair trading
@@ -2258,9 +2011,7 @@ partnerships)--see section 51.
 "limited partner", for part 6 (Incorporated limited
 partnerships)--see section 51.
 "partner", for an incorporated limited partnership--see
-section 51.
-"partnership--"see section 6.
-"partnership property--"
+Section 51. "partnership--"see section 6. "partnership property--"
          (a)     of a firm other than an incorporated limited partnership--see
 section 24; and
          (b)     of an incorporated limited partnership--see section
@@ -2272,12 +2023,10 @@ partnerships)--see section 59 (4) (Registration of incorporated limited
 partnership).
 "special resolution", for part 6 (Incorporated limited
 partnerships)--see section 51.
-
 PARTNERSHIP ACT 1963
 - NOTES Endnotes
-
 Endnotes
-1     About
+Section 1 About
 the endnotes
 Amending and modifying laws are annotated in the legislation history and
 the amendment history.  Current modifications are not included in the
@@ -2291,106 +2040,57 @@ details of these laws are underlined in the legislation history.  Uncommenced
 expiries are underlined in the legislation history and amendment
 history.
 If all the provisions of the law have been renumbered, a table of
-renumbered provisions gives details of previous and current numbering. 
-
+renumbered provisions gives details of previous and current numbering.
 The endnotes also include a table of earlier republications.
-2     Abbreviation
+Section 2 Abbreviation
 key
-
-      
-      
-
 A = Act
-
 NI = Notifiable instrument
-
 AF = Approved form
-
 o = order
-
 am = amended
-
 om = omitted/repealed
-
 amdt = amendment
-
 ord = ordinance
-
 AR = Assembly resolution
-
 orig = original
-
 ch = chapter
-
 par = paragraph/subparagraph
-
 CN = Commencement notice
-
 pres = present
-
 def = definition
-
 prev = previous
-
 DI = Disallowable instrument
-
 (prev...) = previously
-
 dict = dictionary
-
 pt = part
-
 disallowed = disallowed by the Legislative
-
 r = rule/subrule
-
 Assembly
-
 reloc = relocated
-
 div = division
-
 renum = renumbered
-
 exp = expires/expired
-
 R[X] = Republication No
-
 Gaz = gazette
-
 RI = reissue
-
 hdg = heading
-
 s = section/subsection
-
 IA = Interpretation Act 1967
-
 sch = schedule
-
 ins = inserted/added
-
 sdiv = subdivision
-
 LA = Legislation Act 2001
-
 SL = Subordinate law
-
 LR = legislation register
-
 sub = substituted
-
 LRA = Legislation (Republication) Act
 1996
-
 underlining = whole or part not
 commenced
-
 mod = modified/modification
-
 or to be expired
-
-3     Legislation
+Section 3 Legislation
 history
 This Act was originally a Commonwealth ordinance--the Partnership Ordinance 1963
  No 5 (Cwlth).
@@ -2400,22 +2100,22 @@ ordinances in force in the ACT into ACT enactments. This allowed the ACT
 Legislative Assembly to amend and repeal the laws. This Act was converted into
 an ACT enactment on 11 May 1989 (self-government day).
 As with most ordinances in force in the ACT, the name was changed from
-Ordinance to Act by the Self-Government (Citation of Laws) Act 1989 
+Ordinance to Act by the Self-Government (Citation of Laws) Act 1989
  A1989-21, s 5 on 11 May 1989 (self-government day).
 Before 11 May 1989, ordinances commenced on their notification day unless
 otherwise stated (see Seat of Government (Administration) Act 1910
  (Cwlth), s 12).
      Legislation before
 self-government
-Partnership Act 1963 A1963-5 
+Partnership Act 1963 A1963-5
 notified 4 April 1963
 commenced 4 April 1963
 Ordinances Revision (Decimal Currency) Ordinance 1966
- Ord1966-19 
+ Ord1966-19
 notified 23 December 1966
 commenced 23 December 1966
-Ordinances Revision Ordinance 1977 
- Ord1977-65 
+Ordinances Revision Ordinance 1977
+ Ord1977-65
 notified 22 December 1977
 commenced 23 December 1977
      Legislation after
@@ -2434,16 +2134,16 @@ No S65)
 Partnership (Venture Capital Funds) Amendment Act 2004
  A2004-62
 notified LR 2 September
-2004s 1, s 2 commenced 2 September 2004 (LA s 75
+Section 2004s 1, s 2 commenced 2 September 2004 (LA s 75
 (1))
-remainder commenced 22 November 2004 (s 2 and CN2004-27 
+remainder commenced 22 November 2004 (s 2 and CN2004-27
 )
 Justice and Community Safety Legislation Amendment Act 2005 (No 3)
  A2005-43 sch 1 pt 1.8
 notified LR 30 August
-2005s 1, s 2 commenced 30 August 2005 (LA s 75
+Section 2005s 1, s 2 commenced 30 August 2005 (LA s 75
 (1))sch 1 pt 1.8 commenced 1 October 2005 (s 2 (3)
-and CN2005-18 
+and CN2005-18
 )
 Justice and Community Safety Legislation Amendment Act 2006
  A2006-40 sch 2 pt 2.26
@@ -2459,7 +2159,7 @@ s 1, s 2 commenced 8 July 2008 (LA s 75
 (1))
 sch 1 pt 1.8 commenced 29 July 2008 (s
 2)
-Statute Law Amendment Act 2009 
+Statute Law Amendment Act 2009
  A2009-20 sch 3 pt 3.56
 notified LR 1 September 2009
 s 1, s 2 commenced 1 September 2009 (LA s 75
@@ -2473,7 +2173,7 @@ notified LR 22 November 2011
 s 1, s 2 commenced 22 November 2011 (LA s 75
 (1))
 sch 1 pt 1.29 commenced 1 March 2012 (s 2 (1) and see Evidence Act 2011
- A2011-12, s 2 and CN2012-4 
+ A2011-12, s 2 and CN2012-4
 )
 Business Names Registration (Transition to Commonwealth) Act 2012
  A2012-2 sch 2 pt 2.5
@@ -2490,627 +2190,577 @@ s 1, s 2 commenced 30 September 2015 (LA s 75
 (1))
 sch 1 pt 1.49 commenced 14 October 2015 (s
 2)
-Statute Law Amendment Act 2025 
+Statute Law Amendment Act 2025
  A2025-29 sch 3 pt 3.65, sch 4
 pt 4.133
 notified LR 6 November 2025
 s 1, s 2 commenced 6 November 2025 (LA s 75
 (1))
 sch 3 pt 3.65, sch 4 pt 4.133 commenced 26 November
-2025 (s 2 (3), (9))
-4     Amendment
+Section 2025 (s 2 (3), (9))
+Section 4 Amendment
 history
 Name of
-Acts 1     sub A2001-9 
+Acts 1     sub A2001-9
  amdt 1.19
 Dictionarys
-2     om Ord1977-65 
-     ins A2001-9 
+Section 2 om Ord1977-65
+     ins A2001-9
  amdt
-1.19     sub A2004-62 
+Section 1.19 sub A2004-62
  s 4
 Notess
-3     om A2001-9 
+Section 3 om A2001-9
  amdt
-1.19     ins A2004-62 
+Section 1.19 ins A2004-62
  s 4
 Offences against Act--application of
-Criminal Code etcs 4     om A2001-9 
+Criminal Code etcs 4     om A2001-9
  amdt
-1.19     ins A2004-62 
+Section 1.19 ins A2004-62
  s 4
 Application of certain laws and rules of
-equitys 5     sub A2004-62 
+equitys 5     sub A2004-62
  s 5
 Meaning of
-partnerships 6     sub A2004-62 
+partnerships 6     sub A2004-62
  s 6
 Rules for determining existence of
-partnerships 7     am A2004-62 
- s 7; A2005-43 
+partnerships 7     am A2004-62
+ s 7; A2005-43
  amdt 1.16
 Firms and firm
-namess 8     om A2004-62 
+namess 8     om A2004-62
  s 8
 Power of certain partners to bind
-firms 9     sub A2004-62 
+firms 9     sub A2004-62
  s 9
 Partners bound by acts on behalf of
-firms 10     sub A2004-62 
+firms 10     sub A2004-62
  s 9
 Partner using credit of firm for private
-purposes 11     sub A2004-62 
+purposes 11     sub A2004-62
  s 9
 Effect of notice that firm will not be bound
-by acts of partners 12     sub A2004-62 
+by acts of partners 12     sub A2004-62
  s 9
 Liability of
-partners 13     sub A2004-62 
+partners 13     sub A2004-62
  s 9
 Liability of firm not incorporated limited
-partnership for wrongss 14 hdg     sub A2004-62 
+partnership for wrongss 14 hdg     sub A2004-62
  s 10s
-14     sub A2001-9 
+Section 14 sub A2001-9
  amdt
-1.20     am A2004-62 
- ss 11-13; A2025-29 
+Section 1.20 am A2004-62
+ ss 11-13; A2025-29
  amdt 3.218
 Liability of incorporated limited
-partnership for wrongss 14A     ins A2004-62 
+partnership for wrongss 14A     ins A2004-62
  s 14     am
-A2025-29 
+A2025-29
  amdt 3.218
 Misapplication of money or property received
 for, or in custody of, firms 15     sub
-A2004-62 
+A2004-62
  s 15
 Liability for wrongs joint and
-severals 16     sub A2004-62 
+severals 16     sub A2004-62
  s 15
 Improper use of trust property for
 partnership other than incorporated limited
-partnerships 17     sub A2004-62 
+partnerships 17     sub A2004-62
  s 15
 Improper use of trust property for
 incorporated limited partnerships
-17A     ins A2004-62 
+Section 17A ins A2004-62
  s 15
 People liable by holding
-outs 18     sub A2004-62 
+outs 18     sub A2004-62
  s 15     am
-A2025-29 
+A2025-29
  amdt 3.219
 Admissions and representations of
-partnerss 19     sub A2004-62 
+partnerss 19     sub A2004-62
  s 15
 Notice to acting partners is notice to
-firms 20     sub A2004-62 
+firms 20     sub A2004-62
  s 15
 Liabilities of incoming and outgoing
-partnerss 21     sub A2004-62 
+partnerss 21     sub A2004-62
  s 15
 Revocation of continuing guarantee by change
-of firms 22     am A2004-62 
+of firms 22     am A2004-62
  s 16, s 17
 Partnership property of firms other than
 incorporated limited partnershipss 24
-hdg     sub A2004-62 
+hdg     sub A2004-62
  s 18s
-24     am A2004-62 
+Section 24 am A2004-62
  s 19
 Partnership property of incorporated limited
-partnerships 24A     ins A2004-62 
+partnerships 24A     ins A2004-62
  s 20
 Land bought by co-owners out of profits from
 land--other than incorporated limited
-partnershipss 25 hdg     sub A2004-62 
+partnershipss 25 hdg     sub A2004-62
  s 21s
-25     am A2004-62 
+Section 25 am A2004-62
  s 22, s 23
 Conversion into personalty of land held by
-firms 27     am A2004-62 
+firms 27     am A2004-62
  s 24, s 25
 Procedure against partnership property for
 partner's separate judgment
-debts 28     am A2001-9 
- amdt 1.21; A2004-62 
+debts 28     am A2001-9
+ amdt 1.21; A2004-62
  s 26     om
-A2006-40 
+A2006-40
  amdt 2.168
 Rules about interests and duties of partners
 other than in incorporated limited
-partnerships 29 hdg     sub A2004-62 
+partnerships 29 hdg     sub A2004-62
  s 27s
-29     am Ord1966-19 
-; A2004-62 
+Section 29 am Ord1966-19
+; A2004-62
  s 28
 Retirement from partnership at
-wills 31     am A2004-62 
+wills 31     am A2004-62
  s 29, s 30
 Partnership for term continued
-overs 32     am A2004-62 
+overs 32     am A2004-62
  s 31
 Duty of partner to give
-accountss 33     sub A2004-62 
+accountss 33     sub A2004-62
  s 32
 Accountability of partners for private
-profitss 34     am A2004-62 
+profitss 34     am A2004-62
  s 33
 Duty of partner not to compete with
-firms 35     am A2004-62 
+firms 35     am A2004-62
  s 34, s 35
 Rights of assignee of share in
-partnerships 36     am A2004-62 
+partnerships 36     am A2004-62
  s 36
 Application of pt
-5s 36A     ins A2004-62 
+Section 5s 36A     ins A2004-62
  s 37
 Dissolution of partnership by death,
-bankruptcy, charge etcs 38     sub A2005-43 
+bankruptcy, charge etcs 38     sub A2005-43
  amdt 1.17
 Dissolution by Supreme
-Courts 40 hdg     am A2001-9 
+Courts 40 hdg     am A2001-9
  amdt
-1.22s 40     am A2001-9 
- amdts 1.23, 1.24; A2025-29 
+Section 1.22s 40     am A2001-9
+ amdts 1.23, 1.24; A2025-29
  amdt 3.219
 Rights of persons dealing with firm against
-apparent members of firms 41     am A2005-43 
- amdt 1.18; A2025-29 
+apparent members of firms 41     am A2005-43
+ amdt 1.18; A2025-29
  amdt 3.220
 Right of partners to notify
-dissolutions 42     sub A2015-33 
+dissolutions 42     sub A2015-33
  amdt 1.159
 Public notice of dissolution or
-changes 43     am A2001-44 
- amdt 1.3098; A2009-20 
+changes 43     am A2001-44
+ amdt 1.3098; A2009-20
  amdt
-3.147     sub A2015-33 
+Section 3.147 sub A2015-33
  amdt 1.159
 Continuing authority of partners for
-winding-ups 44     sub A2005-43 
+winding-ups 44     sub A2005-43
  amdt
-1.19     am A2025-29 
+Section 1.19 am A2025-29
  amdt 3.220
 Rights of partners to application of
-partnership propertys 45     am A2001-9 
- amdt 1.25; A2025-29 
+partnership propertys 45     am A2001-9
+ amdt 1.25; A2025-29
  amdt 3.220
 Apportionment of premium when partnership
-prematurely dissolveds 46     am A2001-9 
+prematurely dissolveds 46     am A2001-9
  amdt 1.26
 Right of outgoing partner in certain cases
 to share profits made after
-dissolutions 48     am Ord1966-19 
-; A2001-9 
- amdt 1.27; A2025-29 
+dissolutions 48     am Ord1966-19
+; A2001-9
+ amdt 1.27; A2025-29
  amdt 3.220
 Incorporated limited
-partnershipspt 6 hdg     ins A2004-62 
+partnershipspt 6 hdg     ins A2004-62
  s 38
 Preliminarydiv
-6.1 hdg     ins A2004-62 
+Section 6.1 hdg     ins A2004-62
  s 38
 Definitions for pt
-6s 51     ins A2004-62 
+Section 6s 51     ins A2004-62
  s
-38     def external partnership
-ins A2004-62 
+Section 38 def external partnership
+ins A2004-62
  s
-38     def firm name ins A2004-62 
+Section 38 def firm name ins A2004-62
  s
-38     def general partner ins
-A2004-62 
+Section 38 def general partner ins
+A2004-62
  s
-38     def incorporated limited
-partnership ins A2004-62 
+Section 38 def incorporated limited
+partnership ins A2004-62
  s
-38     def liability ins A2004-62 
+Section 38 def liability ins A2004-62
  s
-38     def limited partner ins
-A2004-62 
+Section 38 def limited partner ins
+A2004-62
  s
-38     def partner ins A2004-62 
+Section 38 def partner ins A2004-62
  s
-38     def register ins A2004-62 
+Section 38 def register ins A2004-62
  s
-38     def registered
-information ins A2004-62 
+Section 38 def registered
+information ins A2004-62
  s
-38     def special resolution
-ins A2004-62 
+Section 38 def special resolution
+ins A2004-62
  s 38
 Application of other provisions of this
-Acts 52     ins A2004-62 
+Acts 52     ins A2004-62
  s 38
 Nature and formation of incorporated limited
-partnershipsdiv 6.2 hdg     ins A2004-62 
+partnershipsdiv 6.2 hdg     ins A2004-62
  s 38
 Incorporated limited partnership formed on
-registrations 53     ins A2004-62 
+registrations 53     ins A2004-62
  s 38
 Incorporated limited partnership is separate
-legal entitys 54     ins A2004-62 
+legal entitys 54     ins A2004-62
  s 38
 Partners in incorporated limited
-partnerships 55     ins A2004-62 
+partnerships 55     ins A2004-62
  s 38
 Partnership
-agreements 56     ins A2004-62 
+agreements 56     ins A2004-62
  s 38
 Registration of incorporated limited
-partnershipsdiv 6.3 hdg     ins A2004-62 
+partnershipsdiv 6.3 hdg     ins A2004-62
  s 38
 Who may apply for
-registrations 57     ins A2004-62 
+registrations 57     ins A2004-62
  s 38     am
-A2008-22 
+A2008-22
  amdt 1.39, amdt 1.40
 Application for
-registrations 58     ins A2004-62 
+registrations 58     ins A2004-62
  s 38     am
-A2008-22 
- amdt 1.41, amdt 1.42; A2025-29 
+A2008-22
+ amdt 1.41, amdt 1.42; A2025-29
  amdt 4.134
 Registration of incorporated limited
-partnerships 59     ins A2004-62 
+partnerships 59     ins A2004-62
  s 38     am
-A2012-2 
+A2012-2
  amdt 2.7; ss renum R9 LA
 Register of incorporated limited
-partnershipss 60     ins A2004-62 
+partnershipss 60     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Changes in registered
-informations 61     ins A2004-62 
+informations 61     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Certificates of registration
-etcs 62     ins A2004-62 
+etcs 62     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Business Names Registration Act (Cwlth) not
-to applys 63     ins A2004-62 
+to applys 63     ins A2004-62
  s
-38     sub A2012-2 
+Section 38 sub A2012-2
  amdt 2.8
 Acts preparatory to registration do not
-create partnerships 64     ins A2004-62 
+create partnerships 64     ins A2004-62
  s 38
 Powers of incorporated limited
-partnershipsdiv 6.4 hdg     ins A2004-62 
+partnershipsdiv 6.4 hdg     ins A2004-62
  s 38
 Powers of
-partnerships 65     ins A2004-62 
+partnerships 65     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Relationship of partners to others and
-between themselvess 66     ins A2004-62 
+between themselvess 66     ins A2004-62
  s 38
 Liability and powers of limited
-partnersdiv 6.5 hdg     ins A2004-62 
+partnersdiv 6.5 hdg     ins A2004-62
  s 38
 Limitation of liability of limited
-partnerss 67     ins A2004-62 
+partnerss 67     ins A2004-62
  s 38
 Limited partner not to take part in
 incorporated limited partnership's
-managements 68     ins A2004-62 
+managements 68     ins A2004-62
  s 38     am
-A2008-22 
+A2008-22
  amdt 1.43
 Interpretation for s
-68s 69     ins A2004-62 
+Section 68s 69     ins A2004-62
  s 38
 Differences between
-partnerss 70     ins A2004-62 
+partnerss 70     ins A2004-62
  s 38
 Change in
-partnerss 71     ins A2004-62 
+partnerss 71     ins A2004-62
  s 38
 Change in status of
-partnerss 72     ins A2004-62 
+partnerss 72     ins A2004-62
  s 38
 Liability for conduct, acts or omissions
-outside the ACTs 73     ins A2004-62 
+outside the ACTs 73     ins A2004-62
  s 38
 Incorporated limited partnerships formed
-under corresponding lawss 74     ins A2004-62 
+under corresponding lawss 74     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Effect of s 73 and s
-74s 75     ins A2004-62 
+Section 74s 75     ins A2004-62
  s 38
 Winding-up of incorporated limited
-partnershipdiv 6.6 hdg     ins A2004-62 
+partnershipdiv 6.6 hdg     ins A2004-62
  s 38
 Meaning of assets for div
-6.6s 76     ins A2004-62 
+Section 6.6s 76     ins A2004-62
  s 38
 Voluntary
-winding-ups 77     ins A2004-62 
+winding-ups 77     ins A2004-62
  s 38
 Winding-up on commissioner's
-certificates 78     ins A2004-62 
+certificates 78     ins A2004-62
  s 38     am
-A2008-22 
- amdt 1.44; A2015-33 
- amdt 1.160; A2025-29 
+A2008-22
+ amdt 1.44; A2015-33
+ amdt 1.160; A2025-29
  amdt 4.134
 Review of
-certificates 79     ins A2004-62 
+certificates 79     ins A2004-62
  s 38
 Procedure for winding-up on
-certificates 80     ins A2004-62 
+certificates 80     ins A2004-62
  s 38     am
-A2015-33 
+A2015-33
  amdt 1.161
 Distribution of assets on winding-up
 required on commissioner's
-certificates 81     ins A2004-62 
+certificates 81     ins A2004-62
  s 38
 Displacement and application of Corporations
-legislation etcs 82     ins A2004-62 
+legislation etcs 82     ins A2004-62
  s 38     am
 R11 LA
 Commissioner to be told about
-winding-ups 83     ins A2004-62 
+winding-ups 83     ins A2004-62
  s 38
 Cancellation of
-incorporations 84     ins A2004-62 
+incorporations 84     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Miscellaneousdiv
-6.7 hdg     ins A2004-62 
+Section 6.7 hdg     ins A2004-62
  s 38
 Execution of
-documentss 85     ins A2004-62 
+documentss 85     ins A2004-62
  s 38     am
-A2011-48 
+A2011-48
  amdt 1.46
 Entitlement to make
-assumptionss 86     ins A2004-62 
+assumptionss 86     ins A2004-62
  s 38
 Assumptions that may be made under s
-86s 87     ins A2004-62 
+Section 86s 87     ins A2004-62
  s 38
 Identification of incorporated limited
-partnershipss 88     ins A2004-62 
+partnershipss 88     ins A2004-62
  s 38
 Display of certificate of
-registrations 89     ins A2004-62 
+registrations 89     ins A2004-62
  s 38
 Registered
-offices 90     ins A2004-62 
+offices 90     ins A2004-62
  s 38
 Certain documents to be given to
-commissioners 91     ins A2004-62 
+commissioners 91     ins A2004-62
  s 38     am
-A2008-22 
- amdt 1.45, amdt 1.46; A2025-29 
+A2008-22
+ amdt 1.45, amdt 1.46; A2025-29
  amdt 4.134
 Service on incorporated limited
-partnerships 92     ins A2004-62 
+partnerships 92     ins A2004-62
  s 38
 Entry in register constitutes
-notices 93     ins A2004-62 
+notices 93     ins A2004-62
  s 38
 Duty to give
-informations 94     ins A2004-62 
+informations 94     ins A2004-62
  s 38
 Secrecys
-95     ins A2004-62 
+Section 95 ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 3.221
 Offences by
-partnershipss 96     ins A2004-62 
+partnershipss 96     ins A2004-62
  s 38
 Delegation by
-commissioners 97     ins A2004-62 
+commissioners 97     ins A2004-62
  s 38
 Relationship with Corporations
-legislations 98     ins A2004-62 
+legislations 98     ins A2004-62
  s 38     am
 R11 LA
 Miscellaneouspt
-7 hdg     ins A2004-62 
+Section 7 hdg     ins A2004-62
  s 38
 Determination of
-feess 99     ins A2004-62 
+feess 99     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Approved
-formss 100     ins A2004-62 
+formss 100     ins A2004-62
  s 38     am
-A2025-29 
+A2025-29
  amdt 4.134
 Regulation-making
-powers 101     ins A2004-62 
+powers 101     ins A2004-62
  s 38     am
-A2009-20 
- amdts 3.148-3.150; A2025-29 
+A2009-20
+ amdts 3.148-3.150; A2025-29
  amdt 4.134
 Dictionarydict     ins
-A2004-62 
+A2004-62
  s 39     am
-A2009-20 
- amdt 3.151; A2015-33 
- amdt 1.162; A2025-29 
+A2009-20
+ amdt 3.151; A2015-33
+ amdt 1.162; A2025-29
  amdt
-3.222     def assets ins A2004-62 
+Section 3.222 def assets ins A2004-62
  s
-39     def business ins A2004-62 
+Section 39 def business ins A2004-62
  s
-39     def external partnership
-ins A2004-62 
+Section 39 def external partnership
+ins A2004-62
  s
-39     def firm ins A2004-62 
+Section 39 def firm ins A2004-62
  s
-39     def firm name ins A2004-62 
+Section 39 def firm name ins A2004-62
  s
-39     def general partner ins
-A2004-62 
+Section 39 def general partner ins
+A2004-62
  s
-39     def incorporated limited
-partnership ins A2004-62 
+Section 39 def incorporated limited
+partnership ins A2004-62
  s
-39     def liability ins A2004-62 
+Section 39 def liability ins A2004-62
  s
-39     def limited partner ins
-A2004-62 
+Section 39 def limited partner ins
+A2004-62
  s
-39     def partner ins A2004-62 
+Section 39 def partner ins A2004-62
  s
-39     def partnership ins A2004-62 
+Section 39 def partnership ins A2004-62
  s
-39     def partnership property
-ins A2004-62 
+Section 39 def partnership property
+ins A2004-62
  s
-39     def register ins A2004-62 
+Section 39 def register ins A2004-62
  s
-39     def registered information
-ins A2009-20 
+Section 39 def registered information
+ins A2009-20
  amdt
-3.152     def special
-resolution ins A2004-62 
+Section 3.152 def special
+resolution ins A2004-62
  s 39
-5     Earlier
+Section 5 Earlier
 republications
 Some earlier republications were not numbered. The number in column 1
-refers to the publication order.  
+refers to the publication order.
 Since 12 September 2001 every authorised republication has been published
 in electronic pdf format on the ACT legislation register.  A selection of
 authorised republications have also been published in printed format. These
 republications are marked with an asterisk (*) in column 1.  Electronic and
-printed versions of an authorised republication are identical. 
-
-      
-      
-      
-
+printed versions of an authorised republication are identical.
 Republication No
-
 Amendments to
-
 Republication date
-
 1
-
-A1977-65 
-
-30 June 1991
-
+A1977-65
+Section 30 June 1991
 2
-
-A2001-44 
-
-4 January 2002
-
+A2001-44
+Section 4 January 2002
 3
-
-A2004-62 
-
-22 November 2004
-
+A2004-62
+Section 22 November 2004
 4
-
-A2005-43 
-
-1 October 2005
-
+A2005-43
+Section 1 October 2005
 5
-
-A2006-40 
-
-29 September 2006
-
+A2006-40
+Section 29 September 2006
 6
-
-A2008-22 
-
-29 July 2008
-
+A2008-22
+Section 29 July 2008
 7
-
-A2009-20 
-
-22 September 2009
-
+A2009-20
+Section 22 September 2009
 8
-
-A2011-48 
-
-1 March 2012
-
+A2011-48
+Section 1 March 2012
 9
-
-A2012-2 
-
-28 May 2012
-
+A2012-2
+Section 28 May 2012
 10
-
-A2015-33 
-
-14 October 2015
-
+A2015-33
+Section 14 October 2015
 (c)  Australian Capital Territory 2025
-
 PARTNERSHIP ACT 1963
 - NOTES
 Australian Capital
 Territory
-
-    
 A1963-5
 Republication No 11
 Effective: 26 November 2025 Republication date: 26 November 2025 Last amendment made by A2025-29
-
 About this republication The republished law
 This is a republication of the Partnership Act
 1963
-
  (including any amendment made under the Legislation Act 2001
-
-, part 11.3 (Editorial changes)) as in force on 26 November 2025 
-
+, part 11.3 (Editorial changes)) as in force on 26 November 2025
 .  It also includes any commencement, amendment, repeal or expiry
-affecting this republished law to 26 November 2025 
-
-.  
+affecting this republished law to 26 November 2025
+.
 The legislation history and amendment history of the republished law are
-set out in endnotes 3 and 4. 
+set out in endnotes 3 and 4.
 Kinds of republications
 The Parliamentary Counsel's Office prepares 2 kinds of republications
-of ACT laws (see the ACT legislation register at www.legislation.act.gov.au 
-
+of ACT laws (see the ACT legislation register at www.legislation.act.gov.au
 ):
                o     authorised republications to which the Legislation Act 2001
-
  applies
                o     unauthorised republications.
 The status of this republication appears on the bottom of each
 page.
 Editorial changes
-The Legislation Act 2001 
-
+The Legislation Act 2001
 , part 11.3 authorises the Parliamentary Counsel to make editorial
 amendments and other changes of a formal nature when preparing a law for
 republication.  Editorial changes do not change the effect of the law, but have
 effect as if they had been made by an Act commencing on the republication date
-(see Legislation Act 2001 
-
+(see Legislation Act 2001
 , s 115 and s 117).  The changes are made if the Parliamentary Counsel
 considers they are desirable to bring the law into line, or more closely into
-line, with current legislative drafting practice.  
+line, with current legislative drafting practice.
 This republication includes amendments made under part 11.3 (see endnote
 1).
 Uncommenced provisions and
@@ -3118,8 +2768,7 @@ amendments
 If a provision of the republished law has not commenced, the symbol
  U  appears immediately before the
 provision heading.  Any uncommenced amendments that affect this republished law
-are accessible on the ACT legislation register (www.legislation.act.gov.au 
-
+are accessible on the ACT legislation register (www.legislation.act.gov.au
 ). For more information, see the home page for this law on the
 register.
 Modifications
@@ -3127,18 +2776,13 @@ If a provision of the republished law is affected by a current
 modification, the symbol  M  appears
 immediately before the provision heading.  The text of the modifying provision
 appears in the endnotes.  For the legal status of modifications, see the Legislation Act 2001
-
 , section 95.
 Penalties
 At the republication date, the value of a penalty unit for an offence
 against this law is $160 for an individual and $810 for a corporation (see Legislation Act 2001
-
 , s 133).
 Australian Capital
 Territory
-
-    
-Endnotes79 
-
+Endnotes79
 Australian Capital
 Territory

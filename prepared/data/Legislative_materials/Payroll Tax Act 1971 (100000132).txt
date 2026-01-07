@@ -6,56 +6,410 @@ Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download
 When scraped: 2025-12-30T02:09:22.475912Z
 
 PAYROLL TAX ACT 1971 - As at 1 July 2025 - Act 37 of 1971
- 
-30 June 2023
+TABLE OF PROVISIONS
+**** TABLE OF PROVISIONS ****
+PART 1 - PRELIMINARY
+      1.  Short title
+      2.  Dictionary
+      3.  Meaning of superannuation contribution
+     3A.  Meaning of termination payment
+      4.  Other provisions about meaning of wagesâsuperannuation
+contributions and GST
+     4A.  (Repealed)
+      5.  Meaning of change of status
+      6.  Meaning of final period
+     6A.  Reference to periodic return period or return period
+      7.  Notes in text
+      8.  Relationship of Act with Administration Act
+PART 2 - LIABILITY TO TAXATION
+Division 1 - Imposition of liability
+Subdivision 1 - Wages liable to payroll tax and mental health levy
+     8A.  Application of sdiv 1
+      9.  Wages liable to payroll tax and mental health levyânexus with
+Queensland
+     9A.  State in which employee is based
+     9B.  State in which employer is based
+     9C.  Place and day of payment of wages
+Subdivision 2 - Other provisions about imposing liability for payroll tax
+     10.  Imposition of payroll tax on taxable wages
+    10A.  Discount for regional employers
+     11.  When liability for payroll tax arises
+     12.  Employer to pay payroll tax
+Subdivision 3 - Other provisions about imposing liability for mental health
+levy
+    12A.  Imposition of mental health levy on taxable wages
+    12B.  When liability for mental health levy arises
+    12C.  Particular employer to pay mental health levy
+Subdivision 4 - Value of taxable wages
+     13.  Value of taxable wages
+Division 1A - Contractor provisions
+    13A.  Definitions for div 1A
+    13B.  Meaning of relevant contract
+    13C.  Persons taken to be employers
+    13D.  Persons taken to be employees
+    13E.  Amounts taken to be wages
+    13F.  Liability for payroll tax or mental health levy for payments taken to
+be wages
+Division 1B - Employment agents
+    13G.  Meaning of employment agency contract
+    13H.  Persons taken to be employers
+    13I.  Persons taken to be employees
+    13J.  Amounts taken to be wages
+    13K.  Liability for payroll tax or mental health levy for payments taken to
+be wages
+    13L.  Employment agency contract reducing or avoiding liability to payroll
+tax or mental health levy
+   13LA.  Particular avoidance arrangements involving employment agents
+Division 1C - Shares and options
+    13M.  Application of div 1C
+    13N.  Definitions for div 1C
+    13O.  When share or option is granted
+    13P.  Grant of share because of exercise of option
+    13Q.  Day on which wages are paid or payable
+    13R.  Election by grantor of relevant day
+    13S.  Automatic election of relevant day
+    13T.  Effect of rescission or cancellation of share or option
+    13U.  Value of taxable wages
+    13V.  When services are performed
+    13W.  Place where wages are paid or payable
+Division 1D - Allowances
+Subdivision 1 - Motor vehicle allowances
+    13X.  Definitions for sdiv 1
+    13Y.  Exempt component of motor vehicle allowance
+    13Z.  Working out the number of exempt kilometres
+   13ZA.  Continuous recording method
+   13ZB.  Averaging methodâhow it works
+   13ZC.  Averaging methodârecords to be kept by employer
+   13ZD.  Averaging methodâwhat is the averaging period
+   13ZE.  Averaging methodârecalculation of relevant percentage
+   13ZF.  Averaging methodâreplacing a business vehicle
+   13ZG.  Switching between continuous recording and averaging methods
+Subdivision 2 - Accommodation allowances
+   13ZH.  Exempt rate for accommodation allowance
+Division 2 - Exemptions
+     14.  Exemption from payroll tax and mental health levy
+    14A.  Exemption for parental, adoption, surrogacy or cultural parent leave
+     15.  Exemption from payroll tax and mental health levyâcertain CWA wages
+    15A.  Exemption for services performed or rendered entirely in another
+country
+Division 3 - Periodic liability for payroll tax
+Subdivision 1 - Employer other than the DGE for a group
+     16.  Application of sdiv 1
+    16J.  (Repealed)
+    16K.  (Repealed)
+    16L.  (Repealed)
+     17.  Definitions for sdiv 1
+     18.  Meaning of calculation day
+    18A.  (Repealed)
+     19.  Meaning of significant wage change
+     20.  Amount of periodic liability
+     21.  Determination by commissioner of fixed periodic deduction
+Subdivision 2 - DGE for a group
+     22.  Application of sdiv 2
+     23.  Definition for sdiv 2
+     24.  Meaning of calculation day
+     25.  Meaning of significant wage change
+     26.  Amount of periodic liability
+     27.  Determination by commissioner of fixed periodic deduction
+Subdivision 3 - Rebate
+    27A.  Rebate for periodic liability
+Division 4 - Annual liability for payroll tax
+Subdivision 1 - Employer other than the DGE for a group
+     28.  Application of sdiv 1
+     29.  Definitions for sdiv 1
+     30.  Amount of annual liability
+     31.  Entitlement to annual refund amount
+Subdivision 2 - DGE for a group
+     32.  Application of sdiv 2
+     33.  Definitions for sdiv 2
+     34.  Amount of DGEâs annual liability
+     35.  Entitlement to annual refund amount
+Subdivision 3 - Rebate
+    35A.  Rebate for annual payroll tax amount
+Division 5 - Final liability for payroll tax
+Subdivision 1 - Employer other than the DGE for a group
+     36.  Application of sdiv 1
+     37.  Definitions for sdiv 1
+     38.  Amount of final liability
+     39.  Entitlement to final refund amount
+Subdivision 2 - DGE for a group
+     40.  Application of sdiv 2
+     41.  Definitions for sdiv 2
+     42.  Amount of DGEâs final liability
+     43.  Entitlement to final refund amount
+Subdivision 3 - Rebate
+    43A.  Rebate for final payroll tax amount
+Division 5A - Periodic liability for mental health levy
+    43B.  Application of division
+    43C.  Meaning of adjusted primary threshold
+    43D.  Meaning of adjusted additional threshold
+    43E.  Meaning of primary periodic threshold and additional periodic
+threshold
+   43EA.  Meaning of current financial year
+   43EB.  Meaning of calculation day
+   43EC.  Meaning of significant wage change
+    43F.  Amount of periodic levy liability
+Division 5B - Annual liability for mental health levy
+    43G.  Application of division
+    43H.  Meaning of combined periodic liability
+    43I.  Definitions for division
+    43J.  Amount of annual levy liability
+    43K.  Entitlement to annual levy refund amount
+Division 5C - Final liability for mental health levy
+    43L.  Application of division
+    43M.  Definitions for division
+    43N.  Amount of final levy liability
+    43O.  Entitlement to final levy refund amount
+Division 6 - Sharing of excess deduction by group members
+     44.  Definitions for div 6
+     45.  Meaning of excess deduction
+     46.  Nomination by DGE of group members to share in excess deduction
+    46A.  (Repealed)
+    46B.  (Repealed)
+    46C.  (Repealed)
+     47.  Determination by commissioner of group members to share in excess
+deduction
+     48.  Sharing of excess deduction by entitled group members at end of
+financial year
+     49.  Sharing of excess deduction by entitled group members on group
+ceasing to exist
+Division 6A - Sharing of excess rebate by group members
+    49A.  Definitions for div 6A
+    49B.  Meaning of excess rebate
+    49C.  Nomination by DGE of group members to share in excess rebate
+    49D.  Determination by commissioner of group members to share in excess
+rebate
+    49E.  Sharing of excess rebate by entitled group members at end of relevant
+financial year
+    49F.  Sharing of excess rebate by entitled group members on group ceasing
+to exist
+Division 7 - Avoidance arrangements
+     50.  Arrangements for avoidance of tax may be disregarded
+Division 8 - Miscellaneous provisions
+     51.  Wages paid by or to third parties
+    51A.  Joint and several liability of group members
+PART 3 - REGISTRATION AND RETURNS
+Division 1 - Registration
+     52.  Meaning of criteria for registration
+     53.  Application for registration
+     54.  Registration of employer without application
+     55.  Notice of registration
+     56.  Amendment of registration
+     57.  Cancellation of registration
+Division 2 - Returns
+     58.  Definition for div 2
+     59.  Periodic returns
+     60.  Duration of periodic return period
+     61.  Deemed lodgement of periodic returnâpayment by electronic transfer
+of funds
+     62.  Exemption from requirement to lodge periodic returns
+     63.  Annual return
+     64.  Final return
+     65.  Further returns
+PART 4 - GROUPING PROVISIONS
+Division 1 - Interpretation
+     66.  Definitions for pt 4
+     67.  Grouping provisions to operate independently
+Division 2 - Business groups
+     68.  Constitution of groups
+     69.  Groups of corporations
+     70.  Groups arising from the use of common employees
+     71.  Groups of commonly controlled businesses
+     72.  Groups arising from tracing of interests in corporations
+     73.  Smaller groups subsumed into larger groups
+     74.  Exclusion of persons from groups
+Division 2A - Business groupsâinterpretation provisions for tracing of
+interests in corporations
+    74A.  Application of div 2A
+    74B.  Definitions for div 2A
+    74C.  Who are associated persons
+    74D.  Who are related persons
+    74E.  Direct interest
+    74F.  Indirect interest
+    74G.  Aggregate interest
+Division 3 - Designated group employer
+     75.  Designation of group member as DGE
+PART 5 - PROVISIONS ABOUT ASSESSMENTS
+Division 1 - Reassessments
+     76.  When registered employer may make reassessment
+     77.  Reassessmentâdetermination of periodic deduction
+    77A.  Reassessmentâdetermination of primary periodic threshold or
+additional periodic threshold
+     78.  Reassessmentâannual liability of non-group employer who has lodged
+a final return
+    78A.  Reassessmentâannual levy liability of non-group employer who has
+lodged a final return
+     79.  Reassessment of payroll tax liabilityâchange of DGE
+    79A.  Reassessment of levy liabilityâchange of DGE
+     80.  Reassessment of payroll tax liabilityâmaking or revocation of order
+excluding a person from a group
+    80A.  Reassessment of levy liabilityâmaking or revocation of order
+excluding a person from a group
+Division 2 - Provisions about particular assessments made by the commissioner
+     81.  Provision about payroll tax assessments made by
+commissionerâemployer who is required to lodge periodic returns
+    81A.  Provision about levy assessments made by commissionerâemployer who
+is required to lodge periodic returns
+     82.  Provision about payroll tax assessments made by
+commissionerâemployer who is exempt from lodging periodic returns
+    82A.  Provision about levy assessments made by commissionerâemployer who
+is exempt from lodging periodic returns
+PART 6 - MISCELLANEOUS
+Division 1 - Refund provisions
+     83.  Application of annual refund amount, annual levy refund amount, final
+refund amount or final levy refund amount
+     84.  Provision for refunds under Administration Act to group members
+     85.  Entitlement to a refund
+Division 2 - Notification requirements
+     86.  (Repealed)
+     87.  Notification requirementâemployers exempt from lodging periodic
+returns
+    87A.  Notification requirementâemployers authorised to lodge periodic
+returns for periods other than a month
+     88.  Notification requirementâparticular group members
+    88A.  Notification requirementsâannual information for groups
+    88B.  Notification requirementsâfinal return information for non-DGE
+group member
+    88C.  Notification requirementsâfinal return information for DGE
+    88D.  Notification requirementsâemployer joining a group
+    88E.  Notification requirementsârevised group wage information
+     89.  Notification requirementâliquidators and other administrators
+Division 3 - Other provisions
+    89A.  Commissioner may give group information to incoming DGE
+     90.  Commissioner may require payment of penalty
+     91.  Period for keeping particular records relating to fringe benefits tax
+     92.  Application of Act to trustees
+     93.  Avoiding taxation
+     94.  Notice of change of address for service
+     95.  Cents to be disregarded for calculations
+     96.  Approval of forms
+     97.  Regulation-making power
+    97A.  Application of particular amendments
+PART 7 - SAVINGS AND TRANSITIONAL PROVISIONS FOR PAYROLL TAX ADMINISTRATION
+AMENDMENT ACT 2004
+Division 1 - Preliminary
+     98.  Definitions for pt 7
+Division 2 - Application of amended Act and Administration Act
+     99.  Application of amended Act in relation to liabilities etc. arising on
+or after commencement
+    100.  Registration under s 54 of person required to register before
+commencement
+    101.  Application of amended ss 58â62 for previous return periods
+    102.  Assessment under amended s 81 in relation to particular pre-
+commencement liabilities
+    103.  Application of amended s 95 to calculations made under previous
+provisions
+    104.  This Act as a revenue law for the Administration Act
+    105.  Application of Administration Act, s 38
+    106.  Second or subsequent offences
+Division 3 - Application of previous provisions
+    107.  Application of previous provisions to particular liabilities etc.
+Division 4 - Provisions about periodic liability after commencement
+    108.  Fixed periodic deduction for periodic return periods after
+commencementâexisting determination
+    109.  Fixed periodic deduction for periodic return periods after
+commencementâexisting nomination
+    110.  Application of fixed periodic deduction to particular non-group
+employers after commencement
+Division 5 - Provisions for annual liability for transitional year
+    111.  Purpose of div 5
+    112.  Basic principles for working out employerâs annual liability
+    113.  Employer who was not a group member for a prescribed period during
+the transitional year
+    114.  Employer who is a DGE on 30 June in the transitional year
+Division 6 - Provisions for final liability for transitional final period
+    115.  Purpose of div 6
+    116.  When transitional final period starts
+    117.  Employer who is a DGE on the last day of a transitional final period
+Division 7 - Miscellaneous provisions
+    118.  Commissioner assessmentâemployer who becomes a DGE in a
+transitional year before commencement
+    119.  Commissioner assessmentâemployer who ceases to be a DGE in a
+transitional year before commencement
+    120.  Delegations under previous s 4A
+    121.  Employers registered under previous s 12 immediately before
+commencement
+    122.  Notices given by commissioner under previous s 13
+    123.  Continuing effect of exemptions given by commissioner under previous
+s14
+    124.  Continuing use of particular forms
+    125.  Application of ss 83 and 84
+    126.  Application of s 88 notification requirement in relation to a
+transitional year
+    127.  Application of s 89 to particular liquidators
+    128.  Application of s 94 to particular employers
+    129.  References in amended Act
+    130.  (Expired)
+PART 8 - TRANSITIONAL PROVISIONS FOR PAYROLL TAX (HARMONISATION) AMENDMENT ACT
+2008
+    131.  Interpretation of amended provisions
+    132.  Application of amended Act
+    133.  Application of avoidance provision for employment agency contracts
+    134.  Continuation of orders excluding person from group
+PART 9 - TRANSITIONAL PROVISIONS FOR REVENUE AND OTHER LEGISLATION AMENDMENT
+ACT 2010
+Division 1 - Interpretation
+    135.  Definitions for pt 9
+Division 2 - Application of amended Act and Administration Act
+    136.  Application of amended Act
+    137.  Exemption of penalty under s 90
+    138.  Remission of unpaid tax interest and penalty tax under the
+Administration Act
+    139.  Exemption for offences
+    140.  Reassessmentâfinal return included excluded wages
+PART 10 - TRANSITIONAL PROVISIONS FOR REVENUE AND OTHER LEGISLATION AMENDMENT
+ACT 2011
+    141.  Assessment and payment of payroll tax for shares and options
+    142.  Application of pt 2, div 1C for granting of particular shares or
+options
+PART 11 - TRANSITIONAL PROVISION FOR REVENUE AMENDMENT AND TRADE AND INVESTMENT
+QUEENSLAND ACT 2013
+    143.  Exemption under s 14A
+PART 12 - TRANSITIONAL PROVISION FOR PAYROLL TAX REBATE, REVENUE AND OTHER
+LEGISLATION AMENDMENT ACT 2015
+    144.  Application of s 13B
+PART 13 - TRANSITIONAL PROVISION FOR REVENUE LEGISLATION AMENDMENT ACT 2018
+    145.  Retrospective application of increased rebate under ss 27A, 35A and
+43A
+PART 14 - TRANSITIONAL PROVISION FOR REVENUE AND OTHER LEGISLATION AMENDMENT
+ACT 2018
+    146.  Retrospective operation of amended s 13Y
+PART 15 - TRANSITIONAL PROVISIONS FOR REVENUE LEGISLATION AMENDMENT ACT 2022
+Division 1 - Extension of apprentice and trainee rebate
+    147.  Retrospective application of particular provisions
+Division 2 - Provisions about changes to deductions for financial year ending
+Section 30 June 2023
 Subdivision 1 - Preliminary
     148.  Purpose of division
-
    148A.  Definitions for division
-
 Subdivision 2 - Working out payroll tax for transitional financial year
    148B.  Working out fixed periodic deductions for transitional financial year
-
    148C.  Working out annual deduction for transitional financial
 yearâemployer other than the DGE for a group
-
    148D.  Working out annual deduction for transitional financial yearâDGE
 for a group
-
    148E.  Working out final deduction for transitional financial
 yearâemployer other than the DGE for a group
-
    148F.  Working out final deduction for transitional financial yearâDGE for
 a group
-
 Subdivision 3 - Provisions for returns
    148G.  Additional information required for particular annual returns
-
    148H.  Additional information required for particular final returns
-
 PART 16 - TRANSITIONAL PROVISIONS FOR BETTING TAX AND OTHER LEGISLATION
 AMENDMENT ACT 2022
     149.  Imposition and calculation of mental health levy for 2022â23
 financial year
-
     150.  Notification requirements for groups in January 2023
-
     151.  Notification requirements under s 88A for 2022â23 financial year
-
 SCHEDULE - Dictionary
-
- 
 - LONG TITLE
 An Act to impose a tax upon employers in respect of certain wages
- 
 Short title
 *** 1 Short title ***
 This Act may be cited as the Payroll Tax Act 1971.
- 
 Dictionary
 *** 2 Dictionary ***
 The dictionary in the schedule defines particular words used in this Act.
- 
 Meaning of superannuation contribution
 *** 3 Meaning of superannuation contribution ***
      (1) A
@@ -76,10 +430,8 @@ Meaning of superannuation contribution
                     1 marketable securities
                     2 real property
      (2) In this sectionâ
-
      "Superannuation Guarantee Act" means the Superannuation Guarantee
      (Administration) Act 1992 (Cwlth).
-
      "superannuation guarantee charge" does not include the followingâ
           (a) an additional superannuation guarantee charge under
           section 49 or part 7 of the Superannuation Guarantee Act;
@@ -90,14 +442,12 @@ Meaning of superannuation contribution
           contribution would have resulted in a reduction in the
           charge percentage under section 23 of the Superannuation
           Guarantee Act if the contribution had been paid.
-
      "unfunded", for a superannuation, provident or retirement fund or
      scheme, means the extent that an amount paid or payable by an
      employer for an employee, or by a company for a director of the
      company, covered by the fund or scheme is not paid or payable while
      the employee is employed by the employer, or the director is
      appointed as a director of the company.
- 
 Meaning of termination payment
 *** 3A Meaning of termination payment ***
      (1) A
@@ -132,7 +482,6 @@ Meaning of termination payment
                relevant contract, whether paid or payable to the
                employee or another entity.
      (2) In this sectionâ
-
      "employment termination payment" meansâ
           (a) an employment termination payment under the Income Tax
           Assessment Act 1997 (Cwlth), section 82 -130; or
@@ -142,7 +491,6 @@ Meaning of termination payment
           after the termination of a personâs employment; or
           (c) a transitional termination payment under the Income Tax
           (Transitional Provisions) Act 1997 (Cwlth), section 82 -10.
- 
 Other provisions about meaning of wagesâsuperannuation contributions and GST
 *** 4 Other provisions about meaning of wagesâsuperannuation contributions
 and GST ***
@@ -176,12 +524,10 @@ and GST ***
      any GST paid or payable by the person on the supply to which the
      wages relate.
      (6) In this sectionâ
-
      "relevant proportion", for GST paid or payable on a supply to which
      wages relate, means the proportion that the amount or value of the
      wages bears to the consideration for the supply to which the wages
      relate.
- 
 Meaning of change of status
 *** 5 Meaning of change of status ***
      (1) A
@@ -265,7 +611,6 @@ Meaning of change of status
                          return for, and pay, the
                          mental health levy for the
                          final period.
- 
 Meaning of final period
 *** 6 Meaning of final period ***
 The
@@ -289,18 +634,15 @@ periodâ
           If the employer then ceases to pay, or be liable to pay,
           wages from 1 June, the final period for the second change
           of status is 1 September to 31 May.
- 
 Reference to periodic return period or return period
 *** 6A Reference to periodic return period or return period ***
 Despite section 59 (1A), a reference in this Act, other than section 59 (1), to
 a periodic return period or return period in relation to an employer is taken
 to include the last periodic return period of a financial year for the
 employer.
- 
 Notes in text
 *** 7 Notes in text ***
 A note in the text of this Act is part of the Act.
- 
 Relationship of Act with Administration Act
 *** 8 Relationship of Act with Administration Act ***
      (1) This Act does not contain all the provisions about payroll tax or
@@ -321,7 +663,6 @@ Relationship of Act with Administration Act
                Under the Administration Act, section 3, that Act
                and this Act must be read together as if they
                together formed a single Act.
- 
 Application of sdiv 1
 *** 8A Application of sdiv 1 ***
      (1) This subdivision applies for working out the wages paid or
@@ -331,7 +672,6 @@ Application of sdiv 1
      (2) If wages are paid or payable for a person other than an employee,
      a reference to an employee in this subdivision includes a reference
      to the person.
- 
 Wages liable to payroll tax and mental health levyânexus with Queensland
 *** 9 Wages liable to payroll tax and mental health levyânexus with
 Queensland ***
@@ -430,7 +770,6 @@ Queensland ***
      they are payable, the question of whether the wages are liable to
      payroll tax and the mental health levy under this Act must be decided
      by reference to the earlier of the relevant months.
- 
 State in which employee is based
 *** 9A State in which employee is based ***
      (1) For this Act, the State in which an employee is based is the
@@ -450,12 +789,10 @@ State in which employee is based
      section 9B instead of this section, as if a reference in section 9B
      to an employer were a reference to the employee.
      (6) In this sectionâ
-
      "corporate employee" means a companyâ
           (a) taken to be an employee under section 13D or 13I; or
           (b) to whom a payment is made that is taken to be wages
           under section 13L or 50.
- 
 State in which employer is based
 *** 9B State in which employer is based ***
      (1) For this Act, the State in which an employer is based isâ
@@ -485,15 +822,12 @@ State in which employer is based
      principal place of business is taken, for this Act, to be an employer
      who is not based in a State.
      (7) In this sectionâ
-
      "ABN" means an ABN (Australian Business Number) under the A New Tax
      System (Australian Business Number) Act 1999 (Cwlth).
-
      "registered business address" means an address for service of notices
      under the A New Tax System (Australian Business Number) Act 1999
      (Cwlth) as shown in the Australian Business Register kept under that
      Act.
- 
 Place and day of payment of wages
 *** 9C Place and day of payment of wages ***
      (1) For this Act, wages are taken to have been paid at a place if,
@@ -532,11 +866,9 @@ Place and day of payment of wages
                State in which the wages are paid or payable.
      (6) This section is subject to section 13W.
      (7) In this sectionâ
-
      "instrument" includes a cheque, bill of exchange, promissory note,
      money order, postal order issued by a post office or any other
      instrument.
- 
 Imposition of payroll tax on taxable wages
 *** 10 Imposition of payroll tax on taxable wages ***
      (1) Subject to, and in accordance with, the provisions of this Act,
@@ -556,7 +888,6 @@ Imposition of payroll tax on taxable wages
      (3) The rate of payroll tax imposed under this section is subject to
      any discount that may apply under section 10A.
      (4) In this sectionâ
-
      "threshold amount" meansâ
           (a) for an annual return periodâ$6,500,000; or
           (b) for a periodic return period that is a
@@ -564,16 +895,11 @@ Imposition of payroll tax on taxable wages
           (c) for any other periodâthe amount worked out using the
           following formulaâ
           whereâ
-
           "AA" means $6,500,000.
-
           "FYD" means the number of days in the financial year in
           which the period occurs.
-
           "PD" means the number of days in the period.
-
           "TA" means the threshold amount.
- 
 Discount for regional employers
 *** 10A Discount for regional employers ***
      (1) This section applies to the return periods occurring in the
@@ -594,16 +920,13 @@ Discount for regional employers
      total amount of taxable wages paid or payable by the employer during
      that return period is more than the wage threshold.
      (5) In this sectionâ
-
      "principal place of employment", of an employer, meansâ
           (a) if the employer has an ABNâthe place at which the
           employerâs registered business address is located; or
           (b) otherwiseâthe place at which the employerâs
           principal place of business is located.
-
      "regional employee" means an employee whose principal place of
      residence is located in regional Queensland.
-
      "regional Queensland" means the following areas of the State as
      identified under statistical area level 4 in the document Australian
      Statistical Geography Standard, published by the Australian Bureau of
@@ -615,7 +938,6 @@ Discount for regional employers
           (e) Queensland - Outback;
           (f) Townsville;
           (g) Wide Bay.
-
      "wage threshold" meansâ
           (a) for an annual return periodâ$350,000,000; or
           (b) for a periodic return period that is a
@@ -623,26 +945,19 @@ Discount for regional employers
           (c) for any other periodâthe amount worked out using the
           following formulaâ
           whereâ
-
           "AA" means $350,000,000.
-
           "FYD" means the number of days in the financial year in
           which the period occurs.
-
           "PD" means the number of days in the period.
-
           "WT" means the wage threshold.
- 
 When liability for payroll tax arises
 *** 11 When liability for payroll tax arises ***
 A liability for payroll tax imposed on taxable wages arises on the return date
 for lodgement by an employer of a return.
- 
 Employer to pay payroll tax
 *** 12 Employer to pay payroll tax ***
 Payroll tax shall be paid by the employer by whom the taxable wages are paid or
 payable.
- 
 Imposition of mental health levy on taxable wages
 *** 12A Imposition of mental health levy on taxable wages ***
      (1) A mental health levy is imposed under this part on particular
@@ -658,17 +973,14 @@ Imposition of mental health levy on taxable wages
      does not include amounts of penalty tax or unpaid tax interest, a
      penalty amount under section 90 or an amount recovered because of the
      imposition of a penalty for an offence.
- 
 When liability for mental health levy arises
 *** 12B When liability for mental health levy arises ***
 Liability for the mental health levy imposed on taxable wages arises on the
 return date for lodgement by an employer of a return.
- 
 Particular employer to pay mental health levy
 *** 12C Particular employer to pay mental health levy ***
 The mental health levy must be paid by an employer as provided under divisions
 5A, 5B and 5C.
- 
 Value of taxable wages
 *** 13 Value of taxable wages ***
      (1) The value of taxable wages that are paid or payable in kind by an
@@ -686,12 +998,10 @@ Value of taxable wages
      Fringe Benefits Assessment Act is, unless otherwise prescribed by
      regulation, the value worked out using the following formulaâ
      whereâ
-
      "FBT rate" means the rate of fringe benefits tax imposed under the
      Fringe Benefits Assessment Act that applies when the employerâs
      liability for payroll tax or the mental health levy on the taxable
      wages arises.
-
      "TV" meansâ
           (a) if paragraph (b) does not applyâthe value that would
           be the taxable value of the taxable wages as a fringe
@@ -700,22 +1010,17 @@ Value of taxable wages
           under the Fringe Benefits Assessment Act, section 65CA
           âthe amortised amount of the benefit calculated under
           that section.
-
      "V" means the value of the taxable wages.
      (6) This section does not apply to taxable wages comprising the grant
      of a share or option to which division 1C applies.
           Noteâ
                See section 13U (Value of taxable wages).
- 
 Definitions for div 1A
 *** 13A Definitions for div 1A ***
 In this divisionâ
-
 "contract" includes an agreement, arrangement or undertaking, whether formal or
 informal and whether express or implied.
-
 "relevant contract employee" see section 13D (2).
-
 "re-supply", in relation to goods acquired from a person, includesâ
      (a) supply to the person, or, if the person is a member of a group,
      to another group member, the acquired goods in an altered form or
@@ -723,15 +1028,12 @@ informal and whether express or implied.
      (b) supply to the person, or, if the person is a member of a group,
      to another group member, other goods in which the acquired goods have
      been incorporated.
-
 "services" includes results, whether goods or services, of work performed.
-
 "supply" includesâ
      (a) supply by way of sale, exchange, lease, hire, or hire purchase;
      and
      (b) in relation to services, includes the providing, granting or
      conferring of services.
- 
 Meaning of relevant contract
 *** 13B Meaning of relevant contract ***
      (1) A
@@ -829,7 +1131,6 @@ Meaning of relevant contract
      (5) An employment agency contract under which services are supplied
      by an employment agent, or a service provider is procured by an
      employment agent, is not a relevant contract.
- 
 Persons taken to be employers
 *** 13C Persons taken to be employers ***
      (1) For this Act, a person is taken to be an employer if, under a
@@ -848,7 +1149,6 @@ Persons taken to be employers
           employer.
      (3) A person taken to be an employer under this section is a
      "relevant contract employer".
- 
 Persons taken to be employees
 *** 13D Persons taken to be employees ***
      (1) For this Act, a person is taken to be an employee if, under a
@@ -859,7 +1159,6 @@ Persons taken to be employees
           employer.
      (2) A person taken to be an employee under this section is a
      "relevant contract employee".
- 
 Amounts taken to be wages
 *** 13E Amounts taken to be wages ***
      (1) For this Act, the following amounts paid or payable by a relevant
@@ -902,7 +1201,6 @@ Amounts taken to be wages
      relevant contract, the part of the larger amount that is not
      attributable to the performance of work mentioned in subsection (1)
      (a) or (b) is the part decided by the commissioner.
- 
 Liability for payroll tax or mental health levy for payments taken to be wages
 *** 13F Liability for payroll tax or mental health levy for payments taken to
 be wages ***
@@ -930,7 +1228,6 @@ be wages ***
      is satisfied either the secondary payment or the primary payment is
      made with an intention either directly or indirectly of avoiding the
      payment of tax by the relevant contract employer or another person.
- 
 Meaning of employment agency contract
 *** 13G Meaning of employment agency contract ***
      (1) An
@@ -943,20 +1240,16 @@ Meaning of employment agency contract
      (3) Subsection (1) applies to a contract whether it is formal or
      informal, express or implied.
      (4) For this sectionâ
-
      "contract" includes agreement, arrangement and undertaking.
- 
 Persons taken to be employers
 *** 13H Persons taken to be employers ***
 For this Act, the employment agent under an employment agency contract is taken
 to be an employer.
- 
 Persons taken to be employees
 *** 13I Persons taken to be employees ***
 For this Act, the person who performs work in relation to which services are
 supplied to the client under an employment agency contract is taken to be an
 employee of the employment agent under the contract.
- 
 Amounts taken to be wages
 *** 13J Amounts taken to be wages ***
      (1) For this Act, the following are taken to be wages paid or payable
@@ -981,7 +1274,6 @@ Amounts taken to be wages
           (b) the client has given the employment agent a
           declaration, in the approved form, that subsection (1) does
           not apply to the amount, benefit or payment.
- 
 Liability for payroll tax or mental health levy for payments taken to be wages
 *** 13K Liability for payroll tax or mental health levy for payments taken to
 be wages ***
@@ -1000,7 +1292,6 @@ be wages ***
      provider for the client.
      (3) This section applies subject to sections 13L and 13LA and part 2,
      divisions 5B and 5C.
- 
 Employment agency contract reducing or avoiding liability to payroll tax or
 mental health levy
 *** 13L Employment agency contract reducing or avoiding liability to payroll
@@ -1022,7 +1313,6 @@ tax or mental health levy ***
      person taken to be an employer for the purposes of this Act.
      (4) The notice must state the facts on which the commissioner relies
      and the reasons for making the determination.
- 
 Particular avoidance arrangements involving employment agents
 *** 13LA Particular avoidance arrangements involving employment agents ***
      (1) This section applies ifâ
@@ -1076,7 +1366,6 @@ Particular avoidance arrangements involving employment agents
      each avoidance arrangement and then calculating the total amount for
      the subsection.
      (6) In this sectionâ
-
      "avoidance arrangement" means an arrangement involving an employment
      agency if the arrangement involves 1 or more of the followingâ
           (a) an employment agent acting as trustee for a client of
@@ -1087,20 +1376,16 @@ Particular avoidance arrangements involving employment agents
           of an employment agent jointly acquiring, a controlling
           interest in the business of the employment agent referable
           to the client or clients.
-
      "client" includes an individual or company thatâ
           (a) under the Duties Act 2001, section 164, is a related
           person of the client; or
           (b) is related to the client in another way prescribed
           under a regulation.
-
      "employment agency" means a business enterprise involvingâ
           (a) the business of an employment agent; or
           (b) the businesses of 2 or more employment agents.
-
      "employment agency contract" see the definition
      "employment agent" for this section.
-
      "employment agent" means a person who, by a contract, agreement,
      arrangement or undertaking (the
      "employment agency contract"), procures the services of another
@@ -1108,44 +1393,33 @@ Particular avoidance arrangements involving employment agents
      "worker") for a client of the agent, if the employment agency
      contract is not, and does not result in the creation of, a contract
      of employment between the worker and the client.
-
      "resultant provision" means subsection (2), paragraph (a), (b), (c)
      or (d).
-
      "return period" meansâ
           (a) for an employment agent who is required to lodge
           periodic returnsâa periodic return period or financial
           year; or
           (b) for an employment agent who is exempt under section 62
           from lodging periodic returnsâa financial year.
- 
 Application of div 1C
 *** 13M Application of div 1C ***
 This division applies for paragraphs (j) and (k) of the definition of
 "wages" in the schedule.
- 
 Definitions for div 1C
 *** 13N Definitions for div 1C ***
 In this divisionâ
-
 "director", of a company, includesâ
      (a) a person who, under a contract or other arrangement, is to be
      appointed as a director of the company; and
      (b) a former director of the company.
-
 "granted", in relation to a share or option, see section 13O.
-
 "grantee", in relation to a grant of a share or option comprising wages for
 this Act, means the employee or director to whom the share or option is
 granted.
-
 "grantor", in relation to a grant of a share or option comprising wages for
 this Act, means the employer or company by whom the share or option is granted.
-
 "relevant day" see section 13Q (2).
-
 "vesting day" see section 13R (2).
- 
 When share or option is granted
 *** 13O When share or option is granted ***
      (1) A share is
@@ -1170,7 +1444,6 @@ When share or option is granted
           subsection (1) or (2); or
           (b) the person acquires a beneficial interest in the share
           or option from another person.
- 
 Grant of share because of exercise of option
 *** 13P Grant of share because of exercise of option ***
 Despite paragraphs (j) and (k) of the definition of
@@ -1183,7 +1456,6 @@ wages ifâ
           for this Act; or
           (ii) the option was granted to the person before 1 July
           2008.
- 
 Day on which wages are paid or payable
 *** 13Q Day on which wages are paid or payable ***
      (1) Wages comprising the grant of a share or option are taken to be
@@ -1192,7 +1464,6 @@ Day on which wages are paid or payable
      "relevant day" is the day the grantor elects under this division to
      treat as the day on which the wages comprising the grant of the share
      or option are paid or payable.
- 
 Election by grantor of relevant day
 *** 13R Election by grantor of relevant day ***
      (1) A grantor may elect to treat either of the following as the day
@@ -1221,7 +1492,6 @@ Election by grantor of relevant day
           been met; and
           (b) the granteeâs legal or beneficial interest in the
           share can not be rescinded.
- 
 Automatic election of relevant day
 *** 13S Automatic election of relevant day ***
      (1) This section applies if a grantor grants a share or option to a
@@ -1244,7 +1514,6 @@ Automatic election of relevant day
      day on which the wages comprising the grant of the share or option
      are paid or payable.
      (4) This section applies despite section 13R.
- 
 Effect of rescission or cancellation of share or option
 *** 13T Effect of rescission or cancellation of share or option ***
      (1) If, before the vesting day, the grant of a share or option is
@@ -1286,7 +1555,6 @@ Effect of rescission or cancellation of share or option
      (6) Subsections (2) and (3) do not apply only because the grantee
      fails to exercise an option or otherwise exercise the granteeâs
      rights in relation to a share or option.
- 
 Value of taxable wages
 *** 13U Value of taxable wages ***
      (1) The value of taxable wages comprising the grant of a share or
@@ -1326,7 +1594,6 @@ Value of taxable wages
      (7) If the value stated by the person appointed under subsection (6)
      is more than the value stated by the employer, the commissioner may
      claim all or part of the valuation costs from the employer.
- 
 When services are performed
 *** 13V When services are performed ***
      (1) Wages comprising the grant of a share or option by a company to a
@@ -1338,7 +1605,6 @@ When services are performed
      subsection (1) does not apply are taken to be paid or payable for
      services performed or rendered during the month in which the relevant
      day falls.
- 
 Place where wages are paid or payable
 *** 13W Place where wages are paid or payable ***
      (1) Wages comprising the grant of a share or option are taken to be
@@ -1358,7 +1624,6 @@ Place where wages are paid or payable
      expected the services of the director for the company will be
      performed or rendered.
      (5) In this sectionâ
-
      "local company" meansâ
           (a) a company that isâ
                (i) registered or taken to be registered under
@@ -1366,15 +1631,11 @@ Place where wages are paid or payable
                (ii) taken to be registered in Queensland for
                that Act; or
           (b) another body corporate incorporated under an Act.
- 
 Definitions for sdiv 1
 *** 13X Definitions for sdiv 1 ***
 In this subdivisionâ
-
 "averaging method" means the method described in section 13ZB.
-
 "averaging period" see section 13ZD (1).
-
 "business journey" meansâ
      (a) a journey undertaken in a motor vehicle by a person, other than
      for applying the vehicle for a use thatâ
@@ -1385,16 +1646,11 @@ In this subdivisionâ
      (b) a journey undertaken in a motor vehicle by a person in the course
      of producing assessable income of the person under the Income Tax
      Assessment Act 1936 (Cwlth).
-
 "business vehicle", of an employee, means a motor vehicle provided or
 maintained by the employee for undertaking business journeys.
-
 "continuous recording method" means the method described in section 13ZA.
-
 "number of exempt kilometres" see section 13Y (4), definition K.
-
 "relevant percentage" see section 13ZB (4).
- 
 Exempt component of motor vehicle allowance
 *** 13Y Exempt component of motor vehicle allowance ***
      (1) For this Act, a reference to wages, in relation to a return
@@ -1413,13 +1669,10 @@ Exempt component of motor vehicle allowance
      employee for a business vehicle for a return period is the amount
      worked out using the following formulaâ
      whereâ
-
      "E" means the exempt component.
-
      "K" means the number of exempt kilometres travelled by the vehicle
      during the return period, worked out under section 13Z (the
      "number of exempt kilometres").
-
      "R" meansâ
           (a) the rate determined under the Income Tax Assessment Act
           1997 (Cwlth), section 28 -25(4) for calculating a deduction
@@ -1428,7 +1681,6 @@ Exempt component of motor vehicle allowance
           year in which the allowance is paid or payable; or
           (b) if there is no rate under paragraph (a) âthe rate
           prescribed by regulation.
- 
 Working out the number of exempt kilometres
 *** 13Z Working out the number of exempt kilometres ***
      (1) For section 13Y (4), the number of exempt kilometres must be
@@ -1459,7 +1711,6 @@ Working out the number of exempt kilometres
      (2), the commissioner must give a copy of the approval to the
      employer or, if the approval applies to a class of employers, each
      employer to whom it applies.
- 
 Continuous recording method
 *** 13ZA Continuous recording method ***
      (1) This section applies if, under section 13Z (1) (a), the employer
@@ -1478,7 +1729,6 @@ Continuous recording method
      (3) The number of exempt kilometres is the distance of all business
      journeys mentioned in subsection (2) (a), worked out using the
      odometer readings mentioned in the subsection.
- 
 Averaging methodâhow it works
 *** 13ZB Averaging methodâhow it works ***
      (1) This section applies if, under section 13Z (1) (b), the employer
@@ -1491,26 +1741,20 @@ Averaging methodâhow it works
      (3) The number of exempt kilometres is the number worked out using
      the following formulaâ
      whereâ
-
      "D" means the total distance travelled by the business vehicle during
      the return period, worked out using the odometer readings mentioned
      in section 13ZC (3) (a).
-
      "K" means the number of exempt kilometres.
-
      "RP" means the relevant percentage for the vehicle.
      (4) The
      "relevant percentage" for the business vehicle is the percentage
      worked out using the following formulaâ
      whereâ
-
      "B" means the distance travelled by the employee in the course of
      business journeys undertaken by means of the vehicle during the
      averaging period for the vehicle, worked out using the odometer
      readings mentioned in section 13ZC (2) (a).
-
      "RP" means the relevant percentage.
-
      "T" means the total distance travelled by the vehicle during the
      averaging period for the vehicle, worked out using the odometer
      readings mentioned in section 13ZC (2) (d).
@@ -1528,7 +1772,6 @@ Averaging methodâhow it works
           succeeding 4 financial years after the financial year
           mentioned in paragraph (a).
      (7) Subsection (5) applies subject to section 13ZE.
- 
 Averaging methodârecords to be kept by employer
 *** 13ZC Averaging methodârecords to be kept by employer ***
      (1) An employer who, under section 13Z (1) (b), works out the number
@@ -1574,7 +1817,6 @@ Averaging methodârecords to be kept by employer
      relevant for using the averaging method, the employer must keep a
      record of the odometer readings immediately before and immediately
      after the replacement or recalibration.
- 
 Averaging methodâwhat is the averaging period
 *** 13ZD Averaging methodâwhat is the averaging period ***
      (1) The
@@ -1593,7 +1835,6 @@ Averaging methodâwhat is the averaging period
      of an employee for the same return period, the averaging period for
      the vehicles must be the same.
      (4) This section applies subject to section 13ZE.
- 
 Averaging methodârecalculation of relevant percentage
 *** 13ZE Averaging methodârecalculation of relevant percentage ***
      (1) This section applies to an employer who, under section 13Z (1)
@@ -1626,14 +1867,12 @@ Averaging methodârecalculation of relevant percentage
                must use the new relevant percentage for the
                return periods mentioned in section 13ZB (6).
      (4) In this sectionâ
-
      "recalculate" the relevant percentage for a business vehicle meansâ
           (a) record the details mentioned in section 13ZC (2) (a) to
           (e) in relation to a new averaging period for the vehicle;
           and
           (b) work out a new relevant percentage for the vehicle
           using the details mentioned in paragraph (a).
- 
 Averaging methodâreplacing a business vehicle
 *** 13ZF Averaging methodâreplacing a business vehicle ***
      (1) An employer using the averaging method may nominate 1 business
@@ -1662,7 +1901,6 @@ Averaging methodâreplacing a business vehicle
           immediately before the nomination takes effect; and
           (b) the odometer reading of the replacement vehicle
           immediately after the nomination takes effect.
- 
 Switching between continuous recording and averaging methods
 *** 13ZG Switching between continuous recording and averaging methods ***
      (1) An employer may change from using a recording method to using the
@@ -1674,10 +1912,8 @@ Switching between continuous recording and averaging methods
                comply for the financial year for the continuous
                recording method or averaging method.
      (2) In this sectionâ
-
      "recording method" means the averaging method or continuous recording
      method.
- 
 Exempt rate for accommodation allowance
 *** 13ZH Exempt rate for accommodation allowance ***
      (1) For this Act, a reference to wages does not include a reference
@@ -1698,7 +1934,6 @@ Exempt rate for accommodation allowance
           Act 1997 (Cwlth), section 900 -50; or
           (b) if no decision mentioned in paragraph (a) is in
           forceâthe rate prescribed under a regulation.
- 
 Exemption from payroll tax and mental health levy
 *** 14 Exemption from payroll tax and mental health levy ***
      (2) The wages liable to payroll tax and the mental health levy under
@@ -1830,30 +2065,23 @@ Exemption from payroll tax and mental health levy
      paid or payable as annual leave, long service leave, recreation leave
      or sick leave.
      (9) In this sectionâ
-
      "Australian Qualifications Framework" has the meaning given under the
      Higher Education Support Act 2003 (Cwlth), schedule 1.
-
      "certificate II traineeship" means a traineeship leading to a
      certificate II qualification under the Australian Qualifications
      Framework.
-
      "certificate III traineeship" means a traineeship leading to a
      certificate III traineeship qualification under the Australian
      Qualifications Framework.
-
      "charitable institution" means an institution registered under the
      Administration Act, part 11A, other than a university or university
      college.
-
      "commercialised business unit" means a division, branch or other part
      of a department carrying on a business activity included in the list
      published under the Queensland Competition Authority Act 1997,
      section 39 (4).
-
      "department" means a department under the Financial Accountability
      Act 2009, section 8.
-
      "general practitioner" meansâ
           (a) a person registered under the Health Practitioner
           Regulation National Law to practise in the medical
@@ -1869,13 +2097,11 @@ Exemption from payroll tax and mental health levy
                (ii) who predominantly provides services of the
                kind ordinarily provided by a general
                practitioner mentioned in paragraph (a).
-
      "medical practice" means an entity, other than a hospital, carrying
      on a business at which services of the kind ordinarily provided by a
      person mentioned in the definition
      "general practitioner", paragraph (a) are provided, whether or not
      the services are provided from particular premises.
-
      "non-tertiary educational institution" means an institution, not
      carried on by or on behalf of the State, the principal object and
      pursuit of which isâ
@@ -1884,7 +2110,6 @@ Exemption from payroll tax and mental health levy
           (b) the conduct of a rural training school; or
           (c) the conduct of a kindergarten or preschool; or
           (d) any 2 or more of those objects and pursuits.
-
      "qualifying exempt purpose" means each of the followingâ
           (a) activities of a religious nature;
           (b) public benevolent purposes;
@@ -1906,7 +2131,6 @@ Exemption from payroll tax and mental health levy
           religious order, who is or are engaged in an object or
           pursuit of a kind mentioned in any of paragraphs (a) to
           (h).
- 
 Exemption for parental, adoption, surrogacy or cultural parent leave
 *** 14A Exemption for parental, adoption, surrogacy or cultural parent leave
 ***
@@ -1986,43 +2210,33 @@ Exemption for parental, adoption, surrogacy or cultural parent leave
      (6) The exemption under subsection (1) does not apply to wages
      comprising a fringe benefit under the Fringe Benefits Assessment Act.
      (7) In this sectionâ
-
      "adoption leave" means leave given to an employee in connection with
      the adoption of a child by the employee, other than annual leave,
      recreation leave, sick leave or similar leave.
-
      "cultural parent" see the Meriba Omasker Kaziw Kazipa (Torres Strait
      Islander Traditional Child Rearing Practice) Act 2020, section 10.
-
      "cultural parent leave", for a cultural parent, means leave given to
      an employee in connection with a cultural recognition order
      transferring the parental rights and responsibility for a child to
      the employee, other than annual leave, recreation leave, sick leave
      or similar leave.
-
      "cultural recognition order" see the Meriba Omasker Kaziw Kazipa
      (Torres Strait Islander Traditional Child Rearing Practice) Act 2020,
      schedule 1.
-
      "maternity leave" means leave given to a female employee in
      connection with her pregnancy or the birth of her child, other than
      annual leave, recreation leave, sick leave or similar leave.
-
      "parental leave" means maternity leave or paternity leave.
-
      "paternity leave" means leave given to a male employee in connection
      with the pregnancy of a female carrying his unborn child or the birth
      of his child, other than annual leave, recreation leave, sick leave
      or similar leave.
-
      "surrogacy arrangement" has the meaning given by the Surrogacy Act
      2010.
-
      "surrogacy leave" means leave given to an employee in connection with
      a child residing with the employee under a surrogacy arrangement,
      other than annual leave, recreation leave, sick leave or similar
      leave.
- 
 Exemption from payroll tax and mental health levyâcertain CWA wages
 *** 15 Exemption from payroll tax and mental health levyâcertain CWA wages
 ***
@@ -2078,9 +2292,7 @@ Exemption from payroll tax and mental health levyâcertain CWA wages
           Disabled Persons Care Act 1954 (Cwlth); and
           (c) an activity of a type prescribed under a regulation.
      (9) In this sectionâ
-
      "CWA" means Queensland Country Womenâs Association.
- 
 Exemption for services performed or rendered entirely in another country
 *** 15A Exemption for services performed or rendered entirely in another
 country ***
@@ -2089,35 +2301,25 @@ not include wages paid or payable by an employer for an employee for services
 performed or rendered entirely in another country for a continuous period of
 more than 6 months after wages were first paid for the employee for the
 services.
- 
 Application of sdiv 1
 *** 16 Application of sdiv 1 ***
 This subdivision applies to an employer whoâ
      (a) is required under section 59 to lodge periodic returns; and
      (b) is not the DGE for a group.
- 
 Definitions for sdiv 1
 *** 17 Definitions for sdiv 1 ***
 In this subdivisionâ
-
 "actual periodic deduction", for the employer for a periodic return period,
 means the greater of zero and the amount worked out using the following
 formulaâ
 whereâ
-
 "APD" means the actual periodic deduction in dollars.
-
 "E" (maximum deduction per month) means 108,333.
-
 "F" means the number of days in the period for which the employer pays, or is
 liable to pay, taxable wages.
-
 "G" means the total number of days in the period.
-
 "M" means the number of months in the period.
-
 "TW" means the amount of taxable wages paid or payable in the period.
-
 "fixed periodic deduction", for the employer for a periodic return period,
 meansâ
      (a) the amount of the employerâs deduction for the period
@@ -2126,21 +2328,15 @@ meansâ
      amount worked out on the most recent calculation day using the
      following formulaâ
      whereâ
-
      "AW" means the total amount of taxable wages and interstate wages
      estimated by the employer to be payable by the employer for the
      financial year in which the period falls.
-
      "E" means 108,333.
-
      "FPD" means the fixed periodic deduction in dollars.
-
      "M" means the number of months in the period.
-
      "QW" means the total amount of taxable wages estimated by the
      employer to be payable by the employer for the financial year in
      which the period falls.
- 
 Meaning of calculation day
 *** 18 Meaning of calculation day ***
 For working out the employerâs fixed periodic deduction for a periodic return
@@ -2162,7 +2358,6 @@ period in a financial year, each of the following days in the year is a
      deduction;
      (f) the day a change to the employerâs periodic return period takes
      effect under section 60.
- 
 Meaning of significant wage change
 *** 19 Meaning of significant wage change ***
      (1) A
@@ -2173,16 +2368,13 @@ Meaning of significant wage change
           (b) the previous estimated wages differ by more than 30%
           from the current estimated wages.
      (2) In this sectionâ
-
      "current estimated wages" means the total amount of taxable wages and
      interstate wages, or the total amount of taxable wages, for the
      financial year estimated by the employer at the end of the periodic
      return period mentioned in subsection (1).
-
      "previous estimated wages" means the estimated total amount of
      taxable wages and interstate wages, or the estimated total amount of
      taxable wages, used for working out the fixed periodic deduction.
- 
 Amount of periodic liability
 *** 20 Amount of periodic liability ***
      (1) The employerâs liability (
@@ -2209,7 +2401,6 @@ Amount of periodic liability
      (2A) Subsection (1) does not apply for the last periodic return
      period of a financial year for the employer.
      (3) In this sectionâ
-
      "previous interstate wage payer" means an employer whoâ
           (a) paid, or was liable to pay, interstate wages at any
           time duringâ
@@ -2230,7 +2421,6 @@ Amount of periodic liability
           An employer may be required, under the Administration Act,
           to include assessed interest or penalty tax in an
           assessment of periodic liability.
- 
 Determination by commissioner of fixed periodic deduction
 *** 21 Determination by commissioner of fixed periodic deduction ***
      (1) The commissioner may, by written notice given to the employer,
@@ -2257,15 +2447,12 @@ Determination by commissioner of fixed periodic deduction
      (4) may be before or after, or the same periodic return period as,
      the periodic return period in which the notice is given but may not
      be before the date of the determination being revoked.
- 
 Application of sdiv 2
 *** 22 Application of sdiv 2 ***
 This subdivision applies to the DGE for a group.
- 
 Definition for sdiv 2
 *** 23 Definition for sdiv 2 ***
 In this subdivisionâ
-
 "fixed periodic deduction", for the DGE for a periodic return period, meansâ
      (a) the amount of the DGEâs deduction for the period determined by
      the commissioner under section 27; or
@@ -2273,21 +2460,15 @@ In this subdivisionâ
      amount worked out on the most recent calculation day using the
      following formulaâ
      whereâ
-
      "AW" means the total amount of taxable wages and interstate wages
      estimated by the members of the group to be payable by the members
      for the financial year in which the period falls.
-
      "E" means 108,333.
-
      "FPD" means the fixed periodic deduction in dollars.
-
      "M" means the number of months in the period.
-
      "QW" means the total amount of taxable wages estimated by the members
      of the group to be payable by the members for the financial year in
      which the period falls.
- 
 Meaning of calculation day
 *** 24 Meaning of calculation day ***
 For working out the DGEâs fixed periodic deduction for a periodic return
@@ -2302,7 +2483,6 @@ period in a financial year, each of the following days in the year is a
      commissioner does not make a further determination of the deduction;
      (e) the day a change in the DGEâs periodic return period takes
      effect under section 60.
- 
 Meaning of significant wage change
 *** 25 Meaning of significant wage change ***
      (1) A
@@ -2310,17 +2490,14 @@ Meaning of significant wage change
      a group if the previous estimated wages differ by more than 30% from
      the current estimated wages.
      (2) In this sectionâ
-
      "current estimated wages" means the total amount of taxable wages and
      interstate wages, or the total amount of taxable wages, for the
      financial year estimated by the members of the group at the end of
      the periodic return period mentioned in subsection (1).
-
      "previous estimated wages" means the estimated total amount of
      taxable wages and interstate wages, or the estimated total amount of
      taxable wages, of the members of the group used for working out the
      fixed periodic deduction for the DGE for a periodic return period.
- 
 Amount of periodic liability
 *** 26 Amount of periodic liability ***
      (1) The DGEâs liability (
@@ -2341,7 +2518,6 @@ Amount of periodic liability
           of periodic liability.
      (2) Subsection (1) does not apply for the last periodic return period
      of a financial year for the DGE.
- 
 Determination by commissioner of fixed periodic deduction
 *** 27 Determination by commissioner of fixed periodic deduction ***
      (1) The commissioner may, by written notice given to the DGE,
@@ -2369,7 +2545,6 @@ Determination by commissioner of fixed periodic deduction
      (6), the group member is, on the first day of the first periodic
      return period to which the determination applies, taken to have been
      designated under section 75 (1) or (2) as the DGE for the group.
- 
 Rebate for periodic liability
 *** 27A Rebate for periodic liability ***
      (1) This section applies ifâ
@@ -2383,27 +2558,22 @@ Rebate for periodic liability
      for each periodic return period is reduced by the amount of the
      rebate for the period.
      (3) In this sectionâ
-
      "rebate", for a periodic return period, means the lesser of the
      following amountsâ
           (a) the amount worked out using the following formulaâ
           whereâ
-
           "R" meansâ
                (a) if the periodic return period is in an
                eligible year ending on 30 June 2017, 2018, 2019,
                2020, 2021, 2022, 2023, 2024, 2025 or 2026â2;
                or
                (b) otherwiseâ4.
-
           "T" means the appropriate rate of payroll tax for the
           periodic return period.
-
           "W" means the amount of wages mentioned in subsection (1)
           for the periodic return period;
           (b) the employerâs, or DGEâs, periodic liability for
           payroll tax for the periodic return period.
- 
 Application of sdiv 1
 *** 28 Application of sdiv 1 ***
 This subdivision applies to an employer whoâ
@@ -2413,42 +2583,31 @@ This subdivision applies to an employer whoâ
           Noteâ
                For provisions about a DGEâs annual liability,
                see subdivision 2.
- 
 Definitions for sdiv 1
 *** 29 Definitions for sdiv 1 ***
      (1) In this subdivisionâ
-
      "annual adjustment amount", for the employer for a financial year,
      means the difference betweenâ
           (a) the employerâs annual payroll tax amount for the
           year; and
           (b) the employerâs periodic liability for periodic return
           periods in the year.
-
      "annual deduction", for the employer for a financial year, means the
      greater of zero and the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the number of days in the part of the year starting on 1
      July and ending on 31 December for which the employer pays, or is
      liable to pay, wages, other than foreign wages.
-
      "AD" means the annual deduction in dollars.
-
      "AW" means the employerâs annual wages for the year.
-
      "B" means the number of days in the part of the year starting on 1
      January and ending on 30 June for which the employer pays, or is
      liable to pay, wages, other than foreign wages.
-
      "C" means the number of days in the year.
-
      "IW" means the amount of interstate wages paid or payable in the
      year.
-
      "K" means 1,300,000.
-
      "annual payroll tax amount", for the employer for a financial year,
      meansâ
           (a) if the employer is not a group member on 30 June in the
@@ -2464,7 +2623,6 @@ Definitions for sdiv 1
           yearâthe amount worked out by applying the appropriate
           rate of payroll tax to the employerâs annual wages for
           the year.
-
      "annual wages", for the employer for a financial year, means the
      total taxable wages paid or payable by the employer during the year.
      (2) Despite subsection (1), definition annual deduction, if a person
@@ -2489,7 +2647,6 @@ Definitions for sdiv 1
      (4) Also, the commissioner may treat the person, under subsection
      (2), as an employer only during the part of the year after the end of
      the last final period.
- 
 Amount of annual liability
 *** 30 Amount of annual liability ***
      (1) The employerâs liability (
@@ -2561,7 +2718,6 @@ Amount of annual liability
           An employer may be required, under the Administration Act,
           to include assessed interest or penalty tax in an
           assessment of annual liability.
- 
 Entitlement to annual refund amount
 *** 31 Entitlement to annual refund amount ***
      (1) This section applies if the employerâs periodic liability for
@@ -2580,67 +2736,52 @@ Entitlement to annual refund amount
                Entitlement to refunds on reassessments is
                provided for in the Administration Act, part 4,
                division 2.
- 
 Application of sdiv 2
 *** 32 Application of sdiv 2 ***
 This subdivision applies to an employer who, on 30 June in a financial year, is
 the DGE for a group.
- 
 Definitions for sdiv 2
 *** 33 Definitions for sdiv 2 ***
 In this subdivisionâ
-
 "annual adjustment amount", for the DGE for a financial year, means the
 difference betweenâ
      (a) the DGEâs annual payroll tax amount for the year; and
      (b) the DGEâs periodic liability for periodic return periods in the
      designated period for the DGE in the year.
-
 "annual deduction", for the DGE for a financial year, means the greater of zero
 and the amount worked out using the following formulaâ
 whereâ
-
 "A" means the number of days in the designated period for the DGEâ
      (a) that are in the part of the year starting on 1 July and ending on
      31 December, whether or not wholly or partly concurrent; and
      (b) for which 1 or more relevant group employers pay, or are liable
      to pay, as members of the group taxable wages or interstate wages or
      taxable wages and interstate wages.
-
 "AD" means the annual deduction in dollars.
-
 "B" means the number of days in the designated periodâ
      (a) that are in the part of the year starting on 1 January and ending
      on 30 June, whether or not wholly or partly concurrent; and
      (b) for which 1 or more relevant group employers pay, or are liable
      to pay, as members of the group taxable wages or interstate wages or
      taxable wages and interstate wages.
-
 "C" means the number of days in the year.
-
 "IW" means the amount of interstate wages paid or payable for the designated
 period by each relevant group employer as a member of the group.
-
 "K" means 1,300,000.
-
 "TW" means the amount of taxable wages paid or payable for the designated
 period by each relevant group employer as a member of the group.
-
 "annual payroll tax amount" for the DGE for a financial year, meansâ
      (a) if the DGEâs annual deduction for the year is greater than the
      DGEâs annual wages for the yearâzero; or
      (b) if paragraph (a) does not applyâthe amount worked out by
      applying the appropriate rate of payroll tax to the DGEâs annual
      wages for the year less the DGEâs annual deduction for the year.
-
 "annual wages", for the DGE for a financial year, means the total taxable wages
 paid or payable by the DGE during the designated period for the DGE in the
 year.
-
 "relevant group employer", for the designated period for the DGE in a financial
 year, means an employer who was a member of the group for all or part of the
 period.
- 
 Amount of DGEâs annual liability
 *** 34 Amount of DGEâs annual liability ***
      (1) The DGEâs liability (
@@ -2677,7 +2818,6 @@ Amount of DGEâs annual liability
           A DGE may be required, under the Administration Act, to
           include assessed interest or penalty tax in an assessment
           of annual liability.
- 
 Entitlement to annual refund amount
 *** 35 Entitlement to annual refund amount ***
      (1) This section applies if the DGEâs periodic liability for
@@ -2697,7 +2837,6 @@ Entitlement to annual refund amount
                Entitlement to refunds on reassessments is
                provided for in the Administration Act, part 4,
                division 2.
- 
 Rebate for annual payroll tax amount
 *** 35A Rebate for annual payroll tax amount ***
      (1) This section applies ifâ
@@ -2716,26 +2855,21 @@ Rebate for annual payroll tax amount
      payable for a final period during the year are not to be included in
      working out the amount of the rebate.
      (4) In this sectionâ
-
      "rebate", for an eligible year, means the lesser of the following
      amountsâ
           (a) the amount worked out using the following formulaâ
           whereâ
-
           "R" meansâ
                (a) if the eligible year ends on 30 June 2017,
                2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 or
                2026â2; or
                (b) otherwiseâ4.
-
           "T" means the appropriate rate of payroll tax for the
           eligible year.
-
           "W" means the amount of wages mentioned in subsection (1)
           for the eligible year;
           (b) the employerâs, or DGEâs, annual payroll tax amount
           for the eligible year.
- 
 Application of sdiv 1
 *** 36 Application of sdiv 1 ***
 This subdivision applies to an employer whoâ
@@ -2745,41 +2879,30 @@ This subdivision applies to an employer whoâ
           Noteâ
                For provisions about a DGEâs final liability,
                see subdivision 2.
- 
 Definitions for sdiv 1
 *** 37 Definitions for sdiv 1 ***
 In this subdivisionâ
-
 "final adjustment amount", for the employer for a final period, means the
 difference betweenâ
      (a) the employerâs final payroll tax amount for the period; and
      (b) the employerâs periodic liability amount for the final period.
-
 "final deduction", for the employer for a final period, means the greater of
 zero and the amount worked out using the following formulaâ
 whereâ
-
 "A" means the number of days in the part of the final period starting on 1 July
 and ending on 31 December for which the employer pays, or is liable to pay,
 wages.
-
 "B" means the number of days in the part of the final period starting on 1
 January and ending on 30 June for which the employer pays, or is liable to pay,
 wages.
-
 "C" meansâ
      (a) if the final period is within a financial year that includes 29
      Februaryâ366; or
      (b) otherwiseâ365.
-
 "FD" means the final deduction in dollars.
-
 "FW" means the employerâs final wages for the period.
-
 "IW" means the amount of interstate wages paid or payable in the period.
-
 "K" means 1,300,000.
-
 "final payroll tax amount", for the employer for a final period, meansâ
      (a) if the employer is not a group member on the last day of the
      period and the employerâs final deduction for the period is greater
@@ -2792,12 +2915,9 @@ wages.
      (c) if the employer is a group member on the last day of the
      periodâthe amount worked out by applying the appropriate rate of
      payroll tax to the employerâs final wages for the period.
-
 "final wages", for the employer for a final period, means the total taxable
 wages paid or payable by the employer during the period.
-
 "wages" does not include foreign wages.
- 
 Amount of final liability
 *** 38 Amount of final liability ***
      (1) The employerâs liability (
@@ -2861,7 +2981,6 @@ Amount of final liability
           An employer may be required, under the Administration Act,
           to include assessed interest or penalty tax in an
           assessment of final liability.
- 
 Entitlement to final refund amount
 *** 39 Entitlement to final refund amount ***
      (1) This section applies if the employerâs periodic liability
@@ -2880,67 +2999,52 @@ Entitlement to final refund amount
                Entitlement to refunds on reassessments is
                provided for in the Administration Act, part 4,
                division 2.
- 
 Application of sdiv 2
 *** 40 Application of sdiv 2 ***
 This subdivision applies to an employer who is the DGE for a group on the last
 day of a final period.
- 
 Definitions for sdiv 2
 *** 41 Definitions for sdiv 2 ***
 In this subdivisionâ
-
 "final adjustment amount", for the DGE for a final period, means the difference
 betweenâ
      (a) the DGEâs final payroll tax amount for the period; and
      (b) the DGEâs periodic liability amount for the final period.
-
 "final deduction", for the DGE for a final period, means the greater of zero
 and the amount worked out using the following formulaâ
 whereâ
-
 "A" means the number of daysâ
      (a) that are in the part of the final period starting on 1 July and
      ending on 31 December; and
      (b) for which 1 or more relevant group employers pay, or are liable
      to pay, as members of the group taxable wages or interstate wages or
      taxable wages and interstate wages.
-
 "B" means the number of daysâ
      (a) that are in the part of the final period starting on 1 January
      and ending on 30 June; and
      (b) for which 1 or more relevant group employers pay, or are liable
      to pay, as members of the group taxable wages or interstate wages or
      taxable wages and interstate wages.
-
 "C" meansâ
      (a) if the final period is within a financial year that includes 29
      Februaryâ366; or
      (b) otherwiseâ365.
-
 "FD" means the final deduction in dollars.
-
 "IW" means the amount of interstate wages paid or payable for the final period
 by each relevant group employer as a member of the group.
-
 "K" means 1,300,000.
-
 "TW" means the amount of taxable wages paid or payable for the final period by
 each relevant group employer as a member of the group.
-
 "final payroll tax amount", for the DGE for a final period, meansâ
      (a) if the DGEâs final deduction for the period is greater than the
      DGEâs final wages for the periodâzero; or
      (b) if paragraph (a) does not applyâthe amount worked out by
      applying the appropriate rate of payroll tax to the DGEâs final
      wages for the period less the DGEâs final deduction for the period.
-
 "final wages", for the DGE for a final period, means the total taxable wages
 paid or payable by the DGE during the period.
-
 "relevant group employer", for a final period for the DGE, means an employer
 who was a member of the group for all or part of the period.
- 
 Amount of DGEâs final liability
 *** 42 Amount of DGEâs final liability ***
      (1) The DGEâs liability (
@@ -2978,7 +3082,6 @@ Amount of DGEâs final liability
           A DGE may be required, under the Administration Act, to
           include assessed interest or penalty tax in an assessment
           of final liability.
- 
 Entitlement to final refund amount
 *** 43 Entitlement to final refund amount ***
      (1) This section applies if the DGEâs periodic liability amount for
@@ -2997,7 +3100,6 @@ Entitlement to final refund amount
                Entitlement to refunds on reassessments is
                provided for in the Administration Act, part 4,
                division 2.
- 
 Rebate for final payroll tax amount
 *** 43A Rebate for final payroll tax amount ***
      (1) This section applies ifâ
@@ -3010,31 +3112,25 @@ Rebate for final payroll tax amount
      (2) The employerâs, or DGEâs, final payroll tax amount for the
      final period is reduced by the amount of the rebate for the period.
      (3) In this sectionâ
-
      "rebate", for a final period, means the lesser of the following
      amountsâ
           (a) the amount worked out using the following formulaâ
           whereâ
-
           "R" meansâ
                (a) if the final period is in an eligible year
                ending on 30 June 2017, 2018, 2019, 2020, 2021,
                2022, 2023, 2024, 2025 or 2026â2; or
                (b) otherwiseâ4.
-
           "T" means the appropriate rate of payroll tax for the final
           period.
-
           "W" means the amount of wages mentioned in subsection (1)
           for the final period;
           (b) the employerâs, or DGEâs, final payroll tax amount
           for the final period.
- 
 Application of division
 *** 43B Application of division ***
 This division applies to an employer who is required under section 59 to lodge
 periodic returns.
- 
 Meaning of adjusted primary threshold
 *** 43C Meaning of adjusted primary threshold ***
      (1) The
@@ -3042,15 +3138,11 @@ Meaning of adjusted primary threshold
      is not a group member is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the adjusted primary threshold for the financial year for
      the employer.
-
      "B" means $10m.
-
      "C" means the amount of taxable wages estimated by the employer to be
      payable by the employer for the financial year.
-
      "D" means the total amount of taxable wages and interstate wages
      estimated by the employer to be payable by the employer for the
      financial year.
@@ -3059,22 +3151,16 @@ Meaning of adjusted primary threshold
      is a group member is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the adjusted primary threshold for the financial year for
      the employer.
-
      "B" means $10m.
-
      "C" means the total amount of taxable wages estimated to be payable
      by all members of the group for the financial year.
-
      "D" means the total amount of taxable wages and interstate wages
      estimated to be payable by all members of the group for the financial
      year.
-
      "E" means the amount of taxable wages estimated by the employer to be
      payable by the employer for the financial year.
- 
 Meaning of adjusted additional threshold
 *** 43D Meaning of adjusted additional threshold ***
      (1) The
@@ -3082,14 +3168,10 @@ Meaning of adjusted additional threshold
      member for a financial year is the amount worked out using the
      following formulaâ
      whereâ
-
      "A" means the adjusted additional threshold for the employer.
-
      "B" means $100m.
-
      "C" means the amount of taxable wages estimated by the employer to be
      payable by the employer for the financial year.
-
      "D" means the total amount of taxable wages and interstate wages
      estimated by the employer to be payable by the employer for the
      financial year.
@@ -3098,21 +3180,15 @@ Meaning of adjusted additional threshold
      for a financial year is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the adjusted additional threshold for the employer.
-
      "B" means $100m.
-
      "C" means the total amount of taxable wages estimated to be payable
      by all members of the group for the financial year.
-
      "D" means the total amount of taxable wages and interstate wages
      estimated to be payable by all members of the group for the financial
      year.
-
      "E" means the amount of taxable wages estimated by the employer to be
      payable by the employer for the financial year.
- 
 Meaning of primary periodic threshold and additional periodic threshold
 *** 43E Meaning of primary periodic threshold and additional periodic threshold
 ***
@@ -3132,12 +3208,9 @@ Meaning of primary periodic threshold and additional periodic threshold
           (b) otherwiseâthe amount worked out on the most recent
           calculation day using the following formulaâ
           whereâ
-
           "A" means the adjusted primary threshold for the employer
           for the current financial year.
-
           "M" means the number of months in the period.
-
           "PPT" means the primary periodic threshold for the employer
           for the periodic return period.
      (4) The
@@ -3148,22 +3221,17 @@ Meaning of primary periodic threshold and additional periodic threshold
           (b) otherwiseâthe amount worked out on the most recent
           calculation day using the following formulaâ
           whereâ
-
           "A" means the adjusted additional threshold for the
           employer for the current financial year.
-
           "APT" means the additional periodic threshold for the
           employer for the periodic return period.
-
           "M" means the number of months in the periodic return
           period.
- 
 Meaning of current financial year
 *** 43EA Meaning of current financial year ***
 The
 "current financial year" for a periodic return period is the financial year in
 which the periodic return period occurs.
- 
 Meaning of calculation day
 *** 43EB Meaning of calculation day ***
      (1) This section applies for working out an employerâs primary
@@ -3210,7 +3278,6 @@ Meaning of calculation day
      determination stops applying, another relevant determination starts
      to apply.
      (4) In this sectionâ
-
      "relevant determination" meansâ
           (a) in relation to an employerâs primary periodic
           threshold for a periodic return periodâa determination
@@ -3218,7 +3285,6 @@ Meaning of calculation day
           (b) in relation to an employerâs additional periodic
           threshold for a periodic return periodâa determination
           under section 43E (1) (b).
- 
 Meaning of significant wage change
 *** 43EC Meaning of significant wage change ***
      (1) A
@@ -3227,7 +3293,6 @@ Meaning of significant wage change
      differ by more than 30% from the current estimated wages for the
      period.
      (2) In this sectionâ
-
      "current estimated wages", in relation to a periodic return period,
      meansâ
           (a) for an employerâthe total amount of the taxable wages
@@ -3238,7 +3303,6 @@ Meaning of significant wage change
           any interstate wages, for the current financial year,
           estimated by the members of the group at the end of the
           periodic return period.
-
      "previous estimated wages", in relation to a periodic return period,
      meansâ
           (a) for an employerâthe total amount of the taxable wages
@@ -3257,7 +3321,6 @@ Meaning of significant wage change
                period;
                (ii) the most recent calculation day for the
                periodic return period under section 43EB (2).
- 
 Amount of periodic levy liability
 *** 43F Amount of periodic levy liability ***
      (1) An employerâs liability (
@@ -3270,38 +3333,26 @@ Amount of periodic levy liability
      periodic return period is the greater of the amount worked out using
      the following formula and zeroâ
      whereâ
-
      "A" means the number of days the employer paid, or was liable to pay,
      wages in the period.
-
      "B" means the number of days in the period.
-
      "L" means the primary periodic liability for the period.
-
      "PPT" means the primary periodic threshold for the employer for the
      period.
-
      "R" means 0.25%.
-
      "TW" means the amount of the employerâs taxable wages for the
      period.
      (3) For subsection (1) (b), the additional periodic liability for a
      periodic return period is the greater of the amount worked out using
      the following formula and zeroâ
      whereâ
-
      "A" means the number of days the employer paid, or was liable to pay,
      wages in the period.
-
      "APT" means the additional periodic threshold for the employer for
      the period.
-
      "B" means the number of days in the period.
-
      "L" means the additional periodic liability for the period.
-
      "R" means 0.5%.
-
      "TW" means the amount of the employerâs taxable wages for the
      period.
      (4) There is no periodic levy liability for the last periodic return
@@ -3317,14 +3368,12 @@ Amount of periodic levy liability
                     the Administration Act, to include
                     assessed interest or penalty tax in an
                     assessment of periodic levy liability.
- 
 Application of division
 *** 43G Application of division ***
 This division applies to an employer who is required, under section 63, to
 lodge an annual return for a financial year if the employerâ
      (a) is not a member of a group on 30 June in the year; or
      (b) is the DGE for a group on 30 June in the year.
- 
 Meaning of combined periodic liability
 *** 43H Meaning of combined periodic liability ***
 The
@@ -3335,26 +3384,20 @@ The
      (b) if the employer is the DGE for a groupâthe total of each group
      memberâs total periodic levy liability for each periodic return
      period in the year.
- 
 Definitions for division
 *** 43I Definitions for division ***
 In this divisionâ
-
 "additional annual levy amount", for the employer for the financial year, means
 the greater of the amount worked out using the following formula and zeroâ
 whereâ
-
 "A" means the additional annual levy amount for the employer for the financial
 year.
-
 "B" meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages paid or payable by the employer for the financial year; or
      (b) if the employer is the DGE for a groupâthe total taxable wages
      paid or payable by all members of the group for the financial year.
-
 "C" means $100m.
-
 "D" meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages and interstate wages paid or payable by the employer for the
@@ -3362,7 +3405,6 @@ year.
      (b) if the employer is the DGE for a groupâthe total taxable wages
      and interstate wages paid or payable by all members of the group for
      the financial year.
-
 "E" meansâ
      (a) if the employer is not a member of a groupâthe number of days
      the employer paid, or was liable to pay, wages for the financial
@@ -3371,37 +3413,28 @@ year.
      the financial year for which 1 or more relevant group employers paid,
      or were liable to pay, as members of the group taxable wages or
      interstate wages, or taxable wages and interstate wages.
-
 "F" means the number of days in the financial year.
-
 "R" means 0.5%.
-
 "annual levy adjustment amount", for the employer for the financial year, means
 the difference betweenâ
      (a) the employerâs annual levy amount for the financial year; and
      (b) the employerâs combined periodic liability for the financial
      year.
-
 "annual levy amount", for the employer for the financial year, means the total
 ofâ
      (a) the primary annual levy amount; and
      (b) the additional annual levy amount.
-
 "primary annual levy amount", for the employer for the financial year, means
 the greater of the amount worked out using the following formula and zeroâ
 whereâ
-
 "A" means the primary annual levy amount for the employer for the financial
 year.
-
 "B" meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages paid or payable by the employer for the financial year; or
      (b) if the employer is the DGE for a groupâthe total taxable wages
      paid or payable by all members of the group for the financial year.
-
 "C" means $10m.
-
 "D" meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages and interstate wages paid or payable by the employer for the
@@ -3409,7 +3442,6 @@ year.
      (b) if the employer is the DGE for a groupâthe total taxable wages
      and interstate wages paid or payable by all members of the group for
      the financial year.
-
 "E" meansâ
      (a) if the employer is not a member of a groupâthe number of days
      the employer paid, or was liable to pay, wages for the financial
@@ -3418,15 +3450,11 @@ year.
      the financial year for which 1 or more relevant group employers paid,
      or were liable to pay, as members of the group taxable wages or
      interstate wages, or taxable wages and interstate wages.
-
 "F" means the number of days in the financial year.
-
 "R" means 0.25%.
-
 "relevant group employer", in relation to the DGE for a group, for a financial
 year, means an employer who was a member of the group for all or part of the
 financial year.
- 
 Amount of annual levy liability
 *** 43J Amount of annual levy liability ***
      (1) The employerâs liability (
@@ -3532,7 +3560,6 @@ Amount of annual levy liability
                     the Administration Act, to include
                     assessed interest or penalty tax in an
                     assessment of annual levy liability.
- 
 Entitlement to annual levy refund amount
 *** 43K Entitlement to annual levy refund amount ***
      (1) This section applies if the employerâs combined periodic
@@ -3551,7 +3578,6 @@ Entitlement to annual levy refund amount
                Entitlement to refunds on reassessments is
                provided for in the Administration Act, part 4,
                division 2.
- 
 Application of division
 *** 43L Application of division ***
      (1) This division applies to an employer who is required under
@@ -3567,20 +3593,15 @@ Application of division
           (a) if the change of status happens to a group memberâthe
           group member; or
           (b) if the change of status happens to the DGEâthe DGE.
- 
 Definitions for division
 *** 43M Definitions for division ***
 In this divisionâ
-
 "additional final levy amount", for the employer for the final period, means
 the greater of the amount worked out using the following formula and zeroâ
 whereâ
-
 "A" means the additional final levy amount for the employer for the final
 period.
-
 "C" means $100m.
-
 "D" meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages and interstate wages paid or payable by the employer during the
@@ -3588,7 +3609,6 @@ period.
      (b) if the employer is the DGE for a groupâthe total taxable wages
      and interstate wages paid or payable by all relevant group employers
      during the final period.
-
 "E" meansâ
      (a) if the employer is not a member of a groupâthe number of days
      in the part of the final period starting on 1 July and ending on 31
@@ -3598,7 +3618,6 @@ period.
      December for which 1 or more relevant group employers paid, or were
      liable to pay, as members of the group taxable wages or interstate
      wages or taxable wages and interstate wages during the final period.
-
 "F" meansâ
      (a) if the employer is not a member of a groupâthe number of days
      in the part of the final period starting on 1 January and ending on
@@ -3608,49 +3627,37 @@ period.
      June for which 1 or more relevant group employers paid, or were
      liable to pay, as members of the group taxable wages or interstate
      wages or taxable wages and interstate wages during the period.
-
 "FW" means the employerâs final wages for the final period.
-
 "G" meansâ
      (a) if the final period is within a financial year that includes 29
      Februaryâ366; or
      (b) otherwiseâ365.
-
 "R" means 0.5%.
-
 "final levy adjustment amount", for the employer for the final period, means
 the difference betweenâ
      (a) the employerâs final levy amount for the final period; and
      (b) the employerâs periodic levy liability amount for the final
      period.
-
 "final levy amount", for the employer for the final period, means the total
 ofâ
      (a) the primary final levy amount; and
      (b) the additional final levy amount.
-
 "final wages", for the employer for the final period, meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages paid or payable by the employer during the final period; or
      (b) if the employer is the DGE for a groupâthe total taxable wages
      paid or payable by all members of the group during the final period.
-
 "partial levy amount", for a periodic return period, means the amount worked
 out using the following formulaâ
 whereâ
-
 "P" means the partial levy amount in dollars.
-
 "PL" meansâ
      (a) if the employer is not a member of a groupâthe employerâs
      periodic levy liability for the period; or
      (b) if the employer is a DGE for a groupâthe total periodic levy
      liability for the period for all group members.
-
 "X" means the number of days in the period that are in the final period.
-
 "Y" means the total number of days in the final period.
-
 "periodic levy liability amount", for an employer for the final period, means
 the sum ofâ
      (a) eitherâ
@@ -3669,15 +3676,11 @@ the sum ofâ
      periodic return period that includes the day, even if the return date
      for lodging the periodic return is after the return date for lodging
      the final return.
-
 "primary final levy amount", for the employer for the final period, means the
 greater of the amount worked out using the following formula and zeroâ
 whereâ
-
 "A" means the primary final levy amount for the employer for the final period.
-
 "C" means $10m.
-
 "D" meansâ
      (a) if the employer is not a member of a groupâthe total taxable
      wages and interstate wages paid or payable by the employer during the
@@ -3685,7 +3688,6 @@ whereâ
      (b) if the employer is the DGE for a groupâthe total taxable wages
      and interstate wages paid or payable by all relevant group employers
      during the final period.
-
 "E" meansâ
      (a) if the employer is not a member of a groupâthe number of days
      in the part of the final period starting on 1 July and ending on 31
@@ -3695,7 +3697,6 @@ whereâ
      December for which 1 or more relevant group employers paid, or were
      liable to pay, as members of the group taxable wages or interstate
      wages or taxable wages and interstate wages.
-
 "F" meansâ
      (a) if the employer is not a member of a groupâthe number of days
      in the part of the final period starting on 1 January and ending on
@@ -3705,20 +3706,15 @@ whereâ
      June for which 1 or more relevant group employers paid, or were
      liable to pay, as members of the group taxable wages or interstate
      wages or taxable wages and interstate wages.
-
 "FW" means the employerâs final wages for the final period.
-
 "G" meansâ
      (a) if the final period is within a financial year that includes 29
      Februaryâ366; or
      (b) otherwiseâ365.
-
 "R" means 0.25%.
-
 "relevant group employer", for the final period in relation to the DGE for a
 group, means an employer who was a member of the group for all or part of the
 period.
- 
 Amount of final levy liability
 *** 43N Amount of final levy liability ***
      (1) This section states the employerâs liability (
@@ -3815,7 +3811,6 @@ Amount of final levy liability
                     the Administration Act, to include
                     assessed interest or penalty tax in an
                     assessment of final levy liability.
- 
 Entitlement to final levy refund amount
 *** 43O Entitlement to final levy refund amount ***
      (1) This section applies if the employerâs periodic levy liability
@@ -3834,11 +3829,9 @@ Entitlement to final levy refund amount
                Entitlement to refunds on reassessments is
                provided for in the Administration Act, part 4,
                division 2.
- 
 Definitions for div 6
 *** 44 Definitions for div 6 ***
 In this divisionâ
-
 "entitled group member", for an excess deduction, means a non-DGE group member
 whoâ
      (a) is nominated by the DGE for the group under section 46, or
@@ -3848,13 +3841,11 @@ whoâ
      at the end of the relevant financial year under section 48 âis a
      member of the group on 30 June in the year and has an annual
      liability for the year.
-
 "order of entitled group members" means the order in which entitled group
 members are to share in an excess deduction under a nomination made by the DGE
 for the group under section 46, or a determination made by the commissioner
 under section 47, for the assessment of the DGEâs annual liability or final
 liability.
-
 "relevant financial year", for an excess deduction, meansâ
      (a) if the excess deduction relates to an assessment of annual
      liability of the DGE for the groupâthe financial year to which the
@@ -3862,7 +3853,6 @@ liability.
      (b) if the excess deduction relates to an assessment of final
      liability of the DGE for the groupâthe financial year that includes
      the final period to which the assessment relates.
- 
 Meaning of excess deduction
 *** 45 Meaning of excess deduction ***
      (1) Subsection (2) appliesâ
@@ -3877,15 +3867,10 @@ Meaning of excess deduction
      (2) The amount of the difference is the
      "excess deduction" for the assessment.
      (3) In this sectionâ
-
      "annual deduction" see section 33.
-
      "annual wages" see section 33.
-
      "final deduction" see section 41.
-
      "final wages" see section 41.
- 
 Nomination by DGE of group members to share in excess deduction
 *** 46 Nomination by DGE of group members to share in excess deduction ***
 The DGE for a group may nominate, in an annual return or a final return lodged
@@ -3894,7 +3879,6 @@ under section 64 (2) â
      assessment of the DGEâs annual liability or final liability; and
      (b) the order in which the members are to share in the excess
      deduction.
- 
 Determination by commissioner of group members to share in excess deduction
 *** 47 Determination by commissioner of group members to share in excess
 deduction ***
@@ -3911,7 +3895,6 @@ deduction ***
      (3) The determination may apply in relation to an assessment of the
      DGEâs annual liability or final liability made before or after the
      determination is made.
- 
 Sharing of excess deduction by entitled group members at end of financial year
 *** 48 Sharing of excess deduction by entitled group members at end of
 financial year ***
@@ -3951,9 +3934,7 @@ financial year ***
      wages for the year less the memberâs share of the excess deduction
      under subsection (2).
      (5) In this sectionâ
-
      "annual wages" see section 29 (1).
- 
 Sharing of excess deduction by entitled group members on group ceasing to exist
 *** 49 Sharing of excess deduction by entitled group members on group ceasing
 to exist ***
@@ -3991,18 +3972,14 @@ to exist ***
      the memberâs final wages for the period less the memberâs share
      of the excess deduction under subsection (2).
      (5) In this sectionâ
-
      "final wages" see section 37.
-
      "relevant final period", for an entitled group member, means the
      final period for the change of status of the member happening at the
      time the member ceases to pay, or be liable to pay, wages as a member
      of the group.
- 
 Definitions for div 6A
 *** 49A Definitions for div 6A ***
 In this divisionâ
-
 "entitled group member", for an excess rebate, means a group member whoâ
      (a) is nominated by the DGE for the group under section 49C, or
      determined by the commissioner under section 49D, as a group member
@@ -4011,19 +3988,16 @@ In this divisionâ
      the end of the relevant financial year under section 49E âis a
      member of the group on 30 June in the year and has an annual
      liability for the year.
-
 "order of entitled group members" means the order in which entitled group
 members are to share in an excess rebate under a nomination made by the DGE for
 the group under section 49C, or a determination made by the commissioner under
 section 49D, for an assessment of the annual liability or final liability
 relating to the relevant financial year of a member of the group.
-
 "relevant financial year", for an excess rebate, meansâ
      (a) if the excess rebate relates to an assessment of annual
      liabilityâthe eligible year to which the assessment relates; or
      (b) if the excess rebate relates to an assessment of final
      liabilityâthe eligible year that includes the final period.
- 
 Meaning of excess rebate
 *** 49B Meaning of excess rebate ***
      (1) Subsection (2) appliesâ
@@ -4048,23 +4022,16 @@ Meaning of excess rebate
      (2) The amount of the difference is the
      "excess rebate" for the assessment.
      (3) In this sectionâ
-
      "annual payroll tax amount", for a DGE, see section 33.
-
      "annual payroll tax amount", for a non-DGE group member, see section
      29 (1).
-
      "final payroll tax amount", for a DGE, see section 41.
-
      "final payroll tax amount", for a non-DGE group member, see section
      37.
-
      "relevant annual amount" means the amount worked out under section
      35A (4), definition rebate, paragraph (a).
-
      "relevant final amount" means the amount worked out under section 43A
      (3), definition rebate, paragraph (a).
- 
 Nomination by DGE of group members to share in excess rebate
 *** 49C Nomination by DGE of group members to share in excess rebate ***
 The DGE for a group may nominate, in an annual return or a final return lodged
@@ -4074,7 +4041,6 @@ under section 64 (2) â
      liability or final liability relating to the relevant financial year;
      and
      (b) the order in which the members are to share in the excess rebate.
- 
 Determination by commissioner of group members to share in excess rebate
 *** 49D Determination by commissioner of group members to share in excess
 rebate ***
@@ -4094,7 +4060,6 @@ rebate ***
      first memberâs annual liability or final liability relating to the
      relevant financial year made before or after the determination is
      made.
- 
 Sharing of excess rebate by entitled group members at end of relevant financial
 year
 *** 49E Sharing of excess rebate by entitled group members at end of relevant
@@ -4136,9 +4101,7 @@ financial year ***
      memberâs annual wages for the year less the memberâs share of the
      excess rebate under subsection (2).
      (5) In this sectionâ
-
      "annual wages" see section 29 (1) or 33.
- 
 Sharing of excess rebate by entitled group members on group ceasing to exist
 *** 49F Sharing of excess rebate by entitled group members on group ceasing to
 exist ***
@@ -4178,14 +4141,11 @@ exist ***
      tax to the memberâs final wages for the period less the memberâs
      share of the excess rebate under subsection (2).
      (5) In this sectionâ
-
      "final wages" see section 37 or 41.
-
      "relevant final period", for an entitled group member, means the
      final period for the change of status of the member happening at the
      time the member ceases to pay, or be liable to pay, wages as a member
      of the group.
- 
 Arrangements for avoidance of tax may be disregarded
 *** 50 Arrangements for avoidance of tax may be disregarded ***
      (1) Where any person enters into any agreement, transaction, or
@@ -4214,7 +4174,6 @@ Arrangements for avoidance of tax may be disregarded
                See also sections 13L and 13LA for particular
                provisions about avoidance arrangements relating
                to employment agency contracts.
- 
 Wages paid by or to third parties
 *** 51 Wages paid by or to third parties ***
      (1) Subsection (2) applies if money or other considerationâ
@@ -4252,12 +4211,10 @@ Wages paid by or to third parties
      (4) The money or other consideration is taken to be wages paid or
      payable by the company to the director.
      (5) In this sectionâ
-
      "director" of a company includesâ
           (a) a person who, under a contract or other arrangement, is
           to be appointed as a director of the company; and
           (b) a former director of the company.
- 
 Joint and several liability of group members
 *** 51A Joint and several liability of group members ***
      (1) This section applies if a member of a group fails to pay an
@@ -4267,7 +4224,6 @@ Joint and several liability of group members
      the amount, whether or not the member was an employer during the
      period to which the amount relates.
      (3) This section is subject to sections 34 (2) and 42 (2).
- 
 Meaning of criteria for registration
 *** 52 Meaning of criteria for registration ***
 For this division, the
@@ -4276,7 +4232,6 @@ liable to pay, taxable wages and the employerâ
      (a) pays, or is liable to pay, wages anywhere of more than $25,000 a
      week; or
      (b) is a group member.
- 
 Application for registration
 *** 53 Application for registration ***
      (1) An employer who is not already registered as an employer under
@@ -4300,12 +4255,10 @@ Application for registration
      (4) If an employer applies under subsection (1) or (3) for
      registration as an employer, the commissioner must register the
      employer.
- 
 Registration of employer without application
 *** 54 Registration of employer without application ***
 The commissioner may, by written notice given to a person who meets the
 criteria for registration, register the person as an employer.
- 
 Notice of registration
 *** 55 Notice of registration ***
      (1) On registration of a person as an employer, the commissioner must
@@ -4316,14 +4269,12 @@ Notice of registration
           permitted to make;
           (c) whether the employer is permitted to remit the whole or
           part of unpaid tax interest or penalty tax.
- 
 Amendment of registration
 *** 56 Amendment of registration ***
      (1) The commissioner may amend an employerâs registration by
      written notice given to the employer.
      (2) The notice must state the particulars of the employerâs notice
      of registration that are amended.
- 
 Cancellation of registration
 *** 57 Cancellation of registration ***
      (1) The commissioner must cancel the registration of a person as an
@@ -4348,16 +4299,13 @@ Cancellation of registration
      (2) If the commissioner cancels the registration of a person as an
      employer, the commissioner must give written notice of the
      cancellation to the person.
- 
 Definition for div 2
 *** 58 Definition for div 2 ***
 In this divisionâ
-
 "relevant employer" means an employer who isâ
      (a) registered as an employer under division 1; or
      (b) required to apply for registration as an employer under division
      1.
- 
 Periodic returns
 *** 59 Periodic returns ***
      (1) A relevant employer must, not later than 7 days after the last
@@ -4388,7 +4336,6 @@ Periodic returns
                does not, of itself, affect a relevant
                employerâs obligation to lodge periodic
                returns.
- 
 Duration of periodic return period
 *** 60 Duration of periodic return period ***
      (1) Subject to subsection (2), a periodic return period is the
@@ -4402,7 +4349,6 @@ Duration of periodic return period
      (3) A period stated in the notice must be less than 1 year.
      (4) The commissioner may revoke a notice given under subsection (2)
      at any time by written notice.
- 
 Deemed lodgement of periodic returnâpayment by electronic transfer of funds
 *** 61 Deemed lodgement of periodic returnâpayment by electronic transfer of
 funds ***
@@ -4427,9 +4373,7 @@ funds ***
      and (3) apply only to the first payment made by the employer for the
      period.
      (5) In this sectionâ
-
      "primary tax" see the Administration Act, schedule 2.
- 
 Exemption from requirement to lodge periodic returns
 *** 62 Exemption from requirement to lodge periodic returns ***
      (1) If the commissioner considers that no tax will be payable by a
@@ -4453,7 +4397,6 @@ Exemption from requirement to lodge periodic returns
      an employer from the payment of any payroll tax or mental health
      levy, notwithstanding that it may have the effect of postponing the
      time for payment of any payroll tax or mental health levy.
- 
 Annual return
 *** 63 Annual return ***
      (1) This section applies to an employer who is a relevant employer on
@@ -4495,7 +4438,6 @@ Annual return
                Lodgement of a final return does not, of itself,
                affect a relevant employerâs obligation to
                lodge an annual return.
- 
 Final return
 *** 64 Final return ***
      (1) Subsection (2) applies if, during a financial year, a change of
@@ -4542,18 +4484,15 @@ Final return
           a member of the group for all or part of the period; and
           (d) state the DGEâs final levy liability or final levy
           refund amount for the period.
- 
 Further returns
 *** 65 Further returns ***
 The commissioner may, by notice in writing, call upon any employer or person to
 lodge, within the time specified in the notice, such return or such further or
 fuller return, as the commissioner requires, whether on the employerâs or
 personâs own behalf or as an agent or a trustee.
- 
 Definitions for pt 4
 *** 66 Definitions for pt 4 ***
 In this partâ
-
 "business" includes any of the following, whether carried on by 1 person or 2
 or more persons togetherâ
      (a) a profession or trade;
@@ -4563,24 +4502,19 @@ or more persons togetherâ
      (d) the carrying on of a trust, including a dormant trust;
      (e) the activity of holding money or property used in connection with
      another business.
-
 "related body corporate" see the Corporations Act, section 9.
- 
 Grouping provisions to operate independently
 *** 67 Grouping provisions to operate independently ***
 The fact that a person is not a member of a group constituted under a provision
 of this part does not prevent the person being a member of a group constituted
 under another provision of this part.
- 
 Constitution of groups
 *** 68 Constitution of groups ***
 A group is constituted by all the persons forming a group that is not part of a
 larger group.
- 
 Groups of corporations
 *** 69 Groups of corporations ***
 Corporations constitute a group if they are related bodies corporate.
- 
 Groups arising from the use of common employees
 *** 70 Groups arising from the use of common employees ***
      (1) If 1 or more employees of an employer perform duties in
@@ -4598,7 +4532,6 @@ Groups arising from the use of common employees
           employerâs obligation under, a relevant agreement;
      the employer and each of those other persons constitute a group.
      (4) In this sectionâ
-
      "relevant agreement" means an agreement, arrangement or undertaking
      for services to be provided to 1 or more of the other persons in
      connection with the business or those businesses carried on by the
@@ -4613,7 +4546,6 @@ Groups arising from the use of common employees
                for payroll tax and mental health levy purposes,
                persons from a group constituted under this
                section in some circumstances.
- 
 Groups of commonly controlled businesses
 *** 71 Groups of commonly controlled businesses ***
      (1) If a person or set of persons has a controlling interest in each
@@ -4707,7 +4639,6 @@ Groups of commonly controlled businesses
           in the business of a partnership;
      the person or set of persons has a controlling interest in the
      business of the partnership.
- 
 Groups arising from tracing of interests in corporations
 *** 72 Groups arising from tracing of interests in corporations ***
      (1) A relevant entity and a corporation constitute a group if the
@@ -4723,12 +4654,9 @@ Groups arising from tracing of interests in corporations
           (b) the entity has an interest in the corporation; and
           (c) the value of the interest is more than 50%.
      (3) In this sectionâ
-
      "interest" means a direct interest, indirect interest or aggregate
      interest under section 74B.
-
      "relevant entity" see section 74B.
- 
 Smaller groups subsumed into larger groups
 *** 73 Smaller groups subsumed into larger groups ***
      (1) If a person is a member of 2 or more groups, the members of all
@@ -4744,7 +4672,6 @@ Smaller groups subsumed into larger groups
                section in some circumstances.
      Note 2â
           See also section 68.
- 
 Exclusion of persons from groups
 *** 74 Exclusion of persons from groups ***
      (1) The commissioner may, by order in writing (an
@@ -4769,33 +4696,23 @@ Exclusion of persons from groups
      (6) An exclusion order or order revoking an exclusion order takes
      effect on the date stated in it, which may be a date earlier than the
      date of the exclusion order.
- 
 Application of div 2A
 *** 74A Application of div 2A ***
 This division applies for interpreting section 72.
- 
 Definitions for div 2A
 *** 74B Definitions for div 2A ***
 In this divisionâ
-
 "aggregate interest" see section 74G (1).
-
 "associated persons" see section 74C.
-
 "direct interest" see section 74E.
-
 "indirect interest" see section 74F.
-
 "private company" means a company that is not limited by shares, or whose
 shares are not quoted on the Australian Stock Exchange or any exchange of the
 World Federation of Exchanges.
-
 "related persons" see section 74D.
-
 "relevant entity" meansâ
      (a) a person; or
      (b) 2 or more associated persons.
- 
 Who are associated persons
 *** 74C Who are associated persons ***
 Persons are
@@ -4809,7 +4726,6 @@ Persons are
      (e) a private company and a trustee of a trust, other than a public
      unit trust scheme, if a related body corporate of the company is a
      beneficiary of the trust.
- 
 Who are related persons
 *** 74D Who are related persons ***
      (1) Persons are
@@ -4833,7 +4749,6 @@ Who are related persons
           shareholder or director of the company, is a beneficiary of
           the trust.
      (2) In this sectionâ
-
      "de facto partner" means 1 of 2 persons who is a de facto partner
      within the meaning of the Acts Interpretation Act 1954, section 32DA,
      ifâ
@@ -4845,9 +4760,7 @@ Who are related persons
           were living, together as a couple on a genuine domestic
           basis within the meaning of the Acts Interpretation Act
           1954, section 32DA.
-
      "spouse" includes a de facto partner and a civil partner.
- 
 Direct interest
 *** 74E Direct interest ***
      (1) A relevant entity has a
@@ -4868,11 +4781,9 @@ Direct interest
           personsâthe associated persons can, if acting together,
           directly or indirectly exercise.
      (3) In this sectionâ
-
      "exercise", in relation to voting power attached to voting shares
      issued by a corporation, includes control the exercise of, or
      substantially influence the exercise of, the voting power.
- 
 Indirect interest
 *** 74F Indirect interest ***
      (1) A relevant entity has an
@@ -4992,7 +4903,6 @@ Indirect interest
                     22.4%. For section 72, the relevant
                     entity does not have a controlling
                     interest in corporation C.
- 
 Aggregate interest
 *** 74G Aggregate interest ***
      (1) A relevant entity has an
@@ -5020,7 +4930,6 @@ Aggregate interest
                corporation B is 40% + 15% = 55%. For section 72,
                the relevant entity has a controlling interest in
                corporation B.
- 
 Designation of group member as DGE
 *** 75 Designation of group member as DGE ***
      (1) The members of a group may, by an instrument in writing in the
@@ -5058,7 +4967,6 @@ Designation of group member as DGE
      revoke the commissionerâs designation of that member as the DGE and
      thereafter may further exercise the powers conferred on the
      commissioner by that subsection.
- 
 When registered employer may make reassessment
 *** 76 When registered employer may make reassessment ***
      (1) An employer who is registered as an employer under part 3,
@@ -5077,7 +4985,6 @@ When registered employer may make reassessment
                     Act.
      (2) A registered employer must not make a self assessment of a
      reassessment made by the commissioner.
- 
 Reassessmentâdetermination of periodic deduction
 *** 77 Reassessmentâdetermination of periodic deduction ***
      (1) This section applies ifâ
@@ -5102,7 +5009,6 @@ Reassessmentâdetermination of periodic deduction
      made, a reassessment of the employerâs annual liability or final
      liability must be made to take into account the making or revocation
      of the determination.
- 
 Reassessmentâdetermination of primary periodic threshold or additional
 periodic threshold
 *** 77A Reassessmentâdetermination of primary periodic threshold or
@@ -5134,7 +5040,6 @@ additional periodic threshold ***
                period.
      (4) A reassessment of the affected liability must be made to take
      into account the making or revocation of the determination.
- 
 Reassessmentâannual liability of non-group employer who has lodged a final
 return
 *** 78 Reassessmentâannual liability of non-group employer who has lodged a
@@ -5166,13 +5071,10 @@ final return ***
      year must be worked out having regard to the days in a final period
      mentioned in subsection (1) (b).
      (4) In this sectionâ
-
      "final return liability" means the employerâs periodic liability
      amount for a final period mentioned in subsection (1) (b).
-
      "final return wages" means taxable wages paid or payable by the
      employer for a final period mentioned in subsection (1) (b).
- 
 Reassessmentâannual levy liability of non-group employer who has lodged a
 final return
 *** 78A Reassessmentâannual levy liability of non-group employer who has
@@ -5199,14 +5101,11 @@ lodged a final return ***
      to include the final return wages and final return liability
      mentioned in subsection (1) (d) for working out the liability.
      (3) In this sectionâ
-
      "final return liability" means the employerâs periodic liability
      amount for a final period mentioned in subsection (1) (b).
-
      "final return wages" means taxable wages and interstate wages paid or
      payable by the employer for a final period mentioned in subsection
      (1) (b).
- 
 Reassessment of payroll tax liabilityâchange of DGE
 *** 79 Reassessment of payroll tax liabilityâchange of DGE ***
      (1) This section applies for an employer who is a group member ifâ
@@ -5228,7 +5127,6 @@ Reassessment of payroll tax liabilityâchange of DGE
      final liability for a final period, for which an assessment has been
      made, a reassessment of the employerâs annual liability or final
      liability must be made to take into account the change of DGE.
- 
 Reassessment of levy liabilityâchange of DGE
 *** 79A Reassessment of levy liabilityâchange of DGE ***
      (1) This section applies for an employer who is a group member ifâ
@@ -5260,7 +5158,6 @@ Reassessment of levy liabilityâchange of DGE
                period.
      (4) A reassessment of the affected liability must be made to take
      into account the change of DGE.
- 
 Reassessment of payroll tax liabilityâmaking or revocation of order excluding
 a person from a group
 *** 80 Reassessment of payroll tax liabilityâmaking or revocation of order
@@ -5286,7 +5183,6 @@ excluding a person from a group ***
      made, a reassessment of the personâs annual liability or final
      liability must be made to take into account the making or revocation
      of the order.
- 
 Reassessment of levy liabilityâmaking or revocation of order excluding a
 person from a group
 *** 80A Reassessment of levy liabilityâmaking or revocation of order
@@ -5321,7 +5217,6 @@ excluding a person from a group ***
                period.
      (4) A reassessment of the affected liability must be made to take
      into account the making or revocation of the determination.
- 
 Provision about payroll tax assessments made by commissionerâemployer who is
 required to lodge periodic returns
 *** 81 Provision about payroll tax assessments made by commissionerâemployer
@@ -5359,14 +5254,12 @@ who is required to lodge periodic returns ***
           liability of the employer; and
           (d) the commissioner is not prevented from making a
           subsequent reassessment of the employerâs periodic
-          liability, annual liability or final liability under
-          section 82.
+          liability, annual liability or final liability under Section 82.
      (6) For this section, the circumstances in which an employer was
      required under section 59 to lodge a periodic return during the
      relevant period include an assessment or reassessment mentioned in
      section 82 (2) or (4) being made by the commissioner in relation to
      the period.
- 
 Provision about levy assessments made by commissionerâemployer who is
 required to lodge periodic returns
 *** 81A Provision about levy assessments made by commissionerâemployer who is
@@ -5424,7 +5317,6 @@ required to lodge periodic returns ***
      section 82A (2) or (5) being made by the commissioner in relation to
      the period.
      (7) In this sectionâ
-
      "annual levy liability assessment", for a year, for an employer,
      meansâ
           (a) if the employer is not a group member or is the DGE for
@@ -5433,7 +5325,6 @@ required to lodge periodic returns ***
           (b) if the employer is a non-DGE group memberâan
           assessment or reassessment of the DGEâs annual levy
           liability for the year.
-
      "final levy liability assessment", for a final period, for an
      employer, meansâ
           (a) if the employer is not a group member or is the DGE for
@@ -5442,7 +5333,6 @@ required to lodge periodic returns ***
           (b) if the employer is a non-DGE group memberâan
           assessment or reassessment of the DGEâs final levy
           liability for the final period.
- 
 Provision about payroll tax assessments made by commissionerâemployer who is
 exempt from lodging periodic returns
 *** 82 Provision about payroll tax assessments made by commissionerâemployer
@@ -5450,7 +5340,6 @@ who is exempt from lodging periodic returns ***
      (1) Subsection (2) applies ifâ
           (a) an employer was exempt under section 62 from lodging a
           periodic return during all or part of a financial year (the
-
           "exemption period"); or
           (b) the commissioner authorised the employer, under section
           60, to lodge periodic returns for periods other than a
@@ -5508,7 +5397,6 @@ who is exempt from lodging periodic returns ***
      exemption period include an assessment or reassessment mentioned in
      section 81 (2) or (4) being made by the commissioner in relation to
      the period.
- 
 Provision about levy assessments made by commissionerâemployer who is exempt
 from lodging periodic returns
 *** 82A Provision about levy assessments made by commissionerâemployer who is
@@ -5516,7 +5404,6 @@ exempt from lodging periodic returns ***
      (1) Subsection (2) applies ifâ
           (a) an employer was exempt under section 62 from lodging a
           periodic return during all or part of a financial year (the
-
           "exemption period"); or
           (b) the commissioner authorised the employer, under section
           60, to lodge periodic returns for periods other than a
@@ -5612,7 +5499,6 @@ exempt from lodging periodic returns ***
      exemption period include an assessment or reassessment mentioned in
      section 81A (2) or (4) being made by the commissioner in relation to
      the period.
- 
 Application of annual refund amount, annual levy refund amount, final refund
 amount or final levy refund amount
 *** 83 Application of annual refund amount, annual levy refund amount, final
@@ -5654,7 +5540,6 @@ refund amount or final levy refund amount ***
           (a) the employer; and
           (b) if the employer is a group memberâanother member of
           the group.
- 
 Provision for refunds under Administration Act to group members
 *** 84 Provision for refunds under Administration Act to group members ***
      (1) This section applies if a group member is entitled to a refund,
@@ -5678,15 +5563,13 @@ Provision for refunds under Administration Act to group members
           (b) the commissioner must refund immediately to the
           employer any part of the amount not applied under
           subsection (2) or the Administration Act, section 38 (2).
-     (5) This section has effect subject to the Administration Act,
-     section 39.
+     (5) This section has effect subject to the Administration Act, Section 39.
      (6) For subsection (5) â
           (a) the Administration Act, section 39 applies to an amount
           applied under subsection (2) as a payment for a group
           member; and
           (b) a reference to a taxpayer in the Administration Act,
           section 39, includes a reference to a group member.
- 
 Entitlement to a refund
 *** 85 Entitlement to a refund ***
      (1) An employer is not entitled to a refund of an amount of payroll
@@ -5698,7 +5581,6 @@ Entitlement to a refund
      than underâ
           (a) section 43K or 43O; or
           (b) the Administration Act, part 4, division 2.
- 
 Notification requirementâemployers exempt from lodging periodic returns
 *** 87 Notification requirementâemployers exempt from lodging periodic
 returns ***
@@ -5715,7 +5597,6 @@ returns ***
           Noteâ
                Failure to give the notice is an offence under
                the Administration Act, section 120.
- 
 Notification requirementâemployers authorised to lodge periodic returns for
 periods other than a month
 *** 87A Notification requirementâemployers authorised to lodge periodic
@@ -5738,17 +5619,14 @@ returns for periods other than a month ***
                Failure to give the notice is an offence under
                the Administration Act, section 120.
      (4) In this sectionâ
-
      "current estimated wages", of the employer, means the total amount of
      taxable wages and interstate wages, or the total amount of taxable
      wages, for the financial year estimated by the employer at the end of
      the periodic return period.
-
      "previous annual wages", of the employer, means the total amount of
      taxable wages and interstate wages, or the total amount of taxable
      wages, paid or payable by the employer during the previous financial
      year.
- 
 Notification requirementâparticular group members
 *** 88 Notification requirementâparticular group members ***
      (1) This section applies to an employer who is a non-DGE group
@@ -5772,7 +5650,6 @@ Notification requirementâparticular group members
      Penalty--
           Maximum penaltyâ100 penalty units.
      (3) In this sectionâ
-
      "last day" meansâ
           (a) if subsection (1) (a) appliesâ
                (i) if the employer is not a member of the group
@@ -5790,7 +5667,6 @@ Notification requirementâparticular group members
                the group; or
                (ii) otherwiseâthe last day of the final period
                for the DGE.
- 
 Notification requirementsâannual information for groups
 *** 88A Notification requirementsâannual information for groups ***
      (1) This section provides for the giving ofâ
@@ -5835,7 +5711,6 @@ Notification requirementsâannual information for groups
      subsection (2), (3) or (5).
           Penalty--
                Maximum penaltyâ100 penalty units.
- 
 Notification requirementsâfinal return information for non-DGE group member
 *** 88B Notification requirementsâfinal return information for non-DGE group
 member ***
@@ -5865,33 +5740,24 @@ member ***
           Penalty--
                Maximum penaltyâ100 penalty units.
      (5) In this sectionâ
-
      "due day", for an employer to give information to the DGE under
      subsection (3), means the day that is 7 days after the later ofâ
           (a) the last day of the final periodic return period; and
           (b) the day on which the DGE asks the employer for the
           information.
-
      "final periodic return period" means the periodic return period in
      which the last day of the nominated final period occurs.
-
      "nominated final period" means the final period for the change of
      status mentioned in subsection (1).
-
      "partial levy amount", for an employer for a periodic return period,
      means the amount worked out using the following formulaâ
      whereâ
-
      "P" means the partial levy amount in dollars.
-
      "PL" means the employerâs periodic levy liability for the periodic
      return period.
-
      "X" means the number of days in the periodic return period that are
      in the nominated final period.
-
      "Y" means the total number of days in the nominated final period.
-
      "total periodic levy liability amount", for an employer, for the
      nominated final period, means the sum of the following amountsâ
           (a) the employerâs periodic levy liability for each
@@ -5905,7 +5771,6 @@ member ***
                (i) in the nominated final period; and
                (ii) not in a periodic return period mentioned in
                paragraph (a).
- 
 Notification requirementsâfinal return information for DGE
 *** 88C Notification requirementsâfinal return information for DGE ***
      (1) This section applies if a change of status happens for the DGE
@@ -5923,33 +5788,24 @@ Notification requirementsâfinal return information for DGE
           Penalty--
                Maximum penaltyâ100 penalty units.
      (4) In this sectionâ
-
      "due day", for an employer to give information to the DGE, means the
      day that is 7 days after the later ofâ
           (a) the last day of the final periodic return period; and
           (b) the day on which the DGE asks the employer for the
           information.
-
      "final periodic return period" means the periodic return period in
      which the last day of the nominated final period occurs.
-
      "nominated final period" means the final period for the change of
      status mentioned in subsection (1).
-
      "partial levy amount", for an employer for a periodic return period,
      means the amount worked out using the following formulaâ
      whereâ
-
      "P" means the partial levy amount in dollars.
-
      "PL" means the employerâs periodic levy liability for the periodic
      return period.
-
      "X" means the number of days in the periodic return period that are
      in the nominated final period.
-
      "Y" means the total number of days in the nominated final period.
-
      "total periodic levy liability amount", for an employer who is a non-
      DGE group member, for the nominated final period, means the sum of
      the following amountsâ
@@ -5964,7 +5820,6 @@ Notification requirementsâfinal return information for DGE
                (i) in the nominated final period; and
                (ii) not in a periodic return period mentioned in
                paragraph (a).
- 
 Notification requirementsâemployer joining a group
 *** 88D Notification requirementsâemployer joining a group ***
      (1) This section applies if an employer becomes a group member and
@@ -5984,10 +5839,8 @@ Notification requirementsâemployer joining a group
           Penalty--
                Maximum penaltyâ100 penalty units.
      (4) In this sectionâ
-
      "current financial year" means the financial year in which the
      employer becomes a group member.
- 
 Notification requirementsârevised group wage information
 *** 88E Notification requirementsârevised group wage information ***
      (1) This section applies ifâ
@@ -6021,12 +5874,9 @@ Notification requirementsârevised group wage information
      estimate based on the latest information held by the DGE at the time
      the requirement arises.
      (5) In this sectionâ
-
      "current financial year" means the financial year in which the thing
      mentioned in subsection (1) (a) to (e) happens.
-
      "significant wage change" see section 43EC.
- 
 Notification requirementâliquidators and other administrators
 *** 89 Notification requirementâliquidators and other administrators ***
      (1) This section applies to a person whoâ
@@ -6046,16 +5896,13 @@ Notification requirementâliquidators and other administrators
                Maximum penaltyâ40 penalty units.
      (3) The Administration Act, section 48, does not apply to the person.
      (4) In this sectionâ
-
      "administrator" does not include a liquidator.
- 
 Commissioner may give group information to incoming DGE
 *** 89A Commissioner may give group information to incoming DGE ***
      (1) This section applies if an employer becomes the DGE for a group.
      (2) The commissioner may give the DGE any information relating to the
      group that was received from a previous DGE for the group under part
      3, division 2 or part 6, division 2.
- 
 Commissioner may require payment of penalty
 *** 90 Commissioner may require payment of penalty ***
      (1) This section applies if an employerâ
@@ -6086,13 +5933,10 @@ Commissioner may require payment of penalty
      starting on the start day and ending on the day the penalty amount is
      paid in full, both days inclusive.
      (6) For this sectionâ
-
      "levy liability" means the employerâs liability for the mental
      health levy in relation to the return.
-
      "payroll tax liability" means the employerâs liability for payroll
      tax in relation to the return.
-
      "relevant liability amount" meansâ
           (a) if subsection (1) (a) appliesâthe total amount of the
           employerâs payroll tax liability and levy liability; or
@@ -6117,7 +5961,6 @@ Commissioner may require payment of penalty
           misleading information relates to the calculation of the
           employerâs payroll tax liability and levy liabilityâthe
           total amount of the liabilities.
-
      "start day" means the day after the failure or contravention
      mentioned in subsection (1).
           Noteâ
@@ -6125,7 +5968,6 @@ Commissioner may require payment of penalty
                commissioner and may be recovered in a court of
                competent jurisdiction, see the Administration
                Act, section 45.
- 
 Period for keeping particular records relating to fringe benefits tax
 *** 91 Period for keeping particular records relating to fringe benefits tax
 ***
@@ -6143,7 +5985,6 @@ Period for keeping particular records relating to fringe benefits tax
                Maximum penaltyâ100 penalty units.
      (4) The Administration Act, section 118, does not apply to the
      keeping of the record.
- 
 Application of Act to trustees
 *** 92 Application of Act to trustees ***
      (1) If an employer pays, or is liable to pay, wages as trustee of a
@@ -6172,7 +6013,6 @@ Application of Act to trustees
      operation of part 4 to the extent the part applies toâ
           (a) a trustee; or
           (b) 2 or more persons, 1 or more of whom is a trustee.
- 
 Avoiding taxation
 *** 93 Avoiding taxation ***
 Any person who, by any wilful act, default or neglect, or by any fraud, art or
@@ -6186,7 +6026,6 @@ levy imposed under this Act, shall be guilty of an offence.
      Noteâ
           This provision is an executive liability provision under
           the Taxation Administration Act 2001, section 140.
- 
 Notice of change of address for service
 *** 94 Notice of change of address for service ***
      (1) An employer who is registered as an employer under part 3,
@@ -6197,14 +6036,12 @@ Notice of change of address for service
                Failure to give the notice is an offence under
                the Administration Act, section 120.
      (2) In this sectionâ
-
      "address for service", for an employer, meansâ
           (a) the employerâs address for service shown in the last
           return lodged by the employer; or
           (b) if the employer has given the commissioner a notice
           under this section, the address stated in the last notice
           given.
- 
 Cents to be disregarded for calculations
 *** 95 Cents to be disregarded for calculations ***
      (1) This section applies ifâ
@@ -6221,11 +6058,9 @@ Cents to be disregarded for calculations
           amounts mentioned in paragraph (a), or an amount included
           in a formula, would be amounts of dollars and cents.
      (2) The cents must be disregarded.
- 
 Approval of forms
 *** 96 Approval of forms ***
 The commissioner may approve forms for use under this Act.
- 
 Regulation-making power
 *** 97 Regulation-making power ***
      (1) The Governor in Council may make regulations under this Act.
@@ -6250,27 +6085,20 @@ Regulation-making power
           fringe benefit.
      (3) A regulation may impose a penalty of not more than 20 penalty
      units for a contravention of the regulation.
- 
 Application of particular amendments
 *** 97A Application of particular amendments ***
 This Act, as amended by the Revenue Legislation Amendment Act 2022, part 8,
 division 3, subdivisions 1 and 2, applies in relation to taxable wages paid or
 payable from 1 January 2023 in the financial year starting on 1 July 2022 and
 each later financial year.
- 
 Definitions for pt 7
 *** 98 Definitions for pt 7 ***
 In this partâ
-
 "amended", for a provision of this Act, means the provision as amended or
 inserted by the amending Act.
-
 "amended Act" means this Act as amended by the amending Act.
-
 "amending Act" means the Payroll Tax Administration Amendment Act 2004.
-
 "commencement" means the commencement of section 38 of the amending Act.
-
 "post-commencement liability" means a liability for payroll tax arising on or
 after the commencement, other than a liability relating to a transitional
 return period.
@@ -6283,10 +6111,8 @@ return period.
           30 June 2005 would be a post-commencement liability.
           An employerâs liability for payroll tax for the 2004/2005
           financial year would be a post-commencement liability.
-
 "pre-commencement act or omission" means an act or omission done or omitted to
 be done for this Act before the commencement.
-
 "pre-commencement liability" means a liability for payroll tax arising before
 the commencement.
      Exampleâ
@@ -6301,20 +6127,15 @@ the commencement.
           liability for payroll tax for the previous return period
           ending on 31 December 2004 would be a pre-commencement
           liability.
-
 "prescribed period" means a prescribed period under previous section 11C or
 16L.
-
 "previous", for a provision of this Act, means the provision as in force before
 the commencement.
-
 "previous return period" means a return period within the meaning of previous
 section 3(1) ending before the commencement.
-
 "transitional final period" means the final period for the first change of
 status happening for an employer on or after the commencement during a
 transitional year.
-
 "transitional return period" means a return period within the meaning of
 previous section 3(1) that has started but not ended before the commencement.
      Exampleâ
@@ -6325,7 +6146,6 @@ previous section 3(1) that has started but not ended before the commencement.
           would be a transitional return period. However, for an
           employer required to lodge monthly returns, there would not
           be a transitional return period.
-
 "transitional year" means the financial year during which the commencement
 falls, except if the commencement is on the first day of the year.
      Exampleâ
@@ -6333,7 +6153,6 @@ falls, except if the commencement is on the first day of the year.
           financial year would be a transitional year.
           The commencement is on 1 July 2005. There would not be a
           transitional year.
- 
 Application of amended Act in relation to liabilities etc. arising on or after
 commencement
 *** 99 Application of amended Act in relation to liabilities etc. arising on or
@@ -6355,7 +6174,6 @@ after commencement ***
                     omitted to be done for this Act after
                     the commencement.
      (2) Subsection (1) has effect subject to division 4.
- 
 Registration under s 54 of person required to register before commencement
 *** 100 Registration under s 54 of person required to register before
 commencement ***
@@ -6367,7 +6185,6 @@ commencement ***
      reference in the previous provisions of this Act to an employer
      registered under section 12 is taken to include a reference to the
      person.
- 
 Application of amended ss 58â62 for previous return periods
 *** 101 Application of amended ss 58â62 for previous return periods ***
      (1) This section applies if an employer was required under previous
@@ -6382,7 +6199,6 @@ Application of amended ss 58â62 for previous return periods
      (5) However, subsection (4) does not affect the employerâs
      liability for contravening previous section 13 or 14 before the
      commencement.
- 
 Assessment under amended s 81 in relation to particular pre-commencement
 liabilities
 *** 102 Assessment under amended s 81 in relation to particular pre-
@@ -6398,16 +6214,13 @@ commencement liabilities ***
      assessment mentioned in subsection (1).
      (4) This section applies subject to section 104.
      (5) In this sectionâ
-
      "assessment" means an assessment under previous part 5.
- 
 Application of amended s 95 to calculations made under previous provisions
 *** 103 Application of amended s 95 to calculations made under previous
 provisions ***
      (1) Amended section 95 applies for a calculation made under the
      previous provisions of this Act.
      (2) Previous section 3(3) does not apply for the calculation.
- 
 This Act as a revenue law for the Administration Act
 *** 104 This Act as a revenue law for the Administration Act ***
      (1) This section provides for how the Administration Act applies to
@@ -6460,8 +6273,7 @@ This Act as a revenue law for the Administration Act
           (b) penal tax and additional tax are not primary tax for
           the Administration Act, section 42; and
           (c) an assessment of further tax under previous part 5 is
-          taken to be a reassessment for the Administration Act,
-          section 46.
+          taken to be a reassessment for the Administration Act, Section 46.
      (7) Subsection (4) applies subject to subsection (8).
      (8) However, to the extent this Act applies to an act or omission
      mentioned in subsection (4), the application of the Administration
@@ -6470,13 +6282,11 @@ This Act as a revenue law for the Administration Act
      relating to a particular matter applies to this Act and this Act
      contains provision about the same matter, this Act does not apply to
      the matter.
- 
 Application of Administration Act, s 38
 *** 105 Application of Administration Act, s 38 ***
 An amount relating to a post-commencement liability may be applied under the
 Administration Act, section 38, as payment for a pre-commencement liability or
 a liability for payroll tax for a transitional return period.
- 
 Second or subsequent offences
 *** 106 Second or subsequent offences ***
      (1) For applying the Administration Act, section 138 to this Act, the
@@ -6488,7 +6298,6 @@ Second or subsequent offences
      to a further offence against the provision includes a reference to an
      offence against a provision of the amended Act or the Administration
      Act that corresponds to the previous provision.
- 
 Application of previous provisions to particular liabilities etc.
 *** 107 Application of previous provisions to particular liabilities etc. ***
      (1) Despite their amendment or repeal by the amending Act, the
@@ -6500,7 +6309,6 @@ Application of previous provisions to particular liabilities etc.
      (2) However, previous section 16L(5) does not apply.
      (3) Also, subsection (1) has effect subject to sections 100, 101, 103
      and 104(9).
- 
 Fixed periodic deduction for periodic return periods after
 commencementâexisting determination
 *** 108 Fixed periodic deduction for periodic return periods after
@@ -6518,7 +6326,6 @@ commencementâexisting determination ***
      periodic deduction under amended section 21 or 27 on or after the
      commencement during the transitional year, the amount determined
      under the section is the employerâs fixed periodic deduction.
- 
 Fixed periodic deduction for periodic return periods after
 commencementâexisting nomination
 *** 109 Fixed periodic deduction for periodic return periods after
@@ -6539,7 +6346,6 @@ commencementâexisting nomination ***
           (b) the commissioner determines the employerâs fixed
           periodic deduction under amended section 21 or 27.
      (3) Subsection (2) applies subject to section 110.
- 
 Application of fixed periodic deduction to particular non-group employers after
 commencement
 *** 110 Application of fixed periodic deduction to particular non-group
@@ -6552,12 +6358,10 @@ employers after commencement ***
      (2) For section 20, the employer can not be a previous interstate
      wage payer for a periodic return period unless the employer has paid,
      or been liable to pay, interstate wages on or after the commencement.
- 
 Purpose of div 5
 *** 111 Purpose of div 5 ***
 This division provides for working out an employerâs annual liability for a
 transitional year.
- 
 Basic principles for working out employerâs annual liability
 *** 112 Basic principles for working out employerâs annual liability ***
      (1) This section applies if there was a prescribed period during the
@@ -6577,7 +6381,6 @@ Basic principles for working out employerâs annual liability
           (c) the employerâs annual deduction must be worked out
           without having regard to the days in the prescribed period.
      (3) This section applies subject to sections 113, 114, 118 and 119.
- 
 Employer who was not a group member for a prescribed period during the
 transitional year
 *** 113 Employer who was not a group member for a prescribed period during the
@@ -6602,7 +6405,6 @@ transitional year ***
      Act, section 14(a), the commissioner must make a reassessment of the
      liability on the basis that section 112(2) does not apply to the
      employer.
- 
 Employer who is a DGE on 30 June in the transitional year
 *** 114 Employer who is a DGE on 30 June in the transitional year ***
      (1) This section applies ifâ
@@ -6648,12 +6450,10 @@ Employer who is a DGE on 30 June in the transitional year
           (b) on the days in the year mentioned in subsection (2)(c)
           (i).
      (4) Subsection (3) applies despite section 63(3)(b).
- 
 Purpose of div 6
 *** 115 Purpose of div 6 ***
 This division provides for working out an employerâs final liability for a
 transitional final period.
- 
 When transitional final period starts
 *** 116 When transitional final period starts ***
      (1) A transitional final period starts on the latest of the following
@@ -6674,7 +6474,6 @@ When transitional final period starts
                or after the commencement. The final period for
                the change of status is a transitional final
                period starting on 1 July 2004.
- 
 Employer who is a DGE on the last day of a transitional final period
 *** 117 Employer who is a DGE on the last day of a transitional final period
 ***
@@ -6719,7 +6518,6 @@ Employer who is a DGE on the last day of a transitional final period
           (b) on the days in the transitional year mentioned in
           subsection (2)(c)(i).
      (4) Subsection (3) applies despite section 64(3)(b).
- 
 Commissioner assessmentâemployer who becomes a DGE in a transitional year
 before commencement
 *** 118 Commissioner assessmentâemployer who becomes a DGE in a transitional
@@ -6755,11 +6553,9 @@ year before commencement ***
      claimed during the year under previous section 16I by any earlier DGE
      for the group.
      (4) In this sectionâ
-
      "earlier DGE", for the group, means an employer who was the DGE for
      the group at any time during the transitional year before the
      employer to whom this section applies becomes the DGE for the group.
-
      "relevant deduction" meansâ
           (a) for an employer to whom subsection (1)(b)(i)
           appliesâthe employerâs final deduction for the final
@@ -6767,7 +6563,6 @@ year before commencement ***
           (b) for an employer to whom subsection (1)(b)(ii)
           appliesâthe employerâs annual deduction for the
           transitional year.
- 
 Commissioner assessmentâemployer who ceases to be a DGE in a transitional
 year before commencement
 *** 119 Commissioner assessmentâemployer who ceases to be a DGE in a
@@ -6793,7 +6588,6 @@ transitional year before commencement ***
      reduce the relevant wages by the total amount of the deductions
      claimed by the employer under previous section 16I during the year.
      (4) In this sectionâ
-
      "relevant wages" meansâ
           (a) for an employer to whom subsection (1)(b)(i)
           appliesâthe employerâs final wages for the final
@@ -6801,19 +6595,16 @@ transitional year before commencement ***
           (b) for an employer to whom subsection (1)(b)(ii)
           appliesâthe employerâs annual wages for the
           transitional year.
- 
 Delegations under previous s 4A
 *** 120 Delegations under previous s 4A ***
 A delegation under previous section 4A in force immediately before the
 commencement continues in force.
- 
 Employers registered under previous s 12 immediately before commencement
 *** 121 Employers registered under previous s 12 immediately before
 commencement ***
 An employer who is registered as an employer under previous section 12
 immediately before the commencement is, on and from the commencement, taken to
 be registered under part 3, division 1.
- 
 Notices given by commissioner under previous s 13
 *** 122 Notices given by commissioner under previous s 13 ***
      (1) A notice given by the commissioner under previous section 13(2)
@@ -6822,7 +6613,6 @@ Notices given by commissioner under previous s 13
      (2) A notice given by the commissioner under previous section 13(2)
      (b) and in force immediately before the commencement is, on and from
      the commencement, taken to be a notice given under section 60(2).
- 
 Continuing effect of exemptions given by commissioner under previous s14
 *** 123 Continuing effect of exemptions given by commissioner under previous
 s14 ***
@@ -6839,13 +6629,11 @@ s14 ***
      lodge annual returns under section 63 even if the existing exemption
      states the employer is not required to lodge returns for each
      financial year.
- 
 Continuing use of particular forms
 *** 124 Continuing use of particular forms ***
 A form approved before the commencement relating to a provision of this Act
 repealed by the amending Act may continue to be used after the commencement to
 facilitate the operation of this part.
- 
 Application of ss 83 and 84
 *** 125 Application of ss 83 and 84 ***
 A refund to which section 83 or 84 applies may be applied under the section as
@@ -6853,7 +6641,6 @@ payment for a liability mentioned in section 83(2) or 84(2), as applicable,
 even if the liabilityâ
      (a) arose before the commencement; or
      (b) is for a transitional return period.
- 
 Application of s 88 notification requirement in relation to a transitional year
 *** 126 Application of s 88 notification requirement in relation to a
 transitional year ***
@@ -6875,7 +6662,6 @@ transitional year ***
      any time in the transitional year on or before the last day of the
      DGEâs transitional final period.
      (4) Subsections (2) and (3) apply despite section 88(2)(a) and (b).
- 
 Application of s 89 to particular liquidators
 *** 127 Application of s 89 to particular liquidators ***
      (1) This section applies to a person whoâ
@@ -6886,7 +6672,6 @@ Application of s 89 to particular liquidators
      (2) Section 89 applies to the liquidator as if the time within which
      the person is required to give notice under section 89(2) were 14
      days after the commencement.
- 
 Application of s 94 to particular employers
 *** 128 Application of s 94 to particular employers ***
      (1) This section applies to an employerâ
@@ -6898,7 +6683,6 @@ Application of s 94 to particular employers
      (2) Section 94 applies to the employer as if the time within which
      the person is required to give notice under section 94 were 1 month
      after the commencement.
- 
 References in amended Act
 *** 129 References in amended Act ***
 For the application of this part, if the context permits, a reference in the
@@ -6922,10 +6706,7 @@ amended Actâ
      previous section 22; and
      (h) to penalty tax includes a reference to additional tax under
      previous section 18.
- 
-Section 130
-*** 130 ***
- 
+Section 130 *** 130 ***
 Interpretation of amended provisions
 *** 131 Interpretation of amended provisions ***
      (1) The amendments made to this Act by the Payroll Tax
@@ -6957,17 +6738,14 @@ Interpretation of amended provisions
           (b) section 14A, as inserted by the Payroll Tax
           (Harmonisation) Amendment Act 2008, section 11, applies to
           paternity leave.
- 
 Application of amended Act
 *** 132 Application of amended Act ***
 This Act, as amended by the Payroll Tax (Harmonisation) Amendment Act 2008,
 applies in relation to wages paid or payable on or after 1 July 2008.
- 
 Application of avoidance provision for employment agency contracts
 *** 133 Application of avoidance provision for employment agency contracts ***
 Section 13L applies to employment agency contracts made before, on or after the
 commencement of this section.
- 
 Continuation of orders excluding person from group
 *** 134 Continuation of orders excluding person from group ***
      (1) This section applies ifâ
@@ -6981,19 +6759,14 @@ Continuation of orders excluding person from group
           (Harmonisation) Amendment Act 2008.
      (2) The order mentioned in paragraph (a) is taken to be an exclusion
      order made by the commissioner under section 74(1).
- 
 Definitions for pt 9
 *** 135 Definitions for pt 9 ***
 In this partâ
-
 "amended Act" means this Act as amended by the amending Act.
-
 "amending Act" means the Revenue and Other Legislation Amendment Act 2010, part
 8, other than section 97.
-
 "pre-amended Act" means this Act as it was in force from time to time before
 the commencement of this section.
-
 "relevant employer" means an employer by whom relevant wages are paid or
 payable and whoâ
      (a) if the employer lodged a final return before 1 July 2010 and
@@ -7003,23 +6776,19 @@ payable and whoâ
      than 21 July 2010; or
      (b) otherwiseâincludes the relevant wages in a return lodged no
      later than 21 July 2010.
-
 "relevant wages" means wagesâ
      (a) paid or payable by an employer on or after 1 July 2009 but before
      1 July 2010; and
      (b) that are not taxable wages under the pre-amended Act and are
      taxable wages under the amended Act.
- 
 Application of amended Act
 *** 136 Application of amended Act ***
 The amended Act applies, and is taken on and from 1 July 2009 to have applied,
 to wages paid or payable on or after 1 July 2009.
- 
 Exemption of penalty under s 90
 *** 137 Exemption of penalty under s 90 ***
 Section 90(2) does not apply in relation to a relevant employerâs liability
 for payroll tax under the amended Act for relevant wages.
- 
 Remission of unpaid tax interest and penalty tax under the Administration Act
 *** 138 Remission of unpaid tax interest and penalty tax under the
 Administration Act ***
@@ -7029,7 +6798,6 @@ amended Act for relevant wages.
      Noteâ
           For the commissionerâs power to remit unpaid tax interest
           and penalty tax, see the Administration Act, section 60.
- 
 Exemption for offences
 *** 139 Exemption for offences ***
      (1) This section applies if a relevant person does not comply with a
@@ -7046,13 +6814,11 @@ Exemption for offences
           (b) otherwiseâthe relevant person includes the relevant
           wages in a return lodged no later than 21 July 2010.
      (3) In this sectionâ
-
      "relevant person" meansâ
           (a) an employer by whom relevant wages were paid or
           payable; or
           (b) an administrator for an employer mentioned in paragraph
           (a).
- 
 Reassessmentâfinal return included excluded wages
 *** 140 Reassessmentâfinal return included excluded wages ***
      (1) This section applies ifâ
@@ -7071,13 +6837,11 @@ Reassessmentâfinal return included excluded wages
                the refund of any excess tax paid by the
                employer.
      (4) In this sectionâ
-
      "excluded wages" means wagesâ
           (a) paid or payable by an employer on or after 1 July 2009
           but before 1 July 2010; and
           (b) that are taxable wages under the pre-amended Act and
           are not taxable wages under the amended Act.
- 
 Assessment and payment of payroll tax for shares and options
 *** 141 Assessment and payment of payroll tax for shares and options ***
      (1) This section applies to an act or omission of an employer ifâ
@@ -7095,7 +6859,6 @@ Assessment and payment of payroll tax for shares and options
                (iv) schedule, definition
                "wages", other than paragraph 2.
      (2) The act or omission is taken to have been valid.
- 
 Application of pt 2, div 1C for granting of particular shares or options
 *** 142 Application of pt 2, div 1C for granting of particular shares or
 options ***
@@ -7113,18 +6876,14 @@ options ***
      (2) Sections 13R and 13U, as in force on the commencement of this
      section, apply for the share or option.
      (3) In this sectionâ
-
      "amended Act" means this Act as amended by the Revenue and Other
      Legislation Amendment Act 2011.
-
      "former Act" means this Act as in force before the commencement of
      this section.
- 
 Exemption under s 14A
 *** 143 Exemption under s 14A ***
 Section 14A(4)(b), as amended by the Revenue Amendment and Trade and Investment
 Queensland Act 2013, is taken to have had effect on and from 16 April 2011.
- 
 Application of s 13B
 *** 144 Application of s 13B ***
      (1) Section 13B, as amended by the Payroll Tax Rebate, Revenue and
@@ -7135,24 +6894,21 @@ Application of s 13B
      immediately before the commencement continues to apply in respect of
      work performed before the commencement, regardless of when amounts
      are paid or become payable for the performance of the work.
- 
 Retrospective application of increased rebate under ss 27A, 35A and 43A
 *** 145 Retrospective application of increased rebate under ss 27A, 35A and 43A
 ***
 Sections 27A, 35A and 43A as amended by the Revenue Legislation Amendment Act
-2018 â
+Section 2018 â
      (a) apply, and are taken to have applied from 1 July 2016, in
      relation to wages paid or payable in the financial year ending on 30
      June 2017; and
      (b) apply, and are taken to have applied from 1 July 2017, in
      relation to wages paid or payable in the financial year ending on 30
      June 2018.
- 
 Retrospective operation of amended s 13Y
 *** 146 Retrospective operation of amended s 13Y ***
 Section 13Y, as amended by the Revenue and Other Legislation Amendment Act
 2018, is taken to have had effect since 1 July 2016.
- 
 Retrospective application of particular provisions
 *** 147 Retrospective application of particular provisions ***
      (1) Sections 27A, 35A and 43A, as amended by the Revenue Legislation
@@ -7165,7 +6921,6 @@ Retrospective application of particular provisions
      relation to an assessment of a personâs annual liability or final
      liability relating to the financial year ending on 30 June 2022 for
      the purposes of part 2, division 6A.
- 
 Purpose of division
 *** 148 Purpose of division ***
 This division provides for transitional arrangements, for the financial year
@@ -7175,19 +6930,14 @@ Legislation Amendment Act 2022, part 8, division 3.
           See also the repealed Payroll Tax (Transitional) Regulation
           2022, made under section 148 as it was in force before its
           replacement by the Revenue Legislation Amendment Act 2023.
- 
 Definitions for division
 *** 148A Definitions for division ***
 In this divisionâ
-
 "first half", of the transitional financial year, means the period starting on
-1 July 2022 and ending on 31 December 2022.
-
+Section 1 July 2022 and ending on 31 December 2022.
 "second half", of the transitional financial year, means the period starting on
-1 January 2023 and ending on 30 June 2023.
-
+Section 1 January 2023 and ending on 30 June 2023.
 "transitional financial year" means the financial year ending on 30 June 2023.
- 
 Working out fixed periodic deductions for transitional financial year
 *** 148B Working out fixed periodic deductions for transitional financial year
 ***
@@ -7195,7 +6945,6 @@ Working out fixed periodic deductions for transitional financial year
      under section 17 or 23 for the transitional financial year.
      (2) A calculation day under sections 18 and 24 is taken to include 1
      January in that year.
- 
 Working out annual deduction for transitional financial yearâemployer other
 than the DGE for a group
 *** 148C Working out annual deduction for transitional financial
@@ -7213,71 +6962,51 @@ yearâemployer other than the DGE for a group ***
      "deduction (first half)" is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the number of days in the first half of the transitional
      financial year for which the employer pays, or is liable to pay,
      wages, other than foreign wages.
-
      "AW1" means the amount of the employerâs annual wages that are paid
      or payable for the first half of the transitional financial year.
-
      "B" means the number of days in the second half of the transitional
      financial year for which the employer pays, or is liable to pay,
      wages, other than foreign wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D1" means the employerâs deduction (first half) in dollars.
-
      "IW1" means the amount of interstate wages paid or payable by the
      employer for the first half of the transitional financial year.
-
      "K" means 1,300,000.
-
      "X" see subsection (5).
      (4) Also, for subsection (2), the employerâs
      "deduction (second half)" is the amount worked out using the
      following formulaâ
      whereâ
-
      "A" means the number of days in the first half of the transitional
      financial year for which the employer pays, or is liable to pay,
      wages, other than foreign wages.
-
      "AW2" means the amount of the employerâs annual wages that are paid
      or payable for the second half of the transitional financial year.
-
      "B" means the number of days in the second half of the transitional
      financial year for which the employer pays, or is liable to pay,
      wages, other than foreign wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D2" means the employerâs deduction (second half) in dollars.
-
      "IW2" means the amount of interstate wages paid or payable by the
      employer for the second half of the transitional financial year.
-
      "K" means 1,300,000.
-
      "X" see subsection (5).
      (5) For subsections (3) and (4), the amount for
      "X" is to be worked out using the following formulaâ
      whereâ
-
      "AW" means the amount of the employerâs annual wages for the
      transitional financial year.
-
      "AWhalf" means the amount of annual wages paid or payable by the
      employerâ
           (a) in relation to the deduction (first half)âfor the
           first half of the transitional financial year; or
           (b) in relation to the deduction (second half)âfor the
           second half of the transitional financial year.
-
      "IW" means the amount of interstate wages paid or payable by the
      employer for the transitional financial year.
-
      "IWhalf" means the amount of interstate wages paid or payable by the
      employerâ
           (a) in relation to the deduction (first half)âfor the
@@ -7285,9 +7014,7 @@ yearâemployer other than the DGE for a group ***
           (b) in relation to the deduction (second half)âfor the
           second half of the transitional financial year.
      (6) In this sectionâ
-
      "annual wages" see section 29 (1).
- 
 Working out annual deduction for transitional financial yearâDGE for a group
 *** 148D Working out annual deduction for transitional financial yearâDGE for
 a group ***
@@ -7302,7 +7029,6 @@ a group ***
      "deduction (first half)" is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the number of days in the designated period for the DGEâ
           (a) that are in the first half of the transitional
           financial year, whether or not wholly or partly concurrent;
@@ -7310,7 +7036,6 @@ a group ***
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "B" means the number of days in the designated period for the DGEâ
           (a) that are in the second half of the transitional
           financial year, whether or not wholly or partly concurrent;
@@ -7318,29 +7043,22 @@ a group ***
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D1" means the DGEâs deduction (first half) in dollars.
-
      "IW1" means the amount of interstate wages paid or payable for the
      part of the designated period for the DGE occurring in the first half
      of the transitional financial year by each relevant group employer as
      a member of the group.
-
      "K" means 1,300,000.
-
      "TW1" means the amount of taxable wages paid or payable for the part
      of the designated period for the DGE occurring in the first half of
      the transitional financial year by each relevant group employer as a
      member of the group.
-
      "X" see subsection (5).
      (4) For subsection (2), the DGEâs
      "deduction (second half)" is the amount worked out using the
      following formulaâ
      whereâ
-
      "A" means the number of days in the designated period for the DGEâ
           (a) that are in the first half of the transitional
           financial year, whether or not wholly or partly concurrent;
@@ -7348,7 +7066,6 @@ a group ***
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "B" means the number of days in the designated period for the DGEâ
           (a) that are in the second half of the transitional
           financial year, whether or not wholly or partly concurrent;
@@ -7356,32 +7073,24 @@ a group ***
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D2" means the DGEâs deduction (second half) in dollars.
-
      "IW2" means the amount of interstate wages paid or payable for the
      part of the designated period for the DGE occurring in the second
      half of the transitional financial year by each relevant group
      employer as a member of the group.
-
      "K" means 1,300,000.
-
      "TW2" means the amount of taxable wages paid or payable for the part
      of the designated period for the DGE occurring in the second half of
      the transitional financial year by each relevant group employer as a
      member of the group.
-
      "X" see subsection (5).
      (5) For subsections (3) and (4), the amount for
      "X" is to be worked out using the following formulaâ
      whereâ
-
      "IW" means the amount of interstate wages paid or payable by each
      relevant group employer as a member of the group during the
      designated period for the DGE.
-
      "IWhalf" means the amount of interstate wages paid or payable by each
      relevant group employer as a member of the groupâ
           (a) in relation to the deduction (first half)âfor the
@@ -7390,11 +7099,9 @@ a group ***
           (b) in relation to the deduction (second half)âfor the
           part of the designated period for the DGE occurring in the
           second half of the transitional financial year.
-
      "TW" means the amount of taxable wages paid or payable by each
      relevant group employer as a member of the group during the
      designated period for the DGE.
-
      "TWhalf" means the amount of taxable wages paid or payable by each
      relevant group employer as a member of the groupâ
           (a) in relation to the deduction (first half)âfor the
@@ -7404,11 +7111,9 @@ a group ***
           part of the designated period for the DGE occurring in the
           second half of the transitional financial year.
      (6) In this sectionâ
-
      "relevant group employer", for the designated period for the DGE for
      a group in the transitional financial year, means an employer who was
      a member of the group for all or part of the designated period.
- 
 Working out final deduction for transitional financial yearâemployer other
 than the DGE for a group
 *** 148E Working out final deduction for transitional financial yearâemployer
@@ -7428,65 +7133,47 @@ other than the DGE for a group ***
      "deduction (first half)" is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the number of days in the part of the final period
      occurring in the first half of the transitional financial year for
      which the employer pays, or is liable to pay, wages.
-
      "B" means the number of days in the part of the final period
      occurring in the second half of the transitional financial year for
      which the employer pays, or is liable to pay, wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D1" means the employerâs deduction (first half) in dollars.
-
      "FW1" means the amount of the employerâs final wages that are paid
      or payable for the part of the final period occurring in the first
      half of the transitional financial year.
-
      "IW1" means the amount of interstate wages paid or payable by the
      employer for the part of the final period occurring in the first half
      of the transitional financial year.
-
      "K" means 1,300,000.
-
      "X" see subsection (5).
      (4) Also, for subsection (2), the employerâs
      "deduction (second half)" is the amount worked out using the
      following formulaâ
      whereâ
-
      "A" means the number of days in the part of the final period
      occurring in the first half of the transitional financial year for
      which the employer pays, or is liable to pay, wages.
-
      "B" means the number of days in the part of the final period
      occurring in the second half of the transitional financial year for
      which the employer pays, or is liable to pay, wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D2" means the employerâs deduction (second half) in dollars.
-
      "FW2" means the amount of the employerâs final wages that are paid
      or payable for the part of the final period occurring in the second
      half of the transitional financial year.
-
      "IW2" means the amount of interstate wages paid or payable by the
      employer for the part of the final period occurring in the second
      half of the transitional financial year.
-
      "K" means 1,300,000.
-
      "X" see subsection (5).
      (5) For subsections (3) and (4), the amount for
      "X" is to be worked out using the following formulaâ
      whereâ
-
      "FW" means the amount of the employerâs final wages for the final
      period.
-
      "FWhalf" means the amount of final wages paid or payable by the
      employerâ
           (a) in relation to the deduction (first half)âfor the
@@ -7495,10 +7182,8 @@ other than the DGE for a group ***
           (b) in relation to the deduction (second half)âfor the
           part of the final period occurring in the second half of
           the transitional financial year.
-
      "IW" means the amount of interstate wages paid or payable by the
      employer for the final period.
-
      "IWhalf" means the amount of interstate wages paid or payable by the
      employerâ
           (a) in relation to the deduction (first half)âfor the
@@ -7508,11 +7193,8 @@ other than the DGE for a group ***
           part of the final period occurring in the second half of
           the transitional financial year.
      (6) In this sectionâ
-
      "final wages" see section 37.
-
      "wages" does not include foreign wages.
- 
 Working out final deduction for transitional financial yearâDGE for a group
 *** 148F Working out final deduction for transitional financial yearâDGE for
 a group ***
@@ -7529,82 +7211,64 @@ a group ***
      "deduction (first half)" is the amount worked out using the following
      formulaâ
      whereâ
-
      "A" means the number of daysâ
           (a) that are in the part of the final period occurring in
           the first half of the transitional financial year; and
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "B" means the number of daysâ
           (a) that are in the part of the final period occurring in
           the second half of the transitional financial year; and
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D1" means the DGEâs deduction (first half) in dollars.
-
      "IW1" means the amount of interstate wages paid or payable for the
      part of the final period occurring in the first half of the
      transitional financial year by each relevant group employer as a
      member of the group.
-
      "K" means 1,300,000.
-
      "TW1" means the amount of taxable wages paid or payable for the part
      of the final period occurring in the first half of the transitional
      financial year by each relevant group employer as a member of the
      group.
-
      "X" see subsection (5).
      (4) Also, for subsection (2), the DGEâs
      "deduction (second half)" is the amount worked out using the
      following formulaâ
      whereâ
-
      "A" means the number of daysâ
           (a) that are in the part of the final period occurring in
           the first half of the transitional financial year; and
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "B" means the number of daysâ
           (a) that are in the part of the final period occurring in
           the second half of the transitional financial year; and
           (b) for which 1 or more relevant group employers pay, or
           are liable to pay, as members of the group taxable wages or
           interstate wages, or taxable wages and interstate wages.
-
      "C" means the number of days in the transitional financial year.
-
      "D2" means the DGEâs deduction (second half) in dollars.
-
      "IW2" means the amount of interstate wages paid or payable for the
      part of the final period occurring in the second half of the
      transitional financial year by each relevant group employer as a
      member of the group.
-
      "K" means 1,300,000.
-
      "TW2" means the amount of taxable wages paid or payable for the part
      of the final period occurring in the second half of the transitional
      financial year by each relevant group employer as a member of the
      group.
-
      "X" see subsection (5).
      (5) For subsections (3) and (4), the amount for
      "X" is to be worked out using the following formulaâ
      whereâ
-
      "IW" means the amount of interstate wages paid or payable for the
      final period by each relevant group employer as a member of the
      group.
-
      "IWhalf" means the amount of interstate wages paid or payable by each
      relevant group employer as a member of the groupâ
           (a) in relation to the deduction (first half)âfor the
@@ -7613,10 +7277,8 @@ a group ***
           (b) in relation to the deduction (second half)âfor the
           part of the final period occurring in the second half of
           the transitional financial year.
-
      "TW" means the amount of taxable wages paid or payable for the final
      period by each relevant group employer as a member of the group.
-
      "TWhalf" means the amount of taxable wages paid or payable by each
      relevant group employer as a member of the groupâ
           (a) in relation to the deduction (first half)âfor the
@@ -7626,11 +7288,9 @@ a group ***
           part of the final period occurring in the second half of
           the transitional financial year.
      (6) In this sectionâ
-
      "relevant group employer", for a final period for the DGE for a
      group, means an employer who was a member of the group for all or
      part of the final period.
- 
 Additional information required for particular annual returns
 *** 148G Additional information required for particular annual returns ***
      (1) This section applies in relation to an annual return for the
@@ -7651,11 +7311,9 @@ Additional information required for particular annual returns
           included, or required to be included, in a final return for
           a final period for the employer during the financial year.
      (3) In this sectionâ
-
      "relevant group employer", for the designated period for the DGE for
      a group in the transitional financial year, means an employer who was
      a member of the group for all or part of the designated period.
- 
 Additional information required for particular final returns
 *** 148H Additional information required for particular final returns ***
      (1) This section applies in relation to a final return for the
@@ -7675,11 +7333,9 @@ Additional information required for particular final returns
           occurring in the second half of the transitional financial
           year.
      (3) In this sectionâ
-
      "relevant group employer", for a final period for the DGE for a
      group, means an employer who was a member of the group for all or
      part of the final period.
- 
 Imposition and calculation of mental health levy for 2022â23 financial year
 *** 149 Imposition and calculation of mental health levy for 2022â23
 financial year ***
@@ -7711,7 +7367,6 @@ financial year ***
           (f) a reference in section 43M, definition
           "primary final levy amount" to $10m is taken to be a
           reference to $5m.
- 
 Notification requirements for groups in January 2023
 *** 150 Notification requirements for groups in January 2023 ***
      (1) An employer who is a non-DGE group member on 1 January 2023 must,
@@ -7737,7 +7392,6 @@ Notification requirements for groups in January 2023
      subsection (1) or (2).
           Penalty--
                Maximum penaltyâ100 penalty units.
- 
 Notification requirements under s 88A for 2022â23 financial year
 *** 151 Notification requirements under s 88A for 2022â23 financial year ***
 Section 88A applies to the financial year ending 30 June 2023 as a relevant
@@ -7750,126 +7404,78 @@ financial year as followsâ
           starting 1 July 2023;
      (b) a reference in section 88A(5) to the relevant financial year is
      taken to be a reference to the period from 1 January to 30 June 2023.
- 
 - SCHEDULE
 *** SCHEDULE Dictionary ***
-
 "actual periodic deduction", for part 2, division 3, subdivision 1, see section
 17.
-
 "additional annual levy amount", for part 2, division 5B, see section 43I.
-
 "additional final levy amount", for part 2, division 5C, see section 43M.
-
 "additional periodic threshold", for part 2, division 5A, see section 43E.
-
 "adjusted additional threshold", for part 2, division 5A, see section 43D.
-
 "adjusted primary threshold", for part 2, division 5A, see section 43C.
-
 "Administration Act" means the Taxation Administration Act 2001.
-
 "administrator" see the Administration Act, schedule 2.
-
 "agent"...
-
 "aggregate interest", for part 4, division 2A, see section 74B.
-
 "amended", for part 7, see section 98.
-
 "amended Act" â
      (a) for part 7, see section 98; and
      (b) for part 9, see section 135.
-
 "amending Act" â
      (a) for part 7, see section 98; and
      (b) for part 9, see section 135.
-
 "annual adjustment amount" â
      (a) for part 2, division 4, subdivision 1, see section 29 (1); and
      (b) for part 2, division 4, subdivision 2, see section 33.
-
 "annual deduction" â
      (a) for part 2, division 4, subdivision 1, see section 29 (1); and
      (b) for part 2, division 4, subdivision 2, see section 33.
-
 "annual levy adjustment amount", for part 2, division 5B, see section 43I.
-
 "annual levy amount", for part 2 division 5B, see section 43I.
-
 "annual levy liability" see section 43J.
-
 "annual liability" â
      (a) for an employer other than the DGE for a groupâsee section 30
      (1); and
      (b) for the DGE for a groupâsee section 34 (1).
-
 "annual payroll tax amount" â
      (a) for part 2, division 4, subdivision 1, see sections 29 (1) and 48
      (4); and
      (b) for part 2, division 4, subdivision 2, see section 33.
-
 "annual refund amount" â
      (a) for an employer other than the DGE for a groupâsee section 31
      (2); or
      (b) for the DGE for a groupâsee section 35 (2).
-
 "annual return" means a return mentioned in section 63.
-
 "annual wages" â
      (a) for part 2, division 4, subdivision 1, see section 29 (1); and
      (b) for part 2, division 4, subdivision 2, see section 33.
-
 "approved form" see section 96.
-
 "approved information system" see the Administration Act, schedule 2.
-
 "assessed interest", see the Administration Act, section 54 (3).
-
 "assessment" see the Administration Act, schedule 2.
-
 "associated persons", for part 4, division 2A, see section 74B.
-
 "Australia" means the States.
-
 "averaging method", for part 2, division 1D, subdivision 1, see section 13X.
-
 "averaging period", for part 2, division 1D, subdivision 1, see section 13X.
-
 "business", for part 4, see section 66.
-
 "business journey", for part 2, division 1D, subdivision 1, see section 13X.
-
 "business vehicle", for part 2, division 1D, subdivision 1, see section 13X.
-
 "calculation day" â
      (a) for part 2, division 3, subdivision 1, see section 18; and
      (b) for part 2, division 3, subdivision 2, see section 24; and
      (c) for part 2, division 5A, see section 43EB.
-
 "change of status" see section 5 (1).
-
 "client"...
-
 "combined periodic liability", for part 2, division 5B, see section 43H.
-
 "commencement", for part 7, see section 98.
-
 "commissioner" means the Commissioner of State Revenue appointed under the
 Administration Act.
-
 "Commonwealth Act"...
-
 "company" includes all bodies and associations (corporate and unincorporate)
 and partnerships.
-
-"continuous recording method", for part 2, division 1D, subdivision 1, see
-section 13X.
-
+"continuous recording method", for part 2, division 1D, subdivision 1, see Section 13X.
 "contract", for part 2, division 1A, see section 13A.
-
 "corporation" see the Corporations Act.
-
 "corresponding law" meansâ
      (a) in relation to Queenslandâa law in force in Queensland imposing
      on employers a tax on wages paid or payable by them and the
@@ -7878,37 +7484,27 @@ section 13X.
      (b) in relation to another Stateâmeans a law in force in the State
      imposing on employers a tax on wages paid or payable by them and the
      assessment and collection of the tax.
-
 "criteria for registration", for part 3, division 1, see section 52.
-
 "current financial year", for a periodic return period, for part 2, division
 5A, see section 43EA.
-
 "death benefit ETP"...
-
 "designated group employer", in relation to a group, means the member of that
 group who under section 75 is for the time being the designated group employer
 in respect of that group.
-
 "designated period", for an employer who is the DGE for a group on 30 June in a
 financial yearâ
      (a) means the part of the year for which the employer was the DGE for
      the group; but
      (b) does not include a part of the year for which the DGE lodged, or
      was required under section 64 (2) to lodge, a final return.
-
 "DGE" means designated group employer.
-
 "direct interest", for part 4, division 2A, see section 74B.
-
 "director" â
      (a) of a company, includes a member of the governing body of the
      company; and
      (b) for part 2, division 1C, see section 13N.
-
 "eligible year" means a financial year ending 30 June 2010, 2011, 2012, 2016,
 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 or 2026.
-
 "employer" means any person who pays or is liable to pay any wages and includes
 the Crown in right of the State of Queensland and any person taken to be an
 employer under another provision of this Act.
@@ -7917,67 +7513,46 @@ employer under another provision of this Act.
           employers, see, for example, sections 13C (relevant
           contract employers) and 13H (employment agents under
           employment agency contracts).
-
 "employment agency contract" see section 13G (1).
-
 "employment agent", under an employment agency contract, see section 13G (1).
-
 "entitled group member", for part 2, division 6, see section 44.
-
 "ETP"...
-
 "excess deduction", for part 2, division 6, see section 45 (2).
-
 "false or misleading" includes false or misleading because of the omission of a
 statement.
-
 "final adjustment amount" â
      (a) for part 2, division 5, subdivision 1, see section 37; and
      (b) for part 2, division 5, subdivision 2, see section 41.
-
 "final deduction" â
      (a) for part 2, division 5, subdivision 1, see section 37; and
      (b) for part 2, division 5, subdivision 2, see section 41.
-
 "final levy adjustment amount", for part 2, division 5C, see section 43M.
-
 "final levy amount", for part 2, division 5C, see section 43M.
-
 "final levy liability" see section 43N.
-
 "final liability" â
      (a) for an employer other than the DGE for a groupâsee section 38
      (1); and
      (b) for the DGE for a groupâsee section 42 (1).
-
 "final payroll tax amount" â
      (a) for part 2, division 5, subdivision 1, see sections 37 and 49
      (4); and
      (b) for part 2, division 5, subdivision 2, see section 41.
-
 "final period" see section 6.
-
 "final refund amount" â
      (a) for an employer other than the DGE for a groupâsee section 39
      (2); or
      (b) for the DGE for a groupâsee section 43 (2).
-
 "final return" means a return mentioned in section 64.
-
 "final wages" â
      (a) for part 2, division 5, subdivision 1, see section 37; and
      (b) for part 2, division 5, subdivision 2, see section 41; and
      (c) for part 2, division 5C, see section 43M.
-
 "financial year"...
-
 "fixed periodic deduction" â
      (a) for part 2, division 3, subdivision 1, see section 17; and
      (b) for part 2, division 3, subdivision 2, see section 23.
-
 "foreign wages" means wages that are not taxable wages and are not interstate
 wages.
-
 "fringe benefit" meansâ
      (a) a benefit that, in relation to an employee, or an employer of an
      employee, is a fringe benefit under the Fringe Benefits Assessment
@@ -7986,83 +7561,50 @@ wages.
 but does not includeâ
      (c) a car parking fringe benefit within the meaning of that Act; or
      (d) anything prescribed by regulation not to be a fringe benefit.
-
 "Fringe Benefits Assessment Act" means the Fringe Benefits Tax Assessment Act
-1986 (Cwlth).
-
+Section 1986 (Cwlth).
 "granted", for part 2, division 1C, see section 13N.
-
 "grantee", for part 2, division 1C, see section 13N.
-
 "grantor", for part 2, division 1C, see section 13N.
-
 "group" means a group constituted under part 4.
-
 "group member" means a person who is a member of a group.
-
 "indirect interest", for part 4, division 2A, see section 74B.
-
 "interstate wages" means wages that are taxable wages within the meaning of a
 corresponding law.
-
 "liquidator" means the person who, whether or not appointed as liquidator, is
 the person required by law to carry out the winding-up of a company.
-
 "Local Authority"...
-
 "mental health levy" means mental health levy imposed under section 12A.
-
 "Minister"...
-
 "month"...
-
 "non-DGE group member" means a group member, other than the DGE for the group.
-
-"number of exempt kilometres", for part 2, division 1D, subdivision 1, see
-section 13X.
-
+"number of exempt kilometres", for part 2, division 1D, subdivision 1, see Section 13X.
 "option" means an option or right, whether actual, prospective or contingent,
 of a person toâ
      (a) acquire a share; or
      (b) have a share transferred or allotted to the person.
-
 "order of entitled group members", for part 2, division 6, see section 44.
-
 "original assessment" see the Administration Act, schedule 2.
-
 "paid or payable", in relation to wages that are fringe benefits, meansâ
      (a) paid;
      (b) if another meaning is prescribed by regulationâthat meaning.
-
 "partial amount", for a periodic return period, means the amount worked out
 using the following formulaâ
 whereâ
-
 "PA" means the partial amount in dollars.
-
 "PL" means the employerâs periodic liability for the period.
-
 "X" means the number of days in the period that are in the final period.
-
 "Y" means the total number of days in the period.
-
 "partial levy amount", for part 2, division 5C, see section 43M.
-
 "pay", in relation to wages, includes provide, confer and assign.
-
 "payroll tax" means payroll tax chargeable under section 10.
-
 "penalty tax" see the Administration Act, section 58 (1).
-
 "periodic levy liability" see section 43F (1).
-
 "periodic levy liability amount" see section 43M.
-
 "periodic liability" â
      (a) for an employer other than the DGE for a group, see section 20
      (1); or
      (b) for the DGE for a group, see section 26.
-
 "periodic liability amount", for an employer for a final period, means the sum
 ofâ
      (a) the employerâs periodic liability for a periodic return period
@@ -8074,23 +7616,15 @@ ofâ
      periodic return period that includes the day, even if the return date
      for lodging the periodic return is after the return date for lodging
      the final return.
-
 "periodic return" means a return mentioned in section 59.
-
 "periodic return period", for lodgement of periodic returns by an employer,
 means the period under section 60 for which the employer is required to lodge
 periodic returns.
-
 "person"...
-
 "post-commencement liability", for part 7, see section 98.
-
 "pre-amended Act", for part 9, see section 135.
-
 "pre-commencement act or omission", for part 7, see section 98.
-
 "pre-commencement liability", for part 7, see section 98.
-
 "prescribed levy liability" means a liability for any of the followingâ
      (a) the mental health levy;
      (b) unpaid tax interest in relation to an assessment of liability for
@@ -8100,7 +7634,6 @@ periodic returns.
      (d) any other amount payable under this Act or the Administration
      Act, or a liability to pay costs ordered by a court or QCAT, in
      relation to the mental health levy.
-
 "prescribed payroll tax liability" means a liability for any of the
 followingâ
      (a) payroll tax;
@@ -8111,107 +7644,65 @@ followingâ
      (d) any other amount payable under this Act or the Administration
      Act, or a liability to pay costs ordered by a court or QCAT, in
      relation to payroll tax.
-
 "prescribed period", for part 7, see section 98.
-
 "previous", for part 7, see section 98.
-
 "previous return period", for part 7, see section 98.
-
 "primary annual levy amount", for part 2, division 5B, see section 43I.
-
 "primary final levy amount", for part 2, division 5C, see section 43M.
-
 "primary periodic threshold", for part 2, division 5A, see section 43E.
-
 "private company", for part 4, division 2A, see section 74B.
-
 "reasonably believes" see the Administration Act, schedule 2.
-
 "reassessment" see the Administration Act, schedule 2.
-
 "related body corporate", for part 4, see section 66.
-
 "related persons", for part 4, division 2A, see section 74B.
-
 "relevant contract" see section 13B.
-
 "relevant contract employee" see section 13A.
-
 "relevant contract employer" see section 13C (3).
-
 "relevant day", for part 2, division 1C, see section 13N.
-
 "relevant employer" â
      (a) for part 3, division 2, see section 58; and
      (b) for part 9, see section 135.
-
 "relevant entity", for part 4, division 2A, see section 74B.
-
 "relevant financial year" meansâ
      (a) for part 2, division 6, see section 44; or
      (b) for part 2, division 6A, see section 49A.
-
 "relevant group employer" â
      (a) for part 2, division 4, subdivision 2, see section 33; and
      (b) for part 2, division 5, subdivision 2, see section 41; and
      (c) for part 2, division 5C, see section 43M.
-
 "relevant percentage", for part 2, division 1D, subdivision 1, see section 13X.
-
 "relevant wages", for part 9, see section 135.
-
 "re-supply", for part 2, division 1A, see section 13A.
-
 "return" means a form approved for lodgement by an employer.
-
 "return date", for lodgement of a periodic return, annual return or final
 return by an employer, means the date by which the employer is required under
 part 3, division 2 to lodge the return and pay tax.
-
 "return period", in relation to an employer, means each of the following
 periods for which the employer is required under this Act to lodge a returnâ
      (a) a periodic return period;
      (b) a financial year;
      (c) a final period.
-
 "self assessment" see the Administration Act, schedule 2.
-
 "service provider", in relation to an employment agency contract, see section
-13G (1).
-
+Section 13G (1).
 "services", for part 2, division 1A, see section 13A.
-
 "share" means a share in a company and includes a stapled security.
-
 "significant wage change" â
      (a) for part 2, division 3, subdivision 1, see section 19; and
      (b) for part 2, division 3, subdivision 2, see section 25; and
      (c) for part 2, division 5A, see section 43EC.
-
 "State" includes a Territory.
-
 "superannuation contribution" see section 3.
-
 "supply", for part 2, division 1A, see section 13A.
-
 "tax" see the Administration Act, schedule 2.
-
 "taxable ETP"...
-
 "taxable wages" means wages that, under section 9, are liable to payroll tax
 and the mental health levy.
-
 "tax law liability" see the Administration Act, schedule 2.
-
 "termination payment" see section 3A.
-
 "transitional final period", for part 7, see section 98.
-
 "transitional return period", for part 7, see section 98.
-
 "transitional year", for part 7, see section 98.
-
 "trustee", in addition to every person appointed or constituted trustee by act
 of parties, by order or declaration of a court or by operation of law,
 includesâ
@@ -8222,15 +7713,10 @@ includesâ
      by any express or implied trust, or acting in any fiduciary capacity,
      or having the possession, control or management of any real or
      personal property of a person under any legal or other disability.
-
 "unpaid tax interest" see the Administration Act, section 54 (1).
-
 "vesting day", for part 2, division 1C, see section 13N.
-
 "voting share" see the Corporations Act, part 1.2, section 9.
-
 "wages", for part 2, division 5, subdivision 1, see section 37.
-
 "wages" â
      1 means any wages, remuneration, salary, commission, bonuses or
      allowances paid or payable (whether at piecework rates or otherwise

@@ -1,0 +1,143 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/cpwta1998414/",
+    "register_url": "https://www.legislation.gov.au/C2004A05336/latest/text",
+    "source": "Commonwealth Places Windfall Tax (Collection) Act 1998 (100000028).txt",
+    "filename": "Commonwealth Places Windfall Tax (Collection) Act 1998 (100000028).json",
+    "name": "Commonwealth Places Windfall Tax (Collection) Act 1998",
+    "citation": "Commonwealth Places Windfall Tax (Collection) Act 1998"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARYýÜ > Section 1",
+      "text": "This Act may be cited as the Commonwealth Places Windfall Tax (Collection)\nAct 1998.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARYýÜ > Section 2",
+      "text": "This Act is taken to have commenced on 6 October 1997.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - This Act binds the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "This Act binds the Crown",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARYýÜ > Section 3",
+      "text": "This Act binds the Crown in each of its capacities.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Definitions",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARYýÜ > Section 4",
+      "text": "(1)    In this Act, unless the contrary intention appears:\nCommissioner means the Commissioner of Taxation.\nliable to repay has the meaning given by subsection (2).\nState taxing law has the same meaning as in the Commonwealth\nPlaces (Mirror Taxes) Act 1998.\nwindfall tax means the tax payable under this Act.\n    (2)    For the purposes of this Act, a State is liable to repay an\namount to a person if:\n    (a)    the State is liable to repay the amount to the person; or\n    (b)    the State is required or permitted to offset the amount against other\namounts that are owing, or may become owing, to the State by the person; or\n    (c)    the State is required or permitted to apply the amount for the benefit of\nthe person in any other way.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Administration",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Administration",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARYýÜ > Section 5",
+      "text": "The Commissioner has the general administration of this Act.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Taxable amount",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Taxable amount",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY > Section 6",
+      "text": "(1)    A taxable amount is any amount that meets all the following conditions:\n    (a)    a State is liable to repay the amount to a person (the\ntaxpayer) because a State taxing law is wholly or partly invalid\nbecause of paragraph 52(i) of the Constitution;\n    (b)    the amount is by way of repayment of an amount paid under the State taxing\nlaw before 6 October 1997;\n    (c)    the amount is claimed by the taxpayer from the State, or a court orders\nthe State to pay the amount to the taxpayer.\n    (2)    A taxable amount is reduced by deducting any part of it that a State would\nhave been liable to repay even if the State taxing law were wholly valid.\nExample:    An amount that is repayable solely because of an overpayment by\nthe taxpayer would be deducted.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Liability to windfall tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Liability to windfall tax",
+      "defined_term": null,
+      "structure_path": "Part 2--LIABILITY > Section 7",
+      "text": "(1)    The taxpayer in respect of a taxable amount is the person to whom the\nState was liable to repay the taxable amount.\nNote:    Section 8 extinguishes the liability of the State to repay the\ntaxable amount.\n    (2)    The person who is the taxpayer in respect of a taxable amount is liable to\npay windfall tax on the taxable amount.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - State must withhold windfall tax from taxable amounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "State must withhold windfall tax from taxable amounts",
+      "defined_term": null,
+      "structure_path": "Part 3--COLLECTION > Section 8",
+      "text": "State must withhold windfall tax\n    (1)    A State that is liable to repay a taxable amount must not repay or\notherwise apply the taxable amount without first having deducted the windfall\ntax on the taxable amount.\n    (2)    As soon as practicable after making a deduction under subsection (1), the\nState must notify the taxpayer in writing that the deduction was made.\n    (3)    An amount deducted under subsection (1) is payable by the State to the\nCommonwealth.\nState discharged from liability to account\n    (4)    When a State makes a deduction from a taxable amount under subsection (1)\n(or purportedly under subsection (1)), the State is discharged from any\nliability to pay or account for the amount deducted to any person other than\nthe Commissioner.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Taxpayer entitled to credit for amount deducted by State",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Taxpayer entitled to credit for amount deducted by State",
+      "defined_term": null,
+      "structure_path": "Part 3--COLLECTION > Section 9",
+      "text": "(1)    When a State makes a deduction from a taxable amount under section 8 (or\npurportedly under section 8), the taxpayer is entitled to a credit equal to the\namount deducted.\n    (2)    However, the taxpayer is not entitled to a credit for any amount\npurportedly deducted under section 8 in relation to an amount paid under a\nvalid State taxing law.\n    (3)    The credit is a debt due to the taxpayer by the Commissioner on behalf of\nthe Commonwealth.\n    (4)    The Commissioner may apply some or all of the credit against the\ntaxpayer's liability to windfall tax (whether or not that liability is in\nrespect of the taxable amount that gives rise to the credit). The Commissioner\nmust refund any amount not applied.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Part 4--MISCELLANEOUS > Section 10",
+      "text": "After the end of each financial year, the Commissioner must give a report to\nthe Minister, for presentation to the Parliament, on the operation of this Act\nduring the year.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Arrangements with States",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Arrangements with States",
+      "defined_term": null,
+      "structure_path": "Part 4--MISCELLANEOUS > Section 11",
+      "text": "(1)    The Commissioner may make an arrangement with an appropriate officer or\nauthority of a State about any matter in connection with the administration of\nthis Act.\n    (2)    In particular, an arrangement may relate to the Commissioner's delegation\nof powers or functions under this Act or the regulations.\nNote:    Section 8 of the Taxation Administration Act 1953 contains the\nCommissioner's delegation power.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Commonwealth payments to States",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Commonwealth payments to States",
+      "defined_term": null,
+      "structure_path": "Part 4--MISCELLANEOUS > Section 12",
+      "text": "(1)    Whenever a State becomes liable to make a payment to the Commonwealth\nunder section 8, the Commonwealth is liable to pay an equal amount to the\nState.\n    (2)    Amounts payable by the Commonwealth under subsection (1) are to be reduced\nby amounts that the Commissioner is liable to refund under subsection 9(4).\n    (3)    The Consolidated Revenue Fund is appropriated for the purposes of this\nsection.\nNo. 25, 1998\n-"
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 4--MISCELLANEOUS > Section 13",
+      "text": "(1)    The Governor-General may make regulations prescribing matters:\n    (a)    required or permitted by this Act to be prescribed; or\n    (b)    necessary or convenient to be prescribed for carrying out or giving effect\nto this Act.\n    (2)    In particular, the regulations may prescribe penalties for offences\nagainst the regulations by way of fines of up to 10 penalty units.\n[Minister's second reading speech made in--\nHouse of Representatives on 5 March 1998\nSenate on 23 March 1998]"
+    }
+  ]
+}

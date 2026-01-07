@@ -1,0 +1,63 @@
+{
+  "doc": {
+    "jurisdiction": "australian_capital_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/act/num_reg/tber200310o2003632/",
+    "register_url": "https://www.legislation.act.gov.au/sl/2003-10/",
+    "source": "Taxation (Government Business Enterprises) Regulation 2003 (100000163).txt",
+    "filename": "Taxation (Government Business Enterprises) Regulation 2003 (100000163).json",
+    "name": "Taxation (Government Business Enterprises) Regulation 2003",
+    "citation": "Taxation (Government Business Enterprises) Regulation 2003"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Name of regulations These regulations are the Taxation (Government Business Enterprises) Regulations 2003.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of regulations These regulations are the Taxation (Government Business Enterprises) Regulations 2003.",
+      "defined_term": null,
+      "structure_path": "Taxation (Government Business Enterprises) Regulation 2003 > Regulation 1",
+      "text": "TAXATION (GOVERNMENT BUSINESS ENTERPRISES) REGULATIONS 2003 (NO 10 OF 2003)"
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement These regulations are taken to have commenced on 1 July 2002.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement These regulations are taken to have commenced on 1 July 2002.",
+      "defined_term": null,
+      "structure_path": "Taxation (Government Business Enterprises) Regulation 2003 > Regulation 2",
+      "text": "TAXATION (GOVERNMENT BUSINESS ENTERPRISES) REGULATIONS 2003 (NO 10 OF 2003)"
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Territory entities subject to national tax equivalent regime--Act, s 6 The following Territory entities are prescribed: o ACTEW Corporation Limited",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Territory entities subject to national tax equivalent regime--Act, s 6 The following Territory entities are prescribed: o ACTEW Corporation Limited",
+      "defined_term": null,
+      "structure_path": "Taxation (Government Business Enterprises) Regulation 2003 > Regulation 3",
+      "text": "o      ACTEW Distribution Limited\n               o      ACTEW Retail Limited\n               o      ACTEW Investments Pty Limited\n               o      ACTEW China Pty Limited\n               o      ACT Forests\n               o      ACTION Authority\n               o      ACTTAB Limited\n               o      Totalcare Industries Limited.\nTAXATION (GOVERNMENT BUSINESS ENTERPRISES) REGULATIONS 2003 (NO 10 OF 2003)"
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Territory entities subject to taxes and charges generally--Act, s 9 The following Territory entities are prescribed: o ACTEW Corporation Limited",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Territory entities subject to taxes and charges generally--Act, s 9 The following Territory entities are prescribed: o ACTEW Corporation Limited",
+      "defined_term": null,
+      "structure_path": "Taxation (Government Business Enterprises) Regulation 2003 > Regulation 4",
+      "text": "o      ACTEW Distribution Limited\n               o      ACTEW Retail Limited\n               o      ACTEW Investments Pty Limited\n               o      ACTEW China Pty Limited\n               o      ACT Forests\n               o      ACT Insurance Authority\n               o      ACTION Authority\n               o      ACTTAB Limited\n               o      Australian International Hotel School\n               o      CIT Solutions\n               o      CityScape\n               o      Canberra Tourism and Events Corporation\n               o      Cultural Facilities Corporation\n               o      Gungahlin Development Authority\n               o      Kingston Foreshore Development Authority\n               o      National Exhibition Centre Trust\n               o      Stadiums Authority\n               o      The Australian Capital Territory Public Cemeteries Board\n               o      Totalcare Industries Limited\n               o      Yarralumla Nursery.\nTAXATION (GOVERNMENT BUSINESS ENTERPRISES) REGULATIONS 2003 (NO 10 OF 2003)"
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Application of regulation 4",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Application of regulation 4",
+      "defined_term": null,
+      "structure_path": "Taxation (Government Business Enterprises) Regulation 2003 > Regulation 5",
+      "text": "(1)     Before the commencement of the Cemeteries and Crematoria Act\n2003, section 18, regulation 4 applies as if the reference in that\nregulation to The Australian Capital Territory Public Cemeteries Board were a\nreference to The Trustees of the Canberra Public Cemeteries.\n     (2)     This section expires on the commencement of the Cemeteries and\nCrematoria Act 2003, section 18.\nTAXATION (GOVERNMENT BUSINESS ENTERPRISES) REGULATIONS 2003 (NO 10 OF 2003)\n- NOTES Endnotes\nEndnote\nNotification\n     Notified under the Legislation Act on 16 April 2003.     (see\nwww.legislation.act.gov.au)\n(c) Australian Capital Territory\n2003\nTAXATION (GOVERNMENT BUSINESS ENTERPRISES) REGULATIONS 2003 (NO 10 OF 2003)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/itwta1979336/",
+    "register_url": "https://www.legislation.gov.au/C2004A02038/latest/text",
+    "source": "Income Tax (Mining Withholding Tax) Act 1979 (100000090).txt",
+    "filename": "Income Tax (Mining Withholding Tax) Act 1979 (100000090).json",
+    "name": "Income Tax (Mining Withholding Tax) Act 1979",
+    "citation": "Income Tax (Mining Withholding Tax) Act 1979"
+  },
+  "chunks": [
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax (Mining Withholding Tax) Act 1979 > Section 2",
+      "text": "2. This Act shall come into operation on the day on which it receives the\nRoyal Assent.*1*\nINCOME  TAX  (MINING  WITHHOLDING  TAX)  ACT  1979 No. 28 of 1979"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Mining Withholding Tax) Act 1979 > Section 3",
+      "text": "3. In this Act, ''Assessment Act'' means the Income Tax Assessment Act\n1936.\nINCOME  TAX  (MINING  WITHHOLDING  TAX)  ACT  1979 No. 28 of 1979"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Mining Withholding Tax) Act 1979 > Section 4",
+      "text": "4. The Assessment Act is incorporated and shall be read as one with this\nAct.\nINCOME  TAX  (MINING  WITHHOLDING  TAX)  ACT  1979 No. 28 of 1979"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Mining Withholding Tax) Act 1979 > Section 5",
+      "text": "5. The tax known as income tax, to the extent that it is payable in\naccordance with section 128V of the Assessment Act, is imposed, and shall be\nlevied and paid.\nINCOME  TAX  (MINING  WITHHOLDING  TAX)  ACT  1979 No. 28 of 1979"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Rate of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Mining Withholding Tax) Act 1979 > Section 6",
+      "text": "6. The rate of income tax imposed by this Act is 6.4%.\n------------------------------------------------------------------------------\n--\nINCOME  TAX  (MINING  WITHHOLDING  TAX)  ACT  1979 No. 28 of 1979 - NOTE\n                                      NOTE\nSection 1. Act No. 28, 1979; assented to 4 June 1979."
+    },
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title.",
+      "defined_term": null,
+      "structure_path": "Income Tax (Mining Withholding Tax) Act 1979 > Section 1",
+      "text": ""
+    }
+  ]
+}

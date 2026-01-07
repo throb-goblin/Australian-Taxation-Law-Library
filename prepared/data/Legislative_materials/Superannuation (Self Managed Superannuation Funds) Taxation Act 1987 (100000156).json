@@ -1,0 +1,183 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/smsfta1987600/",
+    "register_url": "https://www.legislation.gov.au/C2004A03506/latest/text",
+    "source": "Superannuation (Self Managed Superannuation Funds) Taxation Act 1987 (100000156).txt",
+    "filename": "Superannuation (Self Managed Superannuation Funds) Taxation Act 1987 (100000156).json",
+    "name": "Superannuation (Self Managed Superannuation Funds) Taxation Act 1987",
+    "citation": "Superannuation (Self Managed Superannuation Funds) Taxation Act 1987"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part I--PRELIMINARY > Section 1",
+      "text": "This Act may be cited as the Superannuation (Self Managed Superannuation Funds) Taxation Act 1987."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part I--PRELIMINARY > Section 2",
+      "text": "This Act shall come into operation on a day to be fixed by Proclamation."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part I--PRELIMINARY > Section 3",
+      "text": "(1) In this Act:\n\"fund or unit trust affected by a reviewable decision\", in relation to a reviewable decision, means the fund or unit trust in relation to which the decision was made.\n\"reviewable decision\" means a decision of the Commissioner of Taxation under section 15DF.\n\"trustee\", in relation to a fund or trust, has the same meaning as in the Superannuation Industry (Supervision) Act 1993 .\n\"year of income\", in relation to a fund or unit trust, means a period that is, for the purposes of the Tax Act, the year of income of the fund or unit trust that commenced on 1  July 1986 or a subsequent year of income."
+    },
+    {
+      "key": "section:3A",
+      "title": "Section 3A - Crown to be bound",
+      "main_structural_unit": "section",
+      "main_structural_number": "3A",
+      "main_structural_heading": "Crown to be bound",
+      "defined_term": null,
+      "structure_path": "Part I--PRELIMINARY > Section 3A",
+      "text": "(1) This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory.\n (2) Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory liable to be prosecuted for an offence."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - General administration of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "General administration of Act",
+      "defined_term": null,
+      "structure_path": "Part III--FUNCTIONS--OF THE COMMISSIONER OF TAXATION > Section 9",
+      "text": "Subject to any directions of the Minister, the Commissioner of Taxation shall have the general administration of this Act.\nNote: An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division  355 in Schedule 1 to the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:15DAA.term:general-interest-charge",
+      "title": "Section 15DAA Definitions \"general interest charge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DAA",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"general interest charge\"",
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DAA",
+      "text": "\"general interest charge\" means the charge worked out under Part IIA of the Taxation Administration Act 1953 ."
+    },
+    {
+      "key": "section:15DAA.term:levy",
+      "title": "Section 15DAA Definitions \"levy\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DAA",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"levy\"",
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DAA",
+      "text": "\"levy\" means the levy imposed by the Superannuation (Self Managed Superannuation Funds) Supervisory Levy Imposition Act 1991 ."
+    },
+    {
+      "key": "section:15DAA.term:self-managed-superannuation-fund",
+      "title": "Section 15DAA Definitions \"self managed superannuation fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DAA",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"self managed superannuation fund\"",
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DAA",
+      "text": "\"self managed superannuation fund\" has the meaning given by subsection 10(1) of the Superannuation Industry (Supervision) Act 1993 ."
+    },
+    {
+      "key": "section:15DAA.term:superannuation-entity",
+      "title": "Section 15DAA Definitions \"superannuation entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DAA",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"superannuation entity\"",
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DAA",
+      "text": "\"superannuation entity\" has the meaning given by the Superannuation Industry (Supervision) Act 1993."
+    },
+    {
+      "key": "section:15DA",
+      "title": "Section 15DA - Who is liable to pay levy",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DA",
+      "main_structural_heading": "Who is liable to pay levy",
+      "defined_term": null,
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DA",
+      "text": "(1) An entity is liable to pay a levy for a year of income in respect of a superannuation entity if:\n (a) the superannuation entity is a self managed superannuation fund at any time during the year of income; and\n (b) on the day on which the levy becomes due and payable (see section  15DB), the entity is a trustee of the superannuation entity.\n (2) If, on that day, there is more than one trustee of the superannuation entity, those trustees are jointly and severally liable to pay the levy for that year of income in respect of the superannuation entity."
+    },
+    {
+      "key": "section:15DB",
+      "title": "Section 15DB - When levy due for payment",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DB",
+      "main_structural_heading": "When levy due for payment",
+      "defined_term": null,
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DB",
+      "text": "(1) Levy payable for a year of income in respect of a superannuation entity is due and payable on the day specified in the regulations for the purposes of this subsection.\n (1A) Without limiting subsection  (1), the regulations may provide that levy is due and payable on a day specified in a written notice given to a trustee of the superannuation entity by the Commissioner of Taxation.\n (2) The specified day must not be earlier than 21 days after the day on which the notice is given."
+    },
+    {
+      "key": "section:15DC",
+      "title": "Section 15DC - General interest charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DC",
+      "main_structural_heading": "General interest charge",
+      "defined_term": null,
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DC",
+      "text": "If an amount of levy payable by a person remains unpaid after the time by which it is due and payable, the person is liable to pay the general interest charge on the unpaid amount for each day in the period that:\n (a) starts at the beginning of the day on which the amount of levy was due to be paid; and\n (b) ends at the end of the last day on which, at the end of the day, any of the following remains unpaid:\n (i) an amount of levy;\n (ii) general interest charge on an amount of levy.\nNote: The general interest charge is worked out under Part IIA of the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:15DF",
+      "title": "Section 15DF - Remission of levy",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DF",
+      "main_structural_heading": "Remission of levy",
+      "defined_term": null,
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DF",
+      "text": "The Commissioner of Taxation may remit the whole or a part of an amount of levy."
+    },
+    {
+      "key": "section:15DH",
+      "title": "Section 15DH - Exempting laws ineffective",
+      "main_structural_unit": "section",
+      "main_structural_number": "15DH",
+      "main_structural_heading": "Exempting laws ineffective",
+      "defined_term": null,
+      "structure_path": "Part IIIAA--COLLECTION--OF SUPERANNUATION (SELF MANAGED SUPERANNUATION FUNDS) SUPERVISORY LEVY > Section 15DH",
+      "text": "(1) Nothing in a law passed before the commencement of this section exempts a person from liability to levy.\n (2) A law, or a provision of a law, passed after the commencement of this section that purports to exempt a person from liability to pay taxes under laws of the Commonwealth or to pay certain taxes under those laws that include levy, other than a law or a provision that expressly exempts a person from liability to pay levy, is not to be construed as exempting the person from liability to pay levy."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Review of certain decisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Review of certain decisions",
+      "defined_term": null,
+      "structure_path": "Part IV--MISCELLANEOUS > Section 16",
+      "text": "(1) The trustees of a fund or unit trust that is affected by a reviewable decision of the Commissioner of Taxation may, if dissatisfied with the decision, by notice given to the Commissioner of Taxation within the period of 21 days after the day on which the trustees of the fund or unit trust first receive notice of the decision, or within such further period as the Commissioner of Taxation allows, request the Commissioner of Taxation to reconsider the decision.\n (2) There shall be set out in the request reasons for making the request.\n (3) Upon receipt of the request, the Commissioner of Taxation shall reconsider the decision and may, subject to subsection  (4), confirm or revoke the decision or vary the decision in such manner as the Commissioner of Taxation thinks fit.\n (4) Where the Commissioner of Taxation does not confirm, revoke or vary a decision before the expiration of the period of 21 days after the day on which the Commissioner of Taxation received the request under subsection  (1) to reconsider the decision, the Commissioner of Taxation shall, upon the expiration of that period, be deemed to have confirmed the decision under subsection  (3).\n (5) Where the Commissioner of Taxation confirms, revokes or varies a decision before the expiration of the period referred to in subsection  (4), the Commissioner of Taxation shall, by notice served on the applicant, inform the applicant of the result of the reconsideration of the decision and the reasons for confirming, varying or revoking the decision, as the case may be.\n (6) Applications may be made to the Administrative Review Tribunal for review of decisions of the Commissioner of Taxation that have been confirmed or varied under subsection  (3).\n (8) If a request is made under subsection  (1) in respect of a reviewable decision, section 32 (reviewable decision continues to operate unless Tribunal orders otherwise) of the Administrative Review Tribunal Act 2024 applies as if the making of the request were the making of an application to the Tribunal for a review of that decision.\n (9) An order must not be made under subsection  32(2) of the Administrative Review Tribunal Act 2024 in respect of a reviewable decision except by the Administrative Review Tribunal.\n (10) Despite section 69 (hearings to be in public unless practice directions or Tribunal order requires otherwise) of the Administrative Review Tribunal Act 2024, the hearing of a proceeding relating to a reviewable decision before the Administrative Review Tribunal is to be in private if the party who made the application requests that it be in private."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Statements to accompany notification of decisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Statements to accompany notification of decisions",
+      "defined_term": null,
+      "structure_path": "Part IV--MISCELLANEOUS > Section 17",
+      "text": "(1) Where notice in writing is given to the trustees of a fund or unit trust affected by a reviewable decision that the reviewable decision has been made, that notice shall include a statement to the effect that:\n (a) the trustees may, if dissatisfied with the decision, seek a reconsideration of the decision by the Commissioner of Taxation in accordance with subsection  16(1); and\n (b) the trustees may, subject to the Administrative Review Tribunal Act 2024, if dissatisfied with a decision made by the Commissioner of Taxation upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Review Tribunal for review of the decision so confirmed or varied.\n (2) Where the Commissioner of Taxation confirms or varies a reviewable decision under subsection 16(3) and gives to the trustees of a fund or unit trust notice in writing of the confirmation or variation of the decision, that notice shall include a statement to the effect that the trustees or the person may, subject to the Administrative Review Tribunal Act 2024 , if dissatisfied with the decision so confirmed or varied, make application to the Administrative Review Tribunal for review of the decision.\n (3) Any failure to comply with the requirements of subsections  (1) and (2) in relation to a reviewable decision or a decision under subsection 16(3) does not affect the validity of that decision."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part IV--MISCELLANEOUS > Section 22",
+      "text": "(1) The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;\nand, in particular:\n (e) providing for exemptions from levy and for remissions of levy; and\n (f) providing for the manner of payment for levy and other amounts payable to the Commonwealth under this Act; and\n (g) providing for the refund (or other application) of overpayments."
+    }
+  ]
+}

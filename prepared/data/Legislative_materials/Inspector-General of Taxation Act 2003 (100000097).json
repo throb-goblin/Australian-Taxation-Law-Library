@@ -1,0 +1,473 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/iota2003301/",
+    "register_url": "https://www.legislation.gov.au/C2004A01106/latest/text",
+    "source": "Inspector-General of Taxation Act 2003 (100000097).txt",
+    "filename": "Inspector-General of Taxation Act 2003 (100000097).json",
+    "name": "Inspector-General of Taxation Act 2003",
+    "citation": "Inspector-General of Taxation Act 2003"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": "This Act may be cited as the Inspector-General of Taxation Act 2003."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 2",
+      "text": "This Act commences on the day after it receives the Royal Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Objects of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Objects of this Act",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "The objects of this Act are to:\n (a) improve the administration of taxation laws for the benefit of all taxpayers, tax practitioners and other entities; and\n (b) provide independent advice to the government on the administration of taxation laws; and\n (c) investigate complaints by taxpayers, tax practitioners or other entities about the administration of taxation laws; and\n (d) investigate administrative action taken under taxation laws, including systemic issues, that affect taxpayers, tax practitioners or other entities."
+    },
+    {
+      "key": "section:4.term:in-this-act",
+      "title": "Section 4 Definitions \"In this Act:\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"In this Act:\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"In this Act:\""
+    },
+    {
+      "key": "section:4.term:ato-official",
+      "title": "Section 4 Definitions \"ATO official\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"ATO official\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"ATO official\" means:\n (a) the Commissioner; or\n (b) a Second Commissioner of Taxation; or\n (c) a Deputy Commissioner of Taxation; or\n (d) a person engaged under the Public Service Act 1999, or an employee or officer of an authority of the Commonwealth, performing duties in the Australian Taxation Office; or\n (e) a person engaged on behalf of the Commonwealth by another ATO official to provide services related to the administration of taxation laws; or\n (f) a person who:\n (i) is a member of a body established for the sole purpose of assisting the Commissioner in the administration of an aspect of taxation laws; and\n (ii) receives, or is entitled to receive, remuneration (but not merely allowances) from the Commonwealth in respect of his or her membership of the body."
+    },
+    {
+      "key": "section:4.term:commissioner",
+      "title": "Section 4 Definitions \"Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Commissioner\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"Commissioner\" means the Commissioner of Taxation."
+    },
+    {
+      "key": "section:4.term:csc",
+      "title": "Section 4 Definitions \"CSC\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"CSC\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"CSC\" (short for Commonwealth Superannuation Corporation) has the same meaning as in the Governance of Australian Government Superannuation Schemes Act 2011 ."
+    },
+    {
+      "key": "section:4.term:entity",
+      "title": "Section 4 Definitions \"entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"entity\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"entity\" has the same meaning as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:4.term:inspector-general",
+      "title": "Section 4 Definitions \"Inspector-General\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Inspector-General\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"Inspector-General\" means the Inspector -General of Taxation referred to in section 6."
+    },
+    {
+      "key": "section:4.term:inspector-general-39-s-staff",
+      "title": "Section 4 Definitions \"Inspector-General&#39;s staff\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Inspector-General&#39;s staff\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"Inspector-General&#39;s staff\" means:\n (a) the staff referred to in subsection  36(1); and\n (b) any employees or officers whose services are made available as referred to in subsection  36(3); and\n (c) any consultants engaged under subsection  36(4)."
+    },
+    {
+      "key": "section:4.term:investigation-into-a-complaint",
+      "title": "Section 4 Definitions \"investigation into a complaint\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"investigation into a complaint\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"investigation into a complaint\" means an investigation under paragraph 7(1)(a)."
+    },
+    {
+      "key": "section:4.term:investigation-into-a-systemic-issue",
+      "title": "Section 4 Definitions \"investigation into a systemic issue\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"investigation into a systemic issue\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"investigation into a systemic issue\" means an investigation under paragraph 7(1)(c) or (d)."
+    },
+    {
+      "key": "section:4.term:tax-administration-action",
+      "title": "Section 4 Definitions \"tax administration action\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax administration action\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"tax administration action\" means action that the Inspector-General can investigate under paragraph 7(1)(a) or (b)."
+    },
+    {
+      "key": "section:4.term:taxation-law",
+      "title": "Section 4 Definitions \"taxation law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"taxation law\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"taxation law\" has the same meaning as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:4.term:tax-file-number",
+      "title": "Section 4 Definitions \"tax file number\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax file number\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"tax file number\" has the same meaning as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:4.term:tax-official",
+      "title": "Section 4 Definitions \"tax official\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax official\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"tax official\" means:\n (a) an ATO official; or\n (b) a Board member of the Tax Practitioners Board; or\n (c) an APS employee assisting the Tax Practitioners Board as described in section  60-80 of the Tax Agent Services Act 2009; or\n (d) a person engaged on behalf of the Commonwealth by another tax official (other than an ATO official) to provide services related to the administration of taxation laws; or\n (e) a person who:\n (i) is a member of a body established for the sole purpose of assisting the Tax Practitioners Board in the administration of an aspect of taxation laws; and\n (ii) receives, or is entitled to receive, remuneration (but not merely allowances) from the Commonwealth in respect of his or her membership of the body."
+    },
+    {
+      "key": "section:4.term:taxpayer",
+      "title": "Section 4 Definitions \"taxpayer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"taxpayer\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"taxpayer\" means a person or other entity who is, was, or may become, liable to pay tax under any taxation law."
+    },
+    {
+      "key": "section:4.term:tax-practitioners-board",
+      "title": "Section 4 Definitions \"Tax Practitioners Board\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Tax Practitioners Board\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "\"Tax Practitioners Board\" means the Tax Practitioners Board established by section 60-5 of the Tax Agent Services Act 2009."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Geographical application of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Geographical application of this Act",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 5",
+      "text": "This Act applies both within and outside Australia and extends to every external Territory."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Inspector - General of Taxation",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Inspector - General of Taxation",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 1--Establishment of the Inspector-General of Taxation > Section 6",
+      "text": "There is to be an Inspector-General of Taxation."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Functions of the Inspector - General",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Functions of the Inspector - General",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 2--Functions of the Inspector-General > Section 7",
+      "text": "(1) The functions of the Inspector -General are as follows:\n (a) to investigate action affecting a particular entity that:\n (i) is taken by a tax official; and\n (ii) relates to administrative matters under a taxation law; and\n (iii) is the subject of a complaint by that entity to the Inspector -General;\n (b) to investigate other action that:\n (i) is taken by a tax official; and\n (ii) relates to administrative matters under a taxation law;\n (c) to investigate systems established by the Australian Taxation Office, or Tax Practitioners Board, to administer taxation laws, including systems for dealing or communicating:\n (i) with the public generally; or\n (ii) with particular people or organisations;\n  in relation to administrative matters under those laws;\n (d) to investigate systems established by taxation laws, but only to the extent that the systems deal with administrative matters;\n (e) to investigate action that is the subject of a part of a complaint:\n (i) transferred to the Inspector -General by the Ombudsman under paragraph 6D(4)(b) of the Ombudsman Act 1976; or\n (ii) that the Ombudsman advises, under paragraph  10(1)(b) of this Act, does not need to be transferred under subsection 10(1) of this Act;\n (f) to report on those investigations.\nNote: Paragraphs (a) and (b) can cover action under a taxation law, and action relating to action under a taxation law.\nExample: A taxpayer seeks compensation under an administrative scheme because of action by a tax official during the course of an audit that caused the taxpayer detriment. The Inspector -General can investigate the action that caused the detriment, and any action by a tax official under the scheme.\n (2) However, these functions do not include investigating:\n (a) rules imposing or creating an obligation to pay an amount under a taxation law; and\n (b) rules dealing with the quantification of such an amount."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Conducting investigations on Inspector - General&#39;s own initiative",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Conducting investigations on Inspector - General&#39;s own initiative",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 2--Functions of the Inspector-General > Section 8",
+      "text": "(1) The Inspector-General may conduct an investigation under paragraph  7(1)(b), (c) or (d) on his or her own initiative.\nNote: For example, the Inspector-General may conduct an investigation into a systemic issue that has been drawn to his or her attention by taxpayers, tax practitioners, the Auditor -General or the Ombudsman.\n (2) The Inspector-General must conduct an investigation under paragraph  7(1)(c) or (d) if so directed by the Minister.\n (3) The Inspector-General may be requested to conduct an investigation under paragraph  7(1)(c) or (d) by:\n (a) the Minister; or\n (b) the Commissioner or the Tax Practitioners Board; or\n (c) a resolution of either House, or of both Houses, of the Parliament; or\n (d) a resolution of a Committee of either House, or of both Houses, of the Parliament.\nHowever, the Inspector-General is not required to comply with the request."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Discretion not to investigate certain complaints",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Discretion not to investigate certain complaints",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 2--Functions of the Inspector-General > Section 9",
+      "text": "The Inspector-General may, in his or her discretion:\n (a) decide not to conduct an investigation into a complaint; or\n (b) if he or she has started such an investigation--decide not to continue investigating the action complained about;\nif the Inspector-General is of the opinion that:\n (c) the complaint is frivolous or vexatious or was not made in good faith; or\n (d) the complainant does not have a sufficient interest in the subject matter of the complaint; or\n (e) an investigation, or further investigation, of the action is not warranted having regard to all the circumstances; or\n (f) the complainant has not yet raised the complaint with the Commissioner or the Tax Practitioners Board (as applicable); or\n (g) the action came to the complainant&#39;s knowledge more than 12 months before the complaint was made; or\n (h) the complainant has not exercised a right to cause the action to which the complaint relates to be reviewed by a court or by a tribunal constituted by or under a law of the Commonwealth."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Transferring complaints to the Ombudsman",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Transferring complaints to the Ombudsman",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 2--Functions of the Inspector-General > Section 10",
+      "text": "(1) The Inspector-General must transfer the following to the Ombudsman:\n (a) a complaint made to the Inspector -General that is wholly about action other than tax administration action, unless the Ombudsman advises otherwise;\n (b) if part of a complaint made to the Inspector -General is not about tax administration action--that part of the complaint, unless the Ombudsman advises otherwise.\n (2) For a complaint made to the Inspector -General that is only partly about tax administration action, the Inspector-General:\n (a) must consult the Ombudsman about the complaint or about complaints of that kind; and\n (b) may transfer to the Ombudsman the part of the complaint that is about tax administration action if the Inspector -General is satisfied that the whole complaint could be more appropriately or effectively dealt with by the Ombudsman.\n (3) The Inspector-General must, for each complaint (or part of a complaint) transferred to the Ombudsman:\n (a) notify the complainant in writing of that transfer; and\n (b) give the Ombudsman any related information or documents (other than tax file numbers) that are:\n (i) in the Inspector -General&#39;s possession; or\n (ii) under the Inspector -General&#39;s control.\n (4) For the purposes of the Ombudsman Act 1976 (other than subsection 6D(2), (3) or (4) of that Act), a complaint (or part of a complaint) transferred under this section is taken to be a complaint made to the Ombudsman under that Act.\nNote: A similar provision for transferring to the Inspector-General complaints made to the Ombudsman is contained in section  6D of the Ombudsman Act 1976. Subsection 6D(6) of that Act deems transferred complaints to be complaints made to the Inspector -General under this Act.\n (5) This section does not apply to a complaint if:\n (a) the Inspector-General transfers the complaint under subsections  6(9) and (10), or section 6C, of the Ombudsman Act 1976; or\n (b) subsection 6(17) of that Act applies in relation to the complaint.\n(Each of the above provisions of the Ombudsman Act 1976 is that provision as it applies because of section 15 of this Act)."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Certain provisions of the Ombudsman Act 1976 apply",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Certain provisions of the Ombudsman Act 1976 apply",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 3--Powers and duties of the Inspector-General > Section 15",
+      "text": "Each of the following provisions of the Ombudsman Act 1976 also applies in relation to the Inspector-General with the modifications set out in the following table:\n (a) subsections 3(1), to the extent that it provides for the definitions of Agency Head, authorized person, Commonwealth service provider, disclosable conduct and law enforcement agency ;\n (b) subsections 3(2) to (6) and subsection  3(7);\n (c) sections 3BA, 3C and 3D;\n (d) subsections 5(2), (3) and (3A);\n (e) section 5A;\n (f) subsections 6(5), (9) to (11) and (16) to (19);\n (g) sections 6C, 7 and 7A;\n (h) section 8, other than paragraphs  (7A)(b) and (10)(ba) to (d) and subsections (8), (9), (10B), (10C) and (12);\n (i) sections 9 to 19, other than subsections  16(4) and (5);\n (ia) section 32;\n (j) sections 35AA to 37.\nHow each of those provisions applies in relation to the Inspector-GeneralItemThe provision applies as if a reference in that provision to:were a reference to:1the Ombudsmanthe Inspector-General2an investigation under the Ombudsman Act 1976an investigation under this Act3a complaint under the Ombudsman Act 1976a complaint under this Act4any of the following:(a) a Department;(b) a prescribed authority;(c) a Department or a prescribed authoritythe entity identified under section 16 of this Act5another person who is not a Department or prescribed authorityanother person who is not:(a) a Department of State; or(b) an authority of the Commonwealth6either of the following:(a) principal officer of a Department or prescribed authority;(b) Secretary of a Departmenteither of the following:(a) Commissioner;(b) Chair of the Tax Practitioners Board7an officer of a Department or prescribed authority (that is not a reference to the principal officer)tax official8officer within the meaning of section 35 of the Ombudsman Act 1976either of the following:(a) the Inspector-General;(b) a member of the Inspector-General&#39;s staff9paragraph 5(1)(b) of the Ombudsman Act 1976paragraph 7(1)(b) of this ActHow each of those provisions applies in relation to the Inspector-GeneralItemThe provision applies as if a reference in that provision to:were a reference to:1the Ombudsmanthe Inspector-General2an investigation under the Ombudsman Act 1976an investigation under this Act3a complaint under the Ombudsman Act 1976a complaint under this Act4any of the following:(a) a Department;(b) a prescribed authority;(c) a Department or a prescribed authoritythe entity identified under section 16 of this Act5another person who is not a Department or prescribed authorityanother person who is not:(a) a Department of State; or(b) an authority of the Commonwealth6either of the following:(a) principal officer of a Department or prescribed authority;(b) Secretary of a Departmenteither of the following:(a) Commissioner;(b) Chair of the Tax Practitioners Board7an officer of a Department or prescribed authority (that is not a reference to the principal officer)tax official8officer within the meaning of section 35 of the Ombudsman Act 1976either of the following:(a) the Inspector-General;(b) a member of the Inspector-General&#39;s staff9paragraph 5(1)(b) of the Ombudsman Act 1976paragraph 7(1)(b) of this Act10enactmenteither of the following:(a) Act;(b) instrument made under an Act11in the Ombudsman Act 1976either of the following:(a) in the Ombudsman Act 1976;(b) in this Act.12any of the following:(a) the Minister administering the Ombudsman Act 1976;(b) the Minister administering the Department;(c) the responsible Minister;(d) the Prime Ministerthe Minister administering this Act13either of the following:(a) a report under Division 2 of Part II of the Ombudsman Act 1976;(b) a report under that Acteither of the following:(a) a report under that Act;(b) a report under this Act14section 35 (other than subsection (5) of that section)section 37 of this Act\nNote: The above references in provisions of the Ombudsman Act 1976 are described in substance, rather than form. For example, table item  2 will apply to the phrase &quot;an investigation under this Act&quot; wherever it appears in any of those provisions."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - References to a Department or a prescribed authority",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "References to a Department or a prescribed authority",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 3--Powers and duties of the Inspector-General > Section 16",
+      "text": "(1) For the purposes of table item  4 in section 15, if the relevant investigation relates to action taken by an ATO official or to the Australian Taxation Office, the reference described in that item applies as if it were a reference to the Commissioner, or the Australian Taxation Office, (as the context requires).\n (2) For other investigations under this Act, the reference described in table item  4 in section 15 applies as if it were a reference to the Tax Practitioners Board."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Further modifications to how some of those provisions apply",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Further modifications to how some of those provisions apply",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 3--Powers and duties of the Inspector-General > Section 17",
+      "text": "(1) Despite subsection  8(2) of the Ombudsman Act 1976 (as it applies because of section 15 of this Act), an investigation into a systemic issue need not be conducted in private.\n (2) Despite paragraph  9(1)(a) of the Ombudsman Act 1976 (as it applies because of section 15 of this Act), a person may furnish information under that paragraph in a way otherwise than by writing signed by the person.\n (3) Despite section 15, 16 or 17 of the Ombudsman Act 1976 (as it applies because of section 15 of this Act), the Inspector-General must not recommend changes to taxation laws in a report under that section.\nNote: The Inspector-General can include such recommendations in reports under section  18.\n (4) Despite subsection  36(1) of the Ombudsman Act 1976 (as it applies because of section 15 of this Act), the penalty set out at the foot of that subsection applies as if it were imprisonment for 6 months in the case of a refusal or failure relating to an investigation into a systemic issue."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Reports recommending improvements to taxation laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Reports recommending improvements to taxation laws",
+      "defined_term": null,
+      "structure_path": "Part 2--ESTABLISHMENT--AND FUNCTIONS OF THE INSPECTOR-GENERAL OF TAXATION > Division 3--Powers and duties of the Inspector-General > Section 18",
+      "text": "(1) After completing an investigation under this Act, the Inspector -General may make a written report to the Minister:\n (a) identifying a taxation law under which the action being investigated was taken; and\n (b) setting out any recommendations for how that taxation law might be improved; and\n (c) setting out the reasons for those recommendations.\nThe report may set out other matters.\n (2) The Minister must cause a copy of the report to be made publicly available before the end of the 25th sitting day of the House of Representatives after the day the Minister receives the report."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Appointment",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 28",
+      "text": "Appointment by Governor-General on full-time basis\n (1) The Inspector-General is to be appointed by the Governor -General by written instrument. The appointment is to be on a full-time basis.\nObligation to fill vacancy as soon as practicable\n (2) Whenever a vacancy occurs in the office of Inspector -General, an appointment must be made to the office as soon as practicable.\nPeriod of appointment\n (3) The Inspector-General holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.\nTerms and conditions not covered by this Act\n (4) The Inspector-General holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor -General."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Acting appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Acting appointment",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 29",
+      "text": "The Minister may appoint a person to act as the Inspector -General:\n (a) during a vacancy in the office of Inspector -General (whether or not an appointment has previously been made to the office); or\n (b) during any period, or during all periods, when the Inspector -General is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.\nNote: For rules that apply to acting appointments, see sections 33AB and 33A of the Acts Interpretation Act 1901."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Remuneration",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Remuneration",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 30",
+      "text": "(1) The Inspector-General is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Inspector -General is to be paid the remuneration that is prescribed.\n (2) The Inspector-General is to be paid the allowances that are prescribed.\n (3) This section has effect subject to the Remuneration Tribunal Act 1973."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Leave",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Leave",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 31",
+      "text": "(1) The Inspector-General has the recreation leave entitlements that are determined by the Remuneration Tribunal.\n (2) The Minister may grant the Inspector -General leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Engaging in other paid work",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Engaging in other paid work",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 32",
+      "text": "The Inspector-General must not engage in paid employment outside the duties of his or her office without the Minister&#39;s approval."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Resignation",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Resignation",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 34",
+      "text": "The Inspector-General may resign his or her appointment by giving the Governor -General a written resignation."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Termination of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Termination of appointment",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 35",
+      "text": "Obligation to terminate on certain grounds\n (1) The Governor-General must terminate the appointment of the Inspector -General if the Inspector-General:\n (a) becomes bankrupt; or\n (b) applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or\n (c) compounds with his or her creditors; or\n (d) assigns his or her remuneration for the benefit of his or her creditors; or\n (e) is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or\n (f) fails to comply with section  32 (engaging in other paid work); or\n (g) fails, without reasonable excuse, to comply with section  29 of the Public Governance, Performance and Accountability Act 2013 (which deals with the duty to disclose interests) or rules made for the purposes of that section.\nDiscretion to terminate for misbehaviour or physical or mental incapacity\n (2) Subject to subsections  (3), (4) and (5), the Governor-General may terminate the appointment of the Inspector-General on the ground of misbehaviour or physical or mental incapacity.\n (3) If the Inspector -General:\n (a) is an eligible employee for the purposes of the Superannuation Act 1976; and\n (b) has not reached his or her maximum retiring age (within the meaning of that Act);\nhis or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given a certificate under section 54C of that Act.\n (4) If the Inspector -General:\n (a) is a member of the superannuation scheme established by deed under the Superannuation Act 1990; and\n (b) is under 60 years of age;\nhis or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given a certificate under section 13 of that Act.\n (5) If the Inspector -General:\n (a) is an ordinary employer -sponsored member of PSSAP, within the meaning of the Superannuation Act 2005; and\n (b) is under 60 years of age;\nhis or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given an approval and certificate under section 43 of that Act."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Staff and consultants",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Staff and consultants",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 36",
+      "text": "Staff engaged under the Public Service Act\n (1) The staff required to assist the Inspector -General in the performance of the Inspector-General&#39;s functions are to be persons engaged under the Public Service Act 1999.\n (2) For the purposes of the Public Service Act 1999:\n (a) the Inspector-General and the APS employees so assisting the Inspector -General together constitute a Statutory Agency; and\n (b) the Inspector-General is the Head of that Statutory Agency.\nSecondments and similar arrangements\n (3) The Inspector-General may arrange with an Agency Head (within the meaning of the Public Service Act 1999) for the services of employees or officers of the Agency to be made available to the Inspector -General.\nConsultants\n (4) The Inspector-General may, on behalf of the Commonwealth, engage persons having suitable qualifications and experience as consultants to the Inspector -General. The terms and conditions of the engagement of a person are such as are determined by the Inspector -General."
+    },
+    {
+      "key": "section:36A",
+      "title": "Section 36A - Application of the finance law",
+      "main_structural_unit": "section",
+      "main_structural_number": "36A",
+      "main_structural_heading": "Application of the finance law",
+      "defined_term": null,
+      "structure_path": "Part 3--ADMINISTRATIVE--PROVISIONS ABOUT THE INSPECTOR-GENERAL AND STAFF > Section 36A",
+      "text": "For the purposes of the finance law (within the meaning of the Public Governance, Performance and Accountability Act 2013):\n (a) the following group of persons is a listed entity:\n (i) the Inspector -General;\n (ii) the Inspector -General&#39;s staff; and\n (b) the listed entity is to be known as the Inspector -General of Taxation; and\n (c) the Inspector-General is the accountable authority of the listed entity; and\n (d) the persons referred to in paragraph  (a) are officials of the listed entity; and\n (e) the purposes of the listed entity include the functions of the Inspector -General referred to in section 7."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Secrecy",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Secrecy",
+      "defined_term": null,
+      "structure_path": "Part 4--INFORMATION--MANAGEMENT > Division 1--Secrecy > Section 37",
+      "text": "Definitions\n (1) In this section:\n\"person to whom this section applies\" means a person who is or was:\n (a) the Inspector-General; or\n (b) a member of the Inspector -General&#39;s staff.\n\"protected document\" means a document that:\n (a) is obtained or made by a person to whom this section applies in the course of, or because of, the person&#39;s functions, powers or duties under or in relation to this Act; and\n (b) contains information relating to an entity&#39;s affairs.\n\"protected information\" means information that:\n (a) is disclosed to, or obtained by, a person to whom this section applies in the course of, or because of, the person&#39;s functions, powers or duties under or in relation to this Act; and\n (b) relates to an entity&#39;s affairs.\nProtected information may be recorded or disclosed only for purposes of this Act\n (2) A person to whom this section applies commits an offence if:\n (a) the person:\n (i) makes a copy or other record of any protected information or of all or part of any protected document; or\n (ii) discloses any protected information to another person or to a court or tribunal; or\n (iii) produces all or part of a protected document to another person or to a court or tribunal; and\n (b) in doing so, the person is not acting in the course of performing or exercising functions, powers or duties under or in relation to this Act.\nPenalty: Imprisonment for 2 years.\nCourts generally cannot require protected information to be disclosed etc.\n (3) A person to whom this section applies cannot be required to:\n (a) disclose any protected information to a court or tribunal; or\n (b) produce all or part of a protected document to a court or tribunal;\nunless that disclosure or production is necessary for the purpose of carrying into effect the provisions of this Act."
+    },
+    {
+      "key": "section:37B",
+      "title": "Section 37B - Requesting a person&#39;s tax file number",
+      "main_structural_unit": "section",
+      "main_structural_number": "37B",
+      "main_structural_heading": "Requesting a person&#39;s tax file number",
+      "defined_term": null,
+      "structure_path": "Part 4--INFORMATION--MANAGEMENT > Division 2--Powers relating to tax file numbers > Section 37B",
+      "text": "(1) The Inspector-General may request, but not require, a person making a complaint covered by paragraph  7(1)(a) to quote the person&#39;s tax file number to the Inspector-General.\n (2) The Inspector-General may provide the person&#39;s tax file number to the Commissioner for the purposes of an investigation by the Inspector -General into the complaint."
+    },
+    {
+      "key": "section:37C",
+      "title": "Section 37C - Investigations under this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "37C",
+      "main_structural_heading": "Investigations under this Act",
+      "defined_term": null,
+      "structure_path": "Part 4--INFORMATION--MANAGEMENT > Division 2--Powers relating to tax file numbers > Section 37C",
+      "text": "The Commissioner may quote a person&#39;s tax file number to the Inspector -General for the purposes of an investigation by the Inspector-General into a complaint by the person that is covered by paragraph 7(1)(a)."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Reporting breaches of duty or misconduct",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Reporting breaches of duty or misconduct",
+      "defined_term": null,
+      "structure_path": "Part 5--OTHER--MATTERS > Section 38",
+      "text": "If the Inspector-General forms the opinion either before, during or after conducting an investigation:\n (a) that a person who is or was a tax official has engaged in misconduct; and\n (b) that the evidence is of sufficient weight to justify the Inspector -General doing so;\nthe Inspector-General must report the evidence to:\n (c) if the person is or was the Commissioner--the Minister; or\n (d) otherwise--the Commissioner."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Victimisation",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Victimisation",
+      "defined_term": null,
+      "structure_path": "Part 5--OTHER--MATTERS > Section 39",
+      "text": "Actually causing detriment to another person\n (1) A person (the first person) commits an offence if:\n (a) the first person engages in conduct; and\n (b) the first person&#39;s conduct causes any detriment to another person (the second person); and\n (c) the first person intends that his or her conduct cause detriment to the second person; and\n (d) the detriment is caused without the consent of the second person; and\n (e) the first person engages in his or her conduct because the second person or a third person:\n (i) gave, or may give, information when requested or required to do so under section  9 of the Ombudsman Act 1976 (as it applies because of section 15 of this Act); or\n (ii) produced, or may produce, a document when requested or required to do so under that section; or\n (iii) attended, or may attend, to answer questions when requested or required to do so under that section; or\n (iv) answered, or may answer, questions while attending to answer questions when requested or required to do so under that section; or\n (v) is the subject of a report under this Act, or the Ombudsman Act 1976 (as it applies because of section 15 of this Act), that relates to an investigation under this Act.\nPenalty: Imprisonment for 6 months.\nThreatening to cause detriment to another person\n (2) A person (the first person) commits an offence if:\n (a) the first person makes to another person (the second person) a threat to cause any detriment to the second person or to a third person; and\n (b) the first person:\n (i) intends the second person to fear that the threat will be carried out; or\n (ii) is reckless as to causing the second person to fear that the threat will be carried out; and\n (c) the first person makes the threat because a person:\n (i) gave, or may give, information when requested or required to do so under section  9 of the Ombudsman Act 1976 (as it applies because of section 15 of this Act); or\n (ii) produced, or may produce, a document when requested or required to do so under that section; or\n (iii) attended, or may attend, to answer questions when requested or required to do so under that section; or\n (iv) answered, or may answer, questions while attending to answer questions when requested or required to do so under that section; or\n (v) is the subject of a report under this Act, or the Ombudsman Act 1976 (as it applies because of section 15 of this Act), that relates to an investigation under this Act.\nPenalty: Imprisonment for 6 months.\n (3) For the purposes of subsection  (2), a threat may be:\n (a) express or implied; or\n (b) conditional or unconditional.\n (4) In a prosecution for an offence against subsection  (2), it is not necessary to prove that the person threatened actually feared that the threat would be carried out."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Protection from liability for Minister, Inspector - General etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Protection from liability for Minister, Inspector - General etc.",
+      "defined_term": null,
+      "structure_path": "Part 5--OTHER--MATTERS > Section 40",
+      "text": "(1) This section applies to the following persons ( protected persons):\n (a) the Minister;\n (b) the Inspector -General;\n (c) a person acting under the Inspector -General&#39;s authority.\n (2) A protected person is not liable to civil proceedings for loss, damage or injury of any kind suffered by another person as a result of the performance or exercise, in good faith, of the protected person&#39;s functions, powers or duties under or in relation to this Act or the Ombudsman Act 1976 (as it applies because of section 15 of this Act)."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Part 5--OTHER--MATTERS > Section 41",
+      "text": "(1) The annual report prepared by the Inspector -General and given to the Minister under section 46 of the Public Governance, Performance and Accountability Act 2013 for a period must include details of any directions given by the Minister under subsection  8(2) of this Act during the period.\n (2) The report must also include:\n (a) the number of complaints received by the Inspector -General under this Act during the period; and\n (b) the number of investigations under paragraph  7(1)(a) or (b):\n (i) started during the period; and\n (ii) completed during the period; and\n (c) the number of investigations into systemic issues:\n (i) started during that period; and\n (ii) completed during that period; and\n (d) the number of times when the Inspector -General has made a requirement of a person under section 9 of the Ombudsman Act 1976 (as it applies because of section  15 of this Act) during the period; and\n (e) details of the circumstances in which each of those requirements under section  9 of that Act was made."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Delegation of certain powers by the Inspector - General",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Delegation of certain powers by the Inspector - General",
+      "defined_term": null,
+      "structure_path": "Part 5--OTHER--MATTERS > Section 42",
+      "text": "(1) The Inspector-General may, in writing, delegate any of the following powers to a member of the Inspector -General&#39;s staff:\n (a) the Inspector-General&#39;s powers under the Ombudsman Act 1976 (as it applies because of section 15 of this Act), except for the Inspector-General&#39;s powers under sections  15 to 19 of that Act;\n (b) the Inspector-General&#39;s powers under subsections  36(3) and (4) of this Act to make arrangements and engage consultants (including determining the terms and conditions of their engagement).\n (1A) The Inspector-General may, in writing, delegate any of the Inspector -General&#39;s powers under sections 9 and 10 of this Act (about not investigating, or transferring, complaints) to a member of the Inspector -General&#39;s staff who is:\n (a) either:\n (i) a member of the staff referred to in subsection  36(1); or\n (ii) an employee or officer whose services are made available as referred to in subsection  36(3); and\n (b) either:\n (i) an SES employee or acting SES employee; or\n (ii) an APS employee who is classified as Executive Level 1 or 2 or equivalent, or acting in a position usually occupied by an APS employee who is so classified.\n (1B) The Inspector-General may, in writing, delegate any of the Inspector -General&#39;s powers under section 37B of this Act (about requesting and providing tax file numbers) to:\n (a) a member of the staff referred to in subsection  36(1); or\n (b) an employee or officer whose services are made available as referred to in subsection  36(3).\n (1C) The Inspector-General may delegate a power to a person under subsection  (1), (1A) or (1B) only if the Inspector-General is satisfied that the person has appropriate qualifications, training or experience to exercise the power.\n (2) In exercising powers under a delegation under subsection  (1), (1A) or (1B) of this section, a delegate must comply with any written directions of the Inspector-General."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 5--OTHER--MATTERS > Section 43",
+      "text": "General power to make regulations\n (1) The Governor-General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.\nRegulations about fees and allowances for expenses\n (2) Without limiting subsection  (1), the regulations may provide for a person who attends before the Inspector-General, or a member of the Inspector-General&#39;s staff, the Ombudsman Act 1976 (as it applies because of section 15 of this Act) to be paid, in relation to that attendance, fees and allowances for expenses fixed by, or calculated in accordance with, the regulations."
+    }
+  ]
+}

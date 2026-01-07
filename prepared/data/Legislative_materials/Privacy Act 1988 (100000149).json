@@ -1,0 +1,1353 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/pa1988108/",
+    "register_url": "https://www.legislation.gov.au/C2004A03712/latest/text",
+    "source": "Privacy Act 1988 (100000149).txt",
+    "filename": "Privacy Act 1988 (100000149).json",
+    "name": "Privacy Act 1988",
+    "citation": "Privacy Act 1988"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 1",
+      "text": "(Assented to 14 December 1988)\n 1. This Act may be cited as the Privacy Act 1988.\n(Minister's second reading speech made in-\n    House of Representatives on 1 November 1988\n    Senate on 4 November 1988)\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 2",
+      "text": "2. This Act commences on a day to be fixed by Proclamation.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Saving of certain State and Territory laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Saving of certain State and Territory laws",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 3",
+      "text": "3. It is the intention of the Parliament that this Act is not to affect the\noperation of a law of a State or of a Territory that makes provision with\nrespect to interferences with the privacy of persons and is capable of\noperating concurrently with this Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Act to bind the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Act to bind the Crown",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 4",
+      "text": "4. (1) This Act binds the Crown in right of the Commonwealth, of each of the\nStates, of the Northern Territory and of Norfolk Island.\n  (2) Nothing in this Act renders the Crown in right of the Commonwealth, of a\nState, of the Northern Territory or of Norfolk Island liable to be prosecuted\nfor an offence.\n  (3) Nothing in this Act shall be taken to have the effect of making the\nCrown in right of a State, of the Northern Territory or of Norfolk Island an\nagency for the purposes of this Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Interpretation of Information Privacy Principles",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Interpretation of Information Privacy Principles",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 5",
+      "text": "5. For the purposes of the interpretation of the Information Privacy\nPrinciples, each Information Privacy Principle shall be treated as if it were\na section of this Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:6.term:agency",
+      "title": "Section 6 Definitions \"agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"agency\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"agency\" means:\n     (a)  a Minister;\n     (b)  a Department;\n     (c)  a  body  (whether  incorporated  or  not),  or  a  tribunal,\nestablished or appointed for a public purpose by or under a Commonwealth\nenactment, not being:\n         (i) an incorporated company, society or association;\n        (ii) an organisation within the meaning of the Conciliation and\nArbitration Act 1904 or a branch of such an organisation; or\n        (iii) a body corporate constituted under subsection 6 (1) of the\nLegal\nPractitioners Ordinance 1970 of the Australian Capital Territory;\n     (d)  a body established or appointed by the Governor-General, or by a\nMinister, otherwise than by or under a Commonwealth enactment;\n     (e)  a person holding or performing the duties of an office established\nby\nor under, or an appointment made under, a Commonwealth enactment, other than a\nperson who, by virtue of holding that office, is the Secretary of a\nDepartment;\n     (f)  a person holding or performing the duties of an appointment, being\nan\nappointment made by the Governor-General, or by a Minister, otherwise than\nunder a Commonwealth enactment;\n     (g)  a federal court and a court of the Australian Capital Territory;\nand\n     (h)  the Australian Federal Police;"
+    },
+    {
+      "key": "section:6.term:commissioner",
+      "title": "Section 6 Definitions \"Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Commissioner\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Commissioner\" means the Privacy Commissioner;"
+    },
+    {
+      "key": "section:6.term:commissioner-of-police",
+      "title": "Section 6 Definitions \"Commissioner of Police\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Commissioner of Police\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Commissioner of Police\" means the Commissioner of Police appointed under\nthe Australian Federal Police Act 1979;"
+    },
+    {
+      "key": "section:6.term:commonwealth-enactment",
+      "title": "Section 6 Definitions \"Commonwealth enactment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Commonwealth enactment\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Commonwealth enactment\" means:\n     (a)  an Act other than:\n         (i) the Northern Territory (Self-Government) Act 1978; or\n        (ii) an Act providing for the administration or government of an\nexternal Territory;\n     (b)  an Ordinance of the Australian Capital Territory;\n     (c)  an instrument (including rules, regulations or by-laws) made under\nan\nAct to which paragraph (a) applies or under an Ordinance to which paragraph\n        (b) applies; or\n     (d)  any  other  legislation  that  applies  as  a  law  of  the\nCommonwealth (other than legislation in so far as it is applied by an Act\nreferred to in subparagraph (a) (i) or (ii)) or as a law of the Australian\nCapital Territory, to the extent that it operates as such a law;"
+    },
+    {
+      "key": "section:6.term:commonwealth-officer",
+      "title": "Section 6 Definitions \"Commonwealth officer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Commonwealth officer\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Commonwealth officer\" means a person who holds office under, or is employed\nby, the Commonwealth, and includes:\n     (a)  a person appointed or employed under the Public Service Act 1922;\n     (b)  a person (other than a person referred to in paragraph (a))\npermanently or temporarily employed by, or in the service of, an agency;\n     (c)  a member of the Defence Force; and\n     (d)  a member or special member of the Australian Federal Police;\n    but does not include a person permanently or temporarily employed in the\nPublic Service of the Northern Territory or of Norfolk Island;"
+    },
+    {
+      "key": "section:6.term:consent",
+      "title": "Section 6 Definitions \"consent\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"consent\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"consent\" means express consent or implied consent;"
+    },
+    {
+      "key": "section:6.term:corporation",
+      "title": "Section 6 Definitions \"corporation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"corporation\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"corporation\" means a body corporate that:\n     (a)  is a foreign corporation;\n     (b)  is a trading corporation formed within the limits of Australia or is\na financial corporation so formed; or\n     (c)  is incorporated in a Territory, other than the Northern Territory;"
+    },
+    {
+      "key": "section:6.term:defence-force",
+      "title": "Section 6 Definitions \"Defence Force\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Defence Force\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Defence Force\" includes the Naval Reserve Cadets, the Australian Cadet\nCorps and the Air Training Corps;"
+    },
+    {
+      "key": "section:6.term:department",
+      "title": "Section 6 Definitions \"Department\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Department\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Department\" means a Department within the meaning of the Public Service Act\n1922, other than:\n     (a)  the Department of the Senate;\n     (b)  the Department of the House of Representatives;\n     (c)  the Department of the Parliamentary Library;\n     (d)  the Department of the Parliamentary Reporting Staff; and\n     (e)  the Joint House Department;"
+    },
+    {
+      "key": "section:6.term:federal-court",
+      "title": "Section 6 Definitions \"Federal Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Federal Court\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Federal Court\" means the Federal Court of Australia;"
+    },
+    {
+      "key": "section:6.term:file-number-complaint",
+      "title": "Section 6 Definitions \"file number complaint\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"file number complaint\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"file number complaint\" means a complaint about an act or practice that, if\nestablished, would be an interference with the privacy of the complainant:\n     (a)  because it breached a guideline issued under section 17; or\n     (b)  because it involved an unauthorised requirement or request for\ndisclosure of a tax file number;"
+    },
+    {
+      "key": "section:6.term:financial-corporation",
+      "title": "Section 6 Definitions \"financial corporation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"financial corporation\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"financial corporation\" means a financial corporation within the meaning of\nparagraph 51 (xx) of the Constitution, and includes a body corporate that\ncarries on as its sole or principal business the business of banking (other\nthan State banking not extending beyond the limits of the State concerned) or\ninsurance (other than State insurance not extending beyond the limits of the\nState concerned);"
+    },
+    {
+      "key": "section:6.term:foreign-corporation",
+      "title": "Section 6 Definitions \"foreign corporation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"foreign corporation\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"foreign corporation\" means a foreign corporation within the meaning of\nparagraph 51 (xx) of the Constitution;"
+    },
+    {
+      "key": "section:6.term:freedom-of-information-act",
+      "title": "Section 6 Definitions \"Freedom of Information Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Freedom of Information Act\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Freedom of Information Act\" means the Freedom of Information Act 1982;"
+    },
+    {
+      "key": "section:6.term:generally-available-publication",
+      "title": "Section 6 Definitions \"generally available publication\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"generally available publication\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"generally available publication\" means a magazine, book, newspaper or other\npublication that is or will be generally available to members of the public;"
+    },
+    {
+      "key": "section:6.term:individual",
+      "title": "Section 6 Definitions \"individual\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"individual\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"individual\" means a natural person;\n  \"individual concerned\", in relation to personal information or a record of\npersonal information, means the individual to whom the information relates;"
+    },
+    {
+      "key": "section:6.term:information-privacy-principle",
+      "title": "Section 6 Definitions \"Information Privacy Principle\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Information Privacy Principle\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Information Privacy Principle\" means any of the Information Privacy\nPrinciples set out in section 14;"
+    },
+    {
+      "key": "section:6.term:intelligence-agency",
+      "title": "Section 6 Definitions \"intelligence agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"intelligence agency\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"intelligence agency\" means:\n     (a)  the Australian Security Intelligence Organization;\n     (b)  the Australian Secret Intelligence Service; or\n     (c)  the Office of National Assessments;"
+    },
+    {
+      "key": "section:6.term:ipp-complaint",
+      "title": "Section 6 Definitions \"IPP complaint\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"IPP complaint\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"IPP complaint\" means a complaint about an act or practice that, if\nestablished, would be an interference with the privacy of the complainant\nbecause it breached an Information Privacy Principle;"
+    },
+    {
+      "key": "section:6.term:medical-research",
+      "title": "Section 6 Definitions \"medical research\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"medical research\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"medical research\" includes epidemiological research;"
+    },
+    {
+      "key": "section:6.term:ombudsman",
+      "title": "Section 6 Definitions \"Ombudsman\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Ombudsman\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"Ombudsman\" means the Commonwealth Ombudsman;"
+    },
+    {
+      "key": "section:6.term:personal-information",
+      "title": "Section 6 Definitions \"personal information\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"personal information\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"personal information\" means information or an opinion (including\ninformation or an opinion forming part of a database), whether true or not,\nand whether recorded in a material form or not, about an individual whose\nidentity is apparent, or can reasonably be ascertained, from the information\nor opinion;"
+    },
+    {
+      "key": "section:6.term:record",
+      "title": "Section 6 Definitions \"record\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"record\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"record\" means:\n     (a)  a document;\n     (b)  a database (however kept); or\n     (c)  a photograph or other pictorial representation of a person;\n    but does not include:\n     (d)  a generally available publication;\n     (e)  anything kept in a library, art gallery or museum for the purposes\nof\nreference, study or exhibition;\n     (f)  Commonwealth records as defined by subsection 3 (1) of the Archives\nAct 1983 that are in the open access period for the purposes of that Act;\n     (g)  documents placed by or on behalf of a person (other than an agency)\nin the memorial collection within the meaning of the Australian War Memorial\nAct 1980; or\n     (h)  letters or other articles in the course of transmission by post;"
+    },
+    {
+      "key": "section:6.term:representative-complaint",
+      "title": "Section 6 Definitions \"representative complaint\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"representative complaint\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"representative complaint\" means a complaint under subsection 36 (2);\n  \"Secretary\", in relation to a Department, has the same meaning as in the\nPublic Service Act 1922;\n  \"solicit\", in relation to personal information, means request a person to\nprovide that information, or a kind of information in which that information\nis included;"
+    },
+    {
+      "key": "section:6.term:state",
+      "title": "Section 6 Definitions \"State\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"State\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"State\" includes the Northern Territory;"
+    },
+    {
+      "key": "section:6.term:tax-file-number",
+      "title": "Section 6 Definitions \"tax file number\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax file number\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"tax file number\" means a tax file number as defined in Part VA of the\nIncome Tax Assessment Act 1936;"
+    },
+    {
+      "key": "section:6.term:tax-file-number-information",
+      "title": "Section 6 Definitions \"tax file number information\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax file number information\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"tax file number information\" means information (including information\nforming part of a database), whether compiled lawfully or unlawfully, and\nwhether recorded in a material form or not, that records the tax file number\nof a person in a manner connecting it with the person's identity;"
+    },
+    {
+      "key": "section:6.term:trading-corporation",
+      "title": "Section 6 Definitions \"trading corporation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"trading corporation\"",
+      "structure_path": "Privacy Act 1988 > Section 6",
+      "text": "\"trading corporation\" means a trading corporation within the meaning of\nparagraph 51 (xx) of the Constitution;\n  \"use\", in relation to information, does not include mere disclosure of the\ninformation, but does include the inclusion of the information in a\npublication.\n  (2) For the purposes of this Act, an act or practice breaches an Information\nPrivacy Principle if, and only if, it is contrary to, or inconsistent with,\nthat Information Privacy Principle.\n  (3) For the purposes of this Act, an act or practice breaches a guideline\nissued under section 17 if, and only if, it is contrary to, or inconsistent\nwith, the guideline.\n  (4) The definition of \"individual\" in subsection (1) shall not be taken to\nimply that references to persons do not include persons other than natural\npersons.\n  (5) For the purposes of this Act, a person shall not be taken to be an\nagency merely because the person is the holder of, or performs the duties of:\n  (a)  a prescribed office;\n  (b)  an office prescribed by regulations made for the purposes of\nsubparagraph 4 (3) (b) (i) of the Freedom of Information Act 1982;\n  (c)  an office established by or under a Commonwealth enactment for the\npurposes of an agency;\n  (d)  a judicial office or of an office of magistrate; or\n  (e)  an office of member of a tribunal that is established by or under a law\nof the Commonwealth and that is prescribed for the purposes of this paragraph.\n  (6) For the purposes of this Act, the Department of Defence shall be taken\nto include the Defence Force.\n  (7) Nothing in this Act prevents a complaint being both a file number\ncomplaint and an IPP complaint.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Acts and practices of agencies and file number recipients",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Acts and practices of agencies and file number recipients",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 7",
+      "text": "7. (1) Except so far as the contrary intention appears, a reference in this\nAct (other than section 8) to an act or to a practice is a reference to:\n  (a)  an act done, or a practice engaged in, as the case may be, by an agency\nor a file number recipient other than:\n       (i)  an agency specified in Schedule 1 or 2 to the Freedom of\nInformation Act 1982;\n      (ii)  a federal court or a court of the Australian Capital Territory;\n     (iii)  a Minister;\n     (iv)  the National Crime Authority; or\n      (v)  a Royal Commission;\n  (b)  an act done, or a practice engaged in, as the case may be, by a federal\ncourt, a court of the Australian Capital Territory or an agency specified in\nSchedule 1 to the Freedom of Information Act 1982, being an act done, or a\npractice engaged in, in respect of a matter of an administrative nature;\n  (c)  an act done, or a practice engaged in, as the case may be, by an agency\nspecified in Part II of Schedule 2 to the Freedom of Information Act 1982,\nother than an act done, or a practice engaged in, in relation to a record in\nrelation to which the agency is exempt from the operation of that Act;\n  (d)  an act done, or a practice engaged in, as the case may be, by a\nMinister in relation to the affairs of an agency, not being an act done, or a\npractice engaged in, in relation to an existing record; or\n  (e)  an act done, or a practice engaged in, as the case may be, by a\nMinister in relation to a record that is in the Minister's possession in his\nor her capacity as a Minister and relates to the affairs of an agency; but\ndoes not include a reference to an act done, or a practice engaged in, in\nrelation to a record that has originated with, or has been received from:\n  (f)  an intelligence agency;\n  (g)  the Defence Signals Directorate or the Joint Intelligence Organisation\nof the Department of Defence; or\n  (h)  the National Crime Authority.\n  (2) Except so far as the contrary intention appears, a reference in this Act\n(other than section 8) to an act or to a practice includes, in the application\nof this Act otherwise than in respect of the Information Privacy Principles\nand the performance of the Commissioner's functions under section 27, a\nreference to an act done, or a practice engaged in, as the case may be, by an\nagency specified in Schedule 2 to the Freedom of Information Act 1982 other\nthan:\n  (a) an intelligence agency;\n  (b)  the Defence Signals Directorate or the Joint Intelligence Organisation\nof the Department of Defence; or\n  (c)  the National Crime Authority.\n  (3) Except so far as the contrary intention appears, a reference in this Act\nto doing an act includes a reference to:\n  (a)  doing an act in accordance with a practice; or\n  (b)  refusing or failing to do an act.\n  (4) For the purposes of paragraphs 27 (1) (b), (c), (d), (e), (g), (k), (m)\nand (n), of subsection 31 (2) and of Part VI, this section has effect as if a\nreference in subsection (1) of this section to an act done, or to a practice\nengaged in, included a reference to an act that is proposed to be done, or to\na practice that is proposed to be engaged in, as the case may be.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Acts and practices of, and disclosure of information to, staff of agency etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Acts and practices of, and disclosure of information to, staff of agency etc.",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 8",
+      "text": "8. (1) For the purposes of this Act:\n  (a)  an act done or practice engaged in by, or information disclosed to, a\nperson employed by, or in the service of, an agency or file number recipient\nin the performance of the duties of the person's employment shall be treated\nas having been done or engaged in by, or disclosed to, the agency or\nrecipient;\n  (b)  an act done or practice engaged in by, or information disclosed to, a\nperson on behalf of, or for the purposes of the activities of, an\nunincorporated body, being a board, council, committee, sub-committee or other\nbody established by or under a Commonwealth enactment for the purpose of\nassisting, or performing functions in connection with, an agency, shall be\ntreated as having been done or engaged in by, or disclosed to, the agency;\nand\n  (c)  an act done or practice engaged in by, or information disclosed to, a\nmember or special member of the Australian Federal Police in the performance\nof his or her duties as such a member or special member shall be treated as\nhaving been done or engaged in by, or disclosed to,  the Australian Federal\nPolice.\n  (2) Where:\n  (a)  an act done or a practice engaged in by a person, in relation to a\nrecord, is to be treated, under subsection (1), as having been done or engaged\nin by an agency; and\n  (b)  that agency is not the record-keeper in relation to that record; that\nact or practice shall be treated as the act or the practice of the\nrecord-keeper in relation to that record.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Collectors",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Collectors",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 9",
+      "text": "9. (1) An agency that collects personal information shall be treated, for\nthe purposes of this Act, as a collector in relation to that information.\n  (2) Subject to subsection (3), where personal information is collected by a\nperson:\n  (a)  in the course of the person's employment by, or in the service of, an\nagency other than the Australian Federal Police; or\n  (b)  as a member or special member of the Australian Federal Police in the\nperformance of his or her duties as such a member or special member; then, for\nthe purposes of this Act:\n  (c)  if paragraph (a) applies-the agency first referred to in that\nparagraph; and\n  (d)  if paragraph (b) applies-the Australian Federal Police;\nshall be treated as a collector in relation to that information.\n  (3) Where personal information is collected by a person for the purposes of\nthe activities of, an unincorporated body, being a board, council, committee,\nsub-committee or other body established by or under a Commonwealth enactment\nfor the purpose of assisting, or performing functions connected with, an\nagency, that agency shall be treated, for the purposes of this Act, as a\ncollector in relation to that information.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Record-keepers",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Record-keepers",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 10",
+      "text": "10. (1) Subject to subsections (4) and (5), an agency that is in possession\nor control of a record of personal information shall be regarded, for the\npurposes of this Act, as the record-keeper in relation to that record.\n  (2) Subject to subsections (3), (4) and (5), where a record of personal\ninformation is in the possession or under the control of a person:\n  (a)  in the course of the person's employment in the service of or by an\nagency other than the Australian Federal Police; or\n  (b)  as a member or special member of the Australian Federal Police in the\nperformance of his or her duties as such a member or special member; then, for\nthe purposes of this Act, the record-keeper in relation to that record shall\nbe taken to be:\n  (c)  if paragraph (a) applies-the agency first referred to in that\nparagraph; and\n  (d)  if paragraph (b) applies-the Australian Federal Police.\n  (3) Where a record of personal information is in the possession or under the\ncontrol of a person for the purposes of the activities of, an unincorporated\nbody, being a board, council, committee, sub-committee or other body\nestablished by or under a Commonwealth enactment for the purpose of assisting,\nor performing functions connected with, an agency, that agency shall be\nregarded, for the purposes of this Act, as the record-keeper in relation to\nthat record.\n  (4) Where:\n  (a)  a record of personal information (not being a record relating to the\nadministration of the Australian Archives) is in the custody of the Australian\nArchives; or\n  (b)  a record of personal information (not being a record relating to the\nadministration of the Australian War Memorial) is in the custody of the\nAustralian War Memorial;\nthe agency by or on behalf of which the record was placed in that custody or,\nif that agency no longer exists, the agency to whose functions the contents of\nthe record are most closely related, shall be regarded, for the purposes of\nthis Act, as the record-keeper in relation to that record.\n  (5) Where a record of personal information was placed by or on behalf of an\nagency in the memorial collection within the meaning of the Australian War\nMemorial Act 1980, that agency or, if that agency no longer exists, the agency\nto whose functions the contents of the record are most closely related, shall\nbe regarded, for the purposes of this Act, as the record-keeper in relation to\nthat record.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - File number recipients",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "File number recipients",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 11",
+      "text": "11. (1) A person who is (whether lawfully or unlawfully) in possession or\ncontrol of a record that contains tax file number information shall be\nregarded, for the purposes of this Act, as a file number recipient.\n  (2) Subject to subsection (3), where a record that contains tax file number\ninformation is in the possession or under the control of a person:\n  (a)  in the course of the person's employment in the service of or by a\nperson or body other than an agency;\n  (b)  in the course of the person's employment in the service of or by an\nagency other than the Australian Federal Police; or\n  (c)  as a member or special member of the Australian Federal Police in the\nperformance of his or her duties as such a member or special member; then, for\nthe purposes of this Act, the file number recipient in relation to that record\nshall be taken to be:\n  (d)  if paragraph (a) applies-the person's employer;\n  (e)  if paragraph (b) applies-the agency first referred to in that\nparagraph; and\n  (f)  if paragraph (c) applies-the Australian Federal Police.\n  (3) Where a record that contains tax file number information is in the\npossession or under the control of a person for the purposes of the activities\nof, an unincorporated body, being a board, council, committee, sub-committee\nor other body established by or under a Commonwealth enactment for the purpose\nof assisting, or performing functions connected with, an agency, that agency\nshall be treated, for the purposes of this Act, as the file number recipient\nin relation to that record.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Application of Information Privacy Principles to agency in possession",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Application of Information Privacy Principles to agency in possession",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 12",
+      "text": "12. For the purposes of this Act, where an agency has possession but not\ncontrol of a record of personal information, the Information Privacy\nPrinciples apply in relation to that agency to the extent only of the\nobligations or duties to which that agency is subject, otherwise than by\nvirtue of the operation of this Act, because it is in possession of that\nparticular record.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Interferences with privacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Interferences with privacy",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 13",
+      "text": "13. For the purposes of this Act, an act or practice is an interference with\nthe privacy of an individual if, and only if, the act or practice:\n  (a)  in the case of an act or practice engaged in by an agency (whether or\nnot the agency is also a file number recipient)-breaches an Information\nPrivacy Principle in relation to personal information that relates to the\nindividual;\n  (b)  in the case of an act or practice engaged in by a file number recipient\n(whether or not the file number recipient is also an agency)-breaches a\nguideline under section 17 in relation to tax file number information that\nrelates to the individual; or\n  (c)  involves an unauthorised requirement or request for disclosure of the\ntax file number of the individual.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:14.p1",
+      "title": "Section 14 - Information Privacy Principles",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Information Privacy Principles",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 14",
+      "text": "14. The Information Privacy Principles are as follows: INFORMATION PRIVACY PRINCIPLES Principle 1 Manner and purpose of collection of personal information 1. Personal information shall not be collected by a collector for inclusion in a record or in a generally available publication unless: (a) the information is collected for a purpose that is a lawful purpose directly related to a function or activity of the collector; and (b) the collection of the information is necessary for or directly related to that purpose. 2. Personal information shall not be collected by a collector by unlawful or unfair means. Principle 2 Solicitation of personal information from individual concerned Where: (a) a collector collects personal information for inclusion in a record or in a generally available publication; and (b) the information is solicited by the collector from the individual concerned; the collector shall take such steps (if any) as are, in the circumstances, reasonable to ensure that, before the information is collected or, if that is not practicable, as soon as practicable after the information is collected, the individual concerned is generally aware of: (c) the purpose for which the information is being collected; (d) if the collection of the information is authorised or required by or under law-the fact that the collection of the information is so authorised or required; and (e) any person to whom, or any body or agency to which, it is the collector's usual practice to disclose personal information of the kind so collected, and (if known by the collector) any person to whom, or any body or agency to which, it is the usual practice of that first-mentioned person, body or agency to pass on that information. Principle 3 Solicitation of personal information generally Where: (a) a collector collects personal information for inclusion in a record or in a generally available publication; and (b) the information is solicited by the collector; the collector shall take such steps (if any) as are, in the circumstances, reasonable to ensure that, having regard to the purpose for which the Principle 4 Storage and security of personal information information is collected: (c) the information collected is relevant to that purpose and is up to date and complete; and (d) the collection of the information does not intrude to an unreasonable extent upon the personal affairs of the individual concerned. A record-keeper who has possession or control of a record that contains personal information shall ensure: (a) that the record is protected, by such security safeguards as it is reasonable in the circumstances to take, against loss, against unauthorised access, use, modification or disclosure, and against other misuse; and (b) that if it is necessary for the record to be given to a person in connection with the provision of a service to the record-keeper, everything Principle 5 Information relating to records kept by record-keeper reasonably within the power of the record-keeper is done to prevent unauthorised use or disclosure of information contained in the record. 1. A record-keeper who has possession or control of records that contain personal information shall, subject to clause 2 of this Principle, take such steps as are, in the circumstances, reasonable to enable any person to ascertain: (a) whether the record-keeper has possession or control of any records that contain personal information; and (b) if the record-keeper has possession or control of a record that contains such information: (i) the nature of that information; (ii) the main purposes for which that information is used; and (iii) the steps that the person should take if the person wishes to obtain access to the record. 2. A record-keeper is not required under clause 1 of this Principle to give a person information if the record-keeper is required or authorised to refuse to give that information to the person under the applicable provisions of any law of the Commonwealth that provides for access by persons to documents. 3. A record-keeper shall maintain a record setting out: (a) the nature of the records of personal information kept by or on behalf of the record-keeper; (b) the purpose for which each type of record is kept; (c) the classes of individuals about whom records are kept; (d) the period for which each type of record is kept; (e) the persons who are entitled to have access to personal information contained in the records and the conditions under which they are entitled to have that access; and (f) the steps that should be taken by persons wishing to obtain access to that information. 4. A record-keeper shall: (a) make the record maintained under clause 3 of this Principle available for"
+    },
+    {
+      "key": "section:14.p2",
+      "title": "Section 14 - Information Privacy Principles",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Information Privacy Principles",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 14",
+      "text": "the record-keeper; (b) the purpose for which each type of record is kept; (c) the classes of individuals about whom records are kept; (d) the period for which each type of record is kept; (e) the persons who are entitled to have access to personal information contained in the records and the conditions under which they are entitled to have that access; and (f) the steps that should be taken by persons wishing to obtain access to that information. 4. A record-keeper shall: (a) make the record maintained under clause 3 of this Principle available for inspection by members of the public; and (b) give the Commissioner, in the month of June in each year, a copy of the record so maintained. Principle 6 Access to records containing personal information Where a record-keeper has possession or control of a record that contains personal information, the individual concerned shall be entitled to have access to that record, except to the extent that the record-keeper is required or authorised to refuse to provide the individual with access to that record under the applicable provisions of any law of the Commonwealth that provides for access by persons to documents. Principle 7 Alteration of records containing personal information 1. A record-keeper who has possession or control of a record that contains personal information shall take such steps (if any), by way of making appropriate corrections, deletions and additions as are, in the circumstances, reasonable to ensure that the record: (a) is accurate; and (b) is, having regard to the purpose for which the information was collected or is to be used and to any purpose that is directly related to that purpose, relevant, up to date, complete and not misleading. 2. The obligation imposed on a record-keeper by clause 1 is subject to any applicable limitation in a law of the Commonwealth that provides a right to require the correction or amendment of documents. 3. Where: (a) the record-keeper of a record containing personal information is not willing to amend that record, by making a correction, deletion or addition, in accordance with a request by the individual concerned; and (b) no decision or recommendation to the effect that the record should be amended wholly or partly in accordance with that request has been made under the applicable provisions of a law of the Commonwealth; the record-keeper shall, if so requested by the individual concerned, take such steps (if any) as are reasonable in the circumstances to attach to the record any statement provided by that individual of the correction, deletion or addition sought. Principle 8 Record-keeper to check accuracy etc. of personal information before use A record-keeper who has possession or control of a record that contains personal information shall not use that information without taking such steps (if any) as are, in the circumstances, reasonable to ensure that, having regard to the purpose for which the information is proposed to be used, the information is accurate, up to date and complete. Principle 9 Personal information to be used only for relevant purposes Principle 10 Limits on use of personal information A record-keeper who has possession or control of a record that contains personal information shall not use the information except for a purpose to which the information is relevant. 1. A record-keeper who has possession or control of a record that contains personal information that was obtained for a particular purpose shall not use the information for any other purpose unless: (a) the individual concerned has consented to use of the information for that other purpose; (b) the record-keeper believes on reasonable grounds that use of the information for that other purpose is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person; (c) use of the information for that other purpose is required or authorised by or under law; (d) use of the information for that other purpose is reasonably necessary for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue; or (e) the purpose for which the information is used is directly related to the purpose for which the information was obtained. 2. Where personal information is used for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue, the record-keeper shall include in the record containing that information a note of that use. Principle 11 Limits on disclosure of personal information 1. A record-keeper who has possession or control of a record that"
+    },
+    {
+      "key": "section:14.p3",
+      "title": "Section 14 - Information Privacy Principles",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Information Privacy Principles",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 14",
+      "text": "a pecuniary penalty, or for the protection of the public revenue; or (e) the purpose for which the information is used is directly related to the purpose for which the information was obtained. 2. Where personal information is used for enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue, the record-keeper shall include in the record containing that information a note of that use. Principle 11 Limits on disclosure of personal information 1. A record-keeper who has possession or control of a record that contains personal information shall not disclose the information to a person, body or agency (other than the individual concerned) unless: (a) the individual concerned is reasonably likely to have been aware, or made aware under Principle 2, that information of that kind is usually passed to that person, body or agency; (b) the individual concerned has consented to the disclosure; (c) the record-keeper believes on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or of another person; (d) the disclosure is required or authorised by or under law; or (e) the disclosure is reasonably necessary for the enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue. 2. Where personal information is disclosed for the purposes of enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the purpose of the protection of the public revenue, the record-keeper shall include in the record containing that information a note of the disclosure. 3. A person, body or agency to whom personal information is disclosed under clause 1 of this Principle shall not use or disclose the information for a purpose other than the purpose for which the information was given to the person, body or agency. PRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Application of Information Privacy Principles",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Application of Information Privacy Principles",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 15",
+      "text": "15. (1) Information Privacy Principles 1, 2, 3, 10 and 11 apply only in\nrelation to information collected after the commencement of this Act.\n  (2) Information Privacy Principles 4 to 9, inclusive, apply in relation to\ninformation contained in a record in the possession or under the control of an\nagency, whether the information was collected before, or is collected after,\nthe commencement of this Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Agencies to comply with Information Privacy Principles",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Agencies to comply with Information Privacy Principles",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 16",
+      "text": "16. An agency shall not do an act, or engage in a practice, that breaches an\nInformation Privacy Principle.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Guidelines relating to tax file number information",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Guidelines relating to tax file number information",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 17",
+      "text": "17. (1) The Commissioner shall, by notice in writing, issue guidelines\nconcerning the collection, storage, use and security of tax file number\ninformation.\n  (2) A guideline issued under subsection (1) is a disallowable instrument for\nthe purposes of section 46A of the Acts Interpretation Act 1901.\n  (3) Section 48 of the Acts Interpretation Act 1901 applies to guidelines\nissued under subsection (1) as if paragraph (1) (b) of section 48 were omitted\nand the following paragraph substituted:\n \"(b) shall, subject to this section, take effect:\n      (i)  on the first day on which the guidelines are no longer liable to\nbe\ndisallowed, or to be deemed to be disallowed, under this section; or\n     (ii)  if the guidelines make provision for their commencement after the\nday referred to in subparagraph (i), in accordance with that provision; and\".\n  (4) Until the first guidelines take effect for the purposes of subsection\n(1), the interim guidelines set out in Schedule 2 have effect, for the\npurposes of any provision of this Act other than subsection (1), (2) or (3),\nas if they were guidelines issued under subsection (1).\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - File number recipients to comply with guidelines",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "File number recipients to comply with guidelines",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 18",
+      "text": "18. A file number recipient shall not do an act, or engage in a practice,\nthat breaches a guideline issued under section 17.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Privacy Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Privacy Commissioner",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 19",
+      "text": "19. There shall be a Privacy Commissioner, who shall be appointed by the\nGovernor-General.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Terms and conditions of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Terms and conditions of appointment",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 20",
+      "text": "20. (1) Subject to this section, the Commissioner holds office for such\nperiod, not exceeding 7 years, as is specified in the instrument of the\nperson's appointment, but is eligible for re-appointment.\n  (2) A person who has reached 65 years shall not be appointed as the\nCommissioner, and a person shall not be appointed as the Commissioner for a\nperiod extending beyond the day on which the person will reach 65 years.\n  (3) The Commissioner holds office on such terms and conditions (if any) in\nrespect of matters not provided for by this Act as are determined by the\nGovernor-General.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Remuneration of Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Remuneration of Commissioner",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 21",
+      "text": "21. (1) The Commissioner shall be paid such remuneration as is determined by\nthe Remuneration Tribunal, but, if no determination of that remuneration by\nthe Tribunal is in operation, the Commissioner shall be paid such remuneration\nas is prescribed.\n  (2) The Commissioner shall be paid such allowances as are prescribed.\n  (3) This section has effect subject to the Remuneration Tribunals Act 1973.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Leave of absence",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Leave of absence",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 22",
+      "text": "22. The Minister may grant leave of absence from duty to the Commissioner on\nsuch terms and conditions as to remuneration or otherwise as the Minister\ndetermines.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Outside employment",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Outside employment",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 23",
+      "text": "23. Except with the approval of the Minister, the Commissioner shall not\nengage in paid employment outside the duties of the office of Commissioner.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Resignation",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Resignation",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 24",
+      "text": "24. The Commissioner may resign from the office of Commissioner by\ndelivering to the Governor-General a signed notice of resignation.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Termination of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Termination of appointment",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 25",
+      "text": "25. (1) The Governor-General may terminate the appointment of the\nCommissioner by reason of misbehaviour or physical or mental incapacity.\n  (2) The Governor-General shall terminate the appointment of the Commissioner\nif the Commissioner:\n  (a)  becomes bankrupt, applies to take the benefit of any law for the relief\nof bankrupt or insolvent debtors, compounds with creditors or makes an\nassignment of remuneration for their benefit;\n  (b)  is absent from duty, except on leave of absence granted by the\nMinister, for 14 consecutive days or for 28 days in any period of 12 months;\nor\n  (c)  contravenes section 23.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Acting Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Acting Commissioner",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 26",
+      "text": "26. The Minister may appoint a person to act as Commissioner:\n  (a)  during a vacancy in the office of Commissioner, whether or not an\nappointment has previously been made to the office; or\n  (b)  during any period, or during all periods, when the Commissioner is\nabsent from duty or from Australia, or is, for any other reason, unable to\nperform the functions of the office of Commissioner; but a person appointed to\nact during a vacancy shall not continue so to act for more than 12 months.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Functions of Commissioner in relation to interferences with privacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Functions of Commissioner in relation to interferences with privacy",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 27",
+      "text": "27. (1) Subject to this Part, the Commissioner has the following functions:\n  (a)  to investigate an act or practice of an agency that may breach an\nInformation Privacy Principle and, where the Commissioner considers it\nappropriate to do so, to endeavour, by conciliation, to effect a settlement of\nthe matters that gave rise to the investigation;\n  (b)  when requested to do so by a Minister, to examine a proposed enactment\nthat would require or authorise acts or practices of an agency that might, in\nthe absence of the enactment, be interferences with the privacy of\nindividuals;\n  (c)  to undertake research into, and to monitor developments in, data\nprocessing and computer technology (including data-matching and data-linkage)\nto ensure that any adverse effects of such developments on the privacy of\nindividuals are minimised, and to report to the Minister the results of such\nresearch and monitoring;\n  (d)  to promote an understanding and acceptance of the Information Privacy\nPrinciples and of the objects of those Principles;\n  (e)  to prepare, and to publish in such manner as the Commissioner considers\nappropriate, guidelines for the avoidance of acts or practices of an agency\nthat may or might be interferences with the privacy of individuals;\n  (f)  to provide advice (with or without a request) to a Minister or an\nagency on any matter relevant to the operation of this Act;\n  (g)  to maintain, and to publish annually, a record (to be known as the\nPersonal Information Digest) of the matters set out in records maintained by\nrecord-keepers in accordance with clause 3 of Information Privacy Principle\n5;\n  (h)  to conduct audits of records of personal information maintained by\nagencies for the purpose of ascertaining whether the records are maintained\naccording to the Information Privacy Principles;\n  (j)  whenever the Commissioner thinks it necessary, to inform the Minister\nof action that needs to be taken by an agency in order to achieve compliance\nby the agency with the Information Privacy Principles;\n  (k)  on request by a Minister or agency, to examine a proposal for\ndata-matching or data-linkage that may involve an interference with the\nprivacy of individuals;\n (m)  for the purpose of promoting the protection of individual privacy, to\nundertake educational programs on the Commissioner's own behalf or in\nco-operation with other persons or authorities acting on behalf of the\nCommissioner;\n  (n)  to encourage corporations to develop programs for the handling of\nrecords of personal information that are consistent with the Guidelines on the\nProtection of Privacy and Transborder Flows of Personal Data issued by the\nOrganisation for Economic Co-operation and Development;\n  (o)  to do anything incidental or conducive to the performance of any of the\npreceding functions.\n  (2) The Commissioner has power to do all things that are necessary or\nconvenient to be done for or in connection with the performance of his or her\nfunctions under subsection (1).\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Functions of Commissioner in relation to tax file numbers",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Functions of Commissioner in relation to tax file numbers",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 28",
+      "text": "28. (1) In addition to the functions under section 27, the Commissioner has\nthe following functions in relation to tax file numbers:\n  (a)  to issue guidelines under section 17;\n  (b)  to investigate acts or practices of file number recipients that may\nbreach guidelines issued under section 17;\n  (c)  to investigate acts or practices that may involve unauthorised requests\nor requirements for the disclosure of tax file numbers;\n  (d)  to examine the records of the Commissioner of Taxation to ensure that:\n      (i)  he or she is not using tax file number information for purposes\nbeyond his or her powers; and\n     (ii)  he or she is taking adequate measures to prevent the unlawful\ndisclosure of the tax file number information that he or she holds;\n  (e)  to conduct audits of records of tax file number information maintained\nby file number recipients for the purpose of ascertaining whether the records\nare maintained according to any relevant guidelines issued under section 17;\n  (f)  to evaluate compliance with guidelines issued under section 17;\n  (g)  to provide advice (with or without a request) to file number recipients\non their obligations under the Taxation Administration Act 1953 with regard to\nthe confidentiality of tax file number information and on any matter relevant\nto the operation of this Act;\n  (h)  to monitor the security and accuracy of tax file number information\nkept by file number recipients;\n  (j)  to do anything incidental or conducive to the performance of any of the\npreceding functions.\n  (2) The Commissioner has power to do all things that are necessary or\nconvenient to be done for or in connection with the performance of his or her\nfunctions under subsection (1).\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Commissioner to have regard to certain matters",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Commissioner to have regard to certain matters",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 29",
+      "text": "29. In the performance of his or her functions, and the exercise of his or\nher powers, under this Act, the Commissioner shall:\n  (a)  have due regard for the protection of important human rights and social\ninterests that compete with privacy, including the general desirability of a\nfree flow of information and the recognition of the right of government and\nbusiness to achieve their objectives in an efficient way;\n  (b)  take account of:\n      (i)  international obligations accepted by Australia, including those\nconcerning the international technology of communications; and\n     (ii)  developing general international guidelines relevant to the better\nprotection of individual privacy;\n  (c)  ensure that his or her recommendations and guidelines are, within the\nlimitations of the powers of the Commonwealth, capable of acceptance,\nadaptation and extension throughout Australia; and\n  (d)  ensure that his or her directions and guidelines are consistent with\nthe Information Privacy Principles.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Reports following investigation of act or practice",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Reports following investigation of act or practice",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 30",
+      "text": "30. (1) Where the Commissioner has investigated an act or practice without a\ncomplaint having been made under section 36, the Commissioner may report to\nthe Minister about the act or practice, and shall do so:\n  (a)  if so directed by the Minister; or\n  (b)  if the Commissioner:\n      (i)  thinks that the act or practice is an interference with the\nprivacy\nof an individual; and\n     (ii)  has not considered it appropriate to endeavour to effect a\nsettlement of the matters that gave rise to the investigation or has\nendeavoured without success to effect such a settlement.\n  (2) Where the Commissioner reports under subsection (1) about an act done in\naccordance with a practice, the Commissioner shall also report to the Minister\nabout the practice.\n  (3) Where, after an investigation under paragraph 27 (1) (a) or 28 (1) (b)\nor (c) of an act or practice of an agency or file number recipient, the\nCommissioner is required by virtue of paragraph (1) (b) of this section to\nreport to the Minister about the act or practice, the Commissioner:\n  (a)  shall set out in the report his or her findings and the reasons for\nthose findings;\n  (b)  may include in the report any recommendations by the Commissioner for\npreventing a repetition of the act or a continuation of the practice;\n  (c)  may include in the report any recommendation by the Commissioner for\neither or both of the following:\n      (i)  the payment of compensation  in respect of a person who has\nsuffered\nloss or damage as a result of the act or practice;\n     (ii)  the taking of other action to remedy or reduce loss or damage\nsuffered by a person as a result of the act or practice;\n  (d)  shall serve a copy of the report on the agency or file number recipient\nconcerned and the Minister (if any) responsible for the agency or recipient;\nand (e)  may serve a copy of the report on any person affected by the act or\npractice.\n  (4) Where, at the end of 60 days after a copy of a report about an act or\npractice of an agency or file number recipient was served under subsection\n(3), the Commissioner:\n  (a)  still thinks that the act or practice is an interference with the\nprivacy of an individual; and\n  (b)  is not satisfied that reasonable steps have been taken to prevent a\nrepetition of the act or a continuation of the practice; the Commissioner\nshall give to the Minister a further report that:\n  (c)  incorporates the first-mentioned report and any document that the\nCommissioner has received, in response to the first-mentioned report, from the\nagency or file number recipient;\n  (d)  states whether, to the knowledge of the Commissioner, any action has\nbeen taken as a result of the findings, and recommendations (if any), set out\nin the first-mentioned report and, if so, the nature of that action; and\n  (e)  states why the Commissioner is not satisfied that reasonable steps have\nbeen taken to prevent a repetition of the act or a continuation of the\npractice; and shall serve a copy of the report on the Minister (if any)\nresponsible for the agency or recipient.\n  (5) The Minister shall cause a copy of a report given to the Minister under\nsubsection (4) to be laid before each House of the Parliament within 15\nsitting days of that House after the report is received by the Minister.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Report following examination of proposed enactment",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Report following examination of proposed enactment",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 31",
+      "text": "31. (1) Where the Commissioner has examined a proposed enactment under\nparagraph 27 (1) (b), subsections (2) and (3) of this section have effect.\n  (2) If the Commissioner thinks that the proposed enactment would require or\nauthorise acts or practices of an agency that would be interferences with the\nprivacy of individuals, the Commissioner shall:\n  (a)  report to the Minister about the proposed enactment; and\n  (b)  include in the report any recommendations he or she wishes to make for\namendment of the proposed enactment to ensure that it would not require or\nauthorise such acts or practices.\n  (3) Otherwise, the Commissioner may report to the Minister about the\nproposed enactment, and shall do so if so directed by the Minister.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Report following monitoring of certain activities",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Report following monitoring of certain activities",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 32",
+      "text": "32. Where the Commissioner, in the performance of the function referred to\nin paragraph 27 (1) (c), (j), (k) or (m) or 28 (1) (e) or (f), has monitored\nan activity or conducted an audit, the Commissioner may report to the Minister\nabout that activity or audit, and shall do so if so directed by the Minister.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Exclusion of certain matters from reports",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Exclusion of certain matters from reports",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 33",
+      "text": "33. (1) In setting out findings, opinions and reasons in a report to be\ngiven under section 30, 31 or 32, the Commissioner may exclude a matter if the\nCommissioner considers it desirable to do so having regard to  the obligations\nof the Commissioner under subsections (2) and (3).\n  (2) In deciding under subsection (1) whether or not to exclude matter from a\nreport, the Commissioner shall have regard to the need to prevent:\n  (a)  prejudice to the security, defence or international relations of\nAustralia;\n  (b)  prejudice to relations between the Commonwealth Government and the\nGovernment of a State or between the Government of a State and the Government\nof another State;\n  (c)  the disclosure of deliberations or decisions of the Cabinet, or of a\nCommittee of the Cabinet, of the Commonwealth or of a State;\n  (d)  the disclosure of deliberations or advice of the Federal Executive\nCouncil or the Executive Council of a State;\n  (e)  the disclosure, or the ascertaining by a person, of the existence or\nidentity of a confidential source of information in relation to the\nenforcement of the criminal law;\n  (f)  the endangering of the life or safety of any person;\n  (g)  prejudice to the proper enforcement of the law or the protection of\npublic safety;\n  (h)  the disclosure of information the disclosure of which is prohibited,\nabsolutely or subject to qualifications, by or under another enactment;\n  (j)  the unreasonable disclosure of the personal affairs of any person; and\n  (k)  the unreasonable disclosure of confidential commercial information.\n  (3) The Commissioner shall try to achieve an appropriate balance between\nmeeting the need referred to in subsection (2) and the desirability of\nensuring that interested persons are sufficiently informed of the results of\nthe Commissioner's investigation, examination or monitoring.\n  (4) Where the Commissioner excludes a matter from a report, he or she shall\ngive to the Minister a report setting out the excluded matter and his or her\nreasons for excluding the matter.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Provisions relating to documents exempt under the Freedom of Information Act 1982",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Provisions relating to documents exempt under the Freedom of Information Act 1982",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 34",
+      "text": "34. (1) The Commissioner shall not, in connection with the performance of\nthe functions referred to in section 27, give to a person information as to\nthe existence or non-existence of a document where information as to the\nexistence or non-existence of that document would, if included in a document\nof an agency, cause the last-mentioned document to be an exempt document by\nvirtue of section 33 or 33A, or subsection 37 (1), of the Freedom of\nInformation Act 1982.\n  (2) The Commissioner shall not, in connection with the performance of the\nfunctions referred to in section 27, give to a person information:\n  (a)  about the contents of a document of an agency, or the contents of an\nofficial document of a Minister, being a document that is an exempt document;\nor (b)  about exempt matter contained in a document of an agency or in an\nofficial document of a Minister.\n  (3) An expression used in this section and in the Freedom of Information Act\nSection 1982 has the same meaning in this section as in that Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Direction where refusal or failure to amend exempt document",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Direction where refusal or failure to amend exempt document",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 35",
+      "text": "35. (1) Where:\n  (a)  an application made under subsection 55 (1) of the Freedom of\nInformation Act 1982  for review of a decision under that Act refusing access\nto a document has been finally determined or otherwise disposed of;\n  (b)  the period within which an appeal may be made to the Federal Court has\nexpired or, if such an appeal has been instituted, the appeal has been\ndetermined;\n  (c)  the effect of the review and any appeal is that access is not to be\ngiven to the document;\n  (d)  the applicant has requested the agency concerned to amend the\ndocument;\n  (e)  the applicant has complained to the Commissioner under this Act about\nthe refusal or failure of the agency to amend the document;\n  (f)  the Commissioner has, as a result of the complaint, recommended under\nsubsection 30 (3) of this Act that the agency amend the document, or amend a\npart of the document, to which the applicant has been refused access; and\n  (g)  as at the end of 60 days after a copy of the report containing the\nrecommendation was served on the agency, the Commissioner:\n      (i)  still thinks that the agency should amend the document in a\nparticular manner; and\n     (ii)  is not satisfied that the agency has amended the document in that\nmanner;\nthe Commissioner may direct the agency to add to the document an appropriate\nnotation setting out particulars of the amendments of the document that the\nCommissioner thinks should be made.\n  (2) An agency shall comply with a direction given in accordance with\nsubsection (1).\n  (3) In subsection (1), \"amend\", in relation to a document, means amend by\nmaking a correction, deletion or addition.\n  (4) An expression used in this section and in the Freedom of Information Act\nSection 1982 has the same meaning in this section as in that Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Complaints",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Complaints",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 36",
+      "text": "36. (1) An individual may complain to the Privacy Commissioner about an act\nor practice  that may be an interference with the privacy of the individual.\n  (2) In the case of an act or practice that may be an interference with the\nprivacy of 2 or more individuals, any one of those individuals may make a\ncomplaint under subsection (1) on behalf of all of the individuals.\n  (3) A complaint shall be  in writing.\n  (4) It is the duty of members of the staff of the  Human Rights and Equal\nOpportunity Commission to provide appropriate assistance to a person who\nwishes to make a complaint and  requires assistance to formulate the\ncomplaint.\n  (5) The complaint shall specify the respondent to the complaint.\n  (6) In the case of a complaint about an act or practice of an agency:\n  (a)  if the agency is an individual or a body corporate, the agency shall be\nthe respondent; and\n  (b)  if the agency is an unincorporated body, the principal executive of the\nagency shall be the respondent.\n  (7) In the case of a complaint about an act or practice of a person other\nthan an agency, that person shall be the respondent.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Principal executive of agency",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Principal executive of agency",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 37",
+      "text": "37. For the purposes of this Part, the principal executive of an agency of a\nkind specified in column 1 of an item in the following table is the person\nspecified in column 2 of the item:\n--------------------------------------------------------------------------------\n        Column 1                           Column 2\nItem    Agency                             Principal executive\n--------------------------------------------------------------------------------\nSection 1 Department                         The Secretary of the Department\nSection 2 An unincorporated body, or a\n        tribunal, referred to in paragraph\n        (c) of the definition of \"agency\"\n        in subsection 6 (1)                The chief executive officer of the\n                                           body or tribunal\nSection 3 A body referred to in paragraph (d)\n        of the definition of \"agency\" in\n        subsection 6 (1)                   The chief executive officer of the\n                                           body\nSection 4 A federal court or a court of the\n        Australian Capital Territory       The registrar or principal registrar\n                                           of the court or the person occupying\n                                           an equivalent office\nSection 5 The Australian Federal Police      The Commissioner of Police\n--------------------------------------------------------------------------------\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Matters to be considered in determination of representative complaints",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Matters to be considered in determination of representative complaints",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 38",
+      "text": "38. (1) The Commissioner shall not deal with a complaint made under\nsubsection 36 (2) unless he or she is satisfied that the complaint was made in\ngood faith on behalf of persons other than the complainant.\n  (2) In order to be satisfied that a complaint was made in good faith on\nbehalf of persons other than the complainant, the Commissioner must be\nsatisfied:\n  (a)  that:\n      (i)  the complainant is a member of a class of persons, the members of\nwhich class have been affected, or are reasonably likely to have been\naffected, by the act or practice complained of;\n     (ii)  the complainant has in fact been affected by that act or practice;\n     (iii)  the class is so numerous that joinder of all its members is\nimpracticable;\n     (iv)  there are questions of law or fact common to the claims of all\nmembers of the class;\n     (v)  the claims of the complainant are typical of the claims of the\nclass;\n     (vi)  multiple complaints would be likely to produce varying\ndeterminations that could have incompatible or inconsistent results for the\nindividual members of the class; and\n    (vii)  the respondent has acted on grounds apparently applying to the\nclass\nas a whole, thereby making relief appropriate for the class as a whole; or\n  (b)  that, although that the requirements of paragraph (a) have not been\nsatisfied, the justice of the case demands that the matter be dealt with and a\nremedy provided by means of a representative complaint.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Individual complaints not precluded by representative complaints",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Individual complaints not precluded by representative complaints",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 39",
+      "text": "39. Nothing in this Part prevents a person from making a complaint under\nsubsection 36 (1) about an act or practice about which a representative\ncomplaint has been made.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Investigations",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Investigations",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 40",
+      "text": "40. (1) The Commissioner shall investigate an act or practice if:\n  (a)  the act or practice may be an interference with the privacy of an\nindividual; and\n  (b)  a complaint about the act or practice has been made under section 36.\n  (2) The Commissioner may investigate an act or practice if:\n  (a)  the act or practice may be an interference with the privacy of an\nindividual; and\n  (b)  the Commissioner thinks it is desirable that the act or practice be\ninvestigated.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Circumstances in which Commissioner may decide not to investigate or may defer investigation",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Circumstances in which Commissioner may decide not to investigate or may defer investigation",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 41",
+      "text": "41. (1) The Commissioner may decide not to investigate, or not to\ninvestigate further, an act or practice about which a complaint has been made\nunder section 36 if the Commissioner is satisfied that:\n  (a)  the act or practice is not an interference with the privacy of an\nindividual;\n  (b)  although a complaint has been made to the Commissioner about the act or\npractice, the complainant has not complained to the respondent;\n  (c)  the complaint was made more than 12 months after the complainant became\naware of the act or practice;\n  (d)  the complaint is frivolous, vexatious, misconceived or lacking in\nsubstance;\n  (e)  the act or practice is the subject of an application under another\nCommonwealth enactment and the subject-matter of the complaint has been, or is\nbeing, dealt with adequately under that enactment; or\n  (f)  the act or practice could be made the subject of an application under\nanother Commonwealth enactment for a more appropriate remedy.\n  (2) The Commissioner may decide not to investigate, or not to investigate\nfurther, an act or practice about which a complaint has been made under\nsection 36 if the Commissioner is satisfied that the complainant has\ncomplained to the respondent about the act or practice and either:\n  (a)  the respondent has dealt, or is dealing, adequately with the complaint;\nor\n  (b)  the respondent has not yet had an adequate opportunity to deal with the\ncomplaint.\n  (3) The Commissioner may defer the investigation or further investigation of\nan act or practice about which a complaint has been made under section 36\nif:\n  (a)  an application has been made by the respondent for a determination\nunder section 72 in relation to the act or practice; and\n  (b)  the Commissioner is satisfied that the interests of persons affected by\nthe act or practice would not be unreasonably prejudiced if the investigation\nor further investigation were deferred until the application had been disposed\nof.\n  (4) Where an act or practice may be an interference with the privacy of an\nindividual solely because it may breach Information Privacy Principle 7, the\nCommissioner shall not investigate the act or practice except to the extent\nthat it is an interference with the privacy of a person who is, or persons\neach of whom is:\n  (a)  an Australian citizen; or\n  (b)  a person whose continued presence in Australia is not subject to a\nlimitation as to time imposed by law.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Preliminary inquiries",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Preliminary inquiries",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 42",
+      "text": "42. Where a complaint has been made to the Commissioner, the Commissioner\nmay, for the purpose of determining:\n  (a)  whether the Commissioner has power to investigate the matter to which\nthe complaint relates; or\n  (b)  whether the Commissioner may, in his or her discretion, decide not to\ninvestigate the matter;\nmake inquiries of the respondent.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Conduct of investigations",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Conduct of investigations",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 43",
+      "text": "43. (1) Before commencing an investigation of a matter to which a complaint\nrelates, the Commissioner shall inform the respondent that the matter is to be\ninvestigated.\n  (2) An investigation under this Division shall be conducted in private but\notherwise in such manner as the Commissioner thinks fit.\n  (3) The Commissioner may, for the purposes of an investigation, obtain\ninformation from such persons, and make such inquiries, as he or she thinks\nfit.\n  (4) Subject to subsection (5), it is not necessary for a complainant or\nrespondent to be afforded an opportunity to appear before the Commissioner in\nconnection with an investigation under this Division.\n  (5) The Commissioner shall not make a finding under section 52 that is\nadverse to a complainant or respondent unless the Commissioner has afforded\nthe complainant or respondent an opportunity to appear before the Commissioner\nand to make submissions, orally, in writing or both, in relation to the matter\nto which the investigation relates.\n  (6) Where the Commissioner affords an agency or person an opportunity to\nappear before the Commissioner under subsection (5), the agency or person may,\nwith the approval of the Commissioner, be represented by another person.\n  (7) Where, in connection with an investigation of a matter under this\nDivision, the Commissioner proposes to afford the complainant or respondent an\nopportunity to appear before the Commissioner and to make submissions under\nsubsection (5), or proposes to make a requirement of a person under section\n44, the Commissioner shall, if he or she has not previously informed the\nresponsible Minister (if any) that the matter is being investigated, inform\nthat Minister accordingly.\n  (8) The Commissioner may, either before or after the completion of an\ninvestigation under this Division, discuss any matter that is relevant to the\ninvestigation with a Minister concerned with the matter.\n  (9) Where the Commissioner forms the opinion, either before or after\ncompleting an investigation under this Division, that there is evidence that\nan officer of an agency has been guilty of a breach of duty or of misconduct\nand that the evidence is, in all the circumstances, of sufficient force to\njustify the Commissioner doing so, the Commissioner shall bring the evidence\nto the notice of:\n  (a)  an appropriate officer of an agency; or\n  (b)  if the Commissioner thinks that there is no officer of an agency to\nwhose notice the evidence may appropriately be drawn-an appropriate Minister.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Power to obtain information and documants",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Power to obtain information and documants",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 44",
+      "text": "44. (1) If the Commissioner has reason to believe that a person has\ninformation or a document relevant to an investigation under this Division,\nthe Commissioner may give to the person a written notice requiring the\nperson:\n  (a)  to give the information to the Commissioner in writing signed by the\nperson or, in the case of a body corporate, by an officer of the body\ncorporate; or\n  (b)  to produce the document to the Commissioner.\n  (2) A notice given by the Commissioner under subsection (1) shall state:\n  (a)  the place at which the information or document is to be given or\nproduced to the Commissioner; and\n  (b)  the time at which, or the period within which, the information or\ndocument is to be given or produced.\n  (3) If the Commissioner has reason to believe that a person has information\nrelevant to an investigation under this Division, the Commissioner may give to\nthe person a written notice requiring the person to attend before the\nCommissioner at a time and place specified in the notice to answer questions\nrelevant to the investigation.\n  (4) This section is subject to sections 69 and 70 but it has effect\nregardless of any other enactment.\n  (5) A person is not liable to a penalty under the provisions of any other\nenactment because he or she gives information, produces a document or answers\na question when required to do so under this Division.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Power to examine witnesses",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Power to examine witnesses",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 45",
+      "text": "45. (1) The Commissioner may administer an oath or affirmation to a person\nrequired under section 44 to attend before the Commissioner and may examine\nsuch a person on oath or affirmation.\n  (2) The oath or affirmation to be taken or made by a person for the purposes\nof this section is an oath or affirmation that the answers the person will\ngive will be true.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Directions to persons to attend compulsory conference",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Directions to persons to attend compulsory conference",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 46",
+      "text": "46. (1) For the purposes of performing the Commissioner's functions in\nrelation to a complaint, the Commissioner may, by written notice, direct:\n  (a)  the complainant;\n  (b)  the respondent; and\n  (c)  any other person who, in the opinion of the Commissioner, is likely to\nbe able to provide information relevant to the matter to which the complaint\nrelates or whose presence at the conference is, in the opinion of the\nCommissioner, likely to assist in connection with the performance of the\nCommissioner's functions in relation to the complaint; to attend, at a time\nand place specified in the notice, a conference presided over by the\nCommissioner.\n  (2) A person who has been directed to attend a conference and, without\nreasonable excuse:\n  (a)  fails to attend as required by the direction; or\n  (b)  fails to attend from day to day unless excused, or released from\nfurther attendance, by the Commissioner;\nis guilty of an offence punishable on conviction:\n  (c)  in the case of an individual-by a fine not exceeding $1,000 or\nimprisonment for a period not exceeding 6 months, or both; or\n  (d)  in the case of a body corporate-by a fine not exceeding $5,000.\n  (3) A person who has been directed under subsection (1) to attend a\nconference is entitled to be paid by the Commonwealth a reasonable sum for the\nperson's attendance at the conference.\n  (4) The Commissioner may, in a notice given to a person under subsection\n(1), require the person to produce such documents at the conference as are\nspecified in the notice.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Conduct of compulsory conference",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Conduct of compulsory conference",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 47",
+      "text": "47. (1) The Commissioner may require a person attending a conference under\nthis Division to produce a document.\n  (2) A conference under this Division shall be held in private and shall be\nconducted in such manner as the Commissioner thinks fit.\n  (3) A body of persons, whether corporate or unincorporate, that is directed\nunder section 46 to attend a conference shall be deemed to attend if a member,\nofficer or employee of that body attends on behalf of that body.\n  (4) Except with the consent of the Commissioner:\n  (a)  an individual is not entitled to be represented at the conference by\nanother person; and\n  (b)  a body of persons, whether corporate or unincorporate, is not entitled\nto be represented at the conference by a person other than a member, officer\nor employee of that body.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Complainant and certain other persons to be informed of various matters",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Complainant and certain other persons to be informed of various matters",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 48",
+      "text": "48. Where the Commissioner decides not to investigate, or not to investigate\nfurther, a matter to which a complaint relates, the Commissioner shall, as\nsoon as practicable and in such manner as the Commissioner thinks fit, inform\nthe complainant and the respondent of the decision and of the reasons for the\ndecision.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Investigation under section 40 to cease if certain offences may have been committed",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Investigation under section 40 to cease if certain offences may have been committed",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 49",
+      "text": "49. (1) Where, in the course of an investigation under section 40, the\nCommissioner forms the opinion that a tax file number offence may have been\ncommitted, the Commissioner shall:\n  (a)  inform the Commissioner of Police or the Director of Public\nProsecutions of that opinion;\n  (b)  in the case of an investigation under subsection 40 (1), give a copy of\nthe complaint to the Commissioner of Police or the Director of Public\nProsecutions, as the case may be; and\n  (c)  subject to subsection (3), discontinue the investigation except to the\nextent that it concerns matters unconnected with the offence that the\nCommissioner believes may have been committed.\n  (2) If, after having been informed of the Commissioner's opinion under\nparagraph (1) (a), the Commissioner of Police or the Director of Public\nProsecutions, as the case may be, decides that the matter will not be, or will\nno longer be, the subject of proceedings for an offence, he or she shall give\na written notice to that effect to the Commissioner.\n  (3) Upon receiving such a notice the Commissioner may continue the\ninvestigation discontinued under paragraph (1) (c).\n  (4) A reference in subsection (1) to a tax file number offence is a\nreference to:\n  (a)  an offence against section 8WA or 8WB of the Taxation Administration\nAct 1953; or\n  (b)  an offence against section 6, 7 or 7A, or paragraph 86 (1) (a), of the\nCrimes Act 1914, being an offence that relates to an offence referred to in\nparagraph (a) of this subsection.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Reference of matters to other authorities",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Reference of matters to other authorities",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 50",
+      "text": "50. (1) In this section:\n  \"Human Rights and Equal Opportunity Commission\" includes a person performing\nfunctions of that Commission;\n  \"Merit Protection Act\" means the Merit Protection (Australian Government\nEmployees) Act 1984;\n  \"Merit Protection Agency\" means the Merit Protection and Review Agency\nestablished by the Merit Protection Act;\n  \"Ombudsman\" means the Commonwealth Ombudsman.\n  (2) Where, before the Commissioner commences, or after the Commissioner has\ncommenced, to investigate a matter to which a complaint relates, the\nCommissioner forms the opinion that:\n  (a)  a complaint relating to that matter has been, or could have been, made\nby the complainant:\n      (i)  to the Human Rights and Equal Opportunity Commission under Division\nSection 3 of Part II of the Human Rights and Equal Opportunity Commission Act 1986;\nor\n     (ii)  to the Ombudsman under the Ombudsman Act 1976; or\n  (b)  an application with respect to that matter has been, or could have\nbeen, made by the complainant to the Merit Protection Agency under section 47\nof the Merit Protection Act; and that that matter could be more conveniently\nor effectively dealt with by the Human Rights and Equal Opportunity\nCommission, the Ombudsman, or the Merit Protection Agency, as the case may be,\nthe Commissioner may decide not to investigate the matter, or not to\ninvestigate the matter further, as the case may be, and, if the Commissioner\nso decides, he or she shall:\n  (c)  transfer the complaint to the Human Rights and Equal Opportunity\nCommission, the Ombudsman or the Merit Protection Agency;\n  (d)  give notice in writing to the complainant stating that the complaint\nhas been so transferred; and\n  (e)  give to the Human Rights and Equal Opportunity Commission, the\nOmbudsman or the Merit Protection Agency any information or documents that\nrelate to the complaint and are in the possession, or under the control, of\nthe Commissioner.\n  (3) A complaint transferred under subsection (2) shall be taken to be:\n  (a)  a complaint made:\n      (i)  to the Human Rights and Equal Opportunity Commission under Division\nSection 3 of Part II of the Human Rights and Equal Opportunity Commission Act 1986;\nor\n     (ii)  to the Ombudsman under the Ombudsman Act 1976; or\n  (b)  an application made to the Merit Protection Agency under section 47 of\nthe Merit Protection Act;\nas the case requires.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Effect of investigation by Auditor-General",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Effect of investigation by Auditor-General",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 51",
+      "text": "51. Where the Commissioner becomes aware that a matter being investigated by\nthe Commissioner is, or is related to, a matter that is under investigation by\nthe Auditor-General, the Commissioner shall not, unless the Commissioner and\nAuditor-General agree to the contrary, continue to investigate the matter\nuntil the investigation by the Auditor-General has been completed.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Determination of the Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Determination of the Commissioner",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 52",
+      "text": "52. (1) After investigating a complaint, the Commissioner may:\n  (a)  make a determination dismissing the complaint; or\n  (b)  find the complaint substantiated and make a determination that includes\none or more of the following:\n      (i)  a declaration:\n        (A) where the principal executive of an agency is the respondent-that\nthe agency has engaged in conduct constituting an interference with the\nprivacy of an individual and should not repeat or continue such conduct; or\n        (B) in any other case-that the respondent has engaged in conduct\nconstituting an interference with the privacy of an individual and should not\nrepeat or continue such conduct;\n     (ii)  a declaration that the respondent should perform any reasonable\nact\nor course of conduct to redress any loss or damage suffered by the\ncomplainant;\n     (iii)  except where the complaint was dealt with as a representative\ncomplaint-a declaration that the complainant is entitled to a specified amount\nby way of compensation for any loss or damage suffered by reason of the act or\npractice the subject of the complaint;\n     (iv)  a declaration that it would be inappropriate for any further\naction\nto be taken in the matter.\n  (2) The Commissioner shall, in a determination, state any findings of fact\nupon which the determination is based.\n  (3) In a determination under paragraph (1) (a) or (b) (other than a\ndetermination made on a representative complaint), the Commissioner may\ninclude a declaration that the complainant is entitled to a specified amount\nto reimburse the complainant for expenses reasonably incurred by the\ncomplainant in connection with the making of the complaint and the\ninvestigation of the complaint.\n  (4) In this section:\n  \"complainant\", in relation to a representative complaint, includes all of\nthe persons on whose behalf the complaint is made.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Service of determination",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Service of determination",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 53",
+      "text": "53. (1) The Commissioner shall cause a copy of a determination to be served\non the complainant and on the respondent.\n  (2) A determination does not become effective for the purposes of Division 3\nor 4 until a copy of the determination has been served on the complainant and\non the respondent.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Application of Division",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Application of Division",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 54",
+      "text": "54. This Division applies to a determination under section 52 that:\n  (a)  dismisses an IPP complaint; or\n  (b)  includes a declaration that the respondent has engaged in conduct that\nconstitutes an interference with the privacy of the complainant because it\nbreaches an Information Privacy Principle.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Obligations of respondent agency",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Obligations of respondent agency",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 55",
+      "text": "55. Where a determination to which this Division applies is made on a\ncomplaint to which an agency is the respondent:\n  (a)  the agency shall not repeat or continue the conduct the subject of a\ndeclaration included in the determination under subparagraph 52 (1) (b) (i);\nand (b)  the agency shall, in accordance with the determination, perform the\nact or course of conduct the subject of a declaration included in the\ndetermination under subparagraph 52 (1) (b) (ii).\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Obligations of principal executive of agency",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Obligations of principal executive of agency",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 56",
+      "text": "56. Where a determination to which this Division applies is made on a\ncomplaint to which the principal executive of an agency is the respondent, the\nrespondent shall take all such steps as are reasonably within his or her power\nto ensure that:\n  (a)  the terms of the determination are brought to the notice of all\nmembers, officers and employees of the agency whose duties are such that they\nmay engage in conduct of the kind to which the determination relates;\n  (b)  conduct the subject of a declaration included in the determination\nunder subparagraph 52 (1) (b) (i) is not repeated or continued by any member,\nofficer or employee of the agency; and\n  (c)  any act or course of conduct the subject of a declaration included in\nthe determination under subparagraph 52 (1) (b) (ii) is performed in\naccordance with the determination.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Compensation and expenses",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Compensation and expenses",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 57",
+      "text": "57. (1) Where a determination to which this Division applies includes a\ndeclaration of the kind referred to in subparagraph 52 (1) (b) (iii) or\nsubsection 52 (3), the complainant is entitled to be paid the amount specified\nin the declaration.\n  (2) Where the respondent to the determination is an agency that has the\ncapacity to sue and be sued, an amount referred to in subsection (1) is\nrecoverable as a debt due by the agency to the complainant.\n  (3) In any other case, the amount is recoverable as a debt due by the\nCommonwealth to the complainant.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Review of determinations",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Review of determinations",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 58",
+      "text": "58. (1) Application may be made to the Administrative Appeals Tribunal for\nreview of:\n  (a)  a declaration of the kind referred to in subparagraph 52 (1) (b) (iii)\nor subsection 52 (3) that is included in a determination to which this\nDivision applies; or\n  (b)  a decision of the Commissioner refusing to include such a declaration\nin a determination to which this Division applies.\n  (2) An agency or the principal executive of an agency may not apply under\nsubsection (1) except with the leave of the Minister.\n  (3) Subject to subsection 21 (1A) of the Administrative Appeals Tribunal Act\n1975, for the purpose of the exercise of its powers in relation to an\napplication under subsection (1) of this section, the Tribunal shall be\nconstituted by a presidential member who is a Judge and 2 other members who\nare not Judges.\n  (4) An expression used in subsection (3) that is also used in the\nAdministrative Appeals Tribunal Act 1975 has the same meaning as in that Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Endorcement of determination against agency",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Endorcement of determination against agency",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 59",
+      "text": "59. (1) Where an agency fails to comply with section 55, the person on whose\ncomplaint the determination was made or the Commissioner may apply to the\nFederal Court for an order directing the agency to comply with that section.\n  (2) Where the principal executive of an agency fails to comply with section\n56, the person on whose complaint the determination was made or the\nCommissioner may apply to the Federal Court for an order directing the\nprincipal executive to comply with that section.\n  (3) On an application under this section, the Federal Court may make such\nother orders as it thinks fit with a view to securing compliance by the\nrespondent with section 55 or 56, as the case may be.\n  (4) An application may not be made under this section until:\n  (a)  the time within which an application may be made under section 58 in\nrespect of the relevant determination has expired; or\n  (b)  if such an application is made, the decision of the Administrative\nAppeals Tribunal on the application has come into operation.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Application of Division",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Application of Division",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 60",
+      "text": "60. This Division applies to a determination under section 52 that includes\na declaration that an agency or the respondent has engaged in conduct that\nconstitutes an interference with the privacy of the complainant because:\n  (a)  it breaches a guideline issued under section 17; or\n  (b)  it involves an unauthorised requirement or request for disclosure of a\ntax file number.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:61",
+      "title": "Section 61 - Compensation and expenses",
+      "main_structural_unit": "section",
+      "main_structural_number": "61",
+      "main_structural_heading": "Compensation and expenses",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 61",
+      "text": "61. Where a determination to which this Division applies includes a\ndeclaration of a kind referred to in subparagraph 52 (1) (b) (iii) or\nsubsection 52 (3), the declaration has effect as a declaration that the\ncomplainant is entitled to receive the specified amount:\n  (a)  if the respondent is an agency that does not have the capacity to sue\nor be sued or is the principal executive of an agency-from the Commonwealth;\nand\n  (b)  in any other case-from the respondent.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:62",
+      "title": "Section 62 - Proceddings in Federal Court",
+      "main_structural_unit": "section",
+      "main_structural_number": "62",
+      "main_structural_heading": "Proceddings in Federal Court",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 62",
+      "text": "62. (1) The Commissioner or complainant may institute a proceeding in the\nFederal Court for an order to enforce a determination to which this Division\napplies.\n  (2) If the Federal Court is satisfied that the respondent or, where the\nprincipal executive of an agency is the respondent, the agency has engaged in\nconduct or committed an act constituting an interference with the privacy of\nan individual, the court may make such orders (including a declaration of\nright) as the court thinks fit.\n  (3) Orders made by the Federal Court under subsection (2) may give effect to\na determination of the Commissioner.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:63",
+      "title": "Section 63 - Legal assistance",
+      "main_structural_unit": "section",
+      "main_structural_number": "63",
+      "main_structural_heading": "Legal assistance",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 63",
+      "text": "63. (1) Where:\n  (a)  the Commissioner has dismissed a file number complaint; and\n  (b)  the respondent is not an agency or the principal executive of an\nagency; the respondent may apply to the Attorney-General for assistance under\nthis section.\n  (2) If the Attorney-General is satisfied that in all the circumstances it is\nreasonable to grant an application made under this section, he or she may\nauthorise the provision by the Commonwealth to the applicant of such financial\nassistance in connection with the investigation of the complaint as the\nAttorney-General determines.\n  (3) An authorisation under subsection (2) may be made subject to such\nconditions (if any) as the Attorney-General determines.\n  (4) In considering an application made under this section, the\nAttorney-General shall have regard to any hardship to the applicant that\nrefusal of the application would involve.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:64",
+      "title": "Section 64 - Commissioner not to be sued",
+      "main_structural_unit": "section",
+      "main_structural_number": "64",
+      "main_structural_heading": "Commissioner not to be sued",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 64",
+      "text": "64. Neither the Commissioner nor a person acting under his or her direction\nor authority is liable to an action, suit or proceeding in relation to an act\ndone or omitted to be done in good faith in the exercise or purported exercise\nof any power or authority conferred by this Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:65",
+      "title": "Section 65 - Failure to attend etc. before Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "65",
+      "main_structural_heading": "Failure to attend etc. before Commissioner",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 65",
+      "text": "65. (1) A person shall not, without reasonable excuse:\n  (a) refuse or fail to attend before the Commissioner; or\n  (b)  refuse or fail to be sworn or make an affirmation; when so required\nunder this Act.\n  Penalty: $2,000 or imprisonment for 12 months, or both.\n  (2) A person shall not, without reasonable excuse, wilfully obstruct, hinder\nor resist the Commissioner in the performance of his or her functions under\nthis Act.\n  Penalty: $2,000 or imprisonment for 12 months, or both.\n  (3) A person shall not furnish information or make a statement to the\nCommissioner knowing that it is false or misleading in a material particular.\n  Penalty: $2,000 or imprisonment for 12 months, or both.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:66.p1",
+      "title": "Section 66 - Failure to give information etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "66",
+      "main_structural_heading": "Failure to give information etc.",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 66",
+      "text": "66. (1) A person shall not refuse or fail, without reasonable excuse: (a) to give information; or (b) to answer a question or produce a document or record; when so required under this Act. Penalty: (a) in the case of an individual-$2,000 or imprisonment for 12 months, or both; or (b) in the case of a body corporate-$10,000. (2) For the purposes of subsections (3) to (11) (inclusive): \"document\" includes a record; \"information\" includes an answer to a question. (3) Subject to subsections (4), (7) and (10), it is a reasonable excuse for the purposes of subsection (1) for an individual: (a) to refuse or fail to give information when so required under this Act; or (b) to refuse or fail to produce a document when so required under this Act; that giving the information, or producing the document, as the case may be, might tend to incriminate the individual or make the individual liable to forfeiture or a penalty. (4) Subsection (3) does not apply in relation to a failure or refusal by an individual to give information, or to produce a document, on the ground that giving the information or producing the document might tend to prove his or her guilt of an offence against, or make him or her liable to forfeiture or a penalty under, a law of the Commonwealth or of a Territory, if the Director of Public Prosecutions has given the individual a written undertaking under subsection (5). (5) An undertaking by the Director of Public Prosecutions shall: (a) be an undertaking that: (i) information given, or a document produced, by the individual; or (ii) any information or document obtained as a direct or indirect consequence of the giving of the information, or the production of the document; will not be used in evidence in any proceedings for an offence against a law of the Commonwealth or of a Territory, or in any disciplinary proceedings, against the individual, other than proceedings in respect of the falsity of evidence given by the individual; (b) state that, in the opinion of the Director of Public Prosecutions, there are special reasons why, in the public interest, the information or document should be available to the Commissioner; and (c) state the general nature of those reasons. (6) The Commissioner may recommend to the Director of Public Prosecutions that an individual who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (5). (7) Subsection (3) does not apply in relation to a failure or refusal by an individual to give information, or to produce a document, on the ground that giving the information or producing the document might tend to prove his or her guilt of an offence against, or make him or her liable to forfeiture or a penalty under, a law of a State, if the Attorney-General of the State, or a person authorised by that Attorney-General (being the person holding the office of Director of Public Prosecutions, or a similar office, of the State) has given the individual a written undertaking under subsection (8). (8) An undertaking by the Attorney-General of the State, or authorised person, shall: (a) be an undertaking that: (i) information given, or a document produced, by the individual; or (ii) any information or document obtained as a direct or indirect consequence of the giving of the information, or the production of the document; will not be used in evidence in any proceedings for an offence against a law of the State, or in any disciplinary proceedings, against the individual, other than proceedings in respect of the falsity of evidence given by the individual; (b) state that, in the opinion of the person giving the undertaking, there are special reasons why, in the public interest, the information or document should be available to the Commissioner; and (c) state the general nature of those reasons. (9) The Commissioner may recommend to the Attorney-General of a State that an individual who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (8). (10) For the purposes of subsection (1): (a) it is not a reasonable excuse for a body corporate to refuse or fail to produce a document that production of the document might tend to incriminate the body corporate or make it liable to forfeiture or a penalty; and (b) it is not a reasonable excuse for an individual to refuse or fail to produce a document that is, or forms part of, a record"
+    },
+    {
+      "key": "section:66.p2",
+      "title": "Section 66 - Failure to give information etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "66",
+      "main_structural_heading": "Failure to give information etc.",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 66",
+      "text": "or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (8). (10) For the purposes of subsection (1): (a) it is not a reasonable excuse for a body corporate to refuse or fail to produce a document that production of the document might tend to incriminate the body corporate or make it liable to forfeiture or a penalty; and (b) it is not a reasonable excuse for an individual to refuse or fail to produce a document that is, or forms part of, a record of an existing or past business (not being, if the individual is or has been an employee, a document that sets out details of earnings received by the individual in respect of his or her employment and does not set out any other information) that production of the document might tend to incriminate the individual or make the individual liable to forfeiture or a penalty. (11) Subsections (4), (7) and (10) do not apply where proceedings, in respect of which giving information or producing a document might tend to incriminate an individual or make an individual liable to forfeiture or a penalty, have been commenced against the individual and have not been finally dealt with by a court or otherwise disposed of. PRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:67",
+      "title": "Section 67 - Protection from civil actions",
+      "main_structural_unit": "section",
+      "main_structural_number": "67",
+      "main_structural_heading": "Protection from civil actions",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 67",
+      "text": "67. Civil proceedings do not lie against a person in respect of loss, damage\nor injury of any kind suffered by another person because of any of the\nfollowing acts done in good faith:\n  (a)  the making of a complaint under this Act;\n  (b)  the making of a statement to, or the giving of a document or\ninformation to, the Commissioner, whether or not pursuant to a requirement\nunder section 44.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:68",
+      "title": "Section 68 - Power to enter premises",
+      "main_structural_unit": "section",
+      "main_structural_number": "68",
+      "main_structural_heading": "Power to enter premises",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 68",
+      "text": "68. (1) Subject to subsection (3), for the purposes of the performance by\nthe Commissioner of his or her functions under this Act, a person authorised\nby the Commissioner for the purposes of this section may, at any reasonable\ntime of the day, enter premises occupied by an agency or a file number\nrecipient and inspect any documents that are kept at those premises and that\nare relevant to the performance of those functions, other than documents in\nrespect of which the Attorney-General has furnished a certificate under\nsubsection 70 (1) or (2).\n  (2) The occupier or person in charge of the premises shall provide the\nauthorised person with all reasonable facilities and assistance for the\neffective exercise of the authorised person's powers under subsection (1).\n  (3) A person shall not enter under subsection (1) premises other than\npremises that are occupied by an agency unless:\n  (a)  the occupier of the premises has consented to the person entering the\npremises; or\n  (b)  the person is authorised, pursuant to a warrant issued under subsection\n(4), to enter the premises.\n  (4) If, on an application made by a person authorised by the Commissioner\nunder subsection (1), a Magistrate is satisfied, by information on oath, that\nit is reasonably necessary, for the purposes of the performance by the\nCommissioner of his or her functions under this Act, that the person be\nempowered to enter the premises, the Magistrate may issue a warrant\nauthorising the person, with such assistance as the person thinks necessary,\nto enter the premises, if necessary by force, for the purpose of exercising\nthose powers.\n  (5) A warrant issued under subsection (4) shall state:\n  (a)  whether entry is authorised to be made at any time of the day or during\nspecified hours of the day; and\n  (b)  a day, not being later than one month after the day on which the\nwarrant was issued, at the end of which the warrant ceases to have effect.\n  (6) Nothing in subsection (1) restricts the operation of any other provision\nof this Part.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:69",
+      "title": "Section 69 - Restrictions on Commissioner obtaining personal information and documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "69",
+      "main_structural_heading": "Restrictions on Commissioner obtaining personal information and documents",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 69",
+      "text": "69. (1) Information relating to an individual shall not be furnished, in\nconnection with a complaint, in such a manner as to reveal the individual's\nidentity, unless the individual has made the complaint or has consented to the\ninformation being so furnished.\n  (2) A document that contains information relating to an individual and that\nreveals the individual's identity shall not be produced, in connection with a\ncomplaint, unless:\n  (a)  the person has made the complaint or has consented to the document\nbeing so produced; or\n  (b)  the document is a copy of another document and has had deleted from it\nsuch information as reveals the identity of the person.\n  (3) A person shall not furnish, in connection with a complaint, prescribed\ninformation that relates to an individual other than the complainant and does\nnot also relate to the complainant.\n  (4) A person shall not furnish, in connection with a complaint, prescribed\ninformation that relates both to the complainant and to another individual,\nunless the information is so furnished in such a manner as not to reveal the\nidentity of the other person.\n  (5) A person shall not produce, in connection with a complaint, a prescribed\ndocument containing information that relates to an individual other than the\ncomplainant and does not also relate to the complainant, unless the document\nis a copy of another prescribed document and has had that information deleted\nfrom it.\n  (6) A person shall not produce, in connection with a complaint, a prescribed\ndocument containing information that relates both to the complainant and to\nanother individual, unless the document is a copy of another prescribed\ndocument and has had deleted from it such information as reveals the identity\nof the other individual.\n  (7) This section has effect notwithstanding any other provision of this\nPart.\n  (8) A reference in this section to furnishing information, or to producing a\ndocument, in connection with a complaint is a reference to furnishing the\ninformation, or to producing the document, as the case may be, to the\nCommissioner in connection with the performance or exercise by the\nCommissioner, in relation to that complaint, of the Commissioner's functions\nor powers.\n  (9) In this section:\n  \"complaint\" means a complaint under section 36;\n  \"document\" includes any other record;\n  \"prescribed document\" means a document that was furnished or obtained under\nor for the purposes of a relevant law or a copy of such a document;\n  \"prescribed information\" means information that the person furnishing the\ninformation acquired by reason of holding or having held an office, or being\nor having been employed, under or for the purposes of a relevant law;\n  \"relevant law\" means a taxation law or a law of the Commonwealth relating to\ncensus and statistics;\n  \"taxation law\" means:\n     (a)  an Act of which the Commissioner of Taxation has the general\nadministration (other than an Act prescribed for the purposes of paragraph (b)\nof the definition of \"taxation law\" in section 2 of the Taxation\nAdministration Act 1953); or\n     (b)  regulations under an Act referred to in paragraph (a) of this\ndefinition.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:70",
+      "title": "Section 70 - Certain documents and information not required to be disclosed",
+      "main_structural_unit": "section",
+      "main_structural_number": "70",
+      "main_structural_heading": "Certain documents and information not required to be disclosed",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 70",
+      "text": "70. (1) Where the Attorney-General furnishes to the Commissioner a\ncertificate certifying that the giving to the Commissioner of information\nconcerning a specified matter (including the giving of information in answer\nto a question), or the production to the Commissioner of a specified document\nor other record, would be contrary to the public interest because it would:\n  (a)  prejudice the security, defence or international relations of\nAustralia;\n  (b)  involve the disclosure of communications between a Minister of the\nCommonwealth and a Minister of a State,  being a disclosure that would\nprejudice relations between the Commonwealth Government and the Government and\nthe Government of a State;\n  (c) involve the disclosure of deliberations or decisions of the Cabinet or\nof a Committee of the Cabinet;\n  (d) involve the disclosure of deliberations or advice of the Executive\nCouncil;\n  (e) prejudice the conduct of an investigation or inquiry into crime or\ncriminal activity that is currently being pursued, or prejudice the fair trial\nof any person;\n  (f) disclose, or enable a personto ascertain, the existence or identity a\nconfidential source of information in relation to the enforcement of the\ncriminal law;\n  (g) prejudice the effectiveness of the operational methods or investigative\npractices or techniques of agencies responsible for the enforcement of the\ncriminal law; or\n  (h) endanger the life or physical safety of any person;\nthe Commissioner is not entitled to require a person to give any information\nconcerning the matter or to produce the document or other record.\n  (2) Without limiting the operation of subsection (1), where the\nAttorney-General furnishes to the Commissioner a certificate certifying that\nthe giving to the Commissioner of information as to the existence or\nnon-existence of information concerning a specified matter (including the\ngiving of information in answer to a question) or as to the existence or\nnon-existence of any document or other record required to be procuced to the\nCommissioner would be contrary to the public interest:\n  (a) by reason that it would prejudice the security, defence or international\nrelations of Australia; or\n  (b) by reason that it would prejudice the proper performance of the\nfunctions of the National Crime Authority;\nthe Commissioner is not entitled, pursuant to this Act, to require a person to\ngive any information as to the existence or non-existence of information\nconcerning that matter or as to the existence of that document or other\nrecord.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:71",
+      "title": "Section 71 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "71",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 71",
+      "text": "71. For the purposes of this Part, a person is interested in an application\nmade under section 73 if, and only if, the Commissioner is of the opinion that\nthe person has a real and substantial interest in the application.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:72",
+      "title": "Section 72 - Power to make, and effect of, determinations",
+      "main_structural_unit": "section",
+      "main_structural_number": "72",
+      "main_structural_heading": "Power to make, and effect of, determinations",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 72",
+      "text": "72. Subject to this Part, where the Commissioner is satisfied that:\n  (a) an act or practice of an agency breaches, or may breach, an Information\nPrivacy Principle; and\n  (b) the public interest in the agency doing the act, or engaging in the\npractice, outweighs to a substantial degree the public interest in adhering to\nthat Information Privacy Principle;\nthe Commissioner may make a written determination to that effect and, if the\nCommissioner does so, the fact that the act or practice breaches that\nInformation Privacy Principle shall:\n  (c) if the agency does the act while the determination is in force; or\n  (d) in so far as the agency engages in the practice while the determination\nis in force;\nas the case may be, be disregarded for the purpose of section 16.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:73",
+      "title": "Section 73 - Application by agency",
+      "main_structural_unit": "section",
+      "main_structural_number": "73",
+      "main_structural_heading": "Application by agency",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 73",
+      "text": "73. (1) An agency may apply in accordance with the regulations for a\ndetermination under section 72 about an act or practice.\n  (2) The National Health and Medical Research Council may make an application\nunder subsection (1) on behalf of other agencies concerned with medical\nresearch or the provision of health care.\n  (3) Where an application is made by virtue of subsection (2), a reference in\nthe succeeding provisions of this Part to the agency is a reference to the\nNational Health and Medical Research Council.\n  (4) Where the Commissioner makes a determination under section 72 on an\napplication made by virtue of subsection (2), that section has effect, in\nrelation to each of the agencies on whose behalf the application was made as\nif the determination had been made on an application by that agency.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:74",
+      "title": "Section 74 - Publication of application",
+      "main_structural_unit": "section",
+      "main_structural_number": "74",
+      "main_structural_heading": "Publication of application",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 74",
+      "text": "74. (1) Subject to subsection (2), the Commissioner shall publish, in such\nmanner as he or she thinks fit, notice of the receipt by the Commissioner of\nan application.\n  (2) The Commissioner shall not, except with the consent of the agency,\npermit the disclosure to another body or person of information contained in a\ndocument provided by an agency as part of, or in support of, an application if\nthe agency has informed the Commissioner in writing that the agency claims\nthat the document is an exempt document within the meaning of Part IV of the\nFreedom of Information Act 1982.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:75",
+      "title": "Section 75 - Draft determination",
+      "main_structural_unit": "section",
+      "main_structural_number": "75",
+      "main_structural_heading": "Draft determination",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 75",
+      "text": "75. (1) The Commissioner shall prepare a draft of his or her proposed\ndetermination in relation to the application.\n  (2) The Commissioner shall send to the agency, and to each person (if any)\nother than the agency who is interested in the application, a written\ninvitation to notify the Commissioner, within the period specified in the\ninvitation, whether or not the agency or other person wishes the Commissioner\nto hold a conference about the draft determination.\n  (3) An invitation under subsection (2) shall specify a period that begins on\nthe day on which the invitation is sent and is not shorter than the prescribed\nperiod.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:76",
+      "title": "Section 76 - Conference",
+      "main_structural_unit": "section",
+      "main_structural_number": "76",
+      "main_structural_heading": "Conference",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 76",
+      "text": "76. (1)  If an agency or person notifies the Commissioner,  within the\nperiod specified in an invitation sent to the agency or person, that the\nagency or person wishes a conference to be held about the draft determination,\nthe Commissioner shall hold such a conference.\n  (2) The Commissioner shall fix a day, time and place for the holding of the\nconference.\n  (3) The day fixed shall not be more than 30 days after the latest day on\nwhich a period specified in any of the invitations sent in relation to the\ndraft determination expires.\n  (4) The Commissioner shall give notice of the day, time and place of the\nconference to the agency and to each person to whom an invitation was sent.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:77",
+      "title": "Section 77 - Conduct of conference",
+      "main_structural_unit": "section",
+      "main_structural_number": "77",
+      "main_structural_heading": "Conduct of conference",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 77",
+      "text": "77. (1) At the conference, the agency is entitled to be represented by a\nperson who is, or persons each of whom is, an officer or employee of the\nagency.\n  (2) At the conference, a person to whom an invitation was sent, or any other\nperson who is interested in the application and whose presence at the\nconference is considered by the Commissioner to be appropriate, is entitled to\nattend and participate personally or, in the case of a body corporate, to be\nrepresented by a person who is, or persons each of whom is, a director,\nofficer or employee of the body corporate.\n  (3) The Commissioner may exclude from the conference a person who:\n  (a)  is entitled neither to participate in the conference nor to represent a\nperson who is entitled to be represented at the conference;\n  (b)  uses insulting language at the conference;\n  (c)  creates, or takes part in creating or continuing, a disturbance at the\nconference; or\n  (d)  repeatedly disturbs the conference.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:78",
+      "title": "Section 78 - Determination of application",
+      "main_structural_unit": "section",
+      "main_structural_number": "78",
+      "main_structural_heading": "Determination of application",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 78",
+      "text": "78. The Commissioner shall, after complying with this Part in relation to\nthe application, make:\n  (a)  such determination under section 72 as he or she considers appropriate;\nor\n  (b)  a written determination dismissing the application.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:79",
+      "title": "Section 79 - Making of determination",
+      "main_structural_unit": "section",
+      "main_structural_number": "79",
+      "main_structural_heading": "Making of determination",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 79",
+      "text": "79. (1) The Commissioner shall, in making a determination, take account of\nall matters raised at the conference.\n  (2) The Commissioner shall, in making a determination, take account of all\nsubmissions about the application that have been made, whether at a conference\nor not, by the agency or any person.\n  (3) The Commissioner shall include in a determination a statement of the\nreasons for the determination.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:80",
+      "title": "Section 80 - Determination disallowable",
+      "main_structural_unit": "section",
+      "main_structural_number": "80",
+      "main_structural_heading": "Determination disallowable",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 80",
+      "text": "80. (1) A determination referred to in paragraph 78 (a) is a disallowable\ninstrument for the purposes of section 46A of the Acts Interpretation Act\n1901.\n  (2) Section 48 of the Acts Interpretation Act 1901 applies to a\ndetermination referred to in paragraph 78 (a) as if paragraph (1) (b) of\nsection 48 were omitted and the following paragraph substituted:\n  \"(b)  subject to this section, shall take effect on the first day on which\nthe determination is no longer liable to be disallowed, or to be deemed to be\ndisallowed, under this section; and\".\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:81",
+      "title": "Section 81 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "81",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 81",
+      "text": "81. In this Part, unless the contrary intention appears:\n  \"Advisory Committee\" means the Privacy Advisory Committee established by\nsubsection 82 (1);\n  \"member\" means a member of the Advisory Committee.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:82",
+      "title": "Section 82 - Establishment and membership",
+      "main_structural_unit": "section",
+      "main_structural_number": "82",
+      "main_structural_heading": "Establishment and membership",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 82",
+      "text": "82. (1) A Privacy Advisory Committee is established.\n  (2) The Advisory Committee shall consist of:\n  (a)  the Commissioner; and\n  (b)  not more than 6 other members.\n  (3) A member other than the Commissioner:\n  (a)  shall be appointed by the Governor-General; and\n  (b)  shall be appointed as a part-time member.\n  (4) An appointed member holds office, subject to this Act, for such period,\nnot exceeding 5 years, as is specified in the instrument of the member's\nappointment, but is eligible for re-appointment.\n  (5) The Commissioner shall be convenor of the Committee.\n  (6) The Governor-General shall so exercise the power of appointment\nconferred by subsection (3) that a majority of the appointed members are\npersons who are neither officers nor employees, nor members of the staff of an\nauthority or instrumentality, of the Commonwealth.\n  (7) Of the appointed members:\n  (a)  at least one shall be a person who has had at least 5 years' experience\nat a high level in industry, commerce, public administration or the service of\na government or an authority of a government;\n  (b)  at least one shall be a person who has had at least 5 years' experience\nin the trade union movement;\n  (c)  at least one shall be a person who has had extensive experience in\nelectronic data-processing;\n  (d)  at least one shall be appointed to represent general community\ninterests, including interests relating to social welfare; and\n  (e)  at least one shall be a person who has had extensive experience in the\npromotion of civil liberties.\n  (8) A person who has reached 65 years shall not be appointed as a member.\n  (9) A person shall not be appointed as a member for a period that extends\nbeyond the time at which the person will reach 65 years.\n  (10) An appointed member holds office on such terms and conditions (if any)\nin respect of matters not provided for by this Act as are determined, in\nwriting, by the Governor-General.\n  (11) The performance of a function of the Advisory Committee is not affected\nbecause of a vacancy or vacancies in the membership of the Advisory Committee.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:83",
+      "title": "Section 83 - Functions",
+      "main_structural_unit": "section",
+      "main_structural_number": "83",
+      "main_structural_heading": "Functions",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 83",
+      "text": "83. The functions of the Advisory Committee are:\n  (a)  on its own initiative, or when requested by the Commission, to advise\nthe Commissioner on matters relevant to his or her functions;\n  (b)  to recommend material to the Commissioner for inclusion in guidelines\nto be issued by the Commissioner pursuant to his or her functions; and\n  (c)  subject to any direction given by the Commissioner, to engage in and\npromote community education, and community consultation, in relation to the\nprotection of individual privacy.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:84",
+      "title": "Section 84 - Leave of absence",
+      "main_structural_unit": "section",
+      "main_structural_number": "84",
+      "main_structural_heading": "Leave of absence",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 84",
+      "text": "84. The convenor may, on such terms and conditions as the convenor thinks\nfit, grant to another member leave to be absent from a meeting of the Advisory\nCommittee.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:85",
+      "title": "Section 85 - Removal and resignation of members",
+      "main_structural_unit": "section",
+      "main_structural_number": "85",
+      "main_structural_heading": "Removal and resignation of members",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 85",
+      "text": "85. (1) The Governor-General may terminate the appointment of an appointed\nmember for misbehaviour or physical or mental incapacity.\n  (2) The Governor-General shall terminate the appointment of an appointed\nmember if the member:\n  (a)  becomes bankrupt, applies to take the benefit of any law for the relief\nof bankrupt or insolvent debtors, compounds with the member's creditors or\nmakes an assignment of the member's remuneration for their benefit;\n  (b)  fails, without reasonable excuse, to comply with the member's\nobligations under section 86; or\n  (c)  is absent, without the leave of the convenor, from 3 consecutive\nmeetings of the Advisory Committee.\n  (3) An appointed member may resign from office by delivering a signed notice\nof resignation to the Governor-General.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:86",
+      "title": "Section 86 - Disclosure of interests of members",
+      "main_structural_unit": "section",
+      "main_structural_number": "86",
+      "main_structural_heading": "Disclosure of interests of members",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 86",
+      "text": "86. (1) A member who has a direct or indirect pecuniary interest in a matter\nbeing considered or about to be considered by the Advisory Committee, being an\ninterest that could conflict with the proper performance of that member's\nfunctions in relation to the consideration of the matter, shall, as soon as\npracticable after the relevant facts have come to the knowledge of that\nmember, disclose the nature of that interest at a meeting of the Advisory\nCommittee.\n  (2) A disclosure under subsection (1) at a meeting of the Advisory Committee\nshall be recorded in the minutes of the meeting.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:87",
+      "title": "Section 87 - Meetings of Advisory Committee",
+      "main_structural_unit": "section",
+      "main_structural_number": "87",
+      "main_structural_heading": "Meetings of Advisory Committee",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 87",
+      "text": "87. (1) The convenor may convene such meetings of the Advisory Committee as\nthe convenor considers necessary for the performance of the Committee's\nfunctions.\n  (2) Meetings of the Advisory Committee shall be held at such places and at\nsuch times as the convenor determines.\n  (3) The convenor shall preside at all meetings of the Advisory Committee at\nwhich the convenor is present.\n  (4) If, at a meeting of the Advisory Committee, the convenor is not present,\nthe members who are present shall elect one of their number to preside at the\nmeeting.\n  (5) At a meeting of the Advisory Committee:\n  (a)  3 members constitute a quorum;\n  (b)  all questions shall be decided by a majority of votes of the members\npresent and voting; and\n  (c)  the person presiding has a deliberative vote and, in the event of an\nequality of votes, also has a casting vote.\n  (6) The Advisory Committee shall keep a record of its proceedings.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:88",
+      "title": "Section 88 - Travel allowance",
+      "main_structural_unit": "section",
+      "main_structural_number": "88",
+      "main_structural_heading": "Travel allowance",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 88",
+      "text": "88. An appointed member is entitled to be paid travelling allowance in\naccordance with the regulations.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:89",
+      "title": "Section 89 - Obligations of confidence to which Part applies",
+      "main_structural_unit": "section",
+      "main_structural_number": "89",
+      "main_structural_heading": "Obligations of confidence to which Part applies",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 89",
+      "text": "89. Unless the contrary intention appears, a reference in this Part to an\nobligation of confidence is a reference to an obligation of confidence:\n  (a)  to which an agency or a Commonwealth officer is subject, however the\nobligation arose; or\n  (b)  that arises under or by virtue of the law in force in the Australian\nCapital Territory.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:90",
+      "title": "Section 90 - Application of Part",
+      "main_structural_unit": "section",
+      "main_structural_number": "90",
+      "main_structural_heading": "Application of Part",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 90",
+      "text": "90. (1) This Part applies where a person (in this Part called a \"confidant\")\nis subject to an obligation of confidence to another person (in this Part\ncalled a \"confider\") in respect of personal information, whether the\ninformation relates to the confider or to a third person, being an obligation\nin respect of a breach of which relief may be obtained (whether in the\nexercise of a discretion or not) in legal proceedings.\n  (2) This Part does not apply where a criminal penalty only may be imposed in\nrespect of the breach.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:91",
+      "title": "Section 91 - Effect of Part on other laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "91",
+      "main_structural_heading": "Effect of Part on other laws",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 91",
+      "text": "91. This Part does not, except to the extent that it does so expressly or by\nnecessary implication, limit or restrict the operation of any other law or of\nany principle or rule of the common law or of equity, being a law, principle\nor rule:\n  (a)  under or by virtue of which an obligation of confidence exists; or\n  (b)  that has the effect of restricting or prohibiting, or imposing a\nliability (including a criminal liability) on a person in respect of, a\ndisclosure or use of information.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:92",
+      "title": "Section 92 - Extension of certain obligations of confidence",
+      "main_structural_unit": "section",
+      "main_structural_number": "92",
+      "main_structural_heading": "Extension of certain obligations of confidence",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 92",
+      "text": "92. Where a person has acquired personal information about another person\nand the first-mentioned person knows or ought reasonably to know that the\nperson from whom he or she acquired the information was subject to an\nobligation of confidence with respect to the information, the first-mentioned\nperson, whether he or she is in the Australian Capital Territory or not, is\nsubject to a like obligation.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:93",
+      "title": "Section 93 - Relief for breach etc. of certain obligations of confidence",
+      "main_structural_unit": "section",
+      "main_structural_number": "93",
+      "main_structural_heading": "Relief for breach etc. of certain obligations of confidence",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 93",
+      "text": "93. (1) A confider may recover damages from a confidant in respect of a\nbreach of an obligation of confidence with respect to personal information.\n  (2) Subsection (1) does not limit or restrict any other right that the\nconfider has to relief in respect of the breach.\n  (3) Where an obligation of confidence exists with respect to personal\ninformation about a person other than the confider, whether the obligation\narose under a contract or otherwise, the person to whom the information\nrelates has the same rights against the confidant in respect of a breach or\nthreatened breach of the obligation as the confider has.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:94",
+      "title": "Section 94 - Jurisdiction of courts",
+      "main_structural_unit": "section",
+      "main_structural_number": "94",
+      "main_structural_heading": "Jurisdiction of courts",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 94",
+      "text": "94. (1) The jurisdiction of the courts of the Australian Capital Territory\nextends to matters arising under this Part.\n  (2) Subsection (1) does not deprive a court of a State or of another\nTerritory of any jurisdiction that it has.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:95",
+      "title": "Section 95 - Medical research guidelines",
+      "main_structural_unit": "section",
+      "main_structural_number": "95",
+      "main_structural_heading": "Medical research guidelines",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 95",
+      "text": "95. (1) The National Health and Medical Research Council may, with the\napproval of the Commissioner, issue guidelines for the protection of privacy\nin the conduct of medical research.\n  (2) The Commissioner shall not approve the issue of guidelines unless he or\nshe is satisfied that the public interest in the promotion of research of the\nkind to which the guidelines relate outweighs to a substantial degree the\npublic interest in maintaining adherence to the Information Privacy\nPrinciples.\n  (3) Guidelines shall be issued by being published in the Gazette.\n  (4) Where:\n  (a)  but for this subsection, an act done by an agency would breach an\nInformation Privacy Principle; and\n  (b)  the act is done in the course of medical research and in accordance\nwith guidelines under subsection (1);\nthe act shall be regarded as not breaching that Information Privacy Principle.\n  (5) Where the Commissioner refuses to approve the issue of guidelines under\nsubsection (1), an application may be made to the Administrative Appeals\nTribunal for review of the Commissioner's decision.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:96",
+      "title": "Section 96 - Non-disclosure of private information",
+      "main_structural_unit": "section",
+      "main_structural_number": "96",
+      "main_structural_heading": "Non-disclosure of private information",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 96",
+      "text": "96. (1) A person who is, or has at any time been, the Commissioner or a\nmember of the staff referred to in section 43 of the Human Rights and Equal\nOpportunity Commission Act 1986 or is acting, or has at any time acted, on\nbehalf of the Commissioner shall not, either directly or indirectly, except in\nthe performance of a duty under or in connection with this Act or in the\ncourse of acting on behalf of the Commissioner:\n  (a)  make a record of, or divulge or communicate to any person, any\ninformation relating to the affairs of another person acquired by the\nfirst-mentioned person because of that person's office or employment under or\nfor the purposes of this Act or because of that person acting, or having\nacted, on behalf of the Commissioner;\n  (b)  make use of any such information; or\n  (c)  produce to any person a document relating to the affairs of another\nperson furnished for the purposes of this Act.\n  Penalty: $5,000 or imprisonment for 1 year, or both.\n  (2) A person who is, or has at any time been, the Commissioner, or a member\nof the staff referred to in section 43 of the Human Rights and Equal\nOpportunity Commission Act 1986 or is acting, or has at any time acted, on\nbehalf of the Commissioner shall not be required:\n  (a)  to divulge or communicate to a court any information relating to the\naffairs of another person acquired by the first-mentioned person because of\nthat person's office or employment under or for the purposes of this Act or\nbecause of that person acting, or having acted, on behalf of the Commissioner;\nor\n  (b)  to produce in a court a document relating to the affairs of another\nperson of which the first-mentioned person has custody, or to which that\nperson has access, because of that person's office or employment under or for\nthe purposes of this Act or because of that person acting, or having acted, on\nbehalf of the Commissioner;\nexcept where it is necessary to do so for the purposes of this Act.\n  (3) Nothing in this section prohibits a person from:\n  (a)  making a record of information that is, or is included in a class of\ninformation that is, required or permitted by an Act to be recorded, if the\nrecord is made for the purposes of or pursuant to that Act; or\n  (b)  divulging or communicating information, or producing a document, that\nis, or is included in a class of information that is or class of documents\nthat are, required or permitted by an Act to be divulged, communicated or\nproduced, as the case may be, if the information is divulged or communicated,\nor the document is produced, for the purposes of or under that Act.\n  (4) Nothing in subsection (2) prevents a person being required, for the\npurposes of or under an Act, to divulge or communicate information, or to\nproduce a document, that is, or is included in a class of information that is,\nor class of documents that are, required or permitted by that Act to be\ndivulged, communicated or produced.\n  (5) In this section:\n  \"court\" includes any tribunal, authority or person having power to require\nthe production of documents or the answering of questions;\n  \"produce\" includes permit access to.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:97",
+      "title": "Section 97 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "97",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 97",
+      "text": "97. (1) The Commissioner shall, as soon as practicable after 30 June in each\nyear, give to the Minister a report of the operation of this Act during that\nyear.\n  (2) Without limiting the generality of subsection (1), the report shall\ninclude a statement of the performance of the Commissioner's functions under\nparagraphs 27 (1) (n) and 28 (1) (a) and (f).\n  (3) The Minister shall cause a copy of the report to be laid before each\nHouse of the Parliament within 15 sitting days of that House after the day on\nwhich he or she receives the report.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:98",
+      "title": "Section 98 - Injunctions",
+      "main_structural_unit": "section",
+      "main_structural_number": "98",
+      "main_structural_heading": "Injunctions",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 98",
+      "text": "98. (1) Where a person has engaged, is engaging or is proposing to engage in\nany conduct that constituted or would constitute a contravention of this Act,\nthe Federal Court may, on the application of the Commissioner or any other\nperson, grant an injunction restraining the person from engaging in the\nconduct and, if in the court's opinion it is desirable to do so, requiring the\nperson to do any act or thing.\n  (2) Where:\n  (a)  a person has refused or failed, or is refusing or failing, or is\nproposing to refuse or fail, to do an act or thing; and\n  (b)  the refusal or failure was, is, or would be a contravention of this\nAct; the Federal Court may, on the application of the Commissioner or any\nother person, grant an injunction requiring the first-mentioned person to do\nthat act or thing.\n  (3) Where an application is made to the court for an injunction under this\nsection, the court may, if in the court's opinion it is desirable to do so,\nbefore considering the application, grant an interim injunction restraining a\nperson from engaging in conduct of the kind referred to in that subsection\npending the determination of the application.\n  (4) The court may discharge or vary an injunction granted under this\nsection.\n  (5) The power of the court to grant an injunction restraining a person from\nengaging in conduct of a particular kind may be exercised:\n  (a)  if the court is satisfied that the person has engaged in conduct of\nthat kind-whether or not it appears to the court that the person intends to\nengage again, or to continue to engage, in conduct of that kind; or\n  (b)  if it appears to the court that, in the event that an injunction is not\ngranted, it is likely that the person will engage in conduct of that\nkind-whether or not the person has previously engaged in conduct of that kind\nand whether or not there is an imminent danger of substantial damage to any\nperson if the first-mentioned person engages in conduct of that kind.\n  (6) The power of the court to grant an injunction requiring a person to do a\nparticular act or thing may be exercised:\n  (a)  if the court is satisfied that the person has refused or failed to do\nthat act or thing-whether or not it appears to the court that the person\nintends to refuse or fail again, or to continue to refuse or fail, to do that\nact or thing; or\n  (b)  if it appears to the court that, in the event that an injunction is not\ngranted, it is likely that the person will refuse or fail to do that act or\nthing-whether or not the person has previously refused or failed to do that\nact or thing and whether or not there is an imminent danger of substantial\ndamage to any person if the first-mentioned person refuses or fails to do that\nact or thing.\n  (7) Where the Commissioner makes an application to the court for the grant\nof an injunction under this section, the court shall not require the\nCommissioner or any other person, as a condition of the granting of an interim\ninjunction, to give any undertakings as to damages.\n  (8) The powers conferred on the court under this section are in addition to,\nand not in derogation of, any powers of the court, whether conferred by this\nAct or otherwise.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:99",
+      "title": "Section 99 - Delegation",
+      "main_structural_unit": "section",
+      "main_structural_number": "99",
+      "main_structural_heading": "Delegation",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 99",
+      "text": "99. The Commissioner may delegate to a member of the staff of the Human\nRights and Equal Opportunity Commission all or any of the powers conferred on\nthe Commissioner by this Act, other than a power conferred by section 52 or a\npower in connection with the performance of the function of the Commissioner\nset out in paragraph 28 (1) (a).\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:100",
+      "title": "Section 100 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "100",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 100",
+      "text": "100. The Governor-General may make regulations, not inconsistent with this\nAct, prescribing matters:\n  (a)  required or permitted by this Act to be prescribed; or\n  (b)  necessary or convenient to be prescribed for carrying out or giving\neffect to this Act.\nPRIVACY ACT 1988 No. 119, 1988"
+    },
+    {
+      "key": "section:101.p1",
+      "title": "Section 101 - Amendments of other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "101",
+      "main_structural_heading": "Amendments of other Acts",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 101",
+      "text": "101. (1) The Acts specified in Schedule 1 are amended as set out in Schedule 1. (2) Section 27A of the Freedom of Information Act 1982 as amended by this Act applies in relation to: (a) a request that is received after the commencement of this Act; and (b) a request that was received before that commencement if a decision to grant access under the Freedom of Information Act 1982 to the document to which the request related had not been made before that commencement by the officer or Minister dealing with the request or a person reviewing, under section 54 of that Act, a decision refusing to grant that access. PRIVACY ACT 1988 No. 119, 1988 - SCHEDULE 1 SCHEDULE 1 Section 101 AMENDMENTS OF OTHER ACTS Freedom of Information Act 1982 Subsection 19 (4): Omit \"or 27\", substitute \", 27 or 27A\". After section 27: Insert the following section: Procedure on request in respect of document relating to personal affairs \"27A. (1) Where: (a) a request has been received by an agency or Minister in respect of a document containing information relating to the personal affairs of a person (including a deceased person); and (b) it appears to the officer or Minister dealing with the request, or to a person reviewing under section 54 a decision refusing the request, that the person referred to in paragraph (a), or, if that person is deceased, the legal personal representative of that person, might reasonably wish to contend that the document, so far as it contains that information, is an exempt document under section 41; a decision to grant access under this Act to the document, so far as it contains that information, shall not be made unless, where it is reasonably practicable to do so having regard to all the circumstances, including the application of Section 19: (c) the agency or Minister has given to that person or to the legal personal representative of that person, as the case may be, a reasonable opportunity of making submissions in support of a contention that the document, so far as it contains that information, is an exempt document under section 41; and (d) the person making the decision has had regard to any submissions so made. \"(2) Where, after any submissions have been made in accordance with subsection (1), a decision is made that the document, so far as it contains the information referred to in paragraph (1) (a), is not an exempt document under Section 41: (a) the agency or Minister shall cause notice in writing of the decision to be given to the person who made the submissions, as well as to the person who made the request; and (b) access shall not be given to the document, so far as it contains the information referred to in paragraph (1) (a), unless: (i) the time for an application to the Tribunal in accordance with section 59A by the person who made the submissions has expired and such an application has not been made; or (ii) such an application has been made and the Tribunal has confirmed the decision.\". Section 38: Add at the end the following subsection: \"(2) Where a person requests access to a document, this section does not apply in relation to the document so far as it contains information relating to the person's personal affairs.\". Section 48: (a) Omit \"section\", substitute \"Part\". (b) Omit \"provided to the claimant under this Act\", substitute \"lawfully provided to the claimant, whether under this Act or otherwise,\". After section 59: Insert the following section: Review of certain decisions in respect of documents relating to personal affairs \"59A. (1) Where notice of a decision that a document, so far as it contains certain information, is not an exempt document under section 41 has been given, in accordance with subsection 27A (2), to a person who made submissions in accordance with that section, that person may apply to the Tribunal for a review of that decision. \"(2) Where an application is made in accordance with subsection (1): (a) the provisions of this Part (other than sections 55 and 61) apply in like manner as they apply in relation to an application for review of a decision refusing to grant access to a document; and (b) the agency or Minister concerned shall forthwith inform the person who made the request of the application. \"(3) Where: (a) upon a request referred to in subsection 27A (1), a decision is made, after the making of submissions by a person in accordance with that subsection, not to grant access to the document to which the"
+    },
+    {
+      "key": "section:101.p2",
+      "title": "Section 101 - Amendments of other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "101",
+      "main_structural_heading": "Amendments of other Acts",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 101",
+      "text": "subsection (1): (a) the provisions of this Part (other than sections 55 and 61) apply in like manner as they apply in relation to an application for review of a decision refusing to grant access to a document; and (b) the agency or Minister concerned shall forthwith inform the person who made the request of the application. \"(3) Where: (a) upon a request referred to in subsection 27A (1), a decision is made, after the making of submissions by a person in accordance with that subsection, not to grant access to the document to which the request relates, so far as it contains the information referred to in paragraph 27A (1) (a); and (b) an application is made to the Tribunal for a review of the decision; the agency or Minister concerned shall forthwith inform the person who made the submissions of the application.\". Human Rights and Equal Opportunity Commission Act 1986 Subsection 3 (1): Insert the following definition: \" 'Privacy Commissioner' means the Privacy Commissioner appointed under the Privacy Act 1988;\". Paragraph 8 (1) (c): Omit \"and\". Paragraph 8 (1) (d): Omit the paragraph, substitute the following paragraphs: \"(d) the Sex Discrimination Commissioner; and (e) the Privacy Commissioner.\". Subsection 8 (7): Omit \"or Sex Discrimination Commissioner\", substitute \", Sex Discrimination Commissioner or Privacy Commissioner\". Subsection 20 (4): After \"shall\" insert \", unless the complaint has been transferred under subsection (4A),\". After subsection 20 (4): Insert the following subsections: \"(4A) Where: (a) a complaint has been made to the Commission in relation to an act or practice; and (b) because the Commission is of the opinion that the subject-matter of the complaint could be more effectively or conveniently dealt with by the Privacy Commissioner in the performance of the functions referred to in paragraph 27 (1) (a) or 28 (1) (b) or (c) of the Privacy Act 1988, the Commission decides not to inquire, or not to continue to inquire, into that act or practice; the Commission shall: (c) transfer the complaint to the Privacy Commissioner; (d) forthwith give notice in writing to the complainant stating that the complaint has been so transferred; and (e) give to the Privacy Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Commission. \"(4B) A complaint transferred under subsection (4A) shall be taken to be a complaint made to the Privacy Commissioner under Part V of the Privacy Act 1988.\". After subsection 49 (4): Insert the following subsection: \"(4A) Subsection (1) does not prevent the Commission, or a person acting on behalf of the Commission, from giving information or documents in accordance with paragraph 20 (4A) (e).\". Merit Protection (Australian Government Employees) Act 1984 After subsection 49 (1): Insert the following subsections: \"(1A) Where: (a) an application has been made to the Agency with respect to particular action; and (b) because the Agency is of the opinion that it is more appropriate that the action be dealt with by the Privacy Commissioner in the performance of the functions referred to in paragraph 27 (1) (a) or 28 (1) (b) or (c) of the Privacy Act 1988, the Agency decides, under subparagraph (1) (b) (ii) of this section, not to investigate the action, or not to investigate the action further; the Agency shall: (c) transfer the application to the Privacy Commissioner; (d) forthwith give notice in writing to the applicant stating that the application has been so transferred; and (e) give to the Privacy Commissioner any information or documents that relate to the application and are in the possession, or under the control, of the Agency. \"(1B) An application transferred under subsection (1A) shall be deemed to be a complaint made in writing to the Privacy Commissioner under Part V of the Privacy Act 1988. \"(1C) In subsections (1A) and (1B), 'Privacy Commissioner' means the Privacy Commissioner within the meaning of the Privacy Act 1988.\". Paragraph 49 (3) (a): After \"further\" insert \", and subsection (1A) does not require the Agency to transfer the application\". After subsection 84 (4): Insert the following subsection: \"(4A) Subsection (2) does not prevent the Agency, or an officer acting on behalf of the Agency, from giving information or documents under paragraph 49 (1A) (e).\". Ombudsman Act 1976 After subsection 6 (4): Insert the following subsections: \"(4A) Where, before the Ombudsman commences, or after the Ombudsman has commenced, to investigate action taken by a Department or by a prescribed authority, being action that is the subject matter of a complaint, the Ombudsman becomes of the opinion that: (a) a complaint with respect to the action has"
+    },
+    {
+      "key": "section:101.p3",
+      "title": "Section 101 - Amendments of other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "101",
+      "main_structural_heading": "Amendments of other Acts",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 101",
+      "text": "After subsection 84 (4): Insert the following subsection: \"(4A) Subsection (2) does not prevent the Agency, or an officer acting on behalf of the Agency, from giving information or documents under paragraph 49 (1A) (e).\". Ombudsman Act 1976 After subsection 6 (4): Insert the following subsections: \"(4A) Where, before the Ombudsman commences, or after the Ombudsman has commenced, to investigate action taken by a Department or by a prescribed authority, being action that is the subject matter of a complaint, the Ombudsman becomes of the opinion that: (a) a complaint with respect to the action has been, or could have been, made by the complainant to the Privacy Commissioner under Part V of the Privacy Act 1988; and (b) the action could be more conveniently or effectively dealt with by the Privacy Commissioner; the Ombudsman may decide not to investigate the action, or not to investigate the action further, as the case may be, and, if the Ombudsman so decides, the Ombudsman shall: (c) transfer the complaint to the Privacy Commissioner; (d) forthwith give notice in writing to the complainant stating that the complaint has been so transferred; and (e) give to the Privacy Commissioner any information or documents that relate to the complaint and are in the possession, or under the control, of the Ombudsman. \"(4B) A complaint transferred under subsection (4A) shall be deemed to be a complaint made to the Privacy Commissioner under Part V of the Privacy Act 1988. \"(4C) In subsections (4A) and (4B), 'Privacy Commissioner' means the Privacy Commissioner within the meaning of the Privacy Act 1988.\". After subsection 35 (6): Insert the following subsection: \"(6A) Subsection (2) does not prevent the Ombudsman, or an officer acting on behalf of the Ombudsman, from giving information or documents under paragraph 6 (4A) (e).\". PRIVACY ACT 1988 No. 119, 1988 - SCHEDULE 2 SCHEDULE 2 Section 17 INTERIM GUIDELINES CONCERNING THE COLLECTION, STORAGE, USE AND SECURITY OF TAX FILE NUMBER INFORMATION INTRODUCTION A breach of these guidelines amounts to an interference with the privacy of an individual giving rise to a right to complain to the Privacy Commissioner and a right to seek compensation. Section 1. GENERAL Section 1.1 The tax file number is not to be used as a national identification system by whatever means. Section 1.2 Tax file number recipients shall not collect, record, use or disclose tax file number information in an unauthorised manner and, in particular, shall not act in an unauthorised manner to use tax file number information as a means of matching personal information about a person. Section 1.3 The Commissioner of Taxation shall publicise in a generally available publication information relating to: (a) the persons or bodies who are authorised by law to require or request another person to quote that person's tax file number; (b) the specific purposes for which such a requirement or request may be made; (c) the prohibitions on the use and disclosure of tax file number information; and (d) the penalties that apply to unauthorised acts and practices in relation to tax file number information; together with information as to where detailed particulars relating to these matters can be obtained. Section 2. COLLECTION OF TAX FILE NUMBER INFORMATION Section 2.1 Tax file number recipients shall take all reasonable steps in the circumstances to ensure that staff whose duties include collecting tax file number information are informed of: (a) the circumstances in which tax file number information may be collected; (b) the need to protect the privacy of the person to whom that information relates; and (c) the penalties that apply to unauthorised acts and practices in relation to tax file number information. Section 2.2 Tax file number recipients collecting tax file number information shall take all reasonable steps in the circumstances to ensure that the manner of collection takes account of the rights of persons to control the accumulation and dissemination of information relating to themselves. Section 3. STORAGE AND SECURITY OF TAX FILE NUMBER INFORMATION Section 3.1 Tax file number recipients shall take all reasonable steps in the circumstances to: (a) introduce information handling procedures to protect the privacy of individuals in relation to their tax file number information; (b) make staff aware of the rights of individuals to privacy in relation to their tax file number information; and (c) make staff aware of the penalties relating to unauthorised acts and practices in relation to such information. Section 3.2 Tax file number recipients holding tax file number information shall take all reasonable steps in the circumstances to ensure that security safeguards and procedures are in place to prevent unauthorised access to,"
+    },
+    {
+      "key": "section:101.p4",
+      "title": "Section 101 - Amendments of other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "101",
+      "main_structural_heading": "Amendments of other Acts",
+      "defined_term": null,
+      "structure_path": "Privacy Act 1988 > Section 101",
+      "text": "steps in the circumstances to: (a) introduce information handling procedures to protect the privacy of individuals in relation to their tax file number information; (b) make staff aware of the rights of individuals to privacy in relation to their tax file number information; and (c) make staff aware of the penalties relating to unauthorised acts and practices in relation to such information. Section 3.2 Tax file number recipients holding tax file number information shall take all reasonable steps in the circumstances to ensure that security safeguards and procedures are in place to prevent unauthorised access to, modification or disclosure of, and loss of, such information, whether that information is stored in physical or electronic form. Section 3.3 Tax file number recipients shall take all reasonable steps in the circumstances to ensure that access to records which contain tax file number information for authorised purposes is confined to persons who have a need for access to such information for the purpose of carrying out tax-related functions of the tax file number recipient. Section 4. USE AND DISCLOSURE OF TAX FILE NUMBER INFORMATION Section 4.1 Tax file number recipients shall take all reasonable steps in the circumstances to ensure that staff with access to tax file number information are informed of the prohibitions on the use and disclosure of such information and of the penalties that apply to breach of those prohibitions. Section 4.2 Tax file number recipients shall not use tax file number information for other than authorised purposes. Section 4.3 Without limiting the application of 4.2 to any other circumstances: (a) an employer or investment body shall not use a tax file number for the purposes of building up a database on individuals for its own purposes; (b) an employer or investment body shall not cross-match tax file number information with other information held about a person to carry out activities which do not relate to obligations under a taxation law; and (c) Government agencies, including the Commissioner of Taxation, shall not directly or indirectly disclose tax file number information or use tax file number information to cross-match information about a person, except in authorised circumstances, for example, disclosure to an agency or person in specified cases expressly approved by the Parliament under sections 16 and 16A of the Income Tax Assessment Act 1936 or otherwise. Section 5. PUBLICITY Section 5.1 Publication by the Commissioner of Taxation pursuant to guideline 1.3 shall be made prior to any obligation to quote a tax file number arising as a result of the Taxation Laws Amendment (Tax File Numbers) Act 1988. Section 6. CESSATION OF EMPLOYMENT AND INVESTMENT Section 6.1 Tax file number recipients shall destroy tax file number information held by them as employers or as investment bodies in relation to their former employees/investors in accordance with guidelines issued by the Privacy Commissioner. Section 7. MEANING OF TERMS IN INTERIM GUIDELINES Section 7.1 \"Tax file number recipient\" means file number recipient. Section 7.2 \"Investment body\" means a person who is an investment body for the purposes of Part VA of the Income Tax Assessment Act 1936. Section 7.3 \"Employer\" means an employer to whom a person may quote a tax file number in relation to their employment."
+    }
+  ]
+}

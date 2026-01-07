@@ -1,0 +1,393 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/dpata1990349/",
+    "register_url": "https://www.legislation.gov.au/C2004A04095/latest/text",
+    "source": "Data-Matching Program (Assistance and Tax) Act 1990 (100000040).txt",
+    "filename": "Data-Matching Program (Assistance and Tax) Act 1990 (100000040).json",
+    "name": "Data-Matching Program (Assistance and Tax) Act 1990",
+    "citation": "Data-Matching Program (Assistance and Tax) Act 1990"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 1",
+      "text": "(Assented to 23 January 1991)\n  1. This Act may be cited as the Data-matching Program (Assistance and Tax)\nAct 1990.\n(Minister's second reading speech made in-\n          Senate on 6 December 1990\n          House of Representatives on 20 December 1990)\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 2",
+      "text": "2. This Act commences on the day on which it receives the Royal Assent.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:3.term:agency",
+      "title": "Section 3 Definitions \"agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"agency\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"agency\" means:\n  (a)  the matching agency; or\n  (b)  a source agency;"
+    },
+    {
+      "key": "section:3.term:assistance-agency",
+      "title": "Section 3 Definitions \"assistance agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"assistance agency\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"assistance agency\" means:\n  (a)  the Department of Community Services and Health; or\n  (b)  the Department of Employment, Education and Training; or\n  (c)  the Department of Social Security; or\n  (d)  the Department of Veterans' Affairs;"
+    },
+    {
+      "key": "section:3.term:assisted-person",
+      "title": "Section 3 Definitions \"assisted person\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"assisted person\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"assisted person\" means a person:\n  (a)  to whom personal assistance is being, or has been, given; or\n  (b)  who is claiming personal assistance;\n  \"basic data\", in relation to a person, means:\n  (a)  the person's family identity data; or\n  (b)  the person's income data; or\n  (c)  the person's TFN data;\n  \"child\", in relation to a person, includes anyone who is the person's child\nfor the purposes of any personal assistance or any tax law;"
+    },
+    {
+      "key": "section:3.term:data-matching-cycle",
+      "title": "Section 3 Definitions \"data-matching cycle\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"data-matching cycle\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"data-matching cycle\" means a cycle the steps in which are set out in\nSection 7; \"data-matching program\" means the program referred to in section 6; \"declared income\", in relation to a person, means any income, or income of a particular kind, of the person for the purposes of any personal assistance or\ntax law;\n  \"family identity data\", in relation to a person, means any of the following\ndata about the person:\n  (a)  surname;\n  (b)  any other name;\n  (c)  initial of any other name;\n  (d)  any former surname;\n  (e)  any other former name;\n  (f)  the initial of any other former name;\n  (g)  where the person is alive, current residential address or addresses and\nany other current address or addresses;\n  (h)  an identification number for the purpose of personal assistance;\n  (j)  sex;\n  (k)  marital status;\n  (m)  date of birth;\n  (n)  where the person is dead, date of death;\n  (p)  surname, any other name, initial of any other name and address or\naddresses of any living spouse of the person;\n  (q)  surname, any other name, initial of any other name, date of birth and\ndate of death of any deceased spouse of the person;\n  (r)  surname, any other name, initial of any other name, sex and date of\nbirth of any living child of the person;\n  (s)  surname, any other name, initial of any other name, sex, date of birth\nand date of death of any deceased child of the person;\n  (t)  surname, any other name, initial of any other name and address or\naddresses of any living parent of the person;\n  (u)  surname, any other name, initial of any other name, last address and\ndate of death of any deceased parent of the person;\n  (w)  kind of personal assistance of the person;\n  \"income data\", in relation to a person, means:\n  (a)  declared income of the person; or\n  (b)  declared income of a spouse of the person; or\n  (c)  declared income of a parent of the person; or\n  (d)  personal assistance of the person; or\n  (e)  spouse rebate of the person;"
+    },
+    {
+      "key": "section:3.term:matching-agency",
+      "title": "Section 3 Definitions \"matching agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"matching agency\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"matching agency\" means the officers of the Department of Social Security\nwho are referred to in section 4;\n  \"officer\", in relation to a source agency, means a person with duties,\npowers or functions in relation to an Act matters under which are dealt with\nby the agency;\n  \"parent\", in relation to a person, includes anyone who is the person's\nparent for the purposes of any personal assistance or any tax law;"
+    },
+    {
+      "key": "section:3.term:person",
+      "title": "Section 3 Definitions \"person\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"person\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"person\" means an individual whether alive or dead;"
+    },
+    {
+      "key": "section:3.term:personal-assistance",
+      "title": "Section 3 Definitions \"personal assistance\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"personal assistance\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"personal assistance\" means:\n  (a)  assistance under the First Home Owners Act 1983; or\n  (b)  any assistance dealt with by the Department of Employment, Education\nand Training and known as any of the following:\n  (i)  assistance under the AUSTUDY Scheme;\n  (ii)  assistance under the ABSTUDY Scheme;\n  (iii)  assistance under the Assistance for Isolated Children Scheme;\n  (iv)  assistance under the Aboriginal Overseas Study Assistance Scheme;\n  (v)  assistance under the Scheme providing living allowances for English as\na Second Language; or\n  (c)  any pension, allowance or benefit dealt with by the Department of\nSocial Security and known as any of the following:\n  (i)  age pension;\n  (ii)  invalid pension;\n  (iii)  wife's pension;\n  (iv)  carer's pension;\n  (v)  sole parent's pension;\n  (vi)  widowed person's allowance;\n  (vii)  widow's pension class B;\n  (viii)  sheltered employment allowance;\n  (ix)  rehabilitation allowance;\n  (x)  unemployment benefit;\n  (xi)  job search allowance;\n  (xii)  sickness benefit;\n  (xiii)  special benefit;\n  (xiv)  family allowance;\n  (xv)  family allowance supplement;\n  (xvi)  child disability allowance;\n  (xvii)  double orphan's pension;\n  (xviii)  mobility allowance;\n  (xix)  remote area allowance;\n  (xx)  rent assistance;\n  (xxi)  incentive allowance;\n  (xxii)  pharmaceutical allowance;\n  (xxiii)  pharmaceutical supplement;\n  (xxiv)  advance pharmaceutical supplement;\n  (xxv)  disaster relief payment;\n  (xxvi)  formal training allowance; or\n  (d)  any pension, allowance or other benefit or assistance given under the\nVeterans' Entitlements Act 1986 or the Seamen's War Pensions and Allowances\nAct 1940;\nand, in relation to a person, means personal assistance given to, or claimed\nby, the person;\n  \"personal identity data\", in relation to a person, means any of the\nfollowing data about the person:\n  (a)  surname;\n  (b)  first other name;\n  (c)  initial of second other name (if any);\n  (d)  current residential address;\n  (e)  sex;\n  (f)  date of birth;\n  (g)  in the case of identity data held by the Australian Electoral Office -\nthe date on which the person's name was placed on a Roll of electors;\n  (h)  in the case of data held by the Health Insurance Commission:\n  (i)  the date on which the person was last enrolled with the Commission;\n  (ii)  the date (if any) on which the person last ceased to be so enrolled;\n  (iii)  whether or not the person's Medicare card has been lost, revoked or\notherwise removed from circulation;"
+    },
+    {
+      "key": "section:3.term:source-agency",
+      "title": "Section 3 Definitions \"source agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"source agency\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"source agency\" means:\n  (a)  an assistance agency; or\n  (b)  the tax agency;\n  \"spouse\", in relation to a person, includes anyone who is a spouse of the\nperson for the purposes of any personal assistance or tax law, and marital\nstatus has a corresponding meaning;\n  \"spouse rebate\", in relation to a person, means the dependent spouse rebate\nof the person within the meaning of the Tax Act;"
+    },
+    {
+      "key": "section:3.term:tax-act",
+      "title": "Section 3 Definitions \"Tax Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Tax Act\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"Tax Act\" means the Income Tax Assessment Act 1936;"
+    },
+    {
+      "key": "section:3.term:tax-agency",
+      "title": "Section 3 Definitions \"tax agency\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax agency\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax agency\" means the Commissioner of Taxation;"
+    },
+    {
+      "key": "section:3.term:tax-data",
+      "title": "Section 3 Definitions \"tax data\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax data\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax data\" means:\n  (a)  tax family identity data; or\n  (b)  tax income data; or\n  (c)  tax TFN data;"
+    },
+    {
+      "key": "section:3.term:tax-family-identity-data",
+      "title": "Section 3 Definitions \"tax family identity data\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax family identity data\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax family identity data\" means the family identity data of persons that is\nheld by the tax agency for the purposes of a tax law;"
+    },
+    {
+      "key": "section:3.term:tax-file-number",
+      "title": "Section 3 Definitions \"tax file number\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax file number\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax file number\" has the same meaning as in Part VA of the Tax Act;"
+    },
+    {
+      "key": "section:3.term:tax-income-data",
+      "title": "Section 3 Definitions \"tax income data\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax income data\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax income data\" means the income data of persons that is held by the tax\nagency for the purposes of a tax law;"
+    },
+    {
+      "key": "section:3.term:tax-law",
+      "title": "Section 3 Definitions \"tax law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax law\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax law\" means any law of the Commonwealth relating to taxation;"
+    },
+    {
+      "key": "section:3.term:tax-tfn-data",
+      "title": "Section 3 Definitions \"tax TFN data\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"tax TFN data\"",
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 3",
+      "text": "\"tax TFN data\" means the TFN data of persons that is held by the tax agency\nfor the purposes of a tax law;\n  \"TFN data\", in relation to a person, means:\n  (a)  the person's tax file number; or\n  (b)  the tax file number of any spouse of the person; or\n  (c)  the tax file number of any parent of the person.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Matching agency",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Matching agency",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 4",
+      "text": "4. The Secretary to the Department of Social Security is to ensure that\nthere are officers of that Department who are responsible for the matching of\ndata under this Act.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Effect of other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Effect of other Acts",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 5",
+      "text": "5. (1) This Act does not limit the application of other laws of the\nCommonwealth except to the extent (if any) that they are inconsistent with\nthis Act.\n  (2) Guidelines in force under section 17 of the Privacy Act 1988, in\nrelation to TFN data or tax-file number information are not breached where an\nagency has complied with the provisions of this Act.\n  (3) Any oath or declaration made by an officer of a source agency in\nrelation to the recording or disclosure of information is not broken by the\nofficer doing anything for the purposes of, and in the course of, carrying out\nfunctions or duties under this Act.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Matching of data",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Matching of data",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 6",
+      "text": "6. (1) Subject to subsections (2) and (3):\n  (a)  data about persons may be transferred between agencies; and\n  (b)  data about persons may be matched or otherwise dealt with by the\nmatching agency or the tax agency; and\n  (c)  the results of the matching may be given to source agencies; in\naccordance with the data-matching program made up of data-matching cycles the\nsteps in which are set out in section 7.\n  (2) There are to be no more than 9 data-matching cycles in any one year.\n  (3) Only one data-matching cycle is to be in progress at any one time.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Steps in data-matching cycle",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Steps in data-matching cycle",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 7",
+      "text": "7. The steps in a data-matching cycle are as follows:\n                                STEP 1\n  1. The assistance agencies give the matching agency the basic data about\npersons that is held by those agencies for the purposes of personal\nassistance.\n  2. The matching agency checks the validity of the TFN data given under\nparagraph 1 by using any algorithm given to it for the purposes of this Act by\nthe tax agency.\n  3. Where the check identifies TFN data that is invalid, the matching agency\nchecks that data using any personal identity data given to it for the purposes\nof this Act by the Australian Electoral Office or the Health Insurance\nCommission, not being data relating to a person's use of Medicare or the\nPharmaceutical Benefits Scheme.\n  4. Where either of the checks identifies TFN data that appears to be\nincorrect, the matching agency gives particulars of the data to the source\nagency that gave it.\n                               STEP 2\n  5. The matching agency extracts from data given to it in Step 1 the TFN\ndata, and any identification numbers for the purposes of personal assistance,\nof assisted persons.\n  6. The matching agency gives the tax agency the data extracted under\nparagraph 5.\n                               STEP 3\n  7. The tax agency uses tax data and data given to it under Step 2 to find\nout the following available and current data in respect of each person who has\na tax file number:\n  (a)  tax file number;\n  (b)  personal identity data;\n  (c)  declared income;\n  (d)  spouse rebate.\n  8. The tax agency gives the matching agency the data found out under\nparagraph 7 and any identification numbers for the purposes of personal\nassistance of the person.\n                                STEP 4\n  9. The matching agency carries out identity matching by matching the\npersonal identity data given under paragraph 8 with the family identity data\ngiven to it.\n  10. Where the matching shows a discrepancy in the family identity data or\npersonal identity data of a person, the matching agency matches that data with\nthe personal identity data referred to in paragraph 3.\n  11. Where, after matching under paragraph 10, there is an unresolved\ndiscrepancy in data given to the matching agency by a source agency, the\nmatching agency gives the source agency particulars of the discrepancy.\n                            STEP 5\n  12. The matching agency carries out payment matching by matching family\nidentity data given by assistance agencies in Step 1 to find out if personal\nassistance is being, or has been, given to, or is being claimed by, persons\nwho might not be entitled to it.\n  13. Where the matching of family identity data given by assistance agencies\nin Step 1 cannot identify a person for the purposes of paragraph 12, the\nmatching agency matches TFN data given to it inStep 1 with the data being\nmatched under that paragraph.\n  14. The matching agency carries out income matching of persons by using any\nidentification number for the purposes of personal assistance of a person to\nmatch:\n  (a)  income data of the person given to it by assistance agencies (other\nthan the Department of Community Services and Health); and\n  (b)  except where the matching agency has, under paragraph 11, given\nparticulars of a discrepancy in data about the person to a source agency, the\ntax income data of the person given to the matching agency in earlier steps;\nto find out if there are any inconsistencies in the income data of the person.\n                              STEP 6\n  15. The matching agency gives to each source agency the results of matching\nunder earlier steps that are of concern to that other agency and have not been\ngiven to the other agency in an earlier step, being results that indicate:\n  (a)  in the case of an assistance agency - that personal assistance is\nbeing, or has been, given to, or is being claimed by, persons who might not be\nentitled to it; or\n  (b)  in the case of the tax agency - that a person might be evading, or\nmight have evaded, tax.\n  16. Information exchanged in paragraph 15 must not include the return of TFN\ndata from the matching agency to an assistance agency.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Data not to be sent on-line",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Data not to be sent on-line",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 8",
+      "text": "8. Data is not to be transferred between agencies in the data matching\nprogram by on-line computer connections.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Length of data-matching cycle",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Length of data-matching cycle",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 9",
+      "text": "9. (1) A data-matching cycle is to be completed no later than 2 months after\nit began.\n  (2) Step 5 in a data-matching cycle is to be completed no later than:\n  (a)  subject to paragraph (b), 24 hours after it began; or\n  (b)  where the cycle is interrupted by a computer malfunction or industrial\naction - a period after it began equal to 24 hours and the period or periods\nof interruption.\n  (3) Step 6 in a data-matching cycle is to be completed within7 days after\nthe completion of Step 5.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Source agencies may use results of data program",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Source agencies may use results of data program",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 10",
+      "text": "10. (1) Subject to subsection (2) and section 11, a source agency may take\naction on the basis of information received by it under Step 1, 4 or 6 of a\ndata-matching cycle to:\n  (a)  in the case of a source agency:\n  (i)  cancel or suspend personal assistance being given to a person; or\n  (ii)  reject a claim for personal assistance; or\n  (iii)  change the rate or amount of personal assistance being given to, or\nclaimed by, a person; or\n  (iv)  recover an overpayment of personal assistance; or\n  (b)  in the case of the tax agency - issue an assessment or an amended\nassessment of tax; or\n  (c)  investigate the possible commission of an offence.\n  (2) Where a source agency receives particular information under Step 1, 4 or\nSection 6 of a data-matching cycle, the agency must destroy that particular\ninformation within 90 days of its receipt unless, within those days, the\nagency has considered that particular information and made a decision to take,\nor to carry out an investigation of the need to take, action allowed by\nsubsection (1) on the basis of that particular information.\n  (3) (a) Any action commenced in accordance with subsection (1) must be\ncommenced within 12 months from the date that the information was received\nfrom the matching agency;\n  (b)  an agency may from time to time apply to the Secretary of its\nDepartment or the Commissioner of Taxation (as the case may be) who shall be\nempowered to grant an extension of time for up to 12 months on such terms or\nconditions as the Secretary or the Commissioner of Taxation thinks fit;\n  (c)  notwithstanding any other law or provision to the contrary, the power\nreferred in paragraph (b) shall not be capable of delegation.\n  (4) After the completion of action taken in accordance with subsection (1),\na source agency must not retain any information obtained in the course of such\naction in a separate permanent register of individuals.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Notice of proposed action",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Notice of proposed action",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 11",
+      "text": "11. (1) Subject to subsection (4), where, solely or partly because of\ninformation given in Step 6 of a data-matching cycle, an assistance agency\nconsiders taking action:\n  (a)  to cancel or suspend any personal assistance to; or\n  (b)  to reject a claim for personal assistance to; or\n  (c)  to reduce the rate or amount of personal assistance to; or\n  (d)  to recover an overpayment of personal assistance made to;\na person, the agency:\n  (e)  must not take that action unless it had given the person written\nnotice:\n  (i)  giving particulars of the information and the proposed action; and\n  (ii)  stating that the person has 21 days from the receipt of the notice in\nwhich to show cause in writing why the action should  not be taken; and\n  (f)  must not take that action until the expiration of those 21 days.\n  (2) Subject to subsection (5), where, solely or partly because of\ninformation given in Step 6 of a data-matching cycle, the tax agency considers\ntaking action to issue an assessment or an amended assessment of tax to a\nperson, the agency:\n  (a)  must not take that action unless it has given the person written\nnotice:\n  (i)  giving particulars of the information and the proposed action; and\n  (ii)  stating that the person has 21 days from the receipt of the notice in\nwhich to show cause in writing why the action should not be taken; and\n  (b)  must not take that action until the end of those 21 days.\n  (3) Notice under subsection (1) or (2) is to be given by post addressed to\nthe person at the most recent address of the person known to the agency.\n  (4) The assistance agency may take action described in subsection (1)\nwithout complying with paragraphs (1) (e) and (f) if compliance would\nprejudice the effectiveness of an investigation into the possible commission\nof an offence.\n  (5) The tax agency may take action described in subsection (2) without\ncomplying with paragraphs (2) (a) and (b) if compliance would prejudice  the\neffectiveness of an investigation into the possible commission of an offence.\n  (6) Where:\n  (a)  an assistance agency gives a person notice under subsection (1) of\nproposed action to cancel or suspend, or reduce the rate or amount, of any\npersonal assistance; and\n  (b)  the person does not show cause why the action should not be taken;\nany personal assistance of that kind given, or any personal assistance of that\nkind given above the reduced rate or amount, as the case may be, to the person\nduring the period specified in subparagraph (1) (e) (ii) is a debt due to the\nCommonwealth.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Guidelines relating to privacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Guidelines relating to privacy",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 12",
+      "text": "12. (1) The matching agency and the source agencies are to comply with the\ninterim guidelines set out in the Schedule until guidelines under subsection\n(2) come into force and, when those guidelines come into force, those agencies\nare to comply with those guidelines.\n  (2) The Privacy Commissioner must, by notice in writing, issue guidelines\nrelating to the matching of data under this Act on or before 30 September 1991\nand thereafter may, from time to time, issue further guidelines to replace any\nexisting guidelines.\n  (3) The Privacy Commissioner must report to the Parliament any failure to\nissue guidelines in accordance with subsection (2) within 15 sitting days of\nSection 30 September 1991.\n  (4) Guidelines under subsection (2) are disallowable instruments for the\npurposes of section 46A of the Acts Interpretation Act 1901.\n  (5) Section 46A of the Acts Interpretation Act 1901 applies to guidelines\nissued under subsection (2) as if the following paragraph were inserted after\nparagraph (1) (a) of that section:\n  \"(aa)  section 48 applies as if paragraph 48 (1) (b) were omitted and the\nfollowing paragraph substituted:\n      (b)  shall, subject to this section, take effect from:\n          (i)  the first day on which the guidelines are no longer\nliable to be disallowed; or\n         (ii)  if the guidelines make provision for their\ncommencement after that day - in accordance with that provision.\".\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Investigations of breaches of privacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Investigations of breaches of privacy",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 13",
+      "text": "13. (1) In this section:\n  \"Commissioner\" means the Privacy Commissioner.\n  (2) The Commissioner may investigate any act or practice which might be a\nbreach of this Act or the guidelines in the Schedule.\n  (3) Where the Commissioner finds that an investigated act or investigated\npractice of the matching agency or a source agency was in breach of this Act\nor the guidelines, the Commissioner and the agency must endeavour to make\narrangements satisfactory to the Commissioner in relation to the act or\npractice.\n  (4) Where the Commissioner finds that an act, or practice, investigated was\nin breach of this Act or the guidelines and arrangements have not been made\nunder subsection (3) or the Commissioner considers a report under this\nsubsection appropriate in all the circumstances, the Commissioner:\n  (a)  must make a report to the Minister about the act or practice; and\n  (b)  must set out in the report the Commissioner's findings and the reasons\nfor those findings; and\n  (c)  may include in the report any recommendations by the Commissioner for\npreventing repetition of the act or a continuation of the practice; and\n  (d)  may include in the report any recommendation by the Commissioner for\neither or both of the following:\n  (i)  the payment of compensation in respect of a person who has suffered\nloss or damage as a result of the act or practice; or\n  (ii)  the taking of other action to remedy or reduce loss or damage suffered\nby a person as a result of the act or practice; and\n  (e)  must serve a copy of the report on the matching agency, any source\nagency concerned in the act or practice and the Minister responsible for such\na source agency; and\n  (f)  may serve a copy of the report on any person affected by the act or\npractice.\n  (5) Where, at the end of 60 days after a copy of a report about an act or\npractice was served under subsection (4), the Commissioner is not satisfied\nthat reasonable steps have been taken to prevent a repetition of the act or a\ncontinuation of the practice, the Commissioner must give to the Minister a\nfurther report that:\n  (a)  incorporates the earlier report and any background information that the\nCommissioner has received from an agency in response to the earlier report;\nand\n  (b)  states whether, to the knowledge of the Commissioner, any action has\nbeen taken as a result of the findings and recommendations (if any) set out in\nthe earlier report, and if so, the nature of that action; and\n  (c)  states why the Commissioner is not satisfied that reasonable steps have\nbeen taken to prevent a repetition of the act or a continuation of the\npractice;\nand, where the second report relates to an agency other than an agency\nadministered by the Minister, must give a copy of the report to the Minister\nresponsible for the agency.\n  (6) The Minister is to cause a copy of the report given under subsection (5)\nto be laid before each House of the Parliament within 15 sitting days of that\nHouse, after the report is received by the Minister.\n  (7) In conducting an investigation under this section, the Commissioner has\nall the powers of investigation that he or she has under Part 5 and section 99\nof the Privacy Act 1988.\n  (8) Nothing in this section or in any other provision of this Act limits the\nrights of persons under the Privacy Act 1988 to complain to the Commissioner\nabout interference with privacy.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991 Section 14\n  14. (1) A breach of Part 2 of this Act or a breach of the guidelines\nreferred to in section 12 constitutes an act or practice involving\ninterference with the privacy of an individual for the purposes of section 13\nof the Privacy Act 1988.\n  (2) An individual may complain to the Privacy Commissioner about an act or\npractice in relation to the operation of this Act which may be an interference\nwith the privacy of the individual.\n  (3) In the event of a complaint being made by an individual, it shall be\ndealt with in accordance with the provisions of Part V of the Privacy Act\n1988, which shall apply mutatis mutandis to this Act.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Confidentiality",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Confidentiality",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 15",
+      "text": "15. (1) An officer of an agency who has information only because of\nperforming functions or duties under this Act, must not make a record of, or\ndisclose, any of the information except:\n  (a)  in the course of carrying out functions and duties under this Act; or\n  (b)  with the consent of the person to whom the information relates.\nPenalty: Imprisonment for 2 years.\n  (2) Where:\n  (a)  an officer of a source agency has information because of Step 1, 4 or 6\nin a data-matching cycle; and\n  (b)  there is a law that relates to the recording or disclosure by the\nofficer of information obtained by the officer (however the law is\nexpressed);\nthat law applies to the information referred to in paragraph (a).\n  (3) A law referred to in subsection (2) does not prevent the giving of a\nnotice under section 11.\n  (4) For the purposes of this section, the Commissioner of Taxation is an\nofficer of the tax agency.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Principal Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Principal Act",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 16",
+      "text": "16. In this Part, \"Principal Act\" means the Privacy Act 1988.\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Interferences with privacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Interferences with privacy",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 17",
+      "text": "17. Section 13 of the Principal Act is amended by inserting after paragraph\n        (b) the following paragraph:\n  \"(ba)  constitutes a breach of Part 2 of the Data-matching Program\n(Assistance and Tax) Act 1990 or the guidelines in force under this Act.\".\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Functions of Commissioner in relation to interferences with privacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Functions of Commissioner in relation to interferences with privacy",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 18",
+      "text": "18. Section 27 of the Principal Act is amended:\n  (a)  by omitting paragraph (1) (b) and substituting the following\nparagraph:\n    \"(b)  to examine (with or without a request from a Minister) a\nproposed enactment that would require or authorise acts or practices of an\nagency that might, in the absence of the enactment, be interferences with the\nprivacy of individuals or which may otherwise have any adverse effects on the\nprivacy of individuals and to ensure that any adverse effects of such proposed\nenactment on the privacy of individuals are minimised,\";\n  (b)  by omitting paragraph (1) (k) and substituting the following\nparagraph:\n    \"(k)   to examine (with or without a request from a Minister) a\nproposal for data-matching or data linkage that may involve an interference\nwith the privacy of individuals or which may otherwise have any adverse\neffects on the privacy of individuals and to ensure that any adverse effects\nof such proposal on the privacy of individuals are minimised,\";\n  (c)  by adding at the end of paragraph (1) (e), the words \"or which may\notherwise have any adverse effects on the privacy of individuals\";\n  (d)  by adding at the end of subsection (1) the following paragraphs:\n    \"(p)   to issue guidelines under the Data-matching Program\n(Assistance and Tax) Act 1990;\n    (q)  to monitor and report on the adequacy of equipment and user\nsafeguards;\n    (r)  may, and if requested to do so, shall make reports and\nrecommendations to the Minister in relation to any matter that concerns the\nneed for or the desirability of legislative or administrative action in the\ninterests of the privacy of individuals.\".\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Report following examination of proposed enactment",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Report following examination of proposed enactment",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 19",
+      "text": "19. Section 31 of the Principal Act is amended by adding the following\nsubsections:\n  \"(4) Where the Privacy Commissioner is of the belief that it is in the\npublic interest that the proposed enactment should be the subject of a further\nreport, the Commissioner may give to the Minister a further report setting out\nthe Commissioner's reasons for so doing.\n  \"(5) The Minister shall cause a copy of a report given under subsection (4)\nto be laid before each House of the Parliament as soon as practicable, and no\nlater than 15 sitting days of that House, after the report is received by the\nMinister.\".\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Report following the monitoring of certain activities",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Report following the monitoring of certain activities",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 20",
+      "text": "20. Section 32 of the Principal Act is amended:\n  (a)  by omitting \"(j), (k) or (m)\" from subsection (1) and substituting \",\n        (h), (j), (k), (m) or (r)\";\n  (b)  by adding the following subsections:\n  \"(2) Where the Privacy Commissioner is of the belief that it is in the\npublic interest that the activity should be the subject of a further report,\nthe Commissioner may give to the Minister a further report setting out the\nCommissioner's reasons for so doing.\n  \"(3) The Minister shall cause a copy of a report given under subsection (2)\nto be laid before each House of the Parliament as soon as practicable, and no\nlater than 15 sitting days of that House, after the report is received by the\nMinister.\".\nDATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991"
+    },
+    {
+      "key": "section:21.p1",
+      "title": "Section 21 - Cessation of operation of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Cessation of operation of Act",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 21",
+      "text": "21. Parts 1 and 2 of this Act, unless sooner repealed, shall cease to be in force at the expiration of 2 years after the date of commencement of this Act. DATA-MATCHING PROGRAM (ASSISTANCE AND TAX) ACT 1990 No. 20 of 1991 - SCHEDULE SCHEDULE Section 12 DATA-MATCHING PROGRAM (ASSISTANCE AND TAX) GUIDELINES Scope of Operation Section 1. These Guidelines apply to, and only to, the matching program referred to in the Data-matching Program (Assistance and Tax) Act Section 1990 (\"the Act\"). Definitions Section 2.1 Any term used in these Guidelines has: (i) where it is defined in the Act, that meaning; or (ii) where it is not defined in the Act but is defined in the Privacy Act 1988, that meaning. Section 2.2 In addition the following terms used in these Guidelines have the following meanings: (a) \"Program\" refers to the data-matching program as defined in the Act; (b) \"Discrepancy\" refers to a result of the program which warrants further action by any relevant data agency for the purposes of giving effect to the program; (c) \"action\" refers to the actions set out in section 10 of the Act. Basis of Program Section 3.1 A program protocol must be prepared by the matching agency in consultation with the source agencies before 1 April 1991 and must - (i) identify the matching agency and the source agencies; (ii) in the case of each data agency, set out the legal basis for any collection, use or disclosure of personal information involved in the program; (iii) outline the objectives of the program, the procedures to be employed, the nature and frequency of the matching covered by the program, and the justifications for the program; (iv) explain what methods other than data-matching were available and why they were rejected; (v) detail any cost/benefit analysis or other measures of effectiveness which were taken into account in deciding to initiate the program; (vi) outline the technical controls proposed to ensure data quality, integrity and security in the conduct of the program; (vii) provide an explanation for any use of identification numbers and, in particular, the tax file numbers; (viii) outline the nature of the action proposed to be taken in relation to the results of the program including the pro formas of any letters to be used by source agencies when providing notice under section 11 of the Act; (ix) indicate what form of notice, if any, of the proposed activities in relation to their personal information has been given or is intended to be given to affected individuals; and (x) specify any time-limits on the conduct of the program. The Program Protocol must be filed with the Privacy Commissioner and available for public inspection unless the Privacy Commissioner is satisfied that to do so would be or would be likely to be contrary to the public interest (e.g. by prejudicing the integrity of legitimate investigative methods). Section 3.2 Agencies must comply with the Program Protocol. Section 3.3 Source agencies must take all reasonable steps to ensure that their clients are informed that a Program Protocol which outlines the nature and purposes of the data-matching program is available from the Privacy Commissioner. Technical Standards in relation to data quality, integrity and security Section 4.1 Technical Standards Report: Detailed technical standards must be established by the matching agency to govern the conduct of the program. They should deal with the following matters: (i) integrity of data supplied by source agencies, referring in particular to: key terms and their definition, relevance, timeliness and completeness; (ii) matching techniques, referring in particular to: the matching algorithm, any use of identification numbers especially tax file numbers, the nature of the matters being sought to be identified by the matching process, the relevant data definitions and the procedure for recognising matches; (iii) controls being employed to ensure the continued integrity of the program including the procedures that have been established to confirm the validity of matching results; (iv) security features included within the program to minimise and audit access to personal information. Section 4.2 These matters should be dealt with in a Technical Standards Report to be held by the matching agency and copies held by the source agencies. A draft Report must be finalised before 1 April Section 1991 and the final report before 1 July 1991, taking account of initial experience of the operation of the program. Any subsequent variations to the technical standards should be the subject of a Variation Report appended to the original Report. Section 4.3 The Privacy Commissioner has the power to require that the content of the draft and final Technical Standards"
+    },
+    {
+      "key": "section:21.p2",
+      "title": "Section 21 - Cessation of operation of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Cessation of operation of Act",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 21",
+      "text": "4.2 These matters should be dealt with in a Technical Standards Report to be held by the matching agency and copies held by the source agencies. A draft Report must be finalised before 1 April Section 1991 and the final report before 1 July 1991, taking account of initial experience of the operation of the program. Any subsequent variations to the technical standards should be the subject of a Variation Report appended to the original Report. Section 4.3 The Privacy Commissioner has the power to require that the content of the draft and final Technical Standards Reports be varied. Non-compliance with the variations will be taken as a breach of the Guidelines and be subject to investigation in accordance with section 13 of the Act. Section 4.4 Agencies must comply with the Technical Standards Report. Safeguards for individuals affected by the results of programs Fairness Section 5.1 The source agencies must establish reasonable procedures for confirming the validity of results before relying on them as a basis for administrative action against an individual, unless there are reasonable grounds to believe that such results are not likely to be in error. In forming that view, regard is to be had to the consistency in content and context of data being matched. Section 5.2 Where such confirmation procedures do not take the form of checking the results against the source data but instead involve direct communication with the affected individual, the source agency shall notify the affected individual that no check has been made against the records which formed the basis for the data supplied for the program. The notification must include (either in the letter or by way of an attachment) an explanation of the procedures that are involved in the examination of a discrepancy as well as the rights of complaint under the Privacy Act 1988. Section 5.3 If there is a dispute as to the accuracy of the data or the proposed action which the source agency does not concede, it must inform the individual of the rights of complaint conferred by the Privacy Act 1988. Any further action taken by the agency must, unless otherwise provided by law, not interfere with an individual's opportunity to exercise any rights of appeal or review. Section 5.4 Wherever data supplied by a person prior to 1 January 1991, is to be used, or is likely to be used, in a data-matching program, the person who has supplied the data shall be notified in writing either before the data is first used or as soon as practicable thereafter that the data is likely to be used for this purpose. Record Controls Section 6.1 No Discrepancy: Personal information used in a matching cycle that does not lead to a discrepancy must be destroyed by the matching agency as soon as is practicable after the beginning of Step 5 in the cycle. In any case, destruction of the information must not occur later than 24 hours after the beginning of Step 5 of the cycle unless additional time is required because of a computer malfunction or industrial action. Section 6.2 Discrepancy: In cases where a discrepancy occurs as a result of Steps 1, 4 and 5 in a data-matching cycle, the results must be supplied to the relevant source agency within 7 days of completion of the relevant step. Source agencies must deal with the results in accordance with section 10 of the Act. If, during the period referred to in that section or at any later time, a decision not to take further action is made, wherever practicable the information must be destroyed within 14 days. Section 6.3 On final completion of the action commenced in accordance with section 10 (1) of the Act, all information which gave rise to such action is to be destroyed. For the purposes of this guideline \"final completion of the action\" means: (i) in the situation where, at the expiration of twelve months from the commencement of action in accordance with section 10 (1), the case is under the control of the Australian Federal Police and is proceeding to the satisfaction of the source agency - when all investigation action, legal proceedings and repayment of debts due to the Commonwealth is finalised; (ii) in the situation where, at the expiration of twelve months from the commencement of action in accordance with section 10 (1), the case is under the control of the Director of Public Prosecutions and is proceeding to the satisfaction of the source agency - when all legal proceedings and repayment of debts due to the Commonwealth are finalised; (iii) in the situation"
+    },
+    {
+      "key": "section:21.p3",
+      "title": "Section 21 - Cessation of operation of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Cessation of operation of Act",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 21",
+      "text": "control of the Australian Federal Police and is proceeding to the satisfaction of the source agency - when all investigation action, legal proceedings and repayment of debts due to the Commonwealth is finalised; (ii) in the situation where, at the expiration of twelve months from the commencement of action in accordance with section 10 (1), the case is under the control of the Director of Public Prosecutions and is proceeding to the satisfaction of the source agency - when all legal proceedings and repayment of debts due to the Commonwealth are finalised; (iii) in the situation where, at the expiration of twelve months from commencement of action in accordance with section 10 (1), a debt due to the Commonwealth remains outstanding and action is being taken to recover it - when the debt is fully recovered, waived or written off; and (iv) in all other situations, within twelve months from the date of commencement of action in accordance with section 10 (1). No New Databank Section 7.1 Subject to paragraph 7.2 below, source agencies must not permit the information used in the program to be linked or merged in such a way that a new separate permanent register (or databank) of information is created about any, or all of the individuals whose information has been subject to the program. Section 7.2 Paragraph 7.1 does not prevent a source agency from maintaining a register of individuals in respect of whom further inquiries are warranted following the decision required by section 10 of the Act. Section 7.3 After the completion of action in relation to an individual that is taken in accordance with clause 10, the source agency must delete any information that relates to that action from any register of the type described in paragraph 7.2. Reports and Monitoring by the Privacy Commissioner Section 8. The Privacy Commissioner is to be responsible for monitoring the compliance with these Guidelines and giving advice to the relevant matching and source agencies as to their responsibilities under the Guidelines. Section 9. The matching and source agencies must report to the Privacy Commissioner on a periodic basis as agreed with the Privacy Commissioner. The Commissioner may require an agency to report on any relevant matter, including any of the following matters: (i) actual costs and benefits flowing from the program; (ii) any non-financial factors that are considered relevant; (iii) difficulties in the operation of the program and how these have been overcome; (iv) the extent to which internal audits or other forms of assessment have been undertaken by agencies and their outcome; (v) examples of circumstances in which the giving of notice under section 11 would prejudice the effectiveness of an investigation into the possible Commission of an offence; and (vi) such other matters as: the total number of matches undertaken, the proportion of matches that result in discrepancies, the number of discrepancies, proportion of discrepancies which resulted in action being taken, the number of instances of subsequent action being taken, the number of cases in which action proceeded despite a challenge as to the accuracy of the data, the proportion of discrepancies which did not proceed to action after the individual was contacted; and the number of cases where successful recovery action occurred. Section 10.1 The Privacy Commissioner must include in his annual report an assessment of the extent of the program's compliance with the Act, these Guidelines and the Privacy Act 1988; and to that end, may exercise any of the powers as to investigation and audit contained in the Privacy Act 1988. Section 10.2 Agencies must report their data-matching activities under this Act in their annual entry for the Personal Information Digest of the Privacy Commissioner. Section 11. These Guidelines are additional to provisions of the Privacy Act 1988 including the Information Privacy Principles. Section 12. The matching agency and each source agency must table a comprehensive report in both Houses of Parliament six months after the commencement of the first data-matching cycle. These reports are to include all of the following details: (i) actual cost and benefits flowing from the program; (ii) any non-financial factors that are considered relevant; (iii) difficulties in the operation of the program and how these have been overcome; (iv) the extent to which internal audits or other forms of assessment have been undertaken by agencies and their outcome; and (v) such other matters as: the total number of matches undertaken, the proportion of matches that result in discrepancies, the number of discrepancies, the proportion of discrepancies which resulted in action being taken, the number of instances of subsequent action being taken, the number of"
+    },
+    {
+      "key": "section:21.p4",
+      "title": "Section 21 - Cessation of operation of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Cessation of operation of Act",
+      "defined_term": null,
+      "structure_path": "Data-Matching Program (Assistance and Tax) Act 1990 > Section 21",
+      "text": "actual cost and benefits flowing from the program; (ii) any non-financial factors that are considered relevant; (iii) difficulties in the operation of the program and how these have been overcome; (iv) the extent to which internal audits or other forms of assessment have been undertaken by agencies and their outcome; and (v) such other matters as: the total number of matches undertaken, the proportion of matches that result in discrepancies, the number of discrepancies, the proportion of discrepancies which resulted in action being taken, the number of instances of subsequent action being taken, the number of cases in which action proceeded despite a challenge as to the accuracy of the data, the proportion of discrepancies which did not proceed to action after the individual was contacted; and the number of cases where successful recovery action occurred."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/itbutra1988609/",
+    "register_url": "https://www.legislation.gov.au/C2004A03605/latest/text",
+    "source": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 (100000091).txt",
+    "filename": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 (100000091).json",
+    "name": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988",
+    "citation": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 1",
+      "text": "This Act may be cited as the Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 2",
+      "text": "This Act shall come into operation on the day on which the Taxation Laws Amendment Act 1988 receives the Royal Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 3",
+      "text": "In this Act, &quot;Assessment Act&quot; means the Income Tax Assessment Act 1936."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 4",
+      "text": "The Assessment Act is incorporated and shall be read as one with this Act."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Act binds the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Act binds the Crown",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 5",
+      "text": "This Act binds the Crown in each of its capacities."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 6",
+      "text": "The tax known as income tax, to the extent that it is payable in accordance with section  128NB of the Assessment Act, is imposed, and shall be levied and paid, on the lost withholding tax amount referred to in that section."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Rate of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Offshore Banking Units) (Withholding Tax Recoupment) Act 1988 > Section 7",
+      "text": "The rate of tax imposed by this Act on the lost withholding tax amount is 75%."
+    }
+  ]
+}

@@ -1,0 +1,1579 @@
+{
+  "doc": {
+    "jurisdiction": "south_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/sa/consol_act/lia2021303/",
+    "register_url": "https://www.legislation.sa.gov.au/lz?path=/c/a/legislation%20interpretation%20act%202021",
+    "source": "Legislation Interpretation Act 2021 (100000115).txt",
+    "filename": "Legislation Interpretation Act 2021 (100000115).json",
+    "name": "Legislation Interpretation Act 2021",
+    "citation": "Legislation Interpretation Act 2021"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--Preliminary > Section 1",
+      "text": "This Act may be cited as the Legislation Interpretation\nAct 2021."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Application of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Application of Act",
+      "defined_term": null,
+      "structure_path": "Part 1--Preliminary > Section 3",
+      "text": "(1)         Subject to subsection (3), the provisions of this Act\napply--\n             (a)         to this Act; and\n             (b)         to every other Act; and\n             (c)         to every legislative instrument.\n         (2)         This Act applies to an Act or a legislative instrument whether made\nbefore or after the commencement of this Act.\n         (3)         The application of\nthis Act, or a provision of this Act, to an Act or a legislative instrument, or\nto a provision of an Act or a legislative instrument, is subject to a contrary\nintention."
+    },
+    {
+      "key": "section:4.term:act",
+      "title": "Section 4 Definitions \"Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Act\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Act\" means--\n             (a)         an Act of the Parliament of South Australia or an Act or ordinance of\nsome earlier legislative authority in South Australia; or\n             (b)         an Act of the Imperial Parliament that has been received into the law\nof South Australia or applies to South Australia by paramount force;"
+    },
+    {
+      "key": "section:4.term:adi",
+      "title": "Section 4 Definitions \"ADI\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"ADI\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"ADI\" means an authorised deposit-taking institution within the\nmeaning of the Banking Act of the Commonwealth;"
+    },
+    {
+      "key": "section:4.term:administrative-unit",
+      "title": "Section 4 Definitions \"administrative unit\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"administrative unit\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"administrative unit\" has the same meaning as in the Public\nSector Act 2009;\n\"affidavit\", in all cases where persons are allowed by law to\naffirm or to declare instead of swearing, includes affirmation or\ndeclaration;"
+    },
+    {
+      "key": "section:4.term:amend",
+      "title": "Section 4 Definitions \"amend\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"amend\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"amend\" includes the following, whether effected expressly or\nby implication:\n             (a)         omit;\n             (b)         insert;\n             (c)         substitute;\n             (d)         alter;\n             (e)         vary;"
+    },
+    {
+      "key": "section:4.term:appoint",
+      "title": "Section 4 Definitions \"appoint\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"appoint\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"appoint\" includes reappoint;"
+    },
+    {
+      "key": "section:4.term:as",
+      "title": "Section 4 Definitions \"AS\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"AS\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"AS\" or \"Australian Standard\" or"
+    },
+    {
+      "key": "section:4.term:as-nzs",
+      "title": "Section 4 Definitions \"AS/NZS\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"AS/NZS\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"AS/NZS\" or \"Australian/New Zealand Standard\" followed\n(in any of those cases) by a number, or a number accompanied by a reference to a\ncalendar year, means the standard so designated that is published by or under\nthe authority of Standards Australia (alone or jointly with others);"
+    },
+    {
+      "key": "section:4.term:australia",
+      "title": "Section 4 Definitions \"Australia\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Australia\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Australia\" means the Commonwealth of Australia and, when used\nin a geographical sense, includes Norfolk Island, the Territory of Christmas\nIsland and the Territory of Cocos (Keeling) Islands, but does not include any\nother external Territory;"
+    },
+    {
+      "key": "section:4.term:australia-acts",
+      "title": "Section 4 Definitions \"Australia Acts\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Australia Acts\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Australia Acts\" means--\n             (a)         the Australia Act 1986 of the Commonwealth; and\n             (b)         the Australia Act 1986 of the United Kingdom;"
+    },
+    {
+      "key": "section:4.term:australian-citizen",
+      "title": "Section 4 Definitions \"Australian citizen\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Australian citizen\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Australian citizen\" means a person who is an Australian\ncitizen under the provisions of the Australian Citizenship Act 2007\nof the Commonwealth;"
+    },
+    {
+      "key": "section:4.term:bank",
+      "title": "Section 4 Definitions \"bank\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"bank\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"bank\" means an ADI that is permitted under the Banking\nAct of the Commonwealth to assume or use--\n             (a)         the word\n\"bank\", \"banker\" or \"banking\"; or\n             (b)         any other word (whether or not in English) that is of like import to a\nword referred to in paragraph (a);"
+    },
+    {
+      "key": "section:4.term:bank-cheque",
+      "title": "Section 4 Definitions \"bank cheque\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"bank cheque\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"bank cheque\" or \"banker's cheque\" means a cheque\nthat an ADI draws on itself;"
+    },
+    {
+      "key": "section:4.term:bank-holiday",
+      "title": "Section 4 Definitions \"bank holiday\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"bank holiday\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"bank holiday\" means a day that is, under the Public\nHolidays Act 2023, a bank holiday;"
+    },
+    {
+      "key": "section:4.term:banking-act-of-the-commonwealth",
+      "title": "Section 4 Definitions \"Banking Act of the Commonwealth\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Banking Act of the Commonwealth\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Banking Act of the Commonwealth\" or \"Banking Act\n(Cwth) means the Banking Act 1959 of the Commonwealth, as\namended from time to time and includes an Act enacted in substitution for that\nAct;"
+    },
+    {
+      "key": "section:4.term:building-society",
+      "title": "Section 4 Definitions \"building society\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"building society\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"building society\" means an ADI that is permitted under the\nBanking Act of the Commonwealth to assume or use--\n             (a)         the expression\n\"building society\"; or\n             (b)         any other expression (whether or not in English) that is of like\nimport to the expression referred to in paragraph (a);"
+    },
+    {
+      "key": "section:4.term:business-day",
+      "title": "Section 4 Definitions \"business day\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"business day\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"business day\" means a day that is not--\n             (a)         a Saturday or Sunday; or\n             (b)         a public holiday (other than a part-day public holiday--see\nSection 46);"
+    },
+    {
+      "key": "section:4.term:calendar-month",
+      "title": "Section 4 Definitions \"calendar month\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"calendar month\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"calendar month\" means one of the 12 months of the\ncalendar year;"
+    },
+    {
+      "key": "section:4.term:calendar-year",
+      "title": "Section 4 Definitions \"calendar year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"calendar year\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"calendar year\" means a period of 12 months beginning on\nSection 1 January;"
+    },
+    {
+      "key": "section:4.term:certified-mail",
+      "title": "Section 4 Definitions \"certified mail\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"certified mail\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"certified mail\" includes registered post;\n\"commencement\", in relation to an Act or a legislative\ninstrument, or a provision of an Act or a legislative instrument, means the day\nor time on which the Act, legislative instrument or provision comes into\noperation;"
+    },
+    {
+      "key": "section:4.term:commonwealth",
+      "title": "Section 4 Definitions \"Commonwealth\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Commonwealth\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Commonwealth\" means the Commonwealth of Australia and, when\nused in a geographical sense, includes Norfolk Island, the Territory of\nChristmas Island and the Territory of Cocos (Keeling) Islands, but does not\ninclude any other external Territory;\n\"confer\", in relation to a function, includes give and\nimpose;"
+    },
+    {
+      "key": "section:4.term:contravene",
+      "title": "Section 4 Definitions \"contravene\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"contravene\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"contravene\" includes fail to comply with;"
+    },
+    {
+      "key": "section:4.term:council",
+      "title": "Section 4 Definitions \"council\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"council\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"council\" or \"local council\" means a council within\nthe meaning of the Local Government Act 1999;"
+    },
+    {
+      "key": "section:4.term:court-of-appeal",
+      "title": "Section 4 Definitions \"Court of Appeal\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Court of Appeal\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Court of Appeal\" means the Court of Appeal established as a\ndivision of the Supreme Court;"
+    },
+    {
+      "key": "section:4.term:credit-union",
+      "title": "Section 4 Definitions \"credit union\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"credit union\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"credit union\" means an ADI that is permitted under the\nBanking Act of the Commonwealth to assume or use--\n             (a)         the expression\n\"credit union\"; or\n             (b)         any expression (whether or not in English) that is of like import to\nthe expression referred to in paragraph (a);"
+    },
+    {
+      "key": "section:4.term:crown",
+      "title": "Section 4 Definitions \"Crown\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Crown\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Crown\" means the Crown in right of South Australia;"
+    },
+    {
+      "key": "section:4.term:data-storage-device",
+      "title": "Section 4 Definitions \"data storage device\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"data storage device\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"data storage device\" means an article or thing that is used\nfor storing and retrieving data (whether internal or external to a\ncomputer);"
+    },
+    {
+      "key": "section:4.term:day",
+      "title": "Section 4 Definitions \"day\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"day\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"day\" means a period of 24 hours ending at the stroke of\nmidnight;"
+    },
+    {
+      "key": "section:4.term:department",
+      "title": "Section 4 Definitions \"Department\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Department\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Department\" or \"department\" of a Minister or of\nthe Public Service, \"government department\" or \"public\ndepartment means an administrative unit within the meaning of the\nPublic Sector Act 2009;"
+    },
+    {
+      "key": "section:4.term:district-court",
+      "title": "Section 4 Definitions \"District Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"District Court\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"District Court\" means the District Court of South\nAustralia;"
+    },
+    {
+      "key": "section:4.term:document",
+      "title": "Section 4 Definitions \"document\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"document\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"document\" includes--\n             (a)         anything on which there is writing; and\n             (b)         any record; and\n             (c)         anything on which there are marks, figures, symbols or perforations\nhaving a meaning for persons qualified to interpret them; and\n             (d)         anything from which sounds, images or writing can be reproduced with\nor without the aid of anything else; and\n             (e)         a map, plan, drawing or photograph;"
+    },
+    {
+      "key": "section:4.term:dpp",
+      "title": "Section 4 Definitions \"DPP\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"DPP\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"DPP\" means the Director within the meaning of the Director\nof Public Prosecutions Act 1991;"
+    },
+    {
+      "key": "section:4.term:entity",
+      "title": "Section 4 Definitions \"entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"entity\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"entity\" includes a person, a partnership and an unincorporated\nbody;\n\"estate\", in relation to land, includes any estate or interest,\neasement, right, title, claim, demand, charge, lien or encumbrance in, over, to,\nor in respect of, the land;"
+    },
+    {
+      "key": "section:4.term:external-territory",
+      "title": "Section 4 Definitions \"external Territory\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"external Territory\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"external Territory\" means a Territory, other than an internal\nTerritory, where an Act makes provision for the government of the Territory as a\nTerritory;"
+    },
+    {
+      "key": "section:4.term:financial-year",
+      "title": "Section 4 Definitions \"financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"financial year\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"financial year\" means a period of 12 months starting on\nSection 1 July;"
+    },
+    {
+      "key": "section:4.term:friendly-society",
+      "title": "Section 4 Definitions \"friendly society\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"friendly society\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"friendly society\" means a body that is a friendly society for\nthe purposes of the Life Insurance Act 1995 of the\nCommonwealth;"
+    },
+    {
+      "key": "section:4.term:foreign-country",
+      "title": "Section 4 Definitions \"foreign country\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"foreign country\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"foreign country\" means any country (whether or not an\nindependent sovereign state) outside Australia and the external\nTerritories;"
+    },
+    {
+      "key": "section:4.term:function",
+      "title": "Section 4 Definitions \"function\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"function\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"function\" includes power and duty and, accordingly, references\nto the performance of a function include the exercise of a power and the\nperformance of a duty;\n\"Gazette\", \"Government Gazette\" or \"South\nAustralian Government Gazette means the South Australian Government\nGazette (including any supplement to that gazette) printed or published, or\npurporting to be printed or published, by the Government Printer of the\nState;"
+    },
+    {
+      "key": "section:4.term:gender-identity",
+      "title": "Section 4 Definitions \"gender identity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"gender identity\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"gender identity\" means the gender-related identity, appearance\nor mannerisms or other gender-related characteristics of a person (whether by\nway of medical intervention or not), with or without regard to the person's\ndesignated sex at birth;\n\"Governor-in-Chief\", \"Governor\" or"
+    },
+    {
+      "key": "section:4.term:lieutenant-governor",
+      "title": "Section 4 Definitions \"Lieutenant-Governor\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Lieutenant-Governor\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Lieutenant-Governor\" means the Governor of the State or other\nofficer for the time being administering the Government of the State;"
+    },
+    {
+      "key": "section:4.term:health-practitioner-regulation-national-law",
+      "title": "Section 4 Definitions \"Health Practitioner Regulation National Law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Health Practitioner Regulation National Law\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Health Practitioner Regulation National Law\"\nmeans--\n             (a)         the Health\nPractitioner Regulation National Law--\n                   (i)         as in force from time to time, set out in the schedule to the\nHealth Practitioner Regulation National Law Act 2009 of Queensland;\nand\n                   (ii)         as it applies as a law of South Australia, another State or a\nTerritory (with or without modification); or\n             (b)         the law that substantially corresponds to the law referred to in\nparagraph (a);"
+    },
+    {
+      "key": "section:4.term:his-majesty",
+      "title": "Section 4 Definitions \"His Majesty\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"His Majesty\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"His Majesty\" or \"Her Majesty\", \"the\nKing\" or \"the Queen\" means His Majesty the King, or Her\nMajesty the Queen, Sovereign for the time being of Australia, and includes the\npredecessors and the heirs and successors of the King or Queen;"
+    },
+    {
+      "key": "section:4.term:individual",
+      "title": "Section 4 Definitions \"individual\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"individual\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"individual\" means a natural person;"
+    },
+    {
+      "key": "section:4.term:internal-territory",
+      "title": "Section 4 Definitions \"internal Territory\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"internal Territory\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"internal Territory\" means the Australian Capital Territory,\nthe Northern Territory or the Jervis Bay Territory;"
+    },
+    {
+      "key": "section:4.term:intersex-status",
+      "title": "Section 4 Definitions \"intersex status\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"intersex status\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"intersex status\" means the status of having physical, hormonal\nor genetic features that are--\n             (a)         neither wholly female nor wholly male; or\n             (b)         a combination of female and male; or\n             (c)         neither female nor male;"
+    },
+    {
+      "key": "section:4.term:jervis-bay-territory",
+      "title": "Section 4 Definitions \"Jervis Bay Territory\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Jervis Bay Territory\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Jervis Bay Territory\" means the Territory referred to in the\nJervis Bay Territory Acceptance Act 1915 of the\nCommonwealth;"
+    },
+    {
+      "key": "section:4.term:justice",
+      "title": "Section 4 Definitions \"justice\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"justice\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"justice\" means a justice of the peace for South Australia\n(however appointed), and includes a special justice;"
+    },
+    {
+      "key": "section:4.term:land",
+      "title": "Section 4 Definitions \"land\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"land\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"land\" includes--\n             (a)         a building or structure affixed to land; and\n             (b)         waters and airspace over land; and\n             (c)         the bed of any body of waters; and\n             (d)         subsoil and subterranean waters;"
+    },
+    {
+      "key": "section:4.term:legislative-instrument",
+      "title": "Section 4 Definitions \"legislative instrument\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"legislative instrument\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"legislative instrument\" means--\n             (a)         a regulation, rule, by-law or statute made under an Act; or\n             (b)         a proclamation, notice, order or other instrument made by the Governor\nor a Minister under an Act and published in the Gazette or under the\nLegislation Revision and Publication Act 2002; or\n             (c)         a code or standard made, approved or adopted under an Act;\nor\n             (d)         any other instrument of a legislative character made or in force under\nan Act; or\n             (e)         any other instrument of a kind prescribed by the\nregulations;"
+    },
+    {
+      "key": "section:4.term:magistrates-court",
+      "title": "Section 4 Definitions \"Magistrates Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Magistrates Court\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Magistrates Court\" means the Magistrates Court of South\nAustralia;"
+    },
+    {
+      "key": "section:4.term:major-indictable-offence",
+      "title": "Section 4 Definitions \"major indictable offence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"major indictable offence\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"major indictable offence\" means any indictable offence\nclassified by statute as a major indictable offence;\n\"make\", in relation to an instrument, includes issue and\ngrant;"
+    },
+    {
+      "key": "section:4.term:minister",
+      "title": "Section 4 Definitions \"Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Minister\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Minister\" means--\n             (a)         when used in an Act--the Minister of the Crown to whom the\nadministration of the Act has been committed by the Governor, or in whom the\nadministration of the Act is otherwise vested; and\n             (b)         when used in a legislative instrument--the Minister of the Crown\nto whom the administration of the Act under which the legislative instrument was\nmade has been committed by the Governor, or in whom the administration of that\nAct is otherwise vested,\nand includes a Minister of the Crown for the time being discharging the\nduties of that Minister or acting in the exercise of powers or functions\ndelegated by that Minister;"
+    },
+    {
+      "key": "section:4.term:minor-indictable-offence",
+      "title": "Section 4 Definitions \"minor indictable offence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"minor indictable offence\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"minor indictable offence\" means any indictable offence\nclassified by statute as a minor indictable offence;"
+    },
+    {
+      "key": "section:4.term:month",
+      "title": "Section 4 Definitions \"month\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"month\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"month\" means a period starting at the beginning of any day of\none of the calendar months and ending--\n             (a)         immediately before the beginning of the numerically corresponding day\nof the next calendar month; or\n             (b)         if there is no such corresponding day occurring in the next calendar\nmonth, at the end of that next calendar month;"
+    },
+    {
+      "key": "section:4.term:motor-vehicle",
+      "title": "Section 4 Definitions \"motor vehicle\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"motor vehicle\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"motor vehicle\" has the same meaning as in the Motor\nVehicles Act 1959;"
+    },
+    {
+      "key": "section:4.term:northern-territory",
+      "title": "Section 4 Definitions \"Northern Territory\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Northern Territory\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Northern Territory\" means the Northern Territory of\nAustralia;\n\"oath\", in all cases where persons are allowed by law to affirm\nor to declare instead of swearing, includes affirmation or\ndeclaration;"
+    },
+    {
+      "key": "section:4.term:office",
+      "title": "Section 4 Definitions \"office\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"office\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"office\" includes position and role;"
+    },
+    {
+      "key": "section:4.term:parliament",
+      "title": "Section 4 Definitions \"Parliament\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Parliament\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Parliament\" means the Parliament of the State;"
+    },
+    {
+      "key": "section:4.term:part-day-public-holiday",
+      "title": "Section 4 Definitions \"part-day public holiday\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"part-day public holiday\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"part-day public holiday\" means a part of a day that is, under\nsection 4 or 5(1)(b) of the Public Holidays Act 2023, a\npart-day public holiday;"
+    },
+    {
+      "key": "section:4.term:person",
+      "title": "Section 4 Definitions \"person\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"person\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"person\" includes a body corporate as well as an\nindividual;"
+    },
+    {
+      "key": "section:4.term:police-force",
+      "title": "Section 4 Definitions \"police force\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"police force\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"police force\" means South Australia Police under the Police\nAct 1998;"
+    },
+    {
+      "key": "section:4.term:police-officer",
+      "title": "Section 4 Definitions \"police officer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"police officer\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"police officer\" means any member of South Australia Police\nunder the Police Act 1998;"
+    },
+    {
+      "key": "section:4.term:prescribed",
+      "title": "Section 4 Definitions \"prescribed\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"prescribed\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"prescribed\" means--\n             (a)         when used in an Act--prescribed by the Act or by a legislative\ninstrument made, or to be made, under the Act; and\n             (b)         when used in a legislative instrument--prescribed by the Act\nunder which the legislative instrument was made, by the legislative instrument\nitself or by some further legislative instrument made, or to be made, under the\nAct under which the legislative instrument was made;"
+    },
+    {
+      "key": "section:4.term:proclamation",
+      "title": "Section 4 Definitions \"proclamation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"proclamation\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"proclamation\" means a proclamation made by the Governor and\npublished in the Gazette or under the Legislation Revision and Publication\nAct 2002;"
+    },
+    {
+      "key": "section:4.term:public-holiday",
+      "title": "Section 4 Definitions \"public holiday\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"public holiday\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"public holiday\" means--\n             (a)         a day that is, under the Public Holidays Act 2023, a\npublic holiday; or\n             (b)         subject to section 46--a part-day public holiday;"
+    },
+    {
+      "key": "section:4.term:public-service",
+      "title": "Section 4 Definitions \"Public Service\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Public Service\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Public Service\" or \"public service\" means the\nPublic Service under the Public Sector Act 2009;\n\"regulation\", \"rule\" or \"by-law\"\nmeans--\n             (a)         when used in an Act--a regulation, rule or by-law made under the\nAct in which the expression is used; or\n             (b)         when used in a legislative instrument--a regulation, rule or\nby-law made under the Act under which the legislative instrument was\nmade;"
+    },
+    {
+      "key": "section:4.term:repeal",
+      "title": "Section 4 Definitions \"repeal\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"repeal\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"repeal\" includes revoke;"
+    },
+    {
+      "key": "section:4.term:sapol",
+      "title": "Section 4 Definitions \"SAPOL\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"SAPOL\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"SAPOL\" means South Australia Police;\n\"sitting day\", in relation to a House of Parliament, means a\nday on which the House actually sits (provided that, in a case where the\nsittings of a House on a particular day continue after midnight on that day and\ninto the following day before the House stands adjourned, that portion of the\nfollowing day prior to the adjournment of the House will be counted as a\ncontinuation of the preceding sitting day and not as a new sitting\nday);"
+    },
+    {
+      "key": "section:4.term:south-australian-civil-and-administrative-tribunal",
+      "title": "Section 4 Definitions \"South Australian Civil and Administrative Tribunal\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"South Australian Civil and Administrative Tribunal\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"South Australian Civil and Administrative Tribunal\" or"
+    },
+    {
+      "key": "section:4.term:sacat",
+      "title": "Section 4 Definitions \"SACAT\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"SACAT\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"SACAT\" means the South Australian Civil and Administrative Tribunal\nestablished under the South Australian Civil and Administrative Tribunal\nAct 2013;"
+    },
+    {
+      "key": "section:4.term:south-australian-employment-tribunal",
+      "title": "Section 4 Definitions \"South Australian Employment Tribunal\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"South Australian Employment Tribunal\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"South Australian Employment Tribunal\" or \"SAET\"\nmeans the South Australian Employment Tribunal established under the South\nAustralian Employment Tribunal Act 2014;"
+    },
+    {
+      "key": "section:4.term:special-justice",
+      "title": "Section 4 Definitions \"special justice\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"special justice\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"special justice\" means a justice who has been appointed as a\nspecial justice;"
+    },
+    {
+      "key": "section:4.term:standards-association-of-australia",
+      "title": "Section 4 Definitions \"Standards Association of Australia\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Standards Association of Australia\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Standards Association of Australia\" includes Standards\nAustralia;"
+    },
+    {
+      "key": "section:4.term:standards-australia",
+      "title": "Section 4 Definitions \"Standards Australia\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Standards Australia\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Standards Australia\" means Standards Australia Limited ACN 087\nSection 326 690, or any body to which Standards Australia Limited is a successor in law\nor that is a successor in law to Standards Australia Limited;"
+    },
+    {
+      "key": "section:4.term:statutory-declaration",
+      "title": "Section 4 Definitions \"statutory declaration\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"statutory declaration\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"statutory declaration\" means--\n             (a)         a declaration made under the Oaths Act 1936; or\n             (b)         a declaration made outside the State--\n                   (i)         under a law in force in the place where the declaration is made, being\na law that renders the declarant liable to a criminal penalty for a false\ndeclaration; and\n                   (ii)         before a person who has authority under that law to take\ndeclarations;"
+    },
+    {
+      "key": "section:4.term:statutory-instrument",
+      "title": "Section 4 Definitions \"statutory instrument\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"statutory instrument\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"statutory instrument\" has the same meaning as\n\"legislative instrument\";"
+    },
+    {
+      "key": "section:4.term:summary-offence",
+      "title": "Section 4 Definitions \"summary offence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"summary offence\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"summary offence\" means any offence classified by statute as a\nsummary offence;"
+    },
+    {
+      "key": "section:4.term:supreme-court",
+      "title": "Section 4 Definitions \"Supreme Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Supreme Court\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Supreme Court\" means the Supreme Court of South\nAustralia;\n\"swear\", in all cases where persons are allowed by law to\naffirm or to declare instead of swearing, includes affirm or declare;"
+    },
+    {
+      "key": "section:4.term:the-state",
+      "title": "Section 4 Definitions \"the State\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"the State\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"the State\" or \"this State\" means the State of\nSouth Australia;\n\"this Act\", when used in an Act, includes legislative\ninstruments made under the Act in which the expression is used;"
+    },
+    {
+      "key": "section:4.term:united-kingdom",
+      "title": "Section 4 Definitions \"United Kingdom\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"United Kingdom\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"United Kingdom\" means the United Kingdom of Great Britain and\nNorthern Ireland;"
+    },
+    {
+      "key": "section:4.term:writing",
+      "title": "Section 4 Definitions \"writing\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"writing\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"writing\" includes any visible form in which words, figures,\ndrawings or symbols may be reproduced or represented;"
+    },
+    {
+      "key": "section:4.term:year",
+      "title": "Section 4 Definitions \"year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"year\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"year\" means a period starting at the beginning of any day of a\ncalendar year and ending--\n             (a)         immediately before the beginning of the corresponding day of the next\ncalendar year; or\n             (b)         in the case of a period starting at the beginning of 29 February\nin a leap year--at the end of 28 February occurring in the next\ncalendar year;"
+    },
+    {
+      "key": "section:4.term:youth-court",
+      "title": "Section 4 Definitions \"Youth Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Standard definitions",
+      "defined_term": "\"Youth Court\"",
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 4",
+      "text": "\"Youth Court\" means the Youth Court of South\nAustralia."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - References to professions registered under Health Practitioner Regulation National Law",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "References to professions registered under Health Practitioner Regulation National Law",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 5",
+      "text": "(1)         A reference in an\nAct or a legislative instrument within the ambit of column 1 of the\nfollowing table will have effect as if it were the corresponding reference in\ncolumn 2 of the table.\nColumn 1\nColumn 2\nchiropractor\na person registered under the Health Practitioner Regulation National\nLaw to practise in the chiropractic profession (other than as a\nstudent)\ndental practitioner\na person registered under the Health Practitioner Regulation National\nLaw to practise in the dental profession (including, if appropriate, a\ndental therapist, dental hygienist, dental prosthetist or oral health therapist\nbut not including a student)\ndentist\na person registered under the Health Practitioner Regulation National\nLaw--\n             (a)         to practise in the dental profession as a dentist (other than as a\nstudent); and\n             (b)         in the dentists division of that profession\nenrolled nurse\na person registered under the Health Practitioner Regulation National\nLaw--\n             (a)         to practise in the nursing profession as a nurse (other than as a\nstudent); and\n             (b)         in the enrolled nurses division of that profession\nlegally qualified medical practitioner\na person registered under the Health Practitioner Regulation National\nLaw to practise in the medical profession (other than as a\nstudent)\nmedical practitioner\na person registered under the Health Practitioner Regulation National\nLaw to practise in the medical profession (other than as a\nstudent)\nmidwife\na person registered under the Health Practitioner Regulation National\nLaw to practise in the midwifery profession as a midwife (other than as a\nstudent)\nnurse\na person registered under the Health Practitioner Regulation National\nLaw to practise in the nursing profession as a nurse (other than as a\nstudent)\noccupational therapist\na person registered under the Health Practitioner Regulation National\nLaw to practise in the occupational therapy profession (other than as a\nstudent)\noptometrist\na person registered under the Health Practitioner Regulation National\nLaw to practise in the optometry profession (other than as a\nstudent)\nosteopath\na person registered under the Health Practitioner Regulation National\nLaw to practise in the osteopathy profession (other than as a\nstudent)\npharmacist\na person registered under the Health Practitioner Regulation National\nLaw to practise in the pharmacy profession (other than as a\nstudent)\nphysiotherapist\na person registered under the Health Practitioner Regulation National\nLaw to practise in the physiotherapy profession (other than as a\nstudent)\npodiatrist\na person registered under the Health Practitioner Regulation National\nLaw to practise in the podiatry profession (other than as a\nstudent)\npsychologist\na person registered under the Health Practitioner Regulation National\nLaw to practise in the psychology profession (other than as a\nstudent)\nregistered nurse\na person registered under the Health Practitioner Regulation National\nLaw--\n             (a)         to practise in the nursing profession as a nurse (other than as a\nstudent); and\n             (b)         in the registered nurses division of that profession\n         (2)         A reference in an Act or a legislative instrument to a\n\"registered health practitioner\" will have effect as if it were a\nreference to a health practitioner registered in the relevant health profession\nunder the Health Practitioner Regulation National Law.\n         (3)         If a regulation is made under section 4(4) of the Health\nPractitioner Regulation National Law (South Australia) Act 2010 that\nmodifies the Health Practitioner Regulation National Law (South\nAustralia) text, the Governor may, by regulation under this Act, make any\namendments to the table in subsection (1) that are considered by the\nGovernor to be necessary to ensure that the modification has proper effect under\nthe law of South Australia."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Definitions to be read in context",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions to be read in context",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 6",
+      "text": "Definitions in an Act or a legislative instrument apply to the construction\nof the Act or instrument except in so far as a contrary intention\nappears."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Parts of speech and grammatical forms",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Parts of speech and grammatical forms",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 7",
+      "text": "If a word or phrase is defined, other parts of speech and grammatical forms\nof the word or phrase have, unless the contrary intention appears, corresponding\nmeanings."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Inclusion of digital material",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Inclusion of digital material",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 8",
+      "text": "(1)         If any type of\ninformation or material is capable of being produced in digital form, a word\nthat describes the information or material in its physical form includes a\nreference to the information or material in its digital form.\n         (2)         Without limiting\nsubsection (1), a reference to--\n             (a)         \"audiotape\", \"photograph\",\n\"videotape\" or other word in the form of a verb describing the\ncapture or recording of images or sounds by an audio recording, cinematographic,\nphotographic or videorecording device includes a reference to the capture or\nrecording of images or sounds by a digital device;\n             (b)         an \"audiotape\", \"photograph\",\n\"videotape\" or other word in the form of a noun describing the item\non which images or sounds captured or recorded by an audio recording,\ncinematographic, photographic or videorecording device are stored or reproduced\nincludes a reference to a digital data storage device;\n             (c)         a \"book\", \"paper\", \"plan\" or other\nword in the form of a noun describing an item on which there is writing includes\na reference to a digital data storage device;\n             (d)         a\n\"record\" includes information stored in a digital form by means of a\ndigital data storage device.\n         (3)         If a person who keeps information in a digital form is required under\nan Act or a legislative instrument--\n             (a)         to produce the information or a document containing the information to\na body or person; or\n             (b)         to make the information or a document containing the information\navailable for inspection by a body or person,\nthen, unless the body or person otherwise authorises--\n             (c)         the requirement obliges the person to produce or make available for\ninspection, as the case may be, a document that reproduces the information in a\nform capable of being understood by the body or person; and\n             (d)         the production to the body or person of the document in that form\ncomplies with the requirement."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Words relating to gender",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Words relating to gender",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 9",
+      "text": "(1)         Every word implying a particular gender will be construed as including\nevery other gender and will also be applicable to an individual who does not\nidentify as having any particular gender.\n         (2)         Every word implying a particular gender will be construed as including\na body corporate as well as an individual.\n         (3)         Every phrase consisting of a masculine pronoun and a feminine pronoun\njoined by the conjunction \"or\" will be construed as applicable to a body\ncorporate as well as an individual."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Use of singular and plural",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Use of singular and plural",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 10",
+      "text": "(1)         Every word in the singular will be construed as including the\nplural.\n         (2)         Every word in the plural will be construed as including the\nsingular.\n         (3)         Every word in the plural or singular will be construed as including a\nbody corporate as well as an individual."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Meaning of may, must and shall",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Meaning of may, must and shall",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 11",
+      "text": "(1)         If, in an Act or a legislative instrument, the word \"may\" or a similar\nexpression is used in conferring a function, the entity on which the function is\nconferred has a discretion as to whether or not to perform it.\n         (2)         However, if an Act or a legislative instrument specifies that an\nentity \"may not\" perform a function, the entity is prohibited from performing\nit.\n         (3)         If, in an Act or a legislative instrument, the word \"must\" or \"shall\"\n(or a similar expression) is used in conferring a function, the entity on which\nthe function is conferred is required to perform it.\n         (4)         This section only applies to an Act or a legislative instrument passed\nafter 1 January 1873."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Meaning of expressions used in legislative instruments",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Meaning of expressions used in legislative instruments",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 12",
+      "text": "Expressions used in a legislative instrument or other instrument made under\nan Act have the same meaning as they have in the Act (as in force from time to\ntime)."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - References to signing or execution of documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "References to signing or execution of documents",
+      "defined_term": null,
+      "structure_path": "Part 2--Definitions and rules about the meaning of words > Section 13",
+      "text": "If an Act or a legislative instrument requires or authorises a document to\nbe signed or executed by a person and the person is a body corporate, the Act or\nlegislative instrument will be taken to authorise--\n             (a)         the affixing of the common seal of the body to the document, or the\nsigning of the document on behalf of the body, in accordance with the Act\n(whether or not of this State) under which the body is incorporated;\nor\n             (b)         the signing or execution of the document in any other manner permitted\nby law.\nNote--\nIn relation to signing of electronic documents, see the Electronic\nCommunications Act 2000."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Interpretation best achieving purpose or object",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Interpretation best achieving purpose or object",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 14",
+      "text": "(1)         In interpreting a provision of an Act or a legislative instrument, the\ninterpretation that best achieves the purpose or object of the Act or the\ninstrument (whether or not that purpose or object is expressly stated in the Act\nor instrument) is to be preferred to any other interpretation.\n         (2)         This section\ndoes not operate to create or extend any criminal liability."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Interpretation so as not to exceed legislative power",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Interpretation so as not to exceed legislative power",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 15",
+      "text": "(1)         An Act or a legislative instrument is to be interpreted as operating\nto the full extent of, but so as not to exceed, the legislative power of the\nState.\n         (2)         A legislative instrument made under an Act is to be interpreted as\noperating to the full extent of, but so as not to exceed, the power to make the\ninstrument conferred by the Act.\n         (3)         If a provision of an Act or a legislative instrument would, but for\nthis section, be interpreted as being in excess of power, the provision is valid\nto the extent to which it is not in excess of power."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Use of extrinsic material in interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Use of extrinsic material in interpretation",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 16",
+      "text": "(1)         In the\ninterpretation of a provision of an Act or a legislative instrument, if any\nmaterial not forming part of the Act or instrument is capable of assisting in\nthe ascertainment of the meaning of the provision, consideration may be given to\nthat material--\n             (a)         to confirm that the meaning of the provision is the ordinary meaning\nconveyed by the text of the provision (taking into account its context in the\nAct or instrument and the purpose or object underlying the Act or instrument\nand, in the case of a legislative instrument, the purpose or object underlying\nthe Act under which the instrument was made); or\n             (b)         to determine the meaning of the provision--\n                   (i)         if the provision is ambiguous or obscure; or\n                   (ii)         if the ordinary meaning conveyed by the text of the provision (taking\ninto account its context in the Act or instrument and the purpose or object\nunderlying the Act or instrument and, in the case of a legislative instrument,\nthe purpose or object underlying the Act under which the instrument was made)\nleads to a result that is manifestly absurd or is unreasonable.\n         (2)         Without limiting the effect of subsection (1), the material that\nmay be considered in accordance with that subsection in the interpretation of a\nprovision includes the following:\n             (a)         all matters not forming part of the Act or instrument that are set out\nin the document containing the text of the Act or instrument as printed or\npublished by the Government Printer or as published under the Legislation\nRevision and Publication Act 2002;\n             (b)         any relevant report of a Royal Commission, Law Reform Commission,\ncommittee of inquiry or other similar body that was laid before either House of\nthe Parliament before the provision was enacted or made;\n             (c)         any relevant report of a committee of the Parliament or of either\nHouse of the Parliament before the provision was enacted or made;\n             (d)         any treaty or other international agreement that is referred to in the\nAct;\n             (e)         any explanatory memorandum relating to the Bill for the Act, or any\nother relevant document, that was laid before, or furnished to the members of,\neither House of the Parliament by a Minister or other member of Parliament\nintroducing the Bill before the provision was enacted or made;\n             (f)         the speech made to a House of Parliament by a Minister or other member\nof Parliament on the occasion of the moving by that Minister or member of a\nmotion that the Bill for the Act be read a second time in that House;\n             (g)         any document (whether or not a document to which a preceding paragraph\napplies) that is declared by the Act to be a relevant document for the purposes\nof this section;\n             (h)         any relevant material in the Minutes of Proceedings or the Votes and\nProceedings of either House of Parliament or in any official record of debates\nin Parliament or either House of Parliament.\n         (3)         In determining whether consideration should be given to any material,\nor in considering the weight to be given to any material, regard must be had, in\naddition to any other relevant matters, to--\n             (a)         the desirability of persons being able to rely on the ordinary meaning\nconveyed by the text of the provision (taking into account its context in the\nAct or instrument and the purpose or object underlying the Act or instrument\nand, in the case of a legislative instrument, the purpose or object underlying\nthe Act under which the instrument was made); and\n             (b)         the need to avoid prolonging legal or other proceedings without\ncompensating advantage."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Act or instrument deemed always speaking",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Act or instrument deemed always speaking",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 17",
+      "text": "An Act or a legislative instrument will be considered as speaking at all\ntimes, and every provision of an Act or a legislative instrument, whether\nexpressed in the present or the future tense, will be applied to the\ncircumstances as they arise, so that effect may be given to each provision\naccording to its spirit, true intent and meaning."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Abrogation of presumption that re-enactment etc constitutes Parliamentary approval of prior interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Abrogation of presumption that re-enactment etc constitutes Parliamentary approval of prior interpretation",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 18",
+      "text": "The enactment or re-enactment of a provision of an Act that has been\nconstrued in a particular manner (judicially or otherwise) in this State or\nelsewhere creates no presumption that Parliament has sanctioned or approved that\nconstruction."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Material that is part of Act or instrument",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Material that is part of Act or instrument",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 19",
+      "text": "(1)         Except as provided\nin subsection (2), everything appearing in an Act or a legislative\ninstrument is part of the Act or instrument.\n         (2)         Subsection (1)\ndoes not apply to--\n             (a)         anything described as an editorial note; or\n             (b)         material appearing under the heading \"Legislative History\";\nor\n             (c)         an appendix setting out a table of divisional penalty and expiation\nfee amounts that specifies that it is for convenience of reference\nonly."
+    },
+    {
+      "key": "section:19A",
+      "title": "Section 19A - Amending Act or instrument to be construed as part of amended Act or instrument",
+      "main_structural_unit": "section",
+      "main_structural_number": "19A",
+      "main_structural_heading": "Amending Act or instrument to be construed as part of amended Act or instrument",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 19A",
+      "text": "An Act or legislative instrument that amends another Act or legislative\ninstrument must be construed with the other Act or instrument as part of that\nother Act or instrument."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Use of examples",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Use of examples",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 20",
+      "text": "An example included in an Act or a legislative instrument--\n             (a)         is not exhaustive; and\n             (b)         may extend, but does not limit, the meaning of the provision of the\nAct or legislative instrument to which it relates."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Things to be done by Governor to mean by Governor with advice of Executive Council",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Things to be done by Governor to mean by Governor with advice of Executive Council",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 21",
+      "text": "If, in an Act passed, or a legislative instrument made, after\nSection 1 January 1873, the Governor is authorised or required to do any act,\nmatter or thing, it will be taken to mean that the act, matter or thing may or\nmust be done by the Governor with the advice and consent of the Executive\nCouncil."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Determining whether Act or instrument binds Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Determining whether Act or instrument binds Crown",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 22",
+      "text": "(1)         Subject to subsection (2), an Act passed, or a legislative\ninstrument made, after 20 June 1990 will, unless the contrary\nintention appears (either expressly or by implication), be taken to bind the\nCrown, but not so as to impose any criminal liability on the Crown.\n         (2)         If an Act\npassed, or a legislative instrument made, after 20 June 1990 amends an\nAct passed, or a legislative instrument made, before that date, the question\nwhether the amendment binds the Crown will be determined in accordance with\nsubsection (3).\n         (3)         An Act passed, or a\nlegislative instrument made, on or before 20 June 1990 will only be\ntaken to bind the Crown if the Act or instrument expressly, or by necessary\nimplication, binds the Crown.\n         (4)         If an Act or a legislative instrument, or a provision of an Act or a\nlegislative instrument, (whether passed or made before or after\nSection 20 June 1990) binds the Crown but not so as to impose any criminal\nliability on the Crown, the Crown's immunity from criminal liability extends\n(unless the contrary intention is expressed) to an agent of the Crown in respect\nof an act within the scope of the agent's obligations.\n         (5)         If an Act or a legislative instrument, or a provision of an Act or a\nlegislative instrument, (whether passed or made before or after\nSection 20 June 1990) does not bind the Crown, the Crown's immunity extends\n(unless the contrary intention is expressed) to an agent of the Crown in respect\nof an act within the scope of the agent's obligations.\n         (6)         For the purposes of this section--\n             (a)         a reference to the Crown extends not only to the Crown in right of\nthis State but also (so far as the legislative power of the State permits) to\nthe Crown in any other capacity; and\n             (b)         a reference to an agent of the Crown extends to an instrumentality,\nofficer or employee of the Crown or a contractor or other person who carries out\nfunctions on behalf of the Crown; and\n             (c)         an agent acts within the scope of the agent's obligations if the act\nis reasonably required for carrying out of obligations or functions imposed on,\nor assigned to, the agent."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Date of establishment of State",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Date of establishment of State",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 23",
+      "text": "The State is taken to have been established on\nSection 28 December 1836."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Declaration of validity of laws made before Australia Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Declaration of validity of laws made before Australia Acts",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 24",
+      "text": "Each provision of an Act or a legislative instrument enacted or made, or\npurporting to have been enacted or made, before the commencement of the\nAustralia Acts is as valid as it would have been, and has the same effect as it\nwould have had, if the Australia Acts had been in operation at the time of its\nenactment or making or purported enactment or making."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Acts taken to be public Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Acts taken to be public Acts",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 25",
+      "text": "An Act passed after 1 January 1873 is taken to be a public\nAct."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - No requirement for separate enacting words",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "No requirement for separate enacting words",
+      "defined_term": null,
+      "structure_path": "Part 3--General interpretative provisions > Section 26",
+      "text": "There is no requirement for a provision or portion of an Act to have\nseparate enacting words in order to have effect as a substantive\nenactment."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Commencement of Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Commencement of Acts",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 27",
+      "text": "(1)         An Act that\ncontains no provision fixing the date of its commencement, or providing for the\nfixing of that date, comes into operation on the day on which it is assented to\nby, or on behalf of, the Crown.\n         (2)         If a Bill is reserved for the signification of Her Majesty's assent,\nthe Bill will be taken, for the purposes of subsection (1), to have been\nassented to on the day on which the assent is notified by proclamation in the\nState.\n         (3)         If an Act\nprovides that the Act comes into operation on a day to be fixed by proclamation,\nor that any provisions of the Act come into operation on a day to be fixed by\nproclamation, then, unless the contrary intention appears, the Governor may by\nproclamation--\n             (a)         fix a day or time for the Act or provisions to come into operation;\nor\n             (b)         fix different days or times for different provisions of the Act to\ncome into operation; or\n             (c)         suspend the operation of specified provisions of the Act until a day\nor time or days or times to be fixed by subsequent proclamation or\nproclamations.\n         (4)         For the purposes of subsection (3), a reference to a provision of\nan Act extends to--\n             (a)         a part of a provision; and\n             (b)         a provision to be inserted into another Act by the Act.\n         (5)         The Governor may, by subsequent proclamation made before the day or\ntime fixed by proclamation under subsection (3) for an Act or provision to\ncome into operation, amend the proclamation to fix a different day or time for\nthe Act or provision to come into operation.\n         (6)         Subject to\nsubsection (7), an Act or a provision of an Act passed--\n             (a)         after the commencement of this subsection; or\n             (b)         within the period of 2 years before the commencement of this\nsubsection,\nthat is to be brought into operation by proclamation will be taken to come\ninto operation on the second anniversary of the date on which the Act was\nassented to by, or on behalf of, the Crown unless brought into operation before\nthat second anniversary.\n         (7)         Subsection (6)\ndoes not apply to an Act or a provision of an Act if the Act or provision\nprovides that that subsection does not apply (or, if the Act or provision was\nenacted before the commencement of that subsection, that section 7(5) of\nthe Acts Interpretation Act 1915 does not apply).\nNote--\nIn relation to commencement of legislative instruments see the\nLegislative Instruments Act 1978."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Time of commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Time of commencement",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 28",
+      "text": "If an Act or a legislative instrument, or a provision of an Act or a\nlegislative instrument, comes into operation on a particular day, the Act or\ninstrument, or the provision, comes into operation at the beginning of that\nday."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Expiry",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Expiry",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 29",
+      "text": "An Act or a legislative instrument may include a provision specifying a day\non which the Act or instrument (or any provision of the Act or instrument)\nexpires."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Time of expiry",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Time of expiry",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 30",
+      "text": "If an Act or a legislative instrument, or a provision of an Act or a\nlegislative instrument, is expressed to expire, lapse or otherwise cease to have\neffect on a particular day, or to remain or continue in force or otherwise have\neffect until a particular day, the Act or instrument, or the provision,\ncontinues to have effect until the end of the specified day."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Use of headings to indicate amending provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Use of headings to indicate amending provisions",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 31",
+      "text": "(1)         In an Act, a provision under a heading referring to the amendment of a\nspecified Act or a legislative instrument amends the Act or instrument so\nspecified.\n         (2)         In a legislative instrument made by an authority, a provision under a\nheading referring to the amendment of a specified legislative instrument made by\nthe same authority amends the instrument so specified."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Effect of repeal, amendment or expiry",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Effect of repeal, amendment or expiry",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 32",
+      "text": "(1)         This section applies if an Act or a legislative instrument, or a\nprovision of an Act or a legislative instrument--\n             (a)         is repealed or amended; or\n             (b)         expires.\n         (2)         The repeal,\namendment or expiry of the Act, legislative instrument or provision does\nnot--\n             (a)         revive anything not in force or existing at that time; or\n             (b)         affect the previous operation of the Act, instrument or provision or\nanything duly done or suffered under it; or\n             (c)         affect any direct amendments made by the Act, instrument or provision;\nor\n             (d)         affect any right,\ninterest, title, power or privilege created, acquired, accrued, established or\nexercisable, or any status or capacity existing, under the Act, instrument or\nprovision; or\n             (e)         affect any duty,\nobligation, liability or burden of proof imposed, created or incurred, or any\npenalty, forfeiture or punishment incurred or imposed or liable to be incurred\nor imposed, under the Act, instrument or provision; or\n             (f)         affect any\ninvestigation, legal proceeding or remedy in respect of anything mentioned in\nparagraph (d) or (e).\n         (3)         An investigation, legal proceeding or remedy mentioned in\nsubsection (2)(f) may be commenced, continued or enforced, and a penalty,\nforfeiture or punishment mentioned in subsection (2)(e) may be imposed, as\nif the Act, legislative instrument or provision had not been repealed or amended\nor had not expired.\n         (4)         If an office, court, tribunal or body would, apart from this section,\ncease to exist by reason of the repeal, amendment or expiry, then, for the\npurpose of instituting, continuing or enforcing any such investigation, legal\nproceeding or remedy, the office, court, tribunal or body continues in existence\n(and, if necessary, new appointments may be made to it) as if the repeal or\namendment had not been effected, or as if the expired Act, legislative\ninstrument or provision had not expired (as the case may be).\n         (5)         An Act or a legislative instrument, or a provision of an Act or a\nlegislative instrument, will, despite its repeal, amendment or expiry, continue\nin force for the purposes of continuing and completing any act, matter or thing\ncommenced or in progress under that Act, instrument or provision if there is no\nsubstituted Act, instrument or provision adapted to its continuance and\ncompletion.\n         (6)         The repeal, amendment or expiry of the Act, legislative instrument or\nprovision does not--\n             (a)         affect the continued operation of a provision enacted or made by that\nAct, instrument or provision that is of a savings or transitional nature;\nor\n             (b)         end the validating effect of a provision enacted or made by that Act,\ninstrument or provision that validates anything that is or may otherwise be\ninvalid.\n         (7)         In this section--\n\"legal proceeding\" includes any proceeding pursuant to an Act\nor law whether of a judicial or administrative nature."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Saving of administrative acts and instruments when provisions replaced",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Saving of administrative acts and instruments when provisions replaced",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 33",
+      "text": "(1)         If an Act or a legislative instrument, or a provision of an Act or a\nlegislative instrument, is replaced, an administrative act done in accordance\nwith it (as in force before it was replaced and not being an administrative act\nthe effect of which was exhausted) will be regarded as an administrative act\ndone for the purposes of the replacement Act, instrument or provision if it is\nnot inconsistent with the Act, instrument or provision as in force after it is\nreplaced.\n         (2)         If--\n             (a)         a legislative instrument or other instrument is in force under a\nprovision of an Act; and\n             (b)         the Act, or the provision of the Act, is replaced by a subsequent Act\nor provision that contains or provides a power to make instruments to the same\nor similar effect,\nthe instrument will, subject to the subsequent Act or provision, remain in\nforce as if the subsequent Act or provision had been in force when the\ninstrument was made and the instrument had been made under that Act or\nprovision.\n         (3)         An Act or a\nlegislative instrument, or provision of an Act or a legislative instrument, will\nbe taken to have been \"replaced\" if it has been repealed or\nsuperseded by a later Act, instrument or provision that deals with the same\nmatter (whether it deals with the matter in the same manner or not and whether\nit deals only with the matter or with other matters also)."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Amendment or repeal of Act in session in which it was passed",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Amendment or repeal of Act in session in which it was passed",
+      "defined_term": null,
+      "structure_path": "Part 4--Commencement, amendment, replacement, repeal and expiry > Section 34",
+      "text": "An Act may be amended or repealed in the session of Parliament in which it\nwas passed."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Citation and references to other enactments",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Citation and references to other enactments",
+      "defined_term": null,
+      "structure_path": "Part 5--Citation and references > Section 35",
+      "text": "(1)         An Act or a legislative instrument of this jurisdiction may be cited\nby--\n             (a)         its short title; or\n             (b)         its short title abbreviated by omitting reference to any year except\nthe year in which it was passed.\n         (2)         An Act or a legislative instrument of any other jurisdiction may be\ncited by its short title or by any method authorised by, or commonly used in,\nthe legislation of that other jurisdiction, together with a reference to the\njurisdiction.\n         (3)         A reference in an Act or a legislative instrument to an Act of this or\nany other jurisdiction includes a reference to legislative instruments made or\nin force under that Act.\n         (4)         A reference in an Act or a legislative instrument to a portion or\nprovision of an Act of this or any other jurisdiction includes a reference\nto--\n             (a)         legislative\ninstruments made or in force under that portion or provision of that Act;\nand\n             (b)         legislative instruments made or in force under some other portion or\nprovision of that Act that are connected to the portion or provision mentioned\nin paragraph (a).\n         (5)         Nothing in this section renders unlawful or ineffective any citation\nor reference that is not made in a manner authorised by this section."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - References to amended or replaced Acts, legislative instruments and provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "References to amended or replaced Acts, legislative instruments and provisions",
+      "defined_term": null,
+      "structure_path": "Part 5--Citation and references > Section 36",
+      "text": "(1)         This section applies to a reference in an Act or a legislative\ninstrument to--\n             (a)         an Act, or a provision of an Act, of this or any other jurisdiction;\nor\n             (b)         a legislative instrument, or a provision of a legislative instrument,\nof this or any other jurisdiction.\n         (2)         The reference is a reference to that Act, legislative instrument or\nprovision as amended from time to time and, if it is replaced (within the\nmeaning of section 33(3)), as replaced and amended from time to\ntime."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Performance of functions",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Performance of functions",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 37",
+      "text": "(1)         If an Act or a legislative instrument confers a function on a person\nor body, the function may be performed from time to time as occasion\nrequires.\n         (2)         If an Act or a legislative instrument confers a function on the holder\nof a particular office, the function may be performed by the person for the time\nbeing holding or performing the duties of the office.\n         (3)         If an Act or a legislative instrument confers a function on a body,\nthe performance of the function is not affected merely because of a vacancy in\nthe membership of the body or a defect in the appointment of a member."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Performance of functions under provision before commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Performance of functions under provision before commencement",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 38",
+      "text": "(1)         If--\n             (a)         a provision of an Act that has passed, or a legislative instrument\nthat has been made, is not yet in operation; and\n             (b)         it is expedient that a function conferred on a person or body by the\nprovision be performed before it comes into operation,\nthe function may be so performed before the provision comes into\noperation.\n         (2)         Subject to subsection (3), anything created, granted, issued,\ndone or made under or pursuant to a provision by virtue of subsection (1)\nwill take effect when the provision comes into operation and not\nbefore.\n         (3)         If the function\nthat is performed is the appointment of a person to a specified office or the\nestablishment of a specified body--\n             (a)         the appointed person may act in the office or the established body may\nmeet and perform its functions with the same entitlement to remuneration or\nallowances as if the provision were in operation; but\n             (b)         any function performed by that person or body pursuant to\nsubsection (1) does not take effect until the relevant provision comes into\noperation."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Certain meetings etc may occur remotely",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Certain meetings etc may occur remotely",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 39",
+      "text": "(1)         If an Act or a\nlegislative instrument requires that a meeting occur or that some other\ntransaction take place that requires 2 or more persons to be physically present,\nthe requirement will be taken to be satisfied if the persons meet, or the\ntransaction takes place, remotely using 1 or both (including a combination) of\nthe following means of communication:\n             (a)         audio visual;\n             (b)         audio.\n         (2)         However, subsection (1) does not apply to a requirement that a\nperson be physically present to witness the signing, execution, certification or\nstamping of a document or to take any oath, affirmation or declaration in\nrelation to a document.\n         (3)         Subsection (1) does not apply to a meeting or transaction, or\nmeeting or transaction of a class, prescribed by the regulations.\n         (4)         A person who participates in a meeting in accordance with this section\nis taken to be present at the meeting, and to form part of any quorum for the\nmeeting, even if the person is not physically present at the same place as\nanother person participating in the meeting."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Power to make instrument includes power to amend or repeal",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Power to make instrument includes power to amend or repeal",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 40",
+      "text": "A power under an Act or a legislative instrument to make an instrument\n(including a legislative instrument) includes a power to amend or repeal the\ninstrument in the same way, and subject to the same conditions if appropriate\nfor that purpose, as it was made."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Powers of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Powers of appointment",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 41",
+      "text": "(1)         This section applies if an Act or a legislative instrument authorises\nor requires a person (the \"appointer\")--\n             (a)         to appoint a person to an office or to act in an office; or\n             (b)         to appoint a person to perform a function or do any other\nthing,\nand any form of authorisation to perform a function or do a thing is taken\nto be an \"appointment\" for the purposes of this section.\n         (2)         The appointer may (in the appointer's discretion) do any of the\nfollowing:\n             (a)         appoint a person by name or by reference to the title of an office\nheld by a person;\n             (b)         determine the terms and conditions of the appointment, including\nremuneration and allowances (if any);\n             (c)         terminate or suspend an appointment;\n             (d)         reinstate or reappoint a person whose appointment has been terminated\nor suspended;\n             (e)         appoint another person, temporarily or permanently--\n                   (i)         if the person previously appointed is, for any reason, unable to carry\nout the duties of the office or position; or\n                   (ii)         if the office or position is vacant (including where the previous\nappointment has been terminated or suspended).\n         (3)         An authorisation or\nrequirement in an Act or a legislative instrument to appoint a person to an\noffice will be taken to include an authorisation to appoint a person to act in\nthe office.\n         (4)         A person may be appointed to act in an office (whether pursuant to a\nspecific authorisation or requirement in an Act or a legislative instrument or\npursuant to subsection (3)) even if no appointment has ever been made to\nthe office.\n         (5)         If the holder of a particular office is appointed to do a thing, the\nperson for the time being holding or performing the duties of that office is\ntaken to be appointed to do that thing.\n         (6)         A person appointed to act in an office has all the functions of the\nholder of the office.\n         (7)         An appointment made by the holder of a particular office does not\ncease to have effect merely because the appointer ceases to hold that\noffice.\n         (8)         Anything done by, or in relation to, a person purporting to act in an\noffice pursuant to an appointment is not invalid merely because--\n             (a)         the occasion for the appointment had not arisen; or\n             (b)         there was a defect or irregularity in connection with the appointment;\nor\n             (c)         the appointment had ceased to have effect; or\n             (d)         the occasion for the person to act had not arisen or had\nceased."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Gender balance in nomination of persons for appointment to statutory bodies",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Gender balance in nomination of persons for appointment to statutory bodies",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 42",
+      "text": "(1)         This section\napplies if an Act or a legislative instrument provides for a member of a body to\nbe appointed by the Governor or a Minister on the nomination of a non-government\nentity.\n         (2)         If the Act provides for the non-government entity to nominate a panel\nof persons from which the Governor or Minister is to select a person for\nappointment, the Act will be taken to provide that the panel--\n             (a)         must include at least 1 woman and 1 man; and\n             (b)         must, as far as practicable, be comprised of equal numbers of women\nand men.\n         (3)         If the Act does not provide for the non-government entity to nominate\na panel of persons from which the Governor or Minister is to select a person for\nappointment, the Act will be taken to provide that--\n             (a)         the non-government entity must nominate a panel of persons comprised\nof not less than twice the number of members of the body to be appointed on the\nnomination of the entity plus 1; and\n             (b)         the\npanel--\n                   (i)         must include at least 1 woman and 1 man; and\n                   (ii)         must, as far as practicable, be comprised of equal numbers of women\nand men; and\n             (c)         the Governor or Minister must select the person for appointment from\nthe panel.\n         (4)         This section does not derogate from the need to properly assess merit\nin selecting persons for appointment.\n         (5)         In this section--\n\"man\" includes a person who identifies himself as a man\nregardless of the person's designated sex at birth;\n\"non-government entity\" means a person or body other than an\nofficer, agency or instrumentality (including a Minister) of the Crown in right\nof the State or the Commonwealth or another State or a Territory of the\nCommonwealth;\n\"woman\" includes a person who identifies herself as a woman\nregardless of the person's designated sex at birth."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Powers of delegation",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Powers of delegation",
+      "defined_term": null,
+      "structure_path": "Part 6--Functions and powers > Section 43",
+      "text": "(1)         This section applies if an Act or a legislative instrument authorises\na person or body to delegate a function.\n         (2)         A delegation may be made subject to conditions or limitations\nspecified by the delegator and may be revoked at any time by the\ndelegator.\n         (3)         Unless the Act or the legislative instrument expressly provides to the\ncontrary, a delegation of the power of delegation cannot be made (and any\npurported delegation of all of the functions of the delegator will be read as if\nthe delegation referred to all of the functions of the delegator other than the\npower of delegation).\n         (4)         If a function, when\nexercised by a delegator, is dependent on the delegator's opinion, belief or\nstate of mind in relation to a matter, the function, when exercised by a\ndelegate, is dependent on the delegate's opinion, belief or state of mind in\nrelation to that matter.\n         (5)         A function that has been delegated, when exercised by a delegate, will\nbe taken to have been exercised by the delegator.\n         (6)         A function that has been delegated may, despite the delegation, be\nexercised by the delegator.\n         (7)         The delegator may delegate the function to a person or body by name or\nby reference to the title of an office held by a person or body.\n         (8)         A delegation made to the holder of a particular office will be taken\nto be made to the person for the time being holding or performing the duties of\nthe office.\n         (9)         A delegation of all the functions of a person or body under an Act or\na legislative instrument, or a provision of an Act or a legislative instrument,\nincludes any additional function given to the delegator under the Act,\ninstrument or provision by an amendment made to it after the delegation has\ntaken effect.\n         (10)         If a function of a person or body under an Act or a legislative\ninstrument is delegated and, after the delegation has taken effect, the scope of\nthat function is altered by an amendment made to the Act or the instrument, the\ndelegation is of the function as so altered.\n         (11)         A delegation made by, or to, the holder of a particular office does\nnot cease to have effect merely because the person who held the office when the\nfunction was delegated ceases to do so.\n         (12)         The validity of a delegation is not affected by a grammatical error,\nspelling error, error of punctuation, formatting error or other minor error if\nthe scope and meaning of the delegation is readily apparent despite the\nerror.\n         (13)         In this section--\n\"delegate\" includes sub-delegate."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Calculating time",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Calculating time",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 44",
+      "text": "(1)         A period of time referred to in an Act or a legislative instrument\nthat is of a kind mentioned in column 2 of an item in the table below is to be\ncalculated as set out in column 3 of that item.\nColumn 1\nItem\nColumn 2\nIf the period of time--\nColumn 3\nthen the period--\n1\nis expressed to occur between 2 days\nincludes both days\n2\nis expressed to begin at, on or with a specified day\nincludes that specified day\n3\nis expressed to begin on, from or after the happening of an act or\nevent\ndoes not include the day on which the act or event occurs\n4\nis expressed to continue until a specified day\nincludes that specified day\n5\nis expressed to end at, on or with a specified day\nincludes that specified day\n6\nis expressed to begin after a specified day\ndoes not include that specified day\n7\nis expressed to end before a specified day\ndoes not include that specified day\n8\nis a period of 2 or more months expressed to begin at, on or with a\nspecified day in a calendar month (the starting month)\nends immediately before the corresponding day of the calendar month (the\nending month) that is the relevant number of calendar months after the starting\nmonth or, if there is no corresponding day, at the end of the ending\nmonth\n         (2)         If an Act or a legislative instrument requires or allows a thing to be\ndone but the last day for doing it is a day that is not a business day, then the\nthing may be done on the next day that is a business day.\n         (3)         If no period of time is provided or allowed for doing a thing that is\nrequired to be done, the thing must be done as soon as is reasonably\npracticable."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - References to time",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "References to time",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 45",
+      "text": "A reference in an Act or a legislative instrument to time in relation to\ndoing anything in this or any other jurisdiction is a reference to the legal\ntime in the jurisdiction."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Part-day public holidays and periods of time",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Part-day public holidays and periods of time",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 46",
+      "text": "If, for the purposes of an Act or a legislative instrument, a business day,\nworking day or other period is expressed as excluding a public holiday, the\nexclusion does not extend to a part-day public holiday unless the Act or\nlegislative instrument expressly provides to the contrary."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - References to number of sitting days",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "References to number of sitting days",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 47",
+      "text": "A reference in an Act or a legislative instrument to a number of sitting\ndays of a House of Parliament is, unless the contrary intention appears, a\nreference to the number of those days regardless of whether the days or some of\nthe days occur in different sessions of Parliament or in different\nParliaments."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Measuring distance",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Measuring distance",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 48",
+      "text": "In measuring a distance for the purposes of an Act or a legislative\ninstrument, the distance is to be measured in a straight line on a horizontal\nplane."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Attaining particular age",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Attaining particular age",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 49",
+      "text": "(1)         A person attains a\nparticular age expressed in years at the beginning of the relevant anniversary\nof the date of the person's birth.\n         (2)         If a person was born on 29 February, subsection (1) will\napply in relation to the person in each leap year and, in any year that is not a\nleap year, the person will attain a particular age expressed in years at the\nbeginning of 1 March."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Rounding down of monetary amounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Rounding down of monetary amounts",
+      "defined_term": null,
+      "structure_path": "Part 7--Time, distance, age and amounts > Section 50",
+      "text": "An Act or a legislative instrument providing for the calculation and\npayment of a tax, fee, charge or other amount must be construed as if it\nprovided that the calculated amount, if not an exact multiple of 5 cents,\nis to be rounded down to the highest multiple of 5 cents that is less than\nthat amount."
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Service of documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Service of documents",
+      "defined_term": null,
+      "structure_path": "Part 8--Documents provided under an Act > Section 51",
+      "text": "(1)         This section applies if an Act or a legislative instrument requires or\npermits a document to be served on a person (whether the expression \"serve\",\n\"give\", \"provide\", \"deliver\" or \"send\" or any other expression is\nused).\n         (2)         The document may be served on an individual by--\n             (a)         delivering it to the individual personally; or\n             (b)         leaving it at, or posting it to--\n                   (i)         the physical address designated by the individual for the service of\ndocuments of that kind; or\n                   (ii)         if such an address is not so designated, the place of residence or a\nplace of business of the individual last known to the server; or\n             (c)         sending it electronically to the individual in a manner designated, or\nagreed to, by the individual for the service of documents of that\nkind.\n         (3)         The document may be served on a body corporate by--\n             (a)         leaving it at, or posting it to--\n                   (i)         the registered office of the body corporate; or\n                   (ii)         another physical address designated by the body corporate for the\nservice of documents of that kind; or\n                   (iii)         if such an address is not so designated, a place of business of the\nbody corporate last known to the server; or\n             (b)         sending it electronically to the body corporate in a manner\ndesignated, or agreed to, by the body corporate for the service of documents of\nthat kind.\n         (4)         A document is posted to an address by properly addressing, prepaying\nand posting the document as a letter.\n         (5)         Unless the contrary is proved, service of a document by posting it to\nan individual or a body corporate is taken to be effected at the time at which\nthe document would be delivered in the ordinary course of post for the postal\nservice used.\nNote--\nThe time and place of service of a document sent electronically is to be\ndetermined in accordance with the Electronic Communications\nAct 2000."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Compliance with forms",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Compliance with forms",
+      "defined_term": null,
+      "structure_path": "Part 8--Documents provided under an Act > Section 52",
+      "text": "If a form is prescribed or approved by or for the purposes of an Act or a\nlegislative instrument, a form to the same effect is sufficient provided that\ndeviations from the prescribed or approved form are not calculated to\nmislead."
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Penalties",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Penalties",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 53",
+      "text": "(1)         A penalty set out at the end of a provision of an Act or a legislative\ninstrument indicates that--\n             (a)         an offence mentioned in the provision is punishable on finding of\nguilt by a penalty not exceeding the penalty so set out; or\n             (b)         if an offence is not mentioned in the provision, a contravention of\nthe provision is an offence punishable on finding of guilt by a penalty not\nexceeding the penalty so set out.\n         (2)         If the penalty for an offence--\n             (a)         is increased, the increased penalty applies only to offences committed\nafter the increase takes effect; or\n             (b)         is reduced, the reduced penalty extends to offences committed before\nthe reduction takes effect (if the penalty is being imposed after the reduction\ntakes effect).\n         (3)         In this section--\n\"penalty\" includes punishment.\nNote--\nSee also Expiation of Offences Act 1996 in relation to\nexpiation fees fixed by an Act or a legislative instrument."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Standard scales for penalties and expiation fees",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Standard scales for penalties and expiation fees",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 54",
+      "text": "If an expression in the left hand column below appears in an Act or a\nlegislative instrument, that expression has the meaning appearing opposite it in\nthe right hand column:\nDivision 1 imprisonment\na term of imprisonment not exceeding 15 years\nDivision 1 fine\na fine not exceeding $75 000\nDivision 2 imprisonment\na term of imprisonment not exceeding 10 years\nDivision 2 fine\na fine not exceeding $50 000\nDivision 3 imprisonment\na term of imprisonment not exceeding 7 years\nDivision 3 fine\na fine not exceeding $35 000\nDivision 4 imprisonment\na term of imprisonment not exceeding 4 years\nDivision 4 fine\na fine not exceeding $20 000\nDivision 5 imprisonment\na term of imprisonment not exceeding 2 years\nDivision 5 fine\na fine not exceeding $10 000\nDivision 6 imprisonment\na term of imprisonment not exceeding 1 year\nDivision 6 fine\na fine not exceeding $5 000\nDivision 6 fee\nan expiation fee of $315\nDivision 7 imprisonment\na term of imprisonment not exceeding 6 months\nDivision 7 fine\na fine not exceeding $2 500\nDivision 7 fee\nan expiation fee of $210\nDivision 8 imprisonment\na term of imprisonment not exceeding 3 months\nDivision 8 fine\na fine not exceeding $1 250\nDivision 8 fee\nan expiation fee of $160\nDivision 9 fine\na fine not exceeding $750\nDivision 9 fee\nan expiation fee of $105\nDivision 10 fine\na fine not exceeding $250\nDivision 10 fee\nan expiation fee of $80\nDivision 11 fine\na fine not exceeding $125\nDivision 11 fee\nan expiation fee of $55\nDivision 12 fine\na fine not exceeding $75\nDivision 12 fee\nan expiation fee of $30"
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Fines etc to be paid into Treasury",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Fines etc to be paid into Treasury",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 55",
+      "text": "If a fine, penalty or forfeiture is imposed or made by, or authorised to be\nimposed or made under, any Act, the Act will be taken to provide that the fine,\npenalty or forfeiture, when recovered, must be paid to the Treasurer of the\nState and form part of the Consolidated Account."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - References to offences",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "References to offences",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 56",
+      "text": "A reference in an Act or a legislative instrument to an offence that is\npunishable by imprisonment for a specified term or more includes a reference to\nan offence punishable by imprisonment for life or by an indefinite\nterm."
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Who may proceed for recovery of penalties",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Who may proceed for recovery of penalties",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 57",
+      "text": "Any person may take proceedings to recover a fine, penalty or forfeiture\nimposed by, or authorised to be imposed or awarded under, an Act or a\nlegislative instrument, unless the right to take proceedings is vested by the\nAct or the legislative instrument in a particular officer or person."
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Interpretation of references to summary proceedings, complaints etc",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Interpretation of references to summary proceedings, complaints etc",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 58",
+      "text": "(1)         If an Act or a legislative instrument provides that proceedings for\noffences are to be dealt with, or disposed of, summarily or before a special\nmagistrate or 1 or more justices, those offences will be dealt with under\nthe Criminal Procedure Act 1921 as summary offences.\n         (2)         If an Act or a legislative instrument provides that a pecuniary sum\nmay be recovered summarily or before or on the award of a special magistrate or\nSection 1 or more justices, that sum may be recovered on information in proceedings\nunder the Criminal Procedure Act 1921 and an order for payment made\nin any such proceedings is enforceable as if it were a fine.\n         (3)         A reference in\nan Act or a legislative instrument to a complaint (being an instrument charging\na person with a summary offence) will be taken to be a reference to an\ninformation under the Criminal Procedure Act 1921 (and a reference\nto a complainant will be taken to be a reference to an informant under that\nAct).\n         (4)         A reference in\nan Act or a legislative instrument to making a complaint in respect of an\noffence will be taken to be a reference to laying an information under the\nCriminal Procedure Act 1921 in respect of an offence of the relevant\nclass.\n         (5)         A reference in an Act or a legislative instrument to a complaint\n(being an instrument charging a person with a summary offence) other than of a\nkind contemplated by subsection (3) or (4) is to be construed so as to\nrecognise that, following the commencement of the Summary Procedure\n(Abolition of Complaints) Amendment Act 2016, all offences are to be\ncharged on information."
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Offences punishable under more than 1 law",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Offences punishable under more than 1 law",
+      "defined_term": null,
+      "structure_path": "Part 9--Penalties and proceedings for offences > Section 59",
+      "text": "If an act or omission constitutes an offence under 2 or more Acts, or\nboth under an Act or Acts and at common law, the offender will, unless the\ncontrary intention appears, be liable to be prosecuted and punished under either\nor any of those Acts or at common law, but is not liable to be punished twice\nfor the same offence."
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 10--Miscellaneous > Section 60",
+      "text": "(1)         The Governor may make such regulations as are contemplated by, or\nnecessary or expedient for the purposes of, this Act.\n         (2)         The regulations\nmay--\n             (a)         be of general or limited application; and\n             (b)         make different provision according to the matters or circumstances to\nwhich they are expressed to apply; and\n             (c)         make provisions\nof a saving or transitional nature consequent on the enactment of this Act or on\nthe commencement of specified provisions of this Act or on the making of\nregulations under this Act; and\n             (d)         provide that a matter or thing in respect of which regulations may be\nmade is to be determined according to the discretion of the Minister or any\nother specified person or body."
+    },
+    {
+      "key": "schedule:1.part:7.section:44",
+      "title": "Schedule 1 Section 44 - does not operate to alter the period of time provided or",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "44",
+      "main_structural_unit_heading": "does not operate to alter the period of time provided or",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 44",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 44 - does not operate to alter the period of time provided or\n\nallowed for the doing of anything under an Act or a statutory instrument if the\nperiod commenced before the commencement of this Act.\nLEGISLATION INTERPRETATION ACT 2021\n - NOTES\nLegislative\nhistory\n    *     Please note--References in the legislation to other\nlegislation or instruments or to titles of bodies or offices are not\nautomatically updated as part of the program for the revision and publication of\nlegislation and therefore may be obsolete.\n    *     Earlier versions of this Act (historical versions) are listed at\nthe end of the legislative history.\n    *     For further information relating to the Act and subordinate\nlegislation made under the Act see the Index of South Australian Statutes or\nwww.legislation.sa.gov.au.\nLegislation repealed by principal\nAct\nThe Legislation Interpretation Act 2021 repealed the\nfollowing:\nActs Interpretation Act 1915\nLegislation amended by principal Act\nThe Legislation Interpretation Act 2021 amended the\nfollowing:\nEvidence Act 1929\nLegislation (Fees) Act 2019\nLegislation Revision and Publication Act 2002\nSubordinate Legislation Act 1978\nPrincipal Act and amendments\nNew entries appear in bold.\nYear\nNo\nTitle\nAssent\nCommencement\n2021\n36\nLegislation Interpretation Act 2021"
+    },
+    {
+      "key": "schedule:1.part:7.section:30-9",
+      "title": "Schedule 1 Section 30-9 - 2021",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "30-9",
+      "main_structural_unit_heading": "2021",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 30-9",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 30-9 - 2021"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1-2022",
+      "title": "Schedule 1 Section 1-1-2022 - (Gazette 23.12.2021 p4619)",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1-2022",
+      "main_structural_unit_heading": "(Gazette 23.12.2021 p4619)",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1-2022",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1-2022 - (Gazette 23.12.2021 p4619)\n\n2023\n39\nPublic Holidays Act 2023"
+    },
+    {
+      "key": "schedule:1.part:7.section:7-12",
+      "title": "Schedule 1 Section 7-12 - 2023",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "7-12",
+      "main_structural_unit_heading": "2023",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 7-12",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 7-12 - 2023\n\nSch 1 (cl 11)--1.1.2024: s 2\n2025\n55\nStatutes Amendment (Attorney-General's Portfolio)\nAct 2025"
+    },
+    {
+      "key": "schedule:1.part:7.section:20-11",
+      "title": "Schedule 1 Section 20-11 - 2025",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "20-11",
+      "main_structural_unit_heading": "2025",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 20-11",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 20-11 - 2025\n\nPt 5 (s 7)--20.11.2025: s 2\nProvisions amended\nNew entries appear in bold.\nEntries that relate to provisions that have been deleted appear in\nitalics.\nProvision\nHow varied\nCommencement\nLong title\namended under Legislation Revision and Publication\nAct 2002"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024\n\ns 2\nomitted under Legislation Revision and Publication\nAct 2002"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024\n\ns 4\nbank holiday\namended by 39/2023 Sch 1 cl 11(1)"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024\n\npart-day public holiday\namended by 39/2023 Sch 1 cl 11(2)"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024\n\npublic holiday\namended by 39/2023 Sch 1 cl 11(3)"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024\n\ns 19A\ninserted by 55/2025 s 7"
+    },
+    {
+      "key": "schedule:1.part:7.section:20-11",
+      "title": "Schedule 1 Section 20-11 - 2025",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "20-11",
+      "main_structural_unit_heading": "2025",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 20-11",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 20-11 - 2025\n\nSch 1\nPts 1--6\nomitted under Legislation Revision and Publication\nAct 2002"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024\n\nHistorical versions"
+    },
+    {
+      "key": "schedule:1.part:7.section:1-1",
+      "title": "Schedule 1 Section 1-1 - 2024",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1-1",
+      "main_structural_unit_heading": "2024",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7--Transitional > Section 1-1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1--Transitional provisions",
+      "text": "Schedule 1 - Schedule 1--Transitional provisions\n\nSection 1-1 - 2024"
+    }
+  ]
+}

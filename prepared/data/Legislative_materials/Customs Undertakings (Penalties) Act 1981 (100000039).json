@@ -1,0 +1,72 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/cua1981347/",
+    "source": "Customs Undertakings (Penalties) Act 1981 (100000039).txt",
+    "filename": "Customs Undertakings (Penalties) Act 1981 (100000039).json",
+    "name": "Customs Undertakings (Penalties) Act 1981",
+    "citation": "Customs Undertakings (Penalties) Act 1981"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Customs Undertakings (Penalties) Act 1981 > Section 1",
+      "text": "This Act may be cited as the Customs Undertakings (Penalties) Act 1981."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Customs Undertakings (Penalties) Act 1981 > Section 2",
+      "text": "This Act shall come into operation on the day on which the Customs Amendment (Tenders) Act 1981 comes into operation."
+    },
+    {
+      "key": "section:2A",
+      "title": "Section 2A - General administration of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "2A",
+      "main_structural_heading": "General administration of Act",
+      "defined_term": null,
+      "structure_path": "Customs Undertakings (Penalties) Act 1981 > Section 2A",
+      "text": "The Comptroller-General of Customs (within the meaning of the Customs Act 1901) has the general administration of this Act."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Customs Undertakings (Penalties) Act 1981 > Section 3",
+      "text": "(1) In this Act, unless the contrary intention appears:\n\"Customs undertaking\" means an undertaking given under subsection 267(1) or 268(2) of the Customs Act 1901 , and includes such an undertaking as varied.\n\"item of a Customs Tariff\" and proposed item of a Customs Tariff have the same respective meanings as in Part  XVI of the Customs Act 1901.\n\"prescribed percentage\", in relation to goods, means the prescribed percentage set out in the Customs undertaking that relates to the goods.\n (2) For the purposes of this Act, where a Customs undertaking sets out the value of a unit of the goods to which the undertaking relates, the value of the goods shall be calculated in accordance with that value."
+    },
+    {
+      "key": "section:3A",
+      "title": "Section 3A - Act does not extend to Norfolk Island",
+      "main_structural_unit": "section",
+      "main_structural_number": "3A",
+      "main_structural_heading": "Act does not extend to Norfolk Island",
+      "defined_term": null,
+      "structure_path": "Customs Undertakings (Penalties) Act 1981 > Section 3A",
+      "text": "This Act does not extend to Norfolk Island."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Penalty",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Penalty",
+      "defined_term": null,
+      "structure_path": "Customs Undertakings (Penalties) Act 1981 > Section 4",
+      "text": "(1) Subject to subsection  (2), where a person breaches a Customs undertaking given by him or her, there is payable by that person to the Commonwealth, by way of penalty, an amount equal to the prescribed percentage of the value of the goods to which the undertaking relates.\n (2) Where a person who has given a Customs undertaking has, in partial compliance with the undertaking, entered goods for home consumption under an item, or proposed item, of a Customs Tariff to which the undertaking relates during the period, or each of the periods, specified in the undertaking, the penalty otherwise applicable under subsection  (1) shall be reduced by an amount that bears to the amount of that penalty the same proportion as:\n (a) where a particular quantity of goods was required to be so entered to comply fully with the undertaking--the quantity of goods so entered bears to that particular quantity; or\n (b) where a quantity of goods of a particular value was required to be so entered to comply fully with the undertaking--the value of the goods so entered bears to that particular value."
+    }
+  ]
+}

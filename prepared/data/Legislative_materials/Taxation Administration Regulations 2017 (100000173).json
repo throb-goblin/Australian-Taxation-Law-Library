@@ -1,0 +1,987 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_reg/tar2017378/",
+    "register_url": "https://www.legislation.gov.au/F2017L01227/latest/text",
+    "source": "Taxation Administration Regulations 2017 (100000173).txt",
+    "filename": "Taxation Administration Regulations 2017 (100000173).json",
+    "name": "Taxation Administration Regulations 2017",
+    "citation": "Taxation Administration Regulations 2017"
+  },
+  "chunks": [
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Authority",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Authority",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 3",
+      "text": "This instrument is made under the Taxation Administration Act 1953."
+    },
+    {
+      "key": "regulation:5.term:act",
+      "title": "Regulation 5 Definitions \"Act\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Act\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"Act\" means the Taxation Administration Act 1953."
+    },
+    {
+      "key": "regulation:5.term:assessable-fhss-released-amount",
+      "title": "Regulation 5 Definitions \"assessable FHSS released amount\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"assessable FHSS released amount\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"assessable FHSS released amount\" has the meaning given by subsection 995-1(1) of the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "regulation:5.term:double-tax-agreement",
+      "title": "Regulation 5 Definitions \"double tax agreement\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"double tax agreement\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"double tax agreement\" means an agreement within the meaning of the International Tax Agreements Act 1953."
+    },
+    {
+      "key": "regulation:5.term:double-tax-country",
+      "title": "Regulation 5 Definitions \"double tax country\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"double tax country\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"double tax country\" has the meaning given by section 43.\n\"effective\", in relation to an address, has the meaning given by subsection 15(3)."
+    },
+    {
+      "key": "regulation:5.term:electronic-communication",
+      "title": "Regulation 5 Definitions \"electronic communication\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"electronic communication\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"electronic communication\" has the same meaning as in the Electronic Transactions Act 1999."
+    },
+    {
+      "key": "regulation:5.term:foreign-resident",
+      "title": "Regulation 5 Definitions \"foreign resident\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"foreign resident\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"foreign resident\" has the meaning given by subsection 995-1(1) of the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "regulation:5.term:indirect-tax-zone",
+      "title": "Regulation 5 Definitions \"indirect tax zone\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"indirect tax zone\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"indirect tax zone\" has the same meaning as in the A New Tax System (Goods and Services Tax) Act 1999."
+    },
+    {
+      "key": "regulation:5.term:international-agreement",
+      "title": "Regulation 5 Definitions \"international agreement\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"international agreement\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"international agreement\" has the meaning given by subsection 58(3).\n\"other party\", to a double tax agreement or international tax sharing treaty, has the meaning given by section 45."
+    },
+    {
+      "key": "regulation:5.term:preferred-address-for-service",
+      "title": "Regulation 5 Definitions \"preferred address for service\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"preferred address for service\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"preferred address for service\" has the meaning given by subsection 15(1)."
+    },
+    {
+      "key": "regulation:5.term:tax-related-liability",
+      "title": "Regulation 5 Definitions \"tax-related liability\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax-related liability\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"tax-related liability\" has the meaning given by section  255-1 in Schedule 1 to the Act."
+    },
+    {
+      "key": "regulation:5.term:tax-sharing-country",
+      "title": "Regulation 5 Definitions \"tax sharing country\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tax sharing country\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"tax sharing country\" has the meaning given by section 44."
+    },
+    {
+      "key": "regulation:5.term:top-rate",
+      "title": "Regulation 5 Definitions \"top rate\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"top rate\"",
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 5",
+      "text": "\"top rate\" means the sum of:\n (a) the highest rate specified in the table in Part  I of Schedule 7 to the Income Tax Rates Act 1986; and\n (b) the rate of levy specified in subsection  6(1) of the Medicare Levy Act 1986."
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Interpretation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 6",
+      "text": "To avoid doubt, paragraph 13(1)(b) of the Legislation Act 2003 has effect in relation to this Part.\nNote: The effect of paragraph 13(1)(b) of the Legislation Act 2003 is that expressions have the same meaning in this Part as in the Act (except Schedule 1) as in force from time to time."
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Certificates--failure to comply with requirements of taxation laws",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Certificates--failure to comply with requirements of taxation laws",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 7",
+      "text": "(1) In a prosecution of a person for an offence against subsection  8C(1), 8D(1) or 8D(2) of the Act in relation to the refusal or failure of the person to comply with a requirement made under or pursuant to a taxation law, a certificate in writing signed by the Commissioner, a Second Commissioner or a Deputy Commissioner certifying that the person, in the circumstances stated in the certificate, refused or failed, as the case may be, to do a matter or thing mentioned in subsection  8C(1), 8D(1) or 8D(2) is prima facie evidence of the facts stated in the certificate.\n (2) In any proceedings, a document purporting to be a certificate given in accordance with this section and signed by a person authorised to sign the certificate is, unless the contrary is proved, taken to be such a certificate and to have been duly given."
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Compliance with taxation law requirements--manner of serving orders",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Compliance with taxation law requirements--manner of serving orders",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 8",
+      "text": "(1) For the purposes of subsection  8G(2) of the Act, a copy of an order under subsection 8G(1) of the Act is served in the prescribed manner on the person to whom the order is addressed if the copy:\n (a) where the person is a natural person:\n (i) is delivered to the person personally; or\n (ii) is left at, or sent by pre -paid post to, the address of the place of residence or business of the person last known to the person causing the copy to be served; or\n (b) where the person is a body corporate--is left at, or sent by pre -paid post to, the head office, a registered office or a principal office of the body corporate.\n (2) For the purposes of subsection  8G(2) of the Act, a copy of an order under subsection 8G(1) of the Act is served on a person in the prescribed manner if it is served in accordance with an arrangement made under subsection  (3).\n (3) If:\n (a) the Commissioner, after making reasonable inquiries, is satisfied that:\n (i) the person is absent from Australia and does not have any agent in Australia on whom the document can be served; or\n (ii) the person cannot be found; and\n (b) the Commissioner, after making reasonable inquiries, is satisfied that the person has an address in a foreign country, a constituent part of a foreign country or a foreign territory (an overseas address);\nthe Commissioner may make an arrangement with the proper officer of the court for the Commissioner to serve the copy on the person at that overseas address in accordance with an agreement between Australia and:\n (c) a foreign country or a constituent part of a foreign country; or\n (d) a foreign territory;\nthat deals with the service of documents on tax matters."
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Enforcement of orders for payment of amounts to Commissioner",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Enforcement of orders for payment of amounts to Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 9",
+      "text": "(1) A certificate issued under subsection  8ZG(2) of the Act in relation to an order of a court for the payment of an amount to the Commissioner must be in accordance with Form 1 in Schedule 1, and must contain the following particulars:\n (a) the name and location of the court;\n (b) the date on which the order was made;\n (c) the provision of the taxation law under which the order was made;\n (d) the amount to be paid to the Commissioner;\n (e) the name and address of the person ordered to pay the amount.\n (2) For the purposes of subsection  8ZG(3) of the Act:\n (a) a certificate issued under subsection  8ZG(2) of the Act is to be registered in a court by the proper officer of the court entering the particulars of the certificate in a book kept by the court for that purpose; and\n (b) if the order to which a certificate referred to in paragraph  (a) relates was made more than 12 months before the day on which the registration of the certificate is sought, the registration of the certificate in a court is subject to the condition that leave to register the certificate has first been obtained from the court."
+    },
+    {
+      "key": "regulation:10",
+      "title": "Regulation 10 - Prosecution of prescribed taxation offences--election to have cases tried in Supreme Court",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Prosecution of prescribed taxation offences--election to have cases tried in Supreme Court",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 10",
+      "text": "For the purpose of subsection 8ZJ(5) of the Act, a person prosecuted for a prescribed taxation offence may elect to have the case tried in the Supreme Court of the State or Territory in which the prosecution was instituted by serving on the person who instituted the prosecution, and filing in the court in which the prosecution was instituted, a notice in accordance with Form 2 in Schedule  1."
+    },
+    {
+      "key": "regulation:11",
+      "title": "Regulation 11 - Departure prohibition orders",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "11",
+      "main_structural_heading": "Departure prohibition orders",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 11",
+      "text": "(1) For the purposes of subsection  14S(1) of the Act, Form 3 in Schedule 1 is prescribed.\n (2) For the purposes of paragraph  14S(4)(a) of the Act, a person is informed, as prescribed, of the making of a departure prohibition order if a copy of the order is served in accordance with section 14.\n (3) For the purposes of subparagraph  14S(4)(b)(ii) of the Act, each of the following persons is prescribed:\n (a) the Comptroller-General of Customs (within the meaning of the Customs Act 1901);\n (b) the Commissioner of Police referred to in section  6 of the Australian Federal Police Act 1979;\n (c) the Secretary of the Department administered by the Minister administering the Diplomatic Privileges and Immunities Act 1967."
+    },
+    {
+      "key": "regulation:12",
+      "title": "Regulation 12 - Revocation and variation of departure prohibition orders",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12",
+      "main_structural_heading": "Revocation and variation of departure prohibition orders",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 12",
+      "text": "(1) For the purposes of paragraph  14T(4)(a) of the Act, notification of the revocation or variation of a departure prohibition order is served, as prescribed, on a person if a document containing the particulars of the revocation or variation is served in accordance with section  14.\n (2) For the purposes of subsection  14T(5) of the Act, notification of a decision referred to in that subsection is served, as prescribed, on a person if a document containing the particulars of the decision is served in accordance with section  14."
+    },
+    {
+      "key": "regulation:13",
+      "title": "Regulation 13 - Departure authorisation certificates",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13",
+      "main_structural_heading": "Departure authorisation certificates",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 13",
+      "text": "(1) For the purposes of subsection  14U(3) of the Act, a copy of a departure authorisation certificate is served, as prescribed, on a person if the copy is served in accordance with section 14.\n (2) For the purposes of subsection  14U(4) of the Act, notification of a decision referred to in that subsection is served, as prescribed, on a person if a document containing particulars of the decision is served in accordance with section  14."
+    },
+    {
+      "key": "regulation:13A",
+      "title": "Regulation 13A - Eligible recipients of disclosures",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13A",
+      "main_structural_heading": "Eligible recipients of disclosures",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 13A",
+      "text": "For the purposes of paragraph  14ZZV(1)(d) of the Act, the Inspector-General of Taxation is prescribed in relation to all entities."
+    },
+    {
+      "key": "regulation:13B",
+      "title": "Regulation 13B - Authorised recipients of disclosures of confidential information",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13B",
+      "main_structural_heading": "Authorised recipients of disclosures of confidential information",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 13B",
+      "text": "For the purposes of paragraph  14ZZW(2)(d) of the Act, the following are prescribed:\n (a) the Inspector-General of Taxation;\n (b) the Tax Practitioners Board;\n (c) the Commissioner of the Australian Charities and Not -for-profits Commission."
+    },
+    {
+      "key": "regulation:14",
+      "title": "Regulation 14 - Service of documents",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "14",
+      "main_structural_heading": "Service of documents",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 14",
+      "text": "(1) The Commissioner may serve a document on a person for the purposes of the taxation laws by:\n (a) if the person has given a preferred address for service that is a physical address--leaving a copy of the document at that address; or\n (b) if the person has given a preferred address for service that is a postal address--posting a copy of the document to that address; or\n (c) if the person has given a preferred address for service that is an electronic address:\n (i) sending an electronic copy of the document to that address; or\n (ii) sending an electronic communication to that address that notifies the person that a copy of the document is available to be retrieved by electronic means.\n (2) This section does not affect the operation of any other law of the Commonwealth, or any law of a State or Territory, that deals with the service of documents.\nNote: For an example of another law that deals with the service of documents, see sections 28A and 29 of the Acts Interpretation Act 1901."
+    },
+    {
+      "key": "regulation:15",
+      "title": "Regulation 15 - Preferred address for service",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "15",
+      "main_structural_heading": "Preferred address for service",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 15",
+      "text": "(1) An address in Australia used by or associated with a person is a preferred address for service of the person if:\n (a) it is of one of the following kinds of address:\n (i) a physical address;\n (ii) a postal address;\n (iii) an electronic address; and\nNote 1: An address may be both a physical address and a postal address (for example a street address).\nNote 2: The following are examples of an electronic address:\n        (a) an email address;\n        (b) a secure website that the person can access to obtain a document.\n (b) the person has given it to the Commissioner as an address for the service of documents by the Commissioner under a taxation law; and\n (c) the designation of the address or other circumstances indicate that the person wishes the address to be used by the Commissioner in preference to other addresses of the person, whether generally or in specific circumstances.\n (2) The designation of an address in a form or correspondence as an &#39;address for service&#39;, a &#39;preferred address&#39;, an &#39;address for correspondence&#39; or similar term satisfies paragraph  (1)(c).\n (3) An address is effective if the person to whom the address relates:\n (a) will receive documents delivered to the address; or\n (b) will receive electronic communications sent to the address."
+    },
+    {
+      "key": "regulation:16",
+      "title": "Regulation 16 - Requirement to maintain a preferred address for service",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "16",
+      "main_structural_heading": "Requirement to maintain a preferred address for service",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 16",
+      "text": "If a person is required to give the Commissioner a preferred address for service for a purpose (for example, by the approved form for a return), the person must subsequently maintain a preferred address for service for the purpose."
+    },
+    {
+      "key": "regulation:17",
+      "title": "Regulation 17 - Change or withdrawal of preferred address for service",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "17",
+      "main_structural_heading": "Change or withdrawal of preferred address for service",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 17",
+      "text": "(1) A person may change or withdraw a preferred address for service only by giving the Commissioner notice in the approved form.\n (2) If the person is required to maintain a preferred address for service under a taxation law, the person may withdraw a preferred address for service only if another effective preferred address for service that is a postal address remains.\n (3) If the person is required to maintain a preferred address for service under a taxation law, and a preferred address for service becomes ineffective, the person must change or withdraw the ineffective address within 28 days."
+    },
+    {
+      "key": "regulation:18",
+      "title": "Regulation 18 - Substitute preferred address for service",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "18",
+      "main_structural_heading": "Substitute preferred address for service",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 18",
+      "text": "(1) This section applies if:\n (a) a person has not given the Commissioner a preferred address for service; or\n (b) the Commissioner is satisfied that none of a person&#39;s preferred addresses for service is effective.\n (2) If the Commissioner has a record of another address relating to the person (whether or not a physical address), and it appears to the Commissioner that it is likely that the address is effective, the Commissioner may treat that address as the person&#39;s preferred address for service for all purposes under the taxation laws."
+    },
+    {
+      "key": "regulation:18A",
+      "title": "Regulation 18A - Service in accordance with international agreement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "18A",
+      "main_structural_heading": "Service in accordance with international agreement",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 18A",
+      "text": "(1) This section applies if the Commissioner proposes to serve a document on a person for the purposes of the taxation laws, and:\n (a) either:\n (i) the person has not given the Commissioner a preferred address for service; or\n (ii) the Commissioner is satisfied that none of the person&#39;s preferred addresses for service is effective; and\n (b) the Commissioner, after making reasonable inquiries, is satisfied that:\n (i) the person is absent from Australia and does not have any agent in Australia on whom the document can be served; or\n (ii) the person cannot be found; and\n (c) the Commissioner, after making reasonable inquiries, is satisfied that the person has an address in a foreign country, a constituent part of a foreign country or a foreign territory (an overseas address).\n (2) The Commissioner may serve the document on the person at the overseas address in accordance with an agreement between Australia and:\n (a) a foreign country or a constituent part of a foreign country; or\n (b) a foreign territory;\nthat deals with the service of documents on tax matters.\n (3) This section does not affect the operation of any other law of the Commonwealth, or any law of a State or Territory, that deals with the service of documents.\nNote: For an example of another law that deals with the service of documents, see sections 28A and 29 of the Acts Interpretation Act 1901."
+    },
+    {
+      "key": "regulation:19",
+      "title": "Regulation 19 - Failure to notify change of address",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "19",
+      "main_structural_heading": "Failure to notify change of address",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 19",
+      "text": "A person whose preferred address for service is no longer effective, and who has not changed or withdrawn the address under section  17, may not plead the fact that the address was not effective as a defence in any proceedings (whether civil or criminal) instituted against the person under a taxation law."
+    },
+    {
+      "key": "regulation:20",
+      "title": "Regulation 20 - Payments out of Consolidated Revenue Fund--prescribed provisions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "20",
+      "main_structural_heading": "Payments out of Consolidated Revenue Fund--prescribed provisions",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 20",
+      "text": "For the purposes of sub -subparagraph 16(2)(a)(i)(B) of the Act, subsection 353-10(3) in Schedule 1 to the Act is prescribed."
+    },
+    {
+      "key": "regulation:21",
+      "title": "Regulation 21 - Payment of tax - related liabilities",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "21",
+      "main_structural_heading": "Payment of tax - related liabilities",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 21",
+      "text": "(1) A person who pays a tax -related liability must pay the liability in Australian currency.\n (2) The person must pay the tax -related liability using a method approved by the Commissioner and in accordance with any instructions provided by the Commissioner.\n (3) The person must pay the amount of the tax -related liability in a single payment unless the Commissioner agrees that the person may make more than one payment."
+    },
+    {
+      "key": "regulation:22",
+      "title": "Regulation 22 - When receipts are to be given",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "22",
+      "main_structural_heading": "When receipts are to be given",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 22",
+      "text": "The Commissioner is not required to give a receipt to a person who pays a tax -related liability unless the person asks for the receipt."
+    },
+    {
+      "key": "regulation:23",
+      "title": "Regulation 23 - Payment of postage on mail to Commissioner",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "23",
+      "main_structural_heading": "Payment of postage on mail to Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 23",
+      "text": "(1) The full amount of postage on an item addressed to the Commissioner in relation to a matter must be paid by the sender before the letter is sent.\n (2) If:\n (a) the Commissioner contributes to the cost of postage of an unstamped, or insufficiently stamped, item; and\n (b) the Commissioner receives a payment in relation to a tax -related liability;\nthe Commissioner may deduct the amount of the contribution from the payment.\n (3) The amount of the payment remaining after deduction of the Commissioner&#39;s contribution is to be credited towards payment of the tax -related liability."
+    },
+    {
+      "key": "regulation:24",
+      "title": "Regulation 24 - Presumption as to signatures",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "24",
+      "main_structural_heading": "Presumption as to signatures",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 24",
+      "text": "(1) A document bearing the name (however produced) of a person who is, or was at any time, the Commissioner, a Second Commissioner, a Deputy Commissioner or a delegate of the Commissioner in the place of the person&#39;s signature is taken to have been duly signed by the person, unless it is proved that the document was issued without authority.\n (2) A document given under a taxation law that purports to be signed by the authority of the Commissioner is as effective for all purposes under the taxation laws as if it had been signed personally by the Commissioner.\n (3) Any notice that, under a taxation law, is to be given to an entity by the Commissioner may be given to the entity by an officer who is authorised by the Commissioner to do so."
+    },
+    {
+      "key": "regulation:25",
+      "title": "Regulation 25 - Interpretation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "25",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 25",
+      "text": "Paragraph 13(1)(b) of the Legislation Act 2003 has effect in relation to this Part as if the reference in that paragraph to the enabling legislation was a reference to Schedule 1 to the Act.\nNote 1: The effect of modifying paragraph 13(1)(b) of the Legislation Act 2003 is that expressions have the same meaning in this Part as in Schedule 1 to the Act as in force from time to time.\nNote 2: Under section 3AA of the Act, an expression has the same meaning in Schedule  1 as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "regulation:26",
+      "title": "Regulation 26 - Rounding amounts for PAYG withholding",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "26",
+      "main_structural_heading": "Rounding amounts for PAYG withholding",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 26",
+      "text": "(1) This section applies to:\n (a) the amount of a payment that is to be dealt with under a provision of Division  2 or 3 of this Part; and\n (b) an amount that has been worked out under a provision of Division  2 or 3 of this Part.\n (2) If the amount is less than $1, disregard the amount.\n (3) If the amount is more than $1 and includes a number of cents that is less than a whole dollar, disregard the number of cents by which the amount exceeds the whole dollar."
+    },
+    {
+      "key": "regulation:27",
+      "title": "Regulation 27 - Payment under labour hire arrangement, or specified by regulations",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "27",
+      "main_structural_heading": "Payment under labour hire arrangement, or specified by regulations",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 27",
+      "text": "For the purposes of subsection  12-60(2) in Schedule 1 to the Act, payments of the following kinds are prescribed:\n (a) payments for tutorial services that are provided to improve the education of Indigenous people and are financially supported (directly or indirectly) by the Commonwealth;\n (b) payments for translation and interpretation services provided for the Translating and Interpreting Service (also known as TIS) conducted by the Department administered by the Minister administering the Migration Act 1958;\n (c) payments under a contract to an individual engaged as a performing artist to perform in an activity in which the individual:\n (i) endorses or promotes goods or services; or\n (ii) appears or participates in an advertisement;\n  unless the individual is engaged primarily because he or she is a sportsperson;\n (d) payments of green army allowance (within the meaning of the Social Security Act 1991)."
+    },
+    {
+      "key": "regulation:28",
+      "title": "Regulation 28 - Thresholds for withholding on investment payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "28",
+      "main_structural_heading": "Thresholds for withholding on investment payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 28",
+      "text": "(1) This section is made for the purposes of section  12-170 in Schedule 1 to the Act.\nInvestments other than public company shares, investors aged under 16\n (2) An amount is not required to be withheld from a payment under section  12-140 or 12-145 in Schedule 1 to the Act if:\n (a) the payment is not a payment in relation to an investment mentioned in item  6 (shares in a public company) of the table in subsection 202D(1) of the Income Tax Assessment Act 1936; and\n (b) the payment is to be made to an investor:\n (i) who had not turned 16 on the 1  January before the date on which the payment was made; and\n (ii) about whose age the investment body is aware; and\n (c) the amount of the payment is less than:\n (i) in the case of a payment in respect of the whole of a financial year--$420; and\n (ii) in any other case--an amount worked out using the formula:\n  where:\n  number of days in period is the number of days in the period in the financial year in respect of which the amount is payable.\n  number of days in year is the number of days in the financial year.\nInterest-bearing investments\n (3) An amount is not required to be withheld from a payment under section  12-140 or 12-145 in Schedule 1 to the Act if:\n (a) the payment is not a payment to which subsection  (2) applies; and\n (b) the payment is in respect of an investment of a kind mentioned in item  1 or 2 of the table in subsection 202D(1) of the Income Tax Assessment Act 1936; and\n (c) the amount of the payment is less than:\n (i) in the case of a payment in respect of the whole of a financial year--$120; and\n (ii) in any other case--the amount worked out using the formula:\n  where:\n  number of days in period is the number of days in the period in the financial year in respect of which the amount is payable.\n  number of days in year is the number of days in the financial year."
+    },
+    {
+      "key": "regulation:29",
+      "title": "Regulation 29 - Distributions of income of closely held trusts--prescribed trusts",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "29",
+      "main_structural_heading": "Distributions of income of closely held trusts--prescribed trusts",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 29",
+      "text": "(1) For the purposes of subparagraph  12-175(1)(c)(iii) in Schedule 1 to the Act, the following trusts are prescribed:\n (a) a discretionary mutual fund (within the meaning of subsections  5(5) and (6) of the Financial Sector (Collection of Data) Act 2001);\n (b) a trust that is a fund that provides professional indemnity insurance or insurance -like cover to a legal practitioner, including a fund established under legislation or by a State or Territory law society to provide professional indemnity cover to its members;\n (c) an employee share trust for an employee share scheme;\n (d) a trust covered by subsection  (2).\nLaw practice trusts\n (2) This subsection covers a trust that is:\n (a) created and maintained for the purposes of, or in connection with:\n (i) the provision of legal services by a duly qualified legal practitioner; or\n (ii) the deposit of money of a kind described in column 1 of item  4 of the table in subsection 202D(1) of the Income Tax Assessment Act 1936; and\n (b) regulated by a State or Territory law for the regulation of legal practices or legal services."
+    },
+    {
+      "key": "regulation:30",
+      "title": "Regulation 30 - Threshold for withholding on net income of closely held trusts",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "30",
+      "main_structural_heading": "Threshold for withholding on net income of closely held trusts",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 30",
+      "text": "(1) This section is made for the purposes of section  12-185 in Schedule 1 to the Act.\n (2) An amount is not required to be withheld under section  12-175 or 12-180 in Schedule 1 to the Act from a payment (including a payment mentioned in subsection  12-180(3)) if the payment is less than:\n (a) if the payment is for the whole of a financial year--$120; or\n (b) if the payment is for part of a financial year--the amount worked out using the formula:\n  where:\n  number of days in period is the number of days in the period in the financial year in respect of which the amount is payable.\n  number of days in year is the number of days in the financial year."
+    },
+    {
+      "key": "regulation:31",
+      "title": "Regulation 31 - Kinds of payments--gaming junkets",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "31",
+      "main_structural_heading": "Kinds of payments--gaming junkets",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 31",
+      "text": "(1) For the purposes of paragraph  12-315(1)(b) in Schedule 1 to the Act, a payment for operating or promoting an arrangement covered by subsection (2) is prescribed.\nNote: For the amount to be withheld from the payment, see section 49.\nGaming junkets\n (2) This subsection covers an arrangement for the promotion or organising of gaming in one or more casinos, whether or not any of the casinos is required by an agreement to make a payment, by which:\n (a) an individual or a group of people comes to Australia for the purpose of gaming at particular casinos; and\n (b) the entity receives payment, from one or more of the casinos, that is:\n (i) a reward made in relation to arranging for the individual or the people to go to a casino for gaming; or\n (ii) a commission based on the gaming or losses of the individual or group of people.\n (3) For the purposes of subsection  (2), gaming means playing a game of chance or a game that is partly a game of chance and partly a game of skill."
+    },
+    {
+      "key": "regulation:32",
+      "title": "Regulation 32 - Kinds of payments--entertainment or sports activities",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "32",
+      "main_structural_heading": "Kinds of payments--entertainment or sports activities",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 32",
+      "text": "(1) For the purposes of paragraph  12-315(1)(b) in Schedule 1 to the Act, a payment to an entity for entertainment or sports activities is prescribed.\nExamples: Appearance fees, award for player of the series, bonuses, endorsement fees, expense reimbursements, match payments, non -cash prizes, performance fees, preparation fees, prize money, promotional fees, sponsorship.\nNote: For the amount to be withheld from the payment, see section 50.\n (2) For the purposes of subsection  (1), the activities may include giving a speech or a sports commentary.\nEntertainment or sports activities\n (3) For the purposes of subsection  (1), entertainment or sports activities means the activities of:\n (a) a performing artist or a sportsperson; or\n (b) support staff relating to the activity."
+    },
+    {
+      "key": "regulation:33",
+      "title": "Regulation 33 - Kinds of payments--construction and related activities",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33",
+      "main_structural_heading": "Kinds of payments--construction and related activities",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 33",
+      "text": "(1) For the purposes of paragraph  12-315(1)(b) in Schedule 1 to the Act, a payment made under a contract entered into after 30 June 2004 (including payments to subcontractors) for works or related activities is prescribed.\nNote: For the amount to be withheld from the payment, see section 51.\nWorks\n (2) For the purposes of subsection  (1), works includes the construction, installation and upgrade of buildings, plant and fixtures.\nExamples: Dam, electricity links, mine site development, natural gas field development, natural resource infrastructure, oilfield development, pipeline, power generation infrastructure, railway or road, residential building, resort development, retail or commercial development, upgrading airport, upgrading telecommunications equipment, water treatment plant.\nRelated activities\n (3) For the purposes of subsection  (1), related activities includes activities associated with the construction, installation and upgrading of buildings, plant and fixtures.\nExamples: Administration, assembly, de-commissioning plant, design, commissioning and operation of facilities, costing, engineering, erection, fabrication, hook -up, installation, project management, site management, supervision and provision of personnel, supply of plant and equipment, warranty repairs."
+    },
+    {
+      "key": "regulation:34.p1",
+      "title": "Regulation 34 - Information exchange countries",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "34",
+      "main_structural_heading": "Information exchange countries",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 34",
+      "text": "(1) For the purposes of subsection 12-385(4) in Schedule 1 to the Act, a foreign country or a foreign territory mentioned in an item of the table in subsection (2) is specified as an information exchange country with effect from the date specified in the item. (2) A reference to a foreign country or a foreign territory in the table is a reference to the foreign country or the foreign territory to the extent to which it is described in an agreement mentioned in: (a) the definition of agreement in subsection 3(1) of the International Tax Agreements Act 1953; or (b) the definition of international agreement in subsection 23(4) of the International Tax Agreements Act 1953. Information exchange countriesItemCountry or TerritoryDate of effect1Argentina1 July 20082Bermuda1 July 20083Canada1 July 20084China1 July 20085Czech Republic1 July 20086Denmark1 July 20087Fiji1 July 20088Finland1 July 20089France1 July 200810Germany1 July 200811Hungary1 July 200812(Information exchange countriesItemCountry or TerritoryDate of effect1Argentina1 July 20082Bermuda1 July 20083Canada1 July 20084China1 July 20085Czech Republic1 July 20086Denmark1 July 20087Fiji1 July 20088Finland1 July 20089France1 July 200810Germany1 July 200811Hungary1 July 200812India1 July 200813Indonesia1 July 200814Ireland1 July 200815Italy1 July 200816Japan1 July 200817Kiribati1 July 200818Malta1 July 200819Mexico1 July 200820Netherlands1 July 200821Netherlands Antilles1 July 200822New Zealand1 July 200823Norway1 July 200824Papua New Guinea1 July 2008(India1 July 200813Indonesia1 July 200814Ireland1 July 200815Italy1 July 200816Japan1 July 200817Kiribati1 July 200818Malta1 July 200819Mexico1 July 200820Netherlands1 July 200821Netherlands Antilles1 July 200822New Zealand1 July 200823Norway1 July 200824Papua New Guinea1 July 200825Poland1 July 200826Romania1 July 200827Russia1 July 200828Slovakia1 July 200829South Africa1 July 200830Spain1 July 200831Sri Lanka1 July 200832Sweden1 July 200833Taipei1 July 200834Thailand1 July 200835United Kingdom1 July 200836United States of America1 July 200837Vietnam1 July 2008(25Poland1 July 200826Romania1 July 200827Russia1 July 200828Slovakia1 July 200829South Africa1 July 200830Spain1 July 200831Sri Lanka1 July 200832Sweden1 July 200833Taipei1 July 200834Thailand1 July 200835United Kingdom1 July 200836United States of America1 July 200837Vietnam1 July 2008 38Antigua and Barbuda1 July 201039British Virgin Islands1 July 201040Isle of Man1 July 201041Jersey1 July 2010 42Gibraltar1 January 201143Guernsey1 January 2011 44Belize1 July 201145Cayman Islands1 July 201146The Commonwealth of the Bahamas1 July 201147Principality of Monaco( 38Antigua and Barbuda1 July 201039British Virgin Islands1 July 201040Isle of Man1 July 201041Jersey1 July 2010 42Gibraltar1 January 201143Guernsey1 January 2011 44Belize1 July 201145Cayman Islands1 July 201146The Commonwealth of the Bahamas1 July 201147Principality of Monaco1 July 201148The Republic of San Marino1 July 201149The Republic of Singapore1 July 201150Saint Kitts and Nevis1 July 201151Saint Vincent and the Grenadines1 July 2011 52Anguilla1 January 201253Aruba1 January 201254Belgium1 January 201255Malaysia1 January 201256Turks and Caicos Islands1 January 2012 57Cook Islands1 July 201258(1 July 201148The Republic of San Marino1 July 201149The Republic of Singapore1 July 201150Saint Kitts and Nevis1 July 201151Saint Vincent and the Grenadines1 July 2011 52Anguilla1 January 201253Aruba1 January 201254Belgium1 January 201255Malaysia1 January 201256Turks and Caicos Islands1 January 2012 57Cook Islands1 July 201258Macau1 July 201259Mauritius1 July 201260Republic of Korea1 July 2012 61Albania1 January 201962Andorra1 January 201963Austria1 January 201964Azerbaijan1 January 201965Bahrain1 January 201966Barbados1 January 201967Brazil1 January 201968Brunei1 January 201969Bulgaria1 January 201970(Macau1 July 201259Mauritius1 July 201260Republic of Korea1 July 2012 61Albania1 January 201962Andorra1 January 201963Austria1 January 201964Azerbaijan1 January 201965Bahrain1 January 201966Barbados1 January 201967Brazil1 January 201968Brunei1 January 201969Bulgaria1 January 201970Cameroon1 January 201971Chile1 January 201972Colombia1 January 201973Costa Rica1 January 201974Croatia1 January 201975Cyprus1 January 201976Dominica1 January 201977Estonia1 January 201978Faroe Islands1 January 201979Georgia1 January 201980Ghana1 January 201981Greece1 January 201982Greenland1 January 2019(Cameroon1 January 201971Chile1 January 201972Colombia1 January 201973Costa Rica1 January 201974Croatia1 January 201975Cyprus1 January 201976Dominica1 January 201977Estonia1 January 201978Faroe Islands1 January 201979Georgia1 January 201980Ghana1 January 201981Greece1 January 201982Greenland1 January 201983Grenada1 January 201984Guatemala1 January 201985Iceland1 January 201986Israel1 January 201987Kazakhstan1 January 201989Latvia1 January 201990Liberia1 January 201991Liechtenstein1 January 201992Lithuania1 January 201993Luxembourg1 January 201994Marshall Islands1 January 201995Moldova1 January 201996Montserrat1 January 2019(83Grenada1 January 201984Guatemala1 January 201985Iceland1 January 201986Israel1 January 201987Kazakhstan1 January 201989Latvia1 January 201990Liberia1 January 201991Liechtenstein1 January 201992Lithuania1 January 201993Luxembourg1 January 201994Marshall Islands1 January 201995Moldova1 January 201996Montserrat1 January 201997Nigeria1 January 201998Niue1 January 201999Philippines1 January 2019100Portugal1 January 2019101Saint Lucia1 January 2019102Samoa1 January 2019103Saudi Arabia1 January 2019104Senegal1 January 2019105Seychelles1 January 2019106Sint Maarten1 January 2019107Slovenia1 January 2019108Switzerland1 January 2019109Tunisia(97Nigeria1 January 201998Niue1 January 201999Philippines1 January 2019100Portugal1 January 2019101Saint Lucia1 January 2019102Samoa1 January 2019103Saudi Arabia1 January 2019104Senegal1 January 2019105Seychelles1 January 2019106Sint Maarten1 January 2019107Slovenia1 January 2019108Switzerland1 January 2019109Tunisia1 January 2019110Turkey1 January 2019111Uganda1 January 2019112Ukraine1 January 2019113Uruguay1 January 2019114Vanuatu1 January 2019 115Cura&Atilde;&sect;ao1 January 2020116Lebanon1 January 2020117Nauru1 January 2020118Pakistan1 January 2020119Panama1 January 2020120Peru1 January 2020121Qatar(1 January 2019110Turkey1 January 2019111Uganda1 January 2019112Ukraine1 January 2019113Uruguay1 January 2019114Vanuatu1 January 2019 115Cura&Atilde;&sect;ao1 January 2020116Lebanon1 January 2020117Nauru1 January 2020118Pakistan1 January 2020119Panama1 January 2020120Peru1 January 2020121Qatar1 January 2020122United Arab Emirates1 January 2020 123Dominican Republic1 July 2021124Ecuador1 July 2021125El Salvador1 July 2021126Hong Kong1 July 2021127Jamaica1 July 2021128Kuwait1 July 2021129Morocco1 July 2021130Republic of North Macedonia1 July 2021131Serbia1 July 2021 132Armenia(1 January 2020122United Arab Emirates1 January 2020 123Dominican Republic1 July 2021124Ecuador1 July 2021125El Salvador1 July 2021126Hong Kong1 July"
+    },
+    {
+      "key": "regulation:34.p2",
+      "title": "Regulation 34 - Information exchange countries",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "34",
+      "main_structural_heading": "Information exchange countries",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 34",
+      "text": "2019111Uganda1 January 2019112Ukraine1 January 2019113Uruguay1 January 2019114Vanuatu1 January 2019 115Cura&Atilde;&sect;ao1 January 2020116Lebanon1 January 2020117Nauru1 January 2020118Pakistan1 January 2020119Panama1 January 2020120Peru1 January 2020121Qatar(1 January 2019110Turkey1 January 2019111Uganda1 January 2019112Ukraine1 January 2019113Uruguay1 January 2019114Vanuatu1 January 2019 115Cura&Atilde;&sect;ao1 January 2020116Lebanon1 January 2020117Nauru1 January 2020118Pakistan1 January 2020119Panama1 January 2020120Peru1 January 2020121Qatar1 January 2020122United Arab Emirates1 January 2020 123Dominican Republic1 July 2021124Ecuador1 July 2021125El Salvador1 July 2021126Hong Kong1 July 2021127Jamaica1 July 2021128Kuwait1 July 2021129Morocco1 July 2021130Republic of North Macedonia1 July 2021131Serbia1 July 2021 132Armenia(1 January 2020122United Arab Emirates1 January 2020 123Dominican Republic1 July 2021124Ecuador1 July 2021125El Salvador1 July 2021126Hong Kong1 July 2021127Jamaica1 July 2021128Kuwait1 July 2021129Morocco1 July 2021130Republic of North Macedonia1 July 2021131Serbia1 July 2021 132Armenia1 January 2022133Cabo Verde1 January 2022134Kenya1 January 2022135Mongolia1 January 2022136Montenegro1 January 2022137Oman1 January 2022"
+    },
+    {
+      "key": "regulation:35",
+      "title": "Regulation 35 - Part VA investment payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "35",
+      "main_structural_heading": "Part VA investment payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 35",
+      "text": "(1) The amount to be withheld under section  12-140 or 12-145 in Schedule 1 to the Act from a payment made in respect of a Part VA investment is an amount equal to the product of the top rate and the amount of the payment.\nNote: For the thresholds for withholding, see section 28.\n (2) However, subsection  (3) applies if:\n (a) the payment from which that amount is to be withheld is a franked distribution; and\n (b) the franking percentage is less than 100%.\n (3) The amount to be withheld from the payment is the product of the unfranked part of the distribution and the top rate."
+    },
+    {
+      "key": "regulation:36",
+      "title": "Regulation 36 - Closely held trust--distribution of income of closely held trust",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "36",
+      "main_structural_heading": "Closely held trust--distribution of income of closely held trust",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 36",
+      "text": "The amount to be withheld by a trustee of a closely held trust from a distribution to a beneficiary of the trust under subsection  12-175(2) in Schedule 1 to the Act is the product of the amount of the distribution to be made to the beneficiary and the top rate.\nNote 1: The amount of a distribution in a financial year is affected by the operation of subsection  12-175(4) in Schedule 1 to the Act.\nNote 2: For the threshold for withholding, see section 30."
+    },
+    {
+      "key": "regulation:37",
+      "title": "Regulation 37 - Closely held trust--beneficiary is presently entitled to income",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "37",
+      "main_structural_heading": "Closely held trust--beneficiary is presently entitled to income",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 37",
+      "text": "The amount to be withheld by a trustee of a closely held trust from a beneficiary&#39;s share of the net income of the trust under subsection  12-180(2) in Schedule 1 to the Act, is the product of the amount of the beneficiary&#39;s share of the net income of the trust and the top rate.\nNote 1: The amount of an entitlement in a financial year is affected by the operation of subsection  12-180(4) in Schedule 1 to the Act.\nNote 2: For the threshold for withholding, see section 30."
+    },
+    {
+      "key": "regulation:38",
+      "title": "Regulation 38 - Payment for supply where ABNs not quoted",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "38",
+      "main_structural_heading": "Payment for supply where ABNs not quoted",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 38",
+      "text": "(1) This section applies to a payment to which subsection  12-190(1) in Schedule 1 to the Act applies.\n (2) The amount to be withheld from the payment is an amount equal to the product of the top rate and the amount of the payment."
+    },
+    {
+      "key": "regulation:39",
+      "title": "Regulation 39 - Application to a part of a dividend",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "39",
+      "main_structural_heading": "Application to a part of a dividend",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 39",
+      "text": "This Subdivision applies to a part of a dividend in the same way as to a dividend."
+    },
+    {
+      "key": "regulation:40",
+      "title": "Regulation 40 - Dividend payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40",
+      "main_structural_heading": "Dividend payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 40",
+      "text": "(1) The amount to be withheld from a dividend to which section  12-210 in Schedule 1 to the Act applies is:\n (a) if an address mentioned in paragraph  12-210(a), or a place mentioned in paragraph 12-210(b), in Schedule 1 to the Act is in a tax sharing country and the relevant international tax sharing treaty applies to the dividend--an amount calculated at the rate provided for in the treaty; and\n (b) if paragraph (a) does not apply, but that address or place is in a double tax country--an amount calculated at the rate provided for in the relevant double tax agreement; and\n (c) if paragraphs (a) and (b) do not apply--an amount equal to 30% of the amount of the dividend.\n (2) The amount to be withheld from a dividend to which section  12-215 in Schedule 1 to the Act applies is:\n (a) if a foreign resident mentioned in paragraph  12-215(1)(b) in Schedule 1 to the Act is a resident of a tax sharing country and the relevant international tax sharing treaty applies to the dividend--an amount calculated at the rate provided for in the treaty; and\n (b) if paragraph (a) does not apply, but that foreign resident is a resident of a double tax country--an amount calculated at the rate provided for in the relevant double tax agreement; and\n (c) if paragraphs (a) and (b) do not apply--an amount equal to 30% of the amount of the dividend.\n (3) However, paragraphs  (1)(b) and (2)(b) do not apply in relation to a dividend that is:\n (a) paid to a resident of the United States of America; and\n (b) included in a class of dividends that is exempt from tax under the law of that country."
+    },
+    {
+      "key": "regulation:41",
+      "title": "Regulation 41 - Interest payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "41",
+      "main_structural_heading": "Interest payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 41",
+      "text": "The amount to be withheld under section  12-245, 12-250 or 12-255 in Schedule 1 to the Act from interest (within the meaning of Division  11A of Part III of the Income Tax Assessment Act 1936) is an amount equal to 10% of the amount of the interest."
+    },
+    {
+      "key": "regulation:42",
+      "title": "Regulation 42 - Royalty payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "42",
+      "main_structural_heading": "Royalty payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 42",
+      "text": "The amount to be withheld under section  12-280 or 12-285 in Schedule 1 to the Act from a royalty is:\n (a) if the person to whom the royalty is paid, or a foreign resident mentioned in paragraph  12-285(1)(b) in that Schedule, is a resident of the other party to an international tax sharing treaty that applies to the royalty--the amount calculated at the rate provided for in the treaty; and\n (b) if paragraph (a) does not apply, but the person to whom the royalty is paid, or a foreign resident mentioned in paragraph  12-285(1)(b) in Schedule 1 to the Act, is a resident of the other party to a double tax agreement--the amount calculated at the rate provided for in the agreement; and\n (c) if paragraphs (a) and (b) do not apply, but the person to whom the royalty is paid, or a foreign resident mentioned in paragraph  12-285(1)(b) in that Schedule, is a resident of a country other than Australia--30% of the amount of the royalty; and\n (d) if the person to whom the royalty is paid is a resident of Australia--30% of the amount of the royalty."
+    },
+    {
+      "key": "regulation:43",
+      "title": "Regulation 43 - Meaning of double tax country",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "43",
+      "main_structural_heading": "Meaning of double tax country",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 43",
+      "text": "(1) If a double tax agreement includes provisions that have the force of law because of the International Tax Agreements Act 1953, and relate to a withholding payment:\n (a) on income derived by a non -resident on or after a particular day; or\n (b) in respect of dividends derived on or after a particular day;\nthe other party to the agreement is a double tax country on and after that day.\n (2) If a double tax agreement, not being an agreement to which subsection  (1) applies, includes a provision that has the force of law because of the International Tax Agreements Act 1953, and limits the amount of Australian tax payable in respect of a dividend, the other party to the agreement is a double tax country.\n (3) The Netherlands, as defined in Article 3 of the Netherlands agreement referred to in the International Tax Agreements Act 1953, is a double tax country for this Division."
+    },
+    {
+      "key": "regulation:44",
+      "title": "Regulation 44 - Meaning of tax sharing country",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "44",
+      "main_structural_heading": "Meaning of tax sharing country",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 44",
+      "text": "(1) If an international tax sharing treaty includes provisions that have the force of law because of an Act, and relate to withholding payment:\n (a) on income derived by a non -resident on or after a particular day; or\n (b) in respect of dividends derived on or after a particular day;\nthe other party to the treaty is a tax sharing country on and after that day.\n (2) If an international tax sharing treaty, not being a treaty to which subsection  (1) applies, includes a provision that has the force of law because of an Act, and limits the amount of Australian tax payable in respect of a dividend, the other party to the treaty is a tax sharing country."
+    },
+    {
+      "key": "regulation:45",
+      "title": "Regulation 45 - Meaning of other party",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "45",
+      "main_structural_heading": "Meaning of other party",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 45",
+      "text": "\"The\" other party to a double tax agreement or international tax sharing treaty is:\n (a) if the agreement or treaty was made between Australia and another country--the other country; or\n (b) if the agreement or treaty was made between the government of Australia and the government of another country--the other country."
+    },
+    {
+      "key": "regulation:46",
+      "title": "Regulation 46 - Departing Australia superannuation payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "46",
+      "main_structural_heading": "Departing Australia superannuation payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 46",
+      "text": "The amount to be withheld under section  12-305 in Schedule 1 to the Act from a departing Australia superannuation payment is the amount of tax payable on the payment, worked out under section  5 of the Superannuation (Departing Australia Superannuation Payments Tax) Act 2007."
+    },
+    {
+      "key": "regulation:47",
+      "title": "Regulation 47 - Excess untaxed roll - over amounts",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "47",
+      "main_structural_heading": "Excess untaxed roll - over amounts",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 47",
+      "text": "The amount to be withheld from an excess untaxed roll -over amount under section 12-312 in Schedule 1 to the Act is the amount of tax payable on the excess untaxed roll -over amount, worked out under section 5 of the Superannuation (Excess Untaxed Roll-over Amounts Tax) Act 2007."
+    },
+    {
+      "key": "regulation:48",
+      "title": "Regulation 48 - Limits on amounts withheld under this Subdivision",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "48",
+      "main_structural_heading": "Limits on amounts withheld under this Subdivision",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 48",
+      "text": "(1) This section applies to an amount that is required by Subdivision  12-FB in Schedule 1 to the Act (including regulations made for the purposes of that Subdivision) to be withheld from a payment if any amounts are already withheld under that Subdivision from the payment.\n (2) The amount to be withheld is reduced by the amounts already withheld from the payment.\nExample: A payer is required to withhold an amount under section  12-315 in Schedule 1 to the Act from a payment made to a foreign resident. However, if the foreign resident has an agent who is an intermediary, the intermediary is required to withhold an amount under section  12-317 in that Schedule from that payment. The amount to be withheld under section  12-317 in that Schedule is reduced by the amount already withheld under section 12-315 in that Schedule."
+    },
+    {
+      "key": "regulation:49",
+      "title": "Regulation 49 - Gaming junkets",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "49",
+      "main_structural_heading": "Gaming junkets",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 49",
+      "text": "(1) This section applies to an amount that is required by section  12-315 in Schedule 1 to the Act to be withheld from a payment prescribed by section 31.\n (2) The amount to be withheld from the payment is an amount equal to 3% of the total payment."
+    },
+    {
+      "key": "regulation:50",
+      "title": "Regulation 50 - Entertainment or sports activities",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "50",
+      "main_structural_heading": "Entertainment or sports activities",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 50",
+      "text": "(1) This section applies to an amount that is required by section  12-315 in Schedule 1 to the Act to be withheld from a payment prescribed by section 32.\n (2) The amount to be withheld from the payment is:\n (a) if the payment is made to a company--the amount worked out by applying to the payment, as if the amount of the payment was the taxable income of the company, the rates mentioned in section  23 of the Income Tax Rates Act 1986 ; or\n (b) if the payment is made to an individual--the amount worked out by applying to the payment, as if the amount of the payment was the taxable income of the individual, the rates mentioned in Part  II of Schedule 7 of the Income Tax Rates Act 1986."
+    },
+    {
+      "key": "regulation:51",
+      "title": "Regulation 51 - Construction and related activities",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "51",
+      "main_structural_heading": "Construction and related activities",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 51",
+      "text": "(1) This section applies to an amount that is required by section  12-315 in Schedule 1 to the Act to be withheld from a payment prescribed by section 33.\n (2) The amount to be withheld from the payment is an amount equal to 5% of each payment made under the contract mentioned in subsection  33(1)."
+    },
+    {
+      "key": "regulation:52",
+      "title": "Regulation 52 - Seasonal Labour Mobility Program",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "52",
+      "main_structural_heading": "Seasonal Labour Mobility Program",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 52",
+      "text": "The amount to be withheld from a payment of salary, wages, commission, bonuses or allowances under section  12-319A in Schedule 1 to the Act is an amount equal to 15% of the amount of the payment.\nNote: Section 12-319A relates to payments made to certain visa holders as employees of Approved Employers under the Seasonal Labour Mobility Program."
+    },
+    {
+      "key": "regulation:53",
+      "title": "Regulation 53 - Mining payments",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "53",
+      "main_structural_heading": "Mining payments",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 53",
+      "text": "The amount to be withheld under subsection  12-320(1) in Schedule 1 to the Act from a mining payment is an amount equal to 4% of the amount of the payment."
+    },
+    {
+      "key": "regulation:53A",
+      "title": "Regulation 53A - FHSS released amounts",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "53A",
+      "main_structural_heading": "FHSS released amounts",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 53A",
+      "text": "(1) The amount to be withheld under section  12-460 in Schedule 1 to the Act from the FHSS released amounts paid in respect of an individual is:\n (a) the amount of tax that the Commissioner estimates will be payable by the individual in relation to the individual&#39;s assessable FHSS released amount for an income year; or\n (b) if the Commissioner is unable to make an estimate under paragraph  (a)--17% of the individual&#39;s assessable FHSS released amount for an income year.\n (2) For the purposes of this section, the Commissioner may have regard to any information that the Commissioner considers relevant."
+    },
+    {
+      "key": "regulation:54",
+      "title": "Regulation 54 - When declarations cease to have effect",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "54",
+      "main_structural_heading": "When declarations cease to have effect",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 54",
+      "text": "(1) If an individual who has given a declaration to an entity under subsection  15-50(1) in Schedule 1 to the Act directs the entity in writing to disregard the declaration, the declaration ceases to be in effect.\n (2) If an individual who has given a declaration (the earlier declaration) to an entity under subsection 15-50(1) in Schedule 1 to the Act about a matter, later gives another declaration about the matter to the entity, the earlier declaration ceases to be in effect.\n (3) If an individual who has given a declaration to an entity under subsection  15-50(1) in Schedule 1 to the Act permanently ceases to receive withholding payments covered by Subdivision  12-B, 12-C or 12-D in that Schedule from the entity, the declaration ceases to be in effect.\n (4) If an individual has given a declaration to an entity under subsection  15-50(1) or (3) in Schedule 1 to the Act, the declaration ceases to be in effect if a TFN declaration made by the individual in relation to the entity ceases to have effect because of subsection  202CA(1B) or (1C) of the Income Tax Assessment Act 1936."
+    },
+    {
+      "key": "regulation:55",
+      "title": "Regulation 55 - Certain Defence Force members taken to have given Medicare levy variation declaration",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "55",
+      "main_structural_heading": "Certain Defence Force members taken to have given Medicare levy variation declaration",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 55",
+      "text": "(1) This section applies to an individual:\n (a) who, on a particular day, is entitled (because of being a member of the Defence Force) to free medical treatment for any incapacity, disease or disabling condition; and\n (b) who:\n (i) has not given, as a member of the Defence Force, a declaration under subsection  15-50(1) in Schedule 1 to the Act to the effect that the individual is entitled to full relief from the Medicare levy; and\n (ii) has not previously been taken to have given a declaration under subsection  (2).\n (2) On that day, the individual is taken to have given, as a member of the Defence Force, a declaration under subsection  15-50(1) in Schedule 1 to the Act to the effect that the individual is entitled to relief from 50% of the Medicare levy."
+    },
+    {
+      "key": "regulation:56",
+      "title": "Regulation 56 - When new declaration to be given",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "56",
+      "main_structural_heading": "When new declaration to be given",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 56",
+      "text": "(1) An individual to whom subsection  (2) or (3) applies must give a new declaration in the approved form to the entity mentioned in that subsection.\n (2) This subsection applies to an individual if:\n (a) the individual gives to an entity a declaration under subsection  15-50(1) or (3) in Schedule 1 to the Act about a matter; and\n (b) the individual&#39;s circumstances change in relation to the matter.\n (3) This subsection applies to an individual who:\n (a) gives a TFN declaration to an entity expressing a wish to reduce the amount withheld to correspond with the tax -free threshold (within the meaning of the Income Tax Rates Act 1986); and\n (b) becomes a foreign resident."
+    },
+    {
+      "key": "regulation:57",
+      "title": "Regulation 57 - Interpretation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "57",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 57",
+      "text": "Paragraph 13(1)(b) of the Legislation Act 2003 has effect in relation to this Part as if the reference in that paragraph to the enabling legislation was a reference to Schedule 1 to the Act.\nNote 1: The effect of modifying paragraph 13(1)(b) of the Legislation Act 2003 is that expressions have the same meaning in this Part as in Schedule 1 to the Act as in force from time to time.\nNote 2: Under section 3AA of the Act, an expression has the same meaning in Schedule  1 as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "regulation:58",
+      "title": "Regulation 58 - Refund scheme--specified kinds of entity",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "58",
+      "main_structural_heading": "Refund scheme--specified kinds of entity",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 58",
+      "text": "(1) For the purposes of paragraph  105-125(1)(a) in Schedule 1 to the Act, an entity of the kind mentioned in subsection (2) is specified.\n (2) For the purposes of subsection  (1), an entity must be an entity that is the subject of an international agreement that provides that the Commonwealth is under an obligation to grant indirect tax concessions in relation to the entity.\nExample: The Australian-American Educational Foundation, which was established under the Agreement between the Government of the Commonwealth of Australia and the Government of the United States of America for the Financing of Certain Educational and Cultural Exchange Programmes.\n The text of the agreement is set out in Australian Treaty Series [1964] ATS 15. In 2017, the text of the agreement in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).\n (3) International agreement means:\n (a) a convention or treaty to which Australia is a party; or\n (b) an agreement between Australia and a foreign country;\nand includes, for example, an agreement, arrangement or undertaking between a Minister and an official or authority of a foreign country."
+    },
+    {
+      "key": "regulation:59",
+      "title": "Regulation 59 - Refund scheme--specified kinds of acquisition",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "59",
+      "main_structural_heading": "Refund scheme--specified kinds of acquisition",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 59",
+      "text": "(1) For the purposes of paragraph  105-125(1)(b) in Schedule 1 to the Act, an acquisition, by an entity mentioned in section 58, of the kind mentioned in subsection  (2) is specified.\n (2) The acquisition must be:\n (a) an acquisition that is permitted by the international agreement relevant to the entity; and\n (b) an acquisition of:\n (i) a thing the supply of which is a taxable supply; or\n (ii) wine on which the entity has borne wine tax (within the meaning of the A New Tax System (Wine Equalisation Tax) Act 1999)."
+    },
+    {
+      "key": "regulation:60",
+      "title": "Regulation 60 - Refund scheme--conditions and limitations",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "60",
+      "main_structural_heading": "Refund scheme--conditions and limitations",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 60",
+      "text": "(1) This section is made for the purposes of subsection  105-125(2) in Schedule 1 to the Act.\n (2) An entity of the kind specified in section  58 is entitled to a refund of an amount of indirect tax paid on an acquisition of a kind specified in section 59 if the entity has agreed, in writing, to repay the amount worked out under subsection  (3) to the Commissioner in any of the following circumstances:\n (a) if the entity purchased a car, and agreed to retain the car for 3 years after purchasing the car--the entity disposes of the car to an entity (other than an entity of a kind specified by section  58) before the end of 3 years after the first entity purchased the car;\n (b) if the entity purchased goods (within the meaning of the A New Tax System (Goods and Services Tax) Act 1999) other than a car--the entity disposes of the goods (other than to an entity of a kind specified by section 58) in the indirect tax zone or an External Territory before the end of 2 years after the entity purchased the goods;\n (c) if the entity acquired a service--the entity assigns the entity&#39;s entitlement to the service to another entity (other than an entity of a kind specified by section  58) in the indirect tax zone or an External Territory.\n (3) The amount to be repaid is:\n (a) for an acquisition to which paragraph  (2)(a) or (b) applies--the proportion of the amount of indirect tax paid for the acquisition that is equal to the proportion of the period mentioned in the paragraph remaining after the entity disposes of the acquisition; and\n (b) for an acquisition to which paragraph  (2)(c) applies--the amount of indirect tax paid for the acquisition.\n (4) The amount of indirect tax to be refunded to an applicant is limited by the terms of the international agreement to which the entity is subject.\n (5) The entity must use the taxable supply acquired by the entity in accordance with the terms of the international agreement to which the entity is subject."
+    },
+    {
+      "key": "regulation:61",
+      "title": "Regulation 61 - Refund scheme--period and manner",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "61",
+      "main_structural_heading": "Refund scheme--period and manner",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 61",
+      "text": "(1) This section is made for the purposes of subsection  105-125(2) in Schedule 1 to the Act.\n (2) An application for a refund:\n (a) must be signed by the applicant; and\n (b) must be sent:\n (i) to the Australian Taxation Office; and\n (ii) with the tax invoice for the acquisition; and\n (c) in the case of an acquisition of a car--may be sent any time after the acquisition; and\n (d) in the case of an acquisition that is not a car--may be:\n (i) sent with another claim; or\n (ii) sent at least 3 months after another claim made by the entity.\n (3) The amount to be refunded is to be paid to a single recipient or account nominated by the entity."
+    },
+    {
+      "key": "regulation:61A",
+      "title": "Regulation 61A - Financial hardship determination",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "61A",
+      "main_structural_heading": "Financial hardship determination",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 61A",
+      "text": "(1) For the purposes of subsection  138-10(2B) in Schedule 1 to the Act, the Commissioner is to determine that an individual has suffered a financial hardship if, and only if:\n (a) the individual requests the Commissioner to make such a determination at the time when the individual requests a first home super saver determination; and\n (b) the individual has previously held one or more property interests specified in paragraph  138-10(2)(a) in Schedule 1 to the Act; and\n (c) the Commissioner is satisfied that:\n (i) the individual suffered a financial hardship that resulted in the individual ceasing to hold any such property interests held at the time of the hardship; and\n (ii) the individual has not held any other such property interests since that time.\n (2) In determining whether to make a determination that an individual has suffered a financial hardship, the Commissioner may have regard to the information provided by the individual and any other information that the Commissioner considers relevant."
+    },
+    {
+      "key": "regulation:62",
+      "title": "Regulation 62 - Interpretation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "62",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 62",
+      "text": "Paragraph 13(1)(b) of the Legislation Act 2003 has effect in relation to this Part as if the reference in that paragraph to the enabling legislation was a reference to Schedule 1 to the Act.\nNote 1: The effect of modifying paragraph 13(1)(b) of the Legislation Act 2003 is that expressions have the same meaning in this Part as in Schedule 1 to the Act as in force from time to time.\nNote 2: Under section 3AA of the Act, an expression has the same meaning in Schedule  1 as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "regulation:63",
+      "title": "Regulation 63 - Requirements for statutory declaration or affidavit--prescribed individual for body corporate (Australian government agency)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "63",
+      "main_structural_heading": "Requirements for statutory declaration or affidavit--prescribed individual for body corporate (Australian government agency)",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 63",
+      "text": "(1) For the purposes of paragraph  (b) of item 2 of the table in subsection 268-90(3) in Schedule 1 to the Act, the individual mentioned in subsection  (2) is prescribed.\n (2) The prescribed individual is the public official of an Australian government agency who is responsible for the financial affairs of the agency:\n (a) under an Australian law; or\n (b) because the public official holds a particular office in the agency."
+    },
+    {
+      "key": "regulation:64",
+      "title": "Regulation 64 - Requirements for statutory declaration or affidavit--prescribed individual for body politic",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "64",
+      "main_structural_heading": "Requirements for statutory declaration or affidavit--prescribed individual for body politic",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 64",
+      "text": "(1) For the purposes of item  3 of the table in subsection 268-90(3) in Schedule 1 to the Act, the individual mentioned in subsection  (2) is prescribed.\n (2) The prescribed individual is the public official of an Australian government agency who is responsible for the financial affairs of the agency:\n (a) under an Australian law; or\n (b) because the public official holds a particular office in the agency."
+    },
+    {
+      "key": "regulation:64A",
+      "title": "Regulation 64A - Amount of duty to determine the amount of a penalty--tobacco leaf",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "64A",
+      "main_structural_heading": "Amount of duty to determine the amount of a penalty--tobacco leaf",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 64A",
+      "text": "(1) This section sets out how to work out the amount of excise duty that is to be used to determine the amount of a penalty for an offence relating to a quantity of tobacco leaf for the purposes of the following provisions in Schedule  1 to the Act:\n (a) paragraph 308-10(2)(b);\n (b) paragraph 308-15(2)(b);\n (c) paragraph 308-20(2)(b);\n (d) paragraph 308-25(2)(b);\n (e) paragraph 308-30(2)(b);\n (f) paragraph 308-35(2)(b);\n (g) paragraph 308-40(2)(b);\n (h) paragraph 308-45(2)(b);\n (i) paragraph 308-50(2)(b);\n (j) paragraph 308-110(2)(b);\n (k) paragraph 308-115(2)(b);\n (l) paragraph 308-120(2)(b);\n (m) paragraph 308-125(2)(b);\n (n) paragraph 308-130(2)(b);\n (o) paragraph 308-135(2)(b).\n (2) The amount is to be worked out in accordance with section  21 of the Excise Regulation 2015, subject to subsections  (3) and (4) of this section.\n (3) For the purposes of working out the amount, treat a reference to the penalty day in section  21 of the Excise Regulation 2015 as a reference to:\n (a) if the Court knows the day, or days, on which the offence was committed--that day, or the earliest of those days; or\n (b) otherwise--the day on which the prosecution for the offence is instituted.\n (4) For the purposes of working out an amount under subsection  21(3) of the Excise Regulation 2015:\n (a) treat the reference in paragraph  (a) of that subsection to a bale as a reference to one or more bales; and\n (b) treat the reference in the definition of weight in that subsection to 100 kilograms as a reference to 100 kilograms multiplied by the number of bales, as shown by the evidence."
+    },
+    {
+      "key": "regulation:65",
+      "title": "Regulation 65 - Interpretation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "65",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 65",
+      "text": "Paragraph 13(1)(b) of the Legislation Act 2003 has effect in relation to this Part as if the reference in that paragraph to the enabling legislation was a reference to Schedule 1 to the Act.\nNote 1: The effect of modifying paragraph 13(1)(b) of the Legislation Act 2003 is that expressions have the same meaning in this Part as in Schedule 1 to the Act as in force from time to time.\nNote 2: Under section 3AA of the Act, an expression has the same meaning in Schedule  1 as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "regulation:66",
+      "title": "Regulation 66 - Expenses for certain attendances",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "66",
+      "main_structural_heading": "Expenses for certain attendances",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 66",
+      "text": "(1) This section applies to an entity (a witness) that is required to attend before the Commissioner, or an individual authorised by the Commissioner, under paragraph  353-10(1)(b) in Schedule 1 to the Act.\n (2) The scale of expenses set out in Schedule  2 is prescribed to be allowed to the witness in relation to an attendance before the Commissioner, or an individual authorised by the Commissioner, on or after 1 October 2017.\n (3) However subsection  (2) does not apply if the witness is required to attend before the Commissioner, or an individual authorised by the Commissioner, in relation to any of the following:\n (a) the witness&#39;s own obligations under a taxation law;\n (b) the obligations of another entity under a taxation law if the witness is an agent or representative of the other entity;\n (c) the obligations of another entity under a taxation law if the witness&#39;s financial affairs are interrelated with the financial affairs of the other entity."
+    },
+    {
+      "key": "regulation:67",
+      "title": "Regulation 67 - Disclosure for law enforcement and related purposes--prescribed taskforce",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "67",
+      "main_structural_heading": "Disclosure for law enforcement and related purposes--prescribed taskforce",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 67",
+      "text": "For the purposes of subsection  355-70(12) in Schedule 1 to the Act, the taskforces in the table are prescribed.\nPrescribed taskforceItemTaskforce1Criminal Assets Confiscation Taskforce2National Criminal Intelligence Fusion Centre3National Anti-Gang Taskforce4Trusts Taskforce5Phoenix Taskforce6Fraud and Anti-Corruption Centre7Taskforce Cadena8Shadow Economy Taskforce9Illicit Tobacco Taskforce10Serious Financial Crime Taskforce11Fraud Fusion Taskforce12Operation Protego Integrity Taskforce13National Taskforce Morpheus"
+    },
+    {
+      "key": "regulation:68",
+      "title": "Regulation 68 - Private rulings--amount of charge for valuations and reviews of valuations",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "68",
+      "main_structural_heading": "Private rulings--amount of charge for valuations and reviews of valuations",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 68",
+      "text": "For the purposes of subsection  359-40(4) in Schedule 1 to the Act:\n (a) the charge for the valuer making a valuation is the amount that the Commissioner is required to pay the valuer for making the valuation; and\n (b) the charge for the valuer reviewing a valuation is the amount that the Commissioner is required to pay the valuer for reviewing the valuation.\nNote: The charge for the service may be taxable under the A New Tax System (Goods and Services Tax) Act 1999 . As a result, while the amount the Commissioner can charge for making or reviewing a valuation must be equal to the amount the Commissioner was required to pay for making or reviewing the valuation, the Commissioner can also charge the applicant GST for the service."
+    },
+    {
+      "key": "regulation:69",
+      "title": "Regulation 69 - Reporting to Agriculture Department about Farm Management Deposits",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "69",
+      "main_structural_heading": "Reporting to Agriculture Department about Farm Management Deposits",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 69",
+      "text": "(1) For the purposes of paragraph  398-5(3)(d) in Schedule 1 to the Act, an FMD provider must give the following information to the Agriculture Secretary:\n (a) the month to which the information relates;\n (b) in relation to each farm management deposit held by the provider at any time in that month, the information set out in subsection  (2).\n (2) For the purposes of subsection  (1), the information that is required is:\n (a) the industry code for the depositor, by reference to the Australian and New Zealand Standard Industrial Classification (ANZSIC) 2006 published by the Australian Bureau of Statistics, as in force or existing at the time when this instrument commences; and\n (b) an account number that is modified by the FMD provider to prevent the disclosure of the identity of the depositor and the identity of the owner (if the owner is not the depositor), and that remains the same while the owner holds the farm management deposit; and\n (c) a personal identification number that is modified by the FMD provider to prevent the disclosure of the identity of the depositor and the identity of the owner (if the owner is not the depositor), and that remains the same while the owner holds any farm management deposits with the FMD provider; and\n (d) the closing balance of the farm management deposit at the end of the month to which the report relates; and\n (e) the State or Territory of the residence of the owner; and\n (f) the year of birth of the owner; and\n (g) the year and month of the deposit."
+    },
+    {
+      "key": "regulation:70",
+      "title": "Regulation 70 - Transaction reporting by purchasers",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70",
+      "main_structural_heading": "Transaction reporting by purchasers",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 70",
+      "text": "(1) For the purposes of section  405-5 in Schedule 1 to the Act, a supply by a supplier to a purchaser is specified if all of the following circumstances apply:\n (a) the purchaser is carrying on a business that is primarily in the building and construction industry;\n (b) the purchaser has an ABN;\n (c) the supplier supplies to the purchaser:\n (i) building and construction services; or\n (ii) a combination of goods and building and construction services, unless the supply of services is incidental to the supply of the goods.\n (2) Subsection (1) does not apply if both the supplier and the purchaser are members of:\n (a) the same consolidated group; or\n (b) the same MEC group.\n (3) Subsection (1) does not apply if the payment made for the supply is a payment of the kind mentioned in paragraph  (a) of the definition of withholding payment in subsection  995-1(1) of the Income Tax Assessment Act 1997.\n (4) A purchaser is taken to be carrying on a business that is primarily in the building and construction industry only if:\n (a) in the current financial year, 50% or more of the purchaser&#39;s business activity relates to building and construction services; or\n (b) in the current financial year, 50% or more of the purchaser&#39;s business income is derived from providing building and construction services; or\n (c) in the financial year immediately preceding the current financial year, 50% or more of the purchaser&#39;s business income was derived from providing building and construction services.\n (5) For the purposes of this section, building and construction services include any of the following activities, if the activities are performed on, or in relation to, any part of a building, structure, works, surface or sub -surface:\n (a) alteration;\n (b) assembly;\n (c) construction;\n (d) demolition;\n (e) design;\n (f) destruction;\n (g) dismantling;\n (h) erection;\n (i) excavation;\n (j) finishing;\n (k) improvement;\n (l) installation;\n (m) maintenance;\n (n) management of building and construction services;\n (o) modification;\n (p) organisation of building and construction services;\n (q) removal;\n (r) repair;\n (s) site preparation."
+    },
+    {
+      "key": "regulation:71",
+      "title": "Regulation 71 - Things done under old regulations",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "71",
+      "main_structural_heading": "Things done under old regulations",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 71",
+      "text": "(1) If:\n (a) a thing was done for a particular purpose under the Taxation Administration Regulations 1976 as in force immediately before those regulations were repealed; and\n (b) the thing could be done for that purpose under this instrument;\nthe thing has effect for the purposes of this instrument as if it had been done under this instrument.\n (2) Without limiting subsection  (1), a reference in that subsection to a thing being done includes a reference to an election, a declaration, a certificate, a notice, an application, an order or a document being given, made or served.\nExample 1: A certificate given in accordance with regulation 5 of the Taxation Administration Regulations 1976 has effect for the purposes of this instrument as if it had been made under section  7 of this instrument.\nExample 2: If the Commissioner served a document on a person under regulation 12F of the Taxation Administration Regulations 1976, the service of the document has effect for the purposes of this instrument as if it had been done under section  14 of this instrument."
+    },
+    {
+      "key": "regulation:72",
+      "title": "Regulation 72 - Approved forms",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "72",
+      "main_structural_heading": "Approved forms",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 72",
+      "text": "If:\n (a) a form was approved under section  388-50 in Schedule 1 to the Act for the purposes of a provision of the Taxation Administration Regulations  1976 as in force immediately before those regulations were repealed; and\n (b) the form could be approved for that purpose under this instrument;\nthe form has effect for the purposes of this instrument as if it had been approved for the purposes of the corresponding provision of this instrument."
+    },
+    {
+      "key": "regulation:73",
+      "title": "Regulation 73 - Disclosure of information to the Black Economy Standing Taskforce and the Illicit Tobacco Taskforce",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "73",
+      "main_structural_heading": "Disclosure of information to the Black Economy Standing Taskforce and the Illicit Tobacco Taskforce",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 73",
+      "text": "The amendment of section 67 of this instrument made by Schedule  1 to the Treasury Laws Amendment (2018 Measures No. 1) Regulations  2018 applies in relation to disclosures of information made on or after the commencement of that Schedule (whether the information was obtained before, on or after that commencement)."
+    },
+    {
+      "key": "regulation:74",
+      "title": "Regulation 74 - Disclosure of information to the Serious Financial Crime Taskforce",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "74",
+      "main_structural_heading": "Disclosure of information to the Serious Financial Crime Taskforce",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 74",
+      "text": "The amendment of section 67 of this instrument made by Schedule  1 to the Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 2019 applies in relation to disclosures of information made on or after 1 July 2019 (whether the information was obtained before, on or after that date)."
+    },
+    {
+      "key": "regulation:75",
+      "title": "Regulation 75 - Specification of information exchange countries",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "75",
+      "main_structural_heading": "Specification of information exchange countries",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 75",
+      "text": "The amendments of this instrument made by Schedule  1 to the Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 2021 apply on and after 1 July 2021."
+    },
+    {
+      "key": "regulation:76",
+      "title": "Regulation 76 - Disclosure of information to the Fraud Fusion Taskforce",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "76",
+      "main_structural_heading": "Disclosure of information to the Fraud Fusion Taskforce",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 76",
+      "text": "The amendment of section 67 of this instrument made by Schedule  1 to the Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 2023 applies in relation to disclosures of information made on or after the commencement of that Schedule (whether the information was obtained before, on or after that commencement)."
+    },
+    {
+      "key": "regulation:77",
+      "title": "Regulation 77 - Disclosure of information to the Operation Protego Integrity Taskforce",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "77",
+      "main_structural_heading": "Disclosure of information to the Operation Protego Integrity Taskforce",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 77",
+      "text": "The amendment of section 67 of this instrument made by Schedule  1 to the Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 2024 applies in relation to disclosures of information made on or after the commencement of that Schedule (whether the information was obtained before, on or after that commencement)."
+    },
+    {
+      "key": "regulation:78",
+      "title": "Regulation 78 - Disclosures of information",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "78",
+      "main_structural_heading": "Disclosures of information",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 78",
+      "text": "(1) Section 13A of this instrument, as inserted by Schedule  1 to the Taxation Administration Amendment (Extending Tax Whistleblower Protections) Regulations 2024, applies to a disclosure of information mentioned in subsection 14ZZT(2) of the Act that is made, on or after the commencement of that Schedule, in relation to matters mentioned in paragraph  14ZZT(2)(c) of the Act that arose before, on or after that commencement.\n (2) Section 13B of this instrument, as inserted by Schedule  1 to the Taxation Administration Amendment (Extending Tax Whistleblower Protections) Regulations 2024, applies to a disclosure of confidential information mentioned in paragraph 14ZZW(1)(b) of the Act that is made, on or after the commencement of that Schedule, in relation to a qualifying disclosure mentioned in paragraph  14ZZW(1)(a) of the Act that was made before, on or after that commencement."
+    },
+    {
+      "key": "regulation:79",
+      "title": "Regulation 79 - Disclosure of information to National Taskforce Morpheus",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "79",
+      "main_structural_heading": "Disclosure of information to National Taskforce Morpheus",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 79",
+      "text": "The amendment of section 67 of this instrument made by Schedule  1 to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 applies in relation to disclosures of information made on or after the commencement of that Schedule (whether the information was obtained before, on or after that commencement).\nTAXATION ADMINISTRATION REGULATIONS 2017"
+    },
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Scale of expenses for certain attendances",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Scale of expenses for certain attendances",
+      "defined_term": null,
+      "structure_path": "Part 7--TRANSITIONAL--MATTERS > Division 8--Transitional matters relating to the Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 2024 > Regulation 1",
+      "text": ""
+    },
+    {
+      "key": "schedule:1",
+      "title": "Schedule 1 - Prescribed forms and notices Note: See sections 9, 10 and 11. Form 1--Certificate under subsection 8ZG(2) COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 CERTIFICATE UNDER SUBSECTION 8ZG(2) I,    , the (title of officer issuing the certificate ) of the (name and location of court), pursuant to subsection  8ZG(2) of the Taxation Administration Act 1953 , hereby certify that on (date) the court, acting under ( relevant provision) of the (relevant taxation law ), ordered (name and address of relevant person) to pay $to the Commissioner of Taxation. Dated (Signature) Form 2--Notice of election to have case tried in Supreme Court (Heading to be similar to that of Information or Complaint) NOTICE OF ELECTION TO HAVE CASE TRIED IN SUPREME COURT To the above-named Court and to the *Informant *Complainant Notice is hereby given that the defendant in the above-named prosecution, pursuant to subsection 8ZJ(5) of the Taxation Administration Act 1953, elects to have the case tried in the Supreme Court of (insert name of State or Territory). Dated (Signature of defendant or of defendant&#39;s solicitor or counsel) * Omit if inapplicable Form 3--Departure prohibition order COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 DEPARTURE PROHIBITION ORDER Pursuant to subsection 14S(1) of the Taxation Administration Act 1953, I,    , *the/*delegate of the/*a Second/Commissioner of Taxation, believing on reasonable grounds that it is desirable to do so for the purpose of ensuring that                                                         , a person subject to the tax liability referred to in the Schedule, does not depart from Australia for a foreign country without: (a) wholly discharging the tax liability; or (b) making arrangements satisfactory to *me/*the Commissioner for Taxation for the tax liability to be wholly discharged; hereby prohibit the departure of   from Australia for a foreign country. SCHEDULE (Details of tax liability ) Dated ...................................................... *Delegate of the /*Second/Commissioner of Taxation * Omit if inapplicable TAXATION ADMINISTRATION REGULATIONS 2017",
+      "main_structural_unit": "schedule",
+      "main_structural_unit_number": "1",
+      "main_structural_unit_heading": "Prescribed forms and notices Note: See sections 9, 10 and 11. Form 1--Certificate under subsection 8ZG(2) COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 CERTIFICATE UNDER SUBSECTION 8ZG(2) I,    , the (title of officer issuing the certificate ) of the (name and location of court), pursuant to subsection  8ZG(2) of the Taxation Administration Act 1953 , hereby certify that on (date) the court, acting under ( relevant provision) of the (relevant taxation law ), ordered (name and address of relevant person) to pay $to the Commissioner of Taxation. Dated (Signature) Form 2--Notice of election to have case tried in Supreme Court (Heading to be similar to that of Information or Complaint) NOTICE OF ELECTION TO HAVE CASE TRIED IN SUPREME COURT To the above-named Court and to the *Informant *Complainant Notice is hereby given that the defendant in the above-named prosecution, pursuant to subsection 8ZJ(5) of the Taxation Administration Act 1953, elects to have the case tried in the Supreme Court of (insert name of State or Territory). Dated (Signature of defendant or of defendant&#39;s solicitor or counsel) * Omit if inapplicable Form 3--Departure prohibition order COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 DEPARTURE PROHIBITION ORDER Pursuant to subsection 14S(1) of the Taxation Administration Act 1953, I,    , *the/*delegate of the/*a Second/Commissioner of Taxation, believing on reasonable grounds that it is desirable to do so for the purpose of ensuring that                                                         , a person subject to the tax liability referred to in the Schedule, does not depart from Australia for a foreign country without: (a) wholly discharging the tax liability; or (b) making arrangements satisfactory to *me/*the Commissioner for Taxation for the tax liability to be wholly discharged; hereby prohibit the departure of   from Australia for a foreign country. SCHEDULE (Details of tax liability ) Dated ...................................................... *Delegate of the /*Second/Commissioner of Taxation * Omit if inapplicable TAXATION ADMINISTRATION REGULATIONS 2017",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Schedule 1",
+      "schedule_id": "1",
+      "schedule_heading": "Prescribed forms and notices Note: See sections 9, 10 and 11. Form 1--Certificate under subsection 8ZG(2) COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 CERTIFICATE UNDER SUBSECTION 8ZG(2) I,    , the (title of officer issuing the certificate ) of the (name and location of court), pursuant to subsection  8ZG(2) of the Taxation Administration Act 1953 , hereby certify that on (date) the court, acting under ( relevant provision) of the (relevant taxation law ), ordered (name and address of relevant person) to pay $to the Commissioner of Taxation. Dated (Signature) Form 2--Notice of election to have case tried in Supreme Court (Heading to be similar to that of Information or Complaint) NOTICE OF ELECTION TO HAVE CASE TRIED IN SUPREME COURT To the above-named Court and to the *Informant *Complainant Notice is hereby given that the defendant in the above-named prosecution, pursuant to subsection 8ZJ(5) of the Taxation Administration Act 1953, elects to have the case tried in the Supreme Court of (insert name of State or Territory). Dated (Signature of defendant or of defendant&#39;s solicitor or counsel) * Omit if inapplicable Form 3--Departure prohibition order COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 DEPARTURE PROHIBITION ORDER Pursuant to subsection 14S(1) of the Taxation Administration Act 1953, I,    , *the/*delegate of the/*a Second/Commissioner of Taxation, believing on reasonable grounds that it is desirable to do so for the purpose of ensuring that                                                         , a person subject to the tax liability referred to in the Schedule, does not depart from Australia for a foreign country without: (a) wholly discharging the tax liability; or (b) making arrangements satisfactory to *me/*the Commissioner for Taxation for the tax liability to be wholly discharged; hereby prohibit the departure of   from Australia for a foreign country. SCHEDULE (Details of tax liability ) Dated ...................................................... *Delegate of the /*Second/Commissioner of Taxation * Omit if inapplicable TAXATION ADMINISTRATION REGULATIONS 2017",
+      "text": "Schedule 1 - Prescribed forms and notices Note: See sections 9, 10 and 11. Form 1--Certificate under subsection 8ZG(2) COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 CERTIFICATE UNDER SUBSECTION 8ZG(2) I,    , the (title of officer issuing the certificate ) of the (name and location of court), pursuant to subsection  8ZG(2) of the Taxation Administration Act 1953 , hereby certify that on (date) the court, acting under ( relevant provision) of the (relevant taxation law ), ordered (name and address of relevant person) to pay $to the Commissioner of Taxation. Dated (Signature) Form 2--Notice of election to have case tried in Supreme Court (Heading to be similar to that of Information or Complaint) NOTICE OF ELECTION TO HAVE CASE TRIED IN SUPREME COURT To the above-named Court and to the *Informant *Complainant Notice is hereby given that the defendant in the above-named prosecution, pursuant to subsection 8ZJ(5) of the Taxation Administration Act 1953, elects to have the case tried in the Supreme Court of (insert name of State or Territory). Dated (Signature of defendant or of defendant&#39;s solicitor or counsel) * Omit if inapplicable Form 3--Departure prohibition order COMMONWEALTH OF AUSTRALIA Taxation Administration Act 1953 DEPARTURE PROHIBITION ORDER Pursuant to subsection 14S(1) of the Taxation Administration Act 1953, I,    , *the/*delegate of the/*a Second/Commissioner of Taxation, believing on reasonable grounds that it is desirable to do so for the purpose of ensuring that                                                         , a person subject to the tax liability referred to in the Schedule, does not depart from Australia for a foreign country without: (a) wholly discharging the tax liability; or (b) making arrangements satisfactory to *me/*the Commissioner for Taxation for the tax liability to be wholly discharged; hereby prohibit the departure of   from Australia for a foreign country. SCHEDULE (Details of tax liability ) Dated ...................................................... *Delegate of the /*Second/Commissioner of Taxation * Omit if inapplicable TAXATION ADMINISTRATION REGULATIONS 2017"
+    },
+    {
+      "key": "schedule:2",
+      "title": "Schedule 2 - Scale of expenses Note: See section 66. Regulation 1 Scale of expenses for certain attendances (1) If a witness attending before the Commissioner, or an individual authorised by the Commissioner, is an expert, an amount equal to the expert&#39;s actual fees for preparing to give evidence and for attending to give evidence. (2) For a witness, other than a witness referred to in subclause  (1), attending before the Commissioner, or an individual authorised by the Commissioner, the amount specified in item 18 of the table in clause 2 of Schedule  2 to the High Court Rules 2004, as in force or existing at the time when this instrument commences. Note: This instrument commenced on 1 October 2017. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES made under the Taxation Administration Act 1953 Compilation No. 16 Compilation date: 1 January 2025 Includes amendments: F2024L01610 About this compilation This compilation This is a compilation of the Taxation Administration Regulations 2017 that shows the text of the law as amended and in force on 1  January 2025 (the compilation date). The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law. Uncommenced amendments The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law. Application, saving and transitional provisions for provisions and amendments If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes. Editorial changes For more information about any editorial changes made in this compilation, see the endnotes. Modifications If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law. Self-repealing provisions If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 1--About the endnotes The endnotes provide information about this compilation and the compiled law. The following endnotes are included in every compilation: Endnote 1--About the endnotes Endnote 2--Abbreviation key Endnote 3--Legislation history Endnote 4--Amendment history Abbreviation key--Endnote 2 The abbreviation key sets out abbreviations that may be used in the endnotes. Legislation history and amendment history--Endnotes 3 and 4 Amending laws are annotated in the legislation history and amendment history. The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation. The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law. Editorial changes The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date. If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel. Misdescribed amendments A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section  15V of the Legislation Act 2003. If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and &quot;(md not incorp)&quot; is added to the amendment history. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 2--Abbreviation key ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub(ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub-Ch = Sub-Chapter(s)cannot be given effectSubPt = Subpart(s)mod = modified/modificationunderlining = whole or part notNo. = Number(s)commenced or to be commenced TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 3--Legislation history NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)(NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)(--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)--Taxation Administration Amendment (Extending Tax Whistleblower Protections) Regulations 202411 Oct 2024 (F2024L01291)12 Oct 2024 (s 2(1) item 1)--Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 20249 Dec 2024 (F2024L01592)10 Dec 2024 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments No. 2) Regulations 20249 Dec 2024 (F2024L01610)Sch 1 (item 29): 1 Jan 2025 (s 2(1) item 3)-- TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 4--Amendment history Provision affectedHow affectedPart 1 s 2.....................rep LA s 48Ds 4.....................rep LA s 48Cs 5.....................am F2018L00210Part 2 Division 2 s 8.....................am F2019L01641Division 3A Division 3A...............ad F2024L01291s 13A...................ad F2024L01291s 13B...................ad F2024L01291Division 4 s 18A...................ad F2019L01641Part 3 Division 2 Subdivision D s 34....................am F2018L01596; F2019L01416; F2021L00410; F2021L01363Division 3 Subdivision E s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2(s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592(................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592Schedule 3................rep LA s 48C",
+      "main_structural_unit": "schedule",
+      "main_structural_unit_number": "2",
+      "main_structural_unit_heading": "Scale of expenses Note: See section 66. Regulation 1 Scale of expenses for certain attendances (1) If a witness attending before the Commissioner, or an individual authorised by the Commissioner, is an expert, an amount equal to the expert&#39;s actual fees for preparing to give evidence and for attending to give evidence. (2) For a witness, other than a witness referred to in subclause  (1), attending before the Commissioner, or an individual authorised by the Commissioner, the amount specified in item 18 of the table in clause 2 of Schedule  2 to the High Court Rules 2004, as in force or existing at the time when this instrument commences. Note: This instrument commenced on 1 October 2017. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES made under the Taxation Administration Act 1953 Compilation No. 16 Compilation date: 1 January 2025 Includes amendments: F2024L01610 About this compilation This compilation This is a compilation of the Taxation Administration Regulations 2017 that shows the text of the law as amended and in force on 1  January 2025 (the compilation date). The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law. Uncommenced amendments The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law. Application, saving and transitional provisions for provisions and amendments If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes. Editorial changes For more information about any editorial changes made in this compilation, see the endnotes. Modifications If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law. Self-repealing provisions If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 1--About the endnotes The endnotes provide information about this compilation and the compiled law. The following endnotes are included in every compilation: Endnote 1--About the endnotes Endnote 2--Abbreviation key Endnote 3--Legislation history Endnote 4--Amendment history Abbreviation key--Endnote 2 The abbreviation key sets out abbreviations that may be used in the endnotes. Legislation history and amendment history--Endnotes 3 and 4 Amending laws are annotated in the legislation history and amendment history. The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation. The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law. Editorial changes The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date. If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel. Misdescribed amendments A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section  15V of the Legislation Act 2003. If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and &quot;(md not incorp)&quot; is added to the amendment history. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 2--Abbreviation key ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub(ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub-Ch = Sub-Chapter(s)cannot be given effectSubPt = Subpart(s)mod = modified/modificationunderlining = whole or part notNo. = Number(s)commenced or to be commenced TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 3--Legislation history NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)(NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)(--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)--Taxation Administration Amendment (Extending Tax Whistleblower Protections) Regulations 202411 Oct 2024 (F2024L01291)12 Oct 2024 (s 2(1) item 1)--Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 20249 Dec 2024 (F2024L01592)10 Dec 2024 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments No. 2) Regulations 20249 Dec 2024 (F2024L01610)Sch 1 (item 29): 1 Jan 2025 (s 2(1) item 3)-- TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 4--Amendment history Provision affectedHow affectedPart 1 s 2.....................rep LA s 48Ds 4.....................rep LA s 48Cs 5.....................am F2018L00210Part 2 Division 2 s 8.....................am F2019L01641Division 3A Division 3A...............ad F2024L01291s 13A...................ad F2024L01291s 13B...................ad F2024L01291Division 4 s 18A...................ad F2019L01641Part 3 Division 2 Subdivision D s 34....................am F2018L01596; F2019L01416; F2021L00410; F2021L01363Division 3 Subdivision E s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2(s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592(................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592Schedule 3................rep LA s 48C",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Schedule 2",
+      "schedule_id": "2",
+      "schedule_heading": "Scale of expenses Note: See section 66. Regulation 1 Scale of expenses for certain attendances (1) If a witness attending before the Commissioner, or an individual authorised by the Commissioner, is an expert, an amount equal to the expert&#39;s actual fees for preparing to give evidence and for attending to give evidence. (2) For a witness, other than a witness referred to in subclause  (1), attending before the Commissioner, or an individual authorised by the Commissioner, the amount specified in item 18 of the table in clause 2 of Schedule  2 to the High Court Rules 2004, as in force or existing at the time when this instrument commences. Note: This instrument commenced on 1 October 2017. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES made under the Taxation Administration Act 1953 Compilation No. 16 Compilation date: 1 January 2025 Includes amendments: F2024L01610 About this compilation This compilation This is a compilation of the Taxation Administration Regulations 2017 that shows the text of the law as amended and in force on 1  January 2025 (the compilation date). The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law. Uncommenced amendments The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law. Application, saving and transitional provisions for provisions and amendments If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes. Editorial changes For more information about any editorial changes made in this compilation, see the endnotes. Modifications If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law. Self-repealing provisions If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 1--About the endnotes The endnotes provide information about this compilation and the compiled law. The following endnotes are included in every compilation: Endnote 1--About the endnotes Endnote 2--Abbreviation key Endnote 3--Legislation history Endnote 4--Amendment history Abbreviation key--Endnote 2 The abbreviation key sets out abbreviations that may be used in the endnotes. Legislation history and amendment history--Endnotes 3 and 4 Amending laws are annotated in the legislation history and amendment history. The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation. The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law. Editorial changes The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date. If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel. Misdescribed amendments A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section  15V of the Legislation Act 2003. If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and &quot;(md not incorp)&quot; is added to the amendment history. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 2--Abbreviation key ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub(ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub-Ch = Sub-Chapter(s)cannot be given effectSubPt = Subpart(s)mod = modified/modificationunderlining = whole or part notNo. = Number(s)commenced or to be commenced TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 3--Legislation history NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)(NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)(--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)--Taxation Administration Amendment (Extending Tax Whistleblower Protections) Regulations 202411 Oct 2024 (F2024L01291)12 Oct 2024 (s 2(1) item 1)--Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 20249 Dec 2024 (F2024L01592)10 Dec 2024 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments No. 2) Regulations 20249 Dec 2024 (F2024L01610)Sch 1 (item 29): 1 Jan 2025 (s 2(1) item 3)-- TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 4--Amendment history Provision affectedHow affectedPart 1 s 2.....................rep LA s 48Ds 4.....................rep LA s 48Cs 5.....................am F2018L00210Part 2 Division 2 s 8.....................am F2019L01641Division 3A Division 3A...............ad F2024L01291s 13A...................ad F2024L01291s 13B...................ad F2024L01291Division 4 s 18A...................ad F2019L01641Part 3 Division 2 Subdivision D s 34....................am F2018L01596; F2019L01416; F2021L00410; F2021L01363Division 3 Subdivision E s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2(s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592(................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592Schedule 3................rep LA s 48C",
+      "text": "Schedule 2 - Scale of expenses Note: See section 66. Regulation 1 Scale of expenses for certain attendances (1) If a witness attending before the Commissioner, or an individual authorised by the Commissioner, is an expert, an amount equal to the expert&#39;s actual fees for preparing to give evidence and for attending to give evidence. (2) For a witness, other than a witness referred to in subclause  (1), attending before the Commissioner, or an individual authorised by the Commissioner, the amount specified in item 18 of the table in clause 2 of Schedule  2 to the High Court Rules 2004, as in force or existing at the time when this instrument commences. Note: This instrument commenced on 1 October 2017. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES made under the Taxation Administration Act 1953 Compilation No. 16 Compilation date: 1 January 2025 Includes amendments: F2024L01610 About this compilation This compilation This is a compilation of the Taxation Administration Regulations 2017 that shows the text of the law as amended and in force on 1  January 2025 (the compilation date). The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law. Uncommenced amendments The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the Register for the compiled law. Application, saving and transitional provisions for provisions and amendments If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes. Editorial changes For more information about any editorial changes made in this compilation, see the endnotes. Modifications If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the Register for the compiled law. Self-repealing provisions If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 1--About the endnotes The endnotes provide information about this compilation and the compiled law. The following endnotes are included in every compilation: Endnote 1--About the endnotes Endnote 2--Abbreviation key Endnote 3--Legislation history Endnote 4--Amendment history Abbreviation key--Endnote 2 The abbreviation key sets out abbreviations that may be used in the endnotes. Legislation history and amendment history--Endnotes 3 and 4 Amending laws are annotated in the legislation history and amendment history. The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation. The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law. Editorial changes The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date. If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel. Misdescribed amendments A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section  15V of the Legislation Act 2003. If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and &quot;(md not incorp)&quot; is added to the amendment history. TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 2--Abbreviation key ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub(ad = added or insertedo = order(s)am = amendedOrd = Ordinanceamdt = amendmentorig = originalc = clause(s)par = paragraph(s)/subparagraph(s)C[x] = Compilation No. x/sub-subparagraph(s)Ch = Chapter(s)pres = presentdef = definition(s)prev = previousDict = Dictionary(prev ... ) = previouslydisallowed = disallowed by ParliamentPt = Part(s)Div = Division(s)r = regulation(s)/rule(s)ed = editorial changereloc = relocatedexp = expires/expired or ceases/ceased to haverenum = renumberedeffectrep = repealedF = Federal Register of Legislationrs = repealed and substitutedgaz = gazettes = section(s)/subsection(s)LA = Legislation Act 2003Sch = Schedule(s)LIA = Legislative Instruments Act 2003Sdiv = Subdivision(s)(md) = misdescribed amendment can be givenSLI = Select Legislative InstrumenteffectSR = Statutory Rules(md not incorp) = misdescribed amendmentSub-Ch = Sub-Chapter(s)cannot be given effectSubPt = Subpart(s)mod = modified/modificationunderlining = whole or part notNo. = Number(s)commenced or to be commenced TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 3--Legislation history NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)(NameRegistrationCommencementApplication, saving and transitional provisionsTaxation Administration Regulations 201721 Sept 2017 (F2017L01227)1 Oct 2017 (s 2(1) item 1) Treasury Laws Amendment (2017 Measures No. 3) Regulations 20174 Dec 2017 (F2017L01568)Sch 2 (item 2): 5 Dec 2017 (s 2(1) item 3)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 1) Regulations 20187 Mar 2018 (F2018L00210)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures No. 2) Regulations 20188 June 2018 (F2018L00739)Sch 1: 1 July 2018 (s 2(1) item 2)--Treasury Laws Amendment (2018 Measures No. 1) Regulations 201822 June 2018 (F2018L00831)Sch 1: 23 June 2018 (s 2(1) item 1)--Treasury Laws Amendment (Illicit Tobacco Offences) Regulations 201814 Sept 2018 (F2018L01292)15 Sept 2018 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 201823 Nov 2018 (F2018L01596)24 Nov 2018 (s 2(1) item 1)--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)(--Taxation Administration Amendment (Serious Financial Crime Taskforce) Regulations 201925 Mar 2019 (F2019L00379)26 Mar 2019 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20191 Nov 2019 (F2019L01416)2 Nov 2019 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous Amendments) Regulations 201917 Dec 2019 (F2019L01641)Sch 1 (items 29-31): 18 Dec 2019 (s 2(1) item 2)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries) Regulations 20211 Apr 2021 (F2021L00410)2 Apr 2021 (s 2(1) item 1)--Taxation Administration Amendment (Updating the List of Exchange of Information Countries No. 2) Regulations 202130 Sept 2021 (F2021L01363)1 Oct 2021 (s 2(1) item 1)--Treasury Laws Amendment (Disclosure of Information to Fraud Fusion Taskforce) Regulations 202314 Apr 2023 (F2023L00436)Sch 1 (items 5, 6): 15 Apr 2023 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments) Regulations 202424 Apr 2024 (F2024L00473)Sch 1 (item 7): 1 July 2024 (s 2(1) item 3)--Taxation Administration Amendment (Disclosure of Information to Operation Protego Integrity Taskforce) Regulations 202416 Aug 2024 (F2024L01018)17 Aug 2024 (s 2(1) item 1)--Taxation Administration Amendment (Extending Tax Whistleblower Protections) Regulations 202411 Oct 2024 (F2024L01291)12 Oct 2024 (s 2(1) item 1)--Taxation Administration Amendment (Disclosure of Information to National Taskforce Morpheus) Regulations 20249 Dec 2024 (F2024L01592)10 Dec 2024 (s 2(1) item 1)--Treasury Laws Amendment (Miscellaneous and Technical Amendments No. 2) Regulations 20249 Dec 2024 (F2024L01610)Sch 1 (item 29): 1 Jan 2025 (s 2(1) item 3)-- TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnote 4--Amendment history Provision affectedHow affectedPart 1 s 2.....................rep LA s 48Ds 4.....................rep LA s 48Cs 5.....................am F2018L00210Part 2 Division 2 s 8.....................am F2019L01641Division 3A Division 3A...............ad F2024L01291s 13A...................ad F2024L01291s 13B...................ad F2024L01291Division 4 s 18A...................ad F2019L01641Part 3 Division 2 Subdivision D s 34....................am F2018L01596; F2019L01416; F2021L00410; F2021L01363Division 3 Subdivision E s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2(s 52....................am F2017L01568Subdivision EA Subdivision EA............ad F2018L00210s 53A...................ad F2018L00210Part 4 Division 3 Division 3................ad F2018L00739s 61A...................ad F2018L00739Part 5 Division 3 Division 3................ad F2018L01292s 64A...................ad F2018L01292Part 6 Division 2 Subdivision B s 67....................am F2018L00831; F2019L00379; F2023L00436; F2024L00473; F2024L01018; F2024L01592; F2024L01610Part 7 Division 1 Division 1 heading..........ad F2018L00831Division 2 Division 2................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592(................ad F2018L00831s 73....................ad F2018L00831Division 3 Division 3................ad F2019L00379s 74....................ad F2019L00379Division 4 Division 4................ad F2021L00410s 75....................ad F2021L00410Division 5 Division 5................ad F2023L00436s 76....................ad F2023L00436Division 6 Division 6................ad F2024L01018s 77....................ad F2024L01018Division 7 Division 7................ad F2024L01291s 78....................ad F2024L01291Division 8 Division 8................ad F2024L01592s 79ad F2024L01592Schedule 3................rep LA s 48C"
+    }
+  ]
+}

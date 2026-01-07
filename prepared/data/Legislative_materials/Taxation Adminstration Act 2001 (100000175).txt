@@ -6,7 +6,381 @@ Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download
 When scraped: 2025-12-30T03:28:52.359572Z
 
 TAXATION ADMINISTRATION ACT 2001 - As at 28 February 2025 - Act 72 of 2001
- 
+TABLE OF PROVISIONS
+**** TABLE OF PROVISIONS ****
+PART 1 - PRELIMINARY
+Division 1 - Introductory provisions
+      1.  Short title
+      2.  Commencement
+Division 2 - Purpose and application of Act
+      3.  Purposes of Act and relationship with revenue laws
+      4.  Act binds all persons
+Division 3 - Interpretation
+      5.  Definitions
+      6.  Revenue laws
+     6A.  References to tax
+PART 2 - COMMISSIONER OF STATE REVENUE
+      7.  Appointment of commissioner
+      8.  Commissionerâs functions
+      9.  Commissionerâs powers
+     10.  Delegations
+PART 3 - ASSESSMENTS OF TAX
+Division 1 - Assessments made by the commissioner
+     11.  When commissioner makes an assessment
+     12.  Compromise assessments
+     13.  Default assessments
+    13A.  Assessment may be made despite related objections, appeals or reviews
+Division 2 - Self assessments
+     14.  Making self assessment by lodging return
+    14A.  Making self assessment by lodging transaction statement
+     15.  Matters to which self assessor must have regard
+     16.  Effect of commissioner making an assessment for self assessor
+Division 3 - Reassessments
+     17.  Commissionerâs general power to make reassessments
+     18.  When commissioner must make reassessmentâgeneral
+     19.  When commissioner must make reassessmentâobjections, court
+decisions or QCAT decisions
+     20.  Legal interpretations and practices applying to particular
+reassessments
+     21.  Time for reassessment decreasing liability for tax
+     22.  Time for reassessment increasing liability for tax
+     23.  Limitation period does not apply to particular reassessments
+     24.  Reassessment by self assessors
+     25.  Reassessment does not replace previous assessment
+Division 4 - Assessment notices
+     26.  Assessment notice to be given to taxpayer
+Division 5 - Other provisions
+     27.  Assessments made on available relevant information
+     28.  Taxpayer to advise commissioner if liability for tax under assessed
+    28A.  Assessments of liability for royalty under the Mineral Resources Act
+1989
+PART 4 - PAYMENTS AND REFUNDS OF TAX AND OTHER AMOUNTS
+Division 1 - Payments of tax and other amounts
+     29.  Methods of payment
+    29A.  Requirement for electronic payment
+    29B.  Application to withdraw electronic payment notice
+     30.  Time for payment of tax
+     31.  Time for payment of late payment interest
+     32.  Time for payment of other amounts
+     33.  Earlier time for payment of tax and other amounts
+     34.  Payment arrangements
+     35.  Payments by tax agents
+Division 2 - Refunds of tax and other amounts and particular payments to
+taxpayers
+     36.  Refunds made only under this division
+     37.  Commissioner to refund tax and other amounts
+     38.  Applying amounts to current and future tax liabilities
+     39.  General provision about refunds and payments of section 61A interest
+Division 3 - How payments for tax and other amounts are allocated and applied
+     40.  When payments are received
+     41.  Allocating payments if more than 1 assessment liability
+     42.  Application of payments to assessment liability
+Division 4 - Power to waive or write off liability
+     43.  Waiver of tax law liability
+     44.  Effect of writing off tax law liability
+Division 5 - Recovery of tax and other amounts
+Subdivision 1 - Recovery from taxpayers
+     45.  Unpaid amount under tax law is debt
+     46.  Recovery proceedings not affected by reassessment
+     47.  Joint and several liability
+Subdivision 1A - Registration and release of charges
+    47A.  Definition for sdiv 1A
+    47B.  Registration of charge over land
+    47C.  Release of charge over land
+    47D.  Recovery of fees paid by commissioner
+Subdivision 2 - Obligations of administrators and garnishees
+     48.  Particular administrators to notify commissioner of appointment
+     49.  Administratorâs liability for payment of tax
+     50.  Collection of amounts from a garnishee
+     51.  Duration of garnishee notice
+     52.  Effect of discharge of debt on garnishee notice
+     53.  Effect of payment by garnishee
+PART 5 - INTEREST AND PENALTY TAX
+Division 1 - Interest payable to commissioner and penalty tax
+Subdivision 1 - Interest
+     54.  Unpaid tax interest
+     55.  When particular taxpayers liable for unpaid tax interest
+     56.  Unpaid tax interest unaffected by extensions of time
+     57.  Application of payments for unpaid tax interest
+Subdivision 2 - Penalty tax
+     58.  Liability for penalty tax
+     59.  Penalty tax not payable if proceeding for offence started
+Division 2 - Remission of interest and penalty tax
+     60.  When commissioner may remit unpaid tax interest and penalty tax
+Division 3 - Interest payable by commissioner
+     61.  Interest on particular overpayments following courtâs or QCATâs
+decision
+    61A.  Interest on particular overpayments following commissionerâs
+decision
+     62.  Interest only payable under this division
+    62A.  Royalty under Mineral Resources Act 1989
+PART 6 - OBJECTIONS, REVIEWS AND APPEALS
+Division 1 - Objections
+     63.  Right to objectâassessments
+    63A.  Right to objectâroyalty valuation decisions
+     64.  Grounds of objection
+     65.  Making objection
+     66.  Onus of proof on objection
+     67.  Deciding objection
+     68.  Notice of decision
+Division 2 - Appeals and reviews
+Subdivision 1 - Right of appeal or review
+     69.  Right of appeal or review
+    69A.  Effect of reassessment or amendment of decision after appeal or
+review started
+Subdivision 2 - Appeals to the Supreme Court
+     70.  How to start appeal to the Supreme Court
+    70A.  Onus on appeal
+    70B.  Admissibility of new evidence
+    70C.  Deciding appeal
+Subdivision 3 - Reviews by QCAT
+     71.  QCAT to decide review on evidence before the commissioner
+     72.  Representation of parties before QCAT
+     73.  Onus on review
+     74.  (Repealed)
+Division 3 - Decisions and determinations not subject to objection, appeal or
+review
+     75.  What is a non-reviewable decision
+     76.  Effect of non-reviewable decisions
+     77.  Application of Judicial Review Act
+PART 7 - INVESTIGATIONS
+Division 1 - Preliminary
+     78.  Declaration of recognised law and corresponding commissioner
+     79.  Exercise of powers only for tax law or recognised law
+Division 2 - Investigations under tax laws
+Subdivision 1 - Investigators
+     80.  Appointment
+     81.  Appointment conditions and limit on powers
+     82.  Issue of identity card
+     83.  Production of identity card
+     84.  When investigator ceases to hold office
+     85.  Resignation
+     86.  Return of identity card
+Subdivision 2 - Provisions about requiring information, documents and
+attendance
+     87.  Power to require information or documents
+     88.  Power to require attendance
+     89.  Power to record giving of information
+Subdivision 3 - Entry of places
+     90.  Investigatorâs power to enter places for investigations
+     91.  Entry with consent
+     92.  Application for warrant
+     93.  Issue of warrant
+     94.  Special warrants
+     95.  Warrantsâprocedure before entry
+Subdivision 4 - General powers of investigators on entry to places
+     96.  General powers for places
+Subdivision 5 - Provisions about seizing and retaining things
+     97.  Power to seize and retain things
+     98.  Receipt for retained thing
+     99.  Return of retained thing
+    99A.  Testing of seized thing for royalty law
+    100.  Access to retained thing
+    101.  Forfeiture of retained thing
+    102.  Dealing with forfeited thing
+Subdivision 6 - Miscellaneous provisions
+    103.  Investigators may use help and force in exercise of powers
+    104.  Access to public records without fee
+    105.  Notice of damage
+    106.  Compensation
+Division 3 - Investigations for recognised laws
+    107.  Commissioner may make reciprocal investigation arrangement
+    108.  Conduct of particular reciprocal investigations subject to
+commissioner
+    109.  Identity certificates for reciprocal investigators
+    110.  Application of Act to reciprocal investigations
+PART 8 - CONFIDENTIALITY AND COLLECTION OF INFORMATION
+Division 1 - Confidentiality
+    111.  Disclosure of confidential information
+    112.  Other obligations about disclosure and use of confidential
+information
+    113.  Refusal of disclosure of particular information
+Division 2 - Collection of information for disclosure to Commonwealth
+   113A.  Definitions for division
+   113B.  Relationship with other laws
+   113C.  Commissioner may collect and disclose reportable information
+   113D.  How reportable information may be collected
+PART 9 - RECORD KEEPING
+    114.  Requirement to keep proper records
+    115.  Accessibility of records
+    116.  Form of records
+    117.  Commissioner may require translation or conversion of document or
+information
+    118.  Period for keeping records
+    119.  Wilfully damaging records
+PART 10 - ENFORCEMENT AND LEGAL PROCEEDINGS
+Division 1 - Offences and related provisions
+    120.  Failure to give notice
+    121.  Failure to comply with information or lodgement requirement
+    122.  False or misleading documents
+    123.  False or misleading information
+    124.  Self-incrimination not a reasonable excuse for failure to comply with
+particular information or lodgement requirement
+    125.  Use in legal proceedings of document or information obtained under a
+recognised law
+    126.  Obstruction of person exercising power under tax law
+    127.  Impersonation of investigator
+Division 2 - Evidence
+    128.  Application of div 2
+    129.  Commissionerâs office and signature
+    130.  Statement in complaint
+    131.  Evidentiary certificates
+    132.  Evidentiary provisions for assessments
+    133.  Production of copies of documents
+Division 3 - Legal proceedings
+    134.  Conducting proceeding for commissioner
+    135.  Summary proceedings for offences
+    136.  When proceeding must start
+    137.  Court may order compliance or payment
+    138.  Second or subsequent offence
+    139.  Responsibility for acts or omissions of representative
+    140.  Liability of executive officerâparticular offences committed by
+corporation
+    141.  Treatment of partnerships and unincorporated bodies
+PART 11 - GIVING AND LODGING DOCUMENTS
+Division 1 - Preliminary
+    142.  Application of pt 11
+Division 2 - Documents given to the commissioner
+    143.  Ways of giving document to commissioner
+   143A.  Requirement for electronic communication
+   143B.  Application to withdraw electronic communication notice
+    144.  When document given to commissioner
+    145.  When lodgement requirement complied with
+Division 3 - Documents given by the commissioner
+    146.  Giving document to agents of taxpayers, members of partnerships and
+unincorporated bodies
+    147.  Giving document if more than 1 taxpayer liable
+    148.  Ways document given by commissioner
+    149.  When document given by commissioner
+PART 11A - REGISTRATION OF CHARITABLE INSTITUTIONS
+   149A.  Application for registration
+   149B.  Decision on application
+   149C.  Restrictions on registration
+   149D.  Approval of application
+   149E.  Refusal of application
+   149F.  Later registration
+   149G.  Notice of registration
+   149H.  Notice of ceasing to be entitled to be registered
+   149I.  Cancellation of registration
+PART 11B - ROYALTY OPERATIONS
+   149J.  Definitions for part
+   149K.  References to assessment
+   149L.  Refunds
+PART 12 - MISCELLANEOUS PROVISIONS
+    150.  Protection from liability
+   150A.  When information requirement complied with
+    151.  Extension of date for complying with information or lodgement
+requirement
+    152.  Rounding down
+    153.  Approved forms
+   153A.  Approved information system
+   153B.  Commissioner may arrange for use of an approved information system to
+make particular decisions
+   153C.  Commissioner may require payment of penalty
+    154.  Regulation-making power
+PART 13 - REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
+Division 1 - Repeal of Revenue Laws (Reciprocal Powers) Act 1988
+    155.  Act repealed
+Division 2 - Savings and transitional provisions for repealed Stamp Act
+Subdivision 1 - Preliminary
+    156.  Definitions for div 2
+Subdivision 2 - Application of this Act and repealed Stamp Act
+    157.  Repealed Stamp Act is revenue law for particular provisions
+    158.  Confidential information
+    159.  Application of s 48 to particular administrators
+    160.  Second or subsequent offences
+Subdivision 3 - Miscellaneous provisions
+    161.  Office of commissioner
+    162.  Reference in Act or document to particular officers
+    163.  (Expired)
+Division 3 - Transitional provision for Queensland Civil and Administrative
+Tribunal (Jurisdiction Provisions) Amendment Act 2009
+    164.  (Expired)
+    165.  Transfer of appeals from Supreme Court only with consent
+Division 4 - Transitional provisions for Land Tax Act 2010
+    166.  Definition for div 4
+    167.  Repealed Land Tax Act is revenue law
+    168.  Existing exempt institutions taken to be registered
+Division 5 - Savings provision for repealed Tobacco Products (Licensing) Act
+1988
+    169.  Continuation of Tobacco Products Act, s 43
+Division 6 - Savings, transitional and related provisions for repeal of
+Community Ambulance Cover Act 2003
+    170.  Definitions for div 6
+    171.  Repealed Act continues as revenue law
+    172.  Community Ambulance Cover Levy Repeal Act is revenue law
+    173.  Delegations
+    174.  Confidential information
+Division 7 - Transitional provision for Revenue Amendment and Trade and
+Investment Queensland Act 2013
+    175.  Application of s 22 for existing reassessments
+Division 8 - Transitional provision for Revenue Legislation Amendment Act 2014
+    176.  Application of s 7
+Division 9 - Transitional provision for Payroll Tax Rebate, Revenue and Other
+Legislation Amendment Act 2015
+    177.  Application of s 61A
+Division 10 - Transitional provision for Revenue and Other Legislation
+Amendment Act 2018
+    178.  Application of s 149C to currently registered entities
+Division 11 - Transitional provisions for Royalty Legislation Amendment Act
+2020
+    179.  Definitions for division
+    180.  Application of ss 13A and 19
+    181.  Assessment for mineral royalty for financial year ending 30 June 2021
+    182.  Application of s 61 (Interest on particular overpayments following
+courtâs or QCATâs decision)
+    183.  Application of s 61A (Interest on particular overpayments following
+commissionerâs decision)
+    184.  Application of pt 6 (Objections, reviews and appeals)
+    185.  Application of pt 8 (Confidentiality and collection of information)
+    186.  References to royalty valuation decision
+    187.  (Expired)
+Division 12 - Transitional provisions for Revenue Legislation Amendment Act
+2023
+    187.  Existing proceedings
+    188.  Proceedings not yet started
+Division 13 - Effect of particular assessments
+    189.  Assessments related to Duties Act 2001, s 688 and Land Tax Act 2010,
+ss 104 and 105
+SCHEDULE 2
+- LONG TITLE
+An Act about the administration and enforcement of revenue laws
+Short title
+*** 1 Short title ***
+This Act may be cited as the Taxation Administration Act 2001.
+Commencement
+*** 2 Commencement ***
+This Act commences on a day to be fixed by proclamation.
+Purposes of Act and relationship with revenue laws
+*** 3 Purposes of Act and relationship with revenue laws ***
+     (1) The main purpose of this Act is to make general provision about
+     the administration and enforcement of revenue laws.
+     (2) Nothing in this Act prevents a revenue law making specific
+     provision about the administration and enforcement of that law.
+     (3) Each revenue law must be read together with this Act as if they
+     together formed a single Act.
+     (4) Another purpose of this Act is to make provision about the
+     administration and enforcement of recognised laws.
+Act binds all persons
+*** 4 Act binds all persons ***
+     (1) This Act binds all persons, including the State and, as far as
+     the legislative power of the Parliament permits, the Commonwealth and
+     the other States.
+     (2) Nothing in this Act makes the State liable to be prosecuted for
+     an offence.
+Definitions
+*** 5 Definitions ***
+The dictionary in schedule 2 defines particular words used in this Act.
+Revenue laws
+*** 6 Revenue laws ***
+     (1) The Duties Act 2001 is a revenue law on and from the day this
+Section commences.
+     (2) The Payroll Tax Act 1971 is a revenue law.
+     (3) Subsection (2) is subject to the Payroll Tax Act 1971, part 7,
+     division 2.
+     (4) The Land Tax Act 2010 is a revenue law.
+     (5) The Betting Tax Act 2018 is a revenue law.
+     (6) Each of the following provisions of the Mineral Resources Act
      1989 is a revenue lawâ
           (a) chapter 11;
           (b) another provision of that Act to the extent the
@@ -22,7 +396,6 @@ TAXATION ADMINISTRATION ACT 2001 - As at 28 February 2025 - Act 72 of 2001
           this Act.
      (9) Subsection (8) is subject to the Petroleum and Gas (Production
      and Safety) Act 2004, chapter 15, part 28.
- 
 References to tax
 *** 6A References to tax ***
      (1) To enable the use of a simpler style in provisions that apply to
@@ -33,7 +406,6 @@ References to tax
      (2) That use of the term âtaxâ, and related terms, must not be
      taken to affect the nature of the payments under those Acts as
      royalties.
- 
 Appointment of commissioner
 *** 7 Appointment of commissioner ***
      (1) There is to be a Commissioner of State Revenue.
@@ -43,7 +415,6 @@ Appointment of commissioner
      public service officer.
      (4) The commissioner is to be employed under the Public Sector Act
      2022.
- 
 Commissionerâs functions
 *** 8 Commissionerâs functions ***
      (1) The commissioner is responsible for the administration and
@@ -51,7 +422,6 @@ Commissionerâs functions
      (2) Also, the commissioner may perform the functions of a State
      taxation officer under the Taxation Administration Act 1953 (Cwlth),
      part IIIA.
- 
 Commissionerâs powers
 *** 9 Commissionerâs powers ***
      (1) The commissioner has the powers given under the tax laws.
@@ -61,14 +431,12 @@ Commissionerâs powers
      (3) Without limiting subsection (2), the commissioner may engage the
      consultants and contractors the commissioner considers necessary for
      the performance of the commissionerâs functions.
- 
 Delegations
 *** 10 Delegations ***
      (1) The commissioner may delegate the commissionerâs powers under a
      tax law to an appropriately qualified public service employee.
      (2) A delegation of a power may permit the subdelegation of the power
      to an appropriately qualified public service employee.
- 
 When commissioner makes an assessment
 *** 11 When commissioner makes an assessment ***
      (1) The commissioner must make an assessment ifâ
@@ -85,7 +453,6 @@ When commissioner makes an assessment
      (3) If the commissioner does not make an assessment under subsection
      (2), the commissionerâs decision not to make the assessment is a
      non-reviewable decision.
- 
 Compromise assessments
 *** 12 Compromise assessments ***
      (1) This section applies if, in assessing a taxpayerâs liability
@@ -98,7 +465,6 @@ Compromise assessments
      (3) The compromise assessment is a non-reviewable decision.
      (4) Nothing in this part requires the commissioner to make a
      compromise assessment for a taxpayer.
- 
 Default assessments
 *** 13 Default assessments ***
      (1) This section applies in each of the following circumstancesâ
@@ -135,7 +501,6 @@ Default assessments
      been complied with (whether or not the time for compliance has
      ended), the commissioner may make the default assessment as if the
      document were in existence and in the commissionerâs possession.
- 
 Assessment may be made despite related objections, appeals or reviews
 *** 13A Assessment may be made despite related objections, appeals or reviews
 ***
@@ -144,7 +509,6 @@ following has started but not yet been decidedâ
      (a) an objection against a related royalty valuation decision;
      (b) an appeal against, or review of, the commissionerâs decision on
      an objection against a related royalty valuation decision.
- 
 Making self assessment by lodging return
 *** 14 Making self assessment by lodging return ***
 The following provisions apply if, under a revenue law, a self assessor lodges
@@ -161,7 +525,6 @@ a returnâ
      notice for each assessment;
      (e) the assessment notice is taken to have been given under section
      26 to the taxpayers for whom each assessment is made.
- 
 Making self assessment by lodging transaction statement
 *** 14A Making self assessment by lodging transaction statement ***
 The following provisions apply if, under a revenue law, a self assessor lodges
@@ -178,13 +541,11 @@ a transaction statementâ
      assessment notice for the assessment;
      (e) the assessment notice is taken to have been given under section
      26 to the taxpayer for whom the assessment is made.
- 
 Matters to which self assessor must have regard
 *** 15 Matters to which self assessor must have regard ***
 For assessing a taxpayerâs liability for tax, a self assessor must have
 regard to directions given by the commissioner, whether generally or
 specifically for the liability, about the assessment of the liability.
- 
 Effect of commissioner making an assessment for self assessor
 *** 16 Effect of commissioner making an assessment for self assessor ***
      (1) This section applies ifâ
@@ -196,7 +557,6 @@ Effect of commissioner making an assessment for self assessor
      (2) The assessment must be made as if the liability were not required
      or permitted to be self assessed.
      (3) This section does not apply for a default assessment.
- 
 Commissionerâs general power to make reassessments
 *** 17 Commissionerâs general power to make reassessments ***
      (1) Subject to sections 21 and 22, the commissioner may, at any time,
@@ -220,14 +580,12 @@ Commissionerâs general power to make reassessments
      under subsection (1) decreasing a taxpayerâs liability for tax.
      (5) The commissionerâs decision not to make a reassessment of a
      taxpayerâs liability for tax is a non-reviewable decision.
- 
 When commissioner must make reassessmentâgeneral
 *** 18 When commissioner must make reassessmentâgeneral ***
 Subject to sections 21 and 22, the commissioner must make a reassessment of a
 taxpayerâs liability for tax if the circumstances mentioned inâ
      (a) section 59 (3) or (4) apply to require the reassessment; or
      (b) a provision of a revenue law applies to require the reassessment.
- 
 When commissioner must make reassessmentâobjections, court decisions or QCAT
 decisions
 *** 19 When commissioner must make reassessmentâobjections, court decisions
@@ -247,7 +605,6 @@ or QCAT decisions ***
           decision; or
           (b) if an appeal is started against the decisionâthe
           appeal ends.
- 
 Legal interpretations and practices applying to particular reassessments
 *** 20 Legal interpretations and practices applying to particular reassessments
 ***
@@ -277,7 +634,6 @@ Legal interpretations and practices applying to particular reassessments
      the appeal is decided, the commissioner may make a reassessment to
      increase a taxpayerâs liability for tax in accordance with the
      appeal decision.
- 
 Time for reassessment decreasing liability for tax
 *** 21 Time for reassessment decreasing liability for tax ***
      (1) A reassessment decreasing a taxpayerâs liability for tax must
@@ -285,7 +641,6 @@ Time for reassessment decreasing liability for tax
      (2) However, if, within the limitation period, the taxpayer asks for
      a reassessment to decrease the taxpayerâs liability, the
      reassessment may be made after the limitation period.
- 
 Time for reassessment increasing liability for tax
 *** 22 Time for reassessment increasing liability for tax ***
      (1) A reassessment increasing a taxpayerâs liability for tax must
@@ -307,7 +662,6 @@ Time for reassessment increasing liability for tax
           misled, about the taxpayerâs liability for tax,
           including, for example, by giving, omitting or changing
           information or documents.
- 
 Limitation period does not apply to particular reassessments
 *** 23 Limitation period does not apply to particular reassessments ***
 Despite sections 21 (1) and 22 (1) â
@@ -320,12 +674,10 @@ Despite sections 21 (1) and 22 (1) â
           (ii) under section 18 (b) if a provision of the revenue law
           for which the reassessment is made declares the limitation
           period does not apply.
- 
 Reassessment by self assessors
 *** 24 Reassessment by self assessors ***
 A self assessor may make a reassessment only if required or permitted under a
 revenue law.
- 
 Reassessment does not replace previous assessment
 *** 25 Reassessment does not replace previous assessment ***
 A reassessment does not replace the previous assessment but merely varies it
@@ -333,7 +685,6 @@ byâ
      (a) decreasing or increasing the taxpayerâs liability for tax; or
      (b) changing the basis on which the taxpayerâs liability for tax is
      assessed.
- 
 Assessment notice to be given to taxpayer
 *** 26 Assessment notice to be given to taxpayer ***
      (1) The commissioner must give notice of the making of an assessment
@@ -365,12 +716,10 @@ Assessment notice to be given to taxpayer
      60 or a revenue law if, after the remission and the application of
      payments received by the commissioner for the taxpayerâs assessment
      liability, the taxpayer has no assessment liability.
- 
 Assessments made on available relevant information
 *** 27 Assessments made on available relevant information ***
 The commissioner may make an assessment on the available information the
 commissioner considers relevant.
- 
 Taxpayer to advise commissioner if liability for tax under assessed
 *** 28 Taxpayer to advise commissioner if liability for tax under assessed ***
      (1) A taxpayer must advise the commissioner if the taxpayer becomes
@@ -381,10 +730,9 @@ Taxpayer to advise commissioner if liability for tax under assessed
           stated in the assessment.
      (2) The taxpayer must comply with subsection (1) within 30 days after
      becoming aware of the matters mentioned in the subsection.
- 
 Assessments of liability for royalty under the Mineral Resources Act 1989
 *** 28A Assessments of liability for royalty under the Mineral Resources Act
-1989 ***
+Section 1989 ***
      (1) This section applies in relation to a taxpayerâs liability for
      royalty under the Mineral Resources Act 1989.
      (2) Without limiting section 26, the matters stated in an assessment
@@ -399,7 +747,6 @@ Assessments of liability for royalty under the Mineral Resources Act 1989
      (4) Section 28 (1) applies as if a reference to a taxpayerâs
      liability for tax were a reference to the amount of the taxpayerâs
      liability for royalty that is payable to the State.
- 
 Methods of payment
 *** 29 Methods of payment ***
      (1) An amount payable to the commissioner under a tax law must be
@@ -407,7 +754,6 @@ Methods of payment
           (a) by cash or cheque; or
           (b) as prescribed under a regulation.
      (2) This section applies subject to section 29A.
- 
 Requirement for electronic payment
 *** 29A Requirement for electronic payment ***
      (1) The commissioner may give a written notice (an
@@ -424,10 +770,8 @@ Requirement for electronic payment
      occasion is unable to comply with the notice due to circumstances
      beyond the personâs control.
      (4) In this sectionâ
-
      "prescribed electronic way" means an electronic way prescribed under
      a regulation.
- 
 Application to withdraw electronic payment notice
 *** 29B Application to withdraw electronic payment notice ***
      (1) A person given an electronic payment notice may apply to the
@@ -479,7 +823,6 @@ Application to withdraw electronic payment notice
           may be represented by a lawyer; and
           (b) the grounds for the review are limited to the grounds
           stated in subsection (3).
- 
 Time for payment of tax
 *** 30 Time for payment of tax ***
      (1) Tax payable under a tax law must be paidâ
@@ -500,11 +843,9 @@ Time for payment of tax
      after the assessment notice for the tax is given to the taxpayer.
      (3) For a return self-assessment, assessed interest is payable on the
      day the assessment is made.
- 
 Time for payment of late payment interest
 *** 31 Time for payment of late payment interest ***
 Late payment interest is payable on the date it accrues.
- 
 Time for payment of other amounts
 *** 32 Time for payment of other amounts ***
      (1) This section applies ifâ
@@ -520,7 +861,6 @@ Time for payment of other amounts
           given by the commissioner to the taxpayer for the amount.
      (3) For subsection (2) (b), the stated date must be at least 30 days
      after the notice is given.
- 
 Earlier time for payment of tax and other amounts
 *** 33 Earlier time for payment of tax and other amounts ***
      (1) This section applies despite sections 30 and 32.
@@ -532,7 +872,6 @@ Earlier time for payment of tax and other amounts
      to apply.
      (3) The date stated in the notice mentioned in subsection (2) must
      not be a date before the notice is given.
- 
 Payment arrangements
 *** 34 Payment arrangements ***
      (1) If the commissioner is satisfied payment of a taxpayerâs tax
@@ -553,7 +892,6 @@ Payment arrangements
      (6) The commissionerâs decision about extending the time for paying
      a tax law liability or to terminate a payment arrangement is a non-
      reviewable decision.
- 
 Payments by tax agents
 *** 35 Payments by tax agents ***
 If a tax agent receives an amount to pay a tax law liability for a taxpayer,
@@ -569,7 +907,6 @@ the tax agent must pay the amount to the commissionerâ
           self assessmentâimmediately after receiving the amount.
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 Refunds made only under this division
 *** 36 Refunds made only under this division ***
      (1) A person is not entitled to a refund of any amount paid, or
@@ -580,7 +917,6 @@ Refunds made only under this division
      (3) To remove any doubt, it is declared that subsection (2) does not
      affect a personâs right to seek judicial review under the Judicial
      Review Act 1991 to the extent permitted under this Act.
- 
 Commissioner to refund tax and other amounts
 *** 37 Commissioner to refund tax and other amounts ***
      (1) An entitlement to a refund of an amount paid under a tax law
@@ -594,7 +930,6 @@ Commissioner to refund tax and other amounts
      overpaid amount.
      (3) However, the commissioner must not make a refund under subsection
      (1) (b) more than 5 years after the payment of the amount.
- 
 Applying amounts to current and future tax liabilities
 *** 38 Applying amounts to current and future tax liabilities ***
      (1) This section applies if a taxpayer is entitled to a refund of an
@@ -627,18 +962,14 @@ Applying amounts to current and future tax liabilities
      or with the taxpayerâs consent.
      (5) This section has effect subject to section 39.
      (6) In this sectionâ
-
      "royalty amount" meansâ
           (a) an amount payable by a taxpayer under a royalty law; or
           (b) an amount payable by a taxpayer, under this Act, that
           relates to an amount mentioned in paragraph (a).
-
      "royalty return period", for a taxpayer, means a period for which,
      under a royalty law, the taxpayer must lodge a return.
-
      "section 61A interest" means interest payable on a refund amount by
      the commissioner to a taxpayer under section 61A.
- 
 General provision about refunds and payments of section 61A interest
 *** 39 General provision about refunds and payments of section 61A interest ***
      (1) The commissioner may refund an amount and pay any section 61A
@@ -688,15 +1019,11 @@ General provision about refunds and payments of section 61A interest
           Penalty--
                Maximum penaltyâ100 penalty units.
      (5) In this sectionâ
-
      "section 61A interest" see section 38 (6).
-
      "tax" means tax paid, or purportedly paid, under a tax law, whether
      or not under a mistake of law or fact.
-
      "taxpayer" includes a person who, under section 37 (1) (b), is
      entitled to a refund.
- 
 When payments are received
 *** 40 When payments are received ***
      (1) A payment is taken to be received by the commissionerâ
@@ -717,7 +1044,6 @@ When payments are received
           (a) a regulation made under section 29 (1) (b) allows the
           amount to be paid electronically; and
           (b) payment of the amount is made electronically.
- 
 Allocating payments if more than 1 assessment liability
 *** 41 Allocating payments if more than 1 assessment liability ***
      (1) If a taxpayer has an assessment liability under more than 1
@@ -727,7 +1053,6 @@ Allocating payments if more than 1 assessment liability
      (2) In making the decision, the commissioner may, but is not required
      to, have regard to a request by the taxpayer for the allocation of
      the payment.
- 
 Application of payments to assessment liability
 *** 42 Application of payments to assessment liability ***
 A payment received by the commissioner for an assessment liability must be
@@ -737,20 +1062,17 @@ applied in the following orderâ
      (b) second, another amount payable under a tax law, other than
      primary tax;
      (c) last, primary tax.
- 
 Waiver of tax law liability
 *** 43 Waiver of tax law liability ***
      (1) The commissioner may waive payment of a taxpayerâs tax law
      liability up to the amount prescribed under a regulation.
      (2) The liability to pay the amount waived is extinguished.
- 
 Effect of writing off tax law liability
 *** 44 Effect of writing off tax law liability ***
 If all or part of a taxpayerâs tax law liability is written off under the
 Financial Accountability Act 2009, section 21, the writing off does not
 extinguish the taxpayerâs liability or prevent a later proceeding against the
 taxpayer to recover the amount of the liability.
- 
 Unpaid amount under tax law is debt
 *** 45 Unpaid amount under tax law is debt ***
      (1) An amount payable under a tax law must be paid to the
@@ -763,14 +1085,12 @@ Unpaid amount under tax law is debt
      (3) Subsections (1) and (2) do not apply to an amount of royalty
      payable under the Mineral Resources Act 1989 to a person other than
      the State.
- 
 Recovery proceedings not affected by reassessment
 *** 46 Recovery proceedings not affected by reassessment ***
 A reassessment does not affect a proceeding for the recovery of an amount
 payable under a tax law but an appropriate adjustment must be made to the
 amount sought to be recovered in the proceeding to accord with the
 reassessment.
- 
 Joint and several liability
 *** 47 Joint and several liability ***
      (1) If 2 or more taxpayers are liable under a tax law to pay an
@@ -779,14 +1099,11 @@ Joint and several liability
      (2) Subsection (1) does not affect the right of a taxpayer who pays
      an amount to recover a contribution from another person jointly or
      severally liable for the whole or part of the amount.
- 
 Definition for sdiv 1A
 *** 47A Definition for sdiv 1A ***
 In this subdivisionâ
-
 "registrar" means the registrar of titles under the Land Title Act 1994 or
 another person responsible for keeping a register of dealings in land.
- 
 Registration of charge over land
 *** 47B Registration of charge over land ***
      (1) This section applies if, under a revenue law, the commissioner
@@ -802,7 +1119,6 @@ Registration of charge over land
           stated outstanding amount of tax.
      (4) The fee for registration of the charge is payable by the owner of
      the land.
- 
 Release of charge over land
 *** 47C Release of charge over land ***
      (1) This section applies if, in relation to a registered chargeâ
@@ -819,20 +1135,16 @@ Release of charge over land
      (5) The fee for registration of the release of the charge is payable
      by the owner of the land.
      (6) In this sectionâ
-
      "registered charge" means a charge registeredâ
           (a) before the commencement of this sectionâunder a
           revenue law; or
-          (b) on or after the commencement of this sectionâunder
-          section 47B.
- 
+          (b) on or after the commencement of this sectionâunder Section 47B.
 Recovery of fees paid by commissioner
 *** 47D Recovery of fees paid by commissioner ***
      (1) This section applies if the commissioner pays, to the registrar,
      a fee mentioned in section 47B (4) or 47C (5).
      (2) The commissioner may recover the amount of the fee from the
      person or persons liable for payment of the fee.
- 
 Particular administrators to notify commissioner of appointment
 *** 48 Particular administrators to notify commissioner of appointment ***
      (1) A person who is appointed as administrator for the property of a
@@ -848,7 +1160,6 @@ Particular administrators to notify commissioner of appointment
           (b) the later date allowed by the commissioner.
      (3) However, notice is not required in the circumstances prescribed
      under a regulation.
- 
 Administratorâs liability for payment of tax
 *** 49 Administratorâs liability for payment of tax ***
      (1) The commissioner has the same powers and remedies in relation to
@@ -861,7 +1172,6 @@ Administratorâs liability for payment of tax
           administrator; and
           (b) was, at any time, available to the administrator for
           the payment of the tax.
- 
 Collection of amounts from a garnishee
 *** 50 Collection of amounts from a garnishee ***
      (1) This section applies ifâ
@@ -899,12 +1209,10 @@ Collection of amounts from a garnishee
           (a) a copy of the garnishee notice; and
           (b) details in writing of the taxpayerâs debt to which
           the notice relates.
- 
 Duration of garnishee notice
 *** 51 Duration of garnishee notice ***
 The garnishee notice has effect until the garnishee amount is paid or the
 commissioner, by written notice given to the garnishee, withdraws the notice.
- 
 Effect of discharge of debt on garnishee notice
 *** 52 Effect of discharge of debt on garnishee notice ***
      (1) This section applies ifâ
@@ -921,7 +1229,6 @@ Effect of discharge of debt on garnishee notice
           is reduced accordingly; and
           (c) if the taxpayerâs debt is fully
           dischargedâwithdrawing the garnishee notice.
- 
 Effect of payment by garnishee
 *** 53 Effect of payment by garnishee ***
 If the garnishee pays an amount to the commissioner under a garnishee notice,
@@ -931,7 +1238,6 @@ the garnisheeâ
      (b) if the garnishee is under an obligation to pay an amount to the
      taxpayerâis to be taken to have satisfied the obligation to the
      extent of the payment.
- 
 Unpaid tax interest
 *** 54 Unpaid tax interest ***
      (1) A taxpayer must pay interest (
@@ -1046,20 +1352,16 @@ Unpaid tax interest
      is worked out if royalty is, under a regulation under a royalty law,
      payable in instalments.
      (10) In this sectionâ
-
      "liable party" see the Duties Act 2001, section 471A.
-
      "total number of days of noncompliance" means the total number of
      days worked out by adding the number of days in the period of
      noncompliance in subsection (5) (aa) (ii) to the number of days in
      the period of noncompliance in subsection (5) (aa) (iii).
- 
 When particular taxpayers liable for unpaid tax interest
 *** 55 When particular taxpayers liable for unpaid tax interest ***
 A taxpayer to whom a regulation under section 147 (2) applies is liable for
 unpaid tax interest in relation to an assessment only from the due date in the
 assessment notice given to the taxpayer.
- 
 Unpaid tax interest unaffected by extensions of time
 *** 56 Unpaid tax interest unaffected by extensions of time ***
      (1) The making of a payment arrangement must be disregarded for
@@ -1067,7 +1369,6 @@ Unpaid tax interest unaffected by extensions of time
      (2) Any extension of time allowed by the commissioner for complying
      with an information or lodgement requirement must be disregarded in
      determining the start date under section 54 (4).
- 
 Application of payments for unpaid tax interest
 *** 57 Application of payments for unpaid tax interest ***
      (1) The order of application of a payment under section 42 applies to
@@ -1075,7 +1376,6 @@ Application of payments for unpaid tax interest
      interest accrues.
      (2) For a reassessment, subsection (1) applies as if there had been
      no previous application of payments.
- 
 Liability for penalty tax
 *** 58 Liability for penalty tax ***
      (1) A taxpayer is liable for an amount (
@@ -1115,7 +1415,6 @@ Liability for penalty tax
      (4) A reference in this section to an amount of primary tax does not
      include a reference to an amount of royalty payable under the Mineral
      Resources Act 1989 to a person other than the State.
- 
 Penalty tax not payable if proceeding for offence started
 *** 59 Penalty tax not payable if proceeding for offence started ***
      (1) This section applies if a taxpayer is liable to pay penalty tax
@@ -1135,17 +1434,14 @@ Penalty tax not payable if proceeding for offence started
      proceeding for the offence, the commissioner must make a reassessment
      to reinstate the penalty tax remitted under the subsection.
      (5) In this sectionâ
-
      "penalty tax" includes an amount declared under a revenue law to be a
      penalty tax for this section.
- 
 When commissioner may remit unpaid tax interest and penalty tax
 *** 60 When commissioner may remit unpaid tax interest and penalty tax ***
      (1) The commissioner may remit the whole or part of unpaid tax
      interest or penalty tax.
      (2) The remission of assessed interest or penalty tax must be made by
      assessment.
- 
 Interest on particular overpayments following courtâs or QCATâs decision
 *** 61 Interest on particular overpayments following courtâs or QCATâs
 decision ***
@@ -1159,14 +1455,12 @@ decision ***
           the Judicial Review Act 1991, by the taxpayer for a
           decision under a tax law; or
           (c) a reassessment giving effect to a decision of QCAT on
-          an application for review made by the taxpayer under
-          section 69.
+          an application for review made by the taxpayer under Section 69.
      (2) The court or QCAT may order the commissioner to pay interest on
      the overpaid amount.
      (3) The interest must be calculated on a daily basis at the
      prescribed rate from the date the overpaid amount was paid to the
      commissioner to the date the refund is made by the commissioner.
- 
 Interest on particular overpayments following commissionerâs decision
 *** 61A Interest on particular overpayments following commissionerâs decision
 ***
@@ -1178,20 +1472,17 @@ Interest on particular overpayments following commissionerâs decision
      (3) The interest must be calculated on a daily basis at the
      prescribed rate from the date the overpaid amount was paid to the
      commissioner to the date the refund is made by the commissioner.
- 
 Interest only payable under this division
 *** 62 Interest only payable under this division ***
 A person is not entitled to interest on any amount the commissioner is required
 to refund to the person other than under this division.
      Noteâ
           See section 36 (Refunds made only under this division).
- 
 Royalty under Mineral Resources Act 1989
 *** 62A Royalty under Mineral Resources Act 1989 ***
 A person is not entitled to interest under this division on an amount of
 royalty paid under the Mineral Resources Act 1989 to a person other than the
 State.
- 
 Right to objectâassessments
 *** 63 Right to objectâassessments ***
      (1) A taxpayer who is dissatisfied with an original assessment, other
@@ -1215,7 +1506,6 @@ Right to objectâassessments
      (4) A decision or conduct leading up to or forming part of the
      process of making an assessment is subject to objection only as part
      of an objection to the assessment.
- 
 Right to objectâroyalty valuation decisions
 *** 63A Right to objectâroyalty valuation decisions ***
      (1) A taxpayer who is dissatisfied with an original royalty valuation
@@ -1229,7 +1519,6 @@ Right to objectâroyalty valuation decisions
      process of making a royalty valuation decision is subject to
      objection only as part of an objection to the royalty valuation
      decision.
- 
 Grounds of objection
 *** 64 Grounds of objection ***
      (1) An objection against an assessment or royalty valuation decision
@@ -1246,7 +1535,6 @@ Grounds of objection
      matter relating to the decision may only be raised in an objection to
      the decision under section 63A and may not be raised in an objection
      to the assessment under section 63.
- 
 Making objection
 *** 65 Making objection ***
      (1) An objection mustâ
@@ -1268,11 +1556,9 @@ Making objection
      circumstances for the objection to be lodged within the 60 days.
      (3) The commissionerâs decision to refuse to extend the time for
      lodging an objection is a non-reviewable decision.
- 
 Onus of proof on objection
 *** 66 Onus of proof on objection ***
 The objector has the onus of proving the objectorâs case.
- 
 Deciding objection
 *** 67 Deciding objection ***
      (1) The commissioner must allow the objection completely or partly or
@@ -1280,7 +1566,6 @@ Deciding objection
      (2) If the objection relates to an assessment or royalty valuation
      decision made by a delegate of the commissioner, the delegate must
      not decide the objection.
- 
 Notice of decision
 *** 68 Notice of decision ***
      (1) The commissioner must give written notice to the objector of the
@@ -1296,7 +1581,6 @@ Notice of decision
                decision;
           (d) how, and the period within which, the taxpayer may
           appeal or apply for the review.
- 
 Right of appeal or review
 *** 69 Right of appeal or review ***
      (1) This section applies to a taxpayer ifâ
@@ -1322,7 +1606,6 @@ Right of appeal or review
      reference in subsection (1) (b) to payment of the whole of the amount
      of the tax is a reference to payment of the whole of the amount of
      the royalty assessed as payable to the State.
- 
 Effect of reassessment or amendment of decision after appeal or review started
 *** 69A Effect of reassessment or amendment of decision after appeal or review
 started ***
@@ -1351,7 +1634,6 @@ started ***
      (3) However, the taxpayer may change the grounds of the appeal or
      review only to the extent that the taxpayer would have a right of
      objection to the reassessment or amended royalty valuation decision.
- 
 How to start appeal to the Supreme Court
 *** 70 How to start appeal to the Supreme Court ***
      (1) An appeal to the Supreme Court is started by giving written
@@ -1365,11 +1647,9 @@ How to start appeal to the Supreme Court
      and the facts relied on.
      (5) The grounds of an appeal to the Supreme Court are limited to the
      grounds of objection unless the court otherwise orders.
- 
 Onus on appeal
 *** 70A Onus on appeal ***
 On the appeal, the appellant has the onus of proving the appellantâs case.
- 
 Admissibility of new evidence
 *** 70B Admissibility of new evidence ***
      (1) Subsection (2) applies ifâ
@@ -1388,11 +1668,9 @@ Admissibility of new evidence
      reconsidering the objection.
      (4) For reconsidering the objection, the commissioner has all the
      powers conferred under this Act.
- 
 Deciding appeal
 *** 70C Deciding appeal ***
 The Supreme Court must allow the appeal completely or partly or disallow it.
- 
 QCAT to decide review on evidence before the commissioner
 *** 71 QCAT to decide review on evidence before the commissioner ***
      (1) This section applies to a proceeding for a review by QCAT of a
@@ -1418,27 +1696,21 @@ QCAT to decide review on evidence before the commissioner
           (b) decided in accordance with the same law that applied to
           the making of the original decision.
      (5) In this sectionâ
-
      "new evidence" means evidence that was not before the commissioner
      when the decision on the objection was made.
-
      "original decision" means the assessment, reassessment, royalty
      valuation decision or amended royalty valuation decision that was the
      subject of the relevant objection.
-
      "relevant objection" means the objection to which the decision of the
      commissioner relates.
- 
 Representation of parties before QCAT
 *** 72 Representation of parties before QCAT ***
      (1) This section applies to a party in a proceeding before QCAT
      relating to an application under section 69 (2) (b).
      (2) The party may be represented by a lawyer.
- 
 Onus on review
 *** 73 Onus on review ***
 On the review, the applicant has the onus of proving the applicantâs case.
- 
 What is a non-reviewable decision
 *** 75 What is a non-reviewable decision ***
      (1) A
@@ -1446,10 +1718,8 @@ What is a non-reviewable decision
      a provision of a tax law, is declared to be a non-reviewable
      decision.
      (2) In this sectionâ
-
      "decision" includes a decision or conduct leading up to or forming
      part of the process of making a decision or determination.
- 
 Effect of non-reviewable decisions
 *** 76 Effect of non-reviewable decisions ***
 A non-reviewable decisionâ
@@ -1462,7 +1732,6 @@ A non-reviewable decisionâ
      court, a tribunal or another entity); and
      (d) is not subject to any writ or order of the Supreme Court, another
      court, a tribunal or another entity on any ground.
- 
 Application of Judicial Review Act
 *** 77 Application of Judicial Review Act ***
 The Judicial Review Act 1991, parts 3 and 5, does not apply toâ
@@ -1479,7 +1748,6 @@ The Judicial Review Act 1991, parts 3 and 5, does not apply toâ
      for the withdrawal of an electronic payment notice; or
      (g) a decision, under section 143B, to refuse to grant an application
      for the withdrawal of an electronic communication notice.
- 
 Declaration of recognised law and corresponding commissioner
 *** 78 Declaration of recognised law and corresponding commissioner ***
      (1) A regulation may declare a law of the Commonwealth or another
@@ -1496,7 +1764,6 @@ Declaration of recognised law and corresponding commissioner
      law.
      (3) The regulation must declare a person to be the corresponding
      commissioner for the recognised law.
- 
 Exercise of powers only for tax law or recognised law
 *** 79 Exercise of powers only for tax law or recognised law ***
 A power conferred under this part may be exercised only for the administration
@@ -1504,7 +1771,6 @@ or enforcement of a tax law or recognised law.
      Noteâ
           For reciprocal investigations, see section 110 (Application
           of Act to reciprocal investigations).
- 
 Appointment
 *** 80 Appointment ***
      (1) The commissioner may appoint a public service employee as an
@@ -1512,7 +1778,6 @@ Appointment
      (2) The commissioner may appoint a person as an investigator only if
      the commissioner is satisfied the person is qualified for appointment
      because the person has the necessary expertise or experience.
- 
 Appointment conditions and limit on powers
 *** 81 Appointment conditions and limit on powers ***
      (1) An investigator holds office on any conditions stated inâ
@@ -1523,9 +1788,7 @@ Appointment conditions and limit on powers
      investigator or a regulation may limit the investigatorâs powers
      under this Act.
      (3) In this sectionâ
-
      "signed notice" means a notice signed by the commissioner.
- 
 Issue of identity card
 *** 82 Issue of identity card ***
      (1) The commissioner must issue an identity card to each
@@ -1538,7 +1801,6 @@ Issue of identity card
           (d) state an expiry date for the card.
      (3) This section does not prevent the issue of a single identity card
      to a person for this Act and other purposes.
- 
 Production of identity card
 *** 83 Production of identity card ***
      (1) In exercising a power under subdivision 3 or 4 in relation to a
@@ -1553,7 +1815,6 @@ Production of identity card
      (3) For subsection (1), an investigator does not exercise a power in
      relation to a person only because the investigator has entered a
      place as mentioned in section 90 (1) (b) or (2).
- 
 When investigator ceases to hold office
 *** 84 When investigator ceases to hold office ***
      (1) An investigator ceases to hold office if any of the following
@@ -1567,10 +1828,8 @@ When investigator ceases to hold office
      (2) Subsection (1) does not limit the ways an investigator may cease
      to hold office.
      (3) In this sectionâ
-
      "condition of office" means a condition on which the investigator
      holds office.
- 
 Resignation
 *** 85 Resignation ***
      (1) An investigator may resign by signed notice given to the
@@ -1578,7 +1837,6 @@ Resignation
      (2) However, if holding office as an investigator is a condition of
      the investigator holding another office, the investigator may not
      resign as an investigator without resigning from the other office.
- 
 Return of identity card
 *** 86 Return of identity card ***
 A person who ceases to be an investigator must return the personâs identity
@@ -1586,7 +1844,6 @@ card to the commissioner within 21 days after ceasing to be an investigator
 unless the person has a reasonable excuse.
      Penalty--
           Maximum penaltyâ40 penalty units.
- 
 Power to require information or documents
 *** 87 Power to require information or documents ***
 The commissioner or an investigator may, by written notice given to a person,
@@ -1601,7 +1858,6 @@ require the person toâ
      Noteâ
           For the offence of failing to comply with an information or
           lodgement requirement, see section 121.
- 
 Power to require attendance
 *** 88 Power to require attendance ***
      (1) The commissioner or an investigator may, by written notice given
@@ -1637,7 +1893,6 @@ Power to require attendance
      representative, who is required under a notice under this section to
      attend a place is entitled to be paid the expenses prescribed under a
      regulation.
- 
 Power to record giving of information
 *** 89 Power to record giving of information ***
      (1) This section applies if a person is giving information to the
@@ -1648,7 +1903,6 @@ Power to record giving of information
      given by the person.
      (3) If asked to do so by the person, the commissioner or investigator
      must give the person a copy of the recording.
- 
 Investigatorâs power to enter places for investigations
 *** 90 Investigatorâs power to enter places for investigations ***
      (1) An investigator may enter a place ifâ
@@ -1670,7 +1924,6 @@ Investigatorâs power to enter places for investigations
           enter when they wish to contact the occupier.
      (3) For subsection (1) (c), a place used for conducting an enterprise
      does not include a part of the place where a person resides.
- 
 Entry with consent
 *** 91 Entry with consent ***
      (1) This section applies if an investigator intends to ask an
@@ -1700,7 +1953,6 @@ Entry with consent
           the entry is not produced in evidence;
      the onus of proof is on the person relying on the lawfulness of the
      entry to prove the occupier consented.
- 
 Application for warrant
 *** 92 Application for warrant ***
      (1) An investigator may apply to a magistrate for a warrant for a
@@ -1714,7 +1966,6 @@ Application for warrant
                The magistrate may require additional information
                supporting the application to be given by
                statutory declaration.
- 
 Issue of warrant
 *** 93 Issue of warrant ***
      (1) The magistrate may issue a warrant only if the magistrate is
@@ -1740,7 +1991,6 @@ Issue of warrant
           (c) the date, within 14 days after the warrantâs issue,
           the warrant ends;
           (d) the purpose for which the warrant is issued.
- 
 Special warrants
 *** 94 Special warrants ***
      (1) An investigator may apply for a warrant (a
@@ -1787,7 +2037,6 @@ Special warrants
      the onus of proof is on the person relying on the lawfulness of the
      exercise of the power to prove a special warrant authorised the
      exercise of the power.
- 
 Warrantsâprocedure before entry
 *** 95 Warrantsâprocedure before entry ***
      (1) This section applies if an investigator named in a warrant issued
@@ -1812,7 +2061,6 @@ Warrantsâprocedure before entry
      the investigator believes on reasonable grounds that immediate entry
      to the place is required to ensure the effective execution of the
      warrant is not frustrated.
- 
 General powers for places
 *** 96 General powers for places ***
      (1) An investigator who enters a place under subdivision 3 may
@@ -1854,7 +2102,6 @@ General powers for places
           Penalty--
                Maximum penalty for subsection (4) â100 penalty
                units.
- 
 Power to seize and retain things
 *** 97 Power to seize and retain things ***
      (1) This section applies ifâ
@@ -1884,7 +2131,6 @@ Power to seize and retain things
      (3) Nothing in this section affects a lien or other security over the
      retained document or thing (the
      "retained thing").
- 
 Receipt for retained thing
 *** 98 Receipt for retained thing ***
      (1) The commissioner or investigator must, as soon as practicable,
@@ -1903,7 +2149,6 @@ Receipt for retained thing
      (4) This section does not apply to a retained thing if it is
      impracticable or would be unreasonable to give the receipt because of
      the thingâs nature, condition or value.
- 
 Return of retained thing
 *** 99 Return of retained thing ***
      (1) The commissioner must ensure the retained thing is returned to
@@ -1915,7 +2160,6 @@ Return of retained thing
           and any appeal from the proceeding.
      (2) However, the commissioner may retain a document for which tax is
      payable under a tax law until the tax is paid in full.
- 
 Testing of seized thing for royalty law
 *** 99A Testing of seized thing for royalty law ***
      (1) This section applies only for the administration or enforcement
@@ -1930,7 +2174,6 @@ Testing of seized thing for royalty law
      (3) The testing may have the effect of destroying the thing.
      (4) Section 99 (1) does not apply in relation to a thing seized and
      tested under this section.
- 
 Access to retained thing
 *** 100 Access to retained thing ***
      (1) Until the retained thing is forfeited or returned, the
@@ -1940,7 +2183,6 @@ Access to retained thing
      and, if it is a document, to copy it.
      (2) Subsection (1) does not apply if it is impracticable or would be
      unreasonable to allow the inspection or copying.
- 
 Forfeiture of retained thing
 *** 101 Forfeiture of retained thing ***
      (1) A retained thing is forfeited to the State if the commissionerâ
@@ -1965,7 +2207,6 @@ Forfeiture of retained thing
           (b) if making inquiries or effortsâwhat inquiries or
           efforts, including the period over which they are made, are
           reasonable.
- 
 Dealing with forfeited thing
 *** 102 Dealing with forfeited thing ***
      (1) On the forfeiture of a retained thing to the State, it becomes
@@ -1973,7 +2214,6 @@ Dealing with forfeited thing
      the commissioner considers appropriate.
      (2) Without limiting subsection (1), the commissioner may destroy or
      dispose of the thing.
- 
 Investigators may use help and force in exercise of powers
 *** 103 Investigators may use help and force in exercise of powers ***
      (1) An investigator may exercise a power under this division with the
@@ -1986,13 +2226,11 @@ Investigators may use help and force in exercise of powers
                     2 computer technician
      (3) Also, an investigator may exercise a power under this division
      using the force that is reasonable in the circumstances.
- 
 Access to public records without fee
 *** 104 Access to public records without fee ***
 The commissioner or an investigator is not required to pay any fee for
 inspecting or taking copies of a record that ordinarily is open to inspection
 by members of the public.
- 
 Notice of damage
 *** 105 Notice of damage ***
      (1) This section applies ifâ
@@ -2015,10 +2253,8 @@ Notice of damage
      (5) This section does not apply to damage the investigator reasonably
      believes is trivial.
      (6) In this sectionâ
-
      "owner", of property, includes the person in possession or control of
      it.
- 
 Compensation
 *** 106 Compensation ***
      (1) A person may claim from the commissioner the cost of repairing or
@@ -2034,7 +2270,6 @@ Compensation
      (4) A regulation may prescribe matters that may, or must, be taken
      into account by the court when considering whether it is just to make
      the order.
- 
 Commissioner may make reciprocal investigation arrangement
 *** 107 Commissioner may make reciprocal investigation arrangement ***
      (1) The commissioner may make an arrangement with a corresponding
@@ -2053,7 +2288,6 @@ Commissioner may make reciprocal investigation arrangement
           and reciprocal investigator; and
           (d) if the investigation is to be conducted by a reciprocal
           investigatorâidentify the reciprocal investigator.
- 
 Conduct of particular reciprocal investigations subject to commissioner
 *** 108 Conduct of particular reciprocal investigations subject to commissioner
 ***
@@ -2066,14 +2300,12 @@ investigatorâ
           (i) when required by the commissioner during the
           investigation; and
           (ii) at the end of the investigation.
- 
 Identity certificates for reciprocal investigators
 *** 109 Identity certificates for reciprocal investigators ***
 If a reciprocal investigation is to be conducted by a reciprocal investigator,
 the commissioner must issue to the investigator a certificate stating the
 investigator is a reciprocal investigator authorised to exercise powers under
 this part for conducting the investigation.
- 
 Application of Act to reciprocal investigations
 *** 110 Application of Act to reciprocal investigations ***
      (1) This section prescribes changes for the application of this Act,
@@ -2092,7 +2324,6 @@ Application of Act to reciprocal investigations
      (4) A reference to a tax law, or a tax law liability, is taken to be
      a reference to the relevant recognised law or a liability under the
      relevant recognised law.
- 
 Disclosure of confidential information
 *** 111 Disclosure of confidential information ***
      (1) An official must not disclose confidential information acquired
@@ -2150,10 +2381,8 @@ Disclosure of confidential information
      (6) This section does not create a right in any person to be given
      confidential information.
      (7) In this sectionâ
-
      "resources law" includes the Mineral and Energy Resources (Common
      Provisions) Act 2014.
- 
 Other obligations about disclosure and use of confidential information
 *** 112 Other obligations about disclosure and use of confidential information
 ***
@@ -2181,8 +2410,7 @@ Other obligations about disclosure and use of confidential information
                given confidential information for conducting a
                reciprocal investigation.
      Noteâ
-          This provision is an executive liability provisionâsee
-          section 140.
+          This provision is an executive liability provisionâsee Section 140.
      (2) If, under section 111, the commissioner discloses confidential
      information to a person, the person may disclose the informationâ
           (a) to the extent necessary to enable the person to
@@ -2193,7 +2421,6 @@ Other obligations about disclosure and use of confidential information
           section; or
           (c) to anyone else or for any purpose if the information
           relates to the person.
- 
 Refusal of disclosure of particular information
 *** 113 Refusal of disclosure of particular information ***
      (1) A person engaged in the administration or enforcement of a tax
@@ -2206,20 +2433,16 @@ Refusal of disclosure of particular information
           information.
      (2) Subsection (1) does not apply to a proceeding for the
      administration or enforcement of a tax law.
- 
 Definitions for division
 *** 113A Definitions for division ***
 In this divisionâ
-
 "commissioner of taxation" means the commissioner of taxation under the
 Taxation Administration Act 1953 (Cwlth), section 4.
-
 "reportable information" means information about the transfer of a freehold or
 leasehold interest in real property situated in Queensland that is reportable
 by the State to the commissioner of taxation under the Taxation Administration
 Act 1953 (Cwlth), schedule 1, chapter 5, part 5 -25, division 396, subdivision
-396 -B.
- 
+Section 396 -B.
 Relationship with other laws
 *** 113B Relationship with other laws ***
      (1) This division applies despite any other provision of this Act or
@@ -2236,12 +2459,10 @@ Relationship with other laws
           (b) the information is not disclosed in connection with the
           administration or execution of any law of the State (other
           than this division).
- 
 Commissioner may collect and disclose reportable information
 *** 113C Commissioner may collect and disclose reportable information ***
 The commissioner may collect reportable information and disclose it to the
 commissioner of taxation.
- 
 How reportable information may be collected
 *** 113D How reportable information may be collected ***
      (1) The commissioner may require a person who is providing
@@ -2256,7 +2477,6 @@ How reportable information may be collected
      transaction document lodged, or an application made, under a tax law.
      (3) This section does not limit the circumstances in which the
      commissioner may collect reportable information.
- 
 Requirement to keep proper records
 *** 114 Requirement to keep proper records ***
      (1) A person must keep the records necessary to enable the personâs
@@ -2274,7 +2494,6 @@ Requirement to keep proper records
      required to keep a stated record must comply with the requirement.
           Penalty--
                Maximum penaltyâ100 penalty units.
- 
 Accessibility of records
 *** 115 Accessibility of records ***
 A person who is required under a tax law to keep a record must keep the record
@@ -2282,7 +2501,6 @@ in a way that it is able to be readily produced to the commissioner if required
 by the commissioner.
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 Form of records
 *** 116 Form of records ***
 A person who is required under a tax law to keep a record must keep the
@@ -2293,7 +2511,6 @@ recordâ
      form mentioned in paragraph (a).
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 Commissioner may require translation or conversion of document or information
 *** 117 Commissioner may require translation or conversion of document or
 information ***
@@ -2314,7 +2531,6 @@ information ***
      (5) The costs and expenses incurred under subsection (4) are a debt
      payable to the State by the person and may be recovered by the
      commissioner by action in a court of competent jurisdiction.
- 
 Period for keeping records
 *** 118 Period for keeping records ***
 A person who is required under a tax law to keep a record must keep it until
@@ -2328,7 +2544,6 @@ the later of the followingâ
      relatesâ2 years has elapsed after the end of the period.
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 Wilfully damaging records
 *** 119 Wilfully damaging records ***
      (1) A person must not wilfully damage a record that is required to be
@@ -2336,12 +2551,9 @@ Wilfully damaging records
           Penalty--
                Maximum penaltyâ100 penalty units.
      Noteâ
-          This provision is an executive liability provisionâsee
-          section 140.
+          This provision is an executive liability provisionâsee Section 140.
      (2) In this sectionâ
-
      "damage" includes destroy.
- 
 Failure to give notice
 *** 120 Failure to give notice ***
 If, under a tax law, a person is required to give to the commissioner a notice
@@ -2349,14 +2561,12 @@ about a matter, the person must not fail, without reasonable excuse, to comply
 with the requirement.
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 Failure to comply with information or lodgement requirement
 *** 121 Failure to comply with information or lodgement requirement ***
 A person must not fail, without reasonable excuse, to comply with an
 information or lodgement requirement.
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 False or misleading documents
 *** 122 False or misleading documents ***
      (1) A person must not give to the commissioner or an investigator a
@@ -2365,8 +2575,7 @@ False or misleading documents
           Penalty--
                Maximum penaltyâ100 penalty units.
      Noteâ
-          This provision is an executive liability provisionâsee
-          section 140.
+          This provision is an executive liability provisionâsee Section 140.
      (2) Subsection (1) does not apply to a person who, when giving the
      documentâ
           (a) tells the commissioner or investigator of the extent to
@@ -2377,7 +2586,6 @@ False or misleading documents
      (3) It is enough for a complaint against a person for an offence
      against subsection (1) to state the document was, without specifying
      which, âfalse or misleadingâ.
- 
 False or misleading information
 *** 123 False or misleading information ***
      (1) A person must not state anything to the commissioner or an
@@ -2386,12 +2594,10 @@ False or misleading information
           Penalty--
                Maximum penaltyâ100 penalty units.
      Noteâ
-          This provision is an executive liability provisionâsee
-          section 140.
+          This provision is an executive liability provisionâsee Section 140.
      (2) It is enough for a complaint for an offence against subsection
      (1), to state the statement made was âfalse or misleadingâ to the
      personâs knowledge, without specifying which.
- 
 Self-incrimination not a reasonable excuse for failure to comply with
 particular information or lodgement requirement
 *** 124 Self-incrimination not a reasonable excuse for failure to comply with
@@ -2410,7 +2616,6 @@ particular information or lodgement requirement ***
      person is not admissible in evidence against the person in a criminal
      proceeding, other than a proceeding in which the falsity or
      misleading nature of the information or document is relevant.
- 
 Use in legal proceedings of document or information obtained under a recognised
 law
 *** 125 Use in legal proceedings of document or information obtained under a
@@ -2425,7 +2630,6 @@ recognised law ***
      not admissible in evidence against the person in a criminal
      proceeding, other than a proceeding in which the falsity or
      misleading nature of the information or document is relevant.
- 
 Obstruction of person exercising power under tax law
 *** 126 Obstruction of person exercising power under tax law ***
 A person must not, without reasonable excuse, obstructâ
@@ -2435,17 +2639,14 @@ A person must not, without reasonable excuse, obstructâ
      exercising a power under a tax law.
      Penalty--
           Maximum penaltyâ100 penalty units.
- 
 Impersonation of investigator
 *** 127 Impersonation of investigator ***
 A person must not pretend to be an investigator.
      Penalty--
           Maximum penaltyâ40 penalty units.
- 
 Application of div 2
 *** 128 Application of div 2 ***
 This division applies to a proceeding under or in relation to a tax law.
- 
 Commissionerâs office and signature
 *** 129 Commissionerâs office and signature ***
      (1) Judicial notice must be taken of the name and signature of a
@@ -2459,12 +2660,10 @@ Commissionerâs office and signature
      (4) A document bearing the written, printed or stamped name of the
      commissioner is presumed to have been made with the commissionerâs
      authority unless the contrary is proved.
- 
 Statement in complaint
 *** 130 Statement in complaint ***
 A statement made by or for the commissioner in a complaint starting a
 proceeding is evidence of the matter stated.
- 
 Evidentiary certificates
 *** 131 Evidentiary certificates ***
 A certificate purporting to be signed by the commissioner stating any of the
@@ -2489,7 +2688,6 @@ following matters is evidence of the matterâ
      (b) a stated person is authorised to conduct a stated proceeding for
      the commissioner;
      (c) a stated document is a copy of, or part of, another document.
- 
 Evidentiary provisions for assessments
 *** 132 Evidentiary provisions for assessments ***
      (1) Production of a document signed by the commissioner purporting to
@@ -2506,14 +2704,12 @@ Evidentiary provisions for assessments
                assessment are correct.
      (2) The validity of an assessment is not affected merely because a
      provision of a tax law has not been complied with.
- 
 Production of copies of documents
 *** 133 Production of copies of documents ***
 A copy of a document made or issued by the commissioner or in the
 commissionerâs possessionâ
      (a) is admissible in the same way as the original document; and
      (b) has the same evidentiary value as the original document.
- 
 Conducting proceeding for commissioner
 *** 134 Conducting proceeding for commissioner ***
      (1) The commissioner may, by signed writing, authorise a person to
@@ -2529,17 +2725,14 @@ Conducting proceeding for commissioner
           tribunal in which the proceeding is conducted; and
           (b) represents the commissioner in the proceeding; and
           (c) is entitled to give evidence in the proceeding.
- 
 Summary proceedings for offences
 *** 135 Summary proceedings for offences ***
 A proceeding for an offence against a tax law must be taken in a summary way
 under the Justices Act 1886.
- 
 When proceeding must start
 *** 136 When proceeding must start ***
 A proceeding for an offence against a tax law must start within 5 years after
 the commission of the offence.
- 
 Court may order compliance or payment
 *** 137 Court may order compliance or payment ***
      (1) If a person is convicted of an offence against a provision of a
@@ -2561,7 +2754,6 @@ Court may order compliance or payment
      the court may order the person pay twice the amount of the liability.
      (7) This section does not limit the courtâs powers under the
      Penalties and Sentences Act 1992 or any other law.
- 
 Second or subsequent offence
 *** 138 Second or subsequent offence ***
      (1) This section applies ifâ
@@ -2571,7 +2763,6 @@ Second or subsequent offence
           convicted of a further offence against the provision.
      (2) The maximum penalty for the further offence is twice the maximum
      penalty fixed in the tax law for the offence.
- 
 Responsibility for acts or omissions of representative
 *** 139 Responsibility for acts or omissions of representative ***
      (1) This section applies in a proceeding for an offence against a tax
@@ -2589,7 +2780,6 @@ Responsibility for acts or omissions of representative
      proves the person could not, by the exercise of reasonable diligence,
      have prevented the act or omission.
      (4) In this sectionâ
-
      "representative" meansâ
           (a) of a corporationâan executive officer, employee or
           agent of the corporation; or
@@ -2599,13 +2789,11 @@ Responsibility for acts or omissions of representative
           employee or agent of the body; or
           (d) of an individualâan employee or agent of the
           individual.
-
      "state of mind" of a person includesâ
           (a) the personâs knowledge, intention, opinion, belief or
           purpose; and
           (b) the personâs reasons for the intention, opinion,
           belief or purpose.
- 
 Liability of executive officerâparticular offences committed by corporation
 *** 140 Liability of executive officerâparticular offences committed by
 corporation ***
@@ -2641,7 +2829,6 @@ corporation ***
           officer of the corporation, for the offence against the
           executive liability provision.
      (5) In this sectionâ
-
      "executive liability provision" means any of the following
      provisionsâ
           â¢ section 112 (1)
@@ -2657,7 +2844,6 @@ corporation ***
           â¢ the Duties Act 2001, section 481
           â¢ the Duties Act 2001, section 481A (2)
           â¢ the Payroll Tax Act 1971, section 93.
- 
 Treatment of partnerships and unincorporated bodies
 *** 141 Treatment of partnerships and unincorporated bodies ***
      (1) Subject to this section, the tax laws apply to a partnership or
@@ -2686,14 +2872,12 @@ Treatment of partnerships and unincorporated bodies
           (b) the partner or management member was not in a position
           to influence the conduct of the partnership or body in
           relation to the offence.
- 
 Application of pt 11
 *** 142 Application of pt 11 ***
 This part applies if a tax law requires or permits a document to be given to a
 person, whether the expression âdeliverâ, âgiveâ, âlodgeâ,
 ânotifyâ, âsendâ or âserveâ or another expression having a similar
 meaning is used.
- 
 Ways of giving document to commissioner
 *** 143 Ways of giving document to commissioner ***
      (1) A document is given to the commissioner only ifâ
@@ -2708,7 +2892,6 @@ Ways of giving document to commissioner
           (d) it is given to the commissioner in another way
           prescribed under a regulation.
      (2) This section applies subject to section 143A.
- 
 Requirement for electronic communication
 *** 143A Requirement for electronic communication ***
      (1) The commissioner may give a written notice (an
@@ -2723,7 +2906,6 @@ Requirement for electronic communication
      (3) Subsection (2) does not apply if the person on a particular
      occasion is unable to comply with the notice due to circumstances
      beyond the personâs control.
- 
 Application to withdraw electronic communication notice
 *** 143B Application to withdraw electronic communication notice ***
      (1) A person given an electronic communication notice may apply to
@@ -2776,7 +2958,6 @@ Application to withdraw electronic communication notice
           may be represented by a lawyer; and
           (b) the grounds for the review are limited to the grounds
           stated in subsection (3).
- 
 When document given to commissioner
 *** 144 When document given to commissioner ***
      (1) A document is taken to be given to the commissionerâ
@@ -2808,7 +2989,6 @@ When document given to commissioner
      business day.
      (3) Subsection (2) does not apply to a document given to the
      commissioner using an approved information system.
- 
 When lodgement requirement complied with
 *** 145 When lodgement requirement complied with ***
 A lodgement requirement is complied with only ifâ
@@ -2818,7 +2998,6 @@ A lodgement requirement is complied with only ifâ
      (b) if, under the requirement, a document required to be lodged or
      given is an approved formâthe form contains enough information for
      the purpose for which it is lodged or given.
- 
 Giving document to agents of taxpayers, members of partnerships and
 unincorporated bodies
 *** 146 Giving document to agents of taxpayers, members of partnerships and
@@ -2832,7 +3011,6 @@ unincorporated bodies ***
      (3) A document to be given by the commissioner to an unincorporated
      body is taken to have been given to all members of the body if it is
      given to any member of the committee of management of the body.
- 
 Giving document if more than 1 taxpayer liable
 *** 147 Giving document if more than 1 taxpayer liable ***
      (1) A document is taken to be given to all taxpayers who are liable
@@ -2851,7 +3029,6 @@ Giving document if more than 1 taxpayer liable
      (5) A reference in this section to a liability to pay tax for an
      instrument, transaction or matter includes a reference to a liability
      to pay tax for a matter for a particular period.
- 
 Ways document given by commissioner
 *** 148 Ways document given by commissioner ***
      (1) A document to be given under a tax law to a person by the
@@ -2878,10 +3055,8 @@ Ways document given by commissioner
           (b) for a document to be given under a royalty lawâthe
           address for the person recorded in the register.
      (3) In this sectionâ
-
      "register" means the register kept under the Mineral and Energy
      Resources (Common Provisions) Act 2014.
- 
 When document given by commissioner
 *** 149 When document given by commissioner ***
      (1) A document is taken to be given by the commissioner to a
@@ -2900,7 +3075,6 @@ When document given by commissioner
      (2) However, if under subsection (1), the document is given after
      5p.m. on a particular day, the document is taken to be given to the
      person on the following business day.
- 
 Application for registration
 *** 149A Application for registration ***
      (1) A person authorised by an institution may apply to the
@@ -2918,13 +3092,10 @@ Application for registration
                activities;
                (iv) details of fees charged for its activities.
      (3) In this sectionâ
-
      "constitution" see section 149C (6).
- 
 Decision on application
 *** 149B Decision on application ***
 The commissioner must approve or refuse the application.
- 
 Restrictions on registration
 *** 149C Restrictions on registration ***
      (1) The commissioner may register the institution only if it is an
@@ -2981,16 +3152,13 @@ Restrictions on registration
                is charitable or for the promotion of the public
                good.
      (6) In this sectionâ
-
      "constitution", of an institution, includes a law, deed or other
      instrument that constitutes the institution and governs the
      activities of the institution or its members.
- 
 Approval of application
 *** 149D Approval of application ***
 If the commissioner approves the application, the commissioner must register
 the institution.
- 
 Refusal of application
 *** 149E Refusal of application ***
 If the commissioner refuses the application, the commissioner must give notice
@@ -3002,7 +3170,6 @@ of the decision to the institution.
           decision as part of an objection to the assessment. See
           part 6 for provisions about objections and appeals against,
           and reviews of, assessments.
- 
 Later registration
 *** 149F Later registration ***
      (1) If the commissioner refuses the application, the commissioner may
@@ -3015,7 +3182,6 @@ Later registration
      (3) The date of registration must be the date that the institution
      would have been registered had the commissioner approved the
      application in the first instance.
- 
 Notice of registration
 *** 149G Notice of registration ***
      (1) On registration of an institution, the commissioner must give
@@ -3026,7 +3192,6 @@ Notice of registration
           registration.
      (3) The date of registration may be before the date of the
      application or notice.
- 
 Notice of ceasing to be entitled to be registered
 *** 149H Notice of ceasing to be entitled to be registered ***
 Within 28 days after a charitable institution stops being entitled to be
@@ -3034,7 +3199,6 @@ registered under section 149C, it must give written notice to the commissioner.
      Noteâ
           Failure to give the notice is an offence under the
           Administration Act, section 120.
- 
 Cancellation of registration
 *** 149I Cancellation of registration ***
      (1) The commissioner may cancel a charitable institutionâs
@@ -3056,23 +3220,18 @@ Cancellation of registration
                object to the decision as part of an objection to
                the assessment. For objections and appeals
                against assessments, see part 6.
- 
 Definitions for part
 *** 149J Definitions for part ***
 In this partâ
-
 "authority holder", for a royalty operation, means a holder of any of the
 authorities under which the royalty operation is carried on.
-
 "royalty operation" means a mining operation within the meaning given by the
 Mineral Resources Act 1989 for chapter 11 of that Act.
- 
 References to assessment
 *** 149K References to assessment ***
 A reference in this Act to an assessment of a taxpayerâs liability for tax
 includes a reference to an assessment of the liability for tax, for a royalty
 operation, of all the authority holders.
- 
 Refunds
 *** 149L Refunds ***
      (1) This section applies if the authority holders for a royalty
@@ -3085,7 +3244,6 @@ Refunds
      another person includes a reference to an authority holder for the
      royalty operation receiving an amount from a person other than
      another authority holder for the royalty operation.
- 
 Protection from liability
 *** 150 Protection from liability ***
      (1) An official is not civilly liable for an act done, or omission
@@ -3093,7 +3251,6 @@ Protection from liability
      (2) If subsection (1) prevents a civil liability attaching to an
      official, the liability attaches instead to the State.
      (3) In this sectionâ
-
      "official" meansâ
           (a) the commissioner; or
           (b) an investigator; or
@@ -3101,13 +3258,11 @@ Protection from liability
           delegated a power under a tax law; or
           (d) a person acting under the direction of the commissioner
           or an investigator.
- 
 When information requirement complied with
 *** 150A When information requirement complied with ***
 An information requirement is complied with only if the information required to
 be given under the requirement has been given by the date for complying with
 the requirement.
- 
 Extension of date for complying with information or lodgement requirement
 *** 151 Extension of date for complying with information or lodgement
 requirement ***
@@ -3115,23 +3270,19 @@ If, in particular circumstances, the commissioner considers it would be
 unreasonable to require compliance with an information or lodgement requirement
 by the date for complying with the requirement, the commissioner may extend the
 date for compliance.
- 
 Rounding down
 *** 152 Rounding down ***
 The commissioner may round down an amount required to be paid under a tax law
 to the nearest 5c.
- 
 Approved forms
 *** 153 Approved forms ***
      (1) The commissioner may approve forms for use under this Act.
      (2) A form may be approved for use under this Act that is combined
      with, or is to be used together with, an approved form under another
      Act.
- 
 Approved information system
 *** 153A Approved information system ***
 The commissioner may approve an information system for a tax law.
- 
 Commissioner may arrange for use of an approved information system to make
 particular decisions
 *** 153B Commissioner may arrange for use of an approved information system to
@@ -3143,10 +3294,8 @@ make particular decisions ***
      information system under an arrangement made under subsection (1) is
      taken to be a decision made by the commissioner.
      (3) In this sectionâ
-
      "relevant decision" means a decision that does not involve the
      exercise of the commissionerâs discretion.
- 
 Commissioner may require payment of penalty
 *** 153C Commissioner may require payment of penalty ***
      (1) This section applies if a personâ
@@ -3180,26 +3329,20 @@ Commissioner may require payment of penalty
           pending the review being decided; and
           (b) a party to a proceeding of the tribunal for the review
           may be represented by a lawyer.
- 
 Regulation-making power
 *** 154 Regulation-making power ***
      (1) The Governor in Council may make regulations under this Act.
      (2) A regulation may provide for a maximum penalty of not more than
      20 penalty units for a contravention of a regulation.
- 
 Act repealed
 *** 155 Act repealed ***
 The Revenue Laws (Reciprocal Powers) Act 1988 is repealed.
- 
 Definitions for div 2
 *** 156 Definitions for div 2 ***
 In this divisionâ
-
 "commencement day" means the day section 155 commences.
-
 "repealed Stamp Act" means the repealed Stamp Act 1894 as in force immediately
 before its repeal.
- 
 Repealed Stamp Act is revenue law for particular provisions
 *** 157 Repealed Stamp Act is revenue law for particular provisions ***
      (1) Despite its repeal, the repealed Stamp Act is taken to be a
@@ -3235,7 +3378,6 @@ Repealed Stamp Act is revenue law for particular provisions
      Stamp Act contains a provision about the same matter, the provision
      in the repealed Stamp Act does not apply to the matter.
      (5) This section has effect subject to sections 159 and 160.
- 
 Confidential information
 *** 158 Confidential information ***
 To remove any doubt, it is declared that part 8 applies toâ
@@ -3244,14 +3386,12 @@ To remove any doubt, it is declared that part 8 applies toâ
      of the repealed Stamp Act; and
      (b) confidential information acquired or received by another person
      before the commencement day.
- 
 Application of s 48 to particular administrators
 *** 159 Application of s 48 to particular administrators ***
 Section 48 applies to an administrator appointed before the commencement day as
 if the required date under the section were the later of the followingâ
      (a) 14 days after the commencement day; or
      (b) the required date under the section.
- 
 Second or subsequent offences
 *** 160 Second or subsequent offences ***
      (1) For applying section 138 to the repealed Stamp Act, the reference
@@ -3262,13 +3402,11 @@ Second or subsequent offences
      section to a further offence against the provision includes a
      reference to an offence against a provision of a tax law that
      corresponds to the provision of the repealed Stamp Act.
- 
 Office of commissioner
 *** 161 Office of commissioner ***
 The person who, immediately before the commencement day, held the office of
 commissioner of stamp duties under the repealed Stamp Act, becomes the
 commissioner on that day.
- 
 Reference in Act or document to particular officers
 *** 162 Reference in Act or document to particular officers ***
 In an Act or documentâ
@@ -3278,13 +3416,8 @@ In an Act or documentâ
      (b) a reference to an investigating officer under the repealed Stamp
      Act is, if the context permits, taken to be a reference to an
      investigator.
- 
-Section 163
-*** 163 ***
- 
-Section 164
-*** 164 ***
- 
+Section 163 *** 163 ***
+Section 164 *** 164 ***
 Transfer of appeals from Supreme Court only with consent
 *** 165 Transfer of appeals from Supreme Court only with consent ***
      (1) Despite the QCAT Act, section 268(4) the court may not transfer a
@@ -3293,13 +3426,10 @@ Transfer of appeals from Supreme Court only with consent
      (2) The QCAT Act, section 268(7) does not apply to a final decision
      of the court in a proceeding relating to an appeal against a decision
      of the commissioner on an objection.
- 
 Definition for div 4
 *** 166 Definition for div 4 ***
 In this divisionâ
-
 "repealed Land Tax Act" means the repealed Land Tax Act 1915.
- 
 Repealed Land Tax Act is revenue law
 *** 167 Repealed Land Tax Act is revenue law ***
      (1) Despite its repeal, the repealed Land Tax Act is taken to be a
@@ -3309,9 +3439,7 @@ Repealed Land Tax Act is revenue law
      (2) Despite their repeal, sections 72 to 75 of the repealed Land Tax
      Act continue to apply in relation to how this Act applies to the
      repealed Land Tax Act.
-     (3) Subsection (2) does not limit the Acts Interpretation Act 1954,
-     section 20A.
- 
+     (3) Subsection (2) does not limit the Acts Interpretation Act 1954, Section 20A.
 Existing exempt institutions taken to be registered
 *** 168 Existing exempt institutions taken to be registered ***
      (1) This section applies to an institution thatâ
@@ -3330,7 +3458,6 @@ Existing exempt institutions taken to be registered
      2010.
      (4) The commissioner is not required to give a notice of registration
      to the institution under section 149G.
- 
 Continuation of Tobacco Products Act, s 43
 *** 169 Continuation of Tobacco Products Act, s 43 ***
      (1) Despite its repeal, section 43 of the Tobacco Products Act
@@ -3344,16 +3471,12 @@ Continuation of Tobacco Products Act, s 43
      continued under this section, have the same meanings as they had
      under that Act before it was repealed.
      (4) In this sectionâ
-
      "Tobacco Products Act" means the repealed Tobacco Products
      (Licensing) Act 1988.
- 
 Definitions for div 6
 *** 170 Definitions for div 6 ***
 In this divisionâ
-
 "repealed Act" means the repealed Community Ambulance Cover Act 2003.
- 
 Repealed Act continues as revenue law
 *** 171 Repealed Act continues as revenue law ***
      (1) Despite its repeal, the repealed Act is taken to continue to be a
@@ -3364,14 +3487,11 @@ Repealed Act continues as revenue law
                2, subdivision 2.
      (2) Despite its repeal, section 141 of the repealed Act continues to
      apply in relation to how this Act applies to the repealed Act.
-     (3) Subsection (2) does not limit the Acts Interpretation Act 1954,
-     section 20A.
- 
+     (3) Subsection (2) does not limit the Acts Interpretation Act 1954, Section 20A.
 Community Ambulance Cover Levy Repeal Act is revenue law
 *** 172 Community Ambulance Cover Levy Repeal Act is revenue law ***
 The Community Ambulance Cover Levy Repeal Act 2011 is taken to be a revenue law
 under section 6.
- 
 Delegations
 *** 173 Delegations ***
      (1) This section applies if, immediately before 1 July 2011, a
@@ -3385,7 +3505,6 @@ Delegations
      and a subdelegation of the power was in force immediately before 1
      July 2011, the subdelegation also continues under subsection (2)
      until it is ended under this Act.
- 
 Confidential information
 *** 174 Confidential information ***
 To remove any doubt, it is declared that part 8 applies toâ
@@ -3394,24 +3513,20 @@ To remove any doubt, it is declared that part 8 applies toâ
      of the repealed Act; and
      (b) confidential information acquired or received by another person
      under the repealed Act.
- 
 Application of s 22 for existing reassessments
 *** 175 Application of s 22 for existing reassessments ***
 Section 22(2)(b) applies in relation to an investigation into a taxpayerâs
 liability for tax under a recognised law started before the commencement of
 this section as if the investigation had started after the commencement.
- 
 Application of s 7
 *** 176 Application of s 7 ***
 Section 7, as in force on the day this section commences, is taken to have had
 effect on and from 19 February 2014.
- 
 Application of s 61A
 *** 177 Application of s 61A ***
 Section 61A applies in relation to a reassessment giving effect to a decision
 by the commissioner under section 67(1) if the decision is made on or after the
 commencement.
- 
 Application of s 149C to currently registered entities
 *** 178 Application of s 149C to currently registered entities ***
      (1) This section applies to an institution that, immediately before
@@ -3420,25 +3535,19 @@ Application of s 149C to currently registered entities
      unamended section continues to apply in relation to the institution
      until the day that is 2 years after the commencement.
      (3) In this sectionâ
-
      "unamended section" means section 149C as in force immediately before
      the commencement.
- 
 Definitions for division
 *** 179 Definitions for division ***
 In this divisionâ
-
 "former", for a provision of this Act, the Mineral Resources Act 1989 or the
 Petroleum and Gas (Production and Safety) Act 2004, means the provision as in
 force from time to time before the commencement.
-
 "post-commencement liability" means a liability for tax other than a pre-
 commencement liability.
-
 "pre-commencement liability" means a liability for a royalty-related amount
 under the Mineral Resources Act 1989 or the Petroleum and Gas (Production and
 Safety) Act 2004 arising before the commencement.
- 
 Application of ss 13A and 19
 *** 180 Application of ss 13A and 19 ***
      (1) Sections 13A and 19 apply to the commissioner in relation to an
@@ -3447,7 +3556,6 @@ Application of ss 13A and 19
      (2) Subsection (1) applies despite the Mineral Resources Act 1989,
      section 887(2)(a) and the Petroleum and Gas (Production and Safety)
      Act 2004, section 1020(2)(a).
- 
 Assessment for mineral royalty for financial year ending 30 June 2021
 *** 181 Assessment for mineral royalty for financial year ending 30 June 2021
 ***
@@ -3455,8 +3563,7 @@ Assessment for mineral royalty for financial year ending 30 June 2021
      royalty-related amount under the Mineral Resources Act 1989 for the
      financial year ending 30 June 2021.
      (2) Subsection (1) applies despite the Mineral Resources Act 1989,
-     section 887(2)(a).
- 
+Section 887(2)(a).
 Application of s 61 (Interest on particular overpayments following courtâs or
 QCATâs decision)
 *** 182 Application of s 61 (Interest on particular overpayments following
@@ -3470,7 +3577,6 @@ courtâs or QCATâs decision) ***
      (3) A reference in section 61(1)(c) to a decision of QCAT includes a
      decision, made after the commencement, relating to a pre-commencement
      liability.
- 
 Application of s 61A (Interest on particular overpayments following
 commissionerâs decision)
 *** 183 Application of s 61A (Interest on particular overpayments following
@@ -3478,7 +3584,6 @@ commissionerâs decision) ***
 A reference in section 61A(1) to a decision of the commissioner under section
 67(1) includes a decision, made after the commencement, relating to a pre-
 commencement liability.
- 
 Application of pt 6 (Objections, reviews and appeals)
 *** 184 Application of pt 6 (Objections, reviews and appeals) ***
      (1) Part 6 applies in relation to an assessment, reassessment,
@@ -3492,7 +3597,6 @@ Application of pt 6 (Objections, reviews and appeals)
           (b) was made under this Act or the Mineral Resources Act
           1989 or the Petroleum and Gas (Production and Safety) Act
           2004.
- 
 Application of pt 8 (Confidentiality and collection of information)
 *** 185 Application of pt 8 (Confidentiality and collection of information) ***
 Part 8 applies toâ
@@ -3503,7 +3607,6 @@ Part 8 applies toâ
      Act 2004; and
      (b) confidential information acquired or received by another person
      before the commencement.
- 
 References to royalty valuation decision
 *** 186 References to royalty valuation decision ***
 A reference in this Act to a royalty valuation decision includesâ
@@ -3511,10 +3614,7 @@ A reference in this Act to a royalty valuation decision includesâ
      (Production and Safety) Act 2004 about 1 or more components of the
      wellhead value of petroleum; and
      (b) a decision amending a decision mentioned in paragraph (a).
- 
-Section 187
-*** 187 ***
- 
+Section 187 *** 187 ***
 Existing proceedings
 *** 187 Existing proceedings ***
      (1) This section applies if, immediately before the commencement, a
@@ -3523,7 +3623,6 @@ Existing proceedings
      under a tax law has been started but not completed.
      (2) The proceeding may be continued and decided as if the Revenue
      Legislation Amendment Act 2023, part 6, had not been enacted.
- 
 Proceedings not yet started
 *** 188 Proceedings not yet started ***
      (1) This section applies ifâ
@@ -3535,13 +3634,11 @@ Proceedings not yet started
           proceeding.
      (2) Section 36(2) extinguishes the cause of action, right or remedy
      and the proceeding may not be started.
-     (3) This section applies despite the Acts Interpretation Act 1954,
-     section 20.
- 
+     (3) This section applies despite the Acts Interpretation Act 1954, Section 20.
 Assessments related to Duties Act 2001, s 688 and Land Tax Act 2010, ss 104 and
 105
 *** 189 Assessments related to Duties Act 2001, s 688 and Land Tax Act 2010, ss
-104 and 105 ***
+Section 104 and 105 ***
      (1) This section applies ifâ
           (a) any of the following appliesâ
                (i) the Duties Act 2001, section 688;
@@ -3585,10 +3682,8 @@ Assessments related to Duties Act 2001, s 688 and Land Tax Act 2010, ss 104 and
           (c) any other amount paid or payable by a taxpayer to the
           commissioner in relation to a liability mentioned in
           paragraph (a).
- 
 - SCHEDULE 2
 *** SCHEDULE 2 - Dictionary ***
-
 "administrator", for a taxpayerâs property, means a person who isâ
      (a) a receiver or receiver and manager of the whole or part of the
      taxpayerâs property; or
@@ -3596,16 +3691,13 @@ Assessments related to Duties Act 2001, s 688 and Land Tax Act 2010, ss 104 and
      (c) for a taxpayer who is an individualâ
           (i) the taxpayerâs trustee in bankruptcy; or
           (ii) the taxpayerâs personal representative.
-
 "amended royalty valuation decision" means a royalty valuation decision as
 amended under the Mineral Resources Act 1989.
-
 "appropriately qualified", for a public service employee to whom a power under
 a tax law may be delegated, includes having the qualifications, experience or
 standing appropriate to exercise the power.
      Example of standingâ
           an employeeâs classification level in the public service
-
 "approved form" meansâ
      (a) for a request under part 4, division 5 âthe form approved by
      the registrar for the request; or
@@ -3613,143 +3705,96 @@ standing appropriate to exercise the power.
           (i) a form approved under section 153; or
           (ii) a form approved by the commissioner under a revenue
           law.
-
 "approved information system" means an information system approved by the
 commissioner under section 153A.
-
 "assessed interest" see section 54 (3).
-
 "assessment" means a determination, under part 3, of a taxpayerâs liability
 for tax for which an assessment notice is given, and includes a reassessment.
-
 "assessment liability" means all amounts payable under an assessment, and
 includes amounts that have not been assessed but are payable in relation to the
 assessment.
-
 "assessment notice" see section 26 (1).
-
 "authority holder", for a royalty operation, for part 11B, see section 149J.
-
 "commissioner" means the Commissioner of State Revenue appointed under section
-7 (2).
-
+Section 7 (2).
 "commissioner of taxation", for part 8, division 2, see section 113A.
-
 "compromise assessment" see section 12 (2).
-
 "confidential information" means information disclosed to, obtained by, or
 otherwise held by, an official under or in relation to a tax law.
-
 "conviction" includes a finding of guilt, and the acceptance of a plea of
 guilty, by a court, whether or not a conviction is recorded.
-
 "corresponding commissioner", for a recognised law, means a person declared
 under section 78 (3) to be the corresponding commissioner for the recognised
 law.
-
 "default assessment" see section 13.
-
 "document" includes an ELN transaction document.
-
 "due date", for an assessment, means the date by which tax under the assessment
 must be paid.
-
 "due date", for a standard self assessment, means the date by which tax under
 the self assessment must be paid under section 30 (1) (b).
-
 "electronic communication" meansâ
      (a) a communication of information in the form of data, text or
      images by guided or unguided electromagnetic energy; or
      (b) a communication of information in the form of sound by guided or
      unguided electromagnetic energy, if the sound is processed at its
      destination by an automated voice recognition system.
-
 "electronic communication notice" see section 143A (1).
-
 "electronic payment notice" see section 29A (1).
-
 "ELN transaction document" see the Duties Act 2001, section 156D.
-
 "executive officer", of a corporation, means a person who is concerned in, or
 takes part in, the management of the corporation, regardless of the personâs
 designation and whether or not the person is a director of the corporation.
-
 "false or misleading" includes false or misleading because of the omission of a
 statement.
-
 "garnishee" see section 50 (1) (b).
-
 "garnishee amount" see section 50 (3).
-
 "garnishee notice" see section 50 (3).
-
 "information requirement" means a requirement under a tax law to give
 information to the commissioner or an investigator.
-
 "information system" means a system for generating, sending, receiving, storing
 or otherwise processing electronic communications.
-
 "investigator" means a person appointed as an investigator under section 80.
-
 "late payment interest" means the part of unpaid tax interest that is not
 assessed interest.
-
 "limitation period", for a reassessment, means 5 years after the assessment
 notice for the original assessment was given.
-
 "lodge" means lodge with the commissioner.
-
 "lodgement requirement" means a requirement under a tax law toâ
      (a) lodge a document; or
      (b) give a document to the commissioner or an investigator.
-
 "management member", of an unincorporated body, meansâ
      (a) if the body has a management committeeâeach member of the
      management committee; or
      (b) otherwiseâeach member who is concerned with, or takes part in,
      the bodyâs management, whatever name is given to the memberâs
      position in the body.
-
 "mineral" see the Mineral Resources Act 1989, section 6.
-
 "non-reviewable decision" see section 75 (1).
-
 "objection" means an objection under part 6.
-
 "obstruct" includes hinder, resist and attempt to obstruct.
-
 "occupier", of a place, includes the person apparently in charge of the place.
-
 "official" means a person who is, or has been, a public service employee or
 other person, performing functions under or in relation to the administration
 or enforcement of a tax law.
-
 "original assessment" â
      (a) generally, means the first assessment of a taxpayerâs liability
      for tax for an instrument, transaction or other matter; and
      (b) in relation to a taxpayerâs liability for tax for a matter in
      relation to a particular period, means the first assessment of the
      taxpayerâs liability for tax for that period.
-
 "owner", of a retained thing, includes a person who would be entitled to
 possession of the thing had it not been retained under section 97 (2).
-
 "payment arrangement" see section 34 (1).
-
 "penalty tax" see section 58 (1).
-
 "personal confidential information", for a person, means confidential
 information thatâ
      (a) identifies, or is likely to identify, the person; or
      (b) discloses matters about the personâs affairs.
-
 "petroleum" see the Petroleum and Gas (Production and Safety) Act 2004, section
 10.
-
 "place" includes the followingâ
      (a) land;
      (b) premises.
-
 "premises" includes the followingâ
      (a) a building or structure, or part of a building or structure, of
      any kind;
@@ -3757,117 +3802,80 @@ information thatâ
      (c) a boat;
      (d) a caravan;
      (e) a vehicle.
-
 "prescribed rate", for interest, means the rate prescribed under a regulation.
-
 "primary tax" means a tax, royalty, levy or duty imposed under a revenue law.
-
 "public place" means a place the public is entitled to use or is open to, or
 used by, the public (whether or not on payment of an admission fee).
-
 "reasonably believes" means believes on grounds that are reasonable in the
 circumstances.
-
 "reassessment" means a determination, under part 3, of a variation of a
 taxpayerâs liability for tax for which an assessment notice is given.
-
 "reciprocal investigation" means an investigation into a matter connected with
 the administration or enforcement of a recognised law that is conducted under a
 reciprocal investigation arrangement.
-
 "reciprocal investigation arrangement" means an arrangement made under section
-107 for an investigation into a matter connected with the administration or
+Section 107 for an investigation into a matter connected with the administration or
 enforcement of a recognised law.
-
 "reciprocal investigator" means the corresponding commissioner or other person
 engaged in the administration or enforcement of a recognised law.
-
 "recognised law" means a law declared under section 78 (1) to be a recognised
 law.
-
 "registrar", for part 4, division 5, subdivision 1A, see section 47A.
-
 "repealed Land Tax Act", for part 15, see section 166.
-
 "reportable information", for part 8, division 2, see section 113A.
-
 "resources law" means an Act, that includes a royalty law, to the extent the
 Act is not a royalty law.
-
 "retained thing" see section 97 (3).
-
 "return" means a form of return approved under a revenue law for a lodgement
 requirement.
-
 "return self assessment" see section 14 (a).
-
 "revenue law" means a law declared under section 6 to be a revenue law.
-
 "royalty" meansâ
      (a) royalty under the Mineral Resources Act 1989; or
      (b) petroleum royalty under the Petroleum and Gas (Production and
      Safety) Act 2004.
-
 "royalty civil penalty" meansâ
      (a) a civil penalty imposed by a regulation under the Mineral
      Resources Act 1989, section 321A; or
      (b) a civil penalty imposed by a regulation under the Petroleum and
      Gas (Production and Safety) Act 2004, section 594.
-
 "royalty fee" means a fee payable under a royalty law if a return is not lodged
 by the day required under the royalty law.
-
 "royalty law" meansâ
      (a) a provision of the Mineral Resources Act 1989 that is a revenue
      law under this Act; or
      (b) a provision of the Petroleum and Gas (Production and Safety) Act
      2004 that is a revenue law under this Act.
-
 "royalty operation", for part 11B, see section 149J.
-
 "royalty valuation decision" â
      (a) means a decision under the Mineral Resources Act 1989 about the
      gross value of a mineral; and
      (b) includes an amended royalty valuation decision.
-
 "self assessment" means a return self assessment or standard self assessment.
-
 "self assessor" means a taxpayer or tax agent required or permitted under a
 revenue law to lodge a return or transaction statement.
-
 "senior executive"...
-
 "standard self assessment" see section 14A (a).
-
 "tax" means primary tax, assessed interest, penalty tax, royalty civil penalty
 or royalty fee.
-
 "tax agent" means a person who, as agent for a taxpayer, is required or
 permitted under a revenue law to lodge a return or transaction statement.
      Example of tax agentâ
           a self assessor registered under the Duties Act 2001,
           chapter 12, part 3
-
 "tax law" means a revenue law or this Act.
-
 "tax law liability" means a liability under a tax law for tax or another
 amount, and for sections 34, 38, 40, 43 and 44, includes a liability to pay
 costs ordered by a court or QCAT.
      Noteâ
           For provision about assessed costs, see the Uniform Civil
           Procedure Rules 1999, chapter 17A.
-
 "taxpayer" means a person who, under a tax lawâ
      (a) has or had a tax law liability; or
      (b) may have a tax law liability.
-
 "thing" includes a document.
-
 "transaction statement" means a form of transaction statement approved under a
 revenue law for a lodgement requirement.
-
 "tribunal" means QCAT.
-
 "unpaid primary tax" see section 54 (1).
-
 "unpaid tax interest" see section 54 (1).

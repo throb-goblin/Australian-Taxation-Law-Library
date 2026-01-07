@@ -1,0 +1,483 @@
+{
+  "doc": {
+    "jurisdiction": "northern_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nt/consol_act/fhoga2000250/",
+    "register_url": "https://legislation.nt.gov.au/Legislation/FIRST-HOME-OWNER-GRANT-ACT-2000",
+    "source": "First Home Owner Grant Act 2000 (100000058).txt",
+    "filename": "First Home Owner Grant Act 2000 (100000058).json",
+    "name": "First Home Owner Grant Act 2000",
+    "citation": "First Home Owner Grant Act 2000"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 1",
+      "text": "This Act may be cited as the First Home Owner Grant Act 2000."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 2",
+      "text": "This Act comes into operation on 1 July 2000."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Definitions",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 3",
+      "text": "In this Act:\n         Agency employee means an employee within the meaning of the  Public\n         Sector  Employment  and   Management   ActÂ 1993   of   the   Agency\n         administering this Act and includes  the  Chief  Executive  Officer\n         within the meaning of that Act of that Agency.\n         Australian citizen, see section 4  of  the  Australian  Citizenship\n         ActÂ 2007 (Cth).\n         building includes part of a building.\n         commencement date, in relation to an eligible transaction, has  the\n         meaning in section 13(5).\n         Commissioner means the  Commissioner  of  Territory  Revenue  or  a\n         person acting in that position.\n         completion, in relation to an eligible transaction, has the meaning\n         in section 13(6).\n         comprehensive home building contract means a contract under which a\n         builder undertakes to build a home on land from  the  inception  of\n         the building work  to  the  point  where  the  home  is  ready  for\n         occupation and if, for any reason, the work to be carried out under\n         such a contract is not completed,  includes  any  further  contract\n         under which the work is to be completed.\n         consideration, in relation to  an  eligible  transaction,  has  the\n         meaning in section 13(8) to (9).\n         corresponding law means an Act of a State or another  Territory  of\n         the Commonwealth corresponding to this Act.\n         eligibility criteria means the criteria prescribed in Division 2 of\n         PartÂ 2 for determining whether an applicant for a first home  owner\n         grant is eligible for the grant.\n         eligible transaction has the meaning in section 13(1).\n         first home owner grant means a grant authorised under sectionÂ 17.\n         first home owner grant scheme means the scheme for payment of first\n         home owner grants established under this Act.\n         GST, see section 195-1 of A New Tax System (Goods and Services Tax)\n         Act 1999 (Cth).\n         guardian, in  relation  to  a  person  under  a  legal  disability,\n         includes a trustee who holds property on trust for the person under\n         an instrument of trust or by order of a court or tribunal.\n         home has the meaning in section 4.\n         new home has the meaning in section 4A.\n         option to purchase includes a right of pre-emption or  a  right  of\n         first refusal.\n         owner means:\n         (a)      in relation to land, a person who has a relevant  interest\n             in the land; and\n         (b)      in relation to  a  home,  a  person  who  has  a  relevant\n             interest in the land on which the home is built.\n         owner builder means an owner of land who builds a home,  or  has  a\n         home built, on the land without entering into a comprehensive  home\n         building contract.\n         permanent resident means:\n         (a)      the holder of a  permanent  visa  within  the  meaning  of\n             sectionÂ 30 of the Migration Act 1958 of the Commonwealth; or\n         (b)      a New Zealand citizen who holds a  special  category  visa\n             within the meaning of section 32 of the Migration Act 1958  of\n             the Commonwealth.\n         relevant interest has the meaning in section 5(2), (3) and (4).\n         residence requirements means the requirements under sectionÂ 12.\n         residential property means land in Australia on which  there  is  a\n         building lawfully occupied as a place of residence or suitable  for\n         occupation as a place of residence.\n         statutory  interest  rate,  see  section   35   of   the   Taxation\n         Administration ActÂ 2007.\n         threshold amount, for an eligible transaction, means:\n         (a)      if the commencement date for  the  transaction  is  before\n             4Â DecemberÂ 2012 â $750Â 000; or\n         (b)      if the commencement date for  the  transaction  is  on  or\n             after 4Â DecemberÂ 2012 â $600Â 000."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Homes",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Homes",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 4",
+      "text": "A home is a building (affixed to land) that:\n         (a)      may lawfully be used as a place of residence; and\n         (b)      is, in the Commissioner's opinion, a suitable building for\n             use as a place of residence."
+    },
+    {
+      "key": "section:4A",
+      "title": "Section 4A - New homes",
+      "main_structural_unit": "section",
+      "main_structural_number": "4A",
+      "main_structural_heading": "New homes",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 4A",
+      "text": "(1)   A home is a new home if:\n         (a)      the home has not been previously occupied  or  sold  as  a\n             place of residence; or\n         (b)      all of the following apply:\n             (i) the home is the subject of a contract for the purchase  of\n                  the home;\n             (ii)      the sale of the home is, under the A New Tax  System\n                  (GoodsÂ and Services Tax) ActÂ 1999 (Cth), a taxable  supply\n                  as a sale  of  new  residential  premises  as  defined  in\n                  sectionÂ 40-75(1)(b) of that Act;\n             (iii)     the  home  has  not,  since  being  renovated,  been\n                  occupied or sold as a place of residence; or\n         (c)      the Commissioner declares the home to be a new home  under\n             subsection (2).\n         Note for subsection (1)(b)(ii)\n         Section 40-75(1)(b) of the A New  Tax  System  (GoodsÂ and  Services\n         Tax) ActÂ 1999 (Cth), relates to residential premises that have been\n         created through substantial renovations of a building.\n      (2)   The Commissioner may declare a home that is  the  subject  of  a\n         transaction and would not otherwise be a new home, to be a new home\n         in relation to that transaction if satisfied that:\n         (a)      it would be a new home  but  for  the  fact  that  it  has\n             previously been sold as a place of residence; and\n         (b)      doing so  would  not  have  the  effect  of  circumventing\n             limitations on, or requirements affecting, eligibility for  or\n             entitlement to a first home owner grant imposed  by  or  under\n             this Act.\n      (3)   In this section:\n         place of residence includes  a  building  occupied  as  residential\n         accommodation (regardless of the duration of the occupation).\n         Examples for subsection (3)\n         A building occupied as residential accommodation  might  include  a\n         hotel, serviced apartments or workers accommodation."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Ownership of land and homes",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Ownership of land and homes",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 5",
+      "text": "(1)   A person is an owner of a home or a home  owner  if  the  person\n         has a relevant interest in land on which a home is built.\n      (2)   Each of the following is, subject to subsection (3), a  relevant\n         interest in land:\n         (a)      an estate in fee simple in the land;\n         (b)      a life estate in the land approved by the Commissioner;\n         (c)      a perpetual lease of the land granted by the  Commonwealth\n             or the Territory;\n         (d)       a  leasehold  interest  in  the  land  granted   by   the\n             Commonwealth or the Territory that may be converted under  the\n             terms of the lease or by statute into an estate in fee simple;\n         (e)      an interest as purchaser under a contract for the purchase\n             of an estate in fee simple in the land by instalments;\n         (f)       a  licence  or  right  of  occupancy   granted   by   the\n             Commonwealth   or   the   Territory   that   gives,   in   the\n             Commissioner's opinion, the licensee  or  the  holder  of  the\n             right reasonable security of tenure;\n         (g)      an interest as lessee or sublessee of  the  land  under  a\n             long-term registered lease granted by the Commonwealth or  the\n             Territory where the term of the lease is 15 years or more;\n         (h)      an interest as lessee or sublessee of  the  land  under  a\n             registered lease or sublease granted under section 19  or  19A\n             of the Aboriginal Land Rights (Northern  Territory)  Act  1976\n             (Cth) if the term of the lease is 15 years or more.\n      (3)   Subject to subsection (4):\n         (a)      an interest is not a relevant  interest  at  a  particular\n             time unless the holder of  the  interest  has,  or  will  have\n             within 12 months after that time (or a longer  period  allowed\n             by the Commissioner), a right to immediate occupation  of  the\n             land; and\n         (b)      an interest is not a relevant interest in the hands  of  a\n             person who holds it subject to a trust; and\n         (c)      an equitable interest is not a relevant interest unless it\n             is the interest of a person under a legal disability for  whom\n             a guardian holds the interest in trust; and\n         (d)      an interest is not a relevant interest if  the  holder  of\n             the interest is the lessor  or  sublessor  under  a  lease  or\n             sublease mentioned in section 5(2).\n      (4)   The Regulations may provide for recognition of  an  interest  (a\n         non-conforming interest) as a relevant interest:\n         (a)      even though the interest may not conform  with  the  above\n             provisions; and\n         (b)      even though the interest may not be recognised at  law  or\n             in equity as an interest in land.\n      (5)   If a first home owner grant is to be paid in consequence of  the\n         recognition of a non-conforming interest as  a  relevant  interest,\n         the Commissioner may impose appropriate conditions on  the  payment\n         of the grant to ensure its recovery if criteria prescribed  in  the\n         Regulations about future conduct or events are not satisfied."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Spouses",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Spouses",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 6",
+      "text": "(1)   If the Commissioner is satisfied that, at the time  of  deciding\n         an application for a first home owner grant, an applicant:\n         (a)      is married but not cohabiting with the person to whom  the\n             applicant is married; and\n         (b)      has no intention of resuming cohabitation,\n         the person to whom the applicant is married is not to  be  regarded\n         as the applicant's spouse.\n      (2)   In this Act, a reference to an applicant's spouse  or  de  facto\n         partner, in relation to an  application,  is  a  reference  to  the\n         applicant's spouse or de facto partner at the commencement date  of\n         the eligible transaction to which the application relates.\nPart 2      First home owner grant\nDivision 1  Entitlement to grant"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Entitlement to grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Entitlement to grant",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 1 Entitlement to grant > Section 7",
+      "text": "(1)   A first home owner grant is  payable  on  an  application  under\n         this Act if:\n         (a)      the applicant or, if there are 2 or more of them, each  of\n             the applicants complies with the eligibility criteria; and\n         (b)      the transaction for which the grant is sought:\n             (i) is an eligible transaction; and\n             (ii)      has been completed.\n      (2)   Despite subsection (1)(a), an applicant  need  not  comply  with\n         the eligibility criteria to the extent the  applicant  is  exempted\n         from compliance by or under this Act.\n      (3)   Only one  first  home  owner  grant  is  payable  for  the  same\n         eligible transaction.\nDivision 2  Eligibility criteria (applicants)"
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Criterion 1 â Applicant to be a natural person and at least 18Â years",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Criterion 1 â Applicant to be a natural person and at least 18Â years",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 2 Eligibility criteria (applicants) > Section 8",
+      "text": "of age\n      (1)   An applicant for a first home owner grant must be:\n         (a)      a natural person; and\n         (b)      at least 18 years of age at the commencement date  of  the\n             eligible transaction.\n      (2)   The Commissioner may exempt an applicant  from  the  requirement\n         in subsection (1)(b) if the Commissioner is satisfied:\n         (a)      the applicant will comply with the residence requirements;\n             and\n         (b)      the application does not have the effect of  circumventing\n             limitations on, or requirements affecting, eligibility for  or\n             entitlement to a first home owner grant imposed  by  or  under\n             this Act.\n      (3)   If an application is made by joint applicants  and  one  of  the\n         applicants complies with subsection (1)(b), it is not necessary for\n         the other or others to comply with that paragraph."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Criterion 2 â Applicant to be Australian citizen or permanent",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Criterion 2 â Applicant to be Australian citizen or permanent",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 2 Eligibility criteria (applicants) > Section 9",
+      "text": "resident\n      (1)   Subject to subsection (2), an applicant for a first  home  owner\n         grant must be an Australian citizen or a permanent resident at  the\n         time of making the application.\n      (2)   If an application is made by joint applicants  and  one  of  the\n         applicants is an Australian citizen or a permanent resident at  the\n         time of making the application, it is not necessary for  the  other\n         or others to be Australian citizens or permanent residents."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Criterion 3 â Applicant (or applicant's spouse or de facto partner)",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Criterion 3 â Applicant (or applicant's spouse or de facto partner)",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 2 Eligibility criteria (applicants) > Section 10",
+      "text": "must not have received an earlier grant or discount\n      (1)   Subject to subsection (2), an  applicant  is  ineligible  for  a\n         first home owner grant if:\n         (a)      the applicant  or  the  applicant's  spouse  or  de  facto\n             partner has been a party to an earlier application under  this\n             Act or a corresponding law; and\n         (b)      a grant was paid on the application.\n      (2)   However, an applicant is not  ineligible  under  subsection  (1)\n         if:\n         (a)      the grant was later paid back; and\n         (b)      any amount payable as a penalty or as  interest  was  also\n             paid in relation to the earlier application.\n      (3)   An applicant is ineligible for a first home owner grant  if  the\n         applicant or the applicant's spouse or de facto partner:\n         (a)      could have successfully applied for  a  first  home  owner\n             grant under this Act or a corresponding law in respect  of  an\n             earlier transaction to which he or she was a party but did not\n             do so; or\n         (b)      could, assuming that he or she had then been an Australian\n             citizen or a permanent resident, have successfully applied for\n             a first home owner grant under this Act or a corresponding law\n             in respect of an earlier transaction to which he or she was  a\n             party.\n      (4)   An applicant is ineligible for a first home owner grant if:\n         (a)      the applicant, or  the  applicant's  spouse  or  de  facto\n             partner, received the first home owner discount under  section\n             89AA of the Stamp Duty Act 1978  in  relation  to  an  earlier\n             conveyance; and\n         (b)      the duty that would have been payable under that  Act  but\n             for that discount has not been paid."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Criterion 4 â Applicant (or applicant's spouse or de facto partner)",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Criterion 4 â Applicant (or applicant's spouse or de facto partner)",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 2 Eligibility criteria (applicants) > Section 11",
+      "text": "must not have had relevant interest in residential property\n      (1)   An applicant is ineligible for a first home owner grant  if  the\n         applicant or the applicant's spouse or de facto partner held before\n         1Â JulyÂ 2000:\n         (a)       a  relevant  interest  in  residential  property  in  the\n             Territory; or\n         (b)      an interest in residential property in a State or  another\n             Territory of the Commonwealth  that  is  a  relevant  interest\n             under the corresponding law of that State or Territory.\n      (2)   In working out for the purposes of  subsection  (1)  whether  an\n         applicant held a relevant interest (within the meaning of this  Act\n         or a corresponding law) in residential  property  at  a  particular\n         time, any deferment of the applicant's right of occupation  because\n         the property was subject to a lease is to be disregarded.\n      (3)   An applicant is ineligible for a first home owner grant  if  the\n         applicant or the applicant's spouse or de facto partner has, on  or\n         after 1Â JulyÂ 2000 and before the commencement date of the  eligible\n         transaction to which the application relates, held an  interest  in\n         property used at any time on or after 1Â JulyÂ 2000 as the  residence\n         of the applicant or the applicant's spouse  or  de  facto  partner,\n         being:\n         (a)       a  relevant  interest  in  residential  property  in  the\n             Territory; or\n         (b)      an interest in residential property in a State or  another\n             Territory of the Commonwealth  that  is  a  relevant  interest\n             under the corresponding law of that State or Territory.\n      (4)   However, for subsection (3), the applicant  or  the  applicant's\n         spouse or de facto partner is taken not to have used  the  property\n         as the residence of the applicant or the applicant's spouse  or  de\n         facto partner if:\n         (a)      the property was the subject  of  an  earlier  application\n             under this Act or a corresponding law by the applicant or  the\n             applicant's spouse or de facto partner; and\n         (b)      a first home  owner  grant  was  paid  under  the  earlier\n             application; and\n         (c)      the applicant  or  the  applicant's  spouse  or  de  facto\n             partner repaid the grant.\n      (5)   Also, for subsection  (3),  the  applicant  or  the  applicant's\n         spouse or de facto partner is taken not to have used  the  property\n         as the residence of the applicant or the applicant's spouse  or  de\n         facto partner if:\n         (a)      the property was the subject  of  an  earlier  application\n             under this Act or a corresponding law by the applicant or  the\n             applicant's spouse or de facto partner; and\n         (b)      a first home owner grant was not paid  under  the  earlier\n             application  because  the  Commissioner  did  not  exempt  the\n             applicant or the applicant's spouse or de facto  partner  from\n             the requirement in section 8(1)(b)."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Criterion 5 â Residence requirements",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Criterion 5 â Residence requirements",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 2 Eligibility criteria (applicants) > Section 12",
+      "text": "(1)   An applicant for a first home owner grant must occupy  the  home\n         to which the application relates as the applicant's principal place\n         of residence unless the applicant is exempt under subsection (3)(b)\n         orÂ (4).\n      (2)   That occupation of the home must:\n         (a)      start within 12Â months after completion  of  the  eligible\n             transaction,   or   a    longer    period    approved    under\n             subsectionÂ (3)(a)(i); and\n         (b)      continue for a continuous period of:\n             (i) if the commencement date of the eligible transaction is on\n                  or after 1Â October 2024 but before 1  October  2026  â  at\n                  least 12  months,  or  a  shorter  period  approved  under\n                  subsection (3)(a)(ii); or\n             (ii)      if the commencement date of the eligible transaction\n                  is before 1 October 2024 or on or after 1 October  2026  â\n                  at least 6 months, or  a  shorter  period  approved  under\n                  subsectionÂ (3)(a)(ii).\n       (3)    If  satisfied  there  are  special  reasons  to  do  so,   the\n         Commissioner may:\n         (a)      approve either or both of the following for an applicant:\n             (i) a longer period for subsection (2)(a);\n             (ii)      a shorter period for subsection (2)(b); or\n         (b)       exempt  an   applicant   from   the   requirement   under\n             subsectionÂ (1).\n      (4)   An applicant is exempt from  the  requirement  under  subsection\n         (1) if:\n         (a)      the commencement date for the  transaction  to  which  the\n             application relates is on or after 28Â AprilÂ 2015; and\n         (b)      at least one other applicant to the  application  complies\n             with the requirement under subsection (1)."
+    },
+    {
+      "key": "section:12A",
+      "title": "Section 12A - Ineligibility â threshold amount exceeded",
+      "main_structural_unit": "section",
+      "main_structural_number": "12A",
+      "main_structural_heading": "Ineligibility â threshold amount exceeded",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 2 Eligibility criteria (applicants) > Section 12A",
+      "text": "(1)   Despite sections 10(2) and 11(4),  an  applicant  is  ineligible\n         for a first home owner grant if:\n         (a)      the applicant or applicant's spouse or  de  facto  partner\n             was paid a grant on an earlier application under this Act or a\n             corresponding law for a home used  as  the  residence  of  the\n             applicant, applicant's spouse or de facto partner; and\n         (b)      that transaction is not an eligible transaction under:\n             (i) sectionÂ 13AA(1)(b), (c), (d) orÂ (e) because the  threshold\n                  amount is exceeded; or\n             (ii)      an  equivalent  provision  of  a  corresponding  law\n                  because the threshold  amount  (however  described)  under\n                  that law is exceeded (regardless  of  whether  the  amount\n                  under that law is the same as under this Act).\n         Note for subsection (1)\n         Under section 41, an applicant is required to repay a grant if  the\n         unencumbered value or consideration for the transaction results  in\n         it not being an eligible transaction.\n      (2)   Subsection  (1)  applies  even  if  the  applicant,  applicant's\n         spouse or de facto partner:\n         (a)      repaid the amount of the grant; and\n         (b)      paid any penalty or interest in relation  to  the  earlier\n             application.\nDivision 3  Eligible transactions"
+    },
+    {
+      "key": "section:13.p1",
+      "title": "Section 13 - Eligible transaction",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Eligible transaction",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 3 Eligible transactions > Section 13",
+      "text": "(1) An eligible transaction is: (a) a contract made on or after 1 July 2000 for the purchase of a home in the Territory: (i) if the contract was made before 1Â January 2015 â whether or not the home is a new home; or (ii) if the contract was made on or after 1 January 2015 but before 1 October 2024 â only if the home is a new home; or (iii) if the contract is made on or after 1 October 2024 but before 1 October 2025 â whether or not the home is a new home; or (iv) if the contract is made on or after 1 October 2025 â only if the home is a new home; or (b) a comprehensive home building contract made on or after 1Â JulyÂ 2000 by the owner of land in the Territory, or a person who will on completion of the contract be the owner of land in the Territory, to have a home built on the land; or (c) the building of a home in the Territory by an owner builder if the building work commences on or after 1 July 2000 and: (i) the commencement date for the transaction is before 1Â January 2015; or (ii) the commencement date for the transaction is on or after 1 January 2015 and one of the following applies: (A) the transaction is not a transaction to which subsectionÂ (7) applies; or (B) if the transaction is a transaction to which subsectionÂ (7) applies â the home is a new home. (2) A contract is a contract for the purchase of a home if the contract is a contract for the acquisition of a relevant interest in land on which a home is built. (5) The commencement date of an eligible transaction is: (a) in the case of a contract for the purchase or construction of a homeÂ â the date when the contract is made; or (b) in the case of the building of a home by an owner builder other than a transaction to which subsection (7) applies: (i) the date when laying the foundations for the home commences; or (ii) another date the Commissioner considers appropriate in the circumstances of the case; or (c) in the case of a transaction to which subsection (7) applies â the date referred to in subsection (7)(b). (6) Subject to any qualifications prescribed by regulation, an eligible transaction is completed: (a) in the case of a contract for the purchase of a home, when: (i) the purchaser becomes entitled to possession of the home under the contract; and (ii) if the purchaser is to obtain a registered title to the land on which the home is situated â the necessary steps to obtain registration of the purchaser's title have been taken; or (b) in the case of a contract to have a home built â when the building is ready for occupation as a place of residence; or (c) in the case of the building of a home by an owner builder other than a transaction to which subsection (7) applies â when the building is ready for occupation as a place of residence; or (d) in the case of a transaction to which subsection (7) appliesÂ â when the event referred to in subsection (7)(c) occurs. (7) If a person purchases a building and intends to use it as a place of residence on land in which the person has a relevant interest but on which it is not situated at the time of purchase: (a) this Act applies as if the person were an owner builder building a home on the land; and (b) the commencement date of the transaction is to be taken to be the date of the contract to purchase the building; and (c) the transaction is to be taken to be completed when the building is ready for occupation as a place of residence on land in which the purchaser has a relevant interest. (8) The consideration for an eligible transaction is: (a) in the case of a contract for the purchase of a home â the consideration for the purchase; or (b) in the case of a comprehensive home building contract â the total consideration payable for the building work; or (c) in the case of the building of a home by an owner builder â the actual costs to the owner of carrying out the work (excluding any allowance for the owner builder's own labour). (8A) The consideration for an eligible transaction does not include rent given for a lease or sublease"
+    },
+    {
+      "key": "section:13.p2",
+      "title": "Section 13 - Eligible transaction",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Eligible transaction",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 3 Eligible transactions > Section 13",
+      "text": "an eligible transaction is: (a) in the case of a contract for the purchase of a home â the consideration for the purchase; or (b) in the case of a comprehensive home building contract â the total consideration payable for the building work; or (c) in the case of the building of a home by an owner builder â the actual costs to the owner of carrying out the work (excluding any allowance for the owner builder's own labour). (8A) The consideration for an eligible transaction does not include rent given for a lease or sublease mentioned in section 5(2). (9) The consideration for an eligible transaction includes any GST payable in relation to the transaction."
+    },
+    {
+      "key": "section:13AA",
+      "title": "Section 13AA - Transactions that are not eligible transactions",
+      "main_structural_unit": "section",
+      "main_structural_number": "13AA",
+      "main_structural_heading": "Transactions that are not eligible transactions",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 3 Eligible transactions > Section 13AA",
+      "text": "(1)    Each  of  the  following  transactions  is  not  an   eligible\n         transaction:\n         (a)      a contract made on or after 1 July 2000 for  the  purchase\n             or construction of a home if:\n             (i) for a contract to purchase a home â the purchaser  had  an\n                  option to purchase the home granted before  that  date  or\n                  the vendor had an  option  to  require  the  purchaser  to\n                  purchase the home granted before that date; or\n             (ii)      for a comprehensive home building contract â  either\n                  party had a right or option granted before  that  date  to\n                  require the other party to enter into the contract;\n         (b)      a contract for the purchase of a home, comprehensive  home\n             building contract or building of a home by an  owner  builder,\n             if:\n             (i) the transaction is a threshold-relevant transaction; and\n             (ii)      the consideration for the transaction (including any\n                  GST payable in relation to it) is more than the  threshold\n                  amount;\n         (c)      a contract for the purchase of a home if:\n             (i) the contract is a threshold-relevant transaction; and\n             (ii)      the total of the following amounts is more than  the\n                  threshold amount:\n                  (A)  the unencumbered value of the home;\n                  (B)  the unencumbered value, at the date the  contract  is\n                      made, of the relevant interest in the land  on  which\n                      the home is built or to be built;\n         (d)      a comprehensive home building contract if:\n             (i) the contract is a threshold-relevant transaction; and\n             (ii)      the total of the following amounts is more than  the\n                  threshold amount:\n                  (A)  the consideration for the transaction (including  any\n                      GST payable in relation to it);\n                  (B)  the unencumbered value, at the date the  contract  is\n                      made, of the relevant interest in the land  on  which\n                      the home is to be built;\n         (e)      the building of a home by an owner builder if:\n             (i) the transaction is a threshold-relevant transaction; and\n             (ii)      the total of the following amounts, at the date  the\n                  home is ready for occupation as a place of  residence,  is\n                  more than the threshold amount:\n                  (A)  the unencumbered value of the home;\n                  (B)  the unencumbered value of the  relevant  interest  in\n                      the land on which the home is built.\n      (2)   However, subsection (1)(a) does not apply  if  the  Commissioner\n         declares the contract to be an eligible transaction.\n       (3)    The  Commissioner  may  make  the  declaration  only  if   the\n         Commissioner is satisfied the contract does not have the effect  of\n         circumventing   limitations   on,   or   requirements    affecting,\n         eligibility or entitlement to a first home owner grant  imposed  by\n         or under this Act.\n      (4)   In this section:\n         encumbrances includes a debt or liability that might give rise to a\n         right of recourse against the property.\n         threshold-relevant transaction means:\n         (a)      a transaction the commencement date  of  which  is  before\n             13Â MayÂ 2014; or\n         (b)      a contract for the purchase of a home if:\n             (i) the commencement date of  the  contract  is  on  or  after\n                  13Â MayÂ 2014 but before 1 January 2015; and\n             (ii)      the home is not a new home; or\n         (c)      a transaction that is  the  building  of  a  home  in  the\n             Territory by an owner builder if:\n             (i) the transaction is a transaction to  which  section  13(7)\n                  applies; and\n             (ii)      the commencement date of the transaction  is  on  or\n                  after 13Â MayÂ 2014 but before 1 January 2015; and\n             (iii)     the home is not a new home.\n         unencumbered value, of a home or relevant interest in land, is  the\n         full  value  of  the  home   or   interest   (without   regard   to\n         encumbrances), and includes  the  amount  of  any  GST  payable  in\n         relation to the supply of the home or relevant interest.\nDivision 4  Application for grant"
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Application for grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Application for grant",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 4 Application for grant > Section 14",
+      "text": "(1)   An application for a first home owner grant is  to  be  made  to\n         the Commissioner.\n      (2)   An application:\n         (a)      must be in a form approved by the Commissioner; and\n         (b)      must contain the information required by the  Commissioner\n             about the applicant and the applicant's  spouse  or  de  facto\n             partner; and\n         (c)      must be signed by the applicant and, if  required  by  the\n             Commissioner, the applicant's spouse or de facto partner.\n      (3)   An applicant and the applicant's  spouse  or  de  facto  partner\n         must provide the Commissioner  with  any  further  information  the\n         Commissioner requires to decide the application.\n      (4)   Information provided by an applicant or  an  applicant's  spouse\n         or de facto partner in or in relation to an  application  must,  if\n         the Commissioner so requires, be verified by statutory  declaration\n         or supported by other evidence required by the Commissioner.\n       (5)    An  application  may  only  be  made  within  a  period   (the\n         application period):\n         (a)      commencing  on  the  commencement  date  of  the  eligible\n             transaction to which the application relates; and\n         (b)      ending 12 months after  the  completion  of  the  eligible\n             transaction to which the application relates.\n       (6)    However,  the  Commissioner  has  a  discretion  to  allow  an\n         application to be made before or after the application period.\n      (7)   An applicant may, with  the  Commissioner's  consent,  amend  an\n         application."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - All interested persons to join in application",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "All interested persons to join in application",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 4 Application for grant > Section 15",
+      "text": "(1)   All interested persons must be applicants.\n      (2)   An interested person  is  a  person  who  is,  or  will  be,  on\n         completion of the eligible transaction  to  which  the  application\n         relates, an owner of the relevant home other than a person  who  is\n         excluded  from  the  application  of   this   section   under   the\n         Regulations."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Application on behalf of person under legal disability",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Application on behalf of person under legal disability",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 4 Application for grant > Section 16",
+      "text": "(1)   An application for a first home  owner  grant  may  be  made  on\n         behalf of a person under a legal disability by a guardian.\n      (2)   For the purpose of determining  eligibility,  the  person  under\n         the legal disability is to be regarded as the applicant.\nDivision 5  Decision on application"
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Commissioner to decide applications",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Commissioner to decide applications",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 17",
+      "text": "(1)   If the Commissioner is satisfied that a first home  owner  grant\n         is payable on an application, the Commissioner must  authorise  the\n         payment of the grant.\n      (2)   The Commissioner may authorise  the  payment  of  a  first  home\n         owner grant  before  completion  of  the  eligible  transaction  if\n         satisfied that:\n         (a)      there are special reasons for doing so; and\n         (b)      the interests of the Territory can be adequately protected\n             by  conditions  requiring  repayment  of  the  grant  if   the\n             transaction is not completed within a reasonable time.\n      (2A)  In addition, the Commissioner may authorise  the  payment  of  a\n         first  home  owner  grant  before  completion   of   the   eligible\n         transaction if satisfied the interests  of  the  Territory  can  be\n         adequately protected by conditions requiring repayment of the grant\n         should it not be an eligible transaction under  sectionÂ 13AA(1)(b),\n         (c), (d) orÂ (e).\n      (3)   The Commissioner may authorise payment of  a  first  home  owner\n         grant in anticipation of compliance with the residence requirements\n         if the Commissioner is satisfied that  each  applicant  intends  to\n         comply with the residence requirements."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Amount of grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Amount of grant",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 18",
+      "text": "(1)   The amount of a first home owner grant  is  the  lesser  of  the\n         following:\n         (a)      the amount of consideration actually paid for the eligible\n             transaction;\n         (b)      the amount applying under subsections (2) to (3F).\n       (2)    If  the  commencement  date  for  the  transaction  is  before\n         4Â DecemberÂ 2012, the amount for subsection (1)(b) is $7 000.\n      (3)   If the commencement date for the  transaction  is  on  or  after\n         4Â DecemberÂ 2012  but  before  13   May   2014,   the   amount   for\n         subsectionÂ (1)(b) is:\n         (a)      if the home is an established home in  the  urban  area  â\n             $12Â 000; or\n         (b)      otherwise â $25Â 000.\n      (3A)  If the commencement date for the  transaction  is  on  or  after\n         13Â MayÂ 2014  but  before   1   January   2015,   the   amount   for\n         subsectionÂ (1)(b) is:\n         (a)      if the home is an established home in  the  urban  area  â\n             $12Â 000; or\n         (b)      if the home is a new home â $26Â 000; or\n         (c)      otherwise â $25Â 000.\n      (3B)  If the commencement date for the  transaction  is  on  or  after\n         1Â January  2015  but  before   7   May   2019,   the   amount   for\n         subsectionÂ (1)(b) is $26 000.\n      (3C)  If the commencement date for the  transaction  is  on  or  after\n         7Â MayÂ 2019  but   before   1   October   2024,   the   amount   for\n         subsectionÂ (1)(b) is $10 000.\n      (3D)  If the commencement date for the  transaction  is  on  or  after\n         1Â October 2024 but before 1 October 2025, the amount for subsection\n         (1)(b) is:\n         (a)      if the home is a new home â $50Â 000; or\n         (b)      otherwise â $10Â 000.\n      (3E)  If the commencement date for the  transaction  is  on  or  after\n         1Â October 2025 but before 1Â October 2026, the amount for subsection\n         (1)(b) is $50Â 000.\n      (3F)  If the commencement date for the  transaction  is  on  or  after\n         1Â October 2026, the amount for subsection (1)(b) is $10Â 000.\n      (4)   A home is an established home in the urban area if:\n         (a)      the land on which the home is or will be built is,  as  at\n             the commencement date for  the  eligible  transaction,  wholly\n             within the urban area; and\n         (b)      the home is not a new home.\n      (6)   In this section:\n         urban area means:\n         (a)      the Municipalities of Darwin,  Palmerston  and  Litchfield\n             and the Shire of Wagait; and\n         (b)      Prescribed  Area  A  described  in  the  Schedule  to  the\n             Northern Territory Rates Regulations 1971; and\n         (c)      the Darwin Waterfront Precinct specified under  section  4\n             of the Darwin Waterfront Corporation Act 2006; and\n         (d)      any other area prescribed by regulation."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Payment of grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Payment of grant",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 19",
+      "text": "(1)   A first home owner grant is  to  be  paid  by  electronic  funds\n         transfer, by cheque or in any other  way  the  Commissioner  thinks\n         appropriate.\n      (2)   A first home owner grant is to be paid:\n         (a)      to the applicant; or\n         (b)      to some other person to  whom  the  applicant  directs  in\n             writing that the grant be paid."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Conditions generally",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Conditions generally",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 20",
+      "text": "(1)   The Commissioner may authorise  the  payment  of  a  first  home\n         owner grant on conditions the Commissioner considers appropriate.\n      (2)   The Commissioner may at any time amend  or  cancel  a  condition\n         imposed  on  a  first  home  owner  grant  under  section  5(5)  or\n         subsection (1) of this section.\n      (3)   If the Commissioner amends or cancels a  condition  of  a  first\n         home owner grant, the Commissioner must give the  person  on  whose\n         application the grant was paid written notice of the  decision  and\n         the date the decision takes effect."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Death of applicant",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Death of applicant",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 21",
+      "text": "(1)   An application for a first  home  owner  grant  does  not  lapse\n         because an applicant dies before the application is decided.\n      (2)   If an applicant dies before  the  application  is  decided,  the\n         following provisions apply:\n         (a)      if the deceased was one of 2 or more applicants and one or\n             more applicants survive â the application is to be dealt  with\n             as if the surviving applicants were the sole applicants;\n         (b)      in any other case â a first home owner grant,  if  payable\n             on the application, is  to  be  paid  to  the  estate  of  the\n             deceased.\n      (3)   If a deceased applicant for a first home owner  grant  had  not,\n         by the date of death, occupied the home to  which  the  application\n         relates as the applicant's principal place  of  residence  but  the\n         Commissioner is satisfied that he or she intended  to  comply  with\n         the  residence  requirements,  the   residence   requirements   are\n         satisfied."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Power to correct decision",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Power to correct decision",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 22",
+      "text": "If the Commissioner decides an application and is  later  satisfied\n         (independently of an  objection  under  Part  11  of  the  Taxation\n         Administration Act  2007)  that  the  decision  is  incorrect,  the\n         Commissioner may vary or reverse the decision."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Notification of decision",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Notification of decision",
+      "defined_term": null,
+      "structure_path": "Part 2 First home owner grant > Division 5 Decision on application > Section 23",
+      "text": "(1)   When the Commissioner decides an application or decides to  vary\n         or reverse an earlier decision on an application, the  Commissioner\n         must give the applicant notice of the decision.\n      (2)   If the decision is to grant the application without  conditions,\n         the payment of the first home owner grant is sufficient  notice  of\n         the decision.\n      (3)   If the decision is to refuse  the  application  or  to  vary  or\n         reverse an earlier decision on  an  application,  the  Commissioner\n         must state in the notice the reasons for the decision.\nPart 3      Administration\nDivision 1  Administration generally"
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Administration",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Administration",
+      "defined_term": null,
+      "structure_path": "Part 3 Administration > Division 1 Administration generally > Section 29",
+      "text": "The Commissioner has the general administration of this Act."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Delegation",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Delegation",
+      "defined_term": null,
+      "structure_path": "Part 3 Administration > Division 1 Administration generally > Section 30",
+      "text": "(1)   The Commissioner may delegate any of the  Commissioner's  powers\n         or functions under this Act.\n      (2)   Without limiting subsection  (1),  the  Commissioner  may  enter\n         into  an  arrangement  (an  administration  arrangement)   with   a\n         financial institution or other person under which:\n         (a)      the Commissioner delegates powers or functions related  to\n             the administration of the first home owner grant scheme; and\n         (b)      the financial institution or other person is  required  to\n             carry out the delegated powers or functions in accordance with\n             specified conditions.\n      (3)   The conditions of  an  administration  arrangement  may  include\n         conditions prescribed by regulation.\n       (4)    If   an   administration   arrangement   includes   prescribed\n         conditions,  a  financial  institution   or   other   person   that\n         contravenes a prescribed condition commits an offence.\n         Maximum penalty:    100 penalty units.\n         Note for Division 1\n         It should be noted that:\n         (a)      Part 9 of the Taxation  Administration  ActÂ 2007  provides\n             for the conduct  of  authorised  investigations  into  matters\n             relevant to the administration and enforcement  of  this  Act;\n             and\n         (b)      Part 10 of the Taxation Administration ActÂ 2007 deals with\n             confidential  information  obtained  in  the  course  of   the\n             administration of this Act; and\n         (c)      Part 11 of the Taxation Administration  ActÂ 2007  provides\n             for objections, reviews and appeals in relation  to  decisions\n             made in the course of the administration of this Act."
+    },
+    {
+      "key": "section:30A",
+      "title": "Section 30A - Granting of approvals and exemptions",
+      "main_structural_unit": "section",
+      "main_structural_number": "30A",
+      "main_structural_heading": "Granting of approvals and exemptions",
+      "defined_term": null,
+      "structure_path": "Part 3 Administration > Division 1 Administration generally > Section 30A",
+      "text": "(1)   If a provision of this Act allows the  Commissioner  to  approve\n         an extension of the time within which something is required  to  be\n         done or to occur, the Commissioner may grant the approval  even  if\n         the time within which the thing is required to be done or to  occur\n         has expired.\n      (2)   If a provision of this Act allows the Commissioner to approve  a\n         shorter period as the period for which  a  person  is  required  to\n         occupy a home as a principal place of residence,  the  Commissioner\n         may grant the approval even if the person's occupation of the  home\n         as a principal place of residence has already ceased.\n      (3)   If a provision of this Act allows the Commissioner to  exempt  a\n         person from a requirement, the Commissioner may grant the exemption\n         even  if  the  person  has  already  failed  to  comply  with   the\n         requirement.\nDivision 3  Incorrect applications and amounts incorrectly paid"
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Power to recover amount paid in error etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Power to recover amount paid in error etc.",
+      "defined_term": null,
+      "structure_path": "Part 3 Administration > Division 3 Incorrect applications and amounts incorrectly paid > Section 41",
+      "text": "(1)   This section applies to a person on whose  application  a  first\n         home owner grant was paid if:\n         (a)      the person was not entitled to the grant under section  7;\n             or\n         (b)      the grant is paid before completion of a  transaction  and\n             on completion the consideration for it results in it not being\n             an eligible transaction under section 13AA(1)(b) or (d); or\n         (c)      the grant was paid in anticipation of compliance with  the\n             residence requirements and the person fails to comply with the\n             requirements; or\n         (d)      the Commissioner imposed a condition on  the  grant  under\n             sectionÂ 5(5) or 20 and the person breaches the condition; or\n         (e)      an overpayment of the  amount  to  which  the  person  was\n             entitled occurs.\n       (2)    The  person  must,  within  the  required  time  mentioned  in\n         subsectionÂ (2A):\n         (a)      give written  notice  to  the  Commissioner  of  the  non-\n             entitlement,   ineligibility,   failure,   breach    or    the\n             overpayment; and\n         (b)      pay to  the  Commissioner  the  amount  of  the  grant  or\n             overpayment.\n      (2A)  The required time is:\n         (a)      for  non-entitlement  mentioned  in  subsection  (1)(a)  â\n             30Â days after the grant was paid; or\n         (b)      for ineligibility mentioned in subsection (1)(b) â 30Â days\n             after the earlier of the following:\n             (i) completion of the transaction;\n             (ii)      the date on which it first became apparent that  the\n                  transaction would not be an eligible transaction; or\n         (c)      for failure to  comply  with  the  residence  requirements\n             mentioned in subsection (1)(c) â 30Â days after the earlier  of\n             the following:\n             (i) the date by which the person  was  to  have  occupied  the\n                  home;\n             (ii)      the date on which it first became apparent that  the\n                  residence requirements would not be complied  with  during\n                  the period allowed for compliance; or\n         (d)      for breach of a condition or an overpayment  mentioned  in\n             subsection (1)(d)  or  (e)  â  30Â days  after  the  breach  or\n             overpayment occurred.\n      (3)   If a person to whom this section applies fails to pay an  amount\n         as required by subsection (2):\n         (a)      the person in default must pay interest on the  amount  in\n             default from the date liability to make the payment  fell  due\n             until the date payment is actually made; and\n         (b)      the Commissioner may, by notice in writing to the person:\n             (i) state why the amount in default must be paid; and\n             (ii)      require payment of the amount in default  within  30\n                  days after the date of the notice; and\n             (iii)      impose  a  penalty  equivalent  to  the  amount  in\n                  default; and\n         (c)      if the amount  in  default  (together  with  interest  and\n             penalty) is not paid within 30  days  from  the  date  of  the\n             notice, then, as from the end of that period, interest accrues\n             on the penalty (in addition to the interest  already  accruing\n             on the amount originally in default).\n      (4)   An amount required to be paid to  the  Commissioner  under  this\n         section is a debt due to the Territory and  may  be  sued  for  and\n         recovered in a court of competent jurisdiction by the  Commissioner\n         suing in his or her official name.\n      (5)   If a person who is liable to pay an amount  under  this  section\n         has an interest in the home for which the first  home  owner  grant\n         was paid, the liability is an overriding statutory  charge,  within\n         the meaning of the Land Title Act 2000, on the person's interest in\n         that home.\n      (6)   The Commissioner  may  enter  into  an  arrangement  (which  may\n         include provision for the payment of interest)  for  payment  of  a\n         liability outstanding under this section by instalments.\n      (7)   The Commissioner may remit the whole or any part  of  a  penalty\n         or interest payable under this section.\n      (8)   A person who fails to comply with subsection  (2)  or  a  notice\n         under subsection (3) commits a regulatory offence.\n         Maximum penalty:    50 penalty units.\n      (9)   A person who breached a condition on payment  of  a  first  home\n         owner  grant  may  be  found   guilty   of   an   offence   against\n         subsectionÂ (8) even  if  the  condition  breached  is  subsequently\n         amended or cancelled.\n      (10)  Subsection (9) applies despite section 14 of the Criminal Code.\n      (11)  If a first home owner grant was paid on the application of 2  or\n         more persons, the liability of those persons under this section  is\n         joint and several.\n      (12)  Interest accrues under this section at  the  statutory  interest\n         rate as in force from time to time.\nPart 4      Miscellaneous"
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Misleading statements and documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Misleading statements and documents",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 42",
+      "text": "(1)   A person must not make a statement to a person who  is  carrying\n         out functions for, or related to, the administration  of  this  Act\n         (an official) that is misleading in a material particular.\n         Fault element:      Awareness that  the  statement  is  or  may  be\n                            misleading or reckless indifference to  whether\n                            the statement is or may be misleading.\n         Maximum penalty:    Imprisonment for 2 years.\n      (2)    A  person  must  not  give  an  official  a  document  that  is\n         misleading in a material particular.\n         Fault element:      Awareness  that  the  document  is  or  may  be\n                            misleading or reckless indifference to  whether\n                            the document is or may be misleading.\n         Maximum penalty:    Imprisonment for 2 years.\n      (3)   This  section  extends  to  a  statement  or  document  that  is\n         misleading because of the omission of relevant information as  well\n         as to one that is misleading because it consists of,  or  includes,\n         misinformation.\n      (4)   However, no offence is committed against subsection (2)  if  the\n         person, when giving the document to the official:\n         (a)      draws  the  misleading  aspect  of  the  document  to  the\n             official's attention; and\n         (b)      to the extent the person can reasonably do so,  gives  the\n             official the information necessary to correct the document."
+    },
+    {
+      "key": "section:43A",
+      "title": "Section 43A - Time for bringing prosecutions",
+      "main_structural_unit": "section",
+      "main_structural_number": "43A",
+      "main_structural_heading": "Time for bringing prosecutions",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 43A",
+      "text": "A proceeding for an offence against this Act must be commenced:\n         (a)      if alleged to have been committed before  1  July  2008  â\n             within 3 years after the  offence  is  alleged  to  have  been\n             committed; or\n         (b)      if alleged to have been committed on or after 1 July  2008\n             â within 5 years after the offence is  alleged  to  have  been\n             committed."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Legal immunity",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Legal immunity",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 44",
+      "text": "(1)   This section applies to the following persons:\n         (a)      a person who is or has been the Commissioner;\n         (b)      a person who is or has been an Agency employee;\n         (c)      a person to whom a power or function of  the  Commissioner\n             is or has been delegated under section 30;\n         (d)      a person who is or has been an employee or agent of such a\n             delegate.\n      (2)   No civil or criminal proceedings lie against a  person  to  whom\n         this section applies in relation to an act done or  omitted  to  be\n         done in good faith in the performance or purported performance of a\n         function, or the exercise or purported exercise of a  power,  under\n         this Act.\n      (3)   Subsection (2) does not affect any liability that the  Territory\n         would, but for that subsection,  have  in  respect  of  an  act  or\n         omission."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Continuing offences",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Continuing offences",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 45",
+      "text": "(1)   If, in committing an offence against a provision of this Act  or\n         the Regulations, a person fails to do an act within  the  time  for\n         doing the act specified  in  the  provision,  in  addition  to  the\n         offence for failure to do the  act  within  the  time,  the  person\n         commits an additional offence on each day after the expiry  of  the\n         time during which the act continues not to be done.\n      (2)   On being found guilty of an offence referred  to  in  subsection\n         (1), a person is, in addition to the penalty for failure to do  the\n         act within the time, liable to a penalty not  exceeding  1  penalty\n         unit for each day after the expiry of the  time  during  which  the\n         offence continues."
+    },
+    {
+      "key": "section:45A",
+      "title": "Section 45A - Valuation of property",
+      "main_structural_unit": "section",
+      "main_structural_number": "45A",
+      "main_structural_heading": "Valuation of property",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 45A",
+      "text": "(1)    For  determining  whether  a  transaction   is   an   eligible\n         transaction, the Commissioner may:\n         (a)      by written notice given to a relevant person, require  the\n             person to lodge a written valuation  of  property  within  the\n             time stated in the notice; or\n         (b)      obtain a valuation  from  the  Valuer-General  or  another\n             valuer.\n       (3)    The  Commissioner  may  recover  the  cost  of  obtaining  the\n         valuation as a debt due to the Territory by the relevant person.\n      (4)   In this section:\n         property means:\n         (a)      a home; or\n         (b)      land; or\n         (c)      a relevant interest in land.\n         relevant person, for a transaction, means an  applicant  or  former\n         applicant  for  a  first  home  owner  grant  in  relation  to  the\n         transaction.\n         valuer means a certified practising valuer who is a member  of  the\n         Australian Property Institute, and includes a person  who,  in  the\n         Commissioner's opinion, has equivalent qualifications."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Service of documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Service of documents",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 46",
+      "text": "A document that is required by or under this Act  to  be  given  or\n         served on a person is to be given or served:\n         (a)      by delivering the document to the person personally; or\n         (b)      by sending the document by prepaid post to the  person  at\n             his or her last-known place of residence or business or, if he\n             or she is carrying on business at 2 or more places, at one  of\n             those places; or\n         (c)      by sending the document by prepaid post to the  person  at\n             his or her last-known postal address; or\n         (d)      by  leaving  the  document  at  the  last-known  place  of\n             residence of the person with some  person  who  is  apparently\n             living at that place and who is apparently not  less  than  16\n             years of age; or\n         (e)      by  leaving  the  document  at  the  last-known  place  of\n             business of the person  or,  if  he  or  she  is  carrying  on\n             business at 2 or more places, at one of those places with some\n             person who is apparently employed by the  person  and  who  is\n             apparently not less than 16 years of age."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Appearances by Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Appearances by Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 47",
+      "text": "(1)   In an action, prosecution or other proceeding under this Act  in\n         a court,  the  Commissioner  may  appear  personally,  by  a  legal\n         practitioner or by an officer appointed by the Commissioner.\n      (2)   The appearance of an officer appointed under subsection (1)  and\n         a statement by the officer that he or she appears by  authority  of\n         the  Commissioner  are  together  sufficient   evidence   of   that\n         authority."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Evidence",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Evidence",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 48",
+      "text": "(1)   The production of:\n         (a)      a notice of the Commissioner's decision in relation to  an\n             application for a first home owner grant; or\n         (b)      a document under the hand of the  Commissioner  purporting\n             to be a copy of such a notice,\n         is conclusive evidence of the due making of a decision in  relation\n         to the application and (except in proceedings on a  review  of,  or\n         appeal against, a decision under this Act) that all the particulars\n         of the decision are correct.\n      (2)   The production of a document under the hand of the  Commissioner\n         purporting to be a copy of  a  document  issued  or  given  by  the\n         Commissioner is conclusive evidence that the document was so issued\n         or given.\n      (3)   The production of a document under the hand of the  Commissioner\n         purporting to be a copy of or extract from:\n         (a)      an application for a first home owner grant; or\n         (b)      a notice of the Commissioner's  decision  in  relation  to\n             such an application; or\n         (c)      a notice under  section  41(3)  requiring  payment  of  an\n             amount,\n         is evidence of the matter set forth in the document so produced  to\n         the same extent as the original application or notice would  be  if\n         it were produced."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Standing appropriation",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Standing appropriation",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 49",
+      "text": "The money required to pay first home owner grants  is  to  be  paid\n         from the public moneys of the Territory and the  appropriation  for\n         that purpose is established or increased to the extent necessary."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 4 Miscellaneous > Section 50",
+      "text": "The Administrator may make regulations, not inconsistent with  this\n         Act, prescribing matters:\n         (a)      required or permitted by this Act to be prescribed; or\n         (b)      necessary or convenient to be prescribed for carrying  out\n             or giving effect to this Act.\nPart 5      Transitional matters\nDivision 1  First Home Owner Grant Amendment Act 2007"
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Objections and appeals",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Objections and appeals",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters > Division 1 First Home Owner Grant Amendment Act 2007 > Section 51",
+      "text": "(1)   Objections against the Commissioner's decisions under  this  Act\n         are, as from 1 January 2008, to be made and dealt with subject  to,\n         and in accordance with, Part  11  of  the  Taxation  Administration\n         ActÂ 2007 (whether the decision was made before or after that  date)\n         and any consequent appeal is also to be dealt with under that Part.\n       (2)    If  an  objection  had  been  lodged  under  this  Act  before\n         1Â JanuaryÂ 2008,  any  uncompleted  proceedings  arising  from   the\n         objection (including a consequent appeal) are to be dealt  with  in\n         accordance with the relevant laws of  the  Territory  as  in  force\n         immediately before that date.\nDivision 2  Revenue Law Reform (Budget Initiatives) Act 2008"
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Transitional provision (rates of interest on pre-existing",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Transitional provision (rates of interest on pre-existing",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters > Division 2 Revenue Law Reform (Budget Initiatives) Act 2008 > Section 52",
+      "text": "liabilities)\n      (1)   Interest accrues under section  41(3)  on  a  liability  arising\n         before the commencement of the relevant amendment:\n         (a)      up to the commencement of the relevant amendment â at  the\n             rate  applicable  before  the  commencement  of  the  relevant\n             amendment; and\n         (b)      after the commencement of the relevant amendment â at  the\n             rate prescribed by the relevant amendment.\n      (2)   In this section:\n         relevant amendment means the amendment made by Revenue  Law  Reform\n         (Budget Initiatives) Act 2008 to section 41(12).\nDivision 3  Revenue Legislation Amendment Act 2009"
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Application of limit on eligibility of transactions before",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Application of limit on eligibility of transactions before",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters > Division 3 Revenue Legislation Amendment Act 2009 > Section 53",
+      "text": "commencement of Revenue Legislation Amendment Act 2009\n       (1)    This  Act  continues  to  apply  in  relation  to  a  relevant\n         application as if it had not been amended by Part 2, Division 3  of\n         the amending Act.\n      (2)   In this section:\n         amending Act means the Revenue Legislation Amendment ActÂ 2009.\n         pre-amending Act transaction  means  an  eligible  transaction  for\n         which the commencement date is earlier  than  the  commencement  of\n         Part 2, Division 3 of the amending Act.\n         relevant application means an application for a  first  home  owner\n         grant that relates to a pre-amending Act transaction.\nDivision 4  Revenue and Other Legislation Amendment ActÂ 2012"
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Application of section 18 after 4Â DecemberÂ 2012",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Application of section 18 after 4Â DecemberÂ 2012",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters > Division 4 Revenue and Other Legislation Amendment ActÂ 2012 > Section 54",
+      "text": "(1)   This section applies  to  an  eligible  transaction  that  is  a\n         contract for the purchase of a home if:\n         (a)      the contract replaces a contract to purchase the same or a\n             substantially   similar   home   that    was    made    before\n             4Â DecemberÂ 2012; or\n         (b)      the purchaser had an option to  purchase  the  same  or  a\n             substantially   similar   home   that   was   granted   before\n             4Â DecemberÂ 2012; or\n         (c)      the vendor had an  option  to  require  the  purchaser  to\n             purchase the same or a substantially  similar  home  that  was\n             granted before 4Â DecemberÂ 2012.\n      (2)   This section applies in  relation  to  an  eligible  transaction\n         that is a comprehensive home building contract if:\n         (a)      the contract replaces a contract to construct the same  or\n             a  substantially   similar   home   that   was   made   before\n             4Â DecemberÂ 2012; or\n         (b)      a party to the contract had a right or option  to  require\n             the other party to enter into the contract  that  was  granted\n             before 4Â DecemberÂ 2012.\n      (3)   If this section applies to an eligible transaction:\n         (a)      the threshold amount for the transaction is $750Â 000; and\n         (b)       the  amount  of  the  first  home  owner  grant  for  the\n             transaction is the lesser of the following:\n             (i) the amount of consideration actually paid for the eligible\n                  transaction;\n             (ii)      $7,000.\nDivision 5  Treasury Legislation Amendment Act 2014"
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Application of sections 13AA and 18 on and after 13Â May 2014",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Application of sections 13AA and 18 on and after 13Â May 2014",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters > Division 5 Treasury Legislation Amendment Act 2014 > Section 55",
+      "text": "(1)   This section applies to a transaction that  is  a  contract  for\n         the purchase of a home if:\n         (a)      the contract replaces a contract to purchase the same or a\n             substantially similar home that was made during  the  relevant\n             period; or\n         (b)      the purchaser had an option to  purchase  the  same  or  a\n             substantially  similar  home  that  was  granted  during   the\n             relevant period; or\n         (c)      the vendor had an  option  to  require  the  purchaser  to\n             purchase the same or a substantially  similar  home  that  was\n             granted during the relevant period.\n      (2)   This section applies to a transaction that  is  a  comprehensive\n         home building contract if:\n         (a)      the contract replaces a contract to construct the same  or\n             a substantially similar home that was made during the relevant\n             period; or\n         (b)      a party to the contract had a right or option  to  require\n             the other party to enter into the contract  that  was  granted\n             during the relevant period.\n      (3)   If this section applies to a transaction:\n         (a)      despite the definition of  threshold-relevant  transaction\n             in section 13AA(4), the transaction  is  a  threshold-relevant\n             transaction for the purposes of section 13AA; and\n         (b)      the threshold amount for the transaction is $600Â 000.\n      (4)   If, after taking into account subsection  (3),  the  transaction\n         is an eligible transaction, the amount  of  the  first  home  owner\n         grant for the eligible transaction is the lesser of:\n         (a)      the amount of consideration actually paid for the eligible\n             transaction; and\n         (b)      the following:\n             (i) if the home is an established home in the urban  area  (as\n                  defined in section 18(4)) â $12Â 000;\n             (ii)      otherwise â $25Â 000.\n      (5)   In this section:\n         relevant period means the period from 4  December  2012  to  12Â May\n         2014.\nDivision 6  First Home Owner Grant Amendment Act 2024"
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Application of amendments to section 13 â replacement contracts made",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Application of amendments to section 13 â replacement contracts made",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters > Division 6 First Home Owner Grant Amendment Act 2024 > Section 56",
+      "text": "on or after 1 October 2024\n      (1)   A contract for the purchase of a home is a replacement  contract\n         if the contract:\n         (a)       replaces  a  contract  to  purchase   the   same   or   a\n             substantially   similar   home   that    was    made    before\n             1Â OctoberÂ 2024; or\n         (b)      is made in exercise of an  option  the  purchaser  had  to\n             purchase the same or a substantially  similar  home  that  was\n             granted before 1Â OctoberÂ 2024; or\n         (c)      is made in exercise of an option the vendor had to require\n             the purchaser to purchase the same or a substantially  similar\n             home that was granted before 1 October 2024.\n       (2)    A  comprehensive  home  building  contract  is  a  replacement\n         contract if:\n         (a)      the contract replaces a contract to construct the same  or\n             a  substantially   similar   home   that   was   made   before\n             1Â OctoberÂ 2024; or\n         (b)      a party to the contract had a right or option  to  require\n             the other party to enter into the contract  that  was  granted\n             before 1Â October 2024.\n      (3)   Section 13, as amended by the First Home Owner  Grant  Amendment\n         Act 2024, applies to a replacement contract as if  the  replacement\n         contract was made on the date on which  the  original  contract  or\n         option mentioned in subsection  (1)  or  (2)  for  the  replacement\n         contract was made or granted."
+    }
+  ]
+}

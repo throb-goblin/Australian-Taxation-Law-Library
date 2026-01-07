@@ -1,0 +1,1033 @@
+{
+  "doc": {
+    "jurisdiction": "northern_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nt/consol_act/p84a1997135/",
+    "register_url": "https://legislation.nt.gov.au/en/Legislation/PARTNERSHIP-ACT-1997",
+    "source": "Partnership Act 1997 (100000131).txt",
+    "filename": "Partnership Act 1997 (100000131).json",
+    "name": "Partnership Act 1997",
+    "citation": "Partnership Act 1997"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 1",
+      "text": "This Act may be cited as the Partnership Act 1997."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 2",
+      "text": "This  Act  comes  into  operation  on  the  date   fixed   by   the\n         Administrator by notice in the Gazette."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Definitions",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 3",
+      "text": "In this Act, unless the contrary intention appears:\n         AFOF has the same meaning as in the Venture Capital Act 2002 (Cth).\n         approved form means a form approved under section 98.\n         associate has the meaning in section 68.\n         business includes a trade, occupation or profession.\n         Commissioner means the Commissioner for Consumer Affairs.\n         corresponding law has the meaning in section 73.\n         external partnership means a partnership or legal  entity  (however\n         described) in the nature of a partnership, formed under a law of  a\n         State, another  Territory  or  another  jurisdiction  (including  a\n         foreign country), whether or not:\n         (a)      the liability of any of its partners for  its  liabilities\n             is limited; and\n         (b)      it is incorporated or is otherwise a separate legal entity\n             from its partners.\n         firm has the meaning in section 8.\n         firm name has the meaning in section 8.\n         general partner, for an incorporated limited partnership, means  an\n         entity that, in accordance with the partnership agreement:\n         (a)      is admitted as a partner in the partnership; and\n         (b)      is not designated as a limited partner in the partnership.\n         incorporated limited  partnership  means  an  incorporated  limited\n         partnership formed under Part 3.\n         liability includes any debt or obligation.\n         limited partner, for an incorporated limited partnership, means  an\n         entity that, in accordance with the partnership agreement:\n         (a)      is admitted as a partner in the partnership; and\n         (b)      is designated as a limited partner in the partnership.\n         partner, for an incorporated limited partnership, means  a  general\n         partner or limited partner in the partnership.\n         partnership has the meaning in section 5.\n         partnership agreement, for an incorporated limited partnership, has\n         the meaning in section 54.\n         partnership property has the meaning in section 24.\n         register means the register of  incorporated  limited  partnerships\n         established by section 58.\n         registered information has the meaning in section 57(2).\n         registered name, for an incorporated limited partnership, means the\n         name of the partnership recorded in the register.\n         registered office, of an incorporated  limited  partnership,  means\n         the address of the principal office of the partnership recorded  in\n         the register.\n         registration means the  registration  of  an  incorporated  limited\n         partnership under Part 3.\n         special resolution, for an incorporated limited partnership,  means\n         a resolution passed by at least 75% of the limited partners in  the\n         partnership.\n         VCLP has the same meaning as in the Venture Capital Act 2002 (Cth).\n         VCMP means a venture  capital  management  partnership  within  the\n         meaning of the Income Tax Assessment Act 1936 (Cth)."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Equity and common law",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Equity and common law",
+      "defined_term": null,
+      "structure_path": "Part 1 Preliminary > Section 4",
+      "text": "(1)   The rules of equity and common law for partnerships continue  in\n         force except to the extent to which they are inconsistent with this\n         Act.\n      (2)   However, except as provided by this or another Act, those  rules\n         do not apply to an incorporated limited partnership,  its  partners\n         and the relationship between the partnership and its partners.\nPart 2      Partnerships generally\nDivision 1  Nature of Partnerships"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Partnership",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 1 Nature of Partnerships > Section 5",
+      "text": "(1)   A partnership is the  relation  between  people  carrying  on  a\n         business in common with a view of profit, and includes an  external\n         partnership and incorporated limited partnership.\n      (2)   However, the relation  between  members  of  an  association  or\n         incorporated body (other than an incorporated limited  partnership)\n         is not a partnership.\n      (3)   For this section, a  reference  to  an  association  includes  a\n         reference to an association formed under a  law  in  force  in  the\n         Territory."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Determining existence of partnership other than incorporated limited",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Determining existence of partnership other than incorporated limited",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 1 Nature of Partnerships > Section 6",
+      "text": "partnership\n       (1)    In  determining  whether  a   partnership   (other   than   an\n         incorporated limited partnership) exists regard is to be had to the\n         following rules:\n         (a)      joint tenancy, tenancy in common, joint  property,  common\n             property, or part ownership,  does  not  of  itself  create  a\n             partnership as to anything held or owned, whether the  tenants\n             or owners do or do not share any profits made by  the  use  of\n             any thing held or owned;\n         (b)      the sharing of gross returns does not of itself  create  a\n             partnership, whether the persons sharing the returns  have  or\n             have not a joint or common right or interest in  any  property\n             from which, or from the use of which, the returns are derived;\n         (c)      the receipt by a person of a share of  the  profits  of  a\n             business is prima facie evidence that the person is a  partner\n             in the business, but the receipt of a share of the profits  of\n             a business or of a payment contingent on or varying  with  the\n             profits of a business does not of itself  make  the  person  a\n             partner in the business, and in particular:\n             (i) the receipt by a person of  a  debt  or  other  liquidated\n                  amount by instalments or otherwise  out  of  the  accruing\n                  profits of a business does not of itself make the person a\n                  partner in the business or liable as a partner;\n             (ii)      a contract for the remuneration of  an  employee  or\n                  agent of a person engaged in a business by a share of  the\n                  profits of the  business  does  not  of  itself  make  the\n                  employee or agent a partner in the business or liable as a\n                  partner;\n             (iii)     a person being a spouse, de facto partner  or  child\n                  of a deceased partner and receiving by way  of  annuity  a\n                  portion of the profits made in the business in  which  the\n                  deceased person was a partner does not of itself make  the\n                  person a partner in the business or liable as a partner;\n             (iv)      the advance of money by way  of  loan  to  a  person\n                  engaged, or about to engage, in a business on  a  contract\n                  with the person that the lender will  receive  a  rate  of\n                  interest varying with the profits or will receive a  share\n                  of the profits arising from carrying on the business  does\n                  not of itself make the lender a partner with the person or\n                  persons carrying on the business or liable as a partner;\n             (v) a person receiving  by  way  of  annuity  or  otherwise  a\n                  portion of the profits of a business in  consideration  of\n                  the sale by that person of the goodwill of the business is\n                  not by reason only  of  such  receipt  a  partner  in  the\n                  business or liable as such.\n      (2)   A contract referred to  in  subsection  (1)(c)(iv)  must  be  in\n         writing and signed by or on behalf of  all  the  parties  for  that\n         subparagraph to apply."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Postponement of rights of person lending or selling in case of",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Postponement of rights of person lending or selling in case of",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 1 Nature of Partnerships > Section 7",
+      "text": "bankruptcy\n         Where:\n         (a)      a person to whom money has been advanced by way of loan on\n             a contract referred in section 6; or\n         (b)      a buyer of goodwill in consideration of  a  share  of  the\n             profits of a business,\n         becomes bankrupt, enters into an arrangement  to  pay  his  or  her\n         creditors less than 100Â cents in the dollar or dies insolvent,\n         (c)      the lender of the loan is not entitled to recover anything\n             in respect of the loan; and\n         (d)      the seller of the goodwill  is  not  entitled  to  recover\n             anything in respect of the share of profits contracted for,\n         until the claims of the other creditors of the  borrower  or  buyer\n         for valuable consideration in money  or  money's  worth  have  been\n         satisfied."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Firm and firm name",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Firm and firm name",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 1 Nature of Partnerships > Section 8",
+      "text": "(1)   The  partners  in  a  partnership  other  than  an  incorporated\n         limited partnership are collectively called a  firm  and  its  firm\n         name is:\n         (a)      for an external partnership â the  name  under  which  its\n             business is carried on under the law of the place where it  is\n             formed; or\n         (b)      otherwise â the name under which its business  is  carried\n             on in the Territory.\n      (2)   An incorporated limited partnership is a firm and its firm  name\n         is its registered name.\nDivision 2  Relationship of partners to persons dealing with them"
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Partner's power to bind firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Partner's power to bind firm",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 9",
+      "text": "(1)    A  partner  in  a  firm  other  than  an  incorporated  limited\n         partnership is, for the firm's business, an agent of the  firm  and\n         of the firm's other partners.\n      (2)   An act of the partner in carrying on in the usual  way  business\n         of the kind carried on by the firm  binds  the  firm  and  all  its\n         partners, unless:\n         (a)      the partner had no authority to act in the matter; and\n         (b)      the person with whom the partner is dealing:\n             (i) knew the partner did not have that authority; or\n             (ii)      did not know or believe the partner was a partner in\n                  the firm.\n      (3)   A general partner in an  incorporated  limited  partnership  is,\n         for the firm's business, an agent of the firm  and  of  the  firm's\n         other general partners.\n      (4)   An act of the general partner in carrying on in  the  usual  way\n         business of the kind  carried  on  by  the  partnership  binds  the\n         partnership and all its other general partners, unless:\n         (a)      the general partner had no authority to act in the matter;\n             and\n         (b)      the person with whom the general partner is dealing:\n             (i) knew the general partner did not have that authority; or\n             (ii)      did not know or believe the general  partner  was  a\n                  general partner in the partnership."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Partner acting for firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Partner acting for firm",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 10",
+      "text": "(1)   An act of a person relating to the  business  of  a  firm  other\n         than an incorporated limited partnership binds the firm and all its\n         partners if the person is authorised by the firm to carry  out  the\n         act:\n         (a)      in the firm name; or\n         (b)      in any other way showing an intention to bind the firm.\n      (2)   Subject to section 13(4), an act of a  person  relating  to  the\n         business  of  an  incorporated  limited   partnership   binds   the\n         partnership  and  all  its  general  partners  if  the  person   is\n         authorised by the partnership to carry out the act:\n         (a)      in the partnership's firm name; or\n         (b)      in  any  other  way  showing  an  intention  to  bind  the\n             partnership.\n      (3)   To avoid doubt:\n         (a)      a reference to a person authorised by a firm to carry  out\n             an act includes a reference  to  a  partner  in  the  firm  so\n             authorised; and\n         (b)      this section does not affect any rule  of  law  about  the\n             execution of deeds or negotiable instruments."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Partner using firm's credit",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Partner using firm's credit",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 11",
+      "text": "(1)   The use of the credit of  a  firm  other  than  an  incorporated\n         limited partnership by one  of  its  partners  for  a  purpose  not\n         apparently related to its ordinary business does not bind it unless\n         the partner is specially authorised by the other partners to do so.\n      (2)   The use of an incorporated limited partnership's credit  by  one\n         of its general partners for a purpose not apparently related to its\n         ordinary business does not bind it unless the  general  partner  is\n         specially authorised by it to do so.\n      (3)   To avoid doubt,  this  section  does  not  affect  any  personal\n         liability of a partner in a partnership."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Effect of notice of agreement that firm not bound",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Effect of notice of agreement that firm not bound",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 12",
+      "text": "If an act contravenes an  agreement  restricting  the  power  of  a\n         partner to bind a firm, the act does not bind the firm in  relation\n         to a person who has notice of the agreement."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Liability of partner",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Liability of partner",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 13",
+      "text": "(1)   Each partner in  a  firm  other  than  an  incorporated  limited\n         partnership  is  liable  jointly  with  the  other   partners   for\n         liabilities incurred by the firm while the partner is that partner.\n      (2)   Each general partner in an incorporated limited  partnership  is\n         liable jointly with the partnership for liabilities incurred by the\n         partnership while the general partner is that general partner.\n      (3)   The estate of the partner referred to in subsection (1),  or  of\n         the general partner  referred  to  in  subsection  (2),  is  liable\n         severally for the liabilities referred to in that subsection:\n         (a)      to the extent to which the liabilities remain unsatisfied;\n             and\n         (b)      only after the separate liabilities  of  that  partner  or\n             general partner have been satisfied.\n      (4)   However, the general partner or the general partner's estate  is\n         only liable for the liabilities:\n         (a)      to the extent to which the partnership cannot satisfy  the\n             liabilities; or\n         (b)      to a greater extent provided by the partnership agreement."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Liability for loss, injury or penalty",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Liability for loss, injury or penalty",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 14",
+      "text": "(1)   A firm other than an incorporated limited partnership is  liable\n         to the same extent as a partner in the firm for any loss, injury or\n         penalty caused by an act (including omission) of the partner if:\n         (a)      the act occurred while  the  partner  was  acting  in  the\n             ordinary course of the firm's business or with  the  authority\n             of the other partners; and\n         (b)      for a loss or injury â the loss or injury is not  suffered\n             by a partner in the firm.\n      (2)   An incorporated  limited  partnership  is  liable  to  the  same\n         extent as a general partner in the partnership for any loss, injury\n         or penalty caused by an act (including  omission)  of  the  general\n         partner if:\n         (a)      the act occurred while  the  partner  was  acting  in  the\n             ordinary course of the  partnership's  business  or  with  the\n             partnership's authority; and\n         (b)      for a loss or injury â the loss or injury is not  suffered\n             by a partner in the partnership.\n      (3)   For subsections (1) and (2), an act of a partner as  a  director\n         must not be taken to have occurred in the ordinary  course  of  the\n         firm's business or with the firm's authority only because of one or\n         more of the following:\n         (a)      the partner obtained the firm's agreement or authority  to\n             be appointed or to act as the director;\n         (b)      the remuneration the  partner  receives  as  the  director\n             forms part of the firm's income;\n         (c)      another partner in the firm is a director.\n      (4)   In this section:\n         director means:\n         (a)      a director of a corporation  within  the  meaning  of  the\n             Corporations Act 2001; or\n         (b)      a member of a body established by a law of the Territory."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Liability for misapplication of property",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Liability for misapplication of property",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 15",
+      "text": "(1)   A firm other than an incorporated limited partnership is  liable\n         for any loss arising from the misapplication  of  a  third  party's\n         property if:\n         (a)      the property was received and misapplied by a  partner  in\n             the firm acting within the scope  of  the  partner's  apparent\n             authority; or\n         (b)      the property:\n             (i) was received by the firm  in  the  course  of  the  firm's\n                  business; and\n             (ii)      was misapplied by one or more partners in  the  firm\n                  while it was in the firm's custody.\n      (2)   An incorporated limited  partnership  is  liable  for  any  loss\n         arising from the misapplication of a third party's property if:\n         (a)      the property was received  and  misapplied  by  a  general\n             partner in the partnership acting within  the  scope  of  that\n             partner's apparent authority; or\n         (b)      the property:\n             (i) was received by the  partnership  in  the  course  of  the\n                  partnership's business; and\n             (ii)      was misapplied by one or more  general  partners  in\n                  the partnership while it was in the partnership's custody.\n      (3)   In this section:\n         third party's property, in relation to a firm, means money or other\n         property belonging to someone other than the firm or a  partner  in\n         the firm."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Joint and several liabilities for wrongs",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Joint and several liabilities for wrongs",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 16",
+      "text": "(1)   Each partner in  a  firm  other  than  an  incorporated  limited\n         partnership  is  jointly  and  severally  liable  for  a  liability\n         referred to in section 14(1) or 15(1) incurred by  the  firm  while\n         the partner is that partner.\n      (2)   Each general partner in an incorporated limited  partnership  is\n         jointly and severally liable for a liability referred to in section\n         14(2) or 15(2)  incurred  by  the  partnership  while  the  general\n         partner is that general partner.\n      (3)   However, the general partner is only liable:\n         (a)      to the extent to which the partnership cannot satisfy  the\n             liability; or\n         (b)      to a greater extent provided by the partnership agreement."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Misuse of trust property",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Misuse of trust property",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 17",
+      "text": "(1)    A  partner  in  a  firm  other  than  an  incorporated  limited\n         partnership is not liable for the misuse of any trust property  for\n         the firm by a trustee of the trust who is another  partner  in  the\n         firm.\n      (2)   An incorporated limited partnership or general  partner  in  the\n         partnership is not liable for the misuse of any trust property  for\n         the partnership by a trustee of the trust who  is  another  general\n         partner in the partnership.\n      (3)   Subsection (1) or (2) does not:\n         (a)      affect any liability of a partner  in  the  firm  incurred\n             because the partner knew about a breach of the trust; and\n         (b)      prevent the tracing and recovery  of  the  trust  property\n             from the firm."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Representation as partner",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Representation as partner",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 18",
+      "text": "(1)   A person is liable  as  a  partner  in  a  firm  other  than  an\n         incorporated limited partnership to a  creditor  of  the  firm  who\n         provided the credit because of a representation that the person  is\n         that partner.\n      (2)   A person is liable as  a  general  partner  in  an  incorporated\n         limited partnership to a creditor of the partnership  who  provided\n         the credit because of a representation  that  the  person  is  that\n         general partner.\n      (3)   Subsection (1) or (2) has effect:\n         (a)      whether or not the representation was made by  the  person\n             or with the person's permission or knowledge; and\n         (b)      whether the representation was made orally, in writing  or\n             by conduct.\n      (4)   The estate of a partner in a firm is not  liable  for  any  debt\n         incurred by the firm after the partner's death only because,  after\n         the death:\n         (a)      the same firm name continues to be used; or\n         (b)      the partner's name continues to be used in the firm name."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Representations about firm's affairs",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Representations about firm's affairs",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 19",
+      "text": "(1)   A representation about a firm's affairs is evidence against  the\n         firm if the representation is made in the ordinary  course  of  the\n         firm's business by:\n         (a)      if the firm is not an incorporated limited partnership â a\n             partner in the firm; or\n         (b)      otherwise â a general partner in the firm.\n      (2)   For this section, a representation includes  an  admission,  and\n         may be made orally, in writing or by conduct."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Notice to acting partner is notice to firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Notice to acting partner is notice to firm",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 20",
+      "text": "(1)   Notice to a  partner  in  a  firm  other  than  an  incorporated\n         limited partnership about the firm's affairs is taken to be  notice\n         to the firm if:\n         (a)      the partner ordinarily acts in the firm's business; and\n         (b)      the notice  does  not  relate  to  a  fraud  on  the  firm\n             committed by or with the consent of the partner.\n       (2)    Notice  to  a  general  partner  in  an  incorporated  limited\n         partnership about the partnership's affairs is taken to  be  notice\n         to the partnership if:\n         (a)      the general partner ordinarily acts in  the  partnership's\n             business; and\n         (b)      the notice does not relate to a fraud on  the  partnership\n             committed by or with the consent of the general partner."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Liabilities of incoming and outgoing partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Liabilities of incoming and outgoing partners",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 21",
+      "text": "(1)   An entity does not, only because of the entity's admission as  a\n         partner in a firm other than an incorporated  limited  partnership,\n         become liable for a liability  incurred  by  the  firm  before  the\n         admission.\n      (2)   An entity does not, only because of the entity's  retirement  as\n         a partner in the firm, cease to be liable for a liability  incurred\n         by the firm before the retirement.\n      (3)   An entity does not, only because of the entity's admission as  a\n         general partner in  an  incorporated  limited  partnership,  become\n         liable for a liability  incurred  by  the  partnership  before  the\n         admission.\n      (4)   An entity does not, only because of the entity's  retirement  as\n         a general partner in the partnership, cease  to  be  liable  for  a\n         liability incurred by the partnership before the retirement.\n      (5)   A retiring  partner  in  a  firm  may  be  discharged  from  any\n         existing liabilities of the firm by an agreement between:\n         (a)      the partner; and\n         (b)      the firm's creditors; and\n         (c)      if the firm is not an incorporated limited  partnership  â\n             the partners in the firm as newly constituted; and\n         (d)      if the firm is an incorporated limited partnership  â  the\n             partnership.\n      (6)   The agreement may be expressed or inferred from the  conduct  of\n         anyone referred to in subsection (5)."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Revocation of continuing guarantee",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Revocation of continuing guarantee",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 2 Relationship of partners to persons dealing with them > Section 22",
+      "text": "(1)   A continuing guarantee given to a firm or to a third  person  in\n         respect of the transactions  of  a  firm  is,  in  the  absence  of\n         agreement to the contrary, revoked as to future transactions  by  a\n         change in the constitution of the firm to which, or of the firm  in\n         respect of the transactions of which, the guarantee was given.\n       (2)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership.\nDivision 3  Relationship between partners"
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Variation by consent of terms of partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Variation by consent of terms of partnership",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 23",
+      "text": "(1)   The mutual rights and duties of  partners,  whether  ascertained\n         by agreement or defined by this Act, may be varied by  the  consent\n         of all the partners.\n      (2)   Consent under subsection (1) may be express or inferred  from  a\n         course of dealings."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Partnership property",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Partnership property",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 24",
+      "text": "(1)   The partnership property of a firm consists of property and  any\n         rights and interests in property that were originally brought into,\n         or are subsequently acquired for, the firm.\n      (2)   The partners of  a  firm  other  than  an  incorporated  limited\n         partnership must, in accordance  with  the  partnership  agreement,\n         hold and apply the partnership property exclusively for the firm.\n      (3)   However, any  partnership  property  of  the  firm  that  is  an\n         interest in land must devolve:\n         (a)      according to its nature and tenure and the general rule of\n             law; and\n         (b)      in trust so far  as  necessary  for  persons  beneficially\n             interested in the land.\n      (4)   If:\n         (a)      the co-owners of an interest in land (the first  interest)\n             are partners in the firm in relation to profits  made  by  the\n             use of the first interest; and\n         (b)      the first interest is not  partnership  property  for  the\n             firm; and\n         (c)      the co-owners use the profits to purchase another interest\n             in land (the second interest) to be used in a similar manner,\n         then, subject to any agreement to the contrary, the co-owners must,\n         from the date of the purchase, hold the second interest in the same\n         manner as the first property is held.\n      (5)   An incorporated limited partnership  must  hold  and  apply  the\n         partnership  property  of  the  partnership  exclusively  for   the\n         partnership.\n      (6)   A partner  in  the  partnership  does  not  have  any  legal  or\n         beneficial interest in the property only because the partner is the\n         partner.\n      (7)   For this section, an interest in  land  includes  an  estate  in\n         land."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Property bought with partnership money",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Property bought with partnership money",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 25",
+      "text": "Unless the contrary intention appears, property bought  with  money\n         belonging to a firm is to be taken to have been bought  on  account\n         of the firm."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Personal estate held as partnership property",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Personal estate held as partnership property",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 26",
+      "text": "(1)   Unless the contrary intention appears, land or  an  interest  in\n         land that is partnership property is to be treated, as between  the\n         partners (including the representatives of a deceased partner),  as\n         personal estate.\n       (2)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Procedure against partnership property for partner's separate",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Procedure against partnership property for partner's separate",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 27",
+      "text": "judgment debt\n      (1)   A writ of execution may not issue against  partnership  property\n         except on a judgment against the firm.\n      (2)   The  Supreme  Court  may,  on  the  application  of  a  judgment\n         creditor of  a  partner,  make  an  order  charging  the  partner's\n         interest in the partnership property and profits  with  payment  of\n         the amount of the judgment debt and interest, and may, by the  same\n         or a subsequent order, appoint a receiver of the partner's share of\n         profits (whether already declared or accruing)  and  of  any  other\n         money that  may  be  coming  to  the  partner  in  respect  of  the\n         partnership, and direct all accounts and  inquiries  and  give  all\n         other orders and directions that might have been directed or  given\n         if the charge had been made in favour of the judgment  creditor  by\n         the partner, or which the circumstances of the case may require.\n      (3)   The other partner or partners  may,  at  any  time,  redeem  the\n         interest charged or, in case of a sale being directed, purchase the\n         property directed to be sold.\n      (4)   Subsections (2) and (3) do not apply to an incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Rules about interests and duties of partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Rules about interests and duties of partners",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 28",
+      "text": "(1)   The  interest  of  a  partner  in  partnership  property  and  a\n         partner's rights and duties in relation to the partnership  are  to\n         be determined, subject to an express or implied  agreement  between\n         the partners, by the following rules:\n         (a)      all partners are entitled to share equally in the  capital\n             and profits  of  the  business  and  must  contribute  equally\n             towards the losses, whether of capital or otherwise, sustained\n             by the firm;\n         (b)      the firm must indemnify a partner in respect  of  payments\n             made and personal liabilities incurred by the partner:\n             (i) in the ordinary and proper conduct of the business of  the\n                  firm; or\n             (ii)      in  or  about  anything  necessarily  done  for  the\n                  preservation of the business or property of the firm;\n         (c)      a partner who makes an actual payment or advance  for  the\n             purpose of the partnership beyond the amount of  capital  that\n             the partner has agreed to subscribe is entitled to interest at\n             the rate of 7% per annum from  the  date  of  the  payment  or\n             advance;\n         (d)      a partner is not entitled, before profits are ascertained,\n             to interest on the capital subscribed by the partner;\n         (e)       a  partner  may  take  part  in  the  management  of  the\n             partnership business;\n         (f)      a partner is not entitled to remuneration  for  acting  in\n             the partnership business;\n         (g)      a person may not be introduced as a  partner  without  the\n             consent of all existing partners;\n         (h)      a difference arising as to an  ordinary  matter  connected\n             with the partnership business may be decided by a majority  of\n             the partners but no change may be made in the  nature  of  the\n             partnership business  without  the  consent  of  all  existing\n             partners;\n         (j)      the partnership books are to  be  kept  at  the  place  of\n             business of the partnership (or the principal place  if  there\n             is more than one) and a partner may, when  he  or  she  thinks\n             fit, have access to, inspect and copy the partnership books.\n       (2)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Expulsion of partner",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Expulsion of partner",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 29",
+      "text": "A majority of partners cannot expel a partner unless a power to  do\n         so is conferred by express agreement between the partners."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Retirement from partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Retirement from partnership",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 30",
+      "text": "(1)   Where a fixed term is not  agreed  on  for  the  duration  of  a\n         partnership, a partner may determine the partnership at any time by\n         giving notice of his or  her  intention  to  do  so  to  the  other\n         partners.\n      (2)   Where a  partnership  was  originally  constituted  by  deed,  a\n         notice in writing, signed by the partner giving it, is  notice  for\n         the purposes of subsectionÂ (1).\n       (3)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Continuance of partnership on old terms",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Continuance of partnership on old terms",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 31",
+      "text": "(1)   Where a partnership entered into for a fixed term  is  continued\n         after the term expires, and without any express new agreement,  the\n         rights and duties of the partners remain the same as they  were  at\n         the expiration of the term,  so  far  as  is  consistent  with  the\n         incidents of a partnership at will.\n      (2)   A continuance of the business by the partners or those  partners\n         as habitually acted  as  partners  during  the  term,  without  any\n         settlement or liquidation of the partnership affairs,  is  presumed\n         to be a continuance of the partnership.\n       (3)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Duty of partner to give information",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Duty of partner to give information",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 32",
+      "text": "(1)    A  partner  in  a  firm  other  than  an  incorporated  limited\n         partnership must give accurate and complete information  about  the\n         firm to each of the other partners in the firm.\n      (2)   Subject to the partnership agreement,  an  incorporated  limited\n         partnership must give accurate and complete information  about  the\n         partnership to each partner in the partnership."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Accountability of partners for private profits",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Accountability of partners for private profits",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 33",
+      "text": "(1)   A partner must account to the firm for a benefit derived by  the\n         partner, without the consent of the other partners, from:\n         (a)      a transaction concerning the partnership; or\n         (b)      a use by the partner of the partnership property, name  or\n             business connection.\n       (2)    This  section  applies  to  transactions  undertaken  after  a\n         partnership is dissolved by the death of a partner and  before  the\n         affairs of the partnership are completely  wound  up  either  by  a\n         surviving  partner  or  by  the  representatives  of  the  deceased\n         partner.\n       (3)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Duty of partner not to compete with firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Duty of partner not to compete with firm",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 34",
+      "text": "(1)   If a  partner,  without  the  consent  of  the  other  partners,\n         carries on a business of the same nature as and competing with that\n         of the firm, the partner must account for and pay over to the  firm\n         all profits made by the partner in the business.\n       (2)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Rights of assignee of share in partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Rights of assignee of share in partnership",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 3 Relationship between partners > Section 35",
+      "text": "(1)   An  assignment  by  a  partner  of  his  or  her  share  in  the\n         partnership, either absolute or by way of  mortgage  or  redeemable\n         charge, does not,  as  against  the  other  partners,  entitle  the\n         assignee, while the partnership continues:\n         (a)      to interfere in the management or  administration  of  the\n             partnership business or affairs;\n         (b)      to require any accounts of the  partnership  transactions;\n             or\n         (c)      to inspect the partnership books.\n      (2)   An assignee:\n         (a)      is entitled to receive the share of profits to  which  the\n             assigning partner would otherwise be entitled; and\n         (b)      must accept the  account  of  profits  agreed  to  by  the\n             partners.\n      (3)   In the case of  a  dissolution  of  a  partnership,  whether  as\n         respects all the partners or an assigning partner, the assignee  is\n         entitled:\n         (a)      to receive the share of the partnership  assets  to  which\n             the assigning partner is entitled as between the  partner  and\n             the other partners; and\n         (b)      for the purpose of ascertaining that share, to an  account\n             as from the date of the dissolution.\n       (4)    This  section  does  not  apply  to  an  incorporated  limited\n         partnership.\nDivision 4  Dissolution of partnership"
+    },
+    {
+      "key": "section:35A",
+      "title": "Section 35A - Application",
+      "main_structural_unit": "section",
+      "main_structural_number": "35A",
+      "main_structural_heading": "Application",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 35A",
+      "text": "This  Division  does  not  apply   to   an   incorporated   limited\n         partnership."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Dissolution by expiration or notice",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Dissolution by expiration or notice",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 36",
+      "text": "(1)   Subject to an agreement between the partners, a  partnership  is\n         dissolved:\n         (a)      if entered into for a fixed term, by the expiration of the\n             term;\n         (b)      if entered into for a single venture  or  undertaking,  by\n             the termination of the venture or undertaking; or\n         (c)      if entered into for an undefined time, by a partner giving\n             notice to  the  other  partner  or  partners  of  his  or  her\n             intention to dissolve the partnership.\n      (2)   In subsection (1)(c), the  partnership  is  dissolved  from  the\n         date mentioned in the notice as the date of dissolution or,  if  no\n         date is mentioned, from the date notice is given."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Dissolution by death, bankruptcy or charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Dissolution by death, bankruptcy or charge",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 37",
+      "text": "(1)   Subject to an agreement between the partners, a  partnership  is\n         dissolved as regards all the partners by the death or bankruptcy of\n         a partner.\n      (2)   A partnership may, at the  option  of  the  other  partners,  be\n         dissolved if a partner permits his or her share of the  partnership\n         property to be charged under this Act for his or her separate debt."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Dissolution by illegality of partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Dissolution by illegality of partnership",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 38",
+      "text": "A partnership is dissolved on an  event  happening  that  makes  it\n         unlawful for the business of the firm to be carried on or  for  the\n         members of the firm to carry it on in partnership."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Dissolution by Court",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Dissolution by Court",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 39",
+      "text": "(1)    A  partner  may  apply  to  the  Supreme  Court  for  an  order\n         dissolving the partnership in the following cases:\n         (a)      when a partner is found to be mentally ill;\n         (b)      when a partner, other than the partner suing,  becomes  in\n             any other way permanently incapable of performing his  or  her\n             part of the partnership contract;\n         (c)      when a partner, other than the partner suing, is guilty of\n             conduct that in the opinion of the Court, regard being had  to\n             the nature of the business,  is  calculated  to  prejudicially\n             affect the carrying on of the business;\n         (d)      when a partner, other than the partner suing, wilfully  or\n             persistently commits a breach of the partnership agreement  or\n             conducts  himself  or  herself  in  matters  relating  to  the\n             partnership business that it is not reasonably practicable for\n             the other partner or partners to  carry  on  the  business  in\n             partnership with the partner;\n         (e)      when the business of the partnership can only  be  carried\n             on at a loss;\n         (f)      whenever circumstances arise that, in the opinion  of  the\n             Court, make it just and  equitable  that  the  partnership  be\n             dissolved.\n      (2)   An application for an order under subsection (1)(a) may be  made\n         on behalf of the partner by a person having title to  intervene  as\n         by any other partner."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Rights of persons dealing with firm against apparent members of firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Rights of persons dealing with firm against apparent members of firm",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 40",
+      "text": "(1)   Where a  person  deals  with  a  firm  after  a  change  in  its\n         constitution, the person is entitled to treat all apparent  members\n         of the old firm as still being members until the person has  notice\n         of the change.\n      (2)   For the purposes of subsection  (1),  an  advertisement  in  the\n         Gazette and in a newspaper circulating in the area in which a  firm\n         carries on business, as to a firm whose principal place of business\n         is in the Territory, is notice to a person who has not had dealings\n         with the  firm  before  the  date  of  the  dissolution  or  change\n         advertised.\n      (3)   The estate of a partner who dies  or  becomes  bankrupt  is  not\n         liable for partnership debts  contracted  after  the  date  of  the\n         partner's death or bankruptcy.\n      (4)   The estate of a partner who has retired and who  was  not  known\n         to a person dealing with the firm to be a partner is not liable for\n         partnership debts  contracted  after  the  date  of  the  partner's\n         retirement."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Right of partners to notify dissolution",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Right of partners to notify dissolution",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 41",
+      "text": "(1)   On the dissolution of a  partnership  or  the  retirement  of  a\n         partner, a partner must notify the dissolution or retirement:\n         (a)      in the Gazette; and\n         (b)      in a newspaper circulating in the area in which  the  firm\n             carries on business.\n      (2)   The partner may require the other partner or partners to  agree,\n         for the purpose of subsection (1), in all necessary or proper  acts\n         (if any) that cannot be done without his or her or their agreement."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Continuing authority of partners for purposes of winding up",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Continuing authority of partners for purposes of winding up",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 42",
+      "text": "(1)   After the dissolution of  a  partnership,  the  authority  of  a\n         partner to bind the firm and the other rights  and  obligations  of\n         the partners continue notwithstanding the dissolution so far as  is\n         necessary to wind up the affairs of the partnership and to complete\n         transactions begun but not finished at the time of the dissolution,\n         but not otherwise.\n      (2)   A firm is in no case bound by the acts  of  a  partner  who  has\n         become bankrupt but this subsection does not affect  the  liability\n         of a person who has after the  bankruptcy  represented  himself  or\n         herself or knowingly permitted himself or herself to be represented\n         as a partner of the bankrupt."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Rights of partners as to application of partnership property",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Rights of partners as to application of partnership property",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 43",
+      "text": "(1)   On the dissolution of a partnership, a partner is  entitled,  as\n         against the other partners in the firm  and  all  persons  claiming\n         through them in respect of their interests as partners:\n         (a)      to have the property of the partnership applied in payment\n             of the debts and liabilities of the firm; and\n         (b)      to have the surplus assets applied in payment of what  may\n             be due to the partners respectively after  deducting  what  is\n             due from them as partners to the firm.\n      (2)   For the purpose of subsection (1),  a  partner  or  his  or  her\n         representatives may, on the termination of the  partnership,  apply\n         to the court to wind up the business and affairs of the firm."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Apportionment of premium where partnership prematurely dissolved",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Apportionment of premium where partnership prematurely dissolved",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 44",
+      "text": "Where one partner has paid a premium to another on entering into  a\n         partnership for a fixed  term  and  the  partnership  is  dissolved\n         before the expiration of the term, otherwise than by the death of a\n         partner, the Supreme Court may order the repayment of  the  premium\n         or of a part of it as it thinks just, having regard to the terms of\n         the partnership contract and to the length of time the  partnership\n         has continued, unless:\n         (a)      the dissolution is, in the opinion of the Court, wholly or\n             chiefly due to the misconduct of  the  partner  who  paid  the\n             premium; or\n         (b)      the partnership has been dissolved by  an  agreement  that\n             does not contain a provision for a return of any part  of  the\n             premium."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Rights where partnership dissolved for fraud or misrepresentation",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Rights where partnership dissolved for fraud or misrepresentation",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 45",
+      "text": "Where a partnership contract is rescinded  on  the  ground  of  the\n         fraud or misrepresentation  of  one  of  the  partners,  a  partner\n         entitled to rescind the contract is, without prejudice to any other\n         right, entitled:\n         (a)      to a lien on, or right of retention of, the surplus of the\n             partnership   assets,   after   satisfying   the   partnership\n             liabilities for any sum of money paid by the partner  for  the\n             purchase of a share in the partnership  and  for  any  capital\n             contributed by the partner;\n         (b)      to stand in the place of the creditors of the firm for any\n             payments made by the partner in  respect  of  the  partnership\n             liabilities; and\n         (c)      to be indemnified by the person guilty  of  the  fraud  or\n             making  the  representation  against   all   the   debts   and\n             liabilities of the firm."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Share of profits made after dissolution",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Share of profits made after dissolution",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 46",
+      "text": "(1)   Where a partner dies or otherwise ceases to  be  a  partner  and\n         the surviving or continuing partners carry on the business  of  the\n         firm with its capital or assets without  any  final  settlement  of\n         accounts as between the firm and the outgoing partner or his or her\n         estate, then, in the absence of an agreement to the  contrary,  the\n         outgoing partner or his or her estate is entitled, at  his  or  her\n         option or the option of his or her representatives:\n         (a)      to the share of the profits made since the dissolution  as\n             the Supreme Court may find to be attributable to  the  use  of\n             his or her share of the partnership assets; or\n         (b)      to interest at the rate of 7% per annum on the  amount  of\n             his or her share of the partnership assets.\n      (2)   Subsection (1) does not apply where by the partnership  contract\n         an option is given to surviving or continuing partners to  purchase\n         the interest of a deceased or outgoing partner and  the  option  is\n         duly exercised except where a partner assuming to act  in  exercise\n         of the option does not, in all material respects, comply  with  the\n         terms of the partnership agreement."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Retiring or deceased partner's share to be debt",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Retiring or deceased partner's share to be debt",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 47",
+      "text": "Subject to an agreement between the partners, the amount  due  from\n         surviving or continuing partners to  an  outgoing  partner  or  the\n         representative of a deceased partner, in respect of the outgoing or\n         deceased partner's share, is a debt accruing at  the  date  of  the\n         dissolution or death."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Rule for distribution of assets on final settlement of accounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Rule for distribution of assets on final settlement of accounts",
+      "defined_term": null,
+      "structure_path": "Part 2 Partnerships generally > Division 4 Dissolution of partnership > Section 48",
+      "text": "In settling accounts between the partners, after a  dissolution  of\n         partnership, the following rules are, subject to any agreement,  to\n         be observed:\n         (a)      losses, including losses and deficiencies of capital,  are\n             to be paid first out of  profits,  next  out  of  capital  and\n             lastly, if necessary, by  the  partners  individually  in  the\n             proportion in which they were entitled to share profits;\n         (b)      the assets of  the  firm,  including  the  sums,  if  any,\n             contributed by the partners to make up losses or  deficiencies\n             of capital, are to be applied  in  the  following  manner  and\n             order:\n             (i) in paying the debts and liabilities of the firm to persons\n                  who are not partners;\n             (ii)      in paying to a partner, rateably, what is  due  from\n                  the firm to the partner for advances as distinguished from\n                  capital;\n             (iii)     in paying to a partner, rateably, what is  due  from\n                  the firm to the partner in respect of capital;\n             (iv)      the residue, if any, is  to  be  divided  among  the\n                  partners in the proportion in which profits are divisible.\nPart 3      Incorporated limited partnerships\nDivision 1  Preliminary matters"
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Object",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Object",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 1 Preliminary matters > Section 49",
+      "text": "The object of this Part is to  facilitate  the  making  of  venture\n         capital investments in the Northern Territory."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Application",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Application",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 1 Preliminary matters > Section 50",
+      "text": "If this Part is inconsistent with a provision of Part 1 or 2 in its\n         application to an incorporated limited partnership:\n         (a)      this Part prevails; and\n         (b)       the  provision  does  not,   to   the   extent   of   the\n             inconsistency, apply to the partnership.\nDivision 2  Formation of incorporated limited partnerships"
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Formation",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Formation",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 51",
+      "text": "An incorporated limited partnership is formed on its registration."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Nature of incorporated limited partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Nature of incorporated limited partnership",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 52",
+      "text": "(1)   An incorporated limited partnership:\n         (a)      is a  corporation  with  perpetual  succession  and  legal\n             personality separate from its partners; and\n         (b)      may have a common seal; and\n         (c)      may sue and be sued in its firm name.\n      (2)   The common seal must be kept as the partnership directs and  may\n         only be used as authorised by the partnership."
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Requirements about partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Requirements about partners",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 53",
+      "text": "(1)   An incorporated limited partnership must have:\n         (a)      at least one general partner but not more than 20  general\n             partners; and\n         (b)      at least one limited partner.\n      (2)   Any of the  following  may  be  a  general  partner  or  limited\n         partner:\n         (a)      a natural person;\n         (b)      a partnership;\n         (c)      an incorporated body.\n      (3)   For subsection (1)(a), if a general partner  is  a  partnership,\n         the number of partners in that partnership that do not have limited\n         liability as partners under the law of the place where it is formed\n         must be counted as general partners.\n      (4)   To avoid doubt:\n         (a)      the number of partners in a  partnership  referred  to  in\n             subsection (3) may be worked out in  accordance  with  one  or\n             more applications of that subsection; and\n         (b)      an entity must be counted only once for subsection (3)  if\n             it is a partner in more than one partnership; and\n         (c)      if a partner in a partnership is counted, the  partnership\n             itself must not be counted."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Partnership agreement",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Partnership agreement",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 54",
+      "text": "(1)   There must be a written agreement between  the  partners  in  an\n         incorporated limited partnership (the partnership  agreement)  that\n         sets out the interests, rights and obligations of the partners.\n      (2)   On the partnership's  registration,  the  partnership  agreement\n         has effect as a contract between the partnership and the partners."
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Who may apply for registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Who may apply for registration",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 55",
+      "text": "(1)   Either of the following may apply for  the  registration  of  an\n         incorporated limited partnership:\n         (a)      the partnership proposed to be registered;\n         (b)      the proposed partners in the proposed incorporated limited\n             partnership.\n      (2)   The application may  only  be  made  in  any  of  the  following\n         circumstances:\n         (a)      the partnership referred to  in  subsection  (1)(a)  is  a\n             VCLP, AFOF or VCMP;\n         (b)      a general  partner  in  the  partnership  referred  to  in\n             subsectionÂ (1)(a) intends to apply for the registration of the\n             partnership under the Venture Capital Act 2002 (Cth) as a VCLP\n             or AFOF;\n         (c)      a proposed general partner  in  the  proposed  partnership\n             referred to in subsection (1)(b)  intends  to  apply  for  the\n             registration of the  partnership  under  the  Venture  Capital\n             ActÂ 2002 (Cth) as a VCLP or AFOF;\n         (d)      the partners in the partnership referred to in  subsection\n             (1)(a) intend to meet the requirements in  section  94D(3)  of\n             the Income Tax Assessment Act 1936 (Cth) for the partnership's\n             recognition as a VCMP;\n         (e)      the proposed partners in the proposed partnership referred\n             to in subsection (1)(b) intend to  meet  the  requirements  in\n             sectionÂ 94D(3) of the Income Tax Assessment Act 1936 (Cth) for\n             the partnership's recognition as a VCMP;\n         (f)      any other circumstance prescribed by the Regulations."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Application for registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Application for registration",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 56",
+      "text": "(1)   An  application  for  the  registration  must  be  made  to  the\n         Commissioner in the approved form.\n       (2)    The  applicant  must  give  the  Commissioner  any  additional\n         information required by the Commissioner.\n      (3)   Without limiting subsection (1), the approved form must  require\n         the following to be included in the application:\n         (a)      for  an  application  by  a  partnership  referred  to  in\n             sectionÂ 55(1)(a):\n             (i) the signature of each partner  in  the  partnership  or  a\n                  person authorised to make the application on behalf of the\n                  partnership and its partners; and\n             (ii)      the partnership's firm name; and\n             (iii)     the full address of the proposed principal office in\n                  the Territory of the partnership;\n         (b)      for an application by the proposed partners in a  proposed\n             partnership referred to in section 55(1)(b):\n             (i) the signature of each proposed partner; and\n             (ii)      the proposed firm name of the proposed  partnership;\n                  and\n             (iii)     the full address of the proposed principal office in\n                  the Territory of the proposed partnership;\n         (c)      the following particulars about the name of  each  partner\n             or proposed partner (as the case may be):\n             (i) the full name of the partner or proposed partner;\n             (ii)      if the partner or proposed partner is a  partnership\n                  â its firm name or the full name of each of its partners;\n         (d)      the  following  particulars  about  the  address  of  each\n             partner or proposed partner (as the case may be):\n             (i) for a natural person â the person's home address;\n             (ii)      for a corporation  â  the  corporation's  registered\n                  office or principal place of business;\n             (iii)     for a partnership  â  the  partnership's  registered\n                  office or principal place of business;\n         (e)      a statement as to whether each partner or proposed partner\n             (as the case may be) is, or  is  proposed  to  be,  a  general\n             partner or limited partner;\n         (f)      a statement as to whether each partner or proposed partner\n             (as the case may be) is a partnership;\n         (g)       for  an  application  in  the  circumstance  covered   by\n             sectionÂ 55(2)(a) â a copy of a document evidencing the  status\n             of the partnership as a VCLP, AFOF or VCMP;\n         (h)       for  an  application  in  the  circumstance  covered   by\n             sectionÂ 55(2)(b), (c),  (d)  or  (e)  â  a  statement  of  the\n             intention referred to in that section;\n         (i)       for  an  application  in  the  circumstance  covered   by\n             sectionÂ 55(2)(f) â a statement setting out the circumstance."
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Registration",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 57",
+      "text": "(1)    The  Commissioner  must  register  a  partnership  or  proposed\n         partnership  as  an  incorporated   limited   partnership   if   an\n         application for the registration is made under section 56.\n      (2)   The registration is  made  when  the  Commissioner  records  the\n         information in the application (the registered information) in  the\n         register.\n      (3)   However, the Commissioner may record a firm  name  only  if  the\n         Commissioner  considers  the  firm  name  would  be  eligible   for\n         registration  as  a  business  name  under   the   Business   Names\n         Registration Act 2011 (Cth)."
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Register",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 58",
+      "text": "(1)   The Commissioner must  establish  and  maintain  a  register  of\n         incorporated limited partnerships.\n      (2)   The  Commissioner  may  correct  errors  and  omissions  in  the\n         register.\n      (3)    The  register  must  be  available  for  public  inspection  at\n         reasonable times."
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Changes of registered information",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Changes of registered information",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 59",
+      "text": "(1)   Within 7 days after a change has occurred to  a  matter  in  the\n         registered information of an incorporated  limited  partnership,  a\n         statement setting out the change and  signed  by  all  the  general\n         partners in the partnership, or a  general  partner  authorised  by\n         those partners, must be given to the Commissioner.\n      (2)   The statement must:\n         (a)      be in the approved form; and\n         (b)      contain the information prescribed by the Regulations.\n      (3)   The Commissioner must, on the basis  of  the  statement,  change\n         the registered information if the statement  is  given  under  this\n         section.\n      (4)   Each general partner in the partnership commits  an  offence  if\n         subsection (1) is contravened.\n         Maximum penalty:    If the offender is a natural person â\n                            20Â penalty units.\n            If the offender is a body corporate â 100Â penalty units.\n      (5)   It is a defence to a prosecution for the offence if the  general\n         partner proves that:\n         (a)      the general partner did not know about the  contravention;\n             and\n         (b)      reasonable precautions and appropriate diligence had  been\n             exercised to avoid the contravention."
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Certificate of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Certificate of registration",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 60",
+      "text": "(1)   The Commissioner may, on the application of a person,  give  the\n         applicant a certificate of registration of an incorporated  limited\n         partnership.\n       (2)    The  Commissioner  must  give  the  general  partners  in   an\n         incorporated limited partnership a certificate of registration each\n         time when:\n         (a)      the partnership is registered; or\n         (b)      a correction in the register is made in  relation  to  the\n             partnership; or\n         (c)      the registered information of the partnership is otherwise\n             changed.\n      (3)    A  certificate  of  registration  of  an  incorporated  limited\n         partnership:\n         (a)      is a certificate about the partnership's registration  and\n             its registered information as at the time when the certificate\n             is given; and\n         (b)      must be in the approved form.\n      (4)   A matter stated in a certificate  of  registration  is  evidence\n         about that matter."
+    },
+    {
+      "key": "section:62",
+      "title": "Section 62 - Preparatory acts do not create partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "62",
+      "main_structural_heading": "Preparatory acts do not create partnership",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 2 Formation of incorporated limited partnerships > Section 62",
+      "text": "Anything done for an application by the proposed partners  referred\n         to in section 55(1)(b) does not  of  itself  create  a  partnership\n         between them.\nDivision 3  Powers and liabilities of partnership"
+    },
+    {
+      "key": "section:63",
+      "title": "Section 63 - Powers of partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "63",
+      "main_structural_heading": "Powers of partnership",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 63",
+      "text": "(1)   An incorporated limited partnership has:\n         (a)      the legal capacity and powers of a natural person; and\n         (b)      the powers of a corporation.\n      (2)   Without limiting subsection (1), the partnership has the  powers\n         to:\n         (a)       create,  confer,  vary  or  cancel   interests   in   the\n             partnership; and\n         (b)      carry on its business; and\n         (c)      enter  into  contracts  or  otherwise  acquire  rights  or\n             liabilities; and\n         (d)      acquire, hold or dispose of property; and\n         (e)      appoint agents and attorneys, and  act  as  an  agent  for\n             other people; and\n         (f)      form, and participate in the formation  of,  corporations;\n             and\n         (g)      participate in partnerships, trusts, joint ventures, other\n             associations  and  other  arrangements  for  the  sharing   of\n             profits; and\n         (h)      do anything else it is authorised to do under this Part or\n             the partnership agreement.\n      (3)   The partnership agreement may limit the partnership's powers."
+    },
+    {
+      "key": "section:64",
+      "title": "Section 64 - Relationship between partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "64",
+      "main_structural_heading": "Relationship between partners",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 64",
+      "text": "(1)   Subject to sections 66  and  67,  this  section  has  effect  in\n         relation to an incorporated limited partnership.\n      (2)   None of the following is an agent of a limited  partner  in  the\n         partnership:\n         (a)      the partnership or a general partner in the partnership;\n         (b)      an officer,  employee,  agent  or  representative  of  the\n             partnership or a general partner in the partnership.\n      (3)   An act of a person referred to in subsection (2)(a) or (b)  does\n         not bind a limited partner in the partnership.\n      (4)   A limited partner in the partnership is not an agent  of,  or  a\n         fiduciary  for,  the  partnership  or  another   partner   in   the\n         partnership.\n      (5)   An act of a limited partner in the  partnership  does  not  bind\n         the partnership or another partner in the partnership.\n      (6)   To avoid doubt, subsections (2) to (5) do not prevent  or  limit\n         an agreement between a  partner  (the  first  entity)  and  another\n         partner or the partnership (the second entity) under which:\n         (a)      the first entity binds the second entity by acting as  its\n             agent; or\n         (b)      the partnership binds the first  entity  by  acting  as  a\n             partner's agent.\n      (7)   Any consent or authority that  may  be  given  by  one  or  more\n         partners in a partnership under this Act may be given by a  general\n         partner in the partnership.\n      (8)   The operation of subsection (7) may be varied  by  an  agreement\n         in the partnership.\n      (9)   A limited partner, as that limited partner, may not be  a  party\n         to any proceeding commenced in a court or tribunal  by  or  against\n         the partnership except for any proceeding:\n         (a)      commenced by the partnership against the limited  partner;\n             or\n         (b)      commenced by the limited partner against the partnership.\n      (10)  For this section, a reference to a general  partner  that  is  a\n         partnership  includes  a  reference  to  each   partner   in   that\n         partnership."
+    },
+    {
+      "key": "section:65",
+      "title": "Section 65 - Liability of limited partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "65",
+      "main_structural_heading": "Liability of limited partners",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 65",
+      "text": "(1)   Subject  to  sections  66  and  67,  a  limited  partner  in  an\n         incorporated  limited   partnership   is   not   liable   for   the\n         partnership's liabilities or the liabilities of a  general  partner\n         in the partnership.\n      (2)   However, this section does not prevent  the  satisfaction  of  a\n         liability of the partnership or general partner by:\n         (a)      a contribution of the limited partner; or\n         (b)      the enforcement of an obligation of the limited partner to\n             make such a contribution."
+    },
+    {
+      "key": "section:66",
+      "title": "Section 66 - Limited partners not to take part in management",
+      "main_structural_unit": "section",
+      "main_structural_number": "66",
+      "main_structural_heading": "Limited partners not to take part in management",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 66",
+      "text": "(1)   A limited partner in an incorporated  limited  partnership  must\n         not take part in managing the partnership's business.\n      (2)   However, to the extent to which the  partner  is  authorised  by\n         the partnership agreement to do so, the partner may:\n         (a)       access,  inspect  or  copy  the  partnership's  books  or\n             records; and\n         (b)      examine  the  state  or  prospects  of  the  partnership's\n             business; and\n         (c)      advise, or consult with, any partners in  the  partnership\n             in relation to the state or  prospects  of  the  partnership's\n             business.\n      (3)   In addition, the limited partner is liable as a general  partner\n         in the partnership for any loss or injury caused by the partner  to\n         a person other than a partner in the partnership if:\n         (a)      the loss or injury is a direct result of  a  wrongful  act\n             (including omission) of the limited partner in taking part  in\n             managing the partnership's business; and\n         (b)      at the time of the act the person has  reasonable  grounds\n             to believe that the limited partner was a general  partner  in\n             the partnership.\n      (4)   The operation  of  this  section  must  not  be  varied  by  the\n         partnership agreement or any other agreement between the partners.\n      (5)   For this section, a reference to the limited partner includes  a\n         reference to a person acting for the limited partner."
+    },
+    {
+      "key": "section:67.p1",
+      "title": "Section 67 - Circumstances in which limited partner not regarded as taking part in",
+      "main_structural_unit": "section",
+      "main_structural_number": "67",
+      "main_structural_heading": "Circumstances in which limited partner not regarded as taking part in",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 67",
+      "text": "management (1) For section 66, the limited partner must not be regarded as taking part in managing the partnership's business only because one or more of subsections (2) to (12) apply. (2) This subsection applies if the partner is employed or engaged by: (a) the partnership; or (b) a general partner in the partnership; or (c) an associate of a general partner in the partnership. (3) This subsection applies if the partner: (a) gives advice to or for any of the following entities: (i) the partnership; (ii) a general partner in the partnership; (iii) an associate of a general partner in the partnership; and (b) the advice is given in the proper performance of functions arising: (i) from the engagement of the partner in a professional capacity; or (ii) from business dealings between the partner and an entity referred to in paragraph (a). (4) This subsection applies if the partner gives a guarantee or indemnity in relation to a liability of: (a) the partnership; or (b) a general partner in the partnership; or (c) an associate of a general partner in the partnership. (5) This subsection applies if the partner takes any action, or participates in any action taken by other limited partners, for the purposes of: (a) enforcing the limited partner's rights as the limited partner; or (b) safeguarding the limited partner's interests as the limited partner. (6) This subsection applies if the partner exercises a power under the partnership agreement for: (a) a meeting of the partnership; or (b) a resolution of some or all of the partners in the partnership. (7) This subsection applies if the partner exercises a power referred to in section 66(2)(a), (b) or (c) under that section. (8) This subsection applies if the partner: (a) advises or consults with an associate of the partnership; or (b) is, or acts as, an officer, director, security holder, partner, agent or representative of an associate of the partnership; or (c) is, or acts as, a person employed or engaged by an associate of the partnership; or (d) is, or acts as, a lender to, or fiduciary for, an associate of the partnership. (9) This subsection applies if the partner, as authorised by the partnership agreement: (a) participates in, or has or exercises a right in relation to, the appointment, removal or nomination of a person as a member of a committee; and (b) the committee has functions that relate to one or more of the following proposals from a general partner in the partnership: (i) a proposal involving a material change in the nature of the partnership's business (including a change in any investment guidelines, policies or conditions relating to the business); (ii) a proposal for the adoption of a method for valuing some or all of the partnership's assets (including any changes to the existing method); (iii) a proposal for an extension or reduction in the period in which, under the partnership agreement, an investment can be made by the partnership; (iv) a proposal for an approval or disapproval of an investment that the partnership does not otherwise have a right to make; (v) a proposal for an actual or potential transaction or anything else involving an actual or potential conflict of interest; (vi) a proposal relating to an actual or potential transaction, contract, arrangement or understanding between one or more partners in the partnership (or any of their associates) and the partnership or a general partner in the partnership (or any of their associates); (vii) a proposal for the delegation, waiver, release or variation of an authority, right, duty or obligation of the general partner; (viii) a proposal for the appointment, or approval under the partnership agreement, of anyone as a senior executive of the general partner or an associate of the general partner. (10) This subsection applies if the partner: (a) nominates, selects, investigates, evaluates or negotiates with anyone in relation to the removal or replacement of a general partner in the partnership; or (b) participates in the work of a committee that relates to the nomination, selection, appointment, change in control or ownership, suspension, replacement or removal of: (i) a general partner in the partnership; or (ii) an associate of a general partner in the partnership. (11) This subsection applies if the partner takes, or participates in, an action for the registration, or maintaining the registration, of the partnership or a general partner in the partnership as a VCLP or AFOF. (12) This subsection applies if: (a) the partnership is a VCMP; and (b) the partner takes any action for the partnership in the capacity of a partner, or an"
+    },
+    {
+      "key": "section:67.p2",
+      "title": "Section 67 - Circumstances in which limited partner not regarded as taking part in",
+      "main_structural_unit": "section",
+      "main_structural_number": "67",
+      "main_structural_heading": "Circumstances in which limited partner not regarded as taking part in",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 67",
+      "text": "the nomination, selection, appointment, change in control or ownership, suspension, replacement or removal of: (i) a general partner in the partnership; or (ii) an associate of a general partner in the partnership. (11) This subsection applies if the partner takes, or participates in, an action for the registration, or maintaining the registration, of the partnership or a general partner in the partnership as a VCLP or AFOF. (12) This subsection applies if: (a) the partnership is a VCMP; and (b) the partner takes any action for the partnership in the capacity of a partner, or an associate of a partner, in the VCMP. (13) This section does not imply that the limited partner must be regarded as taking part in managing the partnership's business if: (a) the partner does anything in relation to the conduct of that business; and (b) none of subsections (2) to (12) applies. (14) The operation of this section must not be varied: (a) by the partnership agreement; or (b) with the consent of the partners in the partnership (whether or not given under the partnership agreement). (15) For this section, a reference to the limited partner includes a reference to a person acting for the limited partner."
+    },
+    {
+      "key": "section:68",
+      "title": "Section 68 - Associates",
+      "main_structural_unit": "section",
+      "main_structural_number": "68",
+      "main_structural_heading": "Associates",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 68",
+      "text": "(1)    An  associate  of  a  general  partner  includes  any  of  the\n         following:\n         (a)      anyone who has an interest in the general partner;\n         (b)      anyone to whom the general partner has delegated  a  power\n             or function in relation to a partnership in which the  general\n             partner is a general partner;\n         (c)      if the general partner or a person  covered  by  paragraph\n             (a) orÂ (b) is a corporation â a related body corporate of  the\n             corporation;\n         (d)      a director, officer, employee,  agent,  representative  or\n             security holder of the general partner or of a person  covered\n             by paragraphÂ (a), (b) or (c).\n       (2)    An  associate  of  a  limited  partner  includes  any  of  the\n         following:\n         (a)      anyone who has an interest in the limited partner;\n         (b)      if the limited partner or a person  covered  by  paragraph\n             (a) is a corporation  â  a  related  body  corporate  of  that\n             corporation;\n         (c)      a director, officer, employee,  agent,  representative  or\n             security holder of the limited partner or a person covered  by\n             paragraphÂ (a), or (b).\n      (3)   An associate of an incorporated limited partnership includes:\n         (a)      an entity in which the partnership has an interest; and\n         (b)      a related body corporate of that entity.\n      (4)   In this section:\n         interest, in a partner or partnership, includes an  interest  as  a\n         security holder, trustee, responsible entity,  manager,  custodian,\n         subcustodian, nominee, administrator, executor  or  legal  personal\n         representative.\n         partner, includes,  if  that  partner  is  another  partnership,  a\n         partner in that other partnership.\n         related body corporate has the same meaning as in section 9 of  the\n         Corporations Act 2001.\n         securities has  the  same  meaning  as  in  section  92(3)  of  the\n         Corporations Act 2001.\n         security holder, in relation  to  a  body,  includes  a  holder  of\n         securities in or of the body."
+    },
+    {
+      "key": "section:69",
+      "title": "Section 69 - Difference between partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "69",
+      "main_structural_heading": "Difference between partners",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 69",
+      "text": "(1)   A difference arising from an ordinary matter that  is  connected\n         with an incorporated limited partnership's business must be decided\n         by a majority of the general partners in the partnership.\n      (2)   The operation of subsection (1) may be varied with  the  consent\n         of all the partners in the partnership."
+    },
+    {
+      "key": "section:70",
+      "title": "Section 70 - Change in partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "70",
+      "main_structural_heading": "Change in partners",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 70",
+      "text": "(1)   A limited partner (the transferor) in  an  incorporated  limited\n         partnership may transfer all or part of that partner's interest  in\n         the partnership to an entity (the transferee) with:\n         (a)      the consent of the general partners  in  the  partnership;\n             and\n         (b)      the agreement of the transferee.\n      (2)   If all the interest is transferred, the transferee replaces  the\n         transferor as a limited partner in the partnership.\n      (3)   If part of the interest is transferred and that interest  is  or\n         includes any of the transferor's legal interest in the partnership,\n         the transferee becomes a limited  partner  in  the  partnership  in\n         relation to so much of that legal interest as is transferred.\n      (4)   An entity may be  admitted  as  a  partner  in  the  partnership\n         without the consent of any limited partner in the partnership.\n      (5)   The operation of this section may be varied with the consent  of\n         all of the partners in the partnership."
+    },
+    {
+      "key": "section:71",
+      "title": "Section 71 - Change in status of partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "71",
+      "main_structural_heading": "Change in status of partners",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 71",
+      "text": "(1)   A general partner in an incorporated  limited  partnership  that\n         becomes a limited partner in the  partnership  is  liable  for  any\n         liability incurred by the partnership before  the  partner  becomes\n         the limited partner:\n         (a)      to the extent to which the partnership cannot satisfy  the\n             liability; or\n         (b)      to a greater extent provided by the partnership agreement.\n      (2)   A limited partner in the  partnership  that  becomes  a  general\n         partner in the partnership is not liable for any liability  of  the\n         partnership:\n         (a)      that was incurred before the partner becomes  the  general\n             partner; and\n         (b)      for which the partner was not liable while being a limited\n             partner."
+    },
+    {
+      "key": "section:72",
+      "title": "Section 72 - Liability arising outside Territory",
+      "main_structural_unit": "section",
+      "main_structural_number": "72",
+      "main_structural_heading": "Liability arising outside Territory",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 72",
+      "text": "(1)   A limited partner in an  incorporated  limited  partnership  may\n         only be liable for a liability incurred by the partnership  for  an\n         act that occurred outside the Territory if  the  partner  would  be\n         liable under this Act for such a liability had the act occurred  in\n         the Territory.\n      (2)   For subsection (1), a reference to an act includes  a  reference\n         to:\n         (a)      the conduct of the partnership's business; or\n         (b)      an act (including omission) of:\n             (i) the partnership; or\n             (ii)       a  general  partner  or  limited  partner  in   the\n                  partnership; or\n             (iii)     an officer, employee or agent of the partnership  or\n                  a general partner in the partnership."
+    },
+    {
+      "key": "section:73",
+      "title": "Section 73 - Corresponding laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "73",
+      "main_structural_heading": "Corresponding laws",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 73",
+      "text": "(1)   The  Regulations  may  prescribe  a  law  of  a  State,  another\n         Territory or another jurisdiction  (including  a  foreign  country)\n         that provides for the limitation of a partner in a  partnership  to\n         be a corresponding law.\n      (2)   In addition, any other law of  a  State,  another  Territory  or\n         another   jurisdiction   (including   a   foreign   country)   that\n         substantially corresponds to the provisions in this Act that relate\n         to incorporated limited partnerships is a corresponding law."
+    },
+    {
+      "key": "section:74",
+      "title": "Section 74 - Partnership formed under corresponding laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "74",
+      "main_structural_heading": "Partnership formed under corresponding laws",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 74",
+      "text": "(1)   A partner in a partnership formed under a corresponding law  may\n         only be liable for a liability incurred by the partnership  for  an\n         act that occurred in the Territory if the partner would  be  liable\n         under that law  had  the  act  occurred  in  the  place  where  the\n         partnership was formed.\n      (2)   For subsection (1), a reference to an act includes  a  reference\n         to:\n         (a)      the conduct of the partnership's business; or\n         (b)      an act (including omission) of:\n             (i) the partnership; or\n             (ii)      a partner in the partnership; or\n             (iii)     an officer, employee or agent of the partnership  or\n                  a partner in the partnership."
+    },
+    {
+      "key": "section:75",
+      "title": "Section 75 - Effect of sections 72 and 74",
+      "main_structural_unit": "section",
+      "main_structural_number": "75",
+      "main_structural_heading": "Effect of sections 72 and 74",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 3 Powers and liabilities of partnership > Section 75",
+      "text": "(1)   To avoid doubt, sections 72 and 74 do not imply that  a  limited\n         partner in an incorporated limited partnership:\n         (a)      has any liability; or\n         (b)      would, apart from those sections, have any liability,\n         for an act occurred outside the Territory that the limited  partner\n         would not have if the act had occurred in the Territory.\n      (2)   In subsection (1):\n         act has the same meaning as in  section  72  or  74  (as  the  case\n         requires).\nDivision 4  Winding up"
+    },
+    {
+      "key": "section:76",
+      "title": "Section 76 - Assets",
+      "main_structural_unit": "section",
+      "main_structural_number": "76",
+      "main_structural_heading": "Assets",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 76",
+      "text": "For this Division, a reference to the  assets  of  an  incorporated\n         limited partnership that is being wound up is a  reference  to  its\n         remaining assets after the satisfaction of all its liabilities  and\n         the costs for the winding up."
+    },
+    {
+      "key": "section:77",
+      "title": "Section 77 - Voluntary winding up",
+      "main_structural_unit": "section",
+      "main_structural_number": "77",
+      "main_structural_heading": "Voluntary winding up",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 77",
+      "text": "(1)    An  incorporated  limited  partnership   may   be   wound   up\n         voluntarily:\n         (a)      if the partnership agreement sets out the terms  on  which\n             it may be wound  up  voluntarily  â  in  accordance  with  the\n             agreement; or\n         (b)      otherwise  â  subject  to  the  agreement,  by  a  special\n             resolution of the limited partners in the partnership.\n      (2)   On the voluntary winding up of the partnership, its assets:\n         (a)      must be dealt with  in  accordance  with  the  partnership\n             agreement if the agreement sets out how they are to  be  dealt\n             with on a voluntary winding up; or\n         (b)      otherwise â must be  distributed  among  the  partners  in\n             shares  proportionate  to  their  respective  contribution  of\n             capital or property to the partnership.\n      (3)   A person aggrieved by the operation of subsection (2) may  apply\n         to the Supreme Court for an order for the disposal or  distribution\n         of the assets.\n      (4)   On the application, the Supreme Court may  make  any  order  the\n         Court considers appropriate for the disposal or distribution of the\n         assets."
+    },
+    {
+      "key": "section:78",
+      "title": "Section 78 - Winding up on certificate",
+      "main_structural_unit": "section",
+      "main_structural_number": "78",
+      "main_structural_heading": "Winding up on certificate",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 78",
+      "text": "(1)   The  Commissioner  may,  by  notice  given  to  an  incorporated\n         limited partnership, require it to show cause why it should not  be\n         wound up.\n      (2)   The Commissioner may do so if the Commissioner considers:\n         (a)      the partnership has stopped carrying on business; or\n         (b)      none of the partners  in  the  partnership  is  a  limited\n             partner; or\n         (c)      the partnership exists for an illegal purpose; or\n         (d)      the partnership's registration was obtained by  a  mistake\n             or fraud; or\n         (e)      the partnership:\n             (i) is registered on the basis that it is, or intended to  be,\n                  a VCLP, AFOF or VCMP; and\n             (ii)      has stopped being, or has not within 2  years  after\n                  its registration, become a VCLP, AFOF or VCMP.\n      (3)   The Commissioner may issue a  certificate  for  the  winding  up\n         28Â days after giving the notice or at a later time.\n       (4)    The  Commissioner  may  issue  the  certificate  only  if  the\n         Commissioner is satisfied the partnership:\n         (a)      should be wound up at that time; and\n         (b)      has not shown cause why it should not be wound up.\n      (5)   The Commissioner must:\n         (a)      as soon as possible after issuing the certificate:\n             (i) publish a notice of the certificate in the Gazette; and\n             (ii)      give a notice of the certificate to the partnership;\n                  and\n         (b)      as soon as possible after giving the notice referred to in\n             paragraphÂ (a)(ii), record in the register that the notice  has\n             been given.\n      (6)   The  Commissioner  must  give  a  notice  under  subsection  (1)\n         orÂ (5)(a)(ii) by:\n         (a)      serving it on the partnership at its registered office; or\n         (b)      if serving it at the registered office is  not  reasonably\n             practicable  â  publishing  it  in  a  newspaper   circulating\n             generally in the Territory."
+    },
+    {
+      "key": "section:79",
+      "title": "Section 79 - Review of certificate",
+      "main_structural_unit": "section",
+      "main_structural_number": "79",
+      "main_structural_heading": "Review of certificate",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 79",
+      "text": "(1)   A person whose interests are affected by  a  decision  to  issue\n         the certificate may apply to the  Supreme  Court,  within  28  days\n         after the notice referred to in section 78(5)(a)(ii) is given,  for\n         a review of the decision.\n      (2)    The  operation  of  the  certificate  is  suspended  until  the\n         application is withdrawn or the review is decided.\n      (3)   In deciding the application, the Supreme Court may:\n         (a)      confirm the decision; or\n         (b)      set aside the decision and cancel the certificate.\n      (4)   This section does not prevent the  Commissioner  cancelling  the\n         certificate at any time after the application  for  the  review  is\n         made."
+    },
+    {
+      "key": "section:80",
+      "title": "Section 80 - Procedure for winding up on certificate",
+      "main_structural_unit": "section",
+      "main_structural_number": "80",
+      "main_structural_heading": "Procedure for winding up on certificate",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 80",
+      "text": "(1)   The Commissioner must appoint  a  person  (including  a  general\n         partner in the partnership or a person  who  is  not  a  registered\n         liquidator for the Corporations Act 2001) to be the liquidator  for\n         the winding up.\n      (2)   The liquidator:\n         (a)      must, within 10 days  after  the  appointment,  publish  a\n             notice of the appointment in a newspaper circulating generally\n             in the Territory; and\n         (b)      must give the prescribed security for the winding up; and\n         (c)      is entitled to receive fees set by the Commissioner.\n      (3)   The winding up must begin within:\n         (a)       28  days  after  the  notice  referred  to   in   section\n             78(5)(a)(ii) is given; or\n         (b)      if the Supreme Court confirms the decision  to  issue  the\n             certificate under section 79 â 28 days after the confirmation.\n      (4)   The winding up must be completed by the day:\n         (a)      stated in a  notice  given  by  the  Commissioner  to  the\n             partnership; and\n         (b)      at least 60 days after the giving of the notice.\n      (5)   The reasonable costs of the winding up are payable  out  of  the\n         partnership property."
+    },
+    {
+      "key": "section:81",
+      "title": "Section 81 - Distribution of assets",
+      "main_structural_unit": "section",
+      "main_structural_number": "81",
+      "main_structural_heading": "Distribution of assets",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 81",
+      "text": "(1)   On the winding up of the partnership, its assets:\n         (a)      must be dealt with  in  accordance  with  the  partnership\n             agreement if the agreement sets out how they are to  be  dealt\n             with on its winding up on a certificate by  the  Commissioner;\n             or\n         (b)      otherwise â must be  distributed  among  the  partners  in\n             shares  proportionate  to  their  respective  contribution  of\n             capital or property to the partnership.\n      (2)   A person aggrieved by the operation of subsection (1) may  apply\n         to the Supreme Court for an order for the disposal or  distribution\n         of the assets.\n      (3)   On the application, the Supreme Court may  make  any  order  the\n         Court considers appropriate for the disposal or distribution of the\n         assets."
+    },
+    {
+      "key": "section:82",
+      "title": "Section 82 - Application of Corporations Act 2001",
+      "main_structural_unit": "section",
+      "main_structural_number": "82",
+      "main_structural_heading": "Application of Corporations Act 2001",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 82",
+      "text": "(1)   The  winding  up  of  an  incorporated  limited  partnership  is\n         declared  to  be  an  excluded  matter  for  section  5F   of   the\n         Corporations Act 2001 in relation to Part 5.7 of that Act.\n       (2)    Part  5.7  of  the  Corporations  Act  2001  applies  to   the\n         partnership as if it were a Part 5.7 body  within  the  meaning  of\n         section 9 of that Act, except:\n         (a)      the words \"or in the public  interest\"  are  taken  to  be\n             inserted in section 583(c)(ii) of that  Act  after  \"just  and\n             equitable\"; and\n         (b)      section 583(d) of that Act is taken to be omitted; and\n         (c)      with any other necessary changes; and\n         (d)      with any other changes prescribed by the Regulations.\n      (3)   The Australian Securities and Investments Commission:\n         (a)      may perform a function or exercise a power under Part  5.7\n             of the Corporations Act 2001 as applied by subsection  (2)  in\n             accordance with an agreement or  arrangement  referred  to  in\n             section 11(8) orÂ (9A)(b)  of  the  Australian  Securities  and\n             Investments Commission Act 2001 (Cth); and\n         (b)      is authorised to perform that function  or  exercise  that\n             power under section 11 of that Act.\n      (4)   Unless a  function  or  power  under  Part  5.7  as  applied  by\n         subsectionÂ (2)  is  conferred  on  the  Australian  Securities  and\n         Investments Commission as referred to in subsection (3), that  Part\n         applies as if a reference in that Part to that  Commission  were  a\n         reference to the Commissioner."
+    },
+    {
+      "key": "section:83",
+      "title": "Section 83 - Obligation to inform Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "83",
+      "main_structural_heading": "Obligation to inform Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 83",
+      "text": "(1)   An incorporated limited partnership must give  the  Commissioner\n         a notice of the beginning of its winding up within 7 days after:\n         (a)      if a special resolution referred to in section 77(1)(b) is\n             passedÂ â the day on which it is passed; or\n         (b)      otherwise â the day on which the winding up begins.\n      (2)   The partnership must give  the  Commissioner  a  written  notice\n         stating the day of the completion of the winding up within  7  days\n         after that day.\n      (3)   The Commissioner must, as soon as practicable after receiving  a\n         notice under subsection (1) or  (2),  record  the  receipt  of  the\n         notice in the register.\n      (4)   Each general partner in the partnership commits  an  offence  if\n         subsection (1) or (2) is contravened.\n         Maximum penalty:    If the offender is a natural person â\n                            20Â penalty units.\n            If the offender is a body corporate â 100Â penalty units.\n      (5)   It is a defence to a prosecution for the offence if the  general\n         partner proves that:\n         (a)      the general partner did not know about the  contravention;\n             and\n         (b)      reasonable precautions and appropriate diligence had  been\n             exercised to avoid the contravention."
+    },
+    {
+      "key": "section:84",
+      "title": "Section 84 - Cancellation of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "84",
+      "main_structural_heading": "Cancellation of registration",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 4 Winding up > Section 84",
+      "text": "(1)   The Commissioner must, by  notice  in  the  Gazette,  cancel  an\n         incorporated limited partnership's registration after it  is  wound\n         up.\n      (2)   The partnership ceases to exist on the cancellation.\n      (3)   The Commissioner must record the cancellation in the register.\nDivision 5  Other matters"
+    },
+    {
+      "key": "section:85",
+      "title": "Section 85 - Seal and execution of documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "85",
+      "main_structural_heading": "Seal and execution of documents",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 85",
+      "text": "(1)   A court, judge or person acting judicially must:\n         (a)      take judicial  notice  of  the  seal  of  an  incorporated\n             limited partnership; and\n         (b)      presume it was properly affixed.\n      (2)   Despite any other law of  the  Territory,  the  partnership  may\n         execute a document (including a deed) by the seal or the  signature\n         of a general partner acting for the partnership.\n      (3)   Subsection (2) does not limit the ways in which the  partnership\n         may execute a document."
+    },
+    {
+      "key": "section:86",
+      "title": "Section 86 - Entitlement to make assumptions",
+      "main_structural_unit": "section",
+      "main_structural_number": "86",
+      "main_structural_heading": "Entitlement to make assumptions",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 86",
+      "text": "(1)   A person may make the assumptions in section 87 in relation to:\n         (a)      any dealings with an incorporated limited partnership; and\n         (b)      any dealings with an entity that has, or purports to have,\n             directly or indirectly acquired property from the partnership.\n      (2)   If the person makes the assumption, the  partnership  or  entity\n         may not assert that the assumption is  incorrect  in  a  proceeding\n         relating to the dealings.\n       (3)    The  assumption  may  be  made  even  if  a  partner  in   the\n         partnership, or a representative of the partner, acts  fraudulently\n         in relation to the dealings.\n      (4)   However, the person may not make the assumption if, at the  time\n         of the dealings, the person knew or suspected that  the  assumption\n         was incorrect."
+    },
+    {
+      "key": "section:87",
+      "title": "Section 87 - Assumptions",
+      "main_structural_unit": "section",
+      "main_structural_number": "87",
+      "main_structural_heading": "Assumptions",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 87",
+      "text": "(1)   This section has effect for the dealings referred to in  section\n         86(1).\n      (2)   The partnership agreement may be assumed to have  been  complied\n         with in relation to the dealings.\n      (3)   If a person appears to be a general partner in  the  partnership\n         on the  basis  of  information  provided  by  the  person  that  is\n         registered information, the person may be assumed:\n         (a)      to be a general partner in the partnership; and\n         (b)      to have the authority to exercise the powers  and  perform\n             the functions conferred on a general partner.\n      (4)   If a person is held out by  the  partnership  to  be  a  general\n         partner in, or an agent of, the  partnership,  the  person  may  be\n         assumed:\n         (a)       to  be  a  general  partner  in,  or  an  agent  of,  the\n             partnership (as the case may be); and\n         (b)      to have the authority to exercise the powers  and  perform\n             the functions usually conferred  on  the  general  partner  or\n             agent.\n      (5)   The general partners in, or agents of, the  partnership  may  be\n         assumed to be properly exercising their powers and performing their\n         functions.\n      (6)   A document may be assumed to have been properly executed by  the\n         partnership if its execution appears to have complied with  section\n         85.\n      (7)   If a general partner in, or an agent  of,  the  partnership  has\n         the authority to issue a document or a certified copy of a document\n         for the partnership, the general partner or agent may be assumed to\n         have the authority to warrant that it is genuine or a true copy (as\n         the case may be)."
+    },
+    {
+      "key": "section:88",
+      "title": "Section 88 - Identification of partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "88",
+      "main_structural_heading": "Identification of partnership",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 88",
+      "text": "(1)   A document issued by or for an incorporated limited  partnership\n         for its business must contain in  legible  letters  its  registered\n         name, ending with \"An Incorporated Limited Partnership\", \"L.P.\"  or\n         \"LP\".\n      (2)   A general partner in the partnership commits an  offence  for  a\n         document  issued  by  or  for  the  partnership  that   contravenes\n         subsection (1) if, when the document is issued,  the  person  knows\n         about the contravention.\n         Maximum penalty:    If the offender is a natural person â\n                            100Â penalty units.\n            If the offender is a body corporate â 500Â penalty units.\n      (3)   A person commits an offence if the person issues  or  authorises\n         the issue of a document that contravenes subsection (1).\n         Maximum penalty:    If the offender is a natural person â\n                            20Â penalty units.\n            If the offender is a body corporate â 100Â penalty units."
+    },
+    {
+      "key": "section:89",
+      "title": "Section 89 - Registered office",
+      "main_structural_unit": "section",
+      "main_structural_number": "89",
+      "main_structural_heading": "Registered office",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 89",
+      "text": "(1)   An incorporated limited partnership must keep an office  at  its\n         registered office for the receipt of  communications  addressed  to\n         it.\n      (2)   Each general partner in the partnership commits  an  offence  if\n         the partnership contravenes subsection (1).\n         Maximum penalty:    If the offender is a natural person â\n                            20Â penalty units.\n            If the offender is a body corporate â 100Â penalty units.\n      (3)   It is a defence to a prosecution for the offence if the  general\n         partner proves that:\n         (a)      the general partner did not know about the  contravention;\n             and\n         (b)      reasonable precautions and appropriate diligence had  been\n             exercised to avoid the contravention.\n      (4)   The  office  must  be  open  to  the  public  during  the  hours\n         prescribed by the Regulations."
+    },
+    {
+      "key": "section:90",
+      "title": "Section 90 - Display of certificate of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "90",
+      "main_structural_heading": "Display of certificate of registration",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 90",
+      "text": "(1)    An  incorporated  limited   partnership   must   display   its\n         certificate of registration at all times in a conspicuous place  at\n         its registered office.\n      (2)   Each general partner in the partnership commits  an  offence  if\n         the partnership contravenes subsection (1).\n         Maximum penalty:    If the offender is a natural person â\n                            20Â penalty units.\n            If the offender is a body corporate â 100Â penalty units.\n      (3)   It is a defence to a prosecution for the offence if the  general\n         partner proves that:\n         (a)      the general partner did not know about the  contravention;\n             and\n         (b)      reasonable precautions and appropriate diligence had  been\n             exercised to avoid the contravention."
+    },
+    {
+      "key": "section:91",
+      "title": "Section 91 - Obligations to notify Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "91",
+      "main_structural_heading": "Obligations to notify Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 91",
+      "text": "(1)   An incorporated limited partnership must give the Commissioner:\n         (a)      a notice in the  approved  form  within  one  month  after\n             becoming a VCLP, AFOF or VCMP; and\n         (b)      a notice in the approved form within 7 days after  ceasing\n             to be a VCLP, AFOF or VCMP; and\n         (c)      a notice in the approved form as soon as practicable after\n             ceasing to carry on business.\n      (2)   Each general partner  in  an  incorporated  limited  partnership\n         commits    an    offence    if    the    partnership    contravenes\n         subsectionÂ (1)(a), (b) or (c).\n         Maximum penalty:    If the offender is a natural person â\n                            20Â penalty units.\n            If the offender is a body corporate â 100Â penalty units.\n      (3)   It is a defence to a prosecution for the offence if the  general\n         partner proves that:\n         (a)      the general partner did not know about the  contravention;\n             and\n         (b)      reasonable precautions and appropriate diligence had  been\n             exercised to avoid the contravention."
+    },
+    {
+      "key": "section:92",
+      "title": "Section 92 - Service of documents",
+      "main_structural_unit": "section",
+      "main_structural_number": "92",
+      "main_structural_heading": "Service of documents",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 92",
+      "text": "(1)   A document concerning the business of  an  incorporated  limited\n         partnership may be served on the partnership if it is left  at,  or\n         sent by post to, the partnership's registered office.\n      (2)   However, the document must  be  served  on  the  partnership  in\n         accordance with a law of the Territory if that law specifies how it\n         must be served."
+    },
+    {
+      "key": "section:93",
+      "title": "Section 93 - Entry in register constitutes notice",
+      "main_structural_unit": "section",
+      "main_structural_number": "93",
+      "main_structural_heading": "Entry in register constitutes notice",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 93",
+      "text": "A person dealing with an incorporated limited partnership is  taken\n         to  have  sufficient  notice  of   the   partnership's   registered\n         information."
+    },
+    {
+      "key": "section:94",
+      "title": "Section 94 - Commissioner may require provision of information",
+      "main_structural_unit": "section",
+      "main_structural_number": "94",
+      "main_structural_heading": "Commissioner may require provision of information",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 94",
+      "text": "(1)   The  Commissioner  may,  by  notice  given  to  an  incorporated\n         limited partnership, require it to give  specified  information  to\n         the Commissioner for monitoring compliance with this Part.\n      (2)   The partnership must give the information within:\n         (a)      a period specified in the notice that is at least 28  days\n             after the date of the notice; or\n         (b)      any additional period allowed by the Commissioner.\n      (3)   Each general partner in the partnership commits  an  offence  if\n         the partnership contravenes subsection (2).\n         Maximum penalty:    If the offender is a natural person â\n                            100Â penalty units.\n            If the offender is a body corporate â 500Â penalty units.\n      (4)   It is a defence to a prosecution for the offence if the  general\n         partner proves that:\n         (a)      the general partner did not know about the  contravention;\n             and\n         (b)      reasonable precautions and appropriate diligence had  been\n             exercised to avoid the contravention.\n      (5)   This section does  not  affect  the  Commissioner's  powers  and\n         functions under the Consumer Affairs and Fair Trading Act 1990."
+    },
+    {
+      "key": "section:95",
+      "title": "Section 95 - Offences by partnerships",
+      "main_structural_unit": "section",
+      "main_structural_number": "95",
+      "main_structural_heading": "Offences by partnerships",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 95",
+      "text": "(1)   This section applies if:\n         (a)      a provision in this Part provides that a  general  partner\n             in an incorporated limited partnership commits an offence; and\n         (b)       the  general  partner  is  a  partnership   (the   second\n             partnership).\n      (2)   A reference to the general partner in that  provision  is  taken\n         to be a reference to:\n         (a)      if paragraph (b) does not apply  â  each  partner  in  the\n             second partnership; or\n         (b)      if  a  partner  in  the  second  partnership  has  limited\n             liability for the liabilities of that  partnership  under  the\n             law of the place where  that  partnership  is  formed  â  each\n             partner in that partnership that does not  have  such  limited\n             liability."
+    },
+    {
+      "key": "section:96",
+      "title": "Section 96 - Relationship with Corporations legislation",
+      "main_structural_unit": "section",
+      "main_structural_number": "96",
+      "main_structural_heading": "Relationship with Corporations legislation",
+      "defined_term": null,
+      "structure_path": "Part 3 Incorporated limited partnerships > Division 5 Other matters > Section 96",
+      "text": "The Regulations may declare a matter dealt with by this Part to  be\n         an excluded matter for section 5F of the Corporations Act  2001  in\n         relation to any of the following:\n         (a)      the whole of the Corporations legislation  to  which  Part\n             1.1A of the Corporations Act 2001 applies;\n         (b)      a  provision  of  the  Corporations  legislation  that  is\n             specified in the Regulations;\n         (c)       the  Corporations  legislation  other  than  a  provision\n             specified in the Regulations;\n         (d)      the Corporations legislation to the  extent  specified  in\n             the Regulations;\n         (e)      the Corporations legislation otherwise than to the  extent\n             specified in the Regulations.\nPart 4      Administration"
+    },
+    {
+      "key": "section:97",
+      "title": "Section 97 - Secrecy",
+      "main_structural_unit": "section",
+      "main_structural_number": "97",
+      "main_structural_heading": "Secrecy",
+      "defined_term": null,
+      "structure_path": "Part 4 Administration > Section 97",
+      "text": "(1)   This section applies to a  person  who  is,  or  has  been,  the\n         Commissioner or a person employed or engaged in the  administration\n         of this Act.\n      (2)   The person commits an offence if:\n         (a)      the person:\n             (i) records any information (protected  information)  obtained\n                  because of the performance of a function or exercise of  a\n                  power under this Act; or\n             (ii)        directly   or   indirectly   discloses   protected\n                  information to another person; and\n         (b)      the recording or disclosure is not part of the performance\n             of a function or exercise of a power under a law in  force  in\n             the Territory.\n         Maximum penalty:    If the offender is a natural person â\n                            100Â penalty units.\n            If the offender is a body corporate â 500Â penalty units.\n      (3)   Subsection (2) does not apply if the recording or disclosure:\n         (a)      is made with the consent  of  the  person  from  whom  the\n             information was obtained; or\n         (b)      is made to a law enforcement agency (including the  Police\n             Force).\n      (4)   A person to  whom  this  section  applies  is  not  required  to\n         disclose protected information or produce any  document  containing\n         protected information to a court unless it is necessary  to  do  so\n         for a law in force in the Territory.\n      (5)   A reference in subsection (4) to a court  includes  a  reference\n         to anyone who may  require  the  production  of  documents  or  the\n         answering of questions."
+    },
+    {
+      "key": "section:98",
+      "title": "Section 98 - Approved forms",
+      "main_structural_unit": "section",
+      "main_structural_number": "98",
+      "main_structural_heading": "Approved forms",
+      "defined_term": null,
+      "structure_path": "Part 4 Administration > Section 98",
+      "text": "The Commissioner may approve forms for this Act."
+    },
+    {
+      "key": "section:99",
+      "title": "Section 99 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "99",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 4 Administration > Section 99",
+      "text": "(1)   The Administrator may make regulations,  not  inconsistent  with\n         this Act, prescribing matters:\n         (a)      required or permitted by this Act to be prescribed; or\n         (b)      necessary or convenient to be prescribed for carrying  out\n             or giving effect to this Act.\n      (2)   The Regulations may prescribe any of the following matters:\n         (a)      fees payable under this Act;\n         (b)      the waiver or refund of any of the fees;\n         (c)      the giving of information or document by  an  incorporated\n             limited partnership to the Commissioner;\n         (d)      the  exemption  of  a  person,  matter  or  thing  from  a\n             provision in this Act;\n         (e)       a  fine  for  an  offence  against  the  Regulations  not\n             exceeding:\n             (i) if the offender is a natural person â 100  penalty  units;\n                  or\n             (ii)      if the offender is a body corporate  â  500  penalty\n                  units.\nPart 5      Transitional matters for Partnership Act 1997"
+    },
+    {
+      "key": "section:100",
+      "title": "Section 100 - Repeal",
+      "main_structural_unit": "section",
+      "main_structural_number": "100",
+      "main_structural_heading": "Repeal",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters for Partnership Act 1997 > Section 100",
+      "text": "The Partnership Act 1891 (No. 506 of 1891) of South  Australia,  in\n         its application to the Territory as a  law  of  the  Territory,  is\n         repealed."
+    },
+    {
+      "key": "section:101",
+      "title": "Section 101 - Savings",
+      "main_structural_unit": "section",
+      "main_structural_number": "101",
+      "main_structural_heading": "Savings",
+      "defined_term": null,
+      "structure_path": "Part 5 Transitional matters for Partnership Act 1997 > Section 101",
+      "text": "(1)   In  this  section,  repealed  Act  means  the  Act  repealed  by\n         sectionÂ 100.\n      (2)   Except as is expressly or by necessary implication  provided  in\n         this Act,  all  persons,  things  and  circumstances  appointed  or\n         created under the repealed Act, or existing or continuing under the\n         repealed Act, immediately before  the  commencement  of  this  Act,\n         continue, subject to this Act, to have the same  status,  operation\n         and effect as they would have had if the repealed Act had not  been\n         repealed.\n      (3)   Without limiting subsection (2), the repeal of the repealed  Act\n         does not affect the  status,  operation  or  effect  of  an  order,\n         appointment, notice, consent, agreement, liability or  right  under\n         the repealed Act."
+    }
+  ]
+}

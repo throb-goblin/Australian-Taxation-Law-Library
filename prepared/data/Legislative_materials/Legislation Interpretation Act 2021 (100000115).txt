@@ -6,418 +6,351 @@ Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download
 When scraped: 2025-12-30T01:43:52.287934Z
 
 LEGISLATION INTERPRETATION ACT 2021
-
-Section 1
-1--Short
-title
-
+TABLE OF PROVISIONS
+PART 1--Preliminary
+ 1.    Short title
+ 3.    Application of Act
+PART 2--Definitions and rules about the meaning of words
+ 4.    Standard definitions
+ 5.    References to professions registered under Health Practitioner Regulation National Law
+ 6.    Definitions to be read in context
+ 7.    Parts of speech and grammatical forms
+ 8.    Inclusion of digital material
+ 9.    Words relating to gender
+ 10.    Use of singular and plural
+ 11.    Meaning of may, must and shall
+ 12.    Meaning of expressions used in legislative instruments
+ 13.    References to signing or execution of documents
+PART 3--General interpretative provisions
+ 14.    Interpretation best achieving purpose or object
+ 15.    Interpretation so as not to exceed legislative power
+ 16.    Use of extrinsic material in interpretation
+ 17.    Act or instrument deemed always speaking
+ 18.    Abrogation of presumption that re-enactment etc constitutes Parliamentary approval of prior interpretation
+ 19.    Material that is part of Act or instrument
+ 19A.    Amending Act or instrument to be construed as part of amended Act or instrument
+ 20.    Use of examples
+ 21.    Things to be done by Governor to mean by Governor with advice of Executive Council
+ 22.    Determining whether Act or instrument binds Crown
+ 23.    Date of establishment of State
+ 24.    Declaration of validity of laws made before Australia Acts
+ 25.    Acts taken to be public Acts
+ 26.    No requirement for separate enacting words
+PART 4--Commencement, amendment, replacement, repeal and expiry
+ 27.    Commencement of Acts
+ 28.    Time of commencement
+ 29.    Expiry
+ 30.    Time of expiry
+ 31.    Use of headings to indicate amending provisions
+ 32.    Effect of repeal, amendment or expiry
+ 33.    Saving of administrative acts and instruments when provisions replaced
+ 34.    Amendment or repeal of Act in session in which it was passed
+PART 5--Citation and references
+ 35.    Citation and references to other enactments
+ 36.    References to amended or replaced Acts, legislative instruments and provisions
+PART 6--Functions and powers
+ 37.    Performance of functions
+ 38.    Performance of functions under provision before commencement
+ 39.    Certain meetings etc may occur remotely
+ 40.    Power to make instrument includes power to amend or repeal
+ 41.    Powers of appointment
+ 42.    Gender balance in nomination of persons for appointment to statutory bodies
+ 43.    Powers of delegation
+PART 7--Time, distance, age and amounts
+ 44.    Calculating time
+ 45.    References to time
+ 46.    Part-day public holidays and periods of time
+ 47.    References to number of sitting days
+ 48.    Measuring distance
+ 49.    Attaining particular age
+ 50.    Rounding down of monetary amounts
+PART 8--Documents provided under an Act
+ 51.    Service of documents
+ 52.    Compliance with forms
+PART 9--Penalties and proceedings for offences
+ 53.    Penalties
+ 54.    Standard scales for penalties and expiation fees
+ 55.    Fines etc to be paid into Treasury
+ 56.    References to offences
+ 57.    Who may proceed for recovery of penalties
+ 58.    Interpretation of references to summary proceedings, complaints etc
+ 59.    Offences punishable under more than 1 law
+PART 10--Miscellaneous
+ 60.    Regulations
+SCHEDULE 1--Transitional provisions
+Legislative history
+LEGISLATION INTERPRETATION ACT 2021
+ - LONG TITLE
+An Act to provide general rules for the interpretation of Acts and
+legislative instruments of the State, to define certain terms used in the Acts
+and legislative instruments of the State and for other purposes.
+Section 1 Short title
 This Act may be cited as the Legislation Interpretation
 Act 2021.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 3
-3--Application
-of Act
-
+Section 3 Application of Act
          (1)         Subject to subsection (3), the provisions of this Act
 apply--
-
              (a)         to this Act; and
-
              (b)         to every other Act; and
-
              (c)         to every legislative instrument.
-
          (2)         This Act applies to an Act or a legislative instrument whether made
 before or after the commencement of this Act.
-
          (3)         The application of
 this Act, or a provision of this Act, to an Act or a legislative instrument, or
 to a provision of an Act or a legislative instrument, is subject to a contrary
 intention.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 4
-4--Standard
-definitions
-
+Section 4 Standard definitions
 In every Act and legislative instrument--
-
 "Act" means--
-
              (a)         an Act of the Parliament of South Australia or an Act or ordinance of
 some earlier legislative authority in South Australia; or
-
              (b)         an Act of the Imperial Parliament that has been received into the law
 of South Australia or applies to South Australia by paramount force;
-
 "ADI" means an authorised deposit-taking institution within the
 meaning of the Banking Act of the Commonwealth;
-
 "administrative unit" has the same meaning as in the Public
 Sector Act 2009;
-
 "affidavit", in all cases where persons are allowed by law to
 affirm or to declare instead of swearing, includes affirmation or
 declaration;
-
 "amend" includes the following, whether effected expressly or
 by implication:
-
              (a)         omit;
-
              (b)         insert;
-
              (c)         substitute;
-
              (d)         alter;
-
              (e)         vary;
-
 "appoint" includes reappoint;
-
 "AS" or "Australian Standard" or
 "AS/NZS" or "Australian/New Zealand Standard" followed
 (in any of those cases) by a number, or a number accompanied by a reference to a
 calendar year, means the standard so designated that is published by or under
 the authority of Standards Australia (alone or jointly with others);
-
 "Australia" means the Commonwealth of Australia and, when used
 in a geographical sense, includes Norfolk Island, the Territory of Christmas
 Island and the Territory of Cocos (Keeling) Islands, but does not include any
 other external Territory;
-
 "Australia Acts" means--
-
              (a)         the Australia Act 1986 of the Commonwealth; and
-
              (b)         the Australia Act 1986 of the United Kingdom;
-
 "Australian citizen" means a person who is an Australian
 citizen under the provisions of the Australian Citizenship Act 2007
 of the Commonwealth;
-
 "bank" means an ADI that is permitted under the Banking
 Act of the Commonwealth to assume or use--
-
              (a)         the word
 "bank", "banker" or "banking"; or
-
              (b)         any other word (whether or not in English) that is of like import to a
 word referred to in paragraph (a);
-
 "bank cheque" or "banker's cheque" means a cheque
 that an ADI draws on itself;
-
 "bank holiday" means a day that is, under the Public
 Holidays Act 2023, a bank holiday;
-
 "Banking Act of the Commonwealth" or "Banking Act
 (Cwth) means the Banking Act 1959 of the Commonwealth, as
 amended from time to time and includes an Act enacted in substitution for that
 Act;
-
 "building society" means an ADI that is permitted under the
 Banking Act of the Commonwealth to assume or use--
-
              (a)         the expression
 "building society"; or
-
              (b)         any other expression (whether or not in English) that is of like
 import to the expression referred to in paragraph (a);
-
 "business day" means a day that is not--
-
              (a)         a Saturday or Sunday; or
-
              (b)         a public holiday (other than a part-day public holiday--see
-section 46);
-
+Section 46);
 "calendar month" means one of the 12 months of the
 calendar year;
-
 "calendar year" means a period of 12 months beginning on
-1 January;
-
+Section 1 January;
 "certified mail" includes registered post;
-
 "commencement", in relation to an Act or a legislative
 instrument, or a provision of an Act or a legislative instrument, means the day
 or time on which the Act, legislative instrument or provision comes into
 operation;
-
 "Commonwealth" means the Commonwealth of Australia and, when
 used in a geographical sense, includes Norfolk Island, the Territory of
 Christmas Island and the Territory of Cocos (Keeling) Islands, but does not
 include any other external Territory;
-
 "confer", in relation to a function, includes give and
 impose;
-
 "contravene" includes fail to comply with;
-
 "council" or "local council" means a council within
 the meaning of the Local Government Act 1999;
-
 "Court of Appeal" means the Court of Appeal established as a
 division of the Supreme Court;
-
 "credit union" means an ADI that is permitted under the
 Banking Act of the Commonwealth to assume or use--
-
              (a)         the expression
 "credit union"; or
-
              (b)         any expression (whether or not in English) that is of like import to
 the expression referred to in paragraph (a);
-
 "Crown" means the Crown in right of South Australia;
-
 "data storage device" means an article or thing that is used
 for storing and retrieving data (whether internal or external to a
 computer);
-
 "day" means a period of 24 hours ending at the stroke of
 midnight;
-
 "Department" or "department" of a Minister or of
 the Public Service, "government department" or "public
 department means an administrative unit within the meaning of the
 Public Sector Act 2009;
-
 "District Court" means the District Court of South
 Australia;
-
 "document" includes--
-
              (a)         anything on which there is writing; and
-
              (b)         any record; and
-
              (c)         anything on which there are marks, figures, symbols or perforations
 having a meaning for persons qualified to interpret them; and
-
              (d)         anything from which sounds, images or writing can be reproduced with
 or without the aid of anything else; and
-
              (e)         a map, plan, drawing or photograph;
-
 "DPP" means the Director within the meaning of the Director
 of Public Prosecutions Act 1991;
-
 "entity" includes a person, a partnership and an unincorporated
 body;
-
 "estate", in relation to land, includes any estate or interest,
 easement, right, title, claim, demand, charge, lien or encumbrance in, over, to,
 or in respect of, the land;
-
 "external Territory" means a Territory, other than an internal
 Territory, where an Act makes provision for the government of the Territory as a
 Territory;
-
 "financial year" means a period of 12 months starting on
-1 July;
-
+Section 1 July;
 "friendly society" means a body that is a friendly society for
 the purposes of the Life Insurance Act 1995 of the
 Commonwealth;
-
 "foreign country" means any country (whether or not an
 independent sovereign state) outside Australia and the external
 Territories;
-
 "function" includes power and duty and, accordingly, references
 to the performance of a function include the exercise of a power and the
 performance of a duty;
-
 "Gazette", "Government Gazette" or "South
 Australian Government Gazette means the South Australian Government
 Gazette (including any supplement to that gazette) printed or published, or
 purporting to be printed or published, by the Government Printer of the
 State;
-
 "gender identity" means the gender-related identity, appearance
 or mannerisms or other gender-related characteristics of a person (whether by
 way of medical intervention or not), with or without regard to the person's
 designated sex at birth;
-
 "Governor-in-Chief", "Governor" or
 "Lieutenant-Governor" means the Governor of the State or other
 officer for the time being administering the Government of the State;
-
 "Health Practitioner Regulation National Law"
 means--
-
              (a)         the Health
 Practitioner Regulation National Law--
-
                    (i)         as in force from time to time, set out in the schedule to the
 Health Practitioner Regulation National Law Act 2009 of Queensland;
 and
-
                    (ii)         as it applies as a law of South Australia, another State or a
 Territory (with or without modification); or
-
              (b)         the law that substantially corresponds to the law referred to in
 paragraph (a);
-
 "His Majesty" or "Her Majesty", "the
 King" or "the Queen" means His Majesty the King, or Her
 Majesty the Queen, Sovereign for the time being of Australia, and includes the
 predecessors and the heirs and successors of the King or Queen;
-
 "individual" means a natural person;
-
 "internal Territory" means the Australian Capital Territory,
 the Northern Territory or the Jervis Bay Territory;
-
 "intersex status" means the status of having physical, hormonal
 or genetic features that are--
-
              (a)         neither wholly female nor wholly male; or
-
              (b)         a combination of female and male; or
-
              (c)         neither female nor male;
-
 "Jervis Bay Territory" means the Territory referred to in the
 Jervis Bay Territory Acceptance Act 1915 of the
 Commonwealth;
-
 "justice" means a justice of the peace for South Australia
 (however appointed), and includes a special justice;
-
 "land" includes--
-
              (a)         a building or structure affixed to land; and
-
              (b)         waters and airspace over land; and
-
              (c)         the bed of any body of waters; and
-
              (d)         subsoil and subterranean waters;
-
 "legislative instrument" means--
-
              (a)         a regulation, rule, by-law or statute made under an Act; or
-
              (b)         a proclamation, notice, order or other instrument made by the Governor
 or a Minister under an Act and published in the Gazette or under the
 Legislation Revision and Publication Act 2002; or
-
              (c)         a code or standard made, approved or adopted under an Act;
 or
-
              (d)         any other instrument of a legislative character made or in force under
 an Act; or
-
              (e)         any other instrument of a kind prescribed by the
 regulations;
-
 "Magistrates Court" means the Magistrates Court of South
 Australia;
-
 "major indictable offence" means any indictable offence
 classified by statute as a major indictable offence;
-
 "make", in relation to an instrument, includes issue and
 grant;
-
 "Minister" means--
-
              (a)         when used in an Act--the Minister of the Crown to whom the
 administration of the Act has been committed by the Governor, or in whom the
 administration of the Act is otherwise vested; and
-
              (b)         when used in a legislative instrument--the Minister of the Crown
 to whom the administration of the Act under which the legislative instrument was
 made has been committed by the Governor, or in whom the administration of that
 Act is otherwise vested,
-
 and includes a Minister of the Crown for the time being discharging the
 duties of that Minister or acting in the exercise of powers or functions
 delegated by that Minister;
-
 "minor indictable offence" means any indictable offence
 classified by statute as a minor indictable offence;
-
 "month" means a period starting at the beginning of any day of
 one of the calendar months and ending--
-
              (a)         immediately before the beginning of the numerically corresponding day
 of the next calendar month; or
-
              (b)         if there is no such corresponding day occurring in the next calendar
 month, at the end of that next calendar month;
-
 "motor vehicle" has the same meaning as in the Motor
 Vehicles Act 1959;
-
 "Northern Territory" means the Northern Territory of
 Australia;
-
 "oath", in all cases where persons are allowed by law to affirm
 or to declare instead of swearing, includes affirmation or
 declaration;
-
 "office" includes position and role;
-
 "Parliament" means the Parliament of the State;
-
 "part-day public holiday" means a part of a day that is, under
 section 4 or 5(1)(b) of the Public Holidays Act 2023, a
 part-day public holiday;
-
 "person" includes a body corporate as well as an
 individual;
-
 "police force" means South Australia Police under the Police
 Act 1998;
-
 "police officer" means any member of South Australia Police
 under the Police Act 1998;
-
 "prescribed" means--
-
              (a)         when used in an Act--prescribed by the Act or by a legislative
 instrument made, or to be made, under the Act; and
-
              (b)         when used in a legislative instrument--prescribed by the Act
 under which the legislative instrument was made, by the legislative instrument
 itself or by some further legislative instrument made, or to be made, under the
 Act under which the legislative instrument was made;
-
 "proclamation" means a proclamation made by the Governor and
 published in the Gazette or under the Legislation Revision and Publication
 Act 2002;
-
 "public holiday" means--
-
              (a)         a day that is, under the Public Holidays Act 2023, a
 public holiday; or
-
              (b)         subject to section 46--a part-day public holiday;
-
 "Public Service" or "public service" means the
 Public Service under the Public Sector Act 2009;
-
 "regulation", "rule" or "by-law"
 means--
-
              (a)         when used in an Act--a regulation, rule or by-law made under the
 Act in which the expression is used; or
-
              (b)         when used in a legislative instrument--a regulation, rule or
 by-law made under the Act under which the legislative instrument was
 made;
-
 "repeal" includes revoke;
-
 "SAPOL" means South Australia Police;
-
 "sitting day", in relation to a House of Parliament, means a
 day on which the House actually sits (provided that, in a case where the
 sittings of a House on a particular day continue after midnight on that day and
@@ -425,209 +358,135 @@ into the following day before the House stands adjourned, that portion of the
 following day prior to the adjournment of the House will be counted as a
 continuation of the preceding sitting day and not as a new sitting
 day);
-
 "South Australian Civil and Administrative Tribunal" or
 "SACAT" means the South Australian Civil and Administrative Tribunal
 established under the South Australian Civil and Administrative Tribunal
 Act 2013;
-
 "South Australian Employment Tribunal" or "SAET"
 means the South Australian Employment Tribunal established under the South
 Australian Employment Tribunal Act 2014;
-
 "special justice" means a justice who has been appointed as a
 special justice;
-
 "Standards Association of Australia" includes Standards
 Australia;
-
 "Standards Australia" means Standards Australia Limited ACN 087
-326 690, or any body to which Standards Australia Limited is a successor in law
+Section 326 690, or any body to which Standards Australia Limited is a successor in law
 or that is a successor in law to Standards Australia Limited;
-
 "statutory declaration" means--
-
              (a)         a declaration made under the Oaths Act 1936; or
-
              (b)         a declaration made outside the State--
-
                    (i)         under a law in force in the place where the declaration is made, being
 a law that renders the declarant liable to a criminal penalty for a false
 declaration; and
-
                    (ii)         before a person who has authority under that law to take
 declarations;
-
 "statutory instrument" has the same meaning as
 "legislative instrument";
-
 "summary offence" means any offence classified by statute as a
 summary offence;
-
 "Supreme Court" means the Supreme Court of South
 Australia;
-
 "swear", in all cases where persons are allowed by law to
 affirm or to declare instead of swearing, includes affirm or declare;
-
 "the State" or "this State" means the State of
 South Australia;
-
 "this Act", when used in an Act, includes legislative
 instruments made under the Act in which the expression is used;
-
 "United Kingdom" means the United Kingdom of Great Britain and
 Northern Ireland;
-
 "writing" includes any visible form in which words, figures,
 drawings or symbols may be reproduced or represented;
-
 "year" means a period starting at the beginning of any day of a
 calendar year and ending--
-
              (a)         immediately before the beginning of the corresponding day of the next
 calendar year; or
-
              (b)         in the case of a period starting at the beginning of 29 February
 in a leap year--at the end of 28 February occurring in the next
 calendar year;
-
 "Youth Court" means the Youth Court of South
 Australia.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 5
-5--References
-to professions registered under Health Practitioner Regulation National
-Law
-
+Section 5 References to professions registered under Health Practitioner Regulation National Law
          (1)         A reference in an
 Act or a legislative instrument within the ambit of column 1 of the
 following table will have effect as if it were the corresponding reference in
 column 2 of the table.
-
-      
-      
-
 Column 1
-
 Column 2
-
 chiropractor
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the chiropractic profession (other than as a
 student)
-
 dental practitioner
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the dental profession (including, if appropriate, a
 dental therapist, dental hygienist, dental prosthetist or oral health therapist
 but not including a student)
-
 dentist
-
 a person registered under the Health Practitioner Regulation National
 Law--
-
              (a)         to practise in the dental profession as a dentist (other than as a
 student); and
-
              (b)         in the dentists division of that profession
-
 enrolled nurse
-
 a person registered under the Health Practitioner Regulation National
 Law--
-
              (a)         to practise in the nursing profession as a nurse (other than as a
 student); and
-
              (b)         in the enrolled nurses division of that profession
-
 legally qualified medical practitioner
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the medical profession (other than as a
 student)
-
 medical practitioner
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the medical profession (other than as a
 student)
-
 midwife
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the midwifery profession as a midwife (other than as a
 student)
-
 nurse
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the nursing profession as a nurse (other than as a
 student)
-
 occupational therapist
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the occupational therapy profession (other than as a
 student)
-
 optometrist
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the optometry profession (other than as a
 student)
-
 osteopath
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the osteopathy profession (other than as a
 student)
-
 pharmacist
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the pharmacy profession (other than as a
 student)
-
 physiotherapist
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the physiotherapy profession (other than as a
 student)
-
 podiatrist
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the podiatry profession (other than as a
 student)
-
 psychologist
-
 a person registered under the Health Practitioner Regulation National
 Law to practise in the psychology profession (other than as a
 student)
-
 registered nurse
-
 a person registered under the Health Practitioner Regulation National
 Law--
-
              (a)         to practise in the nursing profession as a nurse (other than as a
 student); and
-
              (b)         in the registered nurses division of that profession
-
          (2)         A reference in an Act or a legislative instrument to a
 "registered health practitioner" will have effect as if it were a
 reference to a health practitioner registered in the relevant health profession
 under the Health Practitioner Regulation National Law.
-
          (3)         If a regulation is made under section 4(4) of the Health
 Practitioner Regulation National Law (South Australia) Act 2010 that
 modifies the Health Practitioner Regulation National Law (South
@@ -635,605 +494,352 @@ Australia) text, the Governor may, by regulation under this Act, make any
 amendments to the table in subsection (1) that are considered by the
 Governor to be necessary to ensure that the modification has proper effect under
 the law of South Australia.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 6
-6--Definitions
-to be read in context
-
+Section 6 Definitions to be read in context
 Definitions in an Act or a legislative instrument apply to the construction
 of the Act or instrument except in so far as a contrary intention
 appears.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 7
-7--Parts
-of speech and grammatical forms
-
+Section 7 Parts of speech and grammatical forms
 If a word or phrase is defined, other parts of speech and grammatical forms
 of the word or phrase have, unless the contrary intention appears, corresponding
 meanings.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 8
-8--Inclusion
-of digital material
-
+Section 8 Inclusion of digital material
          (1)         If any type of
 information or material is capable of being produced in digital form, a word
 that describes the information or material in its physical form includes a
 reference to the information or material in its digital form.
-
          (2)         Without limiting
 subsection (1), a reference to--
-
              (a)         "audiotape", "photograph",
 "videotape" or other word in the form of a verb describing the
 capture or recording of images or sounds by an audio recording, cinematographic,
 photographic or videorecording device includes a reference to the capture or
 recording of images or sounds by a digital device;
-
              (b)         an "audiotape", "photograph",
 "videotape" or other word in the form of a noun describing the item
 on which images or sounds captured or recorded by an audio recording,
 cinematographic, photographic or videorecording device are stored or reproduced
 includes a reference to a digital data storage device;
-
              (c)         a "book", "paper", "plan" or other
 word in the form of a noun describing an item on which there is writing includes
 a reference to a digital data storage device;
-
              (d)         a
 "record" includes information stored in a digital form by means of a
 digital data storage device.
-
          (3)         If a person who keeps information in a digital form is required under
 an Act or a legislative instrument--
-
              (a)         to produce the information or a document containing the information to
 a body or person; or
-
              (b)         to make the information or a document containing the information
 available for inspection by a body or person,
-
 then, unless the body or person otherwise authorises--
-
              (c)         the requirement obliges the person to produce or make available for
 inspection, as the case may be, a document that reproduces the information in a
 form capable of being understood by the body or person; and
-
              (d)         the production to the body or person of the document in that form
 complies with the requirement.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 9
-9--Words
-relating to gender
-
+Section 9 Words relating to gender
          (1)         Every word implying a particular gender will be construed as including
 every other gender and will also be applicable to an individual who does not
 identify as having any particular gender.
-
          (2)         Every word implying a particular gender will be construed as including
 a body corporate as well as an individual.
-
          (3)         Every phrase consisting of a masculine pronoun and a feminine pronoun
 joined by the conjunction "or" will be construed as applicable to a body
 corporate as well as an individual.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 10
-10--Use
-of singular and plural
-
+Section 10 Use of singular and plural
          (1)         Every word in the singular will be construed as including the
 plural.
-
          (2)         Every word in the plural will be construed as including the
 singular.
-
          (3)         Every word in the plural or singular will be construed as including a
 body corporate as well as an individual.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 11
-11--Meaning
-of may, must and shall
-
+Section 11 Meaning of may, must and shall
          (1)         If, in an Act or a legislative instrument, the word "may" or a similar
 expression is used in conferring a function, the entity on which the function is
-conferred has a discretion as to whether or not to perform it. 
-
+conferred has a discretion as to whether or not to perform it.
          (2)         However, if an Act or a legislative instrument specifies that an
 entity "may not" perform a function, the entity is prohibited from performing
 it.
-
          (3)         If, in an Act or a legislative instrument, the word "must" or "shall"
 (or a similar expression) is used in conferring a function, the entity on which
-the function is conferred is required to perform it. 
-
+the function is conferred is required to perform it.
          (4)         This section only applies to an Act or a legislative instrument passed
 after 1 January 1873.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 12
-12--Meaning
-of expressions used in legislative instruments
-
+Section 12 Meaning of expressions used in legislative instruments
 Expressions used in a legislative instrument or other instrument made under
 an Act have the same meaning as they have in the Act (as in force from time to
 time).
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 13
-13--References
-to signing or execution of documents
-
+Section 13 References to signing or execution of documents
 If an Act or a legislative instrument requires or authorises a document to
 be signed or executed by a person and the person is a body corporate, the Act or
 legislative instrument will be taken to authorise--
-
              (a)         the affixing of the common seal of the body to the document, or the
 signing of the document on behalf of the body, in accordance with the Act
 (whether or not of this State) under which the body is incorporated;
 or
-
              (b)         the signing or execution of the document in any other manner permitted
 by law.
-
 Note--
-
 In relation to signing of electronic documents, see the Electronic
 Communications Act 2000.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 14
-14--Interpretation
-best achieving purpose or object
-
+Section 14 Interpretation best achieving purpose or object
          (1)         In interpreting a provision of an Act or a legislative instrument, the
 interpretation that best achieves the purpose or object of the Act or the
 instrument (whether or not that purpose or object is expressly stated in the Act
 or instrument) is to be preferred to any other interpretation.
-
          (2)         This section
 does not operate to create or extend any criminal liability.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 15
-15--Interpretation
-so as not to exceed legislative power
-
+Section 15 Interpretation so as not to exceed legislative power
          (1)         An Act or a legislative instrument is to be interpreted as operating
 to the full extent of, but so as not to exceed, the legislative power of the
 State.
-
          (2)         A legislative instrument made under an Act is to be interpreted as
 operating to the full extent of, but so as not to exceed, the power to make the
 instrument conferred by the Act.
-
          (3)         If a provision of an Act or a legislative instrument would, but for
 this section, be interpreted as being in excess of power, the provision is valid
 to the extent to which it is not in excess of power.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 16
-16--Use
-of extrinsic material in interpretation 
-
+Section 16 Use of extrinsic material in interpretation
          (1)         In the
 interpretation of a provision of an Act or a legislative instrument, if any
 material not forming part of the Act or instrument is capable of assisting in
 the ascertainment of the meaning of the provision, consideration may be given to
 that material--
-
              (a)         to confirm that the meaning of the provision is the ordinary meaning
 conveyed by the text of the provision (taking into account its context in the
 Act or instrument and the purpose or object underlying the Act or instrument
 and, in the case of a legislative instrument, the purpose or object underlying
 the Act under which the instrument was made); or
-
              (b)         to determine the meaning of the provision--
-
                    (i)         if the provision is ambiguous or obscure; or
-
                    (ii)         if the ordinary meaning conveyed by the text of the provision (taking
 into account its context in the Act or instrument and the purpose or object
 underlying the Act or instrument and, in the case of a legislative instrument,
 the purpose or object underlying the Act under which the instrument was made)
 leads to a result that is manifestly absurd or is unreasonable.
-
          (2)         Without limiting the effect of subsection (1), the material that
 may be considered in accordance with that subsection in the interpretation of a
 provision includes the following:
-
              (a)         all matters not forming part of the Act or instrument that are set out
 in the document containing the text of the Act or instrument as printed or
 published by the Government Printer or as published under the Legislation
 Revision and Publication Act 2002;
-
              (b)         any relevant report of a Royal Commission, Law Reform Commission,
 committee of inquiry or other similar body that was laid before either House of
 the Parliament before the provision was enacted or made;
-
              (c)         any relevant report of a committee of the Parliament or of either
 House of the Parliament before the provision was enacted or made;
-
              (d)         any treaty or other international agreement that is referred to in the
 Act;
-
              (e)         any explanatory memorandum relating to the Bill for the Act, or any
 other relevant document, that was laid before, or furnished to the members of,
 either House of the Parliament by a Minister or other member of Parliament
 introducing the Bill before the provision was enacted or made;
-
              (f)         the speech made to a House of Parliament by a Minister or other member
 of Parliament on the occasion of the moving by that Minister or member of a
 motion that the Bill for the Act be read a second time in that House;
-
              (g)         any document (whether or not a document to which a preceding paragraph
 applies) that is declared by the Act to be a relevant document for the purposes
 of this section;
-
              (h)         any relevant material in the Minutes of Proceedings or the Votes and
 Proceedings of either House of Parliament or in any official record of debates
 in Parliament or either House of Parliament.
-
          (3)         In determining whether consideration should be given to any material,
 or in considering the weight to be given to any material, regard must be had, in
 addition to any other relevant matters, to--
-
              (a)         the desirability of persons being able to rely on the ordinary meaning
 conveyed by the text of the provision (taking into account its context in the
 Act or instrument and the purpose or object underlying the Act or instrument
 and, in the case of a legislative instrument, the purpose or object underlying
 the Act under which the instrument was made); and
-
              (b)         the need to avoid prolonging legal or other proceedings without
 compensating advantage.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 17
-17--Act
-or instrument deemed always speaking
-
+Section 17 Act or instrument deemed always speaking
 An Act or a legislative instrument will be considered as speaking at all
 times, and every provision of an Act or a legislative instrument, whether
 expressed in the present or the future tense, will be applied to the
 circumstances as they arise, so that effect may be given to each provision
 according to its spirit, true intent and meaning.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 18
-18--Abrogation
-of presumption that re-enactment etc constitutes Parliamentary approval of prior
-interpretation
-
+Section 18 Abrogation of presumption that re-enactment etc constitutes Parliamentary approval of prior interpretation
 The enactment or re-enactment of a provision of an Act that has been
 construed in a particular manner (judicially or otherwise) in this State or
 elsewhere creates no presumption that Parliament has sanctioned or approved that
 construction.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 19
-19--Material
-that is part of Act or instrument
-
+Section 19 Material that is part of Act or instrument
          (1)         Except as provided
 in subsection (2), everything appearing in an Act or a legislative
 instrument is part of the Act or instrument.
-
          (2)         Subsection (1)
 does not apply to--
-
              (a)         anything described as an editorial note; or
-
              (b)         material appearing under the heading "Legislative History";
 or
-
              (c)         an appendix setting out a table of divisional penalty and expiation
 fee amounts that specifies that it is for convenience of reference
 only.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 19A
-19A--Amending
-Act or instrument to be construed as part of amended Act or
-instrument
-
+Section 19A Amending Act or instrument to be construed as part of amended Act or instrument
 An Act or legislative instrument that amends another Act or legislative
 instrument must be construed with the other Act or instrument as part of that
 other Act or instrument.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 20
-20--Use
-of examples
-
+Section 20 Use of examples
 An example included in an Act or a legislative instrument--
-
              (a)         is not exhaustive; and
-
              (b)         may extend, but does not limit, the meaning of the provision of the
 Act or legislative instrument to which it relates.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 21
-21--Things
-to be done by Governor to mean by Governor with advice of Executive
-Council
-
+Section 21 Things to be done by Governor to mean by Governor with advice of Executive Council
 If, in an Act passed, or a legislative instrument made, after
-1 January 1873, the Governor is authorised or required to do any act,
+Section 1 January 1873, the Governor is authorised or required to do any act,
 matter or thing, it will be taken to mean that the act, matter or thing may or
 must be done by the Governor with the advice and consent of the Executive
 Council.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 22
-22--Determining
-whether Act or instrument binds Crown
-
+Section 22 Determining whether Act or instrument binds Crown
          (1)         Subject to subsection (2), an Act passed, or a legislative
 instrument made, after 20 June 1990 will, unless the contrary
 intention appears (either expressly or by implication), be taken to bind the
 Crown, but not so as to impose any criminal liability on the Crown.
-
          (2)         If an Act
 passed, or a legislative instrument made, after 20 June 1990 amends an
 Act passed, or a legislative instrument made, before that date, the question
 whether the amendment binds the Crown will be determined in accordance with
 subsection (3).
-
          (3)         An Act passed, or a
 legislative instrument made, on or before 20 June 1990 will only be
 taken to bind the Crown if the Act or instrument expressly, or by necessary
 implication, binds the Crown.
-
          (4)         If an Act or a legislative instrument, or a provision of an Act or a
 legislative instrument, (whether passed or made before or after
-20 June 1990) binds the Crown but not so as to impose any criminal
+Section 20 June 1990) binds the Crown but not so as to impose any criminal
 liability on the Crown, the Crown's immunity from criminal liability extends
 (unless the contrary intention is expressed) to an agent of the Crown in respect
 of an act within the scope of the agent's obligations.
-
          (5)         If an Act or a legislative instrument, or a provision of an Act or a
 legislative instrument, (whether passed or made before or after
-20 June 1990) does not bind the Crown, the Crown's immunity extends
+Section 20 June 1990) does not bind the Crown, the Crown's immunity extends
 (unless the contrary intention is expressed) to an agent of the Crown in respect
 of an act within the scope of the agent's obligations.
-
          (6)         For the purposes of this section--
-
              (a)         a reference to the Crown extends not only to the Crown in right of
 this State but also (so far as the legislative power of the State permits) to
 the Crown in any other capacity; and
-
              (b)         a reference to an agent of the Crown extends to an instrumentality,
 officer or employee of the Crown or a contractor or other person who carries out
 functions on behalf of the Crown; and
-
              (c)         an agent acts within the scope of the agent's obligations if the act
 is reasonably required for carrying out of obligations or functions imposed on,
 or assigned to, the agent.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 23
-23--Date
-of establishment of State
-
+Section 23 Date of establishment of State
 The State is taken to have been established on
-28 December 1836.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 24
-24--Declaration
-of validity of laws made before Australia Acts
-
+Section 28 December 1836.
+Section 24 Declaration of validity of laws made before Australia Acts
 Each provision of an Act or a legislative instrument enacted or made, or
 purporting to have been enacted or made, before the commencement of the
 Australia Acts is as valid as it would have been, and has the same effect as it
 would have had, if the Australia Acts had been in operation at the time of its
 enactment or making or purported enactment or making.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 25
-25--Acts
-taken to be public Acts
-
+Section 25 Acts taken to be public Acts
 An Act passed after 1 January 1873 is taken to be a public
 Act.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 26
-26--No
-requirement for separate enacting words
-
+Section 26 No requirement for separate enacting words
 There is no requirement for a provision or portion of an Act to have
 separate enacting words in order to have effect as a substantive
 enactment.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 27
-27--Commencement
-of Acts
-
+Section 27 Commencement of Acts
          (1)         An Act that
 contains no provision fixing the date of its commencement, or providing for the
 fixing of that date, comes into operation on the day on which it is assented to
 by, or on behalf of, the Crown.
-
          (2)         If a Bill is reserved for the signification of Her Majesty's assent,
 the Bill will be taken, for the purposes of subsection (1), to have been
 assented to on the day on which the assent is notified by proclamation in the
 State.
-
          (3)         If an Act
 provides that the Act comes into operation on a day to be fixed by proclamation,
 or that any provisions of the Act come into operation on a day to be fixed by
 proclamation, then, unless the contrary intention appears, the Governor may by
 proclamation--
-
              (a)         fix a day or time for the Act or provisions to come into operation;
 or
-
              (b)         fix different days or times for different provisions of the Act to
 come into operation; or
-
              (c)         suspend the operation of specified provisions of the Act until a day
 or time or days or times to be fixed by subsequent proclamation or
 proclamations.
-
          (4)         For the purposes of subsection (3), a reference to a provision of
 an Act extends to--
-
              (a)         a part of a provision; and
-
              (b)         a provision to be inserted into another Act by the Act.
-
          (5)         The Governor may, by subsequent proclamation made before the day or
 time fixed by proclamation under subsection (3) for an Act or provision to
 come into operation, amend the proclamation to fix a different day or time for
 the Act or provision to come into operation.
-
          (6)         Subject to
 subsection (7), an Act or a provision of an Act passed--
-
              (a)         after the commencement of this subsection; or
-
              (b)         within the period of 2 years before the commencement of this
 subsection,
-
 that is to be brought into operation by proclamation will be taken to come
 into operation on the second anniversary of the date on which the Act was
 assented to by, or on behalf of, the Crown unless brought into operation before
 that second anniversary.
-
          (7)         Subsection (6)
 does not apply to an Act or a provision of an Act if the Act or provision
 provides that that subsection does not apply (or, if the Act or provision was
 enacted before the commencement of that subsection, that section 7(5) of
 the Acts Interpretation Act 1915 does not apply).
-
 Note--
-
 In relation to commencement of legislative instruments see the
 Legislative Instruments Act 1978.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 28
-28--Time
-of commencement
-
+Section 28 Time of commencement
 If an Act or a legislative instrument, or a provision of an Act or a
 legislative instrument, comes into operation on a particular day, the Act or
 instrument, or the provision, comes into operation at the beginning of that
 day.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 29
-29--Expiry
-
+Section 29 Expiry
 An Act or a legislative instrument may include a provision specifying a day
 on which the Act or instrument (or any provision of the Act or instrument)
 expires.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 30
-30--Time
-of expiry
-
+Section 30 Time of expiry
 If an Act or a legislative instrument, or a provision of an Act or a
 legislative instrument, is expressed to expire, lapse or otherwise cease to have
 effect on a particular day, or to remain or continue in force or otherwise have
 effect until a particular day, the Act or instrument, or the provision,
 continues to have effect until the end of the specified day.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 31
-31--Use
-of headings to indicate amending provisions
-
+Section 31 Use of headings to indicate amending provisions
          (1)         In an Act, a provision under a heading referring to the amendment of a
 specified Act or a legislative instrument amends the Act or instrument so
 specified.
-
          (2)         In a legislative instrument made by an authority, a provision under a
 heading referring to the amendment of a specified legislative instrument made by
 the same authority amends the instrument so specified.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 32
-32--Effect
-of repeal, amendment or expiry
-
+Section 32 Effect of repeal, amendment or expiry
          (1)         This section applies if an Act or a legislative instrument, or a
 provision of an Act or a legislative instrument--
-
              (a)         is repealed or amended; or
-
              (b)         expires.
-
          (2)         The repeal,
 amendment or expiry of the Act, legislative instrument or provision does
 not--
-
              (a)         revive anything not in force or existing at that time; or
-
              (b)         affect the previous operation of the Act, instrument or provision or
 anything duly done or suffered under it; or
-
              (c)         affect any direct amendments made by the Act, instrument or provision;
 or
-
              (d)         affect any right,
 interest, title, power or privilege created, acquired, accrued, established or
 exercisable, or any status or capacity existing, under the Act, instrument or
 provision; or
-
              (e)         affect any duty,
 obligation, liability or burden of proof imposed, created or incurred, or any
 penalty, forfeiture or punishment incurred or imposed or liable to be incurred
 or imposed, under the Act, instrument or provision; or
-
              (f)         affect any
 investigation, legal proceeding or remedy in respect of anything mentioned in
 paragraph (d) or (e).
-
          (3)         An investigation, legal proceeding or remedy mentioned in
 subsection (2)(f) may be commenced, continued or enforced, and a penalty,
 forfeiture or punishment mentioned in subsection (2)(e) may be imposed, as
 if the Act, legislative instrument or provision had not been repealed or amended
 or had not expired.
-
          (4)         If an office, court, tribunal or body would, apart from this section,
 cease to exist by reason of the repeal, amendment or expiry, then, for the
 purpose of instituting, continuing or enforcing any such investigation, legal
@@ -1241,37 +847,24 @@ proceeding or remedy, the office, court, tribunal or body continues in existence
 (and, if necessary, new appointments may be made to it) as if the repeal or
 amendment had not been effected, or as if the expired Act, legislative
 instrument or provision had not expired (as the case may be).
-
          (5)         An Act or a legislative instrument, or a provision of an Act or a
 legislative instrument, will, despite its repeal, amendment or expiry, continue
 in force for the purposes of continuing and completing any act, matter or thing
 commenced or in progress under that Act, instrument or provision if there is no
 substituted Act, instrument or provision adapted to its continuance and
 completion.
-
          (6)         The repeal, amendment or expiry of the Act, legislative instrument or
 provision does not--
-
              (a)         affect the continued operation of a provision enacted or made by that
 Act, instrument or provision that is of a savings or transitional nature;
 or
-
              (b)         end the validating effect of a provision enacted or made by that Act,
 instrument or provision that validates anything that is or may otherwise be
 invalid.
-
          (7)         In this section--
-
 "legal proceeding" includes any proceeding pursuant to an Act
 or law whether of a judicial or administrative nature.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 33
-33--Saving
-of administrative acts and instruments when provisions
-replaced
-
+Section 33 Saving of administrative acts and instruments when provisions replaced
          (1)         If an Act or a legislative instrument, or a provision of an Act or a
 legislative instrument, is replaced, an administrative act done in accordance
 with it (as in force before it was replaced and not being an administrative act
@@ -1279,1052 +872,597 @@ the effect of which was exhausted) will be regarded as an administrative act
 done for the purposes of the replacement Act, instrument or provision if it is
 not inconsistent with the Act, instrument or provision as in force after it is
 replaced.
-
          (2)         If--
-
              (a)         a legislative instrument or other instrument is in force under a
 provision of an Act; and
-
              (b)         the Act, or the provision of the Act, is replaced by a subsequent Act
 or provision that contains or provides a power to make instruments to the same
 or similar effect,
-
 the instrument will, subject to the subsequent Act or provision, remain in
 force as if the subsequent Act or provision had been in force when the
 instrument was made and the instrument had been made under that Act or
 provision.
-
          (3)         An Act or a
 legislative instrument, or provision of an Act or a legislative instrument, will
 be taken to have been "replaced" if it has been repealed or
 superseded by a later Act, instrument or provision that deals with the same
 matter (whether it deals with the matter in the same manner or not and whether
 it deals only with the matter or with other matters also).
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 34
-34--Amendment
-or repeal of Act in session in which it was passed
-
+Section 34 Amendment or repeal of Act in session in which it was passed
 An Act may be amended or repealed in the session of Parliament in which it
 was passed.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 35
-35--Citation
-and references to other enactments
-
+Section 35 Citation and references to other enactments
          (1)         An Act or a legislative instrument of this jurisdiction may be cited
 by--
-
              (a)         its short title; or
-
              (b)         its short title abbreviated by omitting reference to any year except
 the year in which it was passed.
-
          (2)         An Act or a legislative instrument of any other jurisdiction may be
 cited by its short title or by any method authorised by, or commonly used in,
 the legislation of that other jurisdiction, together with a reference to the
 jurisdiction.
-
          (3)         A reference in an Act or a legislative instrument to an Act of this or
 any other jurisdiction includes a reference to legislative instruments made or
 in force under that Act.
-
          (4)         A reference in an Act or a legislative instrument to a portion or
 provision of an Act of this or any other jurisdiction includes a reference
 to--
-
              (a)         legislative
 instruments made or in force under that portion or provision of that Act;
 and
-
              (b)         legislative instruments made or in force under some other portion or
 provision of that Act that are connected to the portion or provision mentioned
 in paragraph (a).
-
          (5)         Nothing in this section renders unlawful or ineffective any citation
 or reference that is not made in a manner authorised by this section.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 36
-36--References
-to amended or replaced Acts, legislative instruments and
-provisions
-
+Section 36 References to amended or replaced Acts, legislative instruments and provisions
          (1)         This section applies to a reference in an Act or a legislative
 instrument to--
-
              (a)         an Act, or a provision of an Act, of this or any other jurisdiction;
 or
-
              (b)         a legislative instrument, or a provision of a legislative instrument,
 of this or any other jurisdiction.
-
          (2)         The reference is a reference to that Act, legislative instrument or
 provision as amended from time to time and, if it is replaced (within the
 meaning of section 33(3)), as replaced and amended from time to
 time.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 37
-37--Performance
-of functions
-
+Section 37 Performance of functions
          (1)         If an Act or a legislative instrument confers a function on a person
 or body, the function may be performed from time to time as occasion
 requires.
-
          (2)         If an Act or a legislative instrument confers a function on the holder
 of a particular office, the function may be performed by the person for the time
 being holding or performing the duties of the office.
-
          (3)         If an Act or a legislative instrument confers a function on a body,
 the performance of the function is not affected merely because of a vacancy in
 the membership of the body or a defect in the appointment of a member.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 38
-38--Performance
-of functions under provision before commencement
-
+Section 38 Performance of functions under provision before commencement
          (1)         If--
-
              (a)         a provision of an Act that has passed, or a legislative instrument
 that has been made, is not yet in operation; and
-
              (b)         it is expedient that a function conferred on a person or body by the
 provision be performed before it comes into operation,
-
 the function may be so performed before the provision comes into
 operation.
-
          (2)         Subject to subsection (3), anything created, granted, issued,
 done or made under or pursuant to a provision by virtue of subsection (1)
 will take effect when the provision comes into operation and not
 before.
-
          (3)         If the function
 that is performed is the appointment of a person to a specified office or the
 establishment of a specified body--
-
              (a)         the appointed person may act in the office or the established body may
 meet and perform its functions with the same entitlement to remuneration or
 allowances as if the provision were in operation; but
-
              (b)         any function performed by that person or body pursuant to
 subsection (1) does not take effect until the relevant provision comes into
 operation.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 39
-39--Certain
-meetings etc may occur remotely
-
+Section 39 Certain meetings etc may occur remotely
          (1)         If an Act or a
 legislative instrument requires that a meeting occur or that some other
 transaction take place that requires 2 or more persons to be physically present,
 the requirement will be taken to be satisfied if the persons meet, or the
 transaction takes place, remotely using 1 or both (including a combination) of
 the following means of communication:
-
              (a)         audio visual;
-
              (b)         audio.
-
          (2)         However, subsection (1) does not apply to a requirement that a
 person be physically present to witness the signing, execution, certification or
 stamping of a document or to take any oath, affirmation or declaration in
 relation to a document.
-
          (3)         Subsection (1) does not apply to a meeting or transaction, or
 meeting or transaction of a class, prescribed by the regulations.
-
          (4)         A person who participates in a meeting in accordance with this section
 is taken to be present at the meeting, and to form part of any quorum for the
 meeting, even if the person is not physically present at the same place as
 another person participating in the meeting.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 40
-40--Power
-to make instrument includes power to amend or repeal
-
+Section 40 Power to make instrument includes power to amend or repeal
 A power under an Act or a legislative instrument to make an instrument
 (including a legislative instrument) includes a power to amend or repeal the
 instrument in the same way, and subject to the same conditions if appropriate
 for that purpose, as it was made.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 41
-41--Powers
-of appointment
-
+Section 41 Powers of appointment
          (1)         This section applies if an Act or a legislative instrument authorises
 or requires a person (the "appointer")--
-
              (a)         to appoint a person to an office or to act in an office; or
-
              (b)         to appoint a person to perform a function or do any other
 thing,
-
 and any form of authorisation to perform a function or do a thing is taken
 to be an "appointment" for the purposes of this section.
-
          (2)         The appointer may (in the appointer's discretion) do any of the
 following:
-
              (a)         appoint a person by name or by reference to the title of an office
 held by a person;
-
              (b)         determine the terms and conditions of the appointment, including
 remuneration and allowances (if any);
-
              (c)         terminate or suspend an appointment;
-
              (d)         reinstate or reappoint a person whose appointment has been terminated
 or suspended;
-
              (e)         appoint another person, temporarily or permanently--
-
                    (i)         if the person previously appointed is, for any reason, unable to carry
 out the duties of the office or position; or
-
                    (ii)         if the office or position is vacant (including where the previous
 appointment has been terminated or suspended).
-
          (3)         An authorisation or
 requirement in an Act or a legislative instrument to appoint a person to an
 office will be taken to include an authorisation to appoint a person to act in
 the office.
-
          (4)         A person may be appointed to act in an office (whether pursuant to a
 specific authorisation or requirement in an Act or a legislative instrument or
 pursuant to subsection (3)) even if no appointment has ever been made to
 the office.
-
          (5)         If the holder of a particular office is appointed to do a thing, the
 person for the time being holding or performing the duties of that office is
 taken to be appointed to do that thing.
-
          (6)         A person appointed to act in an office has all the functions of the
 holder of the office.
-
          (7)         An appointment made by the holder of a particular office does not
 cease to have effect merely because the appointer ceases to hold that
 office.
-
          (8)         Anything done by, or in relation to, a person purporting to act in an
 office pursuant to an appointment is not invalid merely because--
-
              (a)         the occasion for the appointment had not arisen; or
-
              (b)         there was a defect or irregularity in connection with the appointment;
 or
-
              (c)         the appointment had ceased to have effect; or
-
              (d)         the occasion for the person to act had not arisen or had
 ceased.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 42
-42--Gender
-balance in nomination of persons for appointment to statutory
-bodies
-
+Section 42 Gender balance in nomination of persons for appointment to statutory bodies
          (1)         This section
 applies if an Act or a legislative instrument provides for a member of a body to
 be appointed by the Governor or a Minister on the nomination of a non-government
 entity.
-
          (2)         If the Act provides for the non-government entity to nominate a panel
 of persons from which the Governor or Minister is to select a person for
 appointment, the Act will be taken to provide that the panel--
-
              (a)         must include at least 1 woman and 1 man; and
-
              (b)         must, as far as practicable, be comprised of equal numbers of women
 and men.
-
          (3)         If the Act does not provide for the non-government entity to nominate
 a panel of persons from which the Governor or Minister is to select a person for
 appointment, the Act will be taken to provide that--
-
              (a)         the non-government entity must nominate a panel of persons comprised
 of not less than twice the number of members of the body to be appointed on the
 nomination of the entity plus 1; and
-
              (b)         the
 panel--
-
                    (i)         must include at least 1 woman and 1 man; and
-
                    (ii)         must, as far as practicable, be comprised of equal numbers of women
 and men; and
-
              (c)         the Governor or Minister must select the person for appointment from
 the panel.
-
          (4)         This section does not derogate from the need to properly assess merit
 in selecting persons for appointment.
-
          (5)         In this section--
-
 "man" includes a person who identifies himself as a man
 regardless of the person's designated sex at birth;
-
 "non-government entity" means a person or body other than an
 officer, agency or instrumentality (including a Minister) of the Crown in right
 of the State or the Commonwealth or another State or a Territory of the
 Commonwealth;
-
 "woman" includes a person who identifies herself as a woman
 regardless of the person's designated sex at birth.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 43
-43--Powers
-of delegation
-
+Section 43 Powers of delegation
          (1)         This section applies if an Act or a legislative instrument authorises
 a person or body to delegate a function.
-
          (2)         A delegation may be made subject to conditions or limitations
 specified by the delegator and may be revoked at any time by the
 delegator.
-
          (3)         Unless the Act or the legislative instrument expressly provides to the
 contrary, a delegation of the power of delegation cannot be made (and any
 purported delegation of all of the functions of the delegator will be read as if
 the delegation referred to all of the functions of the delegator other than the
 power of delegation).
-
          (4)         If a function, when
 exercised by a delegator, is dependent on the delegator's opinion, belief or
 state of mind in relation to a matter, the function, when exercised by a
 delegate, is dependent on the delegate's opinion, belief or state of mind in
 relation to that matter.
-
          (5)         A function that has been delegated, when exercised by a delegate, will
 be taken to have been exercised by the delegator.
-
          (6)         A function that has been delegated may, despite the delegation, be
 exercised by the delegator.
-
          (7)         The delegator may delegate the function to a person or body by name or
-by reference to the title of an office held by a person or body. 
-
+by reference to the title of an office held by a person or body.
          (8)         A delegation made to the holder of a particular office will be taken
 to be made to the person for the time being holding or performing the duties of
 the office.
-
          (9)         A delegation of all the functions of a person or body under an Act or
 a legislative instrument, or a provision of an Act or a legislative instrument,
 includes any additional function given to the delegator under the Act,
 instrument or provision by an amendment made to it after the delegation has
 taken effect.
-
          (10)         If a function of a person or body under an Act or a legislative
 instrument is delegated and, after the delegation has taken effect, the scope of
 that function is altered by an amendment made to the Act or the instrument, the
 delegation is of the function as so altered.
-
          (11)         A delegation made by, or to, the holder of a particular office does
 not cease to have effect merely because the person who held the office when the
 function was delegated ceases to do so.
-
          (12)         The validity of a delegation is not affected by a grammatical error,
 spelling error, error of punctuation, formatting error or other minor error if
 the scope and meaning of the delegation is readily apparent despite the
 error.
-
          (13)         In this section--
-
 "delegate" includes sub-delegate.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 44
-44--Calculating
-time
-
+Section 44 Calculating time
          (1)         A period of time referred to in an Act or a legislative instrument
 that is of a kind mentioned in column 2 of an item in the table below is to be
 calculated as set out in column 3 of that item.
-
-      
-      
-      
-
 Column 1
-
 Item
-
 Column 2
-
 If the period of time--
-
 Column 3
-
 then the period--
-
 1
-
 is expressed to occur between 2 days
-
 includes both days
-
 2
-
 is expressed to begin at, on or with a specified day
-
 includes that specified day
-
 3
-
 is expressed to begin on, from or after the happening of an act or
 event
-
 does not include the day on which the act or event occurs
-
 4
-
 is expressed to continue until a specified day
-
 includes that specified day
-
 5
-
 is expressed to end at, on or with a specified day
-
 includes that specified day
-
 6
-
 is expressed to begin after a specified day
-
 does not include that specified day
-
 7
-
 is expressed to end before a specified day
-
 does not include that specified day
-
 8
-
 is a period of 2 or more months expressed to begin at, on or with a
 specified day in a calendar month (the starting month)
-
 ends immediately before the corresponding day of the calendar month (the
 ending month) that is the relevant number of calendar months after the starting
 month or, if there is no corresponding day, at the end of the ending
 month
-
          (2)         If an Act or a legislative instrument requires or allows a thing to be
 done but the last day for doing it is a day that is not a business day, then the
 thing may be done on the next day that is a business day.
-
          (3)         If no period of time is provided or allowed for doing a thing that is
 required to be done, the thing must be done as soon as is reasonably
 practicable.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 45
-45--References
-to time
-
+Section 45 References to time
 A reference in an Act or a legislative instrument to time in relation to
 doing anything in this or any other jurisdiction is a reference to the legal
 time in the jurisdiction.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 46
-46--Part-day
-public holidays and periods of time
-
+Section 46 Part-day public holidays and periods of time
 If, for the purposes of an Act or a legislative instrument, a business day,
 working day or other period is expressed as excluding a public holiday, the
 exclusion does not extend to a part-day public holiday unless the Act or
 legislative instrument expressly provides to the contrary.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 47
-47--References
-to number of sitting days
-
+Section 47 References to number of sitting days
 A reference in an Act or a legislative instrument to a number of sitting
 days of a House of Parliament is, unless the contrary intention appears, a
 reference to the number of those days regardless of whether the days or some of
 the days occur in different sessions of Parliament or in different
 Parliaments.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 48
-48--Measuring
-distance
-
+Section 48 Measuring distance
 In measuring a distance for the purposes of an Act or a legislative
 instrument, the distance is to be measured in a straight line on a horizontal
 plane.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 49
-49--Attaining
-particular age
-
+Section 49 Attaining particular age
          (1)         A person attains a
 particular age expressed in years at the beginning of the relevant anniversary
 of the date of the person's birth.
-
          (2)         If a person was born on 29 February, subsection (1) will
 apply in relation to the person in each leap year and, in any year that is not a
 leap year, the person will attain a particular age expressed in years at the
 beginning of 1 March.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 50
-50--Rounding
-down of monetary amounts
-
+Section 50 Rounding down of monetary amounts
 An Act or a legislative instrument providing for the calculation and
 payment of a tax, fee, charge or other amount must be construed as if it
 provided that the calculated amount, if not an exact multiple of 5 cents,
 is to be rounded down to the highest multiple of 5 cents that is less than
 that amount.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 51
-51--Service
-of documents
-
+Section 51 Service of documents
          (1)         This section applies if an Act or a legislative instrument requires or
 permits a document to be served on a person (whether the expression "serve",
 "give", "provide", "deliver" or "send" or any other expression is
 used).
-
          (2)         The document may be served on an individual by--
-
              (a)         delivering it to the individual personally; or
-
              (b)         leaving it at, or posting it to--
-
                    (i)         the physical address designated by the individual for the service of
 documents of that kind; or
-
                    (ii)         if such an address is not so designated, the place of residence or a
 place of business of the individual last known to the server; or
-
              (c)         sending it electronically to the individual in a manner designated, or
 agreed to, by the individual for the service of documents of that
 kind.
-
          (3)         The document may be served on a body corporate by--
-
              (a)         leaving it at, or posting it to--
-
                    (i)         the registered office of the body corporate; or
-
                    (ii)         another physical address designated by the body corporate for the
 service of documents of that kind; or
-
                    (iii)         if such an address is not so designated, a place of business of the
 body corporate last known to the server; or
-
              (b)         sending it electronically to the body corporate in a manner
 designated, or agreed to, by the body corporate for the service of documents of
 that kind.
-
          (4)         A document is posted to an address by properly addressing, prepaying
 and posting the document as a letter.
-
          (5)         Unless the contrary is proved, service of a document by posting it to
 an individual or a body corporate is taken to be effected at the time at which
 the document would be delivered in the ordinary course of post for the postal
 service used.
-
 Note--
-
 The time and place of service of a document sent electronically is to be
 determined in accordance with the Electronic Communications
 Act 2000.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 52
-52--Compliance
-with forms
-
+Section 52 Compliance with forms
 If a form is prescribed or approved by or for the purposes of an Act or a
 legislative instrument, a form to the same effect is sufficient provided that
 deviations from the prescribed or approved form are not calculated to
 mislead.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 53
-53--Penalties
-
+Section 53 Penalties
          (1)         A penalty set out at the end of a provision of an Act or a legislative
 instrument indicates that--
-
              (a)         an offence mentioned in the provision is punishable on finding of
 guilt by a penalty not exceeding the penalty so set out; or
-
              (b)         if an offence is not mentioned in the provision, a contravention of
 the provision is an offence punishable on finding of guilt by a penalty not
 exceeding the penalty so set out.
-
          (2)         If the penalty for an offence--
-
              (a)         is increased, the increased penalty applies only to offences committed
 after the increase takes effect; or
-
              (b)         is reduced, the reduced penalty extends to offences committed before
 the reduction takes effect (if the penalty is being imposed after the reduction
 takes effect).
-
          (3)         In this section--
-
 "penalty" includes punishment.
-
 Note--
-
 See also Expiation of Offences Act 1996 in relation to
 expiation fees fixed by an Act or a legislative instrument.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 54
-54--Standard
-scales for penalties and expiation fees
-
+Section 54 Standard scales for penalties and expiation fees
 If an expression in the left hand column below appears in an Act or a
 legislative instrument, that expression has the meaning appearing opposite it in
 the right hand column:
-
-      
-      
-
 Division 1 imprisonment
-
 a term of imprisonment not exceeding 15 years
-
 Division 1 fine
-
 a fine not exceeding $75 000
-
 Division 2 imprisonment
-
 a term of imprisonment not exceeding 10 years
-
 Division 2 fine
-
 a fine not exceeding $50 000
-
 Division 3 imprisonment
-
 a term of imprisonment not exceeding 7 years
-
 Division 3 fine
-
 a fine not exceeding $35 000
-
 Division 4 imprisonment
-
 a term of imprisonment not exceeding 4 years
-
 Division 4 fine
-
 a fine not exceeding $20 000
-
 Division 5 imprisonment
-
 a term of imprisonment not exceeding 2 years
-
 Division 5 fine
-
 a fine not exceeding $10 000
-
 Division 6 imprisonment
-
 a term of imprisonment not exceeding 1 year
-
 Division 6 fine
-
 a fine not exceeding $5 000
-
 Division 6 fee
-
 an expiation fee of $315
-
 Division 7 imprisonment
-
 a term of imprisonment not exceeding 6 months
-
 Division 7 fine
-
 a fine not exceeding $2 500
-
 Division 7 fee
-
 an expiation fee of $210
-
 Division 8 imprisonment
-
 a term of imprisonment not exceeding 3 months
-
 Division 8 fine
-
 a fine not exceeding $1 250
-
 Division 8 fee
-
 an expiation fee of $160
-
 Division 9 fine
-
 a fine not exceeding $750
-
 Division 9 fee
-
 an expiation fee of $105
-
 Division 10 fine
-
 a fine not exceeding $250
-
 Division 10 fee
-
 an expiation fee of $80
-
 Division 11 fine
-
 a fine not exceeding $125
-
 Division 11 fee
-
 an expiation fee of $55
-
 Division 12 fine
-
 a fine not exceeding $75
-
 Division 12 fee
-
 an expiation fee of $30
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 55
-55--Fines
-etc to be paid into Treasury
-
+Section 55 Fines etc to be paid into Treasury
 If a fine, penalty or forfeiture is imposed or made by, or authorised to be
 imposed or made under, any Act, the Act will be taken to provide that the fine,
 penalty or forfeiture, when recovered, must be paid to the Treasurer of the
 State and form part of the Consolidated Account.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 56
-56--References
-to offences
-
+Section 56 References to offences
 A reference in an Act or a legislative instrument to an offence that is
 punishable by imprisonment for a specified term or more includes a reference to
 an offence punishable by imprisonment for life or by an indefinite
 term.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 57
-57--Who
-may proceed for recovery of penalties
-
+Section 57 Who may proceed for recovery of penalties
 Any person may take proceedings to recover a fine, penalty or forfeiture
 imposed by, or authorised to be imposed or awarded under, an Act or a
 legislative instrument, unless the right to take proceedings is vested by the
 Act or the legislative instrument in a particular officer or person.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 58
-58--Interpretation
-of references to summary proceedings, complaints etc
-
+Section 58 Interpretation of references to summary proceedings, complaints etc
          (1)         If an Act or a legislative instrument provides that proceedings for
 offences are to be dealt with, or disposed of, summarily or before a special
 magistrate or 1 or more justices, those offences will be dealt with under
 the Criminal Procedure Act 1921 as summary offences.
-
          (2)         If an Act or a legislative instrument provides that a pecuniary sum
 may be recovered summarily or before or on the award of a special magistrate or
-1 or more justices, that sum may be recovered on information in proceedings
+Section 1 or more justices, that sum may be recovered on information in proceedings
 under the Criminal Procedure Act 1921 and an order for payment made
 in any such proceedings is enforceable as if it were a fine.
-
          (3)         A reference in
 an Act or a legislative instrument to a complaint (being an instrument charging
 a person with a summary offence) will be taken to be a reference to an
 information under the Criminal Procedure Act 1921 (and a reference
 to a complainant will be taken to be a reference to an informant under that
 Act).
-
          (4)         A reference in
 an Act or a legislative instrument to making a complaint in respect of an
 offence will be taken to be a reference to laying an information under the
 Criminal Procedure Act 1921 in respect of an offence of the relevant
 class.
-
          (5)         A reference in an Act or a legislative instrument to a complaint
 (being an instrument charging a person with a summary offence) other than of a
 kind contemplated by subsection (3) or (4) is to be construed so as to
 recognise that, following the commencement of the Summary Procedure
 (Abolition of Complaints) Amendment Act 2016, all offences are to be
 charged on information.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 59
-59--Offences
-punishable under more than 1 law
-
+Section 59 Offences punishable under more than 1 law
 If an act or omission constitutes an offence under 2 or more Acts, or
 both under an Act or Acts and at common law, the offender will, unless the
 contrary intention appears, be liable to be prosecuted and punished under either
 or any of those Acts or at common law, but is not liable to be punished twice
 for the same offence.
-
-LEGISLATION INTERPRETATION ACT 2021
-
-Section 60
-60--Regulations
-
+Section 60 Regulations
          (1)         The Governor may make such regulations as are contemplated by, or
 necessary or expedient for the purposes of, this Act.
-
          (2)         The regulations
 may--
-
              (a)         be of general or limited application; and
-
              (b)         make different provision according to the matters or circumstances to
 which they are expressed to apply; and
-
              (c)         make provisions
 of a saving or transitional nature consequent on the enactment of this Act or on
 the commencement of specified provisions of this Act or on the making of
 regulations under this Act; and
-
              (d)         provide that a matter or thing in respect of which regulations may be
 made is to be determined according to the discretion of the Minister or any
 other specified person or body.
-
 LEGISLATION INTERPRETATION ACT 2021
  - SCHEDULE 1
 Schedule 1--Transitional provisions
 Part 7--Transitional
 provisions
-
 24--Bills
 introduced before commencement of section 19
-
          (1)         Despite section 19, section headings to amending provisions do
 not form part of an Act if the Bill for that Act was introduced in either House
 of Parliament before the commencement of section 19 (regardless of whether
 the Bill passes the Parliament, or comes into operation, after the commencement
 of section 19).
-
          (2)         In this clause--
-
 amending provision of an Act means a provision of an Act that
 amends another Act.
-
 25--References
 to time
-
 Section 44 does not operate to alter the period of time provided or
 allowed for the doing of anything under an Act or a statutory instrument if the
 period commenced before the commencement of this Act.
-
 LEGISLATION INTERPRETATION ACT 2021
  - NOTES
-
 Legislative
 history
-
     *     Please note--References in the legislation to other
 legislation or instruments or to titles of bodies or offices are not
 automatically updated as part of the program for the revision and publication of
 legislation and therefore may be obsolete.
-
     *     Earlier versions of this Act (historical versions) are listed at
 the end of the legislative history.
-
     *     For further information relating to the Act and subordinate
 legislation made under the Act see the Index of South Australian Statutes or
 www.legislation.sa.gov.au.
-
 Legislation repealed by principal
 Act
-
 The Legislation Interpretation Act 2021 repealed the
 following:
-
 Acts Interpretation Act 1915
-
 Legislation amended by principal Act
-
 The Legislation Interpretation Act 2021 amended the
 following:
-
 Evidence Act 1929
-
 Legislation (Fees) Act 2019
-
 Legislation Revision and Publication Act 2002
-
 Subordinate Legislation Act 1978
-
 Principal Act and amendments
-
 New entries appear in bold.
-
-      
-      
-      
-      
-      
-
 Year
-
 No
-
 Title
-
 Assent
-
 Commencement
-
 2021
-
 36
-
 Legislation Interpretation Act 2021
-
 30.9.2021
-
-1.1.2022 (Gazette 23.12.2021 p4619)
-
+Section 1.1.2022 (Gazette 23.12.2021 p4619)
 2023
-
 39
-
 Public Holidays Act 2023
-
 7.12.2023
-
 Sch 1 (cl 11)--1.1.2024: s 2
-
 2025
-
 55
-
 Statutes Amendment (Attorney-General's Portfolio)
 Act 2025
-
 20.11.2025
-
 Pt 5 (s 7)--20.11.2025: s 2
-
 Provisions amended
-
 New entries appear in bold.
-
 Entries that relate to provisions that have been deleted appear in
 italics.
-
-      
-      
-      
-
 Provision
-
 How varied
-
 Commencement
-
 Long title
-
 amended under Legislation Revision and Publication
 Act 2002
-
 1.1.2024
-
 s 2
-
 omitted under Legislation Revision and Publication
 Act 2002
-
 1.1.2024
-
 s 4
-
 bank holiday
-
 amended by 39/2023 Sch 1 cl 11(1)
-
 1.1.2024
-
 part-day public holiday
-
 amended by 39/2023 Sch 1 cl 11(2)
-
 1.1.2024
-
 public holiday
-
 amended by 39/2023 Sch 1 cl 11(3)
-
 1.1.2024
-
 s 19A
-
 inserted by 55/2025 s 7
-
 20.11.2025
-
 Sch 1
-
 Pts 1--6
-
 omitted under Legislation Revision and Publication
 Act 2002
-
 1.1.2024
-
 Historical versions
-
-      
-      
-
 1.1.2024

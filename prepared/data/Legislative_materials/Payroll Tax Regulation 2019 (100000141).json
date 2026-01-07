@@ -1,0 +1,305 @@
+{
+  "doc": {
+    "jurisdiction": "queensland",
+    "source_url": "https://classic.austlii.edu.au/au/legis/qld/consol_reg/ptr2019246/",
+    "register_url": "https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2019-0147",
+    "source": "Payroll Tax Regulation 2019 (100000141).txt",
+    "filename": "Payroll Tax Regulation 2019 (100000141).json",
+    "name": "Payroll Tax Regulation 2019",
+    "citation": "Payroll Tax Regulation 2019"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 1",
+      "text": "This regulation may be cited as the Payroll Tax Regulation 2019.\nCommencement"
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 2",
+      "text": "This regulation commences on 2 September 2019.\nDefinitions"
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Definitions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Regulation 3",
+      "text": "The dictionary in schedule 1 defines particular words used in this regulation.\nValue of taxable wagesâAct, s 13"
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Value of taxable wagesâAct, s 13",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Value of taxable wagesâAct, s 13",
+      "defined_term": null,
+      "structure_path": "Part 2 - LIABILITY TO TAXATION > Regulation 4",
+      "text": "For section 13 (1) of the Act, the value of taxable wages paid or payable in\nkind by an employer (other than fringe benefits under the Fringe Benefits\nAssessment Act) is the highest of the following amountsâ\n     (a) the amount agreed under arrangements between the employer and\n     employee as the value of the taxable wages;\n     (b) the amount attributed by the employer as the value of the taxable\n     wages having regard to arrangements between the employer and\n     employee;\n     (c) the amount worked out by a person appointed by the commissioner\n     under section 13 (3) of the Act as the value of the taxable wages\n     having regard to arrangements between the employer and employee.\nThings that are not fringe benefitsâAct, sch, definition fringe benefit"
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Things that are not fringe benefitsâAct, sch, definition fringe benefit",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Things that are not fringe benefitsâAct, sch, definition fringe benefit",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 1 - Preliminary > Regulation 5",
+      "text": "(1) For the schedule of the Act, definition\n     \"fringe benefit\", paragraph (d), a tax-exempt body entertainment\n     fringe benefit is prescribed not to be a fringe benefit.\n     (2) In this sectionâ\n     \"tax-exempt body entertainment fringe benefit\" see the Fringe\n     Benefits Assessment Act, section 136 (1).\nNotice of amended assessments under the Fringe Benefits Assessment Act"
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Notice of amended assessments under the Fringe Benefits Assessment Act",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Notice of amended assessments under the Fringe Benefits Assessment Act",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 1 - Preliminary > Regulation 6",
+      "text": "An employer must, within 30 days of receiving a notice of an amended assessment\nunder the Fringe Benefits Assessment Act, give the commissioner a copy of the\nnotice.\n     Penalty--\n          Maximum penaltyâ20 penalty units.\nCalculation of fringe benefits on same basis"
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Calculation of fringe benefits on same basis",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Calculation of fringe benefits on same basis",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 1 - Preliminary > Regulation 7",
+      "text": "(1) An employer must calculate fringe benefits on the same basis for\n     a financial yearâ\n          (a) for each periodic, annual or final return lodged by the\n          employer for the financial year; and\n          (b) for working out the employerâs relevant payroll tax\n          and levy liabilities for the financial year; and\n          (c) if the employer is a non-DGE group memberâfor giving\n          information to the DGE for the group under sections 88A,\n          88B, 88C or 88D of the Act in relation to the financial\n          year; and\n          (d) if the employer is the DGE for a groupâfor giving\n          information to non-DGE group members under section 88A or\n          88E of the Act in relation to the financial year, to the\n          extent the information relates to the DGE.\n          Noteâ\n               Non-compliance with subsection (1) may affectâ\n                    (a) if the employer is not a group\n                    member or is the DGE for a groupâthe\n                    employerâs liability for payroll tax\n                    and the mental health levy; or\n                    (b) if the employer is a non-DGE group\n                    memberâ\n                         (i) the employerâs\n                         liability for payroll tax;\n                         and\n                         (ii) the liability of the\n                         employer and the DGE for the\n                         group for the mental health\n                         levy.\n     (2) This section is subject to sections 11 to 13.\nPurpose of division"
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Purpose of division",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Purpose of division",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 2 - Basis for calculating fringe benefitsâAct, s 91 > Subdivision 1 - Preliminary > Regulation 8",
+      "text": "This division provides, for section 91 (1) and (3) (b) of the Act, for the\nelection by an employer to include in returns an estimated value amount, or an\nactual value amount, for fringe benefits.\nApplication of subdivision"
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Application of subdivision",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Application of subdivision",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 2 - Basis for calculating fringe benefitsâAct, s 91 > Subdivision 2 - Electing to calculate fringe benefits on estimated value basis > Regulation 9",
+      "text": "This subdivision applies to an employer who has paid, or is liable to pay,\nfringe benefits tax for at least 15 consecutive months immediately before the\nstart of a financial year (a\n\"relevant financial year\").\nElection in first periodic return period for relevant financial year"
+    },
+    {
+      "key": "regulation:10",
+      "title": "Regulation 10 - Election in first periodic return period for relevant financial year",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Election in first periodic return period for relevant financial year",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 2 - Basis for calculating fringe benefitsâAct, s 91 > Subdivision 2 - Electing to calculate fringe benefits on estimated value basis > Regulation 10",
+      "text": "(1) The employer may elect to include in returns estimated value\n     amounts and use those amounts to work out the employerâs prelevant\n     payroll tax and levy liabilities.\n     (2) The employer makes an election under subsection (1) by using an\n     estimated value amount to work out the employerâs periodic\n     liability and periodic levy liability for the first periodic return\n     period for the relevant financial year.\n     (3) An election under subsection (1) continues to apply until the\n     employer elects, under subdivision 3, to use actual value amounts to\n     work out the employerâs relevant payroll tax and levy liabilities.\n     (4) If an election under subsection (1) applies to the employer on 30\n     June in the relevant financial year or a later financial year, the\n     employer must include an estimated value amount as part of the wages\n     paid or payable during that year by the employerâ\n          (a) in the employerâs annual return for the financial\n          year; and\n          (b) if the employer is a non-DGE group memberâin the\n          information given to the DGE under section 88A (5) of the\n          Act in relation to the financial year.\n     (5) An election under subsection (1) applies for working outâ\n          (a) periodic liability and periodic levy liability for the\n          periodic return period mentioned in subsection (2); and\n          (b) all subsequent relevant payroll tax and levy\n          liabilities for the employer while the election continues\n          to apply.\nElection during relevant financial year"
+    },
+    {
+      "key": "regulation:11",
+      "title": "Regulation 11 - Election during relevant financial year",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "11",
+      "main_structural_heading": "Election during relevant financial year",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 2 - Basis for calculating fringe benefitsâAct, s 91 > Subdivision 2 - Electing to calculate fringe benefits on estimated value basis > Regulation 11",
+      "text": "(1) This section applies ifâ\n          (a) the employer wants to elect to include in returns\n          estimated value amounts and use those amounts to work out\n          the employerâs relevant payroll tax and levy liabilities\n          for the relevant financial year; and\n          (b) the employer has not made an election under section 10\n          (1) for the relevant financial year.\n     (2) The employer must apply to the commissioner for consent to make\n     the election.\n     (3) An application under subsection (2) must be in writing.\n     (4) The commissioner must consider the application and decide whether\n     or not to give the consent.\n     (5) The commissioner may give the consent only if reasonably\n     satisfiedâ\n          (a) the main purpose for the employerâs election is not\n          to avoid or reduce the amount of payroll tax or mental\n          health levy that would otherwise be payable for the\n          relevant financial year if the payroll tax or mental health\n          levy were calculated on an actual value basis; and\n          (b) the employer, because of the employerâs\n          circumstances, has compelling reasons for making the\n          election.\n     (6) The commissioner must give the employer written notice of the\n     commissionerâs decision.\n     (7) If the commissioner consents to the election, the employer must\n     elect to include in returns estimated value amounts and use those\n     amounts to work out the employerâs relevant payroll tax and levy\n     liabilities.\n     (8) An election under subsection (7) â\n          (a) is made by the employer using an estimated value amount\n          to work out the employerâs periodic liability and\n          periodic levy liability for the first periodic return\n          period after receiving the consent; and\n          (b) continues to apply until the employer elects, under\n          subdivision 3, to use actual value amounts to work out the\n          employerâs relevant payroll tax and levy liabilities; and\n          (c) applies for working outâ\n               (i) periodic liability and periodic levy\n               liability for the periodic return period\n               mentioned in paragraph (a); and\n               (ii) all subsequent relevant payroll tax and levy\n               liabilities for the employer while the election\n               continues to apply.\n     (9) If the employer makes an election under subsection (7), the\n     employer mustâ\n          (a) use the value of the employerâs Queensland fringe\n          benefits for the last year of tax to work outâ\n               (i) the employerâs annual liability for the\n               relevant financial year; and\n               (ii) if the employer is not a group member or is\n               the DGE for a groupâthe employerâs annual\n               levy liability for the relevant financial year;\n               and\n          (b) include the value of the employerâs Queensland fringe\n          benefits for the last year of tax as part of the wages paid\n          or payable during the relevant financial year by the\n          employerâ\n               (i) in the employerâs annual return for the\n               financial year; and\n               (ii) if the employer is a non-DGE group\n               memberâin the information given to the DGE\n               under section 88A (5) of the Act for the\n               financial year.\n     (10) If the election applies to the employer on 30 June in a\n     financial year after the relevant financial year (a\n     \"subsequent financial year\"), the employer must include an estimated\n     value amount as part of the wages paid or payable during the\n     subsequent financial yearâ\n          (a) in the employerâs annual return for that financial\n          year; and\n          (b) if the employer is a non-DGE group memberâin the\n          information given to the DGE under section 88A (5) of the\n          Act for that financial year.\n     (11) The employer must not purport to make an election under\n     subsection (7) unless the employer has received a consent under this\n     section.\n          Penalty--\n               Maximum penalty for subsection (11) â20 penalty\n               units.\nElection in annual return"
+    },
+    {
+      "key": "regulation:12",
+      "title": "Regulation 12 - Election in annual return",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12",
+      "main_structural_heading": "Election in annual return",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 2 - Basis for calculating fringe benefitsâAct, s 91 > Subdivision 3 - Electing to calculate fringe benefits on actual value basis > Regulation 12",
+      "text": "(1) An employer, who has made an election under subdivision 2 that\n     continues to apply, may elect to include in returns actual value\n     amounts and use those amounts to work out the employerâs relevant\n     payroll tax and levy liabilities.\n     (2) An employer makes an election under subsection (1) by using a\n     reconciliation amount to work outâ\n          (i) the employerâs annual liability for a financial year;\n          and\n          (ii) if the employer is not a group member or is the DGE\n          for a groupâthe employerâs annual levy liability for\n          the financial year.\n     (3) If an employer makes an election under subsection (1), the\n     employer must include a reconciliation amount as part of the wages\n     paid or payable by the employerâ\n          (a) in the employerâs returns for the financial year; and\n          (b) if the employer is a non-DGE group memberâin the\n          information given to the DGE under section 88A (5) of the\n          Act for the financial year.\n     (4) An election under subsection (1) continues to apply until the\n     employer elects, under subdivision 2, to use estimated value amounts\n     to work out the employerâs relevant payroll tax and levy\n     liabilities.\n     (5) An election under subsection (1) applies for working outâ\n          (a) periodic liability for the first periodic return period\n          for the financial year immediately after the financial year\n          in which the employer uses a reconciliation amount to work\n          out the employerâs annual liability and, for an employer\n          who is not a group member or is the DGE for a group, the\n          employerâs annual levy liability; and\n          (b) all subsequent relevant liabilities for the employer\n          while the election continues to apply.\n     (6) In this sectionâ\n     \"relevant liability\", for an employer, meansâ\n          (a) if the employer is not a group member or is the DGE for\n          a groupâthe employerâs periodic liability, annual\n          liability, final liability, periodic levy liability, annual\n          levy liability and final liability; or\n          (b) if the employer is a non-DGE group memberâthe\n          employerâs periodic liability, annual liability, final\n          liability and periodic levy liability.\nElection during financial year"
+    },
+    {
+      "key": "regulation:13",
+      "title": "Regulation 13 - Election during financial year",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13",
+      "main_structural_heading": "Election during financial year",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 2 - Basis for calculating fringe benefitsâAct, s 91 > Subdivision 3 - Electing to calculate fringe benefits on actual value basis > Regulation 13",
+      "text": "(1) This section applies ifâ\n          (a) an employer wants to elect to include in returns actual\n          value amounts and use those amounts to work out the\n          employerâs relevant payroll tax and levy liabilities; and\n          (b) the employer has made an election under subdivision 2\n          that continues to apply.\n     (2) The employer must apply to the commissioner for consent to make\n     the election.\n     (3) An application under subsection (2) must be in writing.\n     (4) The commissioner must consider the application and decide whether\n     or not to give the consent.\n     (5) The commissioner may give the consent only if reasonably\n     satisfiedâ\n          (a) the main purpose for the employerâs election is not\n          to avoid or reduce the amount of payroll tax or mental\n          health levy that would otherwise be payable for the\n          financial year if the payroll tax or mental health levy\n          were calculated on an estimated value basis; and\n          (b) the employer, because of the employerâs\n          circumstances, has compelling reasons for making the\n          election.\n     (6) The commissioner must give the employer written notice of the\n     commissionerâs decision.\n     (7) If the commissioner consents to the election, the employer must\n     elect to include in returns actual value amounts and use those\n     amounts to work out the employerâs relevant payroll tax and levy\n     liabilities.\n     (8) An election under subsection (7) â\n          (a) is made by the employer using an actual value amount to\n          work out the employerâs periodic liability and periodic\n          levy liability for the first periodic return period after\n          receiving the consent; and\n          (b) continues to apply until the employer elects, under\n          subdivision 2, to use estimated value amounts to work out\n          the employerâs relevant payroll tax and levy liabilities;\n          and\n          (c) applies for working outâ\n               (i) periodic liability and periodic levy\n               liability for the periodic return period\n               mentioned in paragraph (a); and\n               (ii) all subsequent relevant liabilities for the\n               employer while the election continues to apply.\n     (9) If the employer makes an election under subsection (7), the\n     employer mustâ\n          (a) use a reconciliation amount to work outâ\n               (i) the employerâs annual liability for the\n               financial year in which the election is made; and\n               (ii) if the employer is not a group member or is\n               the DGE for a groupâthe employerâs annual\n               levy liability for the relevant financial year;\n               and\n          (b) include the reconciliation amount as part of the wages\n          paid or payable during the financial year by the\n          employerâ\n               (i) in the employerâs annual return for the\n               financial year; and\n               (ii) if the employer is a non-DGE group\n               memberâin the information given to the DGE\n               under section 88A (5) of the Act for the\n               financial year.\n     (10) However, if the employer makes an election under subsection (7)\n     and a change of status happens for the employer during the financial\n     year in which the election is made, the employer mustâ\n          (a) use a reconciliation amount to work out the\n          employerâs final liability and, if the employer is not a\n          group member or is the DGE for a group, the final levy\n          liability for the final period for the change of status;\n          and\n          (b) include the reconciliation amount as part of the wages\n          paid or payable during the final period by the employerâ\n               (i) in the employerâs final return for the\n               final period; and\n               (ii) if the employer is a non-DGE group\n               memberâin the information given to the DGE\n               under section 88B of the Act.\n     (11) The employer must not purport to make an election under\n     subsection (7) unless the employer has received a consent under this\n     section.\n          Penalty--\n               Maximum penalty for subsection (11) â20 penalty\n               units.\n     (12) In this sectionâ\n     \"relevant liability\", for an employer, meansâ\n          (a) if the employer is not a group member or is the DGE for\n          a groupâthe employerâs periodic liability, annual\n          liability, final liability, periodic levy liability, annual\n          levy liability and final liability; or\n          (b) if the employer is a non-DGE group memberâthe\n          employerâs periodic liability, annual liability, final\n          liability and periodic levy liability.\nPurpose of division"
+    },
+    {
+      "key": "regulation:14",
+      "title": "Regulation 14 - Purpose of division",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "14",
+      "main_structural_heading": "Purpose of division",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 1 - Preliminary > Regulation 14",
+      "text": "This division prescribes, for section 97 (2) (d) of the Act, what is to be\nincluded in a return as the value of fringe benefits paid or payable by an\nemployer.\nDefinition for subdivision"
+    },
+    {
+      "key": "regulation:15",
+      "title": "Regulation 15 - Definition for subdivision",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "15",
+      "main_structural_heading": "Definition for subdivision",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 2 - Value of Queensland fringe benefits > Regulation 15",
+      "text": "In this subdivisionâ\n\"grossed-up value\", of a fringe benefit, means the value of the benefit worked\nout using the formula stated in section 13 (5) of the Act.\nValue of Queensland fringe benefits for estimated value amount"
+    },
+    {
+      "key": "regulation:16",
+      "title": "Regulation 16 - Value of Queensland fringe benefits for estimated value amount",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "16",
+      "main_structural_heading": "Value of Queensland fringe benefits for estimated value amount",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 2 - Value of Queensland fringe benefits > Regulation 16",
+      "text": "For calculating the estimated value amount for a financial year, the value of\nQueensland fringe benefits for the previous year of tax or the last year of tax\nis the grossed-up value of the benefits.\nValue of Queensland fringe benefits for reconciliation amount, final return and\ninformation given under Act, s 88B"
+    },
+    {
+      "key": "regulation:17",
+      "title": "Regulation 17 - Value of Queensland fringe benefits for reconciliation amount, final return and information given under Act, s 88B",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "17",
+      "main_structural_heading": "Value of Queensland fringe benefits for reconciliation amount, final return and information given under Act, s 88B",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 2 - Value of Queensland fringe benefits > Regulation 17",
+      "text": "(1) This section applies for calculating a reconciliation amount or\n     the value of fringe benefits to be included inâ\n          (a) an employerâs final return under section 22; and\n          (b) if the employer is a non-DGE group memberâthe\n          information given to the DGE for the group under section\n          88B of the Act.\n     (2) The value of Queensland fringe benefits for the last year of tax\n     is the grossed-up value of the benefits.\n     (3) The value of Queensland fringe benefits for the year of tax\n     ending in the employerâs election year is the grossed-up value of\n     the benefits.\nApplication of subdivision"
+    },
+    {
+      "key": "regulation:18",
+      "title": "Regulation 18 - Application of subdivision",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "18",
+      "main_structural_heading": "Application of subdivision",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 3 - Value of fringe benefits calculated on estimated value basis in > Regulation 18",
+      "text": "This subdivision applies to an employer for whom an election under division 2,\nsubdivision 2 applies.\nPeriodic return on estimated value basis"
+    },
+    {
+      "key": "regulation:19",
+      "title": "Regulation 19 - Periodic return on estimated value basis",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "19",
+      "main_structural_heading": "Periodic return on estimated value basis",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 3 - Value of fringe benefits calculated on estimated value basis in > Regulation 19",
+      "text": "(1) The estimated value amount for the employer to be included in a\n     periodic return for a periodic return period of 1 month in a\n     financial year is one-twelfth of the value of the employerâs\n     Queensland fringe benefits for the previous year of tax.\n     (2) The estimated value amount for the employer to be included in a\n     periodic return for a periodic return period of 3 months in a\n     financial year is one-quarter of the value of the employerâs\n     Queensland fringe benefits for the previous year of tax.\n     (3) The estimated value amount for the employer to be included in a\n     periodic return for a periodic return period of 6 months in a\n     financial year is one-half of the value of the employerâs\n     Queensland fringe benefits for the previous year of tax.\nAnnual return and information given on estimated value basis"
+    },
+    {
+      "key": "regulation:20",
+      "title": "Regulation 20 - Annual return and information given on estimated value basis",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "20",
+      "main_structural_heading": "Annual return and information given on estimated value basis",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 3 - Value of fringe benefits calculated on estimated value basis in > Regulation 20",
+      "text": "(1) This section applies forâ\n          (a) the employerâs annual return for a financial year;\n          and\n          (b) if the employer is a non-DGE group memberâthe\n          information given to the DGE for the group under section\n          88A (5) of the Act for the financial year.\n     (2) The estimated value amount to be included in the annual return\n     and information is the value of the employerâs Queensland fringe\n     benefits for the last year of tax.\nApplication of subdivision"
+    },
+    {
+      "key": "regulation:21",
+      "title": "Regulation 21 - Application of subdivision",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "21",
+      "main_structural_heading": "Application of subdivision",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 4 - Value of fringe benefits calculated on estimated value basis in > Regulation 21",
+      "text": "This subdivision applies to an employer if, when a change of status happens for\nthe employer, an election under division 2, subdivision 2 applies.\nFinal return and information given on estimated value basis"
+    },
+    {
+      "key": "regulation:22",
+      "title": "Regulation 22 - Final return and information given on estimated value basis",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "22",
+      "main_structural_heading": "Final return and information given on estimated value basis",
+      "defined_term": null,
+      "structure_path": "Part 3 - FRINGE BENEFITS > Division 3 - Value of fringe benefitsâAct, s 97 > Subdivision 4 - Value of fringe benefits calculated on estimated value basis in > Regulation 22",
+      "text": "(1) This section applies forâ\n          (a) the employerâs final return for a final period; and\n          (b) if the employer is a non-DGE group memberâthe\n          information given to the DGE for the group under section\n          88B of the Act.\n     (2) The value of fringe benefits to be included in the final return\n     and information as part of the wages paid or payable during the final\n     period for the final return by the employer is the difference between\n     the following amountsâ\n          (a) the total ofâ\n               (i) the value of the employerâs Queensland\n               fringe benefits for the last year of tax; and\n               (ii) the value of any Queensland fringe benefits\n               paid or payable by the employer in April, May or\n               June of the final period;\n          (b) one-quarter of the value of the employerâs Queensland\n          fringe benefits for the year of tax ending in the\n          employerâs election year.\nDefinition for part"
+    },
+    {
+      "key": "regulation:23",
+      "title": "Regulation 23 - Definition for part",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "23",
+      "main_structural_heading": "Definition for part",
+      "defined_term": null,
+      "structure_path": "Part 4 - TRANSITIONAL PROVISIONS > Division 1 - Transitional provisions for SL No. 147 of 2019 > Regulation 23",
+      "text": "In this partâ\n\"expired regulation\" means the Payroll Tax Regulation 2009 as in force\nimmediately before the commencement.\nContinuation of election under s 12 of expired regulation"
+    },
+    {
+      "key": "regulation:24",
+      "title": "Regulation 24 - Continuation of election under s 12 of expired regulation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "24",
+      "main_structural_heading": "Continuation of election under s 12 of expired regulation",
+      "defined_term": null,
+      "structure_path": "Part 4 - TRANSITIONAL PROVISIONS > Division 1 - Transitional provisions for SL No. 147 of 2019 > Regulation 24",
+      "text": "An election made by an employer under section 12(1) of the expired regulation,\nthat applies immediately before the commencement, is taken to be an election by\nthe employer under section 10(1).\nApplication, consent and continuation of election under s 13 of expired\nregulation"
+    },
+    {
+      "key": "regulation:25",
+      "title": "Regulation 25 - Application, consent and continuation of election under s 13 of expired Regulation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "25",
+      "main_structural_heading": "Application, consent and continuation of election under s 13 of expired Regulation",
+      "defined_term": null,
+      "structure_path": "Part 4 - TRANSITIONAL PROVISIONS > Division 1 - Transitional provisions for SL No. 147 of 2019 > Regulation 25",
+      "text": "(1) An application for consent made by an employer under section 13\n     (2) of the expired regulation, that has not been decided by the\n     commissioner before the commencement, is taken to be an application\n     for consent under section 11(2).\n     (2) Consent given by the commissioner under section 13 of the expired\n     regulation is taken to be consent given by the commissioner under\n     section 11.\n     (3) An election made by an employer under section 13(7) of the\n     expired regulation, that applies immediately before the commencement,\n     is taken to be an election by the employer under section 11(7).\nContinuation of election under s 14 of expired regulation"
+    },
+    {
+      "key": "regulation:26",
+      "title": "Regulation 26 - Continuation of election under s 14 of expired regulation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "26",
+      "main_structural_heading": "Continuation of election under s 14 of expired regulation",
+      "defined_term": null,
+      "structure_path": "Part 4 - TRANSITIONAL PROVISIONS > Division 1 - Transitional provisions for SL No. 147 of 2019 > Regulation 26",
+      "text": "An election made by an employer under section 14(1) of the expired regulation,\nthat applies immediately before the commencement, is taken to be an election by\nthe employer under section 12(1).\nApplication, consent and continuation of election under s 15 of expired\nregulation"
+    },
+    {
+      "key": "regulation:27",
+      "title": "Regulation 27 - Application, consent and continuation of election under s 15 of expired Regulation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "27",
+      "main_structural_heading": "Application, consent and continuation of election under s 15 of expired Regulation",
+      "defined_term": null,
+      "structure_path": "Part 4 - TRANSITIONAL PROVISIONS > Division 1 - Transitional provisions for SL No. 147 of 2019 > Regulation 27",
+      "text": "(1) An application for consent made by an employer under section 15\n     (2) of the expired regulation, that has not been decided by the\n     commissioner before the commencement, is taken to be an application\n     for consent under section 13(2).\n     (2) Consent given by the commissioner under section 15 of the expired\n     regulation is taken to be consent given by the commissioner under\n     section 13.\n     (3) An election made by an employer under section 15(7) of the\n     expired regulation, that applies immediately before the commencement,\n     is taken to be an election by the employer under section 13(7).\nBasis for calculating fringe benefits applies in relation to mental health levy"
+    },
+    {
+      "key": "regulation:28",
+      "title": "Regulation 28 - Basis for calculating fringe benefits applies in relation to mental health levy",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "28",
+      "main_structural_heading": "Basis for calculating fringe benefits applies in relation to mental health levy",
+      "defined_term": null,
+      "structure_path": "Payroll Tax Regulation 2019 > Regulation 28",
+      "text": "(1) This section applies to an employer if a relevant election made\n     by the employer applied to the employer immediately before the\n     commencement.\n     (2) From the commencement, and until the employer makes another\n     election under part 3, division 2, the relevant election also applies\n     for working outâ\n          (a) the employerâs periodic levy liability; and\n          (b) if the employer is not a group member or is the DGE for\n          a groupâthe employerâs annual levy liability.\n     (3) In this sectionâ\n     \"relevant election\", for an employer, means an election made by the\n     employer under part 3, division 2 to include in returns estimated\n     value amounts or actual value amounts and use those amounts to work\n     out the employerâs periodic and annual liability."
+    },
+    {
+      "key": "schedule:1",
+      "title": "Schedule 1 - *** SCHEDULE 1 - Dictionary *** \"actual value amount\" means an amount for Queensland fringe benefits calculated on an actual value basis. \"election year\", for an employer, means the financial year in which the employer last made an election under part 3, division 2, subdivision 2. \"estimated value amount\" means an amount for Queensland fringe benefits calculated on an estimated value basis. \"fringe benefits tax\" means the tax imposed on fringe benefits under the Fringe Benefits Assessment Act. \"grossed-up value\", of a fringe benefit, for part 3, division 3, subdivision 2, see section 15. \"last year of tax\", for a financial year, means the year of tax ending on 31 March of the financial year. \"previous year of tax\", for a financial year, means the year of tax ending on Regulation 31 March before the start of the financial year. \"Queensland fringe benefits\" means fringe benefits, whether calculated on an actual value or estimated value basisâ (a) that are taxable wages; and (b) for which fringe benefits tax is paid or payable. \"reconciliation amount\", for a financial year for an employer, means the difference between the followingâ (a) the total ofâ (i) the value of the employerâs Queensland fringe benefits for the last year of tax; and (ii) the value of the employerâs Queensland fringe benefits for April, May and June of the financial year; (b) one-quarter of the value of the employerâs Queensland fringe benefits for the year of tax ending in the employerâs election year. \"relevant financial year\", for part 3, division 2, subdivision 2, see section 9. \"relevant payroll tax and levy liabilities\", for an employer, meansâ (a) if the employer is not a group member or is the DGE for a groupâthe employerâs periodic liability, annual liability, periodic levy liability and annual levy liability; or (b) if the employer is a non-DGE group memberâthe employerâs periodic liability, annual liability and periodic levy liability. \"year of tax\" see the Fringe Benefits Assessment Act, section 136 (1).",
+      "main_structural_unit": "schedule",
+      "main_structural_unit_number": "1",
+      "main_structural_unit_heading": "*** SCHEDULE 1 - Dictionary *** \"actual value amount\" means an amount for Queensland fringe benefits calculated on an actual value basis. \"election year\", for an employer, means the financial year in which the employer last made an election under part 3, division 2, subdivision 2. \"estimated value amount\" means an amount for Queensland fringe benefits calculated on an estimated value basis. \"fringe benefits tax\" means the tax imposed on fringe benefits under the Fringe Benefits Assessment Act. \"grossed-up value\", of a fringe benefit, for part 3, division 3, subdivision 2, see section 15. \"last year of tax\", for a financial year, means the year of tax ending on 31 March of the financial year. \"previous year of tax\", for a financial year, means the year of tax ending on Regulation 31 March before the start of the financial year. \"Queensland fringe benefits\" means fringe benefits, whether calculated on an actual value or estimated value basisâ (a) that are taxable wages; and (b) for which fringe benefits tax is paid or payable. \"reconciliation amount\", for a financial year for an employer, means the difference between the followingâ (a) the total ofâ (i) the value of the employerâs Queensland fringe benefits for the last year of tax; and (ii) the value of the employerâs Queensland fringe benefits for April, May and June of the financial year; (b) one-quarter of the value of the employerâs Queensland fringe benefits for the year of tax ending in the employerâs election year. \"relevant financial year\", for part 3, division 2, subdivision 2, see section 9. \"relevant payroll tax and levy liabilities\", for an employer, meansâ (a) if the employer is not a group member or is the DGE for a groupâthe employerâs periodic liability, annual liability, periodic levy liability and annual levy liability; or (b) if the employer is a non-DGE group memberâthe employerâs periodic liability, annual liability and periodic levy liability. \"year of tax\" see the Fringe Benefits Assessment Act, section 136 (1).",
+      "defined_term": null,
+      "structure_path": "Payroll Tax Regulation 2019 > Schedule 1",
+      "schedule_id": "1",
+      "schedule_heading": "*** SCHEDULE 1 - Dictionary *** \"actual value amount\" means an amount for Queensland fringe benefits calculated on an actual value basis. \"election year\", for an employer, means the financial year in which the employer last made an election under part 3, division 2, subdivision 2. \"estimated value amount\" means an amount for Queensland fringe benefits calculated on an estimated value basis. \"fringe benefits tax\" means the tax imposed on fringe benefits under the Fringe Benefits Assessment Act. \"grossed-up value\", of a fringe benefit, for part 3, division 3, subdivision 2, see section 15. \"last year of tax\", for a financial year, means the year of tax ending on 31 March of the financial year. \"previous year of tax\", for a financial year, means the year of tax ending on Regulation 31 March before the start of the financial year. \"Queensland fringe benefits\" means fringe benefits, whether calculated on an actual value or estimated value basisâ (a) that are taxable wages; and (b) for which fringe benefits tax is paid or payable. \"reconciliation amount\", for a financial year for an employer, means the difference between the followingâ (a) the total ofâ (i) the value of the employerâs Queensland fringe benefits for the last year of tax; and (ii) the value of the employerâs Queensland fringe benefits for April, May and June of the financial year; (b) one-quarter of the value of the employerâs Queensland fringe benefits for the year of tax ending in the employerâs election year. \"relevant financial year\", for part 3, division 2, subdivision 2, see section 9. \"relevant payroll tax and levy liabilities\", for an employer, meansâ (a) if the employer is not a group member or is the DGE for a groupâthe employerâs periodic liability, annual liability, periodic levy liability and annual levy liability; or (b) if the employer is a non-DGE group memberâthe employerâs periodic liability, annual liability and periodic levy liability. \"year of tax\" see the Fringe Benefits Assessment Act, section 136 (1).",
+      "text": "Schedule 1 - *** SCHEDULE 1 - Dictionary *** \"actual value amount\" means an amount for Queensland fringe benefits calculated on an actual value basis. \"election year\", for an employer, means the financial year in which the employer last made an election under part 3, division 2, subdivision 2. \"estimated value amount\" means an amount for Queensland fringe benefits calculated on an estimated value basis. \"fringe benefits tax\" means the tax imposed on fringe benefits under the Fringe Benefits Assessment Act. \"grossed-up value\", of a fringe benefit, for part 3, division 3, subdivision 2, see section 15. \"last year of tax\", for a financial year, means the year of tax ending on 31 March of the financial year. \"previous year of tax\", for a financial year, means the year of tax ending on Regulation 31 March before the start of the financial year. \"Queensland fringe benefits\" means fringe benefits, whether calculated on an actual value or estimated value basisâ (a) that are taxable wages; and (b) for which fringe benefits tax is paid or payable. \"reconciliation amount\", for a financial year for an employer, means the difference between the followingâ (a) the total ofâ (i) the value of the employerâs Queensland fringe benefits for the last year of tax; and (ii) the value of the employerâs Queensland fringe benefits for April, May and June of the financial year; (b) one-quarter of the value of the employerâs Queensland fringe benefits for the year of tax ending in the employerâs election year. \"relevant financial year\", for part 3, division 2, subdivision 2, see section 9. \"relevant payroll tax and levy liabilities\", for an employer, meansâ (a) if the employer is not a group member or is the DGE for a groupâthe employerâs periodic liability, annual liability, periodic levy liability and annual levy liability; or (b) if the employer is a non-DGE group memberâthe employerâs periodic liability, annual liability and periodic levy liability. \"year of tax\" see the Fringe Benefits Assessment Act, section 136 (1)."
+    }
+  ]
+}

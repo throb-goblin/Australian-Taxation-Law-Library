@@ -1,0 +1,53 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/ititta2008518/",
+    "register_url": "https://www.legislation.gov.au/C2008A00030/latest/text",
+    "source": "Income Tax (Managed Investment Trust Transitional) Act 2008 (100000088).txt",
+    "filename": "Income Tax (Managed Investment Trust Transitional) Act 2008 (100000088).json",
+    "name": "Income Tax (Managed Investment Trust Transitional) Act 2008",
+    "citation": "Income Tax (Managed Investment Trust Transitional) Act 2008"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Income Tax (Managed Investment Trust Transitional) Act 2008 > Section 1",
+      "text": "This Act may be cited as the Income Tax (Managed Investment\n         Trust Transitional) Act 2008."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax (Managed Investment Trust Transitional) Act 2008 > Section 2",
+      "text": "This Act commences on the day on which it receives the Royal\n         Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Managed Investment Trust Transitional) Act 2008 > Section 3",
+      "text": "The tax known as income tax, to the extent that that tax is\n         payable by an entity in accordance with section 840-805 of the\n         Income Tax (Transitional Provisions) Act 1997, is imposed on\n         amounts to which that section applies."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Rate of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Managed Investment Trust Transitional) Act 2008 > Section 4",
+      "text": "The rate of income tax imposed by this Act is 22.5%.\n[Minister's second reading speech made in-\nHouse of Representatives on 4 June 2008\nSenate on 18 June 2008]\n(123/08)"
+    }
+  ]
+}

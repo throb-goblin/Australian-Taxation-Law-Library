@@ -1,0 +1,113 @@
+{
+  "doc": {
+    "jurisdiction": "south_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/sa/consol_reg/ltr2025199/",
+    "register_url": "https://www.legislation.sa.gov.au/lz?path=/c/r/land%20tax%20regulations%202025",
+    "source": "Land Tax Regulations 2025 (100000114).txt",
+    "filename": "Land Tax Regulations 2025 (100000114).json",
+    "name": "Land Tax Regulations 2025",
+    "citation": "Land Tax Regulations 2025"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title These regulations may be cited as the Land Tax Regulations 2025.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title These regulations may be cited as the Land Tax Regulations 2025.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 1",
+      "text": ""
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement These regulations come into operation on the day on which they are made.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement These regulations come into operation on the day on which they are made.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 2",
+      "text": ""
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Interpretation In these regulations-- Act means the Land Tax Act 1936.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation In these regulations-- Act means the Land Tax Act 1936.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 3",
+      "text": ""
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Notification of changes in ownership If--",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Notification of changes in ownership If--",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 4",
+      "text": "(a) a person ceases to be the owner of land that is registered under\n   the Real Property Act 1886; and\n   (b) the change of ownership has not been noted or registered on the\n   title by the end of the financial year in which the change occurs,\n   the person (or their personal representative) must, on or before the\n   immediately following 31 July, give the Commissioner notice of the\n   change in ownership in a form approved by the Commissioner.\n   Maximum penalty: $125."
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Notification of change of address Unless the Commissioner otherwise determines, if an owner of land changes their postal or residential address, the owner must, within 1 month, give the Commissioner notice of the change in a form approved by the Commissioner. Maximum penalty: $125.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Notification of change of address Unless the Commissioner otherwise determines, if an owner of land changes their postal or residential address, the owner must, within 1 month, give the Commissioner notice of the change in a form approved by the Commissioner. Maximum penalty: $125.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 5",
+      "text": ""
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Prescribed associations and exemptions (section 4 of Act)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Prescribed associations and exemptions (section 4 of Act)",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 6",
+      "text": "(1) For the purposes of section 4(1)(k)(viii) of the Act, the following\n   associations are prescribed:\n   (a) Lakeside Villages Incorporated;\n   (b) The Retirement Homes Association of Australia Incorporated.\n   (2) For the purposes of section 4(1)(k)(viii) of the Act, but subject\n   to subregulation (3), an association is of a prescribed kind if it\n   holds land wholly or mainly for the purpose of providing services or\n   support to the community, or a sector of the community, in relation to\n   literature, science, languages, the arts or the preservation of\n   historical, traditional or cultural heritage, or for a similar purpose.\n   (3) An association is not of a prescribed kind for the purposes of\n   section 4(1)(k)(viii) of the Act if--\n   (a) the objects of the association include the making of a pecuniary\n   profit; or\n   (b) the activities of the association are not consistent with its\n   objects or cause detriment to the community generally or to a sector of\n   the community.\n   (4) For the purposes of section 4(1)(m) of the Act, Aboriginal Hostels\n   Limited is a prescribed body."
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Records",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Records",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 7",
+      "text": "(1) The Commissioner may alter, add to or correct any record kept by\n   the Commissioner for the purposes of the Act.\n   (2) If an alteration, addition or correction affects the incidence of\n   taxation, the Commissioner must give written notice of the alteration,\n   addition or correction to the relevant taxpayer (although a failure to\n   give such notice does not invalidate or affect the alteration, addition\n   or correction)."
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Certificates in respect of liability to land tax (section 23 of Act) If, on an application under section 23 of the Act, the Commissioner is satisfied--",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Certificates in respect of liability to land tax (section 23 of Act) If, on an application under section 23 of the Act, the Commissioner is satisfied--",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 8",
+      "text": "(a) that the application is being made in conjunction with an\n   application to the government department which contains the Office of\n   the Registrar-General for information for the purposes of section 7 of\n   the Land and Business (Sale and Conveyancing) Act 1994; and\n   (b) that the applicant has paid an application fee to that department,\n   no fee is payable on the application under section 23 of the Act."
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Execution of notices and other documents A notice or other document under the Act purporting to be issued under the authority of the Commissioner, or under the authority of a member of the Commissioner's staff apparently acting on behalf of, or under the authority of, the Commissioner, may be taken to be valid for the purposes of the Act.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Execution of notices and other documents A notice or other document under the Act purporting to be issued under the authority of the Commissioner, or under the authority of a member of the Commissioner's staff apparently acting on behalf of, or under the authority of, the Commissioner, may be taken to be valid for the purposes of the Act.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 9",
+      "text": ""
+    },
+    {
+      "key": "regulation:10",
+      "title": "Regulation 10 - Misuse of written materials A person must not intentionally alter, damage or destroy a notice, return, form or other document belonging to, or issued by, the Commissioner, or use any such notice, return, form or other document except for the purposes of the Act. Maximum penalty: $125. Schedule 1--Repeal of Land Tax Regulations 2010 The Land Tax Regulations 2010 are repealed. Legislative history o For further information relating to the Act and subordinate legislation made under the Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. Principal regulations Year No Reference Commencement 2025 30 Gazette 15.5.2025 p1226",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Misuse of written materials A person must not intentionally alter, damage or destroy a notice, return, form or other document belonging to, or issued by, the Commissioner, or use any such notice, return, form or other document except for the purposes of the Act. Maximum penalty: $125. Schedule 1--Repeal of Land Tax Regulations 2010 The Land Tax Regulations 2010 are repealed. Legislative history o For further information relating to the Act and subordinate legislation made under the Act see the Index of South Australian Statutes or www.legislation.sa.gov.au. Principal regulations Year No Reference Commencement 2025 30 Gazette 15.5.2025 p1226",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2025 > Regulation 10",
+      "text": "15.5.2025: r 2"
+    }
+  ]
+}

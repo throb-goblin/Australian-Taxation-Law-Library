@@ -9,83 +9,211 @@ dline
 Crest
                                Western Australia
                          Land Tax Assessment Act 2002
-
                                Western Australia
                          Land Tax Assessment Act 2002
-
-2014 assessment period 105
-
-14. Validation of rural business land assessments 105
-
-15. Reassessment 105
-
+                                   Contents
+Part 1 -- Preliminary
+Section 1. Short title 2
+Section 2. Commencement 2
+Section 3. Relationship with other Acts 2
+Section 4. Terms used 2
+Part 2 -- Land tax liability and assessment
+Division 1 -- Liability to land tax
+5.^1M, 1MC Taxable land 3
+Section 6. Time for payment of land tax 3
+Section 7. Liability to pay land tax 3
+Section 8. Certain persons and bodies taken to be owners of land 4
+Section 9. Liability of agents or trustees 5
+Section 9A. Owners to notify Commissioner of errors or omissions in assessment notices
+6
+Division 2 -- Assessment of land tax
+Section 10. Assessing land tax 7
+Section 11. Two or more lots owned by one person, tax payable on 7
+Section 12. Land owned jointly, tax payable on 8
+Section 13. Calculating taxable value of part of a lot 8
+Section 14. Newly subdivided private residential property, tax payable on 9
+Section 15. Newly subdivided primary production business land, tax payable on 11
+Section 15A. Tax payable on newly subdivided dwelling or residential parks 13
+Section 15B. Tax payable on land containing former exempt build-to-rent developments 14
+Section 16. Non-strata home units, assessing tax on 15
+Part 3 -- Exemptions, concessions and rebates
+Division 1 -- General provisions
+Section 17. Exempt land 18
+Section 18. Whole and partial exemptions 18
+Section 18A. Taxable value of land subject to partial exemption 19
+Section 19. Applying for exemption or concession 20
+Section 20. Commissioner's power to grant exemption or concession for land 21
+Section 20A. Owner of land subject to exemption or concession may be required to notify
+Commissioner of event or circumstance 23
+Division 2 -- Private residential property
+Subdivision 1 -- Exemptions and rebates for private residential property
+Section 21. Residences owned by individuals, exemptions for 25
+Section 22. Residence owned by executor etc., exemption for if beneficiary in will
+exercising right to reside 26
+Section 23A. Exemption for residence owned by executor or administrator if beneficiary
+in will has right to future ownership and is resident 27
+Section 23. Continued exemption after death of resident 27
+Section 24. Construction of private residence, one year exemption for 29
+Section 24A. Construction of private residence, 2 year exemption for 30
+Section 25. Refurbishment of private residence, one year exemption for 31
+Section 25A. Refurbishment of private residence, 2 year exemption for 32
+Section 26. Exemption for residence of disabled person held in trust 33
+Section 26A. Exemption for residence of disabled person owned by relative 34
+Section 26B. Exemption for property owned by individual in care 35
+Section 27. Moving between 2 private residences, application of exemption 37
+Section 27A. Construction or refurbishment of second private residence, 2 year
+exemption for 38
+Section 28. Inner city residential property, rebate for 40
+Subdivision 2 -- Application of private residential exemptions to subdivided
+land
+Section 28A. Terms used 43
+Section 28B. Application of certain private residential exemptions to property
+subdivided during exemption period 43
+Section 28C. Application of requirements relating to sale or disposal of subdivided
+property 45
+Section 28D. Application of multi-year private residential exemptions to property
+subdivided during exemption period 46
+Section 28E. Ownership of land during period when land subdivided but certificates of
+title not issued 46
+Subdivision 3 -- Special provisions for construction or refurbishment of private
+residence: commencement in period from 1 July 2020 to 30 June 2023
+Section 28F. Construction or refurbishment of private residence: 3 year exemption 47
+Section 28G. Construction or refurbishment of 2^nd private residence: 2 year exemption
+49
+Section 28H. Extension of exemption under s. 28F 51
+Section 28I. Extension of exemption under s. 28G 52
+Section 28J. No double exemption 53
+Section 28K. Reassessment 54
+Division 3 -- Land used for primary production business
+Subdivision 1 -- Terms used
+Section 29. Terms used 54
+Section 30A. What is primary production 55
+Section 30B. When land is used for primary production business 56
+Subdivision 2 -- Primary production business exemption
+Section 30C. Exemption for rural land 57
+Section 30D. Exemption for non-rural land 57
+Section 30E. Exemption under section 30D after death of family owner or person related
+to family owner 58
+Subdivision 3 -- Family owners of land and persons related to family owners of
+land
+Section 30G. References to individuals, family members and nominated individuals 59
+Section 30H. Family owner of land 59
+Section 30I. Persons related to family owner who is an individual 60
+Section 30J. Persons related to family corporation 61
+Section 30K. Persons related to trustee of family trust 61
+Section 30. Persons related to trustee of a family unit trust scheme 62
+Division 4 -- Crown land and other land used for public purposes
+Section 31. Land owned by Crown, public authority etc., exemption for 63
+Section 32. Land owned by religious bodies, exemption for 64
+Section 33. Land owned by educational institutions, exemption for 65
+Section 34. Land used for public or religious hospitals, exemption for 67
+Section 35. Exemption for mining tenements 67
+Section 36. Land used for various public purposes, exemption for 67
+Section 37. Land owned by public charitable or benevolent institutions, exemption for
+68
+Section 38AA. What is a relevant body 68
+Section 38AB. Application for a beneficial body determination 69
+Section 38AC. Beneficial body determination 70
+Section 38. Land owned by non-profit associations, exemption or concession for 72
+Section 38A. Land used as aged care facility, exemption for 73
+Section 39. Land used for retirement villages: exemption for 73
+Division 4A -- Land used for dwelling or residential parks
+Section 39A. Terms used 74
+Section 39B. Exemption for land in dwelling or residential parks 76
+Section 39C. Calculating percentage for exemption for dwelling or residential parks 76
+Section 39D. Provisions about calculations under s. 39C 79
+Division 4B -- Land used for build-to-rent developments
+Section 39E. Terms used 80
+Section 39F. Requirements for exemption relating to build-to-rent development 81
+Section 39G. Exceptions to leasing restrictions for exempt development 82
+Section 39H. Managing entities for exempt development 83
+Section 39I. Exemption for build-to-rent developments 83
+Section 39J. Limits on eligibility for build-to-rent exemption 83
+Section 39K. Exemption percentage where buildings partially used for build-to-rent
+dwellings 85
+Section 39L. Taxable value of land subject to partial build-to-rent exemptions 86
+Section 39M. Application for build-to-rent exemption 86
+Division 5 -- Other exemptions and concessions
+Section 40. Land owned by veteran's surviving partner or mother, exemption for 86
+Section 41. Land under conservation covenant, exemption for 87
+Section 42A. Land under biodiversity conservation covenant, exemption for 87
+Section 42. One year exemption for land vacated for sale by mortgagee 87
+Section 43A. Newly subdivided land, concession for 88
+Section 43B. Freehold reversion in parcel subdivided by leasehold scheme, exemption for
+90
+Part 4 -- Miscellaneous
+Section 43. Occupier etc. of land to give information 92
+Section 45. Contracts ineffective to alter incidence of land tax 92
+Section 45A. Minor interests of joint owners, Commissioner may disregard 93
+Section 45B. Effect of determination under s. 45A 94
+Section 45C. Property to which Help to Buy arrangement relates 95
+Section 46. Regulations 96
+Section 47. Transitional provisions 97
+Schedule 1 -- Transitional and validation provisions
+Division 1 -- Provision for Revenue Laws Amendment Act 2006
+Section 1. Application of s. 24A, 25A and 27A 98
+Division 2 -- Provision for Revenue Laws Amendment (Taxation) Act 2009
+Section 2. Regulations for cl. 6 98
+Division 3 -- Provisions for the Taxation Legislation Amendment Act (No. 2) 2015
+Section 3. Terms used 99
+Section 4. Previously exempt land: section 37 99
+Section 5. Beneficial body determination: application may be made 100
+Division 4 -- Provisions for Taxation Legislation Amendment Act 2015
+Subdivision 1 -- Preliminary
+Section 6. Term used: amending Act 100
+Subdivision 2 -- Provisions about primary production
+Section 7. Application of section 15 during transitional period 101
+Section 8. Application of section 20 to previous assessment years 101
+Section 9. Application of section 30D to land held in trust for assessment year 2014/15
+102
+Subdivision 3 -- Provisions about exemptions and rural business land
+Section 10. Terms used 102
+Section 11. Validation of previous assessments 104
+Section 12. Land tax decisions made or pending 104
+Section 13. Application of modified rural business land provisions during the 2012 to
+Section 2014 assessment period 105
+Section 14. Validation of rural business land assessments 105
+Section 15. Reassessment 105
 Division 5 -- Provisions for Land Tax Assessment Amendment Act 2018
-16. Terms used 106
-
-17. Validation of previous assessments 107
-
-18. Land tax decisions made or pending 107
-
-19. Reassessment 108
-
+Section 16. Terms used 106
+Section 17. Validation of previous assessments 107
+Section 18. Land tax decisions made or pending 107
+Section 19. Reassessment 108
 Division 6 -- Provisions for Revenue Laws Amendment Act 2019
-20. Application of section 30D to land held in trust for assessment year 2019/
-20 108
-
-21. Application of amendments relating to subdivision of land 109
-
+Section 20. Application of section 30D to land held in trust for assessment year 2019/
+Section 20 108
+Section 21. Application of amendments relating to subdivision of land 109
 Division 7 -- Provisions for Land Tax Assessment Amendment Act 2022
-22. Application of amendments made by Land Tax Assessment Amendment Act 2022
+Section 22. Application of amendments made by Land Tax Assessment Amendment Act 2022
 Part 2 110
-
-23. Reduced exemption percentage for land used for dwelling or residential park
+Section 23. Reduced exemption percentage for land used for dwelling or residential park
 does not apply for certain financial years 110
-
-24. Continued application of notification requirements 111
-
-25. Reassessment 112
-
+Section 24. Continued application of notification requirements 111
+Section 25. Reassessment 112
 Division 8 -- Provision for Land Tax Assessment Amendment (Build-to-Rent)
 Act 2024
-26. Application of amendments 112
-
+Section 26. Application of amendments 112
 Glossary
 1.^  1M, 1MC Terms used 113
-
-2. Lots and parcels of land 121
-
-3. Subdivided land 123
-
-6. Taxable value 125
-
+Section 2. Lots and parcels of land 121
+Section 3. Subdivided land 123
+Section 6. Taxable value 125
 Compilation table 127
-
 Other notes 130
-
 Defined terms
-
                                Western Australia
                          Land Tax Assessment Act 2002
 An Act relating to the assessment and collection of tax upon land.
-
                              Part 1 -- Preliminary
-
-1. Short title
-
+Section 1. Short title
 This Act may be cited as the Land Tax Assessment Act 2002.
-
-2. Commencement
-
+Section 2. Commencement
 This Act comes into operation on the day on which the Taxation Administration
 Act 2003 comes into operation.
-
-3. Relationship with other Acts
-
+Section 3. Relationship with other Acts
 The Taxation Administration Act 2003 and the Land Tax Act 2002 are to be read
 with this Act as if they formed a single Act.
-
-4. Terms used
-
+Section 4. Terms used
 The Glossaries at the end of this Act and the Taxation Administration Act 2003
 respectively define or affect the meaning of some of the words and expressions
 used in this Act, and also affect the operation of other provisions.
@@ -96,14 +224,10 @@ endnote 1M.]
 [4A .^1MC Modification, to insert section 4A, to have effect under the
 Commonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, see
 Commonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice
-2007 cl. 17 and endnote 1MC.]
-
+Section 2007 cl. 17 and endnote 1MC.]
                   Part 2 -- Land tax liability and assessment
-
                       Division 1 -- Liability to land tax
-
 5.^1M, 1MC Taxable land
-
 Land tax is payable, in accordance with the land tax Acts, for each financial
 year for all land in the State except land that is exempt under section 17.
 [Modification, to section 5, to have effect under the Commonwealth Places
@@ -112,17 +236,13 @@ Taxes Administration) Regulations 2007 r. 17 and endnote 1M.]
 [Modification, to section 5, to have effect under the Commonwealth Places
 (Mirror Taxes) Act 1998 (Commonwealth) s. 8, see Commonwealth Places (Mirror
 Taxes) (Modification of Applied Laws (WA)) Notice 2007 cl. 18 and endnote 1MC.]
-
-6. Time for payment of land tax
-
+Section 6. Time for payment of land tax
 (1) Land tax payable on an original assessment is due for payment on the 49^th
 day after the date of the assessment notice.
 (2) Land tax payable on a reassessment is due for payment on the date specified
 in the assessment notice in accordance with the Taxation Administration
 Act 2003.
-
-7. Liability to pay land tax
-
+Section 7. Liability to pay land tax
 (1) Land tax payable on land for an assessment year is payable by the person
 who is or was the owner of the land at midnight on 30 June in the previous
 financial year.
@@ -135,9 +255,7 @@ use of, the land.
 (5) A person or taxable authority who is liable to pay land tax is also liable
 to pay any additional taxes, interest, penalties or charges payable under a
 land tax Act in relation to the land tax.
-
-8. Certain persons and bodies taken to be owners of land
-
+Section 8. Certain persons and bodies taken to be owners of land
 (1) A person is taken to be the owner of land for the purposes of section 7 if
 the person --
 (a) is entitled to the land under any lease or licence from the Crown with or
@@ -167,9 +285,7 @@ for the purposes of section 7 if the person --
 the mining tenement, one of the holders of the mining tenement; but
 (b) is not the diversification lessee or, if there are 2 or more
 diversification lessees, one of the diversification lessees.
-
-9. Liability of agents or trustees
-
+Section 9. Liability of agents or trustees
 (1) An agent of an owner of taxable land, or a trustee in whom the legal estate
 of taxable land is vested (whether solely or jointly with other trustees), is
 liable for the taxes payable on the land as if the agent or trustee were the
@@ -193,9 +309,7 @@ beneficiary would be.
 (6) In this section --
 taxes means land tax, or any penalties, interest or other amount payable in
 connection with land tax under a land tax Act.
-
-9A. Owners to notify Commissioner of errors or omissions in assessment notices
-
+Section 9A. Owners to notify Commissioner of errors or omissions in assessment notices
 (1) A person identified as being liable to pay land tax by a land tax
 assessment notice must notify the Commissioner of any material error or
 omission in the notice, that is relevant to the assessment, in relation to --
@@ -217,18 +331,13 @@ defence if the person proves that the person --
 that the notice to which the prosecution relates contained any material error
 or omission.
 Penalty: $5 000.
-
                       Division 2 -- Assessment of land tax
-
-10. Assessing land tax
-
+Section 10. Assessing land tax
 Unless this Act provides otherwise, the amount of land tax payable for taxable
 land for an assessment year is the amount calculated by applying the rate fixed
 in relation to the land under the Land Tax Act 2002 to the amount equal to the
 taxable value of the land for the assessment year.
-
-11. Two or more lots owned by one person, tax payable on
-
+Section 11. Two or more lots owned by one person, tax payable on
 (1) If a person owns 2 or more lots or parcels of taxable land, land tax is
 payable on the aggregated taxable value of all the taxable land owned by the
 person.
@@ -243,9 +352,7 @@ trust is assessed separately from the land tax payable on the land held
 beneficially, unless for any reason the land tax payable on the trust land and
 the beneficially held land is liable to be jointly assessed independently of
 this subsection.
-
-12. Land owned jointly, tax payable on
-
+Section 12. Land owned jointly, tax payable on
 (1) The land tax payable on land owned jointly by 2 or more persons is assessed
 as if the land were owned by one person.
 (2) When determining the extent (if any) to which the land is exempt or subject
@@ -262,9 +369,7 @@ assessment for any land that is owned --
 (b) by any of them as a joint owner with any other person.
 (4) The owners of non-strata home units whose liability is assessed under
 section 16 are taken not to be joint owners for the purposes of this section.
-
-13. Calculating taxable value of part of a lot
-
+Section 13. Calculating taxable value of part of a lot
 (1) Where, under section 8(1)(b), a person is taken to be the owner of a
 portion of a lot, then a reference in a land tax Act, other than in clause 6,
 to the taxable value of the land is a reference to the amount, as determined by
@@ -276,9 +381,7 @@ that is capable of being let, as determined by the Valuer-General on the
 assumption that none of the land is used for an exempt purpose and having
 regard to the lease conditions of the portion of the lot for which a value is
 required.
-
-14. Newly subdivided private residential property, tax payable on
-
+Section 14. Newly subdivided private residential property, tax payable on
 (1) Land tax is payable in accordance with this section when private
 residential property is subdivided if --
 (a) the property was exempt or partially exempt from land tax under Part 3
@@ -300,7 +403,7 @@ owner on which land tax was payable for that year.
 portion of the property under another provision of this Act for any of those 5
 financial years, then --
 (a) if a partial exemption did not apply to that part of the taxable portion
-for the year under Part 3 Division 2 no land tax is payable under subsection 
+for the year under Part 3 Division 2 no land tax is payable under subsection
 (2) on that part for that year; or
 (b) if a partial exemption applied to that part of the taxable portion, or an
 interest in it, for that year under Part 3 Division 2 land tax is payable for
@@ -327,13 +430,11 @@ which the land is subdivided.
 (8) Despite section 17(4) of the Taxation Administration Act 2003, the
 Commissioner must make any reassessment necessary to give effect to this
 section.
-
-15. Newly subdivided primary production business land, tax payable on
-
+Section 15. Newly subdivided primary production business land, tax payable on
 (1) Land tax is payable in accordance with this section when land is subdivided
 if --
 (a) the land was exempt from land tax under Part 3 Division 3 for any of the
-5 financial years reckoned retrospectively from and including the financial
+Section 5 financial years reckoned retrospectively from and including the financial
 year in which the land was subdivided; and
 (b) the subdivision was not carried out only for the purpose of defining an
 area of land to be taken or resumed under an enactment relating to the
@@ -376,9 +477,7 @@ Commissioner must make any reassessment necessary to give effect to this
 section.
 [Section 15 amended: No. 38 of 2005 s. 15; No. 19 of 2009 s. 7; No. 28 of 2010
 s. 33(2); No. 1 of 2015 s. 4; No. 45 of 2020 s. 110.]
-
-15A. Tax payable on newly subdivided dwelling or residential parks
-
+Section 15A. Tax payable on newly subdivided dwelling or residential parks
 (1) Land tax is payable in accordance with this section when land is subdivided
 if --
 (a) the land was subject to an exemption under section 39B to any extent for
@@ -422,12 +521,10 @@ section.
 (9) A reference in subsection (1) to an exemption under section 39B is, in
 relation to a financial year beginning before 1 July 2020, a reference to an
 exemption or concession under section 39B as that section was in force before
-1 July 2020.
+Section 1 July 2020.
 [Section 15A inserted: No. 10 of 2005 s. 6; amended: No. 19 of 2009 s. 8;
 No. 27 of 2010 s. 4; No. 42 of 2022 s. 4.]
-
-15B. Tax payable on land containing former exempt build-to-rent developments
-
+Section 15B. Tax payable on land containing former exempt build-to-rent developments
 (1) Land tax is payable on land in accordance with this section if --
 (a) the land has been subject to an exemption under Part 3 Division 4B in
 relation to a development for 1 or more assessment years; and
@@ -436,7 +533,7 @@ relation to the development, or becomes excluded land as defined in
 section 39E, for an assessment year that is within 15 financial years (the
 relevant financial years) reckoned prospectively from and including the
 financial year in which the land first became exempt under that Division in
-relation to the development. 
+relation to the development.
 (2) The land tax is payable on the land by the owner of the land for each of
 the relevant financial years in which the land was subject to an exemption
 under Part 3 Division 4B.
@@ -454,9 +551,7 @@ part of the land for that year.
 (6) Despite the Taxation Administration Act 2003 section 17(4), the
 Commissioner must make any reassessment necessary to give effect to this
 section.
-
-16. Non-strata home units, assessing tax on
-
+Section 16. Non-strata home units, assessing tax on
 (1) The Commissioner may assess the amount of land tax payable on land on which
 a building containing non-strata home units is situated in accordance with this
 section if, apart from the building, no other improvements have been effected
@@ -506,13 +601,9 @@ unless the Commissioner revokes the decision under subsection (10).
 (a) on the Commissioner's own initiative; or
 (b) on receiving a joint application for revocation from all the home unit
 owners for the time being.
-
                  Part 3 -- Exemptions, concessions and rebates
-
                         Division 1 -- General provisions
-
-17. Exempt land
-
+Section 17. Exempt land
 (1) Land is exempt from land tax for an assessment year if --
 (a) the Commissioner grants an exemption for the assessment year under
 section 20; or
@@ -520,9 +611,7 @@ section 20; or
 (2) Unless this Part provides otherwise, an exemption under a provision of this
 Part referred to in subsection (1)(b) applies, in accordance with section 18,
 to the whole or part of a lot or parcel of land.
-
-18. Whole and partial exemptions
-
+Section 18. Whole and partial exemptions
 (1) In this section --
 exemption provision means a provision of this Part referred to in section 17(1)
 (b);
@@ -543,9 +632,7 @@ parcel; and
 referred to in subsection (2)(b) applies to the lot or parcel to the same
 extent that the relevant requirements of the exemption provision apply in
 respect of the lot or parcel.
-
-18A. Taxable value of land subject to partial exemption
-
+Section 18A. Taxable value of land subject to partial exemption
 (1) In this section --
 exemption provision means a provision of this part referred to in section 17(1)
 (b);
@@ -579,18 +666,14 @@ the purposes of subsection (4).
 taking into account the areas of the lot or parcel and parts of the building to
 which the relevant requirements apply or apply to some extent; and
 (b) has effect according to its terms.
-
-19. Applying for exemption or concession
-
+Section 19. Applying for exemption or concession
 The Commissioner may require an owner of land --
 (a) to lodge an application in the approved form for an exemption or concession
 under this Part; and
 (b) to give the Commissioner any information within the owner's knowledge or
 control that is relevant to deciding whether or not the land is eligible for an
 exemption or concession.
-
-20. Commissioner's power to grant exemption or concession for land
-
+Section 20. Commissioner's power to grant exemption or concession for land
 (1) The Commissioner may, on application or on the Commissioner's own
 initiative, grant an exemption, concession or further concession for any of the
 following land for an assessment year --
@@ -610,7 +693,7 @@ the operation of section 42(3) or (4);
 (g) Crown land of which a person is taken to be the owner under section 8(1)
 and which is not otherwise subject to an exemption or concession;
 (h) land sold by a religious body that would otherwise be taxable under
-section 32(2);
+Section 32(2);
 (i) land sold by an educational institution that would otherwise be taxable
 under section 33(2).
 (2) The Commissioner may grant an exemption, concession or further concession
@@ -638,10 +721,8 @@ are reasonable grounds for doing so, allow it wholly or in part.
 the taxpayer.
 (8) The Commissioner is to make any reassessment necessary to give effect to a
 decision of the Commissioner or the Minister under this section.
-
-20A. Owner of land subject to exemption or concession may be required to notify
+Section 20A. Owner of land subject to exemption or concession may be required to notify
 Commissioner of event or circumstance
-
 (1) The Commissioner may serve a notice on an owner of land in a financial year
 (the relevant year) if --
 (a) an exemption, concession or further concession has been granted for the
@@ -696,13 +777,9 @@ assessment year under the same paragraph of section 20(1); or
 (ii) for a notice under subsection (1)(b) -- no exemption or concession under
 the same provision of Divisions 2 to 5 applies to the land for the assessment
 year.
-
                    Division 2 -- Private residential property
-
     Subdivision 1 -- Exemptions and rebates for private residential property
-
-21. Residences owned by individuals, exemptions for
-
+Section 21. Residences owned by individuals, exemptions for
 (1) Private residential property (except property held in trust) is exempt for
 an assessment year if, at midnight on 30 June in the financial year before the
 assessment year, it is owned --
@@ -716,10 +793,8 @@ whom uses it as that person's primary residence.
 exempt if each owner who does not use it for that purpose is an owner only
 because of a requirement by a financial institution for a guarantee of money
 advanced on the security of the property.
-
-22. Residence owned by executor etc., exemption for if beneficiary in will
+Section 22. Residence owned by executor etc., exemption for if beneficiary in will
 exercising right to reside
-
 Private residential property is exempt for an assessment year if, at midnight
 on 30 June in the previous financial year --
 (a) it is owned by an executor or administrator of a will as trustee; and
@@ -734,10 +809,8 @@ and
 (c) the individual uses the property as their primary residence.
 [Section 22 amended: No. 40 of 2003 s. 8; No. 30 of 2008 s. 12; No. 42 of 2022
 s. 19.]
-
-23A. Exemption for residence owned by executor or administrator if beneficiary
+Section 23A. Exemption for residence owned by executor or administrator if beneficiary
 in will has right to future ownership and is resident
-
 (1) Private residential property is exempt for an assessment year if at
 midnight on 30 June in the previous financial year --
 (a) the property is owned by the executor or administrator of an individual's
@@ -751,9 +824,7 @@ only of the property, then the exemption applies to the proportion of the
 property to which the beneficiary will become entitled.
 [Section 23A inserted: No. 30 of 2008 s. 13; amended: No. 42 of 2022 s. 13 and
 19.]
-
-23. Continued exemption after death of resident
-
+Section 23. Continued exemption after death of resident
 (1) Private residential property owned by the executor or administrator of an
 individual's estate is exempt, but only for the assessment year following the
 financial year in which the individual died, if --
@@ -768,7 +839,7 @@ on 30 June in the financial year before the assessment year were a reference to
 the time immediately before the individual's death;
 and
 (b) the executor or administrator is the owner of the property at midnight on
-30 June in the financial year in which the individual died; and
+Section 30 June in the financial year in which the individual died; and
 (c) the individual's estate does not derive any rent or other income from the
 property between the date of the individual's death and the end of the
 assessment year.
@@ -783,9 +854,7 @@ assessment year.
 otherwise becomes aware, that the estate has derived rent or income from the
 property in the assessment year, the Commissioner is to make a reassessment
 accordingly.
-
-24. Construction of private residence, one year exemption for
-
+Section 24. Construction of private residence, one year exemption for
 (1) Private residential property (except property held in trust) that is owned
 by an individual is exempt for an assessment year if --
 (a) the construction of the private residence that forms part of the property
@@ -804,9 +873,7 @@ for the assessment year under another provision of this Division as a result of
 its use by the individual as their primary residence.
 (3) The Commissioner is to make any reassessment necessary to give effect to
 this section.
-
-24A. Construction of private residence, 2 year exemption for
-
+Section 24A. Construction of private residence, 2 year exemption for
 (1) Private residential property (except property held in trust) that is owned
 by an individual is exempt for 2 consecutive assessment years if --
 (a) the commencement date for the construction of the private residence that
@@ -839,9 +906,7 @@ the approved form of --
 this section.
 [Section 24A inserted: No. 31 of 2006 s. 21; amended: No. 29 of 2012 s. 13;
 No. 42 of 2022 s. 19.]
-
-25. Refurbishment of private residence, one year exemption for
-
+Section 25. Refurbishment of private residence, one year exemption for
 (1) Private residential property (except property held in trust) is exempt from
 land tax for an assessment year if --
 (a) the property is owned by an individual; and
@@ -861,9 +926,7 @@ another provision of this Division as a result of its use by the same
 individual as their primary residence.
 (3) The Commissioner is to make any reassessment necessary to give effect to
 this section.
-
-25A. Refurbishment of private residence, 2 year exemption for
-
+Section 25A. Refurbishment of private residence, 2 year exemption for
 (1) Private residential property (except property held in trust) that is owned
 by an individual is exempt for 2 consecutive assessment years if --
 (a) the commencement date for the refurbishment of the private residence that
@@ -899,18 +962,14 @@ the approved form of --
 this section.
 [Section 25A inserted: No. 31 of 2006 s. 22; amended: No. 29 of 2012 s. 14;
 No. 42 of 2022 s. 19.]
-
-26. Exemption for residence of disabled person held in trust
-
+Section 26. Exemption for residence of disabled person held in trust
 (1) Private residential property held in trust is exempt for an assessment year
 if, at midnight on 30 June in the financial year before the assessment year --
 (a) the land is owned by a trustee who holds the land in trust for one or more
 disabled beneficiaries; and
 (b) at least one disabled beneficiary of the trust uses the property as the
 beneficiary's primary residence.
-
-26A. Exemption for residence of disabled person owned by relative
-
+Section 26A. Exemption for residence of disabled person owned by relative
 (1) In this section --
 disabled person means a person who --
 (a) is qualified for a disability support pension under the Social Security
@@ -938,9 +997,7 @@ whether it is a natural relationship or a relationship established under a
 written law.
 [Section 26A inserted: No. 31 of 2006 s. 29; amended: No. 30 of 2008 s. 14;
 No. 12 of 2019 s. 135; No. 42 of 2022 s. 16 and 19.]
-
-26B. Exemption for property owned by individual in care
-
+Section 26B. Exemption for property owned by individual in care
 (1) In this section --
 aged care facility has the meaning given in section 38A(1);
 care commencement date, for an individual in full-time care, means the day on
@@ -956,7 +1013,7 @@ of that care (whether or not the person receives that payment); or
 (ii) a private hospital as defined in the Private Hospitals and Health Services
 Act 1927 section 2(1);
 (iii) a mental health service as defined in the Mental Health Act 2014
-section 4;
+Section 4;
 (iv) a private psychiatric hostel as defined in the Private Hospitals and
 Health Services Act 1927 section 2(1);
 (v) an aged care facility;
@@ -996,9 +1053,7 @@ or
 (b) any other property owned by the individual is exempt for the assessment
 year under this Division as a result of its use by the individual as their
 primary residence.
-
-27. Moving between 2 private residences, application of exemption
-
+Section 27. Moving between 2 private residences, application of exemption
 (1) Private residential property (property A) is exempt for an assessment year
 if --
 (a) at midnight on 30 June in the previous financial year, the owner owned
@@ -1025,10 +1080,8 @@ was not being used as the individual's primary residence.
 disposal and delivery of possession of the property acquired first occurs.
 (4) The Commissioner is to make any reassessment necessary to give effect to
 this section.
-
-27A. Construction or refurbishment of second private residence, 2 year
+Section 27A. Construction or refurbishment of second private residence, 2 year
 exemption for
-
 (1) Private residential property is exempt for 2 consecutive assessment years
 if --
 (a) at midnight on 30 June immediately before the first assessment year, the
@@ -1081,9 +1134,7 @@ occurs.
 this section.
 [Section 27A inserted: No. 31 of 2006 s. 23; amended: No. 29 of 2012 s. 15;
 No. 42 of 2022 s. 19; No. 9 of 2024 s. 5.]
-
-28. Inner city residential property, rebate for
-
+Section 28. Inner city residential property, rebate for
 (1) The owner of private residential property may apply to the Commissioner in
 the approved form for a rebate under this section.
 (2) The owner of private residential property is entitled to a rebate of the
@@ -1106,7 +1157,6 @@ under another provision of this Division; and
 than it would have been if the private residential property had been in an area
 zoned solely for residential purposes.
 (3) The amount of the rebate is calculated using the following formula --
-
 where --
 LT is greater than RE;
 R is the amount of the rebate;
@@ -1133,31 +1183,26 @@ Penalty: $5 000.
 this section.
 [Section 28 amended: No. 38 of 2005 s. 15; No. 19 of 2009 s. 9; No. 28 of 2010
 s. 33(3); No. 45 of 2011 s. 140.]
-
   Subdivision 2 -- Application of private residential exemptions to subdivided
                                      land
-
-28A. Terms used
-
+Section 28A. Terms used
 In this Subdivision --
 exemption period means --
 (a) in relation to section 24, 25 or 27 -- an assessment year;
 (b) in relation to section 24A, 25A or 27A -- a period of 2 consecutive
 assessment years;
 (c) in relation to section 28F -- a period of 3 consecutive assessment years, or
-4 consecutive assessment years if an extension is granted under section 28H;
+Section 4 consecutive assessment years if an extension is granted under section 28H;
 (d) in relation to section 28G -- a period of 2 consecutive assessment years, or
-3 consecutive assessment years if an extension is granted under section 28I;
+Section 3 consecutive assessment years if an extension is granted under section 28I;
 exemption provision means section 24, 24A, 25, 25A, 27, 27A, 28F or 28G;
 new lot, in relation to a subdivision of land, means a lot that comes into
 existence as a result of the subdivision;
 parent lot, in relation to a subdivision of land, means a lot that ceases to be
 a lot for the purposes of this Act under the Glossary clause 2(2) as a result
 of the subdivision.
-
-28B. Application of certain private residential exemptions to property
+Section 28B. Application of certain private residential exemptions to property
 subdivided during exemption period
-
 (1) This section applies if --
 (a) land is subdivided during an exemption period for an exemption provision;
 and
@@ -1193,10 +1238,8 @@ the new lot owners only.
 (4) A reference in subsection (3) to an owner of a new lot after a subdivision
 is to a person who is an owner of the new lot after the certificate of title
 for the new lot is registered under the Transfer of Land Act 1893.
-
-28C. Application of requirements relating to sale or disposal of subdivided
+Section 28C. Application of requirements relating to sale or disposal of subdivided
 property
-
 (1) For the purposes of the application of section 27, 27A or 28G to private
 residential property, a requirement in section 27(1)(f), 27A(1)(j) or 28G(1)(k)
 that relates to the property acquired first referred to in that section is
@@ -1206,15 +1249,12 @@ section 27, 27A or 28G (whichever is relevant); and
 (b) the requirement is satisfied in relation to each of the new lots in
 relation to the subdivision.
 (2) Subsection (1) applies in relation to the requirement in section 27(1)(f)
-whether the property acquired first is property A or property B referred to in
-section 27.
+whether the property acquired first is property A or property B referred to in Section 27.
 (3) Despite section 28B(2)(a), a requirement in section 27(1)(f), 27A(1)(j) or
 28G(1)(k) is not taken to be satisfied under that section unless subsection (1)
 (b) of this section applies.
-
-28D. Application of multi-year private residential exemptions to property
+Section 28D. Application of multi-year private residential exemptions to property
 subdivided during exemption period
-
 If private residential property that is a parent lot is exempt under
 section 24A, 25A, 27A, 28F or 28G (the relevant exemption provision) because of
 the application of section 28B(2), and the subdivision occurs in an assessment
@@ -1223,10 +1263,8 @@ relevant exemption provision, the exemption applies for each subsequent
 assessment year of the exemption period to the private residential property
 that is each new lot referred to in section 28B(2)(b) rather than to the parent
 lot.
-
-28E. Ownership of land during period when land subdivided but certificates of
+Section 28E. Ownership of land during period when land subdivided but certificates of
 title not issued
-
 (1) This section applies if --
 (a) a parent lot that is owned jointly by 2 or more persons (the joint owners)
 is subdivided; and
@@ -1242,17 +1280,14 @@ owners (the relevant owners).
 (2) For the purposes of this Division, the Commissioner may treat each new lot
 as being owned during the relevant period by the relevant owners only rather
 than by all of the joint owners.
-
 Subdivision 3 -- Special provisions for construction or refurbishment of private
       residence: commencement in period from 1 July 2020 to 30 June 2023
-
-28F. Construction or refurbishment of private residence: 3 year exemption
-
+Section 28F. Construction or refurbishment of private residence: 3 year exemption
 (1) Private residential property (except property held in trust) owned by an
 individual is exempt for 3 consecutive assessment years if --
 (a) the commencement date for the construction or refurbishment of the private
 residence that forms part of the property is on or after 1 July 2020 and before
-1 July 2023; and
+Section 1 July 2023; and
 (b) the commencement date for the construction or refurbishment is --
 (i) in the first assessment year; or
 (ii) in the previous financial year;
@@ -1260,7 +1295,7 @@ and
 (c) at midnight on 30 June immediately before the first assessment year, the
 individual owned the property; and
 (d) in the case of the refurbishment of the private residence -- at midnight on
-30 June immediately before the first assessment year, the private residence was
+Section 30 June immediately before the first assessment year, the private residence was
 unoccupied, but only because the individual had ceased occupation, or had not
 taken up occupation, to enable the private residence to be refurbished; and
 (e) the completion date for the construction or refurbishment is in the 3^rd
@@ -1285,9 +1320,7 @@ commencement date for the construction or refurbishment.
 the approved form of --
 (a) the completion date for the construction or refurbishment; and
 (b) when the individual occupies the private residence.
-
-28G. Construction or refurbishment of 2^nd private residence: 2 year exemption
-
+Section 28G. Construction or refurbishment of 2^nd private residence: 2 year exemption
 (1) Private residential property is exempt for 2 consecutive assessment years
 if --
 (a) at midnight on 30 June immediately before the first assessment year, the
@@ -1310,7 +1343,7 @@ residence is --
 (ii) in the previous financial year;
 and
 (g) in the case of the refurbishment of the private residence -- at midnight on
-30 June immediately before the first assessment year, the private residence was
+Section 30 June immediately before the first assessment year, the private residence was
 unoccupied, but only because the individual had not taken up occupation to
 enable the private residence to be refurbished; and
 (h) the completion date for the construction or refurbishment of the private
@@ -1338,9 +1371,7 @@ approved form of --
 (b) when the individual occupies the property acquired 2^nd; and
 (c) when the disposal and delivery of possession of the property acquired first
 occurs.
-
-28H. Extension of exemption under s. 28F
-
+Section 28H. Extension of exemption under s. 28F
 (1) In this section --
 completion, in relation to the construction or refurbishment of a private
 residence, means completion to the point where the residence is ready for
@@ -1368,9 +1399,7 @@ assessment years and the assessment year immediately following if --
 (4) An owner of private residential property may apply for an extension of the
 exemption provided for in section 28F, but must do so before the end of the
 financial year immediately following the 3^rd assessment year.
-
-28I. Extension of exemption under s. 28G
-
+Section 28I. Extension of exemption under s. 28G
 (1) In this section --
 completion, in relation to the construction or refurbishment of a private
 residence, means completion to the point where the residence is ready for
@@ -1398,9 +1427,7 @@ following --
 (a) 30 June 2024;
 (b) the end of the financial year immediately following the 2^nd assessment
 year.
-
-28J. No double exemption
-
+Section 28J. No double exemption
 (1) This section applies in relation to private residential property if, in
 relation to the construction or refurbishment of the private residence that
 forms part of the property, the property would, but for this section, be exempt
@@ -1411,18 +1438,12 @@ assessment year or years).
 in which case the property is not exempt under the other section.
 (3) The Commissioner need not comply with subsection (2) if satisfied that
 there would not be a change in the owner's liability to land tax.
-
-28K. Reassessment
-
+Section 28K. Reassessment
 Despite the Taxation Administration Act 2003 section 17(4), the Commissioner
 must make any reassessment necessary to give effect to this Subdivision.
-
             Division 3 -- Land used for primary production business
-
                           Subdivision 1 -- Terms used
-
-29. Terms used
-
+Section 29. Terms used
 In this Division --
 beneficiary, in relation to a discretionary or other trust (other than a unit
 trust scheme), means a person who is a beneficiary under the trust (whether the
@@ -1444,9 +1465,7 @@ primary production business has the meaning given in section 30B;
 related, in relation to a family owner of land, has the meaning given in
 sections 30I to 30;
 rural land means all land in the State other than non-rural land.
-
-30A. What is primary production
-
+Section 30A. What is primary production
 (1) Land is used for primary production if it is used for any of the
 following --
 (a) the growing or rearing of plants (including trees, fungi or any crop) for
@@ -1468,9 +1487,7 @@ progeny;
 processed or converted state; but
 (b) the processing or converting of anything for the purpose of selling it is
 not primary production.
-
-30B. When land is used for primary production business
-
+Section 30B. When land is used for primary production business
 Land is used for a primary production business if the land is used for primary
 production and that use of the land --
 (a) has a significant and substantial commercial purpose or character; and
@@ -1486,18 +1503,13 @@ account --
 and
 (e) is in accordance with any other factor prescribed for the purposes of this
 section.
-
              Subdivision 2 -- Primary production business exemption
-
-30C. Exemption for rural land
-
+Section 30C. Exemption for rural land
 Land is exempt for an assessment year if, at midnight on 30 June in the
 previous financial year, the land is --
 (a) rural land; and
 (b) used solely for a primary production business.
-
-30D. Exemption for non-rural land
-
+Section 30D. Exemption for non-rural land
 (1) Land is exempt for an assessment year if, at midnight on 30 June in the
 previous financial year, the land is --
 (a) non-rural land; and
@@ -1517,10 +1529,8 @@ and
 (i) is used for a primary production business by a person related to a family
 owner of the land; or
 (ii) is not used for a primary production business by any owner of the land.
-
-30E. Exemption under section 30D after death of family owner or person related
+Section 30E. Exemption under section 30D after death of family owner or person related
 to family owner
-
 The death of a person (the deceased) is to be disregarded in determining if
 land is exempt under section 30D for the assessment year following the
 financial year during which the death occurred and for that purpose section 30D
@@ -1535,12 +1545,9 @@ person who, immediately before the death, was related to the family owner of
 the land; and
 (ii) where the deceased was a person related to a family owner of the land --
 included a reference to an executor or administrator of the deceased's estate.
-
  Subdivision 3 -- Family owners of land and persons related to family owners of
                                      land
-
-30G. References to individuals, family members and nominated individuals
-
+Section 30G. References to individuals, family members and nominated individuals
 For the purposes of determining who is a family owner, or a person related to a
 family owner, of land a reference in this Subdivision --
 (a) to an individual or a family member is a reference to the person in their
@@ -1553,9 +1560,7 @@ Division --
 trust or the trustee of the family unit trust scheme, as is relevant; or
 (ii) if such a nomination is not made within a reasonable period of time after
 a request for a nomination is made by the Commissioner, by the Commissioner.
-
-30H. Family owner of land
-
+Section 30H. Family owner of land
 A family owner of land is an owner of the land that --
 (a) is an individual; or
 (b) is a corporation in which every shareholder is either the nominated
@@ -1568,9 +1573,7 @@ trust); or
 (d) holds the land in the capacity of trustee of a unit trust scheme under
 which every unit is held by either the nominated unit holder or a family member
 of the nominated unit holder (a family unit trust scheme).
-
-30I. Persons related to family owner who is an individual
-
+Section 30I. Persons related to family owner who is an individual
 (1) A person is related to a family owner of land who is an individual (the
 individual) if the person is --
 (a) a family member of the individual; or
@@ -1591,9 +1594,7 @@ writing for the purposes of this Division --
 individuals; or
 (b) if such a nomination is not made within a reasonable period of time after a
 request for a nomination is made by the Commissioner, by the Commissioner.
-
-30J. Persons related to family corporation
-
+Section 30J. Persons related to family corporation
 A person is related to a family owner of land that is a family corporation if
 the person is the nominated shareholder for the corporation (the shareholder)
 or is --
@@ -1607,9 +1608,7 @@ scheme) under which every beneficiary is either the shareholder or a family
 member of the shareholder; or
 (e) a trustee of a unit trust scheme under which every unit is held by either
 the shareholder or a family member of the shareholder.
-
-30K. Persons related to trustee of family trust
-
+Section 30K. Persons related to trustee of family trust
 A person is related to a family owner of land that is a trustee of a family
 trust if the person is an individual who is the nominated beneficiary for the
 trust (the beneficiary) or is --
@@ -1623,9 +1622,7 @@ scheme) under which every beneficiary is either the beneficiary or a family
 member of the beneficiary; or
 (e) a trustee of a unit trust scheme under which every unit is held by either
 the beneficiary or a family member of the beneficiary.
-
-30. Persons related to trustee of a family unit trust scheme
-
+Section 30. Persons related to trustee of a family unit trust scheme
 A person is related to a family owner of land that is a trustee of a family
 unit trust scheme if the person is the nominated unit holder for the scheme
 (the unit holder) or is --
@@ -1639,11 +1636,8 @@ scheme) under which every beneficiary is either the unit holder or a family
 member of the unit holder; or
 (e) a trustee of another unit trust scheme under which every unit holder is
 either the unit holder or a family member of the unit holder.
-
         Division 4 -- Crown land and other land used for public purposes
-
-31. Land owned by Crown, public authority etc., exemption for
-
+Section 31. Land owned by Crown, public authority etc., exemption for
 (1) Land owned by, or vested in, the Crown, an agency or instrumentality of the
 Crown, a local government or another public statutory authority is exempt for
 an assessment year unless, at midnight on 30 June in the financial year before
@@ -1664,7 +1658,6 @@ before its expiry; and
 of some default by the applicant; and
 (c) the person applies to the Commissioner in the approved form.
 (4) The rebate is calculated in accordance with the formula --
-
 where --
 A = the amount of taxes payable for the assessment year in relation to all the
 taxable land owned by the applicant;
@@ -1678,9 +1671,7 @@ section.
 (6) In this section --
 taxes means land tax, penalty tax or charges under the regulations for land tax
 paid in instalments.
-
-32. Land owned by religious bodies, exemption for
-
+Section 32. Land owned by religious bodies, exemption for
 (1) Land is exempt for an assessment year if --
 (a) at midnight on 30 June in the previous financial year it is owned by,
 vested in or held in trust for a religious body; and
@@ -1705,12 +1696,10 @@ subsection (2).
 reserved land, in relation to an assessment year, means land that is exempt for
 that year under subsection (1) because it is or was reserved as a site for the
 purposes referred to in subsection (1)(b).
-
-33. Land owned by educational institutions, exemption for
-
+Section 33. Land owned by educational institutions, exemption for
 (1) Land is exempt for an assessment year if --
 (a) at midnight on 30 June in the previous financial year, it is owned by,
-vested in or held in trust for an educational institution listed in subsection 
+vested in or held in trust for an educational institution listed in subsection
 (4); and
 (b) it is in good faith used or reserved as a site for the purpose of providing
 facilities necessary for or conducive to the attainment of the objects of the
@@ -1748,15 +1737,11 @@ subsection (2).
 reserved land, in relation to an assessment year, means land that is exempt for
 that year under subsection (1) because it is or was reserved as a site for the
 purposes referred to in subsection (1)(b).
-
-34. Land used for public or religious hospitals, exemption for
-
+Section 34. Land used for public or religious hospitals, exemption for
 Land is exempt for an assessment year if, at midnight on 30 June in the
 previous financial year, it is used solely for the purposes of a public
 hospital or a hospital conducted by or on behalf of a religious body.
-
-35. Exemption for mining tenements
-
+Section 35. Exemption for mining tenements
 (1) Except as provided in subsection (2), land is exempt for an assessment year
 if a mining tenement is in force for the land at midnight on 30 June in the
 previous financial year.
@@ -1766,18 +1751,14 @@ midnight on 30 June in the previous financial year --
 (b) a diversification lease is in force for the land, whether or not the
 diversification lease is held by the same person or persons who hold the mining
 tenement.
-
-36. Land used for various public purposes, exemption for
-
+Section 36. Land used for various public purposes, exemption for
 Land is exempt for an assessment year if --
 (a) at midnight on 30 June in the previous financial year, it is dedicated to,
 or vested in trustees for, the purposes of a zoological garden, an
 agricultural, pastoral or horticultural show, an historical society, a public
 museum or similar public purposes; and
 (b) it is used for those purposes.
-
-37. Land owned by public charitable or benevolent institutions, exemption for
-
+Section 37. Land owned by public charitable or benevolent institutions, exemption for
 (1) In this section --
 public charitable or benevolent institution does not include an institution
 that is a relevant body, unless a beneficial body determination is in force for
@@ -1790,9 +1771,7 @@ institution; and
 institution was established.
 (3) This section applies to an assessment year that commences on or after 1
 July 2015.
-
-38AA. What is a relevant body
-
+Section 38AA. What is a relevant body
 A reference to a relevant body is to any of the following --
 (a) a political party;
 (b) an industrial association;
@@ -1812,9 +1791,7 @@ Glossary, of which a body referred to in another paragraph is also a member; or
 (Commonwealth) section 9, of a body referred to in another paragraph; or
 (iii) has as its sole or dominant purpose or object the conferral of a benefit,
 whether financial or non-financial, on a body referred to in another paragraph.
-
-38AB. Application for a beneficial body determination
-
+Section 38AB. Application for a beneficial body determination
 (1) An application may be made to the Minister for a determination under
 section 38AC that a relevant body is a beneficial body for the purposes of the
 taxation Acts if --
@@ -1839,9 +1816,7 @@ by the taxpayer --
 (b) after the right to object to the original assessment had expired.
 (4) An application referred to in subsection (1) must be made within 60 days
 after subsection (2) first applies in respect of the decision.
-
-38AC. Beneficial body determination
-
+Section 38AC. Beneficial body determination
 (1) On an application under section 38AB the Minister, with the Treasurer's
 concurrence, may determine that a relevant body is a beneficial body for the
 purposes of the taxation Acts.
@@ -1882,9 +1857,7 @@ section 17 do not apply in respect of a reassessment under subsection (9).
 (11) A beneficial body determination continues in force until the day on which
 notice of the revocation is published in the Gazette, and different days may be
 specified for each Act in respect of which the determination is in force.
-
-38. Land owned by non-profit associations, exemption or concession for
-
+Section 38. Land owned by non-profit associations, exemption or concession for
 (1) Land is exempt for an assessment year if --
 (a) at midnight on 30 June in the previous financial year, it is owned by,
 vested in or held in trust for a sports association; and
@@ -1905,9 +1878,7 @@ land is to be taxed at the concessional rate of 50% of the rate imposed by the
 Land Tax Act 2002 if at least half of the area equal to the sum of the area of
 the land and the area of any part of a building on the land that is capable of
 being let is used as described.
-
-38A. Land used as aged care facility, exemption for
-
+Section 38A. Land used as aged care facility, exemption for
 (1) In this section --
 aged care facility means any building or any part of a building used for the
 provision of a residential care service that is certified under the
@@ -1916,9 +1887,7 @@ regard to the building or the part of the building;
 residential care has the meaning given in the Commonwealth Aged Care Act 1997.
 (2) Land is exempt for an assessment year if, at midnight 30 June in the
 previous financial year, it is used for the purposes of an aged care facility.
-
-39. Land used for retirement villages: exemption for
-
+Section 39. Land used for retirement villages: exemption for
 (1) In this section, each of these terms has the meaning given in the
 Retirement Villages Act 1992 section 3 --
 residence contract
@@ -1936,17 +1905,11 @@ extends to any land that, at midnight on 30 June in that financial year, is --
 (b) appurtenant to the residential premises; and
 (c) being occupied or used for, or in connection with, the retirement village
 scheme for the retirement village.
-
            Division 4A -- Land used for dwelling or residential parks
-
-39A. Terms used
-
+Section 39A. Terms used
 In this Division --
-camp has the meaning given in the Caravan Parks and Camping Grounds Act 1995 
-section 5(1);
-caravan has the meaning given in the Caravan Parks and Camping Grounds Act 1995
-section 5(1);
-caravan or camp site means a short-stay site set aside, marked, or intended to
+camp has the meaning given in the Caravan Parks and Camping Grounds Act 1995
+Section 5(1); caravan has the meaning given in the Caravan Parks and Camping Grounds Act 1995 section 5(1); caravan or camp site means a short-stay site set aside, marked, or intended to
 be used for 1 caravan or camp;
 dwelling or residential park --
 (a) means a dwelling park or a residential park; and
@@ -1972,10 +1935,7 @@ operating the dwelling or residential park;
 long-stay site has the meaning given in the Residential Parks (Long-stay
 Tenants) Act 2006 section 3;
 operate has the meaning given in the Caravan Parks and Camping Grounds Act 1995
-section 5(1);
-owner-occupied home site means a long-stay site in relation to which a
-site-only agreement (as defined in the Residential Parks (Long-stay Tenants)
-Act 2006 section 3) is in force;
+Section 5(1); owner-occupied home site means a long-stay site in relation to which a site-only agreement (as defined in the Residential Parks (Long-stay Tenants) Act 2006 section 3) is in force;
 park site means an area of land in a dwelling or residential park that is set
 aside, marked, or intended to be used for --
 (a) 1 caravan, camp or relocatable home; or
@@ -1985,9 +1945,7 @@ Tenants) Act 2006 section 3;
 residential park has the meaning given in the Residential Parks (Long-stay
 Tenants) Act 2006 section 5B;
 short-stay site means a park site that is not a long-stay site.
-
-39B. Exemption for land in dwelling or residential parks
-
+Section 39B. Exemption for land in dwelling or residential parks
 (1) Land in a dwelling or residential park is exempt for an assessment year, to
 the extent set out in subsection (2), if at midnight on 30 June in the previous
 financial year there are caravan or camp sites or owner-occupied home sites in
@@ -1998,9 +1956,7 @@ calculated under section 39C.
 subsections (1) and (2), then for the purposes of determining the taxable value
 of the land in the park for the assessment year, the unimproved value of the
 land must be reduced by an amount that is equal to X% of that unimproved value.
-
-39C. Calculating percentage for exemption for dwelling or residential parks
-
+Section 39C. Calculating percentage for exemption for dwelling or residential parks
 (1) This section sets out the method to be used in calculating the percentage
 that applies in determining the extent to which land in a dwelling or
 residential park is exempt for an assessment year under section 39B.
@@ -2051,9 +2007,7 @@ P3 is the proportion of the total land in the park that is excluded land
 calculated under subsection (6).
 (8) Seventh, convert the proportion calculated under subsection (7) to a
 percentage.
-
-39D. Provisions about calculations under s. 39C
-
+Section 39D. Provisions about calculations under s. 39C
 (1) A calculation under section 39C must be made by reference to the dwelling
 or residential park as at midnight on 30 June in the financial year before the
 assessment year.
@@ -2066,11 +2020,8 @@ exemption component calculated under section 39C(3) is taken to be zero.
 (b) for the purposes of the calculation in section 39C(7), the long-stay
 exemption component calculated under section 39C(5) is taken to be zero.
 (4) A calculation under section 39C must be rounded to 4 decimal places.
-
             Division 4B -- Land used for build-to-rent developments
-
-39E. Terms used
-
+Section 39E. Terms used
 In this Division --
 community title lot means a lot referred to in paragraph (a)(via) of the
 definition of lot in the Glossary clause 2(1);
@@ -2085,22 +2036,14 @@ developing the land; or
 exempt development;
 exempt build-to-rent development means a development that meets the
 requirements for exemption as a build-to-rent development set out in
-section 39F(1);
-exempt development means an exempt build-to-rent development or an exempt
-expansion build-to-rent development;
-exempt expansion build-to-rent development means a development that meets the
+Section 39F(1); exempt development means an exempt build-to-rent development or an exempt expansion build-to-rent development; exempt expansion build-to-rent development means a development that meets the
 requirements for exemption as an expansion build-to-rent development set out in
-section 39F(3);
-exemption percentage means the percentage specified under section 39I(2);
-residential tenancy agreement has the meaning given in the Residential
-Tenancies Act 1987 section 3;
+Section 39F(3); exemption percentage means the percentage specified under section 39I(2); residential tenancy agreement has the meaning given in the Residential Tenancies Act 1987 section 3;
 social housing premises has the meaning given in the Residential Tenancies
 Act 1987 section 71A;
 strata lot means a lot referred to in paragraph (a)(vii) of the definition of
 lot in the Glossary clause 2(1).
-
-39F. Requirements for exemption relating to build-to-rent development
-
+Section 39F. Requirements for exemption relating to build-to-rent development
 (1) Development meets the requirements for exemption as a build-to-rent
 development if --
 (a) it is on land owned by 1 owner or joint owners; and
@@ -2136,9 +2079,7 @@ buildings are used for other purposes); and
 be occupied, it is on the same lot or parcel as an existing exempt
 build-to-rent development; and
 (d) it meets the requirements of subsection (1)(c) to (g).
-
-39G. Exceptions to leasing restrictions for exempt development
-
+Section 39G. Exceptions to leasing restrictions for exempt development
 (1) A dwelling may be rented for a term of less than 3 years without affecting
 eligibility for an exemption under this Division if --
 (a) the tenant requests the shorter term; or
@@ -2150,28 +2091,22 @@ dwelling that is part of an exempt development --
 (a) if it is necessary to ensure public health or safety; or
 (b) if the dwelling is social housing premises; or
 (c) in prescribed circumstances.
-
-39H. Managing entities for exempt development
-
+Section 39H. Managing entities for exempt development
 (1) The owner of land is not required to be the management entity responsible
 for providing management services to an exempt development.
 (2) Section 39F does not require the management entity responsible for
 providing management services to an exempt build-to-rent development to be the
 management entity responsible for providing management services to an exempt
 expansion build-to-rent development on the same lot or parcel of land.
-
-39I. Exemption for build-to-rent developments
-
-(1) Land is exempt for an assessment year, to the extent set out in subsection 
+Section 39I. Exemption for build-to-rent developments
+(1) Land is exempt for an assessment year, to the extent set out in subsection
 (2), if at midnight on 30 June in the previous financial year the land is used
 for an exempt development.
 (2) The land is exempt to the extent of 50%, or other percentage calculated
 under section 39K, of the taxable value of the land.
 (3) The exemption does not apply to any part of a lot or parcel of land that is
 excluded land.
-
-39J. Limits on eligibility for build-to-rent exemption
-
+Section 39J. Limits on eligibility for build-to-rent exemption
 (1) Land used for an exempt development is not exempt under this Division in
 relation to that development for an assessment year that is the year 20 years
 after the land first became exempt in relation to that development or for any
@@ -2198,10 +2133,8 @@ this Division for the assessment year.
 subject of a determination by the Commissioner under subsection (3) is taken to
 meet the requirements of section 39F for the assessment year to which the
 determination applies.
-
-39K. Exemption percentage where buildings partially used for build-to-rent
+Section 39K. Exemption percentage where buildings partially used for build-to-rent
 dwellings
-
 (1) This section does not apply to a strata lot or a community title lot.
 (2) If a building or buildings on land used for exempt development are only
 partly used for self-contained dwellings referred to in section 39F(1)(b) or
@@ -2221,9 +2154,7 @@ lift towers, cooling towers, machinery or plant rooms, air conditioning or
 ventilation ducts or any other prescribed part of a building.
 (4) A calculation under this section must be made by reference to land as at
 midnight on 30 June in the financial year before the assessment year.
-
-39L. Taxable value of land subject to partial build-to-rent exemptions
-
+Section 39L. Taxable value of land subject to partial build-to-rent exemptions
 (1) This section applies for the purpose of determining the taxable value of a
 lot or parcel for an assessment year if an exemption under this Division
 applies only partly to the lot or parcel.
@@ -2232,22 +2163,17 @@ land under section 18A(3), the unimproved value of an area of the lot or parcel
 to which an exemption under this Division applies is the unimproved value of
 the area determined in accordance with section 18A(4) and multiplied by the
 exemption percentage for the area.
-
-39M. Application for build-to-rent exemption
-
+Section 39M. Application for build-to-rent exemption
 (1) An application for an exemption under this Division must --
 (a) be in an approved form; and
 (b) be received by the Commissioner on or before 30 June in the assessment year
 unless the Commissioner gives an extension under subsection (2).
 (2) The Commissioner may extend the time for lodging an application from
-30 June in the assessment year to any date before the 1 July occurring 4 years
+Section 30 June in the assessment year to any date before the 1 July occurring 4 years
 after that 30 June if the Commissioner is satisfied that there are reasonable
 grounds for extending the time.
-
                  Division 5 -- Other exemptions and concessions
-
-40. Land owned by veteran's surviving partner or mother, exemption for
-
+Section 40. Land owned by veteran's surviving partner or mother, exemption for
 Land is exempt for an assessment year to the extent of the first $10 000 of the
 value of the land on which land tax would otherwise be payable if, at midnight
 on 30 June in the previous financial year, the owner of the land is --
@@ -2256,23 +2182,17 @@ Entitlements Act 1986 of the Commonwealth; or
 (b) a veteran's widowed mother to whom a pension continues to be payable under
 section 4(6) of the Veteran's Entitlements (Transitional Provisions and
 Consequential Amendments) Act 1986 of the Commonwealth.
-
-41. Land under conservation covenant, exemption for
-
+Section 41. Land under conservation covenant, exemption for
 Land that is used solely or principally for the conservation of native
 vegetation is exempt for an assessment year if the land is the subject of a
 conservation covenant that was in force at midnight on 30 June in the financial
 year before the assessment year.
-
-42A. Land under biodiversity conservation covenant, exemption for
-
+Section 42A. Land under biodiversity conservation covenant, exemption for
 Land is exempt for an assessment year if the land is the subject of a
 biodiversity conservation covenant under the Biodiversity Conservation Act 2016
 that is expressed to have effect in perpetuity and that was in force at
 midnight on 30 June in the financial year before the assessment year.
-
-42. One year exemption for land vacated for sale by mortgagee
-
+Section 42. One year exemption for land vacated for sale by mortgagee
 (1) Land is exempt for an assessment year if --
 (a) the property was vacant at midnight on 30 June in the financial year before
 the assessment year; and
@@ -2296,9 +2216,7 @@ when the land was required to be vacant.
 owner for one assessment year only.
 [Section 42 amended: No. 31 of 2006 s. 24; No. 42 of 2022 s. 9; No. 9 of 2024
 s. 10.]
-
-43A. Newly subdivided land, concession for
-
+Section 43A. Newly subdivided land, concession for
 (1) If a lot (the old lot) is subdivided in the financial year before an
 assessment year, the land tax payable on a lot created by the subdivision (the
 new lot) is assessed under this section if --
@@ -2325,7 +2243,7 @@ assessed under this section.
 (b) be received by the Commissioner on or before 31 August in the assessment
 year, unless the Commissioner gives an extension under subsection (3).
 (3) The Commissioner may extend the time for lodging an application from
-31 August to any date before the following 1 July if --
+Section 31 August to any date before the following 1 July if --
 (a) the owner applies for the extension before the end of the assessment year;
 and
 (b) the Commissioner is satisfied that there are reasonable grounds for
@@ -2340,13 +2258,11 @@ that bears the same proportion to the old lot's unimproved value as at midnight
 on 30 June immediately before the financial year in which the new lot was
 created as the area of the new lot bears to the area of the old lot.
 (7) A reference in a land tax Act, other than in clause 6, to the taxable value
-of the land in the new lot is a reference to whichever value, under subsection 
+of the land in the new lot is a reference to whichever value, under subsection
 (5), is the value on which the land tax on the new lot is payable.
 [Section 43A inserted: No. 19 of 2009 s. 10; amended: No. 15 of 2015 s. 8;
 No. 30 of 2018 s. 153; No. 32 of 2018 s. 218.]
-
-43B. Freehold reversion in parcel subdivided by leasehold scheme, exemption for
-
+Section 43B. Freehold reversion in parcel subdivided by leasehold scheme, exemption for
 (1) In this section --
 parcel has the same meaning as in the Strata Titles Act 1985 section 3(1).
 (2) Land is exempt for an assessment year if at midnight on 30 June in the
@@ -2356,11 +2272,8 @@ Titles Act 1985 by a leasehold scheme registered under that Act; or
 (b) freehold in possession in a parcel that has been subdivided, as referred to
 in clause 3(1)(d), by a leasehold scheme to be registered under the Strata
 Titles Act 1985.
-
                             Part 4 -- Miscellaneous
-
-43. Occupier etc. of land to give information
-
+Section 43. Occupier etc. of land to give information
 (1) The Commissioner or an investigator may request an occupier of land or a
 person in possession of land to --
 (a) disclose the name of the owner of the land or of the person entitled to
@@ -2369,9 +2282,7 @@ receive the rents and profits of the land; and
 person that is required for the purposes of a land tax Act.
 (2) A person who does not comply with a request commits an offence.
 Penalty: $5 000.
-
-45. Contracts ineffective to alter incidence of land tax
-
+Section 45. Contracts ineffective to alter incidence of land tax
 (1) A contract, agreement or understanding that has or purports to have or
 might have the effect of removing, qualifying or altering the operation of an
 assessment or exemption, or of in any way affecting the incidence of an
@@ -2386,9 +2297,7 @@ by parol; or
 (b) was made before or after the commencement of the land tax Acts.
 (3) Except as provided in subsection (1), that subsection does not prejudice
 the validity of the contract, agreement, or understanding.
-
-45A. Minor interests of joint owners, Commissioner may disregard
-
+Section 45A. Minor interests of joint owners, Commissioner may disregard
 (1) The Commissioner may determine that an interest in a lot or parcel of land
 as a joint owner (whenever created) is to be disregarded for the purposes of
 this Act on and from the creation of the interest.
@@ -2415,14 +2324,12 @@ into or carried out; and
 parcel of land, the Commissioner must give to the owner of the lot or parcel of
 land a notice setting out the determination, the reasons for the determination
 and the effect of the determination as described in section 45B.
-(5) In any review proceedings that relate to a determination under subsection 
+(5) In any review proceedings that relate to a determination under subsection
 (1) in respect of an interest in 5% or less of a lot or parcel of land, the
 onus of establishing that none of the purposes of the creation of the interest
 was to reduce the amount of land tax payable for that, or any other, lot or
 parcel lies on the taxpayer.
-
-45B. Effect of determination under s. 45A
-
+Section 45B. Effect of determination under s. 45A
 (1) If the Commissioner makes a determination under section 45A that an
 interest in a lot or parcel of land is an interest that is to be disregarded
 for the purposes of this Act on and from the creation of the interest, then, on
@@ -2439,9 +2346,7 @@ more years before the assessment year during which the determination was made.
 (a) does not affect the operation of the Taxation Administration Act 2003
 section 17(2); and
 (b) applies despite the Taxation Administration Act 2003 section 17(4).
-
-45C. Property to which Help to Buy arrangement relates
-
+Section 45C. Property to which Help to Buy arrangement relates
 (1) In this section --
 Help to Buy arrangement has the meaning given in the Help to Buy Act 2024
 (Commonwealth) section 6;
@@ -2460,9 +2365,7 @@ and
 (b) land tax is payable on both the trust land and the beneficially held land.
 (4) For the purposes of section 11, land tax payable on the trust land and the
 beneficially held land is liable to be jointly assessed.
-
-46. Regulations
-
+Section 46. Regulations
 (1) The Governor may make regulations prescribing all matters that are required
 or permitted by this Act to be prescribed or are necessary or convenient to be
 prescribed for giving effect to this Act.
@@ -2491,25 +2394,23 @@ year that began before the day on which the regulations came into operation if
 the application of the regulations to or in relation to that assessment year
 would not adversely affect a person who is or may become liable to pay land tax
 for the assessment year.
-
-47. Transitional provisions
-
+Section 47. Transitional provisions
 Schedule 1 contains transitional provisions relating to amendments made to this
 Act.
               Schedule 1 -- Transitional and validation provisions
           Division 1 -- Provision for Revenue Laws Amendment Act 2006
-1. Application of s. 24A, 25A and 27A
+Section 1. Application of s. 24A, 25A and 27A
 Private residential property is exempt under section 24A, 25A or 27A (as
 inserted by Part 4 Division 2 of the Revenue Laws Amendment Act 2006) if the
 completion date for the construction or refurbishment of the private residence
 that forms part of the property is on or after 1 July 2006.
      Division 2 -- Provision for Revenue Laws Amendment (Taxation) Act 2009
-2. Regulations for cl. 6
+Section 2. Regulations for cl. 6
 If regulations made under section 46 for the purposes of prescribing the
 percentage for clause 6(4) are made after 1 July 2009, they may be deemed to
 have come into operation on 1 July 2009.
 Division 3 -- Provisions for the Taxation Legislation Amendment Act (No. 2) 2015
-3. Terms used
+Section 3. Terms used
 In this Division --
 new provisions means sections 37, 38AA, 38AB and 38AC as in force immediately
 after the commencement of the amendments effected by the Taxation Legislation
@@ -2517,7 +2418,7 @@ Amendment Act (No. 2) 2015 Part 3;
 previously exempt land means land that was exempt under section 37 for the
 assessment year immediately before the first assessment year to which the new
 provisions apply.
-4. Previously exempt land: section 37
+Section 4. Previously exempt land: section 37
 (1) If the Commissioner forms the preliminary view that previously exempt land
 may not be exempt under the new provisions, then the Commissioner is to give
 notice (preliminary notice about an exemption under section 37) to the person
@@ -2532,14 +2433,14 @@ land tax on the previously exempt land informing the person of --
 (a) the Commissioner's decision as to whether or not the previously exempt land
 will be exempt under the new provisions; and
 (b) the grounds on which the decision is made.
-(4) Despite the amendments effected by the Taxation Legislation Amendment Act 
+(4) Despite the amendments effected by the Taxation Legislation Amendment Act
 (No. 2) 2015 Part 3 --
 (a) the new provisions do not apply in relation to previously exempt land until
 the assessment year following the financial year during which notice is given
 under subclause (3); and
 (b) this Act as in force immediately before the commencement of those
 amendments continues to apply to that land until that time.
-5. Beneficial body determination: application may be made
+Section 5. Beneficial body determination: application may be made
 Despite clause 4(4), if the Commissioner makes a decision under clause 4 that
 previously exempt land will not be exempt under the new provisions solely on
 the ground that an institution is a relevant body referred to in section 38AA
@@ -2551,11 +2452,11 @@ subsequent determination, as if a reference in section 38AB(1) to the decision
 were a reference to the decision of the Commissioner under clause 4.
       Division 4 -- Provisions for Taxation Legislation Amendment Act 2015
                           Subdivision 1 -- Preliminary
-6. Term used: amending Act
+Section 6. Term used: amending Act
 In this Division --
 amending Act means the Taxation Legislation Amendment Act 2015.
               Subdivision 2 -- Provisions about primary production
-7. Application of section 15 during transitional period
+Section 7. Application of section 15 during transitional period
 (1) In this clause --
 former section 30 means section 30 as in force immediately before the amending
 Act section 6 comes into operation;
@@ -2565,9 +2466,9 @@ transitional period means the period --
 (2) Section 15 applies to and in respect of land that is subdivided during the
 transitional period as if section 15(1)(a) included a reference to land that
 was subject to a concession under the former section 30 for any of the
-5 financial years reckoned retrospectively from, and including, the financial
+Section 5 financial years reckoned retrospectively from, and including, the financial
 year during which the land was subdivided.
-8. Application of section 20 to previous assessment years
+Section 8. Application of section 20 to previous assessment years
 (1) In this clause --
 former section 20 means section 20 as in force immediately before the amending
 Act section 5 comes into operation;
@@ -2577,7 +2478,7 @@ previous assessment period means the period --
 (2) Despite the amendment of section 20 by the amending Act section 5, the
 former section 20 continues to apply to and in respect of an assessment year
 that occurred during the previous assessment period.
-9. Application of section 30D to land held in trust for assessment year 2014/15
+Section 9. Application of section 30D to land held in trust for assessment year 2014/15
 (1) In this clause --
 compliant trustee, in relation to land, means a trustee of a discretionary or
 other trust (other than a unit trust scheme) that is --
@@ -2585,14 +2486,14 @@ other trust (other than a unit trust scheme) that is --
 (b) a person related to a family owner of the land described in section 30I(1)
 (d), 30J(d), 30K(d) or 30(d).
 (2) Land is exempt under section 30D for the assessment year ending
-30 June 2015 if --
+Section 30 June 2015 if --
 (a) it would not be so exempt, but for this clause, solely because a trustee
 was not a compliant trustee at midnight on 30 June 2014; and
 (b) on or before midnight on 30 June 2015 the trustee is a compliant trustee.
       Subdivision 3 -- Provisions about exemptions and rural business land
-10. Terms used
+Section 10. Terms used
 In this Subdivision --
-2012 to 2014 assessment period means the period --
+Section 2012 to 2014 assessment period means the period --
 (a) beginning on 1 July 2012; and
 (b) ending on 30 June 2014;
 amended Act means this Act as in force immediately after commencement;
@@ -2623,7 +2524,7 @@ validation period means the period --
 (a) beginning on the coming into operation of the Land Tax Assessment Act 2002;
 and
 (b) ending immediately before commencement.
-11. Validation of previous assessments
+Section 11. Validation of previous assessments
 (1) A previous assessment made, or purported to be made, during the validation
 period is to be taken to be, and to have always been, valid and effective to
 the same extent as it would have been if the amended Act had been in force when
@@ -2638,7 +2539,7 @@ made.
 (4) In this clause, a reference to the doing of anything includes a reference
 to an omission to do anything.
 (5) This clause is subject to clause 12.
-12. Land tax decisions made or pending
+Section 12. Land tax decisions made or pending
 (1) In this clause --
 decision means --
 (a) a decision of a court or tribunal made under a land tax Act before
@@ -2651,12 +2552,12 @@ decision, the decision prevails.
 the Commissioner, under a land tax Act before 28 November 2013; or
 (b) in respect of which review proceedings were commenced, but not finally
 determined, under a land tax Act before 28 November 2013.
-13. Application of modified rural business land provisions during the 2012 to
-2014 assessment period
+Section 13. Application of modified rural business land provisions during the 2012 to
+Section 2014 assessment period
 The modified rural business land provisions apply, and are taken to have always
 applied, for the purposes of assessing, or reassessing, land tax for an
 assessment year during the 2012 to 2014 assessment period.
-14. Validation of rural business land assessments
+Section 14. Validation of rural business land assessments
 (1) A rural business land assessment made, or purported to be made, in respect
 of land for an assessment year during the 2012 to 2014 assessment period is to
 be taken to be, and to have always been, valid and effective to the same extent
@@ -2670,12 +2571,12 @@ effective, and is to be taken to have always been as valid and effective, as it
 would have been if a rural business land assessment had been validly made.
 (4) In this clause, a reference to the doing of anything includes a reference
 to an omission to do anything.
-15. Reassessment
+Section 15. Reassessment
 Subject to the Taxation Administration Act 2003 section 17, the Commissioner
 may make any reassessment necessary to give effect to the amendments effected
 by the amending Act Part 3 Division 2 and this Subdivision.
       Division 5 -- Provisions for Land Tax Assessment Amendment Act 2018
-16. Terms used
+Section 16. Terms used
 In this Division --
 amended Act means this Act as amended by the Land Tax Assessment Amendment
 Act 2018 Part 2;
@@ -2698,7 +2599,7 @@ validation period means the period --
 (a) beginning on the coming into operation of the Land Tax Assessment Act 2002;
 and
 (b) ending immediately before commencement.
-17. Validation of previous assessments
+Section 17. Validation of previous assessments
 (1) A previous assessment made, or purported to be made, during the validation
 period is, and is to be taken to have always been, as valid and effective as it
 would have been if the amended Act had been in force when the assessment was
@@ -2713,7 +2614,7 @@ made.
 (4) In this clause, a reference to the doing of anything includes a reference
 to an omission to do anything.
 (5) This clause is subject to clause 18.
-18. Land tax decisions made or pending
+Section 18. Land tax decisions made or pending
 (1) In this clause --
 decision means --
 (a) a decision of a court or tribunal made under a land tax Act before
@@ -2734,12 +2635,12 @@ finally determined, under a land tax Act before 15 July 2015.
 (5) Despite the amendments made by the Land Tax Assessment Amendment Act 2018
 Part 2, the former Act continues to apply in respect of the determination of an
 objection or proceedings to which subclause (4) applies.
-19. Reassessment
+Section 19. Reassessment
 Subject to the Taxation Administration Act 2003 section 17, the Commissioner
 may make any reassessment necessary to give effect to this Division and the
 amendments made by the Land Tax Assessment Amendment Act 2018 Part 2.
           Division 6 -- Provisions for Revenue Laws Amendment Act 2019
-20. Application of section 30D to land held in trust for assessment year 2019/
+Section 20. Application of section 30D to land held in trust for assessment year 2019/
 20
 (1) In this clause --
 compliant trustee, in relation to land, means a trustee of a discretionary or
@@ -2748,21 +2649,21 @@ other trust (other than a unit trust scheme) that is --
 (b) a person related to a family owner of the land described in section 30I(1)
 (d), 30J(d), 30K(d) or 30(d).
 (2) Land is exempt under section 30D for the assessment year ending
-30 June 2020 if --
+Section 30 June 2020 if --
 (a) it would not be so exempt, but for this clause, solely because a trustee
 was not a compliant trustee at midnight on 30 June 2019; and
 (b) the trustee would have been a compliant trustee at midnight on 30 June 2019
 but for the amendment to the definition of beneficiary in section 29 made by
 the Revenue Laws Amendment Act 2019 section 136; and
 (c) on or before midnight on 30 June 2020 the trustee is a compliant trustee.
-21. Application of amendments relating to subdivision of land
+Section 21. Application of amendments relating to subdivision of land
 (1) Part 3 Division 2 Subdivision 2 (other than section 28E) applies in
 relation to exemption periods (as defined in section 28A) that begin on or
 after 1 July 2019.
 (2) Section 28E and the Glossary clause 2(2) apply in relation to assessment
 years that begin on or after 1 July 2019, whether the subdivision referred to
 in whichever of those provisions is relevant occurs before or after
-1 July 2019.
+Section 1 July 2019.
 (3) Despite subclauses (1) and (2), Part 3 Division 2 Subdivision 2 and the
 Glossary clause 2(2) do not apply for the purposes of determining whether
 private residential property is exempt under section 24, 24A, 25, 25A or 27A
@@ -2770,12 +2671,12 @@ private residential property is exempt under section 24, 24A, 25, 25A or 27A
 construction or refurbishment referred to in the relevant exemption provision
 is before 1 July 2019.
       Division 7 -- Provisions for Land Tax Assessment Amendment Act 2022
-22. Application of amendments made by Land Tax Assessment Amendment Act 2022
+Section 22. Application of amendments made by Land Tax Assessment Amendment Act 2022
 Part 2
 (1) The amendments made by the Land Tax Assessment Amendment Act 2022 Part 2
 apply in relation to assessment years that begin on or after 1 July 2020.
 (2) This clause has effect subject to clause 23.
-23. Reduced exemption percentage for land used for dwelling or residential park
+Section 23. Reduced exemption percentage for land used for dwelling or residential park
 does not apply for certain financial years
 (1) In this clause --
 dwelling or residential park has the meaning given in section 39A;
@@ -2798,7 +2699,7 @@ dwelling or residential park for a relevant year is less than the old exemption
 percentage for the land for the year, the land is taken to be exempt under
 section 39B for the year to the extent of the old exemption percentage rather
 than the new exemption percentage.
-24. Continued application of notification requirements
+Section 24. Continued application of notification requirements
 (1) In this clause --
 commencement day means the day on which the Land Tax Assessment Amendment
 Act 2022 Part 3 comes into operation;
@@ -2827,17 +2728,16 @@ apply in relation to a change (as defined in that section) that occurs in the
 commencement year.
 (3) Subclause (2) does not apply in relation to land if a notice is served
 under section 20A(1) in relation to the land in the commencement year.
-25. Reassessment
+Section 25. Reassessment
 Subject to the Taxation Administration Act 2003 section 17, the Commissioner
 must make any reassessment necessary to give effect to this Division and the
 amendments made by the Land Tax Assessment Amendment Act 2022 Part 2.
    Division 8 -- Provision for Land Tax Assessment Amendment (Build-to-Rent)
                                    Act 2024
-26. Application of amendments
+Section 26. Application of amendments
 The amendments made to this Act by the Land Tax Assessment Amendment
 (Build-to-Rent) Act 2024 apply in relation to assessment years that begin on or
 after 1 July 2023.
-
                                    Glossary
 1.^  1M, 1MC Terms used
 Unless the contrary intention appears --
@@ -2894,10 +2794,7 @@ qualified for a carer payment under Part 2.5 of that Act in respect of that
 care (whether or not the person receives that payment); or
 (c) is a minor who is an orphan;
 diversification lease has the meaning given in the Land Administration Act 1997
-section 92B(1);
-diversification lessee has the meaning given in the Land Administration
-Act 1997 section 3(1);
-exempt, in relation to land, means exempt from land tax;
+Section 92B(1); diversification lessee has the meaning given in the Land Administration Act 1997 section 3(1); exempt, in relation to land, means exempt from land tax;
 exempt purpose, in relation to land, means a purpose for which the land is used
 or reserved and by virtue of which the land is exempt;
 home unit means --
@@ -2910,7 +2807,7 @@ improvements, in relation to land, means all works actually effected to the
 land, whether above or below the surface, and includes fixtures, but does not
 include machinery, whether fixed to land or not;
 industrial association means any of the following --
-(a) an organisation registered under the Industrial Relations Act 1979 
+(a) an organisation registered under the Industrial Relations Act 1979
 section 53 or 54;
 (b) an association of employees, or an association of employers, registered as
 an organisation, or recognised, under the Fair Work (Registered Organisations)
@@ -3075,7 +2972,7 @@ Taxes Administration) Regulations 2007 r. 18 and endnote 1M.]
 [Modification, to clause 1, to have effect under the Commonwealth Places
 (Mirror Taxes) Act 1998 (Commonwealth) s. 8, see Commonwealth Places (Mirror
 Taxes) (Modification of Applied Laws (WA)) Notice 2007 cl. 19 and endnote 1MC.]
-2. Lots and parcels of land
+Section 2. Lots and parcels of land
 (1) In this Act unless the contrary intention appears --
 lot means a defined portion of land --
 (a) which is the whole of the land the subject of --
@@ -3156,9 +3053,9 @@ undertaken at the home lot in the absence of the other lots;
 of the land, the individuals residing there or any other person, in relation to
 all or any of the lots is irrelevant.
 [Clause 2 amended: No. 60 of 2006 s. 142(3); No. 30 of 2008 s. 18(3)-(5); No.
-19 of 2009 s. 12(2); No. 30 of 2018 s. 155(4); No. 32 of 2018 s. 219(3);
+Section 19 of 2009 s. 12(2); No. 30 of 2018 s. 155(4); No. 32 of 2018 s. 219(3);
 No. 12 of 2019 s. 142 and 143.]
-3. Subdivided land
+Section 3. Subdivided land
 (1) Land is subdivided when --
 (a) a plan of subdivision of the land (other than for a subdivision under the
 Community Titles Act 2018) is approved by the Western Australian Planning
@@ -3191,7 +3088,7 @@ instrument or application referred to in that paragraph.
 [Clause 3 amended: No. 55 of 2004 s. 584; No. 38 of 2005 s. 15; No. 30 of 2008
 s. 18(6); No. 15 of 2015 s. 11; No. 30 of 2018 s. 155(5); No. 32 of 2018 s. 219
 (4) and (5).]
-6. Taxable value
+Section 6. Taxable value
 (1) Unless the contrary intention appears, the taxable value of land is to be
 determined under this clause.
 (2) The taxable value of land for a financial year is --
@@ -3447,7 +3344,7 @@ operation, and for information about any reprints, see the compilation table.
 ^1M Under the Commonwealth Places (Mirror Taxes Administration) Act 1999 s. 7,
 modifications to State taxing laws may be prescribed. Modifications are
 prescribed in the Commonwealth Places (Mirror Taxes Administration) Regulations
-2007 Pt. 3 Div. 2.
+Section 2007 Pt. 3 Div. 2.
 If a modification is to:
 &bull;  replace or insert a numbered provision, the new provision is identified by
 the superscript 1M appearing after the provision number;
@@ -3486,18 +3383,16 @@ included because it was deleted by the State Superannuation Amendment Act 2011
 s. 4 before the amendment purported to come into operation.
 ^6 The Business Tax Review (Assessment) Act 2003 s. 7 and s. 10 read as
 follows:
-
-7. Financial years before the commencement day
+Section 7. Financial years before the commencement day
 (1) Despite the amendments effected by this Part, the Land Tax Assessment
 Act 2002, as in force immediately before the commencement day, continues to
 apply in relation to land tax payable for financial years that commence before
 the commencement day.
 (2) In this section --
 commencement day means the day on which this Part comes into operation.
-10. Requirement to reassess
+Section 10. Requirement to reassess
 The Commissioner of State Revenue must make any reassessment necessary to give
 effect to the amendments effected by this Part.
-
 ^7 The State Administrative Tribunal (Conferral of Jurisdiction) Amendment and
 Repeal Act 2004 Pt. 5, the State Administrative Tribunal Act 2004 s. 167 and
 169, and the State Administrative Tribunal Regulations 2004 r. 28 and 42 deal
@@ -3507,11 +3402,10 @@ Act 2010 s. 33(4) is not included because the subsection it sought to amend had
 been deleted by the Revenue Laws Amendment (Taxation) Act 2009 s. 9 before the
 amendment purported to come into operation.
                                  Defined terms
-
 [This is a list of terms defined and the provisions where they are defined. The
                          list is not part of the law.]
 Defined term Provision(s)
-2012 to 2014 assessment period Sch. 1 cl. 10
+Section 2012 to 2014 assessment period Sch. 1 cl. 10
 aged care facility 26B(1), 38A(1)
 agent Gl. cl. 1
 aggregated taxable value Gl. cl. 1
@@ -3669,14 +3563,11 @@ unsatisfied requirements 28B(1)
 validation period Sch. 1 cl. 10 and 16
 X% 15A(3A), 39B(2)
 Y% 15A(3A)
-
 Â© State of Western Australia 2025
-
 .
 This work is licensed under a Creative Commons Attribution 4.0 International
 Licence (CC BY 4.0). To view relevant information and for a link to a copy of
 the licence, visit www.legislation.wa.gov.au.
 Attribute work as: Â© State of Western Australia 2025
-
 .
              By Authority: ROGER JACOBS, Acting Government Printer

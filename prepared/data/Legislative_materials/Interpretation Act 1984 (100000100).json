@@ -1,0 +1,873 @@
+{
+  "doc": {
+    "jurisdiction": "western_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/wa/consol_act/ia1984191/",
+    "register_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a384.html&view=consolidated",
+    "source": "Interpretation Act 1984 (100000100).txt",
+    "filename": "Interpretation Act 1984 (100000100).json",
+    "name": "Interpretation Act 1984",
+    "citation": "Interpretation Act 1984"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 1",
+      "text": "This Act may be cited as the Interpretation Act 1984."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 2",
+      "text": "This Act shall come into operation on 1 July 1984."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Application",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Application",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 3",
+      "text": "(1) The provisions of this Act apply to every written law, whether the law was\nenacted, passed, made, or issued before or after the commencement of this Act,\nunless in relation to a particular written law --\n(a) express provision is made to the contrary; or\n(b) in the case of an Act, the intent and object of the Act or something in the\nsubject or context of the Act is inconsistent with such application; or\n(c) in the case of subsidiary legislation, the intent and object of the Act\nunder which that subsidiary legislation is made is inconsistent with such\napplication.\n(2) The provisions of this Act apply to this Act as they apply to an Act passed\nafter this Act commences.\n(3) A reference in section 17, 25, 43(6), 50 or 64 to an Act, written law,\nenactment, or subsidiary legislation passed or made after the commencement of\nthis Act shall be construed so as not to include any enactment which continues\nor directly amends, but does not repeal entirely, the text of an existing\nwritten law^ 1."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Act binds Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Act binds Crown",
+      "defined_term": null,
+      "structure_path": "Part I -- Preliminary > Section 4",
+      "text": "This Act binds the Crown.\n                  Part II -- General interpretation provisions"
+    },
+    {
+      "key": "section:5.p1",
+      "title": "Section 5 - Terms used in written laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Terms used in written laws",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 5",
+      "text": "In this Act and every other written law -- act used with reference to an offence or civil wrong includes an omission and extends to a series of acts or omissions or a series of acts and omissions; Act means any Act or Ordinance passed by the Parliament of Western Australia, or by any Council previously having authority or power to pass laws in Western Australia, such Act or Ordinance having been assented to by or on behalf of Her Majesty; affidavit means an affidavit made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or made before the commencement of that Act in accordance with law; alternative offence, when used in relation to an offence, has the meaning given by section 10B of The Criminal Code; amend means replace, substitute, in whole or in part, add to or vary, and the doing of any 2 or more of such things simultaneously or by the same written law; ASIC Law and ASIC Regulations have the meaning provided for by Part 11 of the Corporations (Western Australia) Act 1990; Auditor General means the person holding the office of Auditor General for Western Australia continued by section 6 of the Auditor General Act 2006; Australia means the Commonwealth of Australia; Australia Acts means -- (a) the Australia Act 1986 of the Commonwealth; and (b) the Australia Act 1986 of the United Kingdom; bank holiday, in relation to an area, means a day that is appointed or declared a bank holiday for that area by or under the Public and Bank Holidays Act 1972; bankrupt and bankrupt or a person whose affairs are under insolvency laws have the meanings given in section 13D; book -- (a) when used in relation to the recording of accounting or financial information, includes any method or system of recording such information that has been approved by the Treasurer; and (b) when used in relation to the recording of information other than accounting or financial information, includes any method or system of recording such information that has been approved by the Minister to whom the administration of the relevant enactment has been committed by the Governor; British possession means any part of Her Majesty's dominions outside the United Kingdom; and where parts of such dominions are under both a central and local legislature, all parts under the central legislature are deemed, for the purposes of this definition, to be one British possession; by-law means a by-law made under the Act in which the term is used; chief executive officer has the meaning given by the Public Sector Management Act 1994 and -- (a) when used in relation to -- (i) an agency within the meaning of that Act; or (ii) an office or employee in, or anything else connected with, an agency within the meaning of that Act, means the chief executive officer of the agency; and (b) when used in an enactment otherwise than in the circumstances referred to in paragraph (a), means the chief executive officer of the agency principally assisting the Minister administering the enactment in its administration; Children's Court means the Children's Court of Western Australia established by the Children's Court of Western Australia Act 1988; commencement, in relation to an enactment, means the time when the enactment came or comes into operation; Commissioner of State Revenue means the Commissioner of State Revenue appointed under the Public Sector Management Act 1994 for the purposes of the Taxation Administration Act 2003; Commonwealth means the Commonwealth of Australia; Commonwealth Act or Act of the Commonwealth means an Act passed by the Parliament of the Commonwealth; Consolidated Account means the Consolidated Account referred to in section 64 of the Constitution Act 1889; contravene, in relation to any requirement or condition prescribed in a written law or in any grant, permit, lease, licence, or other authority under a written law, includes a failure to comply with that requirement or condition; Corporations Law and Corporations Regulations have the meaning provided for by Part 3 of the Corporations (Western Australia) Act 1990; Court of Appeal means the Court of Appeal established under the Supreme Court Act 1935; court of summary jurisdiction means the Children's Court or the Magistrates Court; death, of a person, has a meaning affected by section 13C; de facto partner and de facto relationship have the meanings given in Section 13A; definition means the interpretation given by any written law to a word or expression; District Court means The District Court of Western Australia established by the District Court of Western Australia Act 1969; District Court judge means a judge, acting judge or"
+    },
+    {
+      "key": "section:5.p2",
+      "title": "Section 5 - Terms used in written laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Terms used in written laws",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 5",
+      "text": "Act 1990; Court of Appeal means the Court of Appeal established under the Supreme Court Act 1935; court of summary jurisdiction means the Children's Court or the Magistrates Court; death, of a person, has a meaning affected by section 13C; de facto partner and de facto relationship have the meanings given in Section 13A; definition means the interpretation given by any written law to a word or expression; District Court means The District Court of Western Australia established by the District Court of Western Australia Act 1969; District Court judge means a judge, acting judge or auxiliary judge of the District Court; document includes any publication and any matter written, expressed, or described upon any substance by means of letters, figures, or marks, or by more than one of those means, which is intended to be used or may be used for the purpose of recording that matter; enactment means a written law or any portion of a written law; estate, in relation to land, includes any legal or equitable estate or interest, easement, right, title, claim, demand, charge, lien, or encumbrance in, over, to, or in respect of the land; Family Court or Family Court of Western Australia means the Family Court of Western Australia continued by the Family Court Act 1997; financial year means the period of 12 months ending on 30 June; function includes powers, duties, responsibilities, authorities, and jurisdictions; Gazette or Government Gazette means the government gazette of Western Australia (or a supplement to that gazette) -- (a) published, or purporting to be published, under the authority of the Government -- (i) in hard copy form; or (ii) in electronic form (whether or not originally published in hard copy form); and (b) whether published, or purporting to be published, before or after the commencement of the Legislation Act 2021 section 48(2); Government means the Government of the State; Government Printer means a person authorised by or on behalf of the Government to publish, in hard copy or electronic form, any written law or any other instrument of the Government; Governor means the Governor of the State and includes the officer for the time being administering the Government of the State; Her Majesty, His Majesty, Queen, King, or Crown means the Sovereign of the United Kingdom, Australia and Her other Realms and Territories, and Head of the Commonwealth and includes the predecessors and the heirs and successors of the Sovereign; Imperial Act means an Act passed by the Parliament of the United Kingdom; indictable offence has the meaning given by section 67; individual means a natural person; judge means a judge, acting judge or auxiliary judge of the Supreme Court; justice of the peace or justice or JP means a justice of the peace appointed under the Justices of the Peace Act 2004; land includes buildings and other structures, land covered with water, and any estate, interest, easement, servitude or right in or over land; lawyer means an Australian lawyer as defined in the Legal Profession Uniform Law (WA) section 6(1); legal practitioner means an Australian legal practitioner as defined in the Legal Profession Uniform Law (WA) section 6(1); local government means a local government established under the Local Government Act 1995; local government district has the meaning given by section 13CA; local law means a local law made by a local government under the Act in which the term is used; magistrate means a magistrate of the Magistrates Court; Magistrates Court means the Magistrates Court of Western Australia established by the Magistrates Court Act 2004; Minister has the meaning given in section 12; Minister for Public Sector Management means the Minister of the Crown to whom the administration of the Public Sector Management Act 1994 is for the time being committed by the Governor; month has the meaning given in section 62; oath means an oath or affirmation taken or made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or taken or made before the commencement of that Act in accordance with law; parent includes the following -- (a) a person who is a parent within the meaning of the Artificial Conception Act 1985; (b) a person who is an adoptive parent under the Adoption Act 1994; (c) a person who is a parent in a relationship of parent and child that arises because of a parentage order under the Surrogacy Act 2008; Parliament means the Parliament of the State; penalty means a fine, imprisonment, or other form of punishment, including the suspension or cancellation of a licence, registration or permit and disqualification from obtaining a licence, registration or permit; perform,"
+    },
+    {
+      "key": "section:5.p3",
+      "title": "Section 5 - Terms used in written laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Terms used in written laws",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 5",
+      "text": "the following -- (a) a person who is a parent within the meaning of the Artificial Conception Act 1985; (b) a person who is an adoptive parent under the Adoption Act 1994; (c) a person who is a parent in a relationship of parent and child that arises because of a parentage order under the Surrogacy Act 2008; Parliament means the Parliament of the State; penalty means a fine, imprisonment, or other form of punishment, including the suspension or cancellation of a licence, registration or permit and disqualification from obtaining a licence, registration or permit; perform, in relation to functions, includes the exercise of a power, responsibility, authority or jurisdiction; person or any word or expression descriptive of a person includes a public body, company, or association or body of persons, corporate or unincorporate; police officer means a person appointed under Part I of the Police Act 1892 to be a member of the Police Force of Western Australia; power includes any privilege, authority, or discretion; prescribed means -- (a) prescribed by or under the written law in which the word occurs; and (b) in a case where reference is made to anything prescribed by a written law other than the law in which the word occurs, includes anything prescribed by subsidiary legislation made under that other written law; proclamation means a proclamation made by the Governor and published in the Gazette or on the WA legislation website; public half-holiday, in relation to an area, means a part of a day that is appointed or declared a public half-holiday for that area by or under the Public and Bank Holidays Act 1972; public holiday, in relation to an area, means a day that is appointed or declared a public holiday for that area by or under the Public and Bank Holidays Act 1972; Public Sector Commissioner means the person holding the office established by the Public Sector Management Act 1994 section 16; Public Service has the meaning given by the Public Sector Management Act 1994; public service holiday means a holiday prescribed as such under the Public Service Act 1978^ 2; public service officer has the meaning given in the Public Sector Management Act 1994 section 3(1); publication means -- (a) all written and printed matter; and (b) any record, tape, wire, perforated roll, cinematograph film or images or other contrivance by means of which any words or ideas may be mechanically, electronically, or electrically produced, reproduced, represented, or conveyed; and (c) anything whether of a similar nature to that described in paragraph (b) or not, containing any visible representation, or by its form, shape, or in any manner capable of producing, reproducing, representing, or conveying words or ideas; and (d) every copy and reproduction of a publication as defined in paragraphs (a), (b) and (c); regional local government means a regional local government established under the Local Government Act 1995; regional subsidiary means a regional subsidiary established under the Local Government Act 1995; regulation means a regulation made under the Act in which the term is used; repeal includes rescind, revoke, cancel, or delete; Royal Assent means assent by or in the name of Her Majesty; rule means a rule made under the Act in which the term is used; rules of court has the meaning given by section 66; sell includes barter, exchange, offer to sell and expose for sale; sign includes the affixing or making of a seal, mark or thumbprint; simple offence has the meaning given by section 67; sitting days, in relation to either House of Parliament, means days on which such House actually sits; spouse, in relation to a person, means a person who is lawfully married to that person; Standards Australia means Standards Australia International Limited (ACN Section 087 326 690) and includes a reference to the Standards Association of Australia as constituted before 1 July 1999; State means a State of the Commonwealth; State Administrative Tribunal means the State Administrative Tribunal established under the State Administrative Tribunal Act 2004; statutory declaration means a statutory declaration made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or made before the commencement of that Act in accordance with law; subsidiary legislation means any proclamation, regulation, rule, local law, by-law, order, notice, rule of court, local or region planning scheme, resolution, or other instrument, made under any written law and having legislative effect; summary conviction means a conviction by a court of summary jurisdiction; summary conviction penalty, when used in relation to an indictable offence, has the effect provided for by section 5 of The Criminal Code; Supreme Court means the"
+    },
+    {
+      "key": "section:5.p4",
+      "title": "Section 5 - Terms used in written laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Terms used in written laws",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 5",
+      "text": "declaration made in accordance with the Oaths, Affidavits and Statutory Declarations Act 2005 or made before the commencement of that Act in accordance with law; subsidiary legislation means any proclamation, regulation, rule, local law, by-law, order, notice, rule of court, local or region planning scheme, resolution, or other instrument, made under any written law and having legislative effect; summary conviction means a conviction by a court of summary jurisdiction; summary conviction penalty, when used in relation to an indictable offence, has the effect provided for by section 5 of The Criminal Code; Supreme Court means the Supreme Court of Western Australia; swear includes to affirm; Territory means a Territory of the Commonwealth; the State or this State means the State of Western Australia; under, in relation to a written law or a provision of a written law, includes \"by\", \"in accordance with\", \"pursuant to\" and \"by virtue of \"; United Kingdom means the United Kingdom of Great Britain and Northern Ireland; Valuer-General means the Valuer-General under the Valuation of Land Act 1978; WA legislation website has the meaning given in the Legislation Act 2021 Section 8(1); will includes a codicil and every writing making a voluntary posthumous disposition of property; words includes figures and symbols; writing and expressions referring to writing include printing, photography, photocopying, lithography, typewriting and any other modes of representing or reproducing words in visible form; written law means all Acts for the time being in force and all subsidiary legislation for the time being in force; year means a period of 12 months. [Section 5 amended: No. 98 of 1985 s. 3; No. 113 of 1987 s. 32; No. 49 of 1988 s. 41; No. 105 of 1990 s. 97; No. 15 of 1991 s. 21; No. 30 of 1992 s. 21; No. 6 of 1993 s. 11; No. 32 of 1994 s. 15; No. 73 of 1994 s. 4; No. 85 of 1994 s. 4; No. 14 of 1996 s. 4; No. 23 of 1997 s. 9; No. 41 of 1997 s. 33; No. 10 of 1998 s. 40(1); No. 26 of 1999 s. 89; No. 3 of 2002 s. 84; No. 45 of 2002 s. 16; No. Section 74 of 2003 s. 69(2); No. 4 of 2004 s. 58; No. 45 of 2004 s. 33(2); No. 54 of Section 2004 s. 175(2); No. 59 of 2004 s. 141; No. 70 of 2004 s. 36(12); No. 24 of 2005 s. 55; No. 38 of 2005 s. 15; No. 59 of 2006 s. 73; No. 60 of 2006 s. 183; No. 77 of 2006 Sch. 1 cl. 92; No. 29 of 2008 s. 35(2); No. 47 of 2008 s. 69; No. 18 of 2009 s. 4; No. 31 of 2010 s. 4; No. 39 of 2010 s. 78; No. 26 of 2016 s. 64; No. 13 of 2021 s. 48; No. 9 of 2022 s. 361.]"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Definitions in a written law, application of",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Definitions in a written law, application of",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 6",
+      "text": "Definitions or rules of interpretation contained in a written law apply to the\nconstruction of the provisions of the written law that contain those\ndefinitions or rules of interpretation as well as to other provisions of that\nwritten law."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Written laws to be construed subject to State's legislative power",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Written laws to be construed subject to State's legislative power",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 7",
+      "text": "Every written law shall be construed subject to the limits of the legislative\npower of the State and so as not to exceed that power to the intent that where\nany enactment thereof, but for this section, would be construed as being in\nexcess of that power, it shall nevertheless be valid to the extent to which it\nis not in excess of that power."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Written laws always speaking",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Written laws always speaking",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 8",
+      "text": "A written law shall be considered as always speaking and whenever a matter or\nthing is expressed in the present tense, it shall be applied to the\ncircumstances as they arise, so that effect may be given to every part of the\nlaw according to its true spirit, intent, and meaning."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Parts of speech and grammatical forms",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Parts of speech and grammatical forms",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 9",
+      "text": "Where a word or phrase is defined in a written law, other parts of speech and\ngrammatical forms of that word or phrase have corresponding meanings."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Gender and number",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Gender and number",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 10",
+      "text": "In any written law --\n(a) words that indicate or could be taken to indicate a person of a particular\ngender or sex (for example, he, she, chairman, workman) include --\n(i) any individual, regardless of gender or sex; and\n(ii) any person that is not an individual;\n(c) words in the singular number include the plural and words in the plural\nnumber include the singular."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Sovereign, references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Sovereign, references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 11",
+      "text": "A reference in a written law to the Sovereign reigning at the time the law was\nenacted or made, or to the Crown, shall be construed as a reference to the\nSovereign for the time being."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Minister, references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Minister, references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 12",
+      "text": "A reference in a written law to the Minister shall be construed --\n(a) in the case of a reference in an Act, as a reference to the Minister of the\nCrown to whom the administration of the Act, or the provision of the Act, in\nwhich or in respect of which the term is used, is for the time being committed\nby the Governor; and\n(b) in the case of a reference in subsidiary legislation, as a reference to the\nMinister of the Crown to whom the administration of the Act, or the provision\nof the Act, under which the subsidiary legislation is made, is for the time\nbeing committed by the Governor; and\n(c) so as to include a Minister of the Crown for the time being acting for or\non behalf of the Minister referred to in paragraph (a) or (b), as the case may\nrequire."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - British subject etc., references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "British subject etc., references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 13",
+      "text": "(1) In this section --\nCommonwealth Act means the Australian Citizenship Act 1948^ 3 of the Parliament\nof the Commonwealth, as amended;\nlaw of the State means a written law in force in the State.\n(2) A reference in any law of the State to a British subject or to a natural\nborn or naturalized subject of Her Majesty or to any other like expression,\nshall be read as a reference to an Australian citizen and to any other person\nwho, under the Commonwealth Act, has the status of a British subject or has the\nstatus of a British subject without citizenship.\n(3) Where a rule of law applies to, or in relation to, or has effect with\nrespect to a British subject, that rule of law applies to, or in relation to,\nor has effect with respect to an Australian citizen and any other person who,\nunder the Commonwealth Act, has the status of a British subject or has the\nstatus of a British subject without citizenship, as if that Australian citizen\nor other person were a British subject."
+    },
+    {
+      "key": "section:13A",
+      "title": "Section 13A - De facto relationship and de facto partner, references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "13A",
+      "main_structural_heading": "De facto relationship and de facto partner, references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 13A",
+      "text": "(1) A reference in a written law to a de facto relationship shall be construed\nas a reference to a relationship (other than a legal marriage) between 2\npersons who live together in a marriage-like relationship.\n(2) The following factors are indicators of whether or not a de facto\nrelationship exists between 2 persons, but are not essential --\n(a) the length of the relationship between them;\n(b) whether the 2 persons have resided together;\n(c) the nature and extent of common residence;\n(d) whether there is, or has been, a sexual relationship between them;\n(e) the degree of financial dependence or interdependence, and any arrangements\nfor financial support, between them;\n(f) the ownership, use and acquisition of their property (including property\nthey own individually);\n(g) the degree of mutual commitment by them to a shared life;\n(h) whether they care for and support children;\n(i) the reputation, and public aspects, of the relationship between them.\n(3) It does not matter whether --\n(a) the persons are different sexes or the same sex; or\n(b) either of the persons is legally married to someone else or in another de\nfacto relationship.\n(4) A reference in a written law to a de facto partner shall be construed as a\nreference to a person who lives, or where the context requires, has lived, in a\nde facto relationship.\n(5) The de facto partner of a person (the first person) is the person who\nlives, or lived, in the de facto relationship with the first person."
+    },
+    {
+      "key": "section:13B",
+      "title": "Section 13B - Standards Association of Australia, references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "13B",
+      "main_structural_heading": "Standards Association of Australia, references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 13B",
+      "text": "A reference in a written law (other than this Act) to the Standards Association\nof Australia shall be read as a reference to Standards Australia.\n[Section 13B inserted as 13A: No. 74 of 2003 s. 69(3); renumbered as 13B under\nthe Reprints Act 1984 s. 7(5)(c)(ii).]"
+    },
+    {
+      "key": "section:13CA",
+      "title": "Section 13CA - Local government districts, references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "13CA",
+      "main_structural_heading": "Local government districts, references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 13CA",
+      "text": "(1) In a written law --\nlocal government district means a district under the Local Government Act 1995.\n(2) A reference in a written law to a named local government district is a\nreference to the local government district that has that name under the Local\nGovernment Act 1995.\nExample for this section:\nSection 1. \"Perth local government district\" refers to the local government district\nnamed Perth.\nSection 2. \"Narrogin (Shire) local government district\" refers to the local government\ndistrict named Narrogin (Shire).]"
+    },
+    {
+      "key": "section:13C",
+      "title": "Section 13C - When death of a person occurs",
+      "main_structural_unit": "section",
+      "main_structural_number": "13C",
+      "main_structural_heading": "When death of a person occurs",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 13C",
+      "text": "For the purposes of the law of this State, a person dies when there occurs --\n(a) irreversible cessation of all function of the person's brain; or\n(b) irreversible cessation of circulation of blood in the person's body."
+    },
+    {
+      "key": "section:13D",
+      "title": "Section 13D - Bankrupt and related expressions, references to",
+      "main_structural_unit": "section",
+      "main_structural_number": "13D",
+      "main_structural_heading": "Bankrupt and related expressions, references to",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 13D",
+      "text": "(1) A reference in a written law to a person being a bankrupt means that the\nperson is a bankrupt as defined in the Bankruptcy Act 1966 (Commonwealth) or\nhas a substantially similar status under a law applicable in a place where that\nAct does not apply.\n(2) A reference in a written law to a person being a bankrupt or a person whose\naffairs are under insolvency laws means that --\n(a) the person is a bankrupt as described in subsection (1); or\n(b) the person is a party, as a debtor, to a debt agreement under the\nBankruptcy Act 1966 (Commonwealth); or\n(c) the person has, as a debtor, entered into a personal insolvency agreement\nunder Part X of the Bankruptcy Act 1966 (Commonwealth) and obligations created\nby the agreement remain to be discharged; or\n(d) the person has not yet entered a personal insolvency agreement under Part X\nof the Bankruptcy Act 1966 (Commonwealth) but has authorised a controlling\ntrustee to perform functions under that Part,\nor that the person has a substantially similar status under a law applicable in\na place where the Bankruptcy Act 1966 (Commonwealth) does not apply."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - References to 2 or more provisions to be inclusive",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "References to 2 or more provisions to be inclusive",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 14",
+      "text": "A reference in a written law by number or letter or by number and letter to 2\nor more portions of a written law shall be construed as including the portion\ndescribed by the reference first-mentioned and the portion described by the\nreference last-mentioned."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Internal references in written laws, construction of",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Internal references in written laws, construction of",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 15",
+      "text": "(1) Where in an Act reference is made to a Part, Chapter, section, schedule,\nappendix, or form without anything in the context to indicate that a reference\nto a Part, Chapter, section, schedule, appendix, or form of or to some other\nAct is intended, the reference shall be construed as a reference to a Part,\nChapter, section, schedule, appendix, or form of or to the Act in which the\nreference is made.\n(2) Where in a provision of an Act reference is made to a subsection,\nparagraph, subparagraph, or other division without anything in the context to\nindicate that a reference to a subsection, paragraph, subparagraph, or other\ndivision of some other provision is intended, the reference shall be construed\nas a reference to a subsection, paragraph, subparagraph, or other division of\nthe provision in which the reference is made.\n(3) Where in a schedule to an Act reference is made to a clause, subclause,\nparagraph or other division without anything in the context to indicate that a\nreference to a clause, subclause, paragraph, or other division of some other\nprovision is intended, the reference shall be construed as a reference to a\nclause, subclause, paragraph, or other division of the schedule or provision of\nthe schedule in which the reference is made.\n(4) The provisions of subsections (1), (2), and (3) shall apply, subject to the\nnecessary modifications, to the construction of subsidiary legislation."
+    },
+    {
+      "key": "section:15A",
+      "title": "Section 15A - Reference to paragraph",
+      "main_structural_unit": "section",
+      "main_structural_number": "15A",
+      "main_structural_heading": "Reference to paragraph",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 15A",
+      "text": "(1) In this section --\nparagraph includes a subparagraph, item, subitem and any other similar\nprovision.\n(2) A reference in a written law to a paragraph includes a reference to a\nconjunction after it connecting it to another paragraph."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Reference to written law is to written law as amended",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Reference to written law is to written law as amended",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 16",
+      "text": "(1) A reference in a written law to a written law shall be deemed to include a\nreference to such written law as it may from time to time be amended.\n(2) A reference in a written law to a provision of a written law shall be\nconstrued as a reference to such provision as it may from time to time be\namended.\n(3) A reference in a written law to an Imperial Act or a Commonwealth Act, or\nto a provision of an Imperial Act or a Commonwealth Act, shall be construed so\nas to include a reference to such Act or provision as it may from time to time\nbe amended."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Disjunctive construction of \"or\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Disjunctive construction of \"or\"",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 17",
+      "text": "In relation to a written law passed or made after the commencement of this Act,\nbut subject to section 3(3), or, other, and otherwise shall be construed\ndisjunctively and not as implying similarity unless the word \"similar\" or some\nother word of like meaning is added."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Purpose or object of written law, use of in interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Purpose or object of written law, use of in interpretation",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 18",
+      "text": "In the interpretation of a provision of a written law, a construction that\nwould promote the purpose or object underlying the written law (whether that\npurpose or object is expressly stated in the written law or not) shall be\npreferred to a construction that would not promote that purpose or object."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Extrinsic material, use of in interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Extrinsic material, use of in interpretation",
+      "defined_term": null,
+      "structure_path": "Part II -- General interpretation provisions > Section 19",
+      "text": "(1) Subject to subsection (3), in the interpretation of a provision of a\nwritten law, if any material not forming part of the written law is capable of\nassisting in the ascertainment of the meaning of the provision, consideration\nmay be given to that material --\n(a) to confirm that the meaning of the provision is the ordinary meaning\nconveyed by the text of the provision taking into account its context in the\nwritten law and the purpose or object underlying the written law; or\n(b) to determine the meaning of the provision when --\n(i) the provision is ambiguous or obscure; or\n(ii) the ordinary meaning conveyed by the text of the provision taking into\naccount its context in the written law and the purpose or object underlying the\nwritten law leads to a result that is manifestly absurd or is unreasonable.\n(2) Without limiting the generality of subsection (1), the material that may be\nconsidered in accordance with that subsection in the interpretation of a\nprovision of a written law includes --\n(a) all matters not forming part of the written law that are set out in an\nofficial version of the law under the Legislation Act 2021; and\n(b) any relevant report of a Royal Commission, Law Reform Commission, committee\nof inquiry or other similar body that was laid before either House of\nParliament before the time when the provision was enacted; and\n(c) any relevant report of a committee of Parliament or of either House of\nParliament that was made to Parliament or that House of Parliament before the\ntime when the provision was enacted; and\n(d) any treaty or other international agreement that is referred to in the\nwritten law; and\n(e) any explanatory memorandum relating to the Bill containing the provision,\nor any other relevant document, that was laid before, or furnished to the\nmembers of, either House of Parliament by a Minister before the time when the\nprovision was enacted; and\n(f) the speech made to a House of Parliament by a Minister on the occasion of\nthe moving of a motion that the Bill containing the provision be read a second\ntime in that House; and\n(g) any document (whether or not a document to which a preceding paragraph\napplies) that is declared by the written law to be a relevant document for the\npurposes of this section; and\n(h) any relevant material in any official record of proceedings in either House\nof Parliament.\n(3) In determining whether consideration should be given to any material in\naccordance with subsection (1), or in considering the weight to be given to any\nsuch material, regard shall be had, in addition to any other relevant matters,\nto --\n(a) the desirability of persons being able to rely on the ordinary meaning\nconveyed by the text of the provision taking into account its context in the\nwritten law and the purpose or object underlying the written law; and\n(b) the need to avoid prolonging legal or other proceedings without\ncompensating advantage.\n                     Part III -- Commencement and citation"
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Commencement of Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Commencement of Acts",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 20",
+      "text": "(1) Every Act to which the Royal Assent has been given before 1 July 1984 shall\nbe deemed to have come into operation on the day on which that Act received the\nRoyal Assent, unless the contrary intention appears in the Act.\n(2) Every Act to which the Royal Assent is given on or after 1 July 1984 shall,\nunless the contrary intention appears in that Act, come into operation on the\nSection 28th day after the day on which that Act receives the Royal Assent.\n(3) Every Act reserved for the signification of Her Majesty's pleasure on or\nafter 1 July 1984 shall, unless the contrary intention appears in that Act,\ncome into operation on the day on which Her Majesty's assent is proclaimed in\nthe Gazette."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Time of commencement of written laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Time of commencement of written laws",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 21",
+      "text": "Where any written law, or portion of a written law, comes into operation on a\nparticular day, it shall come into operation at the beginning of that day."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Act commencing on proclamation, commencement of certain provisions of",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Act commencing on proclamation, commencement of certain provisions of",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 22",
+      "text": "Notwithstanding section 20(2), where an Act provides that the Act, or portion\nof the Act, is to come into operation on a day to be fixed by proclamation,\nthat provision and the provision providing for the short title of the Act,\nunless it is otherwise expressly provided, shall come into operation on the day\non which the Act receives the Royal Assent."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Proclamation of commencement of Act, construction of power to make",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Proclamation of commencement of Act, construction of power to make",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 23",
+      "text": "A power to fix a day on which an Act shall come into operation does not include\npower to fix --\n(a) a day prior to the day on which the proclamation fixing the day is\npublished in the Gazette or on the WA legislation website; or\n(b) different days for different provisions of that Act,\nunless express provision is made in that behalf."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Some powers in Act may be exercised before it commences",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Some powers in Act may be exercised before it commences",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 25",
+      "text": "(1) Where a provision of an Act does not commence on the passing of the Act and\nthat provision would, if it had commenced, confer power to --\n(a) make an instrument of a legislative or administrative character; or\n(b) give or serve a notice or other document; or\n(c) appoint a person to a specified office; or\n(d) establish a specified body of persons, whether incorporated or not; or\n(e) do any other thing for the purposes of the Act,\nthen the power may, notwithstanding that that provision has not commenced, but\nsubject to subsections (3) and (4), be exercised at any time after the passing\nof the Act to the extent that it is necessary or expedient for the purpose of\nbringing the Act, or provisions of the Act, into operation, or giving full\neffect to the Act, or provisions of the Act, when or after that provision\ncommences.\n(2) Where --\n(a) a provision of an Act does not commence on the passing of the Act and the\nprovision would, if it had commenced, amend another Act; and\n(b) a provision of that other Act would, if the first-mentioned provision had\ncommenced, confer power to --\n(i) make an instrument of a legislative or administrative character; or\n(ii) give or serve a notice or other document; or\n(iii) appoint a person to a specified office; or\n(iv) establish a specified body of persons whether incorporated or not; or\n(v) do any other thing for the purposes of that other Act,\nthen the power may, notwithstanding that the first-mentioned provision has not\ncommenced, but subject to subsections (3) and (4), be exercised at any time\nafter the passing of the Act in which the first-mentioned provision is\ncontained to the extent that it is necessary or expedient for the purpose of\ngiving full effect to that other Act, or provisions of that other Act, when or\nafter the first-mentioned provision commences.\n(3) Where a power to make an instrument of a legislative or administrative\ncharacter, or to give or serve a notice or other document, is exercised as\nprovided in subsection (1) or (2), that instrument, notice, or document shall\ntake effect --\n(a) on the day on which the provision referred to in subsection (1) or, as the\ncase may be, the provision first-mentioned in subsection (2) commences; or\n(b) on the day on which it would have taken effect, if at the time when the\ninstrument was made or the notice or document was given or served, the\nprovision so mentioned or first-mentioned had commenced,\nwhichever is the later.\n(4) Where a power to appoint a person to a specified office, or to establish a\nspecified body of persons, is exercised as provided in subsection (1) or (2),\nthe person so appointed may act in that office, or, as the case may be, the\nbody so established may meet and perform and exercise its functions, duties,\nand powers, but only for a purpose referred to in subsection (1) or (2)\n(whichever of those subsections is applicable); and for the purposes of any\nprovision as to the duration of the term of office of the person or a member of\nthe body, that term does not begin until the relevant provision referred to in\nsubsection (1) or (2), as the case may be, commences.\n(5) Subject to section 3(3), this section applies to Acts passed after the\ncommencement of this Act^ 1."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Citation of written laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Citation of written laws",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 26",
+      "text": "(1) Where a written law is referred to, it shall be sufficient for all purposes\nto cite or refer to that written law by --\n(a) the short title or the citation (if any) given to it or by which it was\nmade citable; or\n(b) in the case of an Act, the year in which it was passed and its number among\nthe Acts of that year.\n(2) A provision of a written law may be cited by reference to the Part,\nsection, regulation, rule, clause or other division of the written law in which\nthe provision is contained.\n(3) The citation of or reference to a written law is in all cases to be made in\naccordance with an official version of the law under the Legislation Act 2021."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - References to commencement of written law if different provisions commence",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "References to commencement of written law if different provisions commence",
+      "defined_term": null,
+      "structure_path": "Part III -- Commencement and citation > Section 27",
+      "text": "on different days\nA reference in a written law to the day of coming into operation or to the\ncommencement of a written law shall, where different provisions of the written\nlaw come or came into operation on different days, be construed as a reference\nto the day of coming into operation of the appropriate provisions of that\nwritten law.\n       Part IV -- Provisions as to enactment and operation of written law"
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Acts deemed public Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Acts deemed public Acts",
+      "defined_term": null,
+      "structure_path": "Part IV -- Provisions as to enactment and operation of written law > Section 28",
+      "text": "Every Act passed after 13 April 1853 shall be deemed to be a public Act unless\nthe contrary is expressly provided in the Act and shall be judicially noticed\nas such."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Sections to be substantive enactments",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Sections to be substantive enactments",
+      "defined_term": null,
+      "structure_path": "Part IV -- Provisions as to enactment and operation of written law > Section 29",
+      "text": "Every section of an Act takes effect as a substantive enactment without\nintroductory words."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Act may be amended in same session",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Act may be amended in same session",
+      "defined_term": null,
+      "structure_path": "Part IV -- Provisions as to enactment and operation of written law > Section 30",
+      "text": "An Act may be amended or repealed in the same session of Parliament as that in\nwhich it was passed."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Preambles, schedules etc. to form part of written law",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Preambles, schedules etc. to form part of written law",
+      "defined_term": null,
+      "structure_path": "Part IV -- Provisions as to enactment and operation of written law > Section 31",
+      "text": "(1) The preamble to a written law forms part of the written law and shall be\nconstrued as a part thereof intended to assist in explaining its purport and\nobject.\n(2) An appendix or schedule to or a table in a written law, together with any\nnotes thereto, forms part of the written law."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Headings, marginal notes and footnotes",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Headings, marginal notes and footnotes",
+      "defined_term": null,
+      "structure_path": "Part IV -- Provisions as to enactment and operation of written law > Section 32",
+      "text": "(1) The headings of the Parts, divisions and subdivisions into which a written\nlaw is divided form part of the written law.\n(2) A marginal note or footnote to a written law and, in a context where there\nis no marginal note with respect to the relevant provision and notwithstanding\nsubsection (1), a heading to a section, regulation, rule, local law, by-law, or\nclause of a written law, or to a portion of a section, regulation, rule, local\nlaw, by-law or clause of a written law, shall be taken not to be part of the\nwritten law.\n                        Part V -- Repeal of written law"
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Repeal of written law includes repeal of amendments",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Repeal of written law includes repeal of amendments",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 33",
+      "text": "Where a written law which has been amended by any other written law is\nrepealed, such repeal shall include the repeal of all those provisions of such\nother written law by which the first-mentioned written law was amended."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Repeal of repealing enactment, effect of",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Repeal of repealing enactment, effect of",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 34",
+      "text": "Where a written law repeals a repealing enactment, the repeal does not revive\nany enactment previously repealed unless words are added reviving it."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Repeal and substitution of provision, effect of",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Repeal and substitution of provision, effect of",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 35",
+      "text": "Where a written law repeals an enactment and substitutes provisions for the\nenactment repealed, the repealed enactment remains in operation until the\nsubstituted provisions come into operation."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Repealing and re-enacting a provision, effect of",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Repealing and re-enacting a provision, effect of",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 36",
+      "text": "Where a written law repeals and re-enacts, with or without modification, any\nenactment --\n(a) all districts or other local divisions or areas; and\n(b) all councils, corporations, boards, tribunals, commissions, trusts, or\nother bodies constituted, and all elections and appointments of members thereof\nmade; and\n(c) all offices constituted and appointments of officers made; and\n(d) all subsidiary legislation, warrants, certificates, and documents made; and\n(e) all other acts, matters, and things whatsoever,\nwhich, at the commencement of the repealing law, are respectively in existence,\nor in force or operation, under or for the purposes of such provision, shall,\nin so far as is consistent with the repealing law, subsist and enure for the\npurposes of such law and shall continue as if the repealing law had been in\noperation when they respectively originated or were constituted, made or done\nand they had originated or been constituted, made or done under that law."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - General savings on repeal",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "General savings on repeal",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 37",
+      "text": "(1) Where a written law repeals an enactment, the repeal does not, unless the\ncontrary intention appears --\n(a) revive anything not in force or existing at the time at which the repeal\ntakes effect;\n(b) affect the previous operation of the enactment repealed or anything duly\ndone or suffered under that enactment;\n(c) affect any right, interest, title, power or privilege created, acquired,\naccrued, established or exercisable or any status or capacity existing prior to\nthe repeal;\n(d) affect any duty, obligation, liability, or burden of proof imposed,\ncreated, or incurred prior to the repeal;\n(e) subject to section 11 of The Criminal Code and section 10 of the Sentencing\nAct 1995, affect any penalty or forfeiture incurred or liable to be incurred in\nrespect of an offence committed against that enactment;\n(f) affect any investigation, legal proceeding or remedy in respect of any such\nright, interest, title, power, privilege, status, capacity, duty, obligation,\nliability, burden of proof, penalty or forfeiture,\nand any such investigation, legal proceeding or remedy may be instituted,\ncontinued, or enforced, and any such penalty or forfeiture may be imposed and\nenforced as if the repealing written law had not been passed or made.\n(2) The inclusion in the repealing provisions of an enactment of any express\nsaving with respect to the repeals effected thereby shall not be taken to\nprejudice the operation of this section with respect to the effect of those\nrepeals."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Repeal of Act, effect of on subsidiary legislation",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Repeal of Act, effect of on subsidiary legislation",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 38",
+      "text": "(1) Where an Act --\n(a) repeals an Act and substitutes other provisions therefor; or\n(b) repeals and re-enacts an Act, with or without modification,\nany subsidiary legislation made under the repealed Act and in operation\nimmediately before the commencement of the repealing Act shall, so far as it is\nconsistent with the repealing Act, continue in operation and have effect for\nall purposes as if made under the repealing Act.\n(2) Subsidiary legislation which continues in operation under subsection (1)\nmay be amended or repealed as if it had been made under the repealing Act."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Expiry of enactment, effect of",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Expiry of enactment, effect of",
+      "defined_term": null,
+      "structure_path": "Part V -- Repeal of written law > Section 39",
+      "text": "Upon the expiry or lapse of any enactment, the provisions of section 37 apply\nas if that enactment had been repealed.\n                       Part VI -- Subsidiary legislation"
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Governor to make subsidiary legislation",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Governor to make subsidiary legislation",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 40",
+      "text": "If a written law provides that subsidiary legislation may or shall be made and\ndoes not provide by whom such subsidiary legislation may or shall be made, any\nsubsidiary legislation made under such a provision shall be made by the\nGovernor."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Publication and commencement of subsidiary legislation",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Publication and commencement of subsidiary legislation",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 41",
+      "text": "(1) Where a written law confers power to make subsidiary legislation, all\nsubsidiary legislation made under that power shall --\n(a) be published in the Gazette or on the WA legislation website; and\n(b) subject to section 42, come into operation on the day of publication, or\nwhere another day is specified or provided for in the subsidiary legislation,\non that day.\n(2) A power to fix a day on which subsidiary legislation shall come into\noperation does not include power to fix different days for different provisions\nof that legislation unless express provision is made in that behalf."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Laying regulations, rules, local laws and by-laws before Parliament, and",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Laying regulations, rules, local laws and by-laws before Parliament, and",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 42",
+      "text": "disallowance\n(1) All regulations shall be laid before each House of Parliament within 6\nsitting days of such House next following publication of the regulations in the\nGazette or on the WA legislation website.\n(2) Notwithstanding any provision in any Act to the contrary, if either House\nof Parliament passes a resolution disallowing any regulations of which\nresolution notice has been given within 14 sitting days of such House after\nsuch regulations have been laid before it or if any regulations are not laid\nbefore both Houses of Parliament in accordance with subsection (1), such\nregulations shall thereupon cease to have effect, but without affecting the\nvalidity or curing the invalidity of anything done or of the omission of\nanything in the meantime.\n(3) Subsection (2) applies notwithstanding that the period of 14 days referred\nto in that subsection, or part of that period, does not occur in the same\nsession of Parliament or during the same Parliament as that in which the\nregulations are laid before the House concerned.\n(4) Notwithstanding any provision in any Act to the contrary, if both Houses of\nParliament at any time pass a resolution originating in either House amending\nany such regulations or substituting other regulations for that which has been\ndisallowed by either House under subsection (2), then on the passing of any\nsuch resolution --\n(a) amending regulations, the regulations so amended shall, after the\nexpiration of 7 days from the publication in the Gazette or on the WA\nlegislation website of the notice provided for in subsection (5), take effect\nas so amended;\n(b) substituting regulations in place of regulations disallowed, the\nregulations so substituted shall, after the expiration of 7 days from the\npublication in the Gazette or on the WA legislation website of the notice\nprovided for in subsection (5), take effect in place of that for which the\nregulations are so substituted.\n(5) When a resolution has been passed under subsection (2) or (4), notice of\nsuch resolution shall be published in the Gazette or on the WA legislation\nwebsite within 21 days of the passing of the resolution.\n(6) Notwithstanding section 37(1), where --\n(a) regulations are disallowed under this section or are not laid before both\nHouses of Parliament in accordance with subsection (1); and\n(b) those regulations amended or repealed regulations that were in operation\nimmediately before the first-mentioned regulations came into operation,\nthe disallowance or failure to comply with subsection (1) revives the previous\nregulations on and after the day of the disallowance or, in the case of failure\nto comply with subsection (1), on and after the day next following the last day\nfor compliance with subsection (1).\n(7) If a written law empowers or directs the making of regulations by a person\nother than the Governor and requires that the regulations be confirmed or\napproved by the Governor or by any other person or authority before having the\nforce of law, subsection (1) does not apply to such regulations unless they\nhave been confirmed or approved as so required.\n(8) In this section --\n(a) a reference to regulations shall be construed as including a reference to a\nregulation or part of a regulation; and\n(b) regulations includes rules, local laws and by-laws."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Power to make subsidiary legislation, general provisions about",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Power to make subsidiary legislation, general provisions about",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 43",
+      "text": "(1) Subsidiary legislation shall not be inconsistent with the provisions of the\nwritten law under which it is made, or of any Act, and subsidiary legislation\nshall be void to the extent of any such inconsistency.\n(2) Where any subsidiary legislation purports to be made in exercise of a\nparticular power or powers, it shall be deemed also to be made in exercise of\nall powers under which it may be made.\n(3) It shall be presumed, in the absence of evidence to the contrary, that all\nconditions and preliminary steps precedent to the making of subsidiary\nlegislation have been complied with and performed.\n(4) Where a written law confers a power to make subsidiary legislation, it\nshall be deemed also to include a power exercisable in the like manner and\nsubject to the like conditions (if any) to amend or repeal any such subsidiary\nlegislation.\n(5) Where a written law confers power on a person to make subsidiary\nlegislation for any general purpose and also for any special purposes\nincidental thereto, the enumeration of the special purposes shall not derogate\nfrom the generality of the powers conferred with reference to the general\npurpose.\n(6) Subject to section 3(3), regulations, rules, local laws or by-laws made\nunder a power conferred by an enactment passed after the commencement of this\nAct may provide that contravention of a provision thereof constitutes an\noffence and may provide for a penalty in respect of such a contravention not\nexceeding a fine of $1 000.\n(7) A power to make subsidiary legislation may be exercised --\n(a) either in relation to all cases to which the power extends, or in relation\nto all those cases subject to specified exceptions, or in relation to any\nspecified case or class of case; and\n(b) so as to make, as respects the cases in relation to which it is\nexercised --\n(i) the same provision for all cases in relation to which the power is\nexercised, or different provision for different cases or classes of case, or\ndifferent provisions for the same case or class of case for different purposes\nof the legislation; or\n(ii) any such provision either unconditionally or subject to any specified\ncondition.\n(8) Subsidiary legislation may be made --\n(a) so as to apply --\n(i) at all times or at a specified time;\n(ii) throughout the State or in a specified part of the State;\nand\n(b) so as to require a matter affected by the legislation to be --\n(i) in accordance with a specified standard or specified requirement;\n(ii) approved by or to the satisfaction of a specified person or body or a\nspecified class of person or body;\nand\n(c) so as to confer a discretionary authority on a specified person or body or\na specified class of person or body; and\n(d) so as to provide, in a specified case or class of case for the exemption of\npersons or things or a class of persons or things from the provisions of the\nsubsidiary legislation, whether unconditionally or on specified conditions or\nconditions additionally imposed and either wholly or to such an extent as is\nspecified or otherwise determined.\n(9) In subsections (7) and (8) specified means specified in the subsidiary\nlegislation."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Words and expressions in subsidiary legislation, meaning of",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Words and expressions in subsidiary legislation, meaning of",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 44",
+      "text": "(1) Words and expressions used in subsidiary legislation shall have the same\nrespective meanings as in the written law under which the subsidiary\nlegislation is made.\n(2) A reference in subsidiary legislation to the Act shall be construed as a\nreference to the Act under which the subsidiary legislation is made."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Fees and charges",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Fees and charges",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 45",
+      "text": "(1) Where provision is made by subsidiary legislation in respect of fees or\ncharges, the subsidiary legislation may provide for all or any of the following\nmatters --\n(a) specific fees or charges; and\n(b) maximum or minimum fees or charges; and\n(c) maximum and minimum fees or charges; and\n(d) ad valorem fees or charges; and\n(e) the payment of fees and charges either generally or under specified\nconditions or in specified circumstances; and\n(f) the reduction, waiver or refund, in whole or in part, of such fees or\ncharges.\n(2) Where any reduction, waiver or refund, in whole or in part, of any fee or\ncharge is provided for by subsidiary legislation, such reduction, waiver or\nrefund may be expressed to apply or be applicable either generally or\nspecifically --\n(a) in respect of certain matters or transactions or classes of matter or\ntransaction; or\n(b) in respect of certain documents or classes of document; or\n(c) when any event happens or ceases to happen; or\n(d) in respect of certain persons or classes of person; or\n(e) in respect of any combination of such matters, transactions, documents,\nevents, or persons,\nand may be expressed to apply or to be applicable subject to such conditions as\nmay be specified in the subsidiary legislation or in the discretion of any\nperson specified in the subsidiary legislation."
+    },
+    {
+      "key": "section:45A",
+      "title": "Section 45A - Fees for licences, effect of power to prescribe",
+      "main_structural_unit": "section",
+      "main_structural_number": "45A",
+      "main_structural_heading": "Fees for licences, effect of power to prescribe",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 45A",
+      "text": "(1) A power conferred by a written law to prescribe or impose a fee for a\nlicence includes power to prescribe or impose a fee that will allow recovery of\nexpenditure that is relevant to the scheme or system under which the licence is\nissued.\n(2) Expenditure is not relevant for the purposes of subsection (1) unless it\nhas been or is to be incurred --\n(a) in the establishment or administration of the scheme or system under which\nthe licence is issued; or\n(b) in respect of matters to which the licence relates.\n(3) The reference in subsection (1) to a fee for a licence includes reference\nto a fee for, or in relation to, the issue of a licence and a fee payable on an\napplication for the issue of a licence.\n(4) In this section --\nfee includes charge;\nissue includes grant, give or renew;\nlicence includes registration, right, permit, authority, approval or exemption."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Reference to written law includes reference to subsidiary legislation made",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Reference to written law includes reference to subsidiary legislation made",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 46",
+      "text": "under it\n(1) A reference in a written law to a written law shall be construed so as to\ninclude a reference to any subsidiary legislation made under that written law.\n(1a) An example of the operation of subsection (1) is that a reference in an\nAct to \"this Act\" includes a reference to any subsidiary legislation made under\nthe Act.\n(2) A reference in a written law to an Imperial Act or a Commonwealth Act shall\nbe construed so as to include a reference to any subsidiary legislation made\nunder that Act."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Acts done under subsidiary legislation deemed done under Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Acts done under subsidiary legislation deemed done under Act",
+      "defined_term": null,
+      "structure_path": "Part VI -- Subsidiary legislation > Section 47",
+      "text": "Any act done under subsidiary legislation shall be deemed to be done under the\nwritten law under which the subsidiary legislation was made.\n                    Part VII -- Statutory powers and duties"
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Time for exercise of power or performance of duty",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Time for exercise of power or performance of duty",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 48",
+      "text": "Where a written law confers a power or imposes a duty, the power may be\nexercised and the duty shall be performed from time to time as occasion\nrequires."
+    },
+    {
+      "key": "section:48A",
+      "title": "Section 48A - Judicial acts and service of process may be done on any day",
+      "main_structural_unit": "section",
+      "main_structural_number": "48A",
+      "main_structural_heading": "Judicial acts and service of process may be done on any day",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 48A",
+      "text": "Where a written or other law confers on a person power to --\n(a) act judicially (including taking a verdict); or\n(b) serve any document or court process or execute any warrant,\nthat power may be exercised on any day of the year."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Public officer's powers and duties may be exercised by acting officer etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Public officer's powers and duties may be exercised by acting officer etc.",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 49",
+      "text": "Where a written law confers a power or imposes a duty on the holder of a public\noffice as such, the power may be exercised and the duty shall be performed by\nthe person for the time being lawfully holding, acting in, or performing the\nfunctions of the office."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Statutory powers, construction of",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Statutory powers, construction of",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 50",
+      "text": "(1) Where a written law confers upon a person power to do or enforce the doing\nof any act or thing, all such powers shall also be deemed to be conferred on\nthe person as are reasonably necessary to enable him to do or to enforce the\ndoing of the act or thing.\n(2) Without prejudice to the generality of subsection (1), where a written law\nconfers power --\n(a) to provide for, prohibit, control or regulate any matter, such power\nincludes power to provide for the same by the licensing or registration thereof\nor the granting of permits and power to prohibit acts whereby the prohibition,\ncontrol, or regulation of such matter might be evaded;\n(b) to grant a licence, registration, lease, right, permit, authority,\napproval, or exemption, such power includes power to impose reasonable\nconditions subject to which such licence, registration, lease, right, permit,\nauthority, approval or exemption may be granted;\n(c) to approve any person, matter, or thing, such power includes power to\nwithdraw approval thereof;\n(d) to give directions, such power includes power to express the same in the\nform of prohibitions.\n(3) Subject to section 3(3), this section applies to written laws passed or\nmade after the commencement of this Act."
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Power to issue licences and other authorisations is discretionary",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Power to issue licences and other authorisations is discretionary",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 51",
+      "text": "(1) Where a written law confers power upon a person to issue, grant, give or\nrenew any licence, registration, lease, right, authority, approval, permit, or\nexemption, the person so empowered shall have a discretion either to issue,\ngrant, give or renew or to refuse to issue, grant, give or renew such licence,\nregistration, lease, right, authority, approval, permit, or exemption.\n(2) Nothing in this section shall affect any right which may be conferred by\nany written law upon a person to appeal against, or apply for or otherwise seek\na review of, a refusal to issue, grant, give or renew any licence,\nregistration, lease, right, authority, approval, permit, or exemption."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Power to appoint includes power to remove, suspend, appoint acting officer",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Power to appoint includes power to remove, suspend, appoint acting officer",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 52",
+      "text": "etc.\n(1) Where a written law confers a power or imposes a duty upon a person to make\nan appointment to an office or position, including an acting appointment, the\nperson having such power or duty shall also have the power --\n(a) to remove or suspend a person so appointed to an office or position, and to\nreappoint or reinstate, any person appointed in exercise of such power or duty;\nand\n(b) where a person so appointed to an office or position is suspended or\nunable, or expected to become unable, for any other cause to perform the\nfunctions of such office or position, to appoint a person to act temporarily in\nplace of the person so appointed during the period of suspension or other\ninability but a person shall not be appointed to so act temporarily unless he\nis eligible and qualified to be appointed to the office or position; and\n(c) to specify the period for which any person appointed in exercise of such a\npower or duty shall hold his appointment.\n(2) For the purposes of subsection (1)(b), cause includes --\n(a) illness; and\n(b) temporary absence from the State; and\n(c) conflict of interest.\n(3) The validity of anything done by a person purporting to act under an\nappointment made under subsection (1)(b) shall not be called in question on the\nground that the occasion for his appointment had not arisen or had ceased.\n(4) Where a written law confers a power or imposes a duty upon a person to make\nan appointment to an office or position and that power or duty is exercisable\nonly upon the nomination or recommendation, or is subject to the approval,\nconcurrence, or consent of some other person, then the powers conferred by\nsubsection (1)(a) to (c) shall only be exercisable upon such nomination or\nrecommendation or subject to such approval, concurrence, or consent.\n(5) Nothing in this section affects the tenure of office or position of any\nperson under the express provisions of any written law."
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Appointments may be by name or office",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Appointments may be by name or office",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 53",
+      "text": "Where a written law confers a power or imposes a duty upon a person to appoint\nor designate a person to --\n(a) perform any function; or\n(b) be a member of any board, tribunal, commission, committee, council, or\nother similar body, whether corporate or unincorporate; or\n(c) be or do any other thing,\nthat person may make the appointment or designation either by appointing or\ndesignating a person by name or by appointing or designating the holder of an\noffice by the term designating his office; and any such appointment or\ndesignation of the holder of an office shall be construed as the appointment or\ndesignation of the person from time to time holding, acting in, or lawfully\nperforming the functions of the office."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Statutory bodies, majority and quorum provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Statutory bodies, majority and quorum provisions",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 54",
+      "text": "(1) Where a written law confers or imposes a function upon a body or number of\npersons consisting of not fewer than 3 persons, the function may be performed\nby a majority of those persons.\n(2) Where a written law establishes a board, commission, committee, council or\nother similar body consisting of 3 or more members (in this section called an\nassociation) --\n(a) at a meeting of the association, a number of members of the association\nequal to --\n(i) at least one half of the number of members provided for by the written law,\nif that number is a fixed number; and\n(ii) if the number of members provided for by the written law is not a fixed\nnumber but is within a range having a maximum or minimum, at least one half of\nthe number of members in office if that number is within the range,\nconstitutes a quorum; and\n(b) an act or thing done by a majority of the members of the association\npresent at a meeting, if the members present constitute a quorum, shall be\ndeemed to have been done by the association."
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Errors when exercising certain powers or duties may be corrected",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Errors when exercising certain powers or duties may be corrected",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 55",
+      "text": "Where a written law confers a power or imposes a duty upon a person to do any\nact or thing of an administrative or executive character or to make any\nappointment, the power or duty may be exercised or performed as often as is\nnecessary to correct any error or omission in any previous purported exercise\nor performance of the power or duty, notwithstanding that the power or duty is\nnot in general capable of being exercised or performed from time to time."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - \"May\" imports a discretion, \"shall\" is imperative",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "\"May\" imports a discretion, \"shall\" is imperative",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 56",
+      "text": "(1) Where in a written law the word may is used in conferring a power, such\nword shall be interpreted to imply that the power so conferred may be exercised\nor not, at discretion.\n(2) Where in a written law the word shall is used in conferring a function,\nsuch word shall be interpreted to mean that the function so conferred must be\nperformed."
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Statutory bodies, powers of not affected by vacancies etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Statutory bodies, powers of not affected by vacancies etc.",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 57",
+      "text": "Where a board, tribunal, commission, committee, council or other similar body,\nwhether corporate or unincorporate, is established under a written law, the\npowers of such a body shall not be affected by --\n(a) any vacancy in the membership of the body; or\n(b) any defect afterwards discovered in the appointment or qualification of a\nperson purporting to be a member of the body or the deputy or alternate of a\nmember; or\n(c) a minor irregularity in the convening or conduct of a meeting of the body;\nor\n(d) the presence or participation at a meeting of a person not entitled to be\npresent or participate."
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Delegates, performance of functions by",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Delegates, performance of functions by",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 58",
+      "text": "Where under a written law the performance of a function by a person is\ndependent upon the opinion, belief, or state of mind of that person in relation\nto a matter and that function has been delegated under a written law, the\nfunction may be performed by the delegate upon the opinion, belief, or state of\nmind of the delegate in relation to that matter."
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Power to delegate, effect of",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Power to delegate, effect of",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 59",
+      "text": "(1) Where a written law confers power upon a person to delegate the exercise of\nany power or the performance of any duty conferred or imposed upon him under a\nwritten law --\n(a) such a delegation shall not preclude a person so delegating from exercising\nor performing at any time a power or duty so delegated;\n(b) such a delegation may be made subject to such conditions, qualifications,\nlimitations or exceptions as the person so delegating may specify;\n(c) if the delegation may be made only with the approval of some person, such\ndelegation, and any amendment of the delegation, may be made subject to such\nconditions, qualifications, limitations or exceptions as the person whose\napproval is required may specify;\n(d) such a delegation may be made to a specified person or to persons of a\nspecified class, or may be made to the holder or holders for the time being of\na specified office or class of office;\n(e) such a delegation may be amended or revoked by instrument in writing signed\nby the person so delegating;\n(f) in the case of a power conferred upon a person by reference to the term\ndesignating an office, such a delegation shall not cease to have effect by\nreason only of a change in the person lawfully acting in or performing the\nfunctions of that office.\n(2) The delegation of a power shall be deemed to include the delegation of any\nduty incidental thereto or connected therewith and the delegation of a duty\nshall be deemed to include the delegation of any power incidental thereto or\nconnected therewith.\n(3) Where under a written law an act or thing may or is required to be done to,\nby reference to or in relation to, a person and that person has under a written\nlaw delegated a relevant function conferred or imposed on him with respect to\nor in consequence of the doing of that act or thing, the act or thing shall be\nregarded as effectually done if done to, by reference to or in relation to the\nperson to whom the function has been delegated."
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Governor to act with advice of Executive Council",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Governor to act with advice of Executive Council",
+      "defined_term": null,
+      "structure_path": "Part VII -- Statutory powers and duties > Section 60",
+      "text": "Where in a written law the Governor is authorised or required to do any act,\nmatter, or thing, it shall be taken to mean that such act, matter, or thing may\nor shall be done by the Governor with the advice and consent of the Executive\nCouncil.\n              Part VIII -- Provisions regarding time and distance"
+    },
+    {
+      "key": "section:61",
+      "title": "Section 61 - Time, computation of",
+      "main_structural_unit": "section",
+      "main_structural_number": "61",
+      "main_structural_heading": "Time, computation of",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Provisions regarding time and distance > Section 61",
+      "text": "(1) In computing time for the purposes of a written law --\n(a) where a period of time is expressed to begin at, on, or with a specified\nday, that day shall be included in the period;\n(b) where a period of time is expressed to be reckoned from, or after, a\nspecified day, that day shall not be included in the period;\n(c) where anything is to be done within a time before a specified day, the time\nshall not include that day;\n(d) where a period of time is expressed to end at, on, or with a specified day\nor to continue to or until a specified day, that day shall be included in the\nperiod;\n(e) where the time limited for the doing of a thing expires or falls upon an\nexcluded day, the thing may be done on the next day that is not an excluded\nday;\n(f) where there is a reference to a number of clear days or \"at least\" or \"not\nless than\" a number of days between 2 events, in calculating that number of\ndays both the days on which the events happen shall be excluded;\n(g) where there is a reference to a number of days not expressed to be clear\ndays or \"at least\" or \"not less than\" a number of days between 2 events, in\ncalculating the number of days there shall be excluded the day on which the\nfirst event happens and there shall be included the day on which the second\nevent happens;\n(h) where an act or proceeding is directed or allowed to be done or taken on a\ncertain day, or on or before a certain day, then, if that day is an excluded\nday, the act or proceeding shall be considered as done or taken in due time if\nit is done or taken on the next day that is not an excluded day.\n(2) For the purposes of this section, excluded day means Saturday, Sunday,\npublic service holiday, and a bank holiday or public holiday throughout the\nState or in that part of the State which is relevant to the event, act, thing\nor proceeding concerned."
+    },
+    {
+      "key": "section:62",
+      "title": "Section 62 - Months, reckoning of",
+      "main_structural_unit": "section",
+      "main_structural_number": "62",
+      "main_structural_heading": "Months, reckoning of",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Provisions regarding time and distance > Section 62",
+      "text": "(1) In a written law, month means a calendar month, that is to say, a month\nreckoned according to the calendar.\n(2) If a period of one month indicated in a written law begins on any date\nother than the first day of any of the 12 months of the calendar, it shall be\nreckoned from the date on which it is to begin to the date in the next month\nnumerically corresponding, less one, or, if there is no corresponding date, to\nthe last day of that month.\nFor example: a month beginning on 15 January ends on 14 February and a month\nbeginning on 30 or 31 January ends on 28 February (or 29 February in a leap\nyear).\n(3) If a period indicated in a written law is of 2, 3 or more months, it shall\nbe reckoned from the date on which it is to begin to the date numerically\ncorresponding, less one, in the second, third, or other successive month\nthereafter or, if there is no such corresponding date, to the last day of the\nlatter month.\nFor example: a period of 6 months beginning on 15 August ends on 14 February\nand a period of 6 months beginning on 30 or 31 August ends on 28 February (or\nSection 29 February in a leap year)."
+    },
+    {
+      "key": "section:63",
+      "title": "Section 63 - Time for doing acts if no time fixed",
+      "main_structural_unit": "section",
+      "main_structural_number": "63",
+      "main_structural_heading": "Time for doing acts if no time fixed",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Provisions regarding time and distance > Section 63",
+      "text": "Where no time is fixed or allowed within which an act or thing shall be done,\nsuch act or thing shall be done with all convenient speed and as often as\noccasion arises."
+    },
+    {
+      "key": "section:64",
+      "title": "Section 64 - Power to extend time, construction of",
+      "main_structural_unit": "section",
+      "main_structural_number": "64",
+      "main_structural_heading": "Power to extend time, construction of",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Provisions regarding time and distance > Section 64",
+      "text": "(1) Where in a written law a time is fixed or allowed for doing any act or\nthing or taking any proceeding and power is given to a court or other authority\nto extend that time, such power may be exercised by the court or other\nauthority although the application for an extension is not made until after the\nexpiration of the time fixed or allowed.\n(2) Subject to section 3(3), this section applies to written laws passed or\nmade after the commencement of this Act."
+    },
+    {
+      "key": "section:65",
+      "title": "Section 65 - Distance, measurement of",
+      "main_structural_unit": "section",
+      "main_structural_number": "65",
+      "main_structural_heading": "Distance, measurement of",
+      "defined_term": null,
+      "structure_path": "Part VIII -- Provisions regarding time and distance > Section 65",
+      "text": "In the measurement of any distance for the purposes of a written law, the\ndistance shall be measured in a straight line on a horizontal plane.\n                      Part IX -- Procedures and penalties"
+    },
+    {
+      "key": "section:66",
+      "title": "Section 66 - Rules of court",
+      "main_structural_unit": "section",
+      "main_structural_number": "66",
+      "main_structural_heading": "Rules of court",
+      "defined_term": null,
+      "structure_path": "Part IX -- Procedures and penalties > Section 66",
+      "text": "(1) In a written law, rules of court, in relation to any court or tribunal,\nmeans rules made by the authority having for the time being power to make rules\nor orders regulating the practice and procedure of such court or tribunal.\n(2) The power of an authority referred to in subsection (1) includes a power to\nmake rules of court for the purpose of any written law which directs or\nauthorises anything to be done by or in accordance with rules of court.\n(3) Where a written law confers any jurisdiction on a court or other tribunal\nor extends or varies the jurisdiction of a court or other tribunal, the\nauthority having for the time being power to make rules or orders regulating\nthe practice and procedure of that court or tribunal may make rules or orders,\nincluding rules or orders with respect to costs, for the purpose of regulating\nthe practice and procedure of that court or tribunal in the exercise of the\njurisdiction so conferred, extended or varied."
+    },
+    {
+      "key": "section:67",
+      "title": "Section 67 - Offences and proceedings for offences",
+      "main_structural_unit": "section",
+      "main_structural_number": "67",
+      "main_structural_heading": "Offences and proceedings for offences",
+      "defined_term": null,
+      "structure_path": "Part IX -- Procedures and penalties > Section 67",
+      "text": "(1) Offences are of 2 kinds: indictable offences and simple offences.\n(1a) An offence designated as a crime or as a misdemeanour is an indictable\noffence.\n(2) An offence not otherwise designated is a simple offence.\n(3) The procedure for prosecuting and dealing with offences is set out in the\nCriminal Procedure Act 2004.\n(5) This section does not limit the operation of Part 3 of the Children's Court\nof Western Australia Act 1988.\n[Section 67 inserted: No. 92 of 1994 s. 15; amended: No. 4 of 2004 s. 58;\nNo. 59 of 2004 s. 141; No. 84 of 2004 s. 78.]"
+    },
+    {
+      "key": "section:69",
+      "title": "Section 69 - Bodies corporate, application of penal laws to",
+      "main_structural_unit": "section",
+      "main_structural_number": "69",
+      "main_structural_heading": "Bodies corporate, application of penal laws to",
+      "defined_term": null,
+      "structure_path": "Part IX -- Procedures and penalties > Section 69",
+      "text": "(1) Every enactment relating to an offence punishable on indictment or on\nsummary conviction shall be taken to refer to bodies corporate as well as to\nindividuals.\n(2) Where under a written law, a penalty or sum of money is payable to a party\naggrieved, it shall be payable to a body corporate in every case where that\nbody is the party aggrieved."
+    },
+    {
+      "key": "section:71",
+      "title": "Section 71 - Continuing offences",
+      "main_structural_unit": "section",
+      "main_structural_number": "71",
+      "main_structural_heading": "Continuing offences",
+      "defined_term": null,
+      "structure_path": "Part IX -- Procedures and penalties > Section 71",
+      "text": "(1) Where --\n(a) by or under a written law an act or thing is required or directed to be\ndone within a particular period or before a particular time; and\n(b) failure to do that act or thing within the period or before the time\nreferred to in paragraph (a) constitutes an offence; and\n(c) that act or thing is not done within the period or before the time referred\nto in paragraph (a),\nthe following provisions have effect --\n(d) the obligation to do that act or thing continues, notwithstanding that that\nperiod has expired or that time has passed, until that act or thing is done;\nand\n(e) where a person is convicted of an offence that, by virtue of paragraph (d),\nis constituted by failure to do that act or thing after the expiration of that\nperiod or after that time, as the case may be, that person is guilty of a\nseparate and further offence in respect of each day after the day of the\nconviction during which the failure to do that act or thing continues; and\n(f) unless otherwise provided, the penalty applicable to each separate and\nfurther offence is $50.\n(2) Where --\n(a) by or under a written law an act or thing is required or directed to be\ndone but no period within which or time by which that act or thing is to be\ndone is specified; and\n(b) failure to do that act or thing constitutes an offence; and\n(c) a person is convicted of an offence in respect of a failure to do that act\nor thing,\nthat person is guilty of a separate and further offence in respect of each day\nafter the day of the conviction during which the failure to do that act or\nthing continues and, unless otherwise provided, the penalty applicable to each\nsuch separate and further offence is $50."
+    },
+    {
+      "key": "section:72",
+      "title": "Section 72 - Statutory penalties, construction of",
+      "main_structural_unit": "section",
+      "main_structural_number": "72",
+      "main_structural_heading": "Statutory penalties, construction of",
+      "defined_term": null,
+      "structure_path": "Part IX -- Procedures and penalties > Section 72",
+      "text": "(1) Where in an Act a penalty --\n(a) is specified without qualification at the foot of a section of the Act; or\n(b) is specified at the foot of a subsection of a section of the Act, but not\nat the foot of the section; or\n(c) is specified at the foot of a section of the Act and expressed to apply to\na specified subsection or specified subsections of the section,\nthen, unless the contrary is expressly provided, a contravention of the section\nor subsection, or, as the case may be, of any of the subsections, is an offence\nthe penalty on conviction for which is the penalty specified.\n(2) Where in an Act a penalty is specified as described in subsection (1) in\nrespect of a section or subsection that expressly creates an offence, the\npenalty for that offence on conviction is the penalty specified.\n(3) In this section a reference to a section or subsection of an Act includes a\nreference to a clause or subclause of a schedule to an Act.\n(4) This section applies, with any modifications that are necessary, to\nsubsidiary legislation by which offences may be created or penalties may be\nimposed.\n[Section 72 inserted: No. 78 of 1995 s. 55; amended: No. 10 of 1998 s. 40(2);\nNo. 24 of 2000 s. 19.]\n                       Part X -- Miscellaneous provisions"
+    },
+    {
+      "key": "section:73",
+      "title": "Section 73 - State deemed established 1 June 1829",
+      "main_structural_unit": "section",
+      "main_structural_number": "73",
+      "main_structural_heading": "State deemed established 1 June 1829",
+      "defined_term": null,
+      "structure_path": "Part X -- Miscellaneous provisions > Section 73",
+      "text": "For the purpose of determining the applicability or otherwise within the State\nof any Imperial Act, the State shall be deemed to have been established on\nSection 1 June 1829."
+    },
+    {
+      "key": "section:74",
+      "title": "Section 74 - Prescribed forms, certain deviations do not invalidate",
+      "main_structural_unit": "section",
+      "main_structural_number": "74",
+      "main_structural_heading": "Prescribed forms, certain deviations do not invalidate",
+      "defined_term": null,
+      "structure_path": "Part X -- Miscellaneous provisions > Section 74",
+      "text": "Where a form is prescribed or specified under a written law, deviations\ntherefrom not materially affecting the substance nor likely to mislead shall\nnot invalidate the form used."
+    },
+    {
+      "key": "section:75",
+      "title": "Section 75 - Service of documents by post",
+      "main_structural_unit": "section",
+      "main_structural_number": "75",
+      "main_structural_heading": "Service of documents by post",
+      "defined_term": null,
+      "structure_path": "Part X -- Miscellaneous provisions > Section 75",
+      "text": "(1) Where a written law authorises or requires a document to be served by post,\nwhether the word \"serve\" or any of the words \"give\", \"deliver\", or \"send\" or\nany other similar word or expression is used, service shall be deemed to be\neffected by properly addressing and posting (by pre-paid post) the document as\na letter to the last known address of the person to be served, and, unless the\ncontrary is proved, to have been effected at the time when the letter would\nhave been delivered in the ordinary course of post.\n(2) Where a written law authorises or requires a document to be served by\nregistered post, whether the word \"serve\" or any of the words \"give\",\n\"deliver\", or \"send\" or any other similar word or expression is used, then, if\nthe document is eligible and acceptable for transmission as certified mail, the\nservice of the document may be effected either by registered post or by\ncertified mail.\n(3) Subsections (1) and (2) apply unless the contrary intention appears and\nsubsection (2) does not apply where a written law requires the production of an\nacknowledgment signed by a person to whom a document was addressed to the\neffect that the document was delivered to that person."
+    },
+    {
+      "key": "section:76",
+      "title": "Section 76 - Service of documents generally",
+      "main_structural_unit": "section",
+      "main_structural_number": "76",
+      "main_structural_heading": "Service of documents generally",
+      "defined_term": null,
+      "structure_path": "Part X -- Miscellaneous provisions > Section 76",
+      "text": "Where a written law authorises or requires a document to be served, whether the\nword \"serve\" or any of the words \"give\", \"deliver\", or \"send\" or any other\nsimilar word or expression is used, without directing it to be served in a\nparticular manner, service of that document may be effected on the person to be\nserved --\n(a) by delivering the document to him personally; or\n(b) by post in accordance with section 75(1); or\n(c) by leaving it for him at his usual or last known place of abode, or if he\nis a principal of a business, at his usual or last known place of business; or\n(d) in the case of a corporation or of an association of persons (whether\nincorporated or not), by delivering or leaving the document or posting it as a\nletter, addressed in each case to the corporation or association, at its\nprincipal place of business or principal office in the State."
+    },
+    {
+      "key": "section:76A",
+      "title": "Section 76A - Written laws made before Australia Acts, validity of",
+      "main_structural_unit": "section",
+      "main_structural_number": "76A",
+      "main_structural_heading": "Written laws made before Australia Acts, validity of",
+      "defined_term": null,
+      "structure_path": "Part X -- Miscellaneous provisions > Section 76A",
+      "text": "(1) Each provision of an Act or subsidiary legislation enacted or made, or\npurporting to have been enacted or made, before the commencement of the\nAustralia Acts --\n(a) has the same effect as it would have had; and\n(b) is as valid as it would have been,\nif the Australia Acts had been in operation at the time of its enactment or\nmaking, or purported enactment or making.\n(2) Subsection (1) is not intended to, and is not to be given effect so as\nto --\n(a) invalidate any enactment that was valid immediately before the commencement\nof the Australia Acts; or\n(b) invalidate any Act because it was assented to by the Sovereign rather than\nthe Governor."
+    },
+    {
+      "key": "section:77",
+      "title": "Section 77 - Repeal and saving",
+      "main_structural_unit": "section",
+      "main_structural_number": "77",
+      "main_structural_heading": "Repeal and saving",
+      "defined_term": null,
+      "structure_path": "Part X -- Miscellaneous provisions > Section 77",
+      "text": "(1) The Interpretation Act 1918 is repealed.\n(2) Notwithstanding subsection (1), section 11 of the Interpretation Act 1918\nshall continue to apply to Acts passed before the commencement of this Act^ 1.\n(3) The enactment of a provision of this Act that is expressed to apply to Acts\nor subsidiary legislation passed or made after the commencement of this Act\nshall not be presumed to have amended the law so as to affect the construction\nof any Act or subsidiary legislation passed or made before such enactment.\n(4) Notwithstanding subsection (1), section 47(2) of the Interpretation\nAct 1918 and the Second Schedule to that Act shall continue to apply to any Act\nto which that section applied immediately before the commencement of this Act^\n 4.\n                                     dline\nThis is a compilation of the Interpretation Act 1984 and includes amendments\nmade by other written laws. For provisions that have come into operation, and\nfor information about any reprints, see the compilation table. For provisions\nthat have not yet come into operation see the uncommenced provisions table."
+    }
+  ]
+}

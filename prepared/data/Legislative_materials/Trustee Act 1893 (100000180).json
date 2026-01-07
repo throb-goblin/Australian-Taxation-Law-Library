@@ -1,0 +1,833 @@
+{
+  "doc": {
+    "jurisdiction": "northern_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nt/consol_act/ta1893asciooadtbfbtg671/",
+    "register_url": "https://legislation.nt.gov.au/en/Legislation/TRUSTEE-ACT-1893",
+    "source": "Trustee Act 1893 (100000180).txt",
+    "filename": "Trustee Act 1893 (100000180).json",
+    "name": "Trustee Act 1893",
+    "citation": "Trustee Act 1893"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title and commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title and commencement",
+      "defined_term": null,
+      "structure_path": "Trustee Act 1893 > Section 1",
+      "text": "This Act may be cited as The Trustee Act 1893 and shall  come  into\n         operation on a day to be fixed by the Governor, by Proclamation  in\n         the Government Gazette."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Division",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Division",
+      "defined_term": null,
+      "structure_path": "Trustee Act 1893 > Section 2",
+      "text": "This Act is divided into parts, as follows:\n         PartÂ IÂ Â âÂ Â Investments\n         PartÂ IIÂ âÂ Â Various powers and duties of trustees\n         Part IIIÂ âÂ Â Â Powers of the Court\n         Part IVÂ âÂ Â Special provisions as to appointment of new trustees\n         PartÂ VÂ âÂ Miscellaneous and supplemental."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Repeal",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Repeal",
+      "defined_term": null,
+      "structure_path": "Trustee Act 1893 > Section 3",
+      "text": "The Acts mentioned in the First Schedule hereto are repealed to the\n         extent in such schedule mentioned.  Such repeal shall not affect:\n         I  Anything done under any enactment hereby repealed;\n         II Any right or privilege acquired, or  liability  incurred,  under\n         any enactment hereby repealed.\n         Any proceedings begun under the  repealed  enactments,  or  any  of\n         them, may be continued and concluded as though  this  Act  had  not\n         been passed.\nPart I      Investments"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Application of Part",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Application of Part",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 4",
+      "text": "This  Part  applies  to  trusts  created  before   or   after   the\n         commencement of the Trustee Amendment Act (No. 2) 1995."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Power of trustee to invest",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Power of trustee to invest",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 5",
+      "text": "A  trustee  may,  unless  expressly  forbidden  by  the  instrument\n         creating the trust:\n         (a)      invest trust funds in any form of investment; and\n         (b)      at any time, vary an investment or realise  an  investment\n             of  trust  funds  and  reinvest  money  resulting   from   the\n             realisation in any form of investment."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Duties of trustee in respect of power of investment",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Duties of trustee in respect of power of investment",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 6",
+      "text": "(1)   Subject to the instrument creating the trust, a  trustee  shall,\n         in exercising a power of investment:\n         (a)      if the trustee's profession, business or employment is  or\n             includes acting as a trustee or investing money on  behalf  of\n             other persons, exercise the care, diligence and skill  that  a\n             prudent  person  engaged  in  that  profession,  business   or\n             employment would exercise in managing  the  affairs  of  other\n             persons; or\n         (b)      if the trustee  is  not  engaged  in  such  a  profession,\n             business or employment, exercise the care, diligence and skill\n             that a prudent person of business would exercise  in  managing\n             the affairs of other persons.\n      (2)   A trustee shall, in exercising a  power  of  investment,  comply\n         with any provision of the instrument creating  the  trust  that  is\n         binding on the trustee and requires the obtaining of a  consent  or\n         approval or compliance with any direction  with  respect  to  trust\n         investments.\n      (3)   Subject to the instrument creating the trust, a  trustee  shall,\n         not  less  than  once  in  each  year,   review   the   performance\n         (individually and as a whole) of trust investments."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Law and equity preserved",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Law and equity preserved",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 7",
+      "text": "(1)   Any rules and principles of law or equity that impose a duty  on\n         a trustee exercising  a  power  of  investment  including,  without\n         limiting the generality of those duties, rules and principles  that\n         impose:\n         (a)      a duty to exercise the powers of a  trustee  in  the  best\n             interests of all  present  and  future  beneficiaries  of  the\n             trust;\n         (b)      a duty to invest trust funds in investments that  are  not\n             speculative or hazardous;\n         (c)      a  duty  to  act  impartially  towards  beneficiaries  and\n             between different classes of beneficiaries; or\n         (d)      a duty to take advice,\n         continue to apply except so far as they are inconsistent with  this\n         or any other Act or the instrument creating the trust.\n      (2)   Any rules and principles of law  or  equity  that  relate  to  a\n         provision in an  instrument  creating  a  trust  that  purports  to\n         exempt, limit the liability of, or indemnify a trustee  in  respect\n         of a breach of trust, continue to apply.\n      (3)   If a trustee is under a duty  to  take  advice,  the  reasonable\n         costs of obtaining the advice are payable out of trust funds."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Matters to which trustee shall have regard in exercising power of",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Matters to which trustee shall have regard in exercising power of",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 8",
+      "text": "investment\n      (1)   Without limiting the  matters  that  a  trustee  may  take  into\n         account when exercising a power of investment, a trustee shall,  so\n         far as they are appropriate to the circumstances of the trust, have\n         regard to:\n         (a)      the purposes of the trust and the needs and  circumstances\n             of the beneficiaries;\n         (b)      the desirability of diversifying trust investments;\n         (c)      the nature of and  risk  associated  with  existing  trust\n             investments and other trust property;\n         (d)      the need to maintain the real  value  of  the  capital  or\n             income of the trust;\n         (e)      the risk of capital or income loss or depreciation;\n         (f)      the potential for capital appreciation;\n         (g)      the likely income return and the timing of income return;\n         (h)      the length of the term of the proposed investment;\n         (j)      the probable duration of the trust;\n         (k)      the liquidity and marketability of the proposed investment\n             during, and on the determination of, the term of the  proposed\n             investment;\n         (m)      the aggregate value of the trust estate;\n         (n)      the effect of the proposed investment in relation  to  the\n             tax liability of the trust;\n         (p)      the likelihood of inflation affecting  the  value  of  the\n             proposed investment or other trust property;\n         (q)      the cost (including commissions, fees, charges and  duties\n             payable) of making the proposed investment; and\n         (r)      the results of a review of existing trust investments.\n      (2)   A trustee may:\n         (a)      obtain  and  consider  independent  and  impartial  advice\n             reasonably required for the investment of trust funds  or  the\n             management of the investment from a person  whom  the  trustee\n             reasonably believes to be competent to give the advice; and\n         (b)      pay out of trust funds the reasonable costs  of  obtaining\n             the advice."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Powers of trustee in relation to securities",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Powers of trustee in relation to securities",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 9",
+      "text": "(1)   If securities of a body corporate are subject to  a  trust,  the\n         trustee may concur in any scheme or arrangement:\n         (a)      for or arising out of  the  reconstruction,  reduction  of\n             capital or liquidation of, or the issue of shares by, the body\n             corporate;\n         (b)      for the sale of all  or  any  part  of  the  property  and\n             undertaking of the body corporate to another body corporate;\n         (c)      for the acquisition of securities of the  body  corporate,\n             or  of  control  of  the  body  corporate,  by  another   body\n             corporate;\n         (d)      for the amalgamation of the body  corporate  with  another\n             body corporate; or\n         (e)      for the release,  modification  or  variation  of  rights,\n             privileges or liabilities attached to the securities,  or  any\n             of them,\n         in the same manner as if the trustee were beneficially entitled  to\n         the securities.\n      (2)   The trustee may accept instead  of,  or  in  exchange  for,  the\n         securities subject to the trust securities of any  denomination  or\n         description of another  body  corporate  party  to  the  scheme  or\n         arrangement.\n      (3)    If  a  conditional  or  preferential  right  to  subscribe  for\n         securities in a body corporate is offered to a trustee  in  respect\n         of a holding in that body corporate or another body corporate,  the\n         trustee may, as to all or any of the securities:\n         (a)      exercise the right and apply capital money subject to  the\n             trust in payment of the consideration;\n         (b)      assign to any person, including a  beneficiary  under  the\n             trust, the benefit of the right, or the title  to  the  right,\n             for the best consideration that can be reasonably obtained; or\n         (c)      renounce the right.\n      (4)   A trustee accepting or subscribing  for  securities  under  this\n         section is, for the purposes of this Part, exercising  a  power  of\n         investment.\n      (5)   A trustee may  retain  securities  accepted  or  subscribed  for\n         under this section for any  period  for  which  the  trustee  could\n         properly have retained the original securities.\n      (6)   The  consideration  for  an  assignment  made  under  subsection\n         (3)(b) shall be held as capital of the trust.\n      (7)   This section applies in relation to securities  acquired  before\n         or after the commencement of the Trustee Amendment Act (No. 2) 1995\n         but subject to the instrument creating the trust."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Power of trustee as to calls on shares",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Power of trustee as to calls on shares",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10",
+      "text": "Subject to the instrument creating the trust:\n         (a)      a trustee may apply capital money subject to  a  trust  in\n             payment of calls on shares subject to the same trust; and\n         (b)      if the trustee is a trustee company, it may  exercise  the\n             powers conferred by this section notwithstanding the shares on\n             which the calls are made being shares in the trustee company."
+    },
+    {
+      "key": "section:10A",
+      "title": "Section 10A - Power to purchase dwelling house as residence for beneficiary",
+      "main_structural_unit": "section",
+      "main_structural_number": "10A",
+      "main_structural_heading": "Power to purchase dwelling house as residence for beneficiary",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10A",
+      "text": "(1)   Subject to the instrument creating the trust, a trustee may:\n         (a)      purchase a dwelling house for a beneficiary to  use  as  a\n             residence; or\n         (b)      enter into any other agreement or  arrangement  to  secure\n             for a beneficiary a  right  to  use  a  dwelling  house  as  a\n             residence.\n      (2)   Notwithstanding the terms of the instrument creating the  trust,\n         a trustee may, if  to  do  so  would  not  unfairly  prejudice  the\n         interests of other beneficiaries,  retain  as  part  of  the  trust\n         property a dwelling house for a beneficiary to use as a residence.\n      (3)   A dwelling house purchased, retained or  otherwise  secured  for\n         use by the beneficiary as a residence may be made available to  the\n         beneficiary  for  that  purpose  on  such  terms   and   conditions\n         consistent with the trust  and  the  extent  of  the  beneficiary's\n         interest as the trustee thinks fit.\n      (4)   The trustee may retain a  dwelling  house  or  any  interest  or\n         rights in respect of a dwelling house acquired under  this  section\n         after the use of the dwelling house by the beneficiary has ceased.\n      (5)   In this section, dwelling house includes:\n         (a)      any building or part of a building designed, or  converted\n             or capable of being converted, for use as a residence; and\n         (b)      any amenities or facilities for use  in  association  with\n             the use of a dwelling house."
+    },
+    {
+      "key": "section:10B",
+      "title": "Section 10B - Power of trustee to retain investments",
+      "main_structural_unit": "section",
+      "main_structural_number": "10B",
+      "main_structural_heading": "Power of trustee to retain investments",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10B",
+      "text": "A trustee is not liable for breach  of  trust  by  reason  only  of\n         continuing to hold an investment that has ceased to be:\n         (a)      an investment authorised by the  instrument  creating  the\n             trust;\n         (b)      an investment properly made by the  trustee  exercising  a\n             power of investment;\n         (c)      an investment made under this Part as previously in  force\n             from time to time; or\n         (d)      an investment authorised by any other Act or  the  general\n             law."
+    },
+    {
+      "key": "section:10C",
+      "title": "Section 10C - Loans and investments by trustees not breaches of trust in certain",
+      "main_structural_unit": "section",
+      "main_structural_number": "10C",
+      "main_structural_heading": "Loans and investments by trustees not breaches of trust in certain",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10C",
+      "text": "circumstances\n      (1)   If a trustee lends  money  on  the  security  of  property,  the\n         trustee is not in breach of trust by reason only of the  amount  of\n         the loan in comparison to the value of the  property  at  the  time\n         when the loan was made:\n         (a)      if it appears to the Court:\n             (i) that, in making the loan, the  trustee  was  acting  on  a\n                  report as to the value of the property made  by  a  person\n                  whom the trustee reasonably believed to  be  competent  to\n                  give such a report and whom  the  trustee  instructed  and\n                  employed independently of any owner of the property;\n             (ii)      that the amount of the  loan  did  not  exceed  two-\n                  thirds of the value of  the  property  as  stated  in  the\n                  report; and\n             (iii)     that the loan was made in reliance on the report; or\n         (b)      if the trustee is insured, by a  body  prescribed  by  the\n             Minister by notice in the Gazette that it is carrying  on  the\n             business of insurance against  all  loss  that  may  arise  by\n             reason of the default of the borrower.\n      (2)   If a trustee lends money on the security of leasehold  property,\n         the trustee is not in breach of  trust  by  reason  only  that  the\n         trustee dispensed, either in whole or in part, with the  production\n         or investigation of the lessee's title when making the loan.\n      (3)   This section applies to  transfers  of  existing  securities  as\n         well as to new securities and to investments made before  or  after\n         the commencement of the Trustee Amendment Act (No. 2) 1995."
+    },
+    {
+      "key": "section:10D",
+      "title": "Section 10D - Limitation of liability of trustee for loss on improper investments",
+      "main_structural_unit": "section",
+      "main_structural_number": "10D",
+      "main_structural_heading": "Limitation of liability of trustee for loss on improper investments",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10D",
+      "text": "(1)   If a trustee improperly lends trust money  on  a  security  that\n         would have been a proper  investment  if  the  sum  lent  had  been\n         smaller than the actual sum lent, the security is to be taken to be\n         a proper investment in respect of the smaller sum, and the  trustee\n         is only liable to make good the difference between the sum advanced\n         and the smaller sum, with interest.\n      (2)   This section applies to investments made  before  or  after  the\n         commencement of the Trustee Amendment Act (No. 2) 1995."
+    },
+    {
+      "key": "section:10E",
+      "title": "Section 10E - Court may take into account investment strategy in action for breach",
+      "main_structural_unit": "section",
+      "main_structural_number": "10E",
+      "main_structural_heading": "Court may take into account investment strategy in action for breach",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10E",
+      "text": "of trust\n         If a trustee has been charged with a breach of trust in respect  of\n         a  duty  under  this  Part  relating  to  the  trustee's  power  of\n         investment, a Court may,  when  considering  the  question  of  the\n         trustee's liability, take into account:\n         (a)      the nature and purpose of the trust;\n         (b)      whether the trustee had regard to the matters set  out  in\n             section 8 so far as is appropriate to the circumstances of the\n             trust;\n         (c)      the trust  investments  have  been  made  pursuant  to  an\n             investment strategy formulated in accordance with the duty  of\n             a trustee under this Part; and\n         (d)      the extent  the  trustee  acted  on  the  independent  and\n             impartial  advice  of  a  person  competent   (or   apparently\n             competent) to give the advice."
+    },
+    {
+      "key": "section:10F",
+      "title": "Section 10F - Power of Court to set off gains and losses arising from investment",
+      "main_structural_unit": "section",
+      "main_structural_number": "10F",
+      "main_structural_heading": "Power of Court to set off gains and losses arising from investment",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10F",
+      "text": "(1)   A Court may, when considering an  action  for  breach  of  trust\n         arising out of or in respect of an investment by a trustee where  a\n         loss has been or is expected to be sustained by the trust, set  off\n         all or part of the loss resulting from that investment against  all\n         or part of the gain resulting from any other investment whether  in\n         breach of trust or not.\n      (2)   The power of set off conferred by subsection (1) is in  addition\n         to any other power or entitlement to set off all  or  part  of  any\n         loss against any property."
+    },
+    {
+      "key": "section:10G",
+      "title": "Section 10G - Transitional provision",
+      "main_structural_unit": "section",
+      "main_structural_number": "10G",
+      "main_structural_heading": "Transitional provision",
+      "defined_term": null,
+      "structure_path": "Part I Investments > Section 10G",
+      "text": "Any Act or instrument of a legislative or administrative  character\n         (whether or not creating a  trust)  that  empowers  or  requires  a\n         person to invest money in the investments authorised by this Act is\n         to be read as if it empowered or required  that  person  to  invest\n         that money according to the provisions  of  this  Part  as  to  the\n         investment of trust funds.\nPart II     Various powers and duties of trustees\n         AppointmentÂ ofÂ newÂ trustees"
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Power of appointing new trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Power of appointing new trustees",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 11",
+      "text": "(1)   Where a trustee, either original  or  substituted,  and  whether\n         appointed by a Court or otherwise, is dead or remains  out  of  the\n         Territory for more than 12 months, or desires to be discharged from\n         all or any of the trusts or powers reposed in or conferred on  him,\n         or refuses or is unfit to act therein, or is  incapable  of  acting\n         therein, then the person or persons nominated for  the  purpose  of\n         appointing new trustees by the instrument  (if  any)  creating  the\n         trust, or if there is no such person, or no such  person  able  and\n         willing to act,  then  the  surviving  or  continuing  trustees  or\n         trustee for the time being, or  the  representatives  of  the  last\n         surviving or continuing trustee, may, by writing,  appoint  another\n         person or other persons to be a trustee or trustees in the place of\n         the trustee dead, remaining out of the Territory,  desiring  to  be\n         discharged,  refusing  or  being  unfit  or  being  incapable,   as\n         aforesaid.\n      (2)   On the appointment of a new trustee:\n         (a)      the number of trustees may be increased; and\n         (b)      a separate set of trustees may be appointed for  any  part\n             of the trust property  held  on  trusts  distinct  from  those\n             relating to any other part or parts of the trust property, or,\n             if  only  one  trustee  was  originally  appointed,  then  one\n             separate trustee may be so appointed for  the  first-mentioned\n             part; and\n         (c)      it shall not be obligatory to appoint more  than  one  new\n             trustee where only one trustee was originally appointed or  to\n             fill up the  original  number  of  trustees  where  more  than\n             2Â trustees were originally appointed; but, except  where  only\n             one trustee was originally appointed, a trustee shall  not  be\n             discharged under this section from his trust unless there will\n             be at least 2Â trustees to perform the trust; and\n         (d)      any assurance or thing requisite  for  vesting  the  trust\n             property, or any part thereof, jointly in the persons who  are\n             the trustees, or solely in the new trustee, as  the  case  may\n             require, shall be executed or done.\n      (3)   Every new trustee so appointed, as well before as after all  the\n         trust property becomes by law or by assurance or  otherwise  vested\n         in him, shall have the same powers, authorities,  and  discretions,\n         and be entitled to the same remuneration (if any),  and,  if  of  a\n         continuing nature, and may in all respects act as if  he  had  been\n         originally appointed a trustee by the instrument (if any)  creating\n         the trust.\n      (4)   The provisions of this section relative  to  a  trustee  who  is\n         dead include the case of a person nominated trustee in a will,  but\n         dying before the testator,  and  those  relative  to  a  continuing\n         trustee include a refusing or retiring trustee, if willing  to  act\n         in the execution of the provisions of this section.\n      (5)   This section applies only if and as far as a contrary  intention\n         is not expressed in the instrument (if any) creating the trust, and\n         shall have effect subject to the terms of that  instrument  and  to\n         any provisions therein contained.\n      (6)   This section applies to trusts created either  before  or  after\n         the commencement of this Act.\n      (7)   Nothing in this section shall give power to appoint an  executor\n         or administrator."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Retirement of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Retirement of trustees",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 12",
+      "text": "(1)   Where there are more than 2 trustees, if one  of  them  by  deed\n         declares that he is desirous of being discharged  from  the  trust,\n         and if his co-trustees  and  such  other  person  (if  any)  as  is\n         empowered to appoint trustees, by deed consent to the discharge  of\n         the trustee, and to the vesting in the  co-trustees  alone  of  the\n         trust property, then the trustee desirous of being discharged shall\n         be deemed to have retired from the trust, and shall, by  the  deed,\n         be discharged therefrom under this Act,  without  any  new  trustee\n         being appointed in his place.\n      (2)   Any assurance or thing requisite for vesting the trust  property\n         in the continuing trustees alone shall be executed or done.\n      (3)   This section applies only if and as far as a contrary  intention\n         is not expressed in the instrument (if any) creating the trust, and\n         shall have effect subject to the terms of that  instrument  and  to\n         any provisions therein contained.\n      (4)   This section applies to trusts created either  before  or  after\n         the commencement of this Act."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Vesting of trust property in new or continuing trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Vesting of trust property in new or continuing trustees",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 13",
+      "text": "(1)   Where a deed by which a new trustee is appointed to perform  any\n         trust contains a declaration by the appointor to  the  effect  that\n         any estate or interest in any land, subject to the trust, or in any\n         chattel so subject, or the right to recover and receive any debt or\n         other thing in action so subject,  shall  vest  in  the  person  or\n         persons who, by virtue of the deed, become and are the  trustee  or\n         trustees for performing the trust, that declaration shall,  without\n         any conveyance or assignment, operate to vest  in  that  person  or\n         those persons, as joint tenants if  more  than  one,  and  for  the\n         purposes of the trust, that estate, interest, or right.\n      (2)   Where a deed under section 12, by which a  retiring  trustee  is\n         discharged under this Act, contains such a  declaration  as  is  in\n         this section mentioned by the retiring and continuing trustees  and\n         by the other person (if any) empowered to  appoint  trustees,  that\n         declaration shall, without any conveyance or assignment, operate to\n         vest in the continuing trustees alone, as joint tenants and for the\n         purposes of the trust, the estate, interest, or right to which  the\n         declaration relates.\n      (3)   This section does not extend to land  under  the  provisions  of\n         the Land Title Act 2000, or to land conveyed by way of mortgage for\n         securing money subject to the trust, or to any  such  share  stock,\n         annuity, or property as is only transferable in  books  kept  by  a\n         company or other body, or in manner directed by  or  under  Act  of\n         Parliament.\n      (4)   For  purposes  of  registration  of  the  deed  in  the  General\n         Registry Office the person or persons making the declaration  shall\n         be deemed the conveying party or parties, and  the  deed  shall  be\n         deemed a conveyance made by him or them under a power conferred  by\n         this Act.\n       (5)    This  section  applies  only  to  deeds  executed  after   the\n         commencement of this Act.\n         PurchaseÂ andÂ sale"
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Power of trustees for sale to sell by auction, &c.",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Power of trustees for sale to sell by auction, &c.",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 14",
+      "text": "(1)   Where a trust for sale or a power of sale of property is  vested\n         in trustees, they may sell or  concur  with  any  other  person  in\n         selling all or any part of the property, either  subject  to  prior\n         charges or not, and either together or in lots, by  public  auction\n         or by private contract, at one time or at several times, subject to\n         any such condition respecting title or evidence of title  or  other\n         matter as the trustees think fit, with power to vary  any  contract\n         for sale, and to buy in at any auction, or to rescind any  contract\n         for sale and to\n         re-sell, without being answerable for any loss.\n         Trustees exercising power of sale, empowered to convey\n      (2)   For the purpose of completing any such sale  as  aforesaid,  the\n         trustees shall have full power to convey or  otherwise  dispose  of\n         the  property  in  question,  either  by  way  of  revocation   and\n         appointment of uses, or otherwise, as may be necessary.\n      (3)   This section applies only if and as far as a contrary  intention\n         is not expressed in the instrument creating the trust or power, and\n         shall have effect subject to the terms of that  instrument  and  to\n         the provisions therein contained.\n      (4)   This section applies only to trusts and  powers  created  by  an\n         instrument coming into operation after 21 October, 1862."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Power to sell subject to depreciating conditions",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Power to sell subject to depreciating conditions",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 15",
+      "text": "(1)   No sale made by a trustee shall be impeached by any  beneficiary\n         upon the ground that any of the conditions  subject  to  which  the\n         sale was made may have been unnecessarily depreciatory,  unless  it\n         also appears that  the  consideration  for  the  sale  was  thereby\n         rendered inadequate.\n      (2)   No sale made by a trustee shall,  after  the  execution  of  the\n         conveyance, be impeached as against the purchaser upon  the  ground\n         that any of the conditions subject to which the sale was  made  may\n         have been unnecessarily depreciatory, unless it  appears  that  the\n         purchaser was acting in collusion with the trustee at the time when\n         the contract for sale was made.\n      (3)   No purchaser, upon any sale made  by  a  trustee,  shall  be  at\n         liberty to make any objection against the  title  upon  the  ground\n         aforesaid.\n      (4)   This section applies only to sales made after  the  commencement\n         of this Act.\n         VariousÂ powersÂ andÂ liabilities"
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Power to authorize receipt of money by banker or legal practitioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Power to authorize receipt of money by banker or legal practitioner",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 17",
+      "text": "(1)   A trustee may appoint a legal practitioner to be  his  agent  to\n         receive  and  give  a  discharge  for   any   money   or   valuable\n         consideration or property  receivable  by  the  trustee  under  the\n         trust, by permitting the legal practitioner to have the custody of,\n         and to produce, a deed having  in  the  body  thereof  or  endorsed\n         thereon a receipt for such money, consideration, or  property,  the\n         deed being executed or the endorsed receipt signed by the trustee.\n      (2)   A trustee shall not  be  chargeable  with  breach  of  trust  by\n         reason only of his having made or  concurred  in  making  any  such\n         appointment.   The  producing  of  any  such  deed  by  the   legal\n         practitioner shall be sufficient authority to the person liable  to\n         pay or give the consideration, or transfer or deliver the property,\n         for his paying, giving, transferring, or delivering the same to the\n         legal practitioner, without the legal  practitioner  producing  any\n         separate or other direction or authority from the trustee.\n      (3)   A trustee may appoint a bank or a legal practitioner to  be  his\n         agent to receive and give a discharge for any money payable to  the\n         trustee under or by virtue of a policy of assurance, by  permitting\n         the bank or legal practitioner  to  have  the  custody  of  and  to\n         produce the policy of  assurance  with  a  receipt  signed  by  the\n         trustee, and a trustee shall not be chargeable  with  a  breach  of\n         trust by reason only of his having made or concurred in making  any\n         such appointment.\n      (4)   Nothing  in  this  section  shall  exempt  a  trustee  from  any\n         liability which he would have incurred if this  Act  had  not  been\n         passed, in case he permits any such money, valuable  consideration,\n         or property to remain in the hands or under the control of the bank\n         or legal practitioner  for  a  period  longer  than  is  reasonably\n         necessary to enable the bank or legal practitioner (as the case may\n         be) to pay or transfer the same to the trustee.\n       (5)    This  section  applies  only  where  the  money  or   valuable\n         consideration or property is received  after  the  commencement  of\n         this Act.\n      (6)   Nothing  in  this  section  shall  authorize  a  trustee  to  do\n         anything which he is in express terms forbidden to do, or  to  omit\n         anything which he is in  express  terms  directed  to  do,  by  the\n         instrument creating the trust."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Power to insure building",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Power to insure building",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 18",
+      "text": "Court may authorize expenditure or improvements, &c.\n       (2)    The  Supreme  Court  may,  on  the  application  ex  parte  or\n         otherwise, of a trustee, or of  a  beneficiary  interest  in  trust\n         property, authorize the expenditure by  the  trustee,  out  of  the\n         capital or income of the trust property  or  of  the  estate  of  a\n         deceased person, of  such  sum  as  the  Court  may  think  fit  in\n         repairing, reinstating, or improving the trust property or  estate,\n         and may by the same or any subsequent order authorize  the  trustee\n         to raise moneys required for the purpose  of  such  expenditure  by\n         mortgage of the trust property or estate concerned, or of any other\n         property or estate subject to the same trusts.\n      (3)   This section does not apply to any building or property which  a\n         trustee is bound forthwith to convey absolutely to any  beneficiary\n         upon being requested to do so.\n      (4)   This section applies to trusts created either  before  or  after\n         the commencement of this Act; but nothing  in  this  section  shall\n         authorize any trustee to do anything which he is in  express  terms\n         forbidden to do, or to omit to do anything which he is  in  express\n         terms directed to do, by the instrument creating the trust."
+    },
+    {
+      "key": "section:18A",
+      "title": "Section 18A - Power to insure building or other property",
+      "main_structural_unit": "section",
+      "main_structural_number": "18A",
+      "main_structural_heading": "Power to insure building or other property",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 18A",
+      "text": "(1)   A trustee may insure a  building  or  other  insurable  property\n         against loss or damage, by fire or otherwise, and against any  risk\n         or liability that it would  be  prudent  for  a  person  to  insure\n         against if acting for himself or herself.\n      (2)   The amount that a property is insured for must  not  exceed  the\n         full value of the property but that value is  not  limited  to  the\n         sale value and may include the replacement  cost  at  the  material\n         time as well as indemnity against loss of rent and other collateral\n         risks.\n      (3)   A trustee may pay the premiums for  the  insurance  out  of  any\n         income from the property insured or out of the income of any  other\n         property subject to the same trusts, without obtaining the  consent\n         of any person, despite that there may be a person  entitled  wholly\n         or partly to that income."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Power of trustees of renewable leaseholds to renew and raise money",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Power of trustees of renewable leaseholds to renew and raise money",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 19",
+      "text": "for the purpose\n      (1)   A trustee of  any  leaseholds  for  lives  or  years  which  are\n         renewable from time to time, either under any covenant or contract,\n         or by custom or usual practice, may, if he thinks fit,  and  shall,\n         if thereto required by any person having any  beneficial  interest,\n         present or future or contingent, in the leaseholds,  use  his  best\n         endeavors to obtain from time to time a renewed lease of  the  same\n         hereditaments on the accustomed and reasonable terms, and for  that\n         purpose may from time to time make or concur in making a  surrender\n         of the lease for the time being subsisting, and do all  such  other\n         acts as are requisite:\n         Provided that, where by the terms of the settlement  or  will,  the\n         person in possession for his life  or  other  limited  interest  is\n         entitled to enjoy the same without any obligation to  renew  or  to\n         contribute to the expense of renewal, this section shall not apply,\n         unless the consent in writing of that person  is  obtained  to  the\n         renewal on the part of the trustee.\n      (2)   If money is  required  to  pay  for  the  renewal,  the  trustee\n         effecting the renewal may pay the same out of any money then in his\n         hands in trust for the persons beneficially interested in the lands\n         to be comprised in the renewed lease, and if  he  has  not  in  his\n         hands sufficient money for the purpose,  he  may  raise  the  money\n         required by mortgage of the hereditaments to be  comprised  in  the\n         renewed lease, or of any other hereditaments  for  the  time  being\n         subject to the uses or trusts  to  which  those  hereditaments  are\n         subject; and no person advancing money upon a  mortgage  purporting\n         to be under this power shall be bound to  see  that  the  money  is\n         wanted, or that no more is raised than is wanted for the purpose.\n      (3)   This section applies to trusts created either  before  or  after\n         the commencement of this Act; but nothing  in  this  section  shall\n         authorize any trustee to do anything which he is in  express  terms\n         forbidden to do, or to omit to do anything which he is  in  express\n         terms directed to do, by the instrument creating the trust."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Power of trustee to give receipts",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Power of trustee to give receipts",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 20",
+      "text": "(1)    The  receipt  in  writing  of  any  trustee  for  any   money,\n         securities,  or  other  personal  property  or   effects   payable,\n         transferable, or deliverable to him under any trust or power  shall\n         be a sufficient discharge  for  the  same,  and  shall  effectually\n         exonerate the person paying, transferring, or delivering  the  same\n         from seeing to the application or being answerable for any loss  or\n         misapplication thereof.\n      (2)   This section applies to trusts created either  before  or  after\n         the commencement of this Act."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Power for executors and trustees to compound, &c.",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Power for executors and trustees to compound, &c.",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 21",
+      "text": "(2)   Two or more trustees acting together, or a sole acting  trustee,\n         where, by the instrument  (if  any)  creating  the  trust,  a  sole\n         trustee is authorized to execute the  trusts  and  powers  thereof,\n         may, if and as he or they may think fit, accept any composition  or\n         any security, real or personal, for any debt or for  any  property,\n         real or personal, claimed, and may allow any time  for  payment  of\n         any  debt,  and  may  compromise,  compound,  abandon,  submit   to\n         arbitration, or otherwise settle any debt, account, claim, or thing\n         whatever relating to the trust, and for any of those  purposes  may\n         enter into, give, execute, and do such agreements,  instruments  of\n         composition or arrangement, releases, and other things, as  to  him\n         or them seem expedient, without  being  responsible  for  any  loss\n         occasioned by any act or thing so done  by  him  or  them  in  good\n         faith.\n      (3)   This section applies only if and as far as a contrary  intention\n         is not expressed in the instrument (if any) creating the trust, and\n         shall have effect subject to the terms of that  instrument  and  to\n         the provisions therein contained.\n      (4)   This section applies to trusts  constituted  or  created  either\n         before or after the commencement of this Act."
+    },
+    {
+      "key": "section:21A",
+      "title": "Section 21A - Power to apply to Supreme Court for declaration as to validity, &c.",
+      "main_structural_unit": "section",
+      "main_structural_number": "21A",
+      "main_structural_heading": "Power to apply to Supreme Court for declaration as to validity, &c.",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 21A",
+      "text": "(1)   An executor or trustee  of  property,  or  a  person  interested\n         under, or in the invalidity of, a disposition of property,  whether\n         made before or after the commencement of this section, may  at  any\n         time apply to the  Supreme  Court  for  a  declaration  as  to  the\n         validity, in respect of  the  rule  against  perpetuities,  of  the\n         disposition.\n      (2)   The Supreme Court may, on an application under  subsection  (1),\n         make a declaration, having regard to facts existing and events that\n         have occurred at the time  the  declaration  is  made,  as  to  the\n         validity or otherwise of the disposition in respect  of  which  the\n         application is made.\n       (3)    The  Supreme  Court  shall  not  make  a   declaration   under\n         subsectionÂ (2) in respect of a disposition the  validity  of  which\n         cannot be determined at the time the Court is  asked  to  make  the\n         declaration.\n      (4)   If the  Supreme  Court  refuses  to  make  a  declaration  under\n         subsection  (2)  relating  to  a  disposition,  it  may  give  such\n         directions as it thinks fit on:\n         (a)       the  construction  of  the  instrument   by   which   the\n             disposition is made;\n         (b)      the determination of a person who is a measuring life  for\n             the purposes of the disposition;\n         (c)      whether a person who is a measuring life is to be presumed\n             dead;\n         (d)      whether, before the determination of the perpetuity period\n             applicable to the disposition, an interest is to be treated as\n             incapable of vesting during the period; and/or\n         (e)      any other matter on which an application could properly be\n             made to the Court apart from under this Act."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Distribution of estate after notice by trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Distribution of estate after notice by trustee",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 22",
+      "text": "(1)   Where a trustee has given notices such as would have been  given\n         by  the  Court   in   an   administration   suit   for   creditors,\n         beneficiaries, and others to send in to the  trustee  their  claims\n         against the trust property, the trustee may, at the  expiration  of\n         the time named in the notices, distribute the trust property or any\n         part thereof amongst the persons entitled  thereto,  having  regard\n         only to the claims of which he then has notice, and  shall  not  be\n         liable for the property or any part thereof so distributed  to  any\n         person of whose  claim  he  had  no  notice  at  the  time  of  the\n         distribution.\n      (2)   Where a trustee has received a claim or notice of claim  against\n         a trust property, and he disputes the same, such trustee  may  give\n         to the person making such claim, or giving such notice, a notice in\n         writing that such claim is disputed, and  requiring  such  claimant\n         either to withdraw  such  claim  or  to  institute  proceedings  to\n         enforce such claim within 6 months of the  service  of  such  last-\n         mentioned notice;  and  if  such  claim  is  not  so  withdrawn  or\n         prosecuted, the trustee may apply by summons  in  Chambers  to  any\n         Judge of the Supreme Court, on affidavit setting out the facts  for\n         an order that,  as  against  such  trustee,  such  claim  shall  be\n         absolutely barred, and any such Judge may make  such  order  as  he\n         shall deem just, and the  same  shall  bind  all  persons  whom  it\n         purports to affect.\n      (3)   Nothing in this section shall prejudice the right of any  person\n         to follow the property or any part thereof into the  hands  of  any\n         person who has received the same.\n      (4)   A trustee desirous of giving notices under this section may,  on\n         application, exÂ parte or otherwise, obtain  the  direction  of  the\n         Supreme Court, or of an Associate Judge thereof, as to what notices\n         are proper to be given, and as to the mode of service."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Powers of 2 or more trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Powers of 2 or more trustees",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 23",
+      "text": "(1)   Where a power or trust is given  to  or  vested  in  2  or  more\n         trustees jointly, then, unless the contrary  is  expressed  in  the\n         instrument (if any) creating the power or trust, the  same  may  be\n         exercised or performed by the survivor or survivors of them for the\n         time being.\n      (2)   This  section  applies  only  to  trusts  constituted  after  or\n         created by instruments coming into operation after the commencement\n         of this Act."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Powers of maintenance in case of infants",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Powers of maintenance in case of infants",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 24",
+      "text": "(1)   Where any property is held by trustees in trust for  an  infant,\n         either for life or for any greater interest, and whether absolutely\n         or contingently on his attaining the age of 21  years,  or  on  the\n         occurrence of any event before his attaining that age, the trustees\n         may, at their sole  discretion,  pay  to  the  infant's  parent  or\n         guardian (if any) or otherwise apply for or  towards  the  infant's\n         maintenance, education, or benefit, the income of that property, or\n         any part thereof, whether  there  is  or  is  not  any  other  fund\n         applicable to the same purpose, or  any  person  bound  by  law  to\n         provide for the infant's maintenance.\n      (2)   The trustees shall accumulate all the residue of that income  in\n         the way of  compound  interest  by  investing  the  same,  and  the\n         resulting income thereof, from time to time on securities in  which\n         they are by the instrument of trust (if any), or by law, authorized\n         to invest trust money, and shall hold those accumulations  for  the\n         benefit of the  person  who  ultimately  becomes  entitled  to  the\n         property from which the same arose, but so that the trustees may at\n         any time, if they think fit, apply those accumulations, or any part\n         thereof, as if the same were income arising  in  the  then  current\n         year.\n      (3)   This section applies only if and as far as a contrary  intention\n         is not expressed in the instrument under which the interest of  the\n         infant arises, and shall have effect subject to the terms  of  that\n         instrument and to the provisions therein contained.\n      (4)   This section applies whether the instrument of trust comes  into\n         operation before or after the commencement of this Act."
+    },
+    {
+      "key": "section:24A",
+      "title": "Section 24A - Power to apply capital towards advancement and benefit",
+      "main_structural_unit": "section",
+      "main_structural_number": "24A",
+      "main_structural_heading": "Power to apply capital towards advancement and benefit",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 24A",
+      "text": "(1)   Where, under a trust, a person is entitled  to  the  capital  of\n         the trust property or any share thereof, the trustee may, from time\n         to time out of that capital, pay  or  apply  for  the  maintenance,\n         education, advancement or benefit of that person in such manner  as\n         the trustee shall in his absolute discretion think  fit  an  amount\n         not exceeding in all $2,000 or half the capital, whichever  is  the\n         greater, or, with the consent of the Court, an amount greater  than\n         that amount.\n      (2)   This section applies only where, and in so far  as,  a  contrary\n         intent is not expressed in the instrument, if any, under which  the\n         interest of the person entitled to the capital or any share of  the\n         trust property arises, and shall have effect subject to  the  terms\n         of that instrument.\n      (3)   This section applies only where the trust property  consists  of\n         money or securities or property held upon trust for  sale,  calling\n         in and conversion, and the money or securities or the  proceeds  of\n         the sale, calling in and conversion are not by statute or in equity\n         considered as land.\n      (4)   The power conferred by this section may be exercised  whether  a\n         person is entitled absolutely or contingently on his attaining  any\n         specified age or on the happening of  any  event,  or  whether  his\n         interest is subject to a gift over on his death under any specified\n         age or on the happening of any  other  event,  and  notwithstanding\n         that the interest of  the  person  so  entitled  is  liable  to  be\n         defeated by the exercise of a power of appointment  or  revocation,\n         or to be diminished by the  increase  of  the  class  to  which  he\n         belongs or whether the person  is  entitled  in  possession  or  in\n         remainder or reversion.\n      (5)   If a person is or becomes absolutely and  indefeasibly  entitled\n         to a share in the trust  property,  money  paid  or  applied  under\n         subsectionÂ (1) shall be brought into account as part of that share.\n      (6)   No  action  shall  be  taken  under  subsection  (1)  so  as  to\n         prejudice a person entitled to any prior life  or  other  interest,\n         whether vested or contingent, in the money paid or applied,  unless\n         such person is in existence, is under no disability and consents in\n         writing to the action."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Exoneration of trustees in respect of certain powers of attorney",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Exoneration of trustees in respect of certain powers of attorney",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 25",
+      "text": "A trustee acting or  paying  money  in  good  faith,  under  or  in\n         pursuance of any power of attorney, shall not  be  liable  for  any\n         such act or payment by reason of the fact that at the time  of  the\n         payment or act the person who gave the power of attorney  was  dead\n         or had done some act to avoid the power, if this fact was not known\n         to the trustee at the time of his so acting  or  paying:   Provided\n         that nothing in this section shall affect the right of  any  person\n         entitled to the money against the person to  whom  the  payment  is\n         made, and that the person so entitled shall have  the  same  remedy\n         against the person to whom the payment is made as he would have had\n         against the trustee."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Implied indemnity of trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Implied indemnity of trustees",
+      "defined_term": null,
+      "structure_path": "Part II Various powers and duties of trustees > Section 26",
+      "text": "A trustee  shall,  without  prejudice  to  the  provisions  of  the\n         instrument (if any) creating the  trust,  be  chargeable  only  for\n         money, stocks, funds, and  securities  actually  received  by  him,\n         notwithstanding his signing any receipt for the sake of conformity,\n         and shall be answerable and accountable  only  for  his  own  acts,\n         receipts, neglects, or defaults, and not for  those  of  any  other\n         trustee, nor for any banker, broker, or other person with whom  any\n         trust  moneys  or  securities  may  be  deposited,  nor   for   the\n         insufficiency or deficiency of any stocks, funds or securities  nor\n         for any other loss, unless the same happens through his own  wilful\n         default, and may reimburse himself; or pay or discharge out of  the\n         trust premises, all expenses incurred in or about the execution  of\n         his trusts or powers.\nPart III    Powers of the Court\n         AppointmentÂ ofÂ newÂ trusteesÂ andÂ vestingÂ orders"
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Power of the Court to appoint new trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Power of the Court to appoint new trustees",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 27",
+      "text": "(1)   The Supreme Court may, whenever it is  expedient  to  appoint  a\n         new  trustee  or  new  trustees,  and  it  is  found   inexpedient,\n         difficult, or impracticable so to do without the assistance of  the\n         Court, make an order for the appointment of a new  trustee  or  new\n         trustees, either in substitution for or in addition to any existing\n         trustee  or  trustees,  or  although  there  is  no  trustee.    In\n         particular,  and  without  prejudice  to  the  generality  of   the\n         foregoing  provision,  the  Court  may  make  an  order   for   the\n         appointment of a new trustee in substitution for a trustee  who  is\n         found guilty of an indictable  offence,  or  has  been  adjudicated\n         insolvent or made an assignment or composition or arrangement  with\n         his creditors under any Act in force in that behalf, and may remove\n         such last-mentioned trustee.\n      (2)   An order under  this  section,  and  any  consequential  vesting\n         order or conveyance shall not operate further  or  otherwise  as  a\n         discharge to any former or continuing trustee than  an  appointment\n         of new trustees under any power for that purpose contained  in  any\n         instrument would have operated.\n      (3)   Nothing in this section shall give power to appoint an  executor\n         or administrator."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Vesting order as to land",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Vesting order as to land",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 28",
+      "text": "In any of the following cases, namely:\n         I  Where the Supreme Court appoints or has appointed a new trustee;\n         II Where a trustee  entitled  to  or  possessed  of  any  land,  or\n             entitled to a  contingent  right  therein,  either  solely  or\n             jointly with any other person:\n             (a) is a lunatic or person of unsound mind; or\n             (b) is an infant; or\n             (c) is out of the jurisdiction of the Supreme Court; or\n             (d) cannot be found;\n         III      Where it is uncertain who was the survivor of  2  or  more\n             trustees jointly entitled to  or  possessed  of  any  land  or\n             entitled to a contingent right therein;\n         IV Where as to the last trustee known to have been entitled  to  or\n             possessed of any land,  or  entitled  to  a  contingent  right\n             therein, it is uncertain whether he is living or dead;\n         V  Where there is no heir or representative to a  trustee  who  was\n             entitled to or possessed of land or entitled to  a  contingent\n             right therein and has died intestate as to that land, or where\n             it is uncertain who is the heir or representative  or  devisee\n             of a trustee who was entitled  to  or  possessed  of  land  or\n             entitled to a contingent right therein and is dead; and\n         VI Where a trustee jointly or solely entitled to  or  possessed  of\n             any land, or entitled to a contingent right therein, has  been\n             required, by or on behalf of a person entitled  to  require  a\n             conveyance of the land or a release of the  right,  to  convey\n             the land or to release the right, and has wilfully refused  or\n             neglected to convey the land or release the right for 28  days\n             after the date of the requirement,\n         the Supreme Court may make an order (in this Act called  a  vesting\n         order) vesting the land in any such person in any such  manner  and\n         for any such estate as  the  Court  may  direct,  or  releasing  or\n         disposing of the contingent right to such person, as the Court  may\n         direct:  Provided that:\n         (a)      where the order is consequential on the appointment  of  a\n             new trustee the land shall be vested for such  estate  as  the\n             Court may direct in the persons who on the appointment are the\n             trustees; and\n         (b)      where the order relates to a trustee entitled jointly with\n             another person, and such trustee is out of the jurisdiction of\n             the Supreme Court or cannot be found, the land or right  shall\n             be vested in such other person,  either  alone  or  with  some\n             other person."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Contingent rights of unborn trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Contingent rights of unborn trustees",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 29",
+      "text": "Where any land is subject to a contingent right in an unborn person\n         or class of unborn persons who, on coming into existence, would, in\n         respect thereof, become entitled to or possessed of the land on any\n         trust, the Supreme Court may make an order releasing the land  from\n         the contingent right, or may make an order vesting  in  any  person\n         the estate to or of which the unborn  person  or  class  of  unborn\n         persons would, on coming into existence, be entitled  or  possessed\n         in the land."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Vesting order in place of conveyance by infant mortgagee",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Vesting order in place of conveyance by infant mortgagee",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 30",
+      "text": "Where any person entitled to or possessed of land or entitled to  a\n         contingent right in land, either solely or jointly with  any  other\n         person, by way of security for money, is a lunatic, or a person  of\n         unsound mind, or an infant, the Supreme Court  may  make  an  order\n         vesting or releasing or disposing of the  land  or  right  in  like\n         manner as in the case of a trustee who is a lunatic,  a  person  of\n         unsound mind, or an infant."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Vesting order in place of conveyance by heir or devisee of mortgagee",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Vesting order in place of conveyance by heir or devisee of mortgagee",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 31",
+      "text": "Where a mortgagee of land has died without having entered into  the\n         possession or into the receipt of the rents  and  profits  thereof,\n         and the money due in respect of the mortgage has  been  paid  to  a\n         person entitled to receive the same, or that last-mentioned  person\n         consents to an order for the re-conveyance of the  land,  then  the\n         Supreme Court may make an order vesting the land in such person  or\n         persons in such manner and for such estate as the Court may  direct\n         in any of the following cases, namely:\n         (a)       where  an  heir  or  representative  or  devisee  of  the\n             mortgagee is out of the jurisdiction of the Supreme Court,  or\n             cannot be found;\n         (b)       where  an  heir  or  representative  or  devisee  of  the\n             mortgagee, on demand made by or on behalf of a person entitled\n             to require a conveyance of the land,  has  stated  in  writing\n             that he will not convey the same, or does not convey the  same\n             for 28 days next after a proper instrument conveying the  land\n             has been tendered to him by or on  behalf  of  the  person  so\n             entitled;\n         (c)      where it is uncertain which of  several  devisees  of  the\n             mortgagee was the survivor;\n         (d)      where it is  uncertain  as  to  the  survivor  of  several\n             devisees of the mortgagee, or as to the heir or representative\n             of the mortgagee, whether he is living or dead; and\n         (e)      where there is no heir or representative  to  a  mortgagee\n             who has died intestate as to the land, or where the  mortgagee\n             has died and it is uncertain who is his heir or representative\n             or devisee."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Vesting order consequential on judgment for sale or mortgage of land",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Vesting order consequential on judgment for sale or mortgage of land",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 32",
+      "text": "Where any Court gives a judgment, or makes an order  directing  the\n         sale or mortgage of land, every person, whether under disability or\n         not, who is entitled to or possessed of the land, or entitled to  a\n         contingent  right  therein,  and  is  a  party  to  the  action  or\n         proceeding, or otherwise bound by the judgment or order,  shall  be\n         deemed to be so entitled or possessed, as the case  may  be,  as  a\n         trustee within the meaning of this Act; and the Supreme Court  may,\n         if it thinks expedient, make an order vesting the land, or any part\n         thereof, for such estate as that Court thinks fit in the  purchaser\n         or mortgagee, or in any other person."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - In what cases the heir, representative, or devisee of a person, who",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "In what cases the heir, representative, or devisee of a person, who",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 33",
+      "text": "has contracted to sell land, shall be deemed a trustee within this\n         Act\n         Where a person having contracted  in  writing  to  sell  land  dies\n         without having conveyed the land in pursuance of his contract,  and\n         the consideration for the sale has been paid or  satisfied  in  his\n         lifetime, or after his decease, or the person entitled  to  receive\n         the  consideration  money  or  such  part  thereof  as  may  remain\n         unsatisfied, is willing to  receive  the  same,  and  there  is  no\n         dispute or question as to the making of the contract, or as to  the\n         right of the purchaser of the land so agreed to be sold  to  demand\n         specific performance of such  contract,  and  the  Court  shall  be\n         satisfied that the  only  impediment  to  the  performance  thereof\n         arises from the fact that the legal estate in the land  has  become\n         vested in an heir,  representative,  or  devisee  of  the  deceased\n         vendor, who is an infant, or  lunatic,  or  of  unsound  mind,  the\n         Supreme Court may make an order declaring the heir, representative,\n         or devisee, as the case may be, of the  deceased  vendor  to  be  a\n         trustee  of  the  land  contracted  to  be  sold,  and  such  heir,\n         representative, or devisee  shall  thereupon  be  deemed  to  be  a\n         trustee thereof within the meaning of this Act,  and  at  the  same\n         time or subsequently the said Court may order that the  land  shall\n         vest in such person in such manner and for such estate as the  said\n         Court may direct, and may give directions as  to  the  payment  and\n         satisfaction of any unpaid or unsatisfied purchase-money."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Vesting order consequential on judgment for specific performance, &c.",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Vesting order consequential on judgment for specific performance, &c.",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 34",
+      "text": "Where a judgment  is  given  for  the  specific  performance  of  a\n         contract concerning any land, or for the partition or sale in  lieu\n         of partition, or exchange of  any  land,  or  generally  where  any\n         judgment is given for the conveyance of any land, either  in  cases\n         arising out of the doctrine of election or otherwise,  the  Supreme\n         Court may declare that  any  of  the  parties  to  the  action  are\n         trustees of the land, or any part thereof, within  the  meaning  of\n         this Act, or may declare that the interests of unborn  persons  who\n         might claim under any party to the action, or  under  the  will  or\n         voluntary settlement of any person  deceased  who  was  during  his\n         lifetime a party to the contract or transactions  concerning  which\n         the judgment is given, are the interests of persons who, on  coming\n         into existence, would be trustees within the meaning of  this  Act;\n         and thereupon the Supreme Court may make a vesting  order  relating\n         to the rights of those persons, born and unborn,  as  if  they  had\n         been trustees."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Effects of vesting order",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Effects of vesting order",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 35",
+      "text": "A vesting order under any of the foregoing provisions shall, in the\n         case of a vesting order consequential on the appointment of  a  new\n         trustee, have the same effect as if  the  persons  who  before  the\n         appointment were the trustees (if any) had duly executed all proper\n         conveyances of the land for such estate as the Court directs, or if\n         there is no such person, or no such person of full  capacity,  then\n         as if such person had existed and been of  full  capacity  and  had\n         duly executed all proper conveyances of the land for such estate as\n         the Court directs, and shall in every  other  case  have  the  same\n         effect as if the trustee, or other person, or description, or class\n         of persons to whose rights or supposed rights the  said  provisions\n         respectively relate, had been an ascertained and existing person of\n         full capacity, and had executed a  conveyance  or  release  to  the\n         effect intended by the order."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Power to appoint person to convey",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Power to appoint person to convey",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 36",
+      "text": "In all cases where a vesting order can be made  under  any  of  the\n         foregoing  provisions  the  Supreme  Court  may,  if  it  is   more\n         convenient, appoint a person to convey  the  land  or  release  the\n         contingent right, and a conveyance or release  by  that  person  in\n         conformity with the order shall have the same effect  as  an  order\n         under the appropriate provision."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Vesting orders as to stock and choses in action",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Vesting orders as to stock and choses in action",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 37",
+      "text": "(1)   In any of the following cases, namely:\n         I  Where the Supreme Court appoints or has appointed a new trustee;\n             and\n         II Where a trustee entitled alone or jointly with another person to\n             stock or to a chose in action:\n             (a) is a lunatic, a person of unsound mind, or an infant; or\n             (b) is out of the jurisdiction of the Supreme Court; or\n             (c) cannot be found; or\n             (d) neglects or refuses  to  transfer  stock  or  receive  the\n                  dividends or income thereof, or to sue for  or  recover  a\n                  chose in action, according to the direction of the  person\n                  absolutely entitled thereto, for  28  days  next  after  a\n                  request in writing has been made to him by the  person  so\n                  entitled; or\n             (e) neglects or refuses to  transfer  stock,  or  receive  the\n                  dividends or income thereof, or to sue for  or  recover  a\n                  chose in action for 28 days next after  an  order  of  the\n                  Supreme Court for that purpose has been served on him; or\n         III      Where it is uncertain whether a trustee entitled, alone or\n             jointly with another person, to stock or to a chose in  action\n             is alive or dead,\n         the Supreme Court may make an order vesting the right  to  transfer\n         or call for a transfer of stock or  to  receive  the  dividends  or\n         income thereof, or to sue for or recover a chose in action  in  any\n         such person as the Court may appoint:  Provided that:\n         (a)      where the order is consequential on the appointment by the\n             Court of a new trustee, the  right  shall  be  vested  in  the\n             persons who, on the appointment, are the trustees; and\n         (b)      where the person whose right is dealt with  by  the  order\n             was entitled jointly with another person, the right  shall  be\n             vested in that last-mentioned person, either alone or  jointly\n             with any other person whom the Court may appoint.\n      (2)   In all cases where a  vesting  order  can  be  made  under  this\n         section the Court may, if  it  is  more  convenient,  appoint  some\n         proper person to make or join in making the transfer.\n      (3)   The person in whom  the  right  to  transfer  or  call  for  the\n         transfer of any stock is vested by an order of the Court under this\n         Act may transfer the stock to himself or any person,  according  to\n         the order; and all companies shall  obey  every  order  under  this\n         section according to its tenor.\n      (4)   After notice in writing of  an  order  under  this  section,  it\n         shall not be lawful for any company to transfer any stock to  which\n         the order relates, or to  pay  any  dividends  thereon,  except  in\n         accordance with the order.\n      (5)   The Supreme Court may  make  declarations  and  give  directions\n         concerning the manner in which the right to any stock or  chose  in\n         action vested under the provisions of this Act is to be exercised.\n      (6)   The provisions of this Act as to vesting orders shall  apply  to\n         shares in ships registered under  the  Acts  relating  to  merchant\n         shipping as if they were stock."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Vesting order as to stock in cases of lunatic or infant mortgagee",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Vesting order as to stock in cases of lunatic or infant mortgagee",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 38",
+      "text": "Where a person entitled alone or jointly  with  another  person  to\n         stock or a chose in action by  way  of  security  for  money  is  a\n         lunatic, or a person of unsound mind, or  an  infant,  the  Supreme\n         Court may make an order vesting the right to transfer, or call  for\n         a transfer of  the  stock,  or  receive  the  dividends  or  income\n         thereof, or to sue for or recover  the  chose  in  action  in  like\n         manner as in the case of a trustee who is a lunatic,  a  person  of\n         unsound mind, or an infant."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Persons entitled to apply for vesting orders",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Persons entitled to apply for vesting orders",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 39",
+      "text": "(1)   An order under this Act for the appointment of  a  new  trustee,\n         or concerning any land, stock, or chose  in  action  subject  to  a\n         trust, may be made on the application of  any  person  beneficially\n         interested in the land, stock, or chose in  action,  whether  under\n         disability or not,  or  on  the  application  of  any  person  duly\n         appointed trustee thereof.\n      (2)   An order under this Act concerning any land, stock, or chose  in\n         action subject to a mortgage may be made on the application of  any\n         person, whether  under  disability  or  not,  who  is  beneficially\n         interested, in equity or otherwise, in the land, stock, or chose in\n         action, or of any person interested in the  money  secured  by  the\n         mortgage."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Powers of new trustees appointed by Court",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Powers of new trustees appointed by Court",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 40",
+      "text": "Every trustee appointed by a Court of competent jurisdiction shall,\n         as well before as after the trust property becomes by  law,  or  by\n         assurance or otherwise,  vested  in  him,  have  the  same  powers,\n         authorities, and discretions, and may in all respects act, as if he\n         had been originally appointed a trustee by the instrument (if  any)\n         creating the trust."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Power to charge costs on trust estate",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Power to charge costs on trust estate",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 41",
+      "text": "The Supreme Court may order  the  costs  of  and  incident  to  any\n         application for an order appointing a new trustee, or for a vesting\n         order, or for an order  releasing  or  disposing  of  a  contingent\n         right, or of and incident to any such order, or any  conveyance  or\n         transfer in pursuance thereof, to be paid or raised out of the land\n         or personal estate in respect whereof the same is made, or  out  of\n         the income thereof, or to be borne and paid in such manner  and  by\n         such persons as to the Court may seem just."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Trustees of charities",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Trustees of charities",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 42",
+      "text": "The powers conferred by this  Act  as  to  vesting  orders  may  be\n         exercised for vesting any land, stock, or chose in  action  in  any\n         trustee of a charity or society over which the Supreme Court  would\n         have  jurisdiction  upon  action  duly  instituted,   whether   the\n         appointment of the trustee was made by instrument under a power  or\n         by the Supreme Court under its general or statutory jurisdiction."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Orders made upon certain allegations to be conclusive evidence",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Orders made upon certain allegations to be conclusive evidence",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 43",
+      "text": "Where a vesting order has been made as to any land under this  Act,\n         or under any Act relating to lunacy, founded on  an  allegation  of\n         the infancy or personal incapacity of a trustee, representative  or\n         mortgagee, or on an allegation  that  a  trustee  or  the  heir  or\n         representative or devisee of a mortgagee is out of the jurisdiction\n         of the Supreme Court, or cannot be found, or that it  is  uncertain\n         which of several  trustees  or  which  of  several  devisees  of  a\n         mortgagee was the survivor, or whether the  last  trustee,  or  the\n         heir or representative or last surviving devisee of a mortgagee, is\n         living or dead, or on an allegation that any trustee  or  mortgagee\n         has died intestate without an heir, or has died and it is not known\n         who is his heir or representative or devisee,  the  fact  that  the\n         order has been so made shall be conclusive  evidence  of  the  fact\n         alleged in any Court upon any question as to the  validity  of  the\n         order; but this section shall not prevent the  Supreme  Court  from\n         directing a reconveyance, or  a  redisposition  of  any  contingent\n         right, or the payment of costs occasioned  by  any  such  order  if\n         improperly obtained.\n         PaymentÂ intoÂ CourtÂ byÂ trusteesÂ andÂ mortgagees"
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Payment into court by trustees and mortgagees",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Payment into court by trustees and mortgagees",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 44",
+      "text": "(1)    Trustees  or  mortgagees,  or  the  majority  of  trustees  or\n         mortgagees, having in their hands or under their control  money  or\n         securities belonging to a trust, or in respect whereof a trust  has\n         arisen by implication or construction of law,  may,  on  filing  an\n         affidavit shortly describing the instrument under or in consequence\n         of which the trust arises, according to the best of their knowledge\n         and belief, or if there be no such instrument, then shortly setting\n         out the facts of the case, pay the money  or  securities  into  the\n         Supreme Court; and the same shall, subject to rules  of  Court,  be\n         dealt with according to the orders of the Supreme Court, which  may\n         also order the administration of the  trusts  in  respect  of  such\n         money or securities.\n      (2)   The receipt or certificate of the  proper  officer  shall  be  a\n         sufficient discharge to trustees for the  money  or  securities  so\n         paid into Court.\n      (3)   Where any moneys or securities are  vested  in  any  persons  as\n         trustees or mortgagees, and the majority are desirous of paying the\n         same into Court, but the concurrence of the other or others  cannot\n         be obtained, the Supreme Court may order the payment into Court  to\n         be made by the majority without the concurrence  of  the  other  or\n         others; and where any such moneys or securities are deposited  with\n         any banker, broker,  or  other  depositary,  the  Court  may  order\n         payment or delivery of the moneys or securities to the majority  of\n         the trustees for the purpose  of  payment  into  Court,  and  every\n         transfer, payment, and delivery made in pursuance of any such order\n         shall be valid and take effect as if the same had been made on  the\n         authority or by the act of all the persons entitled to  the  moneys\n         and securities so transferred, paid, or delivered.\n         Miscellaneous"
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Power to give judgment in absence of a trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Power to give judgment in absence of a trustee",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 47",
+      "text": "Where in any action the Supreme Court is  satisfied  that  diligent\n         search has been made for  any  person  who,  in  the  character  of\n         trustee, is made a defendant in any action, to  serve  him  with  a\n         process of the Court, and that he cannot be found,  the  Court  may\n         hear and determine the action, and give  judgment  therein  against\n         that person in his character of a trustee, as if he had  been  duly\n         served, or had entered an appearance in the action,  and  had  also\n         appeared by his counsel and solicitor at the hearing,  but  without\n         prejudice to any interest he may have in the matters in question in\n         the action in any other character."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Trustee to have power to sell or convey in certain cases",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Trustee to have power to sell or convey in certain cases",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 48",
+      "text": "(1)   Where a trustee has,  by  the  instrument  creating  the  trust,\n         power, subject to the  direction,  request,  or  authority  of  any\n         person, to sell, convey, assure, mortgage, or otherwise  deal  with\n         property, and such person is dead,  of  unsound  mind,  a  lunatic,\n         under disability, or absent from the Territory, the  Supreme  Court\n         may authorize the trustee to sell,  convey,  assure,  mortgage,  or\n         otherwise deal with the property as if such direction, request,  or\n         authority had been given, but the power conferred by  this  section\n         shall not be exercised so as to injuriously affect  any  beneficial\n         interest of such person.\n      (2)   This section applies to trusts created either  before  or  after\n         the commencement of this Act.\n      (3)   This section shall authorize the Supreme Court  to  confirm  any\n         sale, conveyance, assurance, mortgage, or other dealing  heretofore\n         made or executed by such trustee in any case in  which  the  Court,\n         under this Act, would have authorized the same had it not been made\n         or executed."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Power to sanction sale of land or minerals separately",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Power to sanction sale of land or minerals separately",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 49",
+      "text": "(1)   Where a trustee is for the time being authorized to  dispose  of\n         land by way of sale, exchange, or partition, the Supreme Court  may\n         sanction his  so  disposing  of  the  land  with  an  exception  or\n         reservation of any minerals, and with or without rights and  powers\n         of or incidental to the working, getting, or carrying away  of  the\n         minerals, or may sanction his so disposing of the minerals, with or\n         without the said rights or powers, separately from the  residue  of\n         the land.\n      (2)   Any such trustee, with the said  sanction  previously  obtained,\n         may, unless forbidden by  the  instrument  creating  the  trust  or\n         direction, from time to time, without any  further  application  to\n         the Court, so dispose of any such land or minerals.\n      (3)   Nothing in this section shall derogate from any other  power  of\n         a trustee."
+    },
+    {
+      "key": "section:49A",
+      "title": "Section 49A - Relief from liability for breach of trust",
+      "main_structural_unit": "section",
+      "main_structural_number": "49A",
+      "main_structural_heading": "Relief from liability for breach of trust",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 49A",
+      "text": "If it appears to the Supreme Court:\n         (a)      that a trustee is, or may  be,  personally  liable  for  a\n             breach of trust, whether  the  transaction  alleged  to  be  a\n             breach of trust occurs before or  after  the  commencement  of\n             this Act; and\n         (b)      that the trustee has acted  honestly  and  reasonably  and\n             ought fairly to be excused for the breach of  trust,  and  for\n             omitting to obtain the directions of the Court in  the  matter\n             in which he has committed the breach,\n         the Court may relieve the trustee, either wholly  or  partly,  from\n         personal liability for the breach of trust."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Power to make beneficiary indemnify for breach of trust",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Power to make beneficiary indemnify for breach of trust",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 50",
+      "text": "(1)   Where a trustee commits a breach of trust at the instigation  or\n         request or with the  consent  in  writing  of  a  beneficiary,  the\n         Supreme Court may, if it thinks fit, and notwithstanding  that  the\n         beneficiary may be a marriedÂ woman entitled for  her  separate  use\n         and restrained from anticipation, make such order as to  the  Court\n         seems just for impounding all or any part of the  interest  of  the\n         beneficiary in the trust estate, by way of indemnity to the trustee\n         or any person claiming through him.\n      (2)   This section shall apply to breaches of trust committed as  well\n         before as after the commencement of this Act, but shall  not  apply\n         so as to prejudice any question in an action  or  other  proceeding\n         which is pending at the commencement of this Act."
+    },
+    {
+      "key": "section:50AA",
+      "title": "Section 50AA - Cy-pres modification in certain cases",
+      "main_structural_unit": "section",
+      "main_structural_number": "50AA",
+      "main_structural_heading": "Cy-pres modification in certain cases",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 50AA",
+      "text": "(1)   Subject to this section, where:\n         (a)      the Supreme Court  has,  under  section  21A,  declared  a\n             disposition of property to be invalid; or\n         (b)      it appears to the Court that a disposition,  whether  made\n             before or after the commencement of  this  section,  would  be\n             invalid solely on the ground that it conflicts with  the  rule\n             against perpetuities,\n         and the general intentions originally governing the disposition can\n         be ascertained, the Court shall reform the  disposition  so  as  to\n         give effect as far as possible to those general  intentions  within\n         the  limits  permitted  under  the  rule  against  perpetuities  as\n         affected by this section.\n      (2)   A disposition of property made before the commencement  of  this\n         section shall not be reformed under subsection (1):\n         (a)      where the disposition has  been  declared  invalid  before\n             that commencement by an order or judgment  made  or  given  in\n             legal proceedings;\n         (b)      where any  property  comprised  in  the  disposition  has,\n             before that commencement, been  paid  or  transferred  to,  or\n             applied for the  benefit  of,  or  set  apart  for,  a  person\n             entitled by reason of the invalidity of the disposition; or\n         (c)       so  as  to  prejudice  a  person  who  has,  before  that\n             commencement,  reasonably  altered  his  or  her  position  in\n             reliance on the invalidity of the disposition  where,  in  the\n             opinion of the Supreme Court, having regard  to  all  possible\n             implications in respect of other persons, it is inequitable to\n             reform the disposition wholly or in part.\n      (3)   In hearing an application to reform  a  disposition  under  this\n         section, the Supreme Court:\n         (a)      may admit extrinsic evidence  of  the  general  intentions\n             originally governing the disposition and shall  apply  liberal\n             rules of construction for the purpose  of  ascertaining  them;\n             and\n         (b)      shall have no regard to the rights of a person other than:\n             (i) a person born or en ventre sa mere  when  the  disposition\n                  was made; and\n             (ii)      a person entitled on the death of a such person,\n         and  in  reforming  the  disposition  the  Court  may  specify  the\n         perpetuity period in accordance with section  187  of  the  Law  of\n         Property Act 2000.\n      (4)   An application for reformation under this section  may  be  made\n         by:\n         (a)      a trustee of property comprised in the disposition;\n         (b)      the settlor or the settlor's personal representative; or\n         (c)      a person having an interest, whether vested or contingent,\n             under the disposition or the personal  representative  of  the\n             person to whom the interest passes.\n      (5)   Where a trustee of property comprised in a  disposition  becomes\n         aware  that  the  disposition  requires  to   be   reformed   under\n         subsectionÂ (1), the trustee has a duty to make an application under\n         this section.\n      (6)   A disposition that has been reformed under this section:\n         (a)      is valid notwithstanding that it would have  been  invalid\n             under a rule of law or construction if it had been effected in\n             any other way; and\n         (b)      shall be construed as if it had not  been  effected  under\n             this section."
+    },
+    {
+      "key": "section:50B",
+      "title": "Section 50B - Vesting orders arising from resulting trusts",
+      "main_structural_unit": "section",
+      "main_structural_number": "50B",
+      "main_structural_heading": "Vesting orders arising from resulting trusts",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 50B",
+      "text": "(1)   Where the Supreme Court has  refused  to  reform  a  disposition\n         under section 50A, it may, if satisfied that the  person  who  made\n         the disposition, or his or her personal representative, has  become\n         entitled under  a  resulting  trust,  make  an  order  vesting  the\n         property comprised in the disposition absolutely in the person  or,\n         if the person has died, in his or her  personal  representative  on\n         the trusts of the estate of the deceased person.\n      (2)   In the case of a disposition  referred  to  in  subsection  (1),\n         where a person other than a donor of property given to the  trustee\n         on trust, has sold other property to the trustee, or  has  assisted\n         the trustee, by loan, guarantee  or  otherwise,  to  acquire  other\n         property:\n         (a)      the power of the Supreme Court to  make  a  vesting  order\n             under that subsection is restricted to so much of the property\n             comprised in the disposition as was  given  by  the  donor  or\n             fairly attributable to the donor's gift; and\n         (b)      the Court may make such order as it thinks  fit  regarding\n             the remainder of property comprised in the disposition.\n      (3)   An application  for  a  vesting  order  under  this  section  in\n         respect of property comprised in a disposition may be made by:\n         (a)      a trustee of the property;\n         (b)      a vendor of the property to the trustee  or  the  personal\n             representative of such a vendor; or\n         (c)      a person who assisted the trustee, by loan,  guarantee  or\n             otherwise,  to  acquire  the   property,   or   the   personal\n             representative of the person."
+    },
+    {
+      "key": "section:50A",
+      "title": "Section 50A - Power of Court to authorize dealings with trust property",
+      "main_structural_unit": "section",
+      "main_structural_number": "50A",
+      "main_structural_heading": "Power of Court to authorize dealings with trust property",
+      "defined_term": null,
+      "structure_path": "Part III Powers of the Court > Section 50A",
+      "text": "(1)   The Court may by order, on  application  by  the  trustee  or  a\n         beneficiary,  authorize  a  trustee  either  generally  or   in   a\n         particular case:\n         (a)      to execute a sale, lease, mortgage, surrender, release  or\n             other disposition;\n         (b)      to make a purchase, acquisition, or investment; or\n         (c)      to undertake expenditure,\n         as the Court thinks fit and for which  the  trustee  has  no  power\n         under the trust instrument or a law in force in the Territory.\n      (2)   The Court may make  an  order  referred  to  in  subsection  (1)\n         subject to such terms or conditions as it thinks fit and may direct\n         whether and how any expenditure or costs are  to  be  paid  out  of\n         capital or income of the trust.\n      (3)   The Court may make  an  order  referred  to  subsection  (1)  in\n         relation to property despite that the property is the subject of  a\n         life interest in the  whole  of  the  property  or  any  estate  or\n         interest in the property.\n      (4)   An application to the Court for an order  relating  to  property\n         referred to in subsection (3) is to be made with the consent of all\n         persons having a beneficial  interest  in  the  property,  and  all\n         trustees having an estate or interest on behalf of an unborn child.\n       (5)    Despite  subsection  (4)  the  Court  may  dispense  with  the\n         requirement for consent of a person if that person has been  served\n         with a notice that the application will be made, and the person has\n         made no response.\n      (6)   A person who has been served with a notice that the  application\n         will be made may appear in Court  to  consent  or  dissent  to  the\n         making of the order sought.\n      (7)   The Court may make an order in relation to the property  despite\n         dissent by some interested parties.\n      (8)   In deciding whether to make an  order  despite  the  dissent  of\n         some parties the Court must have regard to the number and interests\n         of the parties.\n      (9)   If the property to which the order relates is  land,  the  order\n         is to be produced to the Registrar-General who must give effect  to\n         the order by registering any  transfer,  lease  or  other  document\n         effected pursuant to the order on the land register under the  Land\n         Title ActÂ 2000.\nPart IV     Special provisions as to appointment of new trustees"
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - This part to be permissive",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "This part to be permissive",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 51",
+      "text": "This part of this Act is  permissive  only,  and  trustees  may  be\n         appointed and trust  estates  may  be  transferred,  conveyed,  and\n         assigned as if this part of this Act had not been passed."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Application of this part",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Application of this part",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 52",
+      "text": "This part of this Act shall not apply to trust  estates  held  upon\n         any  trust  created  by  an  instrument  expressly  forbidding  the\n         application of this part of this Act; but, except  as  provided  by\n         this section, this part of  this  Act  shall  apply  to  all  trust\n         estates."
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 53",
+      "text": "In the interpretation of this Part of this Act the following  words\n         shall have the following meanings:\n         trust estates shall include  real  and  personal  estate  of  every\n         description held upon trust.\n         appointment of new trustees shall include every appointment of  new\n         trustees, and whether such  new  trustees  are  to  act  solely  or\n         jointly with any old trustees."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Form of appointment of new trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Form of appointment of new trustee",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 54",
+      "text": "Any appointment of new trustees, if signed by the persons  entitled\n         to exercise the power of appointment and by the new  trustees,  and\n         attested in manner prescribed by the Land Title Act  2000  for  the\n         attestation of instruments, and made in the form or to  the  effect\n         contained in the Third Schedule  hereto,  or  as  near  thereto  as\n         circumstances will  permit,  shall  be  sufficient  and  valid  and\n         effectual to all intents and purposes, so far as regards  the  form\n         and mode of execution and attestation thereof."
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Extension of power of appointing new trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Extension of power of appointing new trustees",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 55",
+      "text": "Any power of appointing new trustees vested in any  persons  within\n         the Territory, jointly with any persons absent therefrom,  and  who\n         shall have been continuously absent therefrom for at least one year\n         then  immediately  preceding,  may  be  exercised  by  such  first-\n         mentioned persons solely as if such power were  exclusively  vested\n         in them, and such power shall extend to authorize  the  appointment\n         of new trustees in the places  of  any  trustees  absent  from  the\n         Territory,  and  having  been  continuously  absent  therefrom   as\n         aforesaid, and such trustees on any appointment of new trustees  in\n         their places shall cease to be trustees."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Appointment of new trustees may be registered",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Appointment of new trustees may be registered",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 56",
+      "text": "On  any  appointment  of  new  trustees,  a  memorandum   of   such\n         appointment may be registered by the Registrar-General."
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Registration to vest estates in new trustees",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Registration to vest estates in new trustees",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 57",
+      "text": "On the registration of any memorandum of  the  appointment  of  new\n         trustees, such trustees shall be deemed to be duly  appointed,  and\n         the trust estates held upon the trusts to which such  new  trustees\n         are  appointed  shall,  without  any   conveyance,   transfer,   or\n         assignment, vest in the new trustees, either solely or jointly with\n         the old trustees, as the case may require, for all the  estate  and\n         interest of  the  old  trustees  therein,  subject  to  the  trusts\n         affecting such trust estates then subsisting, and capable of taking\n         effect."
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Registration with power of disposition to lesser number of joint",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Registration with power of disposition to lesser number of joint",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 59",
+      "text": "owners\n         Whenever any land is brought or dealt with under the provisions  of\n         the Land Title Act 2000, the application  or  instrument  affecting\n         the same may require the registration  consequent  thereon,  if  in\n         favour of 2 or more persons, to be made with the  addition  of  the\n         words \"with power of disposition to any\" less number of \"registered\n         proprietors\" to be specified in such application or instrument, and\n         thereupon the Registrar-General shall include in  the  registration\n         the words desired, and thereafter, whilst such  registration  shall\n         continue, the number of registered proprietors so specified  whilst\n         registered with others as joint owners may deal with and dispose of\n         the registered estate or interest as if  they  were  registered  as\n         sole proprietors thereof."
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Form of memorandum of appointment of new trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Form of memorandum of appointment of new trustee",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 60",
+      "text": "A memorandum of the appointment of a new trustee  for  registration\n         under this Act shall be in the form prescribed under the Land Title\n         Act 2000 for the registration of the appointment of a  new  trustee\n         and shall satisfy the requirements of that Act in respect  of  that\n         form."
+    },
+    {
+      "key": "section:63",
+      "title": "Section 63 - Preservation of powers of Registrar-General",
+      "main_structural_unit": "section",
+      "main_structural_number": "63",
+      "main_structural_heading": "Preservation of powers of Registrar-General",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 63",
+      "text": "Nothing in this part of this Act contained, or thereby  implied  or\n         to be done in pursuance thereof, shall be construed to  affect  the\n         title of any registered proprietor with notice  of  any  trust,  or\n         otherwise to limit the right of any registered proprietor  to  deal\n         with the estate or interest of which he  is  registered  proprietor\n         for all the purposes of the Land Title Act 2000, as absolute owner,\n         or to defeat, limit, or prejudice any power or discretion vested in\n         the Registrar-General under the Land Title Act 2000, but  all  such\n         powers and discretions may be exercised  by  the  Registrar-General\n         with reference to proceedings under this Act; and for  the  purpose\n         of such proceedings this part of this  Act  shall  be  incorporated\n         with the Land Title Act 2000, and all persons shall be  subject  to\n         the provisions thereof."
+    },
+    {
+      "key": "section:64",
+      "title": "Section 64 - Preservation of liability of trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "64",
+      "main_structural_heading": "Preservation of liability of trustee",
+      "defined_term": null,
+      "structure_path": "Part IV Special provisions as to appointment of new trustees > Section 64",
+      "text": "Nothing in this Part of this Act contained, or thereby  implied  or\n         to be done in pursuance thereof, shall release any trustee from any\n         liability for any breach of trust.\nPart V      Miscellaneous and supplemental"
+    },
+    {
+      "key": "section:66",
+      "title": "Section 66 - Commission concerning person of unsound mind",
+      "main_structural_unit": "section",
+      "main_structural_number": "66",
+      "main_structural_heading": "Commission concerning person of unsound mind",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 66",
+      "text": "Upon any petition being presented under this  Act  to  the  Supreme\n         Court concerning a person of unsound mind, the Court may  direct  a\n         commission in the nature of a writ deÂ lunatico inquirendo to  issue\n         as to such person,  and  may  postpone  making  an  order  on  such\n         petition until after the return to the commission."
+    },
+    {
+      "key": "section:67",
+      "title": "Section 67 - Provisions of Act in addition to unrepealed acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "67",
+      "main_structural_heading": "Provisions of Act in addition to unrepealed acts",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 67",
+      "text": "The provisions of  this  Act  are  in  addition  to  those  of  any\n         enactment not hereby repealed."
+    },
+    {
+      "key": "section:68",
+      "title": "Section 68 - Application to trustee under settled estates Act of provisions as to",
+      "main_structural_unit": "section",
+      "main_structural_number": "68",
+      "main_structural_heading": "Application to trustee under settled estates Act of provisions as to",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 68",
+      "text": "appointment of trustees\n      (1)   All the  powers  and  provisions  contained  in  this  Act  with\n         reference to the appointment of new trustees, and the discharge and\n         retirement of trustees, are to apply to and  include  trustees  for\n         the purposes of \"The Settled Estates Act,Â 1880,\" whether  occurring\n         before or after the repeal of that Act by the Law of  Property  Act\n         2000.\n      (2)   This section applies and is to have effect with  respect  to  an\n         appointment or a discharge and retirement of trustees taking  place\n         before as well as after the commencement of this Act.\n      (3)    This  section  is  not  to  render  invalid  or  prejudice  any\n         appointment or any discharge and retirement  of  trustees  effected\n         before the passing of this Act."
+    },
+    {
+      "key": "section:69",
+      "title": "Section 69 - Settled estates",
+      "main_structural_unit": "section",
+      "main_structural_number": "69",
+      "main_structural_heading": "Settled estates",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 69",
+      "text": "(1)   For the purposes of this section:\n         (a)      \"settled land  to  which  The  Settled  Estates  Act  1880\n             applied\" means  all  hereditaments  of  any  tenure,  and  all\n             estates or interests in any such hereditaments  that  are  the\n             subject of a settlement; and\n         (b)      \"settlement\" means an Act of Parliament, deed,  agreement,\n             will or other instrument, or any number of  such  instruments,\n             under or by virtue of which any hereditaments of any tenure or\n             any estates or  interests  in  any  such  hereditaments  stand\n             limited to or in trust for any persons by way  of  succession,\n             including any such instruments affecting the  estates  of  any\n             one or more of such persons exclusively.\n      (2)   If there is settled land to which The Settled Estates  Act  1880\n         applied in the Territory, on the commencement of this section:\n         (a)      if the land is settled on trust â the provisions  of  this\n             Act apply to the trustee or trustees;\n         (b)      if the land is not held on trust â the tenant for life  is\n             to be taken to be a trustee and the  provisions  of  this  Act\n             apply accordingly;\n         (c)       a  future  interest  in  the  land  takes  effect  as  an\n             equitable, not a legal, interest; and\n         (d)      a person who holds an  equitable  interest  in  the  land,\n             whether by virtue of paragraph (c)  or  otherwise,  is  to  be\n             taken to be a beneficiary for the purposes of this Act."
+    },
+    {
+      "key": "section:73",
+      "title": "Section 73 - Power of Court to sell interest of Crown in real estate",
+      "main_structural_unit": "section",
+      "main_structural_number": "73",
+      "main_structural_heading": "Power of Court to sell interest of Crown in real estate",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 73",
+      "text": "(1)   Where in any proceeding, ex parte or otherwise,  it  appears  to\n         the Supreme Court that the Crown is entitled to  any  hereditament,\n         corporeal or incorporeal, or to any  estate,  legal  or  equitable,\n         therein, the Court may, on the application or with the  consent  of\n         the Minister, notwithstanding that no office has been found and  no\n         commission issued, order a sale of  the  hereditament,  estate,  or\n         interest; and the net  proceeds  of  such  sale,  or  such  portion\n         thereof as represents the interest of the Crown, shall be paid into\n         the Northern Territory Government Account.\n      (2)   The Supreme Court on any such sale may  make  an  order  vesting\n         the hereditament, estate or interest in the purchaser or  requiring\n         the person in whom it is vested or deemed to be vested to convey it\n         to the purchaser.\n      (3)   A person who claims to be entitled to any moneys paid  into  the\n         Northern Territory Government Account under this section may  apply\n         to the Court for an order declaring him to be so entitled  and,  if\n         the Court is satisfied that the  applicant  is  entitled  to  those\n         moneys or a part of those moneys, it may make an order accordingly.\n      (4)   Upon receipt by the Minister of  an  office  copy  of  an  order\n         under subsection (3), the Minister shall authorize payment  to  the\n         person in whose favour the order was made the amount  specified  in\n         the order out of moneys lawfully available for the purpose."
+    },
+    {
+      "key": "section:75",
+      "title": "Section 75 - Definition of intestacy",
+      "main_structural_unit": "section",
+      "main_structural_number": "75",
+      "main_structural_heading": "Definition of intestacy",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 75",
+      "text": "Where any beneficial interest in real estate or land of a  deceased\n         person, whether the estate or  interest  of  such  deceased  person\n         therein was legal or equitable, is owing  to  the  failure  of  the\n         objects of the devise or other circumstances  happening  before  or\n         after the death of such person in whole or in part not  effectually\n         disposed of, such person shall be deemed for the purposes  of  this\n         part of this Act to have died intestate in respect of such part  of\n         the said beneficial interest as if ineffectually disposed of."
+    },
+    {
+      "key": "section:78",
+      "title": "Section 78 - Trustee's remuneration",
+      "main_structural_unit": "section",
+      "main_structural_number": "78",
+      "main_structural_heading": "Trustee's remuneration",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 78",
+      "text": "The Court may allow to a trustee out of the trust property, for his\n         pains  and  trouble,  either  periodically   or   otherwise,   such\n         commission or other remuneration, not exceeding 5%,  as  it  thinks\n         just and reasonable."
+    },
+    {
+      "key": "section:80",
+      "title": "Section 80 - Indemnity",
+      "main_structural_unit": "section",
+      "main_structural_number": "80",
+      "main_structural_heading": "Indemnity",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 80",
+      "text": "This Act, and every order purporting to be  made  under  this  Act,\n         shall be a complete indemnity to all companies and persons for  any\n         acts done pursuant thereto; and it shall not be necessary  for  any\n         company or person to inquire concerning the propriety of the order,\n         or whether the Court by which it was made had jurisdiction to  make\n         the same."
+    },
+    {
+      "key": "section:81",
+      "title": "Section 81 - Act to apply to Land Title Act 2000",
+      "main_structural_unit": "section",
+      "main_structural_number": "81",
+      "main_structural_heading": "Act to apply to Land Title Act 2000",
+      "defined_term": null,
+      "structure_path": "Part V Miscellaneous and supplemental > Section 81",
+      "text": "Notwithstanding the provisions of the Land Title Act 2000 this  Act\n         shall apply to land subject to the provisions of such Act, but only\n         to the extent necessary for carrying out the purposes of this Act."
+    },
+    {
+      "key": "section:82.term:trustee",
+      "title": "Section 82 Definitions \"trustee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "82",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"trustee\"",
+      "structure_path": "Part V Miscellaneous and supplemental > Section 82",
+      "text": "\"trustee\" includes a representative of a deceased person.\n         valuer has the same meaning as in the Valuation of Land Act 1963.\nSchedules\nFirst Schedule\n|No. of Act      |Title                     |Extent of Repeal     |\n|No.Â 7 of 1855-6 |The Trustee Act, 1855     |Sections 2 to 47     |\n|                |                          |inclusive            |\n|No.Â 6 of 1860   |The Property Act of 1860  |Sections 24 to 30    |\n|                |                          |inclusive            |\n|No.Â 7 of 1862   |An Act to give to         |Sections 1 to 9      |\n|                |Trustees, Mortgagees, and |inclusive, sections  |\n|                |others, certain powers now|23 toÂ 31 inclusive   |\n|                |commonly inserted in      |                     |\n|                |Settlements, Mortgages,   |                     |\n|                |and Wills                 |                     |\n|No. 14 of 1866-7|The Limitations of Suits  |Section 26           |\n|                |and Actions Act, 1866     |                     |\n|No. 523 of 1891 |The Trustees Appointment  |The whole            |\n|                |Act 1891                  |                     |\nSecond Schedule\n                   SouthÂ AustralianÂ GovernmentÂ Securities\nNo.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â [RoyalÂ Arms]Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â\nÂ Â Â Â Â Â Â Â No.\n                  (Authorized by \"The Trustee Act, 1893.\")\n      I, the Treasurer of the Province of South Australia, in  consideration\nof the sum of Â Â Â Â Â Â Â Â Â Â Â Â  dollars,  paid  to  me  for  public  purposes  by\nÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  do hereby bind myself to pay to the  holder  for  the\ntime being of this bond the sum of Â Â Â Â Â Â Â Â Â dollars and interest thereon  at\nthe rate of 4% per annum; such interest to be  payable  on  1  April  and  1\nOctober in every year, and the principal to be paid  on  the  first  day  of\nÂ Â Â Â Â Â Â Â Â Â , in the year one thousand nine hundred andÂ Â Â Â Â .\n      Sealed with my seal.  Dated the Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â   day  of  Â Â Â Â Â Â Â Â Â Â Â\none thousand eight hundred and Â Â Â Â Â Â Â Â Â Â .\n      Signed, sealed, and delivered in  )\n            the presence ofÂ Â Â Â Â Â Â Â Â Â Â Â Â      )\nThird Schedule\n                         AppointmentÂ ofÂ NewÂ Trustees\n      Pursuant to Part IV of \"The Trustee  Act,  1893,\"  we  [here  set  out\nnames, addresses, and occupations], being persons entitled to  exercise  and\nexercising the power of appointing new trustees  of  the  trust  hereinafter\nreferred  to,  do  hereby  appoint  [here  set  out  names,  addresses   and\noccupations of new trustees], to be new trustees (here if  necessary  insert\njointly with) [here insert names, addresses,  and  occupations  of  the  old\ncontinuing trustees] of the trust constituted under [here  set  out  shortly\nparticulars of the instrument creating the trust, including date,  and  name\nof person by whom trust was created], and we the said [here insert names  of\nnew trustees] do hereby accept the said trusteeship.\n      Dated this Â Â Â Â Â Â Â Â Â Â Â Â Â Â  day of Â Â Â Â Â Â Â Â Â Â Â Â Â , 18Â Â .\n            [To be signed by the persons exercising the power\n            of appointment, and by the new trustees, and to be attested.]\nThe Trustee Act, 1907\n         An Act to amend \"The Trustee Act, 1893.\"\nSection 1 Short title and application\n      (1)   This Act may be cited as \"The Trustee Act, 1907,\" and  shall  be\n         incorporated with \"The Trustee Act, 1893,\" and the 2  Acts  may  be\n         cited together as \"The Trustee Acts, 1893 and 1907.\"\n      (2)   This Act, except sections 2, 6, and 7, applies  only  to  trusts\n         created after the passing of this Act.\nInvestments\nSection 2 Power to take mortgage for part purchase-money\n         A trustee on the sale of trust property may leave unpaid  purchase-\n         money thereof invested upon the security of the  property  sold  to\n         the extent to which, were the trustee not the vendor thereof,  such\n         property would be a proper security for the investment of the trust\n         funds.\nVarious powers and liabilities\nSection 3 Trustee's power of delegation\n      (1)   A trustee who, for the time being, is or is about to  be  absent\n         from South Australia  may,  if  not  expressly  prohibited  by  the\n         instrument creating the trust, with the consent of  his  co-trustee\n         (if any), by power of attorney, under seal, delegate,  for  a  term\n         not exceeding 12 calendar months from the date  of  such  power  of\n         attorney, to any person or persons residing in South Australia, all\n         or any of the powers, authorities, and discretions vested  in  such\n         trustee.\n       (2)    Every  deed,  act,  matter,  and  thing  executed,  done,  and\n         performed by such attorney or  attorneys  shall  be  as  valid  and\n         effectual as if executed, done, and performed by the trustee.\n      (3)   A trustee appointing any  attorney  or  attorneys  as  aforesaid\n         shall be liable for the acts and defaults of every such attorney as\n         if they were his own acts and defaults.\n      (4)   Nothing in this section shall be deemed to limit or  affect  any\n         power of appointing a new trustee in the place of a trustee  absent\n         from South Australia, or the power of the Supreme Court to make any\n         order by reason of such absence.\nSection 4 Revocation of power of attorney not effectual  as  against  person  in\n         ignorance\n         No  revocation  of  any  such  power  of  attorney,  including  any\n         revocation or avoidance by operation of law, shall be effectual  as\n         against any person dealing in good  faith  with  such  attorney  in\n         ignorance of such revocation.\nSection 5 Trustees bank account\n      (1)   Trustees, unless  prohibited  by  the  instrument  creating  the\n         trust, and, if expressly authorized by the power of attorney so  to\n         do, their attorneys, appointed under section 3 of this Act, may, by\n         writing signed by them, authorize any bank to honor cheques, bills,\n         promissory notes, and drafts drawn upon or made payable out of  the\n         banking account of the trust by any one or more of such trustees or\n         attorneys, and to honor the indorsement of any one or more of  such\n         trustees or attorneys upon any cheque, bill,  promissory  note,  or\n         draft payable to the order of the trustees, and also to pay to  any\n         one or more of such trustees or attorneys, whether before or  after\n         maturity, all or any portion  of  any  moneys  deposited  on  fixed\n         deposit.\n      (2)   Every trustee who, in person or by attorney, gives or  joins  in\n         giving any such authority shall be liable for the acts and defaults\n         of every trustee or attorney acting thereunder as if they were  his\n         own acts and defaults.\n      (3)   No revocation of any such authority,  including  any  revocation\n         or avoidance by operation of law, shall be effectual as against any\n         banker acting or paying money in good faith under or  in  pursuance\n         of such authority in ignorance of such revocation.\nSection 6 Trustee may sell land with consent of Court\n         With  the  consent  of  the  Court,  and  notwithstanding  anything\n         contained in Act No. 10 of 1847,  or  any  reservation  or  proviso\n         contained in the land grants of  land  granted  for  ecclesiastical\n         purposes to be held in conformity with the said Act,  the  trustees\n         in whom the legal estate of such land shall be  vested  shall  have\n         power to sell the land.\nPowers of the Court\nSection 7 Power for Court to authorize purchase of trust property by trustee\n         Where there is a trust for sale or power of sale the Supreme  Court\n         may, on the application, ex parte or otherwise, of a trustee, or of\n         a beneficiary interested in the trust property, or  of  the  Public\n         Trustee, or a next friend on behalf of such a beneficiary  not  sui\n         juris, upon being satisfied that such sale will be advantageous  to\n         the beneficiaries, authorize a sale of trust property by a  trustee\n         to himself,  unless  such  sale  be  expressly  prohibited  by  the\n         instrument creating the trust.\nSection 8 Accounts to be filed by trustees when required\n         Every executor and trustee shall, if so required by and at the cost\n         of any beneficiary requiring the same, file annually in the Supreme\n         Court an account of his administration of  the  testator's  estate;\n         and the Public Trustee shall, on the request of a  majority  or  of\n         half of the beneficiaries and at their cost, audit the accounts  so\n         filed."
+    }
+  ]
+}

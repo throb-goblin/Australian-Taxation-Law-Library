@@ -1,0 +1,552 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/vca2002174/",
+    "source": "Venture Capital Act 2002 (100000195).txt",
+    "filename": "Venture Capital Act 2002 (100000195).json",
+    "name": "Venture Capital Act 2002",
+    "citation": "Venture Capital Act 2002"
+  },
+  "chunks": [
+    {
+      "key": "section:1-1",
+      "title": "Section 1-1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 1--Preliminary > Section 1-1",
+      "text": "This Act may be cited as the Venture Capital Act 2002."
+    },
+    {
+      "key": "section:1-5",
+      "title": "Section 1-5 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-5",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 1--Preliminary > Section 1-5",
+      "text": "This Act commences on the day on which it receives the Royal Assent."
+    },
+    {
+      "key": "section:1-10",
+      "title": "Section 1-10 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-10",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 1--Preliminary > Section 1-10",
+      "text": "(1) An expression has the same meaning in this Act as in the Income Tax Assessment Act 1997.\n (2) Division 950 of the Income Tax Assessment Act 1997 (which contains rules for interpreting that Act) applies to this Act as if the provisions of this Act were provisions of the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:1-15",
+      "title": "Section 1-15 - Identifying defined terms",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-15",
+      "main_structural_heading": "Identifying defined terms",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 1--Preliminary > Section 1-15",
+      "text": "(1) Many of the terms in this Act are defined in the Dictionary, starting at section  995-1, to the Income Tax Assessment Act 1997.\n (2) Most of the terms that are defined in that Dictionary are identified by an asterisk appearing at the start of the term: as in  *Industry Innovation and Science Australia. The footnote with the asterisk contains a signpost to that Dictionary.\n (3) An asterisk usually identifies the first occurrence of a term in a section (if not divided into subsections), subsection or definition. Later occurrences of the term in the same provision are not usually asterisked.\n (4) Terms are not asterisked in headings, notes, examples, explanatory tables, guides, outline provisions or diagrams.\n (5) If a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision."
+    },
+    {
+      "key": "section:3-1",
+      "title": "Section 3-1 - What this Act is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-1",
+      "main_structural_heading": "What this Act is about",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--A guide to this Act > Section 3-1",
+      "text": "This Act provides for some administrative measures that are needed for the operation of:\n (a) the capital gains tax exemption relating to venture capital under Subdivision  118-F of the Income Tax Assessment Act 1997 (and the related provisions about similar income gains and losses); and\n (b) the &quot;flow-through&quot; treatment, under Division  5 of Part III of the Income Tax Assessment Act 1936, of the income of limited partnerships that are used as vehicles for making venture capital investments.\nNote: Industry Innovation and Science Australia is responsible for the operation of these measures. The Industry Research and Development Act 1986 provides for the establishment and operation of Industry Innovation and Science Australia."
+    },
+    {
+      "key": "section:3-5",
+      "title": "Section 3-5 - Registration of limited partnerships (Part 2)",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-5",
+      "main_structural_heading": "Registration of limited partnerships (Part 2)",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--A guide to this Act > Section 3-5",
+      "text": "Part 2 provides for:\n (a) the registration requirements for venture capital limited partnerships, early stage venture capital limited partnerships and Australian venture capital funds of funds; and\n (b) applications for registration; and\n (c) registration of limited partnerships by Industry Innovation and Science Australia, including conditional registration; and\n (d) the obligations imposed on general partners of partnerships that are registered; and\n (e) revocation of registration."
+    },
+    {
+      "key": "section:3-10",
+      "title": "Section 3-10 - Registration of eligible venture capital investors (Part 3)",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-10",
+      "main_structural_heading": "Registration of eligible venture capital investors (Part 3)",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--A guide to this Act > Section 3-10",
+      "text": "Part 3 provides for registration of entities as eligible venture capital investors, their obligations while registered, and revocation of registration."
+    },
+    {
+      "key": "section:3-15",
+      "title": "Section 3-15 - Determinations by Industry Innovation and Science Australia concerning certain investments (Part 4)",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-15",
+      "main_structural_heading": "Determinations by Industry Innovation and Science Australia concerning certain investments (Part 4)",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--A guide to this Act > Section 3-15",
+      "text": "Part 4 provides for Industry Innovation and Science Australia to make determinations that are relevant to whether certain investments can be eligible venture capital investments."
+    },
+    {
+      "key": "section:3-20",
+      "title": "Section 3-20 - Review of decisions (Part 5)",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-20",
+      "main_structural_heading": "Review of decisions (Part 5)",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--A guide to this Act > Section 3-20",
+      "text": "Part 5 provides for review of Industry Innovation and Science Australia&#39;s decisions under this Act."
+    },
+    {
+      "key": "section:3-25",
+      "title": "Section 3-25 - Miscellaneous (Part 6)",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-25",
+      "main_structural_heading": "Miscellaneous (Part 6)",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Division 3--A guide to this Act > Section 3-25",
+      "text": "Part 6 deals with miscellaneous matters."
+    },
+    {
+      "key": "section:7-1",
+      "title": "Section 7-1 - What this Part is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "7-1",
+      "main_structural_heading": "What this Part is about",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 7--A guide to this Part > Section 7-1",
+      "text": "Industry Innovation and Science Australia can register limited partnerships as venture capital limited partnerships, early stage venture capital limited partnerships or Australian venture capital funds of funds.Registration is one of the requirements before investments of venture capital through a limited partnership can attract the operation of:&bull;  the capital gains tax exemption relating to venture capital under Subdivision 118-F of the Income Tax Assessment Act 1997 (and the related provisions about similar income gains and losses); and&bull;  the income tax exemption under section 51-52 of the Income Tax Assessment Act 1997 (if the partnership is an early stage venture capital limited partnership); and&bull;  the &quot;flow-through&quot; treatment, under Division 5 of Part III of the Income Tax Assessment Act 1936 , of the income of limited partnerships.Broadly speaking, Industry Innovation and Science Australia will register a limited partnership under Division  13 if an application meets the requirements of Division 11, unless Industry Innovation and Science Australia is satisfied that the partnership does not meet the applicable registration requirements of Division  9.Conditional registration is an option if an application does not meet the requirements of Division  11. Note: Conditional registration becomes important if full registration is achieved. Registration is then backdated at least to the time of conditional registration.Industry Innovation and Science Australia can revoke a registration under Division 17. Broadly speaking, the grounds for revocation are:&bull;  failure to meet the applicable registration requirements of Division 9; and&bull;  failure to provide information as required under Division 15.\nTable of sections\nSection 9-1 Registration requirements of VCLPs\nSection 9-3 Registration requirements of ESVCLPs\nSection 9-4 Allowing a partner&#39;s committed capital to exceed the 30% limit\nSection 9-5 Registration requirements of AFOFs\nSection 9-10 Meaning of permitted loan"
+    },
+    {
+      "key": "section:9-1",
+      "title": "Section 9-1 - Registration requirements of VCLPs",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-1",
+      "main_structural_heading": "Registration requirements of VCLPs",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 9--Registration requirements > Section 9-1",
+      "text": "(1) The registration requirements of a VCLP, in relation to a *limited partnership, are that:\n (a) the partnership was established by or under a law in force in, or in any part of:\n (i) Australia; or\n (ii) a foreign country in respect of which a double tax agreement (as defined in Part  X of the Income Tax Assessment Act 1936) is in force that is an agreement of a kind referred to in subparagraph  (b)(i), (ia), (ii), (iii), (iv) or (v) of that definition; and\n (b) all of the partners who are *general partners are residents of a country referred to in paragraph (a); and\n (c) under the partnership agreement the partnership is to remain in existence for a period of not less than 5 years and not more than 15 years; and\n (d) the partnership&#39;s *committed capital is at least $10 million; and\n (e) each investment that the partnership holds is:\n (i) an *eligible venture capital investment; or\n (ii) an investment in a company, in which the partnership owns one or more eligible venture capital investments, that would have been an eligible venture capital investment but for subsections  118-425(2) and (6) of the Income Tax Assessment Act 1997; or\n (iii) an investment in a unit trust, in which the partnership owns one or more eligible venture capital investments, that would have been an eligible venture capital investment but for subsections  118-427(3) and (7) of the Income Tax Assessment Act 1997; and\n (f) the partnership only carries on activities that are related to making *eligible venture capital investments, investments to which subparagraph (e)(ii) applies or investments to which subparagraph  (e)(iii) applies; and\n (g) every *debt interest that the partnership owns is, and continues to be, a *permitted loan.\n (2) The requirements in paragraphs  (1)(e), (f) and (g) are investment registration requirements."
+    },
+    {
+      "key": "section:9-3",
+      "title": "Section 9-3 - Registration requirements of ESVCLPs",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-3",
+      "main_structural_heading": "Registration requirements of ESVCLPs",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 9--Registration requirements > Section 9-3",
+      "text": "(1) The registration requirements of an ESVCLP, in relation to a *limited partnership, are that:\n (a) the partnership was established by or under a law in force in, or in any part of:\n (i) Australia; or\n (ii) a foreign country in respect of which a double tax agreement (as defined in Part  X of the Income Tax Assessment Act 1936) is in force that is an agreement of a kind referred to in subparagraph  (b)(i), (ia), (ii), (iii), (iv) or (v) of that definition; and\n (b) all of the partners who are *general partners are residents of a country referred to in paragraph (a); and\n (c) under the partnership agreement the partnership is to remain in existence for a period of not less than 5 years and not more than 15 years; and\n (d) the partnership&#39;s *committed capital:\n (i) is at least $10 million; and\n (ii) does not exceed $200 million; and\n (e) none of the partners has *committed capital in the partnership that, taken together with the sum of the amounts of committed capital in the partnership of any of that partner&#39;s *associates (other than associates to whom subsection (5) applies), exceeds 30% of the partnership&#39;s committed capital; and\n (f) each investment that the partnership holds is:\n (i) an *eligible venture capital investment; or\n (ii) an investment in a company, in which the partnership owns one or more eligible venture capital investments, that would have been an eligible venture capital investment but for subsections  118-425(2) and (6) of the Income Tax Assessment Act 1997; or\n (iii) an investment in a unit trust, in which the partnership owns one or more eligible venture capital investments, that would have been an eligible venture capital investment but for subsections  118-427(3) and (7) of the Income Tax Assessment Act 1997; and\n (g) each investment that the partnership holds is in accordance with the partnership&#39;s *approved investment plan; and\n (h) the partnership acts in accordance with the partnership&#39;s approved investment plan; and\n (j) the partnership only carries on activities that are related to making eligible venture capital investments, investments to which subparagraph  (f)(ii) applies or investments to which subparagraph (f)(iii) applies; and\n (k) every *debt interest that the partnership owns is, and continues to be, a *permitted loan.\n (2) The requirements in paragraphs  (1)(e), (f), (g), (h), (j) and (k) are investment registration requirements.\n (4) Paragraph (1)(e) does not apply in relation to a particular partner&#39;s *committed capital in the partnership if:\n (a) *Industry Innovation and Science Australia allows, under section 9-4, the partner&#39;s committed capital in the partnership to exceed 30% of the partnership&#39;s committed capital; or\n (b) subsection (5) applies to the partner.\n (5) This subsection applies to:\n (a) an *ADI; or\n (b) a *life insurance company; or\n (c) a public authority:\n (i) that is constituted by a law of a State or internal Territory; and\n (ii) that carries on life insurance business within the meaning of section  11 of the Life Insurance Act 1995; or\n (d) a widely-held complying superannuation fund within the meaning of section  4A of the Pooled Development Funds Act 1992; or\n (e) a *widely held foreign venture capital fund of funds."
+    },
+    {
+      "key": "section:9-4",
+      "title": "Section 9-4 - Allowing a partner&#39;s committed capital to exceed the 30% limit",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-4",
+      "main_structural_heading": "Allowing a partner&#39;s committed capital to exceed the 30% limit",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 9--Registration requirements > Section 9-4",
+      "text": "(1) *Industry Innovation and Science Australia may, on the application of a partner of a partnership, make a decision allowing the partner&#39;s committed capital in the partnership to exceed 30% of the partnership&#39;s committed capital.\n (2) The application must be in the *form approved by Industry Innovation and Science Australia.\n (3) In considering whether to make such a decision, *Industry Innovation and Science Australia must apply the principles specified under subsection (4).\n (4) *Industry Innovation and Science Australia may, by legislative instrument, make principles about making decisions under this section.\n (5) If *Industry Innovation and Science Australia makes a decision under this section, Industry Innovation and Science Australia must notify the *general partner as soon as practicable after the decision is made.\n (6) If *Industry Innovation and Science Australia refuses to make a decision allowing the partner&#39;s committed capital in the partnership to exceed 30% of the partnership&#39;s committed capital, Industry Innovation and Science Australia must:\n (a) notify the *general partner as soon as practicable after the refusal; and\n (b) provide reasons for the refusal."
+    },
+    {
+      "key": "section:9-5",
+      "title": "Section 9-5 - Registration requirements of AFOFs",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-5",
+      "main_structural_heading": "Registration requirements of AFOFs",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 9--Registration requirements > Section 9-5",
+      "text": "(1) The registration requirements of an AFOF, in relation to a *limited partnership, are that:\n (a) the partnership is established by or under the law of a State or Territory; and\n (b) all of the partners who are *general partners are *Australian residents; and\n (c) under the partnership agreement, the partnership is to remain in existence for a period of not less than 5 years and not more than 20 years; and\n (d) each investment that the partnership owns is:\n (i) an investment in a *VCLP or an *ESVCLP; or\n (ii) an *eligible venture capital investment in a company or unit trust in which a VCLP or an ESVCLP, of which the partnership is a partner, owns one or more eligible venture capital investments; or\n (iii) an investment in a company referred to in subparagraph  (ii) that would have been an eligible venture capital investment but for subsections 118-425(2) and (6) of the Income Tax Assessment Act 1997; or\n (iv) an investment in a unit trust referred to in subparagraph  (ii) that would have been an eligible venture capital investment but for subsections 118-427(3) and (7) of the Income Tax Assessment Act 1997; and\n (e) the partnership only carries on activities that are related to making eligible venture capital investments, investments to which subparagraph  (d)(iii) applies or investments to which subparagraph (d)(iv) applies, or investing in VCLPs or ESVCLPs; and\n (f) every *debt interest that the partnership owns is, and continues to be, a *permitted loan.\n (2) The requirements in paragraphs  (1)(d), (e) and (f) are investment registration requirements."
+    },
+    {
+      "key": "section:9-10",
+      "title": "Section 9-10 - Meaning of permitted loan",
+      "main_structural_unit": "section",
+      "main_structural_number": "9-10",
+      "main_structural_heading": "Meaning of permitted loan",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 9--Registration requirements > Section 9-10",
+      "text": "(1) A debt interest is a permitted loan if:\n (a) it is a loan made to a *company and the sum of:\n (i) the *equity interests that the partnership owns in the company; and\n (ii) any debt interests that the partnership owns in the company that can be converted into equity interests in the company;\n  is at least 10% of the sum of:\n (iii) all of the equity interests in the company; and\n (iv) all of the debt interests in the company that can be converted into equity interests in the company;\n  and the company meets the requirements of subsections  118-425(2) to (7) of the Income Tax Assessment Act 1997 in relation to the investments referred to in subparagraphs  (i) and (ii); or\n (aa) it is a loan made to a unit trust and the sum of:\n (i) the *equity interests that the partnership owns in the unit trust; and\n (ii) any *debt interests that the partnership owns in the unit trust that can be converted into equity interests in the unit trust;\n  is at least 10% of the sum of:\n (iii) all of the equity interests in the unit trust; and\n (iv) all of the debt interests in the unit trust that can be converted into equity interests in the unit trust;\n  and the unit trust meets the requirements of subsections  118-427(3) to (8) of the Income Tax Assessment Act 1997 in relation to the investments referred to in subparagraphs  (i) and (ii); or\n (b) it is repaid within 6 months, or such longer period as *Industry Innovation and Science Australia allows under subsection (3).\n (2) A *general partner may apply to *Industry Innovation and Science Australia, in the *form approved by Industry Innovation and Science Australia, for Industry Innovation and Science Australia to allow a longer period for the purposes of paragraph  (1)(b).\n (3) *Industry Innovation and Science Australia may, for the purposes of paragraph (1)(b), allow a longer period if Industry Innovation and Science Australia is satisfied that:\n (a) there are exceptional circumstances; and\n (b) the extended period is no longer than reasonably necessary.\nTable of sections\nSection 11-1 Application for registration\nSection 11-5 Determination of further information to be included in application\nSection 11-10 Further information may be requested\nSection 11-15 Period within which application must be decided"
+    },
+    {
+      "key": "section:11-1",
+      "title": "Section 11-1 - Application for registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "11-1",
+      "main_structural_heading": "Application for registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 11--Application for registration > Section 11-1",
+      "text": "(1) A *general partner of a *limited partnership may apply, in the *form approved by Industry Innovation and Science Australia, to *Industry Innovation and Science Australia for registration of the partnership as a *VCLP, an *ESVCLP or an *AFOF under this Part.\n (2) An application must be in writing, and must include the following information:\n (a) the name and residency status of, and the relevant qualifications and experience of, each *general partner;\n (b) the name, address and residency status of each *limited partner;\n (c) for each general partner that is a *company--the address of the general partner&#39;s registered office;\n (d) for each general partner who is an individual--the general partner&#39;s business address;\n (e) the partnership&#39;s business address;\n (f) a copy of the partnership agreement, which must:\n (i) require partners to contribute their *committed capital as and when required under the agreement; and\n (ii) prohibit the addition of new partners to the partnership except as provided for in the agreement; and\n (iii) prohibit increases in the partnership&#39;s committed capital except as provided for in the agreement; and\n (iv) confer on a general partner the right to require partners to contribute their committed capital to the partnership; and\n (v) include a plan which outlines the partnership&#39;s future intended investment activities;\n (g) any documents that were issued inviting investment in the partnership;\n (h) the amount of each partner&#39;s committed capital in the partnership;\n (i) in relation to each limited partner claiming to be tax exempt in his or her country of residence--details of the facts that qualify the partner to be tax exempt in his or her country of residence;\n (j) if the application is an application for registration as a VCLP--a statement by a general partner as to whether the partnership meets the *registration requirements of a VCLP;\n (ja) if the application is an application for registration as an *ESVCLP--a statement by a general partner as to whether the partnership meets the *registration requirements of an ESVCLP;\n (k) if the application is an application for registration as an AFOF--a statement by a general partner as to whether the partnership meets the *registration requirements of an AFOF;\n (l) such further information as *Industry Innovation and Science Australia determines under section 11-5.\nNote: Part 7.4 of the Criminal Code creates offences for making false and misleading statements, giving false or misleading information and producing false or misleading documents."
+    },
+    {
+      "key": "section:11-5",
+      "title": "Section 11-5 - Determination of further information to be included in application",
+      "main_structural_unit": "section",
+      "main_structural_number": "11-5",
+      "main_structural_heading": "Determination of further information to be included in application",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 11--Application for registration > Section 11-5",
+      "text": "(1) *Industry Innovation and Science Australia may, for the purposes of paragraph 11-1(2)(l), determine, by writing signed by the Chairperson of Industry Innovation and Science Australia pursuant to a resolution of Industry Innovation and Science Australia, that specified information is to be included in the application.\n (2) A determination under this section is a legislative instrument."
+    },
+    {
+      "key": "section:11-10",
+      "title": "Section 11-10 - Further information may be requested",
+      "main_structural_unit": "section",
+      "main_structural_number": "11-10",
+      "main_structural_heading": "Further information may be requested",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 11--Application for registration > Section 11-10",
+      "text": "If *Industry Innovation and Science Australia needs further information to decide an application for registration under this Part, it may ask a *general partner to provide further information."
+    },
+    {
+      "key": "section:11-15",
+      "title": "Section 11-15 - Period within which application must be decided",
+      "main_structural_unit": "section",
+      "main_structural_number": "11-15",
+      "main_structural_heading": "Period within which application must be decided",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 11--Application for registration > Section 11-15",
+      "text": "(1) Subject to this section, *Industry Innovation and Science Australia must decide an application for registration or conditional registration under this Part within 60 days after receiving it.\n (2) If *Industry Innovation and Science Australia thinks that it will take longer to decide the application, Industry Innovation and Science Australia may extend, by up to 60 days, the period for deciding it.\n (3) An extension must be made by written notice given to a *general partner within 60 days after *Industry Innovation and Science Australia receives the application.\n (4) If *Industry Innovation and Science Australia extends the period, Industry Innovation and Science Australia must decide the application within the extended period.\nTable of sections\nSection 13-1 Registration\nSection 13-5 Conditional registration\nSection 13-10 When registration is in force\nSection 13-15 An ESVCLP&#39;s approved investment plan\nSection 13-20 Deciding whether investment plans are appropriate"
+    },
+    {
+      "key": "section:13-1",
+      "title": "Section 13-1 - Registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-1",
+      "main_structural_heading": "Registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 13--Registration > Section 13-1",
+      "text": "(1) *Industry Innovation and Science Australia must register a partnership as a *VCLP under this Part  if:\n (a) a *general partner has applied for registration as a VCLP; and\n (b) the application meets the requirements under section  11-1; and\n (c) any further information requested under section  11-10 has been provided; and\n (d) a general partner has notified Industry Innovation and Science Australia that the VCLP has sufficient funds to begin its investment program;\nunless Industry Innovation and Science Australia is satisfied that the partnership:\n (e) does not meet the *registration requirements of a VCLP; or\n (f) has had a previous registration revoked under Division  17.\n (1A) *Industry Innovation and Science Australia must register a partnership as an *ESVCLP under this Part  if:\n (a) a *general partner has applied for registration as an ESVCLP; and\n (b) the application meets the requirements under section  11-1; and\n (c) Industry Innovation and Science Australia is satisfied that the partnership&#39;s investment plan (as set out in the application or that plan as since approved by Industry Innovation and Science Australia) is appropriate; and\nNote: Section 13-20 deals with deciding whether an investment plan is appropriate.\n (d) Industry Innovation and Science Australia is satisfied that the partnership has access to the skills and resources necessary to implement, and is reasonably likely to be able to implement, its investment plan; and\n (e) any further information requested under section  11-10 has been provided; and\n (f) a general partner has notified Industry Innovation and Science Australia that the ESVCLP has sufficient funds to begin its investment program;\nunless Industry Innovation and Science Australia is satisfied that the partnership:\n (g) does not meet the *registration requirements of an ESVCLP; or\n (h) has had a previous registration revoked under Division  17.\n (2) *Industry Innovation and Science Australia must register a partnership as an *AFOF under this Part  if:\n (a) a *general partner has applied for registration as an AFOF; and\n (b) the application meets the requirements under section  11-1; and\n (c) any further information requested under section  11-10 has been provided; and\n (d) a general partner has notified Industry Innovation and Science Australia that the AFOF has sufficient funds to begin its investment program;\nunless Industry Innovation and Science Australia is satisfied that the partnership:\n (e) does not meet the *registration requirements of an AFOF; or\n (f) has had a previous registration revoked under Division  17.\n (3) If *Industry Innovation and Science Australia decides to register the partnership as a *VCLP, an *ESVCLP or an *AFOF under this Part, Industry Innovation and Science Australia must notify a *general partner of the partnership as soon as practicable after the decision is made.\n (4) If *Industry Innovation and Science Australia decides not to register the partnership as a *VCLP, an *ESVCLP or an *AFOF under this Part, Industry Innovation and Science Australia must:\n (a) notify a *general partner of the partnership as soon as practicable after the decision is made; and\n (b) provide reasons for the decision.\n (5) *Industry Innovation and Science Australia cannot register the partnership:\n (a) both as a *VCLP and as an *ESVCLP; or\n (b) both as a VCLP and as an *AFOF; or\n (c) both as an ESVCLP and as an AFOF; or\n (d) as a VCLP, as an ESVCLP and as an AFOF."
+    },
+    {
+      "key": "section:13-5",
+      "title": "Section 13-5 - Conditional registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-5",
+      "main_structural_heading": "Conditional registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 13--Registration > Section 13-5",
+      "text": "(1) *Industry Innovation and Science Australia may conditionally register the partnership as a *VCLP if:\n (a) a *general partner has applied for registration as a VCLP; and\n (b) one or more of the following applies:\n (i) the application for registration does not meet the requirements under section  11-1;\n (ii) any further information requested under section  11-10 has not been provided;\n (iii) the partnership does not meet the *registration requirements of a VCLP;\nunless Industry Innovation and Science Australia is satisfied that the partnership:\n (c) would not, if it was conditionally registered, meet the registration requirements of a VCLP within the period specified under subsection  13-10(3); or\n (d) has had a previous registration revoked under Division  17.\n (1A) *Industry Innovation and Science Australia may conditionally register the partnership as an *ESVCLP if:\n (a) a *general partner has applied for registration as an ESVCLP; and\n (b) one or more of the following applies:\n (i) the application for registration does not meet the requirements under section  11-1;\n (ii) any further information requested under section  11-10 has not been provided;\n (iii) the partnership does not meet the *registration requirements of an ESVCLP;\nunless Industry Innovation and Science Australia is satisfied that the partnership:\n (c) would not, if it was conditionally registered, meet the registration requirements of an ESVCLP within the period specified under subsection  13-10(3); or\n (d) has had a previous registration revoked under Division  17.\n (2) *Industry Innovation and Science Australia may conditionally register the partnership as an *AFOF if:\n (a) a *general partner has applied for registration as an AFOF; and\n (b) one or more of the following applies:\n (i) the application for registration does not meet the requirements under section  11-1;\n (ii) any further information requested under section  11-10 has not been provided;\n (iii) the partnership does not meet the *registration requirements of an AFOF;\nunless Industry Innovation and Science Australia is satisfied that the partnership:\n (c) would not, if it was conditionally registered, meet the registration requirements of an AFOF within the period specified under subsection  13-10(3); or\n (d) has had a previous registration revoked under Division  17.\n (3) Conditional registration under this section does not mean that the partnership is registered under this Part as a *VCLP, an *ESVCLP or an *AFOF."
+    },
+    {
+      "key": "section:13-10",
+      "title": "Section 13-10 - When registration is in force",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-10",
+      "main_structural_heading": "When registration is in force",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 13--Registration > Section 13-10",
+      "text": "(1) Registration of the partnership as a *VCLP, an *ESVCLP or an *AFOF comes into force on the day on which registration under section  13-1 was granted.\n (2) However, if conditional registration of the partnership had been granted under section  13-5 and was in force on the day on which registration under section 13-1 was granted:\n (a) for the purposes of this Act and the Income Tax Assessment Act 1936, registration of the partnership as a *VCLP, an *ESVCLP or an *AFOF is taken to have come into force on:\n (i) if, since its establishment, the partnership has only carried on activities related to becoming registered as a VCLP, an ESVCLP or an AFOF--the day on which it was established; or\n (ii) otherwise--the day on which the conditional registration was granted;\n  and the partnership is taken, for the purposes of this Act and that Act, to have been *unconditionally registered from the day; and\n (b) for the purposes of the Income Tax Assessment Act 1997:\n (i) registration of the partnership as a VCLP, an ESVCLP or an AFOF is taken to have come into force on the day on which the conditional registration was granted; and\n (ii) the partnership is taken to have been unconditionally registered from the day.\n (3) If a *VCLP, an *ESVCLP or an *AFOF is not registered under section  13-1 within 24 months after the day on which the conditional registration of the partnership was granted under section 13-5, the conditional registration lapses.\n (4) Registration is taken to be in force until revoked under Division  17."
+    },
+    {
+      "key": "section:13-15",
+      "title": "Section 13-15 - An ESVCLP&#39;s approved investment plan",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-15",
+      "main_structural_heading": "An ESVCLP&#39;s approved investment plan",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 13--Registration > Section 13-15",
+      "text": "(1) A notice under subsection  13-1(3) to the effect that *Industry Innovation and Science Australia has decided to register a partnership as an *ESVCLP must specify a document that sets out the investment plan in relation to which Industry Innovation and Science Australia is satisfied as mentioned in paragraph  13-1(1A)(c).\n (2) An *ESVCLP&#39;s approved investment plan is:\n (a) the investment plan set out in the document that the notice under subsection  13-1(3) specifies; or\n (b) if that plan has been replaced under this section, that plan as so replaced.\n (3) A *general partner of an *ESVCLP may, by writing, request Industry Innovation and Science Australia to approve a new plan as a replacement for the ESVCLP&#39;s *approved investment plan.\n (4) The request must state why the *ESVCLP wants the replacement plan.\n (5) If *Industry Innovation and Science Australia is satisfied that the replacement plan is appropriate, it must grant the request and approve the replacement plan.\nNote: Section 13-20 deals with deciding whether a replacement plan is appropriate.\n (6) If *Industry Innovation and Science Australia approves the replacement plan, the ESVCLP&#39;s *approved investment plan is replaced accordingly on the giving of the approval.\n (7) If *Industry Innovation and Science Australia is not satisfied as mentioned in subsection (5), Industry Innovation and Science Australia must refuse the request.\n (8) *Industry Innovation and Science Australia must give the *general partner who made the request written notice of its decision on the request as soon as practicable after the decision is made.\n (9) If *Industry Innovation and Science Australia&#39;s decision is to refuse the request, the notice must also include a statement of its reasons for its decision.\n (10) A failure to comply with subsection  (8) or (9) does not affect the validity of the decision."
+    },
+    {
+      "key": "section:13-20",
+      "title": "Section 13-20 - Deciding whether investment plans are appropriate",
+      "main_structural_unit": "section",
+      "main_structural_number": "13-20",
+      "main_structural_heading": "Deciding whether investment plans are appropriate",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 13--Registration > Section 13-20",
+      "text": "(1) In deciding, for the purposes of paragraph  13-1(1A)(c) or subsection 13-15(5), whether it is satisfied that a partnership&#39;s investment plan, or a replacement for a partnership&#39;s *approved investment plan, is appropriate, *Industry Innovation and Science Australia must take into account the extent to which the partnership focuses on early stage venture capital, having regard to:\n (a) the stages of development of the entities in which the partnership proposes to invest; and\n (b) the levels of cash flow of those entities; and\n (c) the levels of technology of those entities; and\n (d) the proportions of intellectual property to total assets of those entities; and\n (e) the levels of risk and return of those entities; and\n (f) the amount of tangible assets and collateral of those entities against which borrowings may be secured; and\n (g) the requirements of this Act relating to an *ESVCLP making and holding investments; and\n (h) whether the partnership&#39;s *committed capital can only be used in relation to early stage venture capital, and whether it can be transferred to other entities; and\n (i) whether the investment plan is connected with other plans for investment that, if combined with the investment plan, would lead to the partnership exceeding the limit on *committed capital under subparagraph  9-3(1)(d)(ii); and\n (j) any additional matters specified in guidelines made under subsection  (2).\n (2) *Industry Innovation and Science Australia may, by legislative instrument, make guidelines specifying additional matters that it must take into account in deciding, for the purposes of paragraph  13-1(1A)(c) or subsection 13-15(5), whether it is satisfied that:\n (a) a partnership&#39;s investment plan is appropriate; or\n (b) a replacement for a partnership&#39;s *approved investment plan is appropriate;\nas the case requires.\n (3) This section does not limit the matters that *Industry Innovation and Science Australia may take into account in deciding, for the purposes of paragraph 13-1(1A)(c) or subsection  13-15(5), whether it is satisfied that:\n (a) a partnership&#39;s investment plan is appropriate; or\n (b) a replacement for a partnership&#39;s *approved investment plan is appropriate;\nas the case requires.\nTable of sections\nSection 15-1 Annual return\nSection 15-5 Determination of further information to be included in returns\nSection 15-10 Quarterly returns\nSection 15-15 Further information may be requested\nSection 15-17 Annual reports for ESVCLPs\nSection 15-20 Other information may be requested"
+    },
+    {
+      "key": "section:15-1",
+      "title": "Section 15-1 - Annual return",
+      "main_structural_unit": "section",
+      "main_structural_number": "15-1",
+      "main_structural_heading": "Annual return",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 15--Obligations while registered > Section 15-1",
+      "text": "A *general partner of a partnership registered under this Part as a *VCLP, an *ESVCLP or an *AFOF must, within 3 months after the end of each *financial year, give *Industry Innovation and Science Australia a written return that includes the following information:\n (a) the name and address of each partner, and that partner&#39;s residency status at the end of the financial year (including details of changes to that status during the year);\n (b) in relation to each partner claiming to be tax exempt--details of the facts that qualify the partner to be tax exempt in his or her country of residence;\n (c) details of:\n (i) the amount of each partner&#39;s *committed capital in the partnership; and\n (ii) any acquisitions or disposals of a partner&#39;s *equity interests in the partnership during the year including any consideration given or received for that acquisition or disposal;\n (d) details of any variation made to the partnership agreement during the year;\n (e) details of:\n (i) investments the partnership made during that year; and\n (ii) investments the partnership owns at the end of that year; and\n (iii) disposals of investments during that year including any profits derived or losses incurred from that disposal;\n (f) if the partnership is registered under this Part as a VCLP--a statement from a general partner as to whether the partnership met the *registration requirements of a VCLP throughout the financial year;\n (fa) if the partnership is registered under this Part as an ESVCLP--a statement from a general partner as to whether the partnership met the *registration requirements of an ESVCLP throughout the financial year;\n (g) if the partnership is registered under this Part as an AFOF--a statement from a general partner as to whether the partnership met the *registration requirements of an AFOF throughout the financial year;\n (ga) for an investment in a company that the partnership held throughout the financial year--a statement from a general partner as to whether the company met the requirements of subsections  118-425(3), (4), (4A) and (5) of the Income Tax Assessment Act 1997 at all times during that year;\n (gb) for an investment in a unit trust that the partnership held throughout the financial year--a statement from a general partner as to whether the unit trust met the requirements of subsections  118-427(4), (5), (5A) and (6) of the Income Tax Assessment Act 1997 at all times during that year;\n (h) such further information as Industry Innovation and Science Australia determines under section  15-5.\nNote: Part 7.4 of the Criminal Code creates offences for making false or misleading statements, giving false or misleading information and producing false or misleading documents."
+    },
+    {
+      "key": "section:15-5",
+      "title": "Section 15-5 - Determination of further information to be included in returns",
+      "main_structural_unit": "section",
+      "main_structural_number": "15-5",
+      "main_structural_heading": "Determination of further information to be included in returns",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 15--Obligations while registered > Section 15-5",
+      "text": "(1) *Industry Innovation and Science Australia may, for the purposes of paragraph 15-1(h), determine, by writing signed by the Chairperson of Industry Innovation and Science Australia pursuant to a resolution of Industry Innovation and Science Australia, that specified information is to be included in returns.\n (2) A determination under this section is a legislative instrument."
+    },
+    {
+      "key": "section:15-10",
+      "title": "Section 15-10 - Quarterly returns",
+      "main_structural_unit": "section",
+      "main_structural_number": "15-10",
+      "main_structural_heading": "Quarterly returns",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 15--Obligations while registered > Section 15-10",
+      "text": "A*general partner of a partnership registered under this Part as a *VCLP, an *ESVCLP or an *AFOF must, within one month after the end of each *quarter, give *Industry Innovation and Science Australia a written return that includes:\n (a) details of any investments it has made during the quarter, and the consideration given for those investments; and\n (b) details of any disposals of investments during the quarter, and any profit derived or loss incurred from those disposals (including details of how that profit or loss was calculated); and\n (c) for each investment in a company made during the quarter--a statement from a general partner as to whether the company met the requirements of subsections  118-425(3), (4), (4A) and (5) of the Income Tax Assessment Act 1997 at all times during the quarter after the investment was made; and\n (d) for each disposal of an investment in a company during the quarter--a statement from a general partner as to whether the company met the requirements of subsections  118-425(3), (4), (4A) and (5) of the Income Tax Assessment Act 1997 at all times during the quarter up to the day of disposal; and\n (e) for each investment in a unit trust made during the quarter--a statement from a general partner as to whether the unit trust met the requirements of subsections  118-427(4), (5), (5A) and (6) of the Income Tax Assessment Act 1997 at all times during the quarter after the investment was made; and\n (f) for each disposal of an investment in a unit trust during the quarter--a statement from a general partner as to whether the unit trust met those requirements at all times during the quarter up to the day of disposal."
+    },
+    {
+      "key": "section:15-15",
+      "title": "Section 15-15 - Further information may be requested",
+      "main_structural_unit": "section",
+      "main_structural_number": "15-15",
+      "main_structural_heading": "Further information may be requested",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 15--Obligations while registered > Section 15-15",
+      "text": "*Industry Innovation and Science Australia may ask a *general partner of the partnership to provide further information about the investments or disposals notified under section  15-10."
+    },
+    {
+      "key": "section:15-17",
+      "title": "Section 15-17 - Annual reports for ESVCLPs",
+      "main_structural_unit": "section",
+      "main_structural_number": "15-17",
+      "main_structural_heading": "Annual reports for ESVCLPs",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 15--Obligations while registered > Section 15-17",
+      "text": "(1) A *general partner of a partnership registered under this Part as an *ESVCLP must, within 3 months after the end of each *financial year give *Industry Innovation and Science Australia a written report on the implementation of the partnership&#39;s *approved investment plan during the financial year that:\n (a) includes descriptions of any investments the partnership made during the year and any disposals of investments during the year; and\n (b) meets the requirements of any guidelines issued under subsection  (2).\n (2) *Industry Innovation and Science Australia may, by legislative instrument, issue guidelines relating to reports under this section (including the publication of those reports).\n (3) *Industry Innovation and Science Australia must publish reports it receives under subsection (1).\n (4) *Industry Innovation and Science Australia may comply with its obligation under subsection (3) by including copies of those reports in its annual report under section  46 of the Industry Research and Development Act 1986."
+    },
+    {
+      "key": "section:15-20",
+      "title": "Section 15-20 - Other information may be requested",
+      "main_structural_unit": "section",
+      "main_structural_number": "15-20",
+      "main_structural_heading": "Other information may be requested",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 15--Obligations while registered > Section 15-20",
+      "text": "*Industry Innovation and Science Australia may ask a *general partner of the partnership to provide Industry Innovation and Science Australia with information that Industry Innovation and Science Australia considers necessary for the purposes of administering this Act.\nTable of sections\nSection 17-1 Revoking registration for not meeting investment registration requirements etc.\nSection 17-5 Revoking registration for not meeting other registration requirements\nSection 17-10 Revocation at discretion of Industry Innovation and Science Australia\nSection 17-15 Notice of revocation\nSection 17-20 Date of effect of revocation\nSection 17-25 Revocation on application by partnership"
+    },
+    {
+      "key": "section:17-1",
+      "title": "Section 17-1 - Revoking registration for not meeting investment registration requirements etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-1",
+      "main_structural_heading": "Revoking registration for not meeting investment registration requirements etc.",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 17--Revocation of registration > Section 17-1",
+      "text": "(1) If *Industry Innovation and Science Australia has reason to believe that:\n (a) a partnership registered as a *VCLP does not meet the *investment registration requirements of a VCLP; or\n (ab) a partnership registered as an *ESVCLP does not meet the *investment registration requirements of an ESVCLP; or\n (b) a partnership registered as an *AFOF does not meet the *investment registration requirements of an AFOF;\nit must notify a *general partner of the partnership, in writing, that it will revoke the registration if it is satisfied that, at the end of the period determined under subsection  (2), the partnership does not meet the investment registration requirements of a VCLP, an ESVCLP or an AFOF, as the case may be.\n (2) *Industry Innovation and Science Australia must, for the purposes of subsection (1), determine a period that:\n (a) it is satisfied is a reasonable period; and\n (b) does not exceed 6 months.\n (3) The notice must:\n (a) state the matters that in *Industry Innovation and Science Australia&#39;s opinion, may constitute grounds for revocation; and\n (b) state the period, determined by Industry Innovation and Science Australia under subsection  (2), within which the *investment registration requirements must be complied with; and\n (c) state that the *general partner may make written submissions to Industry Innovation and Science Australia about the matters in the notice within that period.\n (4) A *general partner may make submissions about the matters in the notice at any time during that period.\n (5) *Industry Innovation and Science Australia must revoke the registration if, after considering any submissions made under subsection (4), it is satisfied that, at the end of that period, the partnership does not meet the *investment registration requirements of a VCLP, the *investment registration requirements of an ESVCLP or the *investment registration requirements of an AFOF, as the case may be.\n (6) Subsection (5) does not apply if the registration is revoked under section  17-10 within that period."
+    },
+    {
+      "key": "section:17-5",
+      "title": "Section 17-5 - Revoking registration for not meeting other registration requirements",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-5",
+      "main_structural_heading": "Revoking registration for not meeting other registration requirements",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 17--Revocation of registration > Section 17-5",
+      "text": "(1) If *Industry Innovation and Science Australia has reason to believe that:\n (a) a partnership registered as a *VCLP does not meet the *registration requirements of a VCLP that are not *investment registration requirements; or\n (ab) a partnership registered as an *ESVCLP does not meet the *registration requirements of an ESVCLP that are not *investment registration requirements; or\n (b) a partnership registered as an *AFOF does not meet the *registration requirements of an AFOF that are not *investment registration requirements;\nit must notify a *general partner of the partnership, in writing, that it will revoke the registration if it is satisfied that, in 60 days time, the partnership does not meet the registration requirements of a VCLP, an ESVCLP or an AFOF, as the case may be.\n (2) The notice must:\n (a) state the matters that, in *Industry Innovation and Science Australia&#39;s opinion, may constitute grounds for revocation; and\n (b) state that the *general partner may apply for an extension of the 60 day period; and\n (c) state that the general partner may make written submissions to Industry Innovation and Science Australia about the matters in the notice within the 60 day period or that period as extended under subsection  (4).\n (3) A *general partner may apply to *Industry Innovation and Science Australia, in the *form approved by Industry Innovation and Science Australia, for an extension of the 60 day period.\n (4) *Industry Innovation and Science Australia may, for the purposes of paragraph (2)(c), extend, by up to 60 days, the period if it is satisfied that:\n (a) reasonable progress is being made towards meeting the requirements; and\n (b) the requirements will be met within the extended period.\n (5) A *general partner may make submissions about the matters in the notice at any time during:\n (a) the 60 day period; or\n (b) if the period was extended under subsection  (4)--that extended period.\n (6) *Industry Innovation and Science Australia must revoke the registration if, after considering any submissions made under subsection (5), it is satisfied that:\n (a) at the end of the 60 day period; or\n (b) if the period was extended under subsection  (4)--that extended period;\nthe partnership does not meet the *registration requirements of a VCLP, the *registration requirements of an ESVCLP or the *registration requirements of an AFOF, as the case may be."
+    },
+    {
+      "key": "section:17-10",
+      "title": "Section 17-10 - Revocation at discretion of Industry Innovation and Science Australia",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-10",
+      "main_structural_heading": "Revocation at discretion of Industry Innovation and Science Australia",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 17--Revocation of registration > Section 17-10",
+      "text": "(1) Subject to subsection  (2), *Industry Innovation and Science Australia may revoke a partnership&#39;s registration as a *VCLP, an *ESVCLP or an *AFOF under this Part  if Industry Innovation and Science Australia is satisfied that the partnership has:\n (a) failed to lodge an annual return under section  15-1; or\n (b) failed to lodge a quarterly return under section  15-10; or\n (c) failed to provide any further information requested under section  15-15; or\n (d) failed to provide any information requested under section  15-20; or\n (e) during a 12 month period, received more than one notice under section  17-1:\n (i) that related to a failure to meet the registration requirement set out in paragraph  9-1(1)(e), 9-3(1)(f) or 9-5(1)(d) (whichever is applicable); and\n (ii) in relation to which the partnership&#39;s registration has not been revoked.\n (2) *Industry Innovation and Science Australia must not revoke the partnership&#39;s registration unless Industry Innovation and Science Australia:\n (a) by notice in writing given to a *general partner of the partnership, allows the general partner at least 28 days after the notice is given in which to make written submissions to Industry Innovation and Science Australia about the matters specified in the notice that, in Industry Innovation and Science Australia&#39;s opinion, may constitute grounds for revocation; and\n (b) considers any such submissions."
+    },
+    {
+      "key": "section:17-15",
+      "title": "Section 17-15 - Notice of revocation",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-15",
+      "main_structural_heading": "Notice of revocation",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 17--Revocation of registration > Section 17-15",
+      "text": "As soon as practicable after revoking a partnership&#39;s registration under section  17-1, 17-5 or 17-10, *Industry Innovation and Science Australia must give a *general partner of the partnership a notice that advises of the revocation and sets out Industry Innovation and Science Australia&#39;s reasons for deciding to revoke."
+    },
+    {
+      "key": "section:17-20",
+      "title": "Section 17-20 - Date of effect of revocation",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-20",
+      "main_structural_heading": "Date of effect of revocation",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 17--Revocation of registration > Section 17-20",
+      "text": "The revocation takes effect from the day on which *Industry Innovation and Science Australia decides to revoke registration."
+    },
+    {
+      "key": "section:17-25",
+      "title": "Section 17-25 - Revocation on application by partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "17-25",
+      "main_structural_heading": "Revocation on application by partnership",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION--OF LIMITED PARTNERSHIPS > Division 17--Revocation of registration > Section 17-25",
+      "text": "(1) A *general partner of a partnership registered under this Part as a *VCLP, an *ESVCLP or an *AFOF may apply in writing to *Industry Innovation and Science Australia to have the registration revoked.\n (2) *Industry Innovation and Science Australia must revoke the registration as soon as practicable after receiving the application.\n (3) The revocation takes effect on the day on which notice of the revocation is given to a *general partner of the partnership."
+    },
+    {
+      "key": "section:21-1",
+      "title": "Section 21-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-1",
+      "text": "Industry Innovation and Science Australia can register entities as eligible venture capital investors, and revoke their registration.Registration is one of the requirements before investments of venture capital by an entity directly (rather than through a limited partnership) can attract the operation of section  118-415 of the Income Tax Assessment Act 1997 (and the related provisions about similar income gains and losses).\nNote: Section 118-415 of the Income Tax Assessment Act 1997 gives to an individual investor an equivalent capital gains tax exemption to the one that the investor could have, under section 118-405 or 118 -410 of that Act, from investing through a limited partnership registered under Part 2 of this Act.\nTable of sections\nOperative provisions\nSection 21-5 Registration as eligible venture capital investors\nSection 21-10 Period within which application must be decided\nSection 21-15 When registration is in force\nSection 21-20 Annual return by eligible entity\nSection 21-25 Revocation at discretion of Industry Innovation and Science Australia\nSection 21-30 Revocation on application"
+    },
+    {
+      "key": "section:21-5",
+      "title": "Section 21-5 - Registration as eligible venture capital investors",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-5",
+      "main_structural_heading": "Registration as eligible venture capital investors",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-5",
+      "text": "(1) An *entity may apply to *Industry Innovation and Science Australia, in the *form approved by Industry Innovation and Science Australia, for registration under this Part as an *eligible venture capital investor.\n (2) An application must be given to *Industry Innovation and Science Australia within 30 days after the applicant enters into the contract to acquire its first *eligible venture capital investment after the commencement of this Act.\n (3) An application must be in writing, and must include the following information:\n (a) the applicant&#39;s current residency status;\n (b) details of the facts that qualify the applicant as a *tax-exempt foreign resident;\n (c) the address of the applicant&#39;s registered office;\n (d) the name and address of the first *company or unit trust in which the applicant has invested or proposes to invest and the industry in which the company or unit trust operates;\n (e) the amount of the investment and the date on which it was or is to be made;\n (f) details of any other investments that the applicant holds in the company or unit trust that are not *eligible venture capital investments.\n (4) *Industry Innovation and Science Australia must register the applicant under this Part if Industry Innovation and Science Australia is satisfied that the information has been provided.\n (5) If *Industry Innovation and Science Australia registers an applicant under this Part, Industry Innovation and Science Australia must notify the applicant within 60 days after the application was made.\n (6) If *Industry Innovation and Science Australia does not register an applicant under this Part, Industry Innovation and Science Australia must:\n (a) notify the applicant within 60 days after the application was made; and\n (b) provide reasons for the decision."
+    },
+    {
+      "key": "section:21-10",
+      "title": "Section 21-10 - Period within which application must be decided",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-10",
+      "main_structural_heading": "Period within which application must be decided",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-10",
+      "text": "(1) Subject to this section, *Industry Innovation and Science Australia must decide an application for registration under this Part within 60 days after receiving it.\n (2) If *Industry Innovation and Science Australia thinks that it will take longer to decide the application, Industry Innovation and Science Australia may extend, by up to 60 days, the period for deciding it.\n (3) An extension must be made by written notice given to the applicant within 60 days after *Industry Innovation and Science Australia receives the application.\n (4) If *Industry Innovation and Science Australia extends the period, Industry Innovation and Science Australia must decide the application within the extended period."
+    },
+    {
+      "key": "section:21-15",
+      "title": "Section 21-15 - When registration is in force",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-15",
+      "main_structural_heading": "When registration is in force",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-15",
+      "text": "(1) Registration of an *entity as an *eligible venture capital investor is taken to have come into force on the day on which the first investment referred to in subsection  21-5(2) was made.\n (2) Registration is taken to be in force until revoked under section  21-25."
+    },
+    {
+      "key": "section:21-20",
+      "title": "Section 21-20 - Annual return by eligible entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-20",
+      "main_structural_heading": "Annual return by eligible entity",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-20",
+      "text": "(1) An *entity registered under this Part must, within 3 months after the end of each *financial year, give *Industry Innovation and Science Australia a written return that includes the following information:\n (a) the entity&#39;s residency status at the end of the financial year (including details of changes to that status during the year);\n (b) the address of the entity&#39;s registered office (including details of changes to that address during the year);\n (c) details of the facts that qualify the entity to be tax exempt in its country of residence;\n (d) details of the facts that qualify the entity as an *eligible venture capital investor;\n (e) details of:\n (i) the *eligible venture capital investments the entity made during that year; and\n (ii) the eligible venture capital investments that the entity disposed of during that year; and\n (iii) the eligible venture capital investments the entity holds at the end of that year; and\n (iv) the disposals of eligible venture capital investments during that year including any profits derived or losses incurred from that disposal;\n (f) the industries to which those investments relate;\n (g) for each investment in a company that the entity held throughout that year--a statement as to whether the company met the requirements of subsections  118-425(3), (4), (4A) and (5) of the Income Tax Assessment Act 1997 at all times during that year;\n (h) for each investment in a company that the entity made during that year--a statement as to whether the company met the requirements of subsections  118-425(3), (4), (4A) and (5) of the Income Tax Assessment Act 1997 at all times during that year after the investment was made;\n (i) for each investment in a company that the entity disposed of during that year--a statement as to whether the company met the requirements of subsections  118-425(3), (4), (4A) and (5) of the Income Tax Assessment Act 1997 at all times during that year up to the day of disposal;\n (j) for each investment in a unit trust that the entity held throughout that year--a statement as to whether the unit trust met the requirements of subsections  118-427(4), (5), (5A) and (6) of the Income Tax Assessment Act 1997 at all times during that year;\n (k) for each investment in a unit trust that the entity made during that year--a statement as to whether the unit trust met those requirements at all times during that year after the investment was made;\n (l) for each investment in a unit trust that the entity disposed of during that year--a statement as to whether the unit trust met those requirements at all times during that year up to the day of disposal.\n (2) Information about a matter that a return must include because of paragraph  (1)(a) or (b) is information about that matter as at the end of the financial year.\nNote: Part 7.4 of the Criminal Code creates offences for making false and misleading statements, giving false or misleading information and producing false or misleading documents."
+    },
+    {
+      "key": "section:21-25",
+      "title": "Section 21-25 - Revocation at discretion of Industry Innovation and Science Australia",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-25",
+      "main_structural_heading": "Revocation at discretion of Industry Innovation and Science Australia",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-25",
+      "text": "(1) Subject to this section, *Industry Innovation and Science Australia may revoke an *entity&#39;s registration under this Part if Industry Innovation and Science Australia is satisfied that the entity has failed to comply with section  21-20.\n (2) As soon as practicable after revoking an *entity&#39;s registration under this Part, *Industry Innovation and Science Australia must give the entity a notice that advises of the revocation and sets out *Industry Innovation and Science Australia&#39;s reasons for deciding to revoke.\n (3) *Industry Innovation and Science Australia must not revoke a registration unless Industry Innovation and Science Australia:\n (a) by notice in writing given to the *entity, allows the entity at least 14 days after the notice is given in which to make written submissions to Industry Innovation and Science Australia about the matters specified in the notice that, in *Industry Innovation and Science Australia&#39;s opinion, may constitute grounds for revocation; and\n (b) considers any such submissions."
+    },
+    {
+      "key": "section:21-30",
+      "title": "Section 21-30 - Revocation on application",
+      "main_structural_unit": "section",
+      "main_structural_number": "21-30",
+      "main_structural_heading": "Revocation on application",
+      "defined_term": null,
+      "structure_path": "Part 3--REGISTRATION--OF ELIGIBLE VENTURE CAPITAL INVESTORS > Division 21--Registration of eligible venture capital investors > Section 21-30",
+      "text": "(1) An *entity registered under this Part may apply in writing to *Industry Innovation and Science Australia to have its registration revoked.\n (2) *Industry Innovation and Science Australia must revoke the registration as soon as practicable after receiving the application.\n (3) The revocation takes effect on the day on which notice of the revocation is given to the *entity."
+    },
+    {
+      "key": "section:25-1",
+      "title": "Section 25-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 4--DETERMINATIONS--BY INDUSTRY INNOVATION AND SCIENCE AUSTRALIA CONCERNING CERTAIN INVESTMENTS > Division 25--Determinations by Industry Innovation and Science Australia concerning certain investments > Section 25-1",
+      "text": "Industry Innovation and Science Australia can make determinations having the effect of relaxing the requirements of paragraphs 118-425(2)(b) and 118 -427(3)(c) of the Income Tax Assessment Act 1997.\nNote 1: Paragraph 118-425(2)(b) of the Income Tax Assessment Act 1997 is about how closely a company is connected with Australia. Paragraph 118-427(3)(c) of that Act is about how closely a unit trust is connected with Australia. These paragraphs are one of the requirements that a company or unit trust must meet in order for investments in the company or unit trust to be eligible venture capital investments.\nNote 2: The capital gains tax exemption under Subdivision 118-F of that Act only applies in relation to eligible venture capital investments.\nTable of sections\nOperative provisions\nSection 25-5 Industry Innovation and Science Australia may determine a shorter period\nSection 25-10 Industry Innovation and Science Australia may determine that a requirement does not apply\nSection 25-15 Industry Innovation and Science Australia may determine matters relating to requirements for eligible venture capital investments"
+    },
+    {
+      "key": "section:25-5",
+      "title": "Section 25-5 - Industry Innovation and Science Australia may determine a shorter period",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-5",
+      "main_structural_heading": "Industry Innovation and Science Australia may determine a shorter period",
+      "defined_term": null,
+      "structure_path": "Part 4--DETERMINATIONS--BY INDUSTRY INNOVATION AND SCIENCE AUSTRALIA CONCERNING CERTAIN INVESTMENTS > Division 25--Determinations by Industry Innovation and Science Australia concerning certain investments > Section 25-5",
+      "text": "(1) *Industry Innovation and Science Australia may, on the application of a *general partner of a *limited partnership registered as a *VCLP, an *ESVCLP or an *AFOF, determine a shorter period during which a *company must meet the requirements of paragraph  118-425(2)(b) of the Income Tax Assessment Act 1997.\n (1A) *Industry Innovation and Science Australia may, on the application of a *general partner of a *limited partnership registered as a *VCLP, an *ESVCLP or an *AFOF, determine a shorter period during which a unit trust must meet the requirements of paragraph 118-427(3)(c) of the Income Tax Assessment Act 1997.\n (2) An application under this section must be in the *form approved by Industry Innovation and Science Australia.\n (3) In considering whether to make a determination, *Industry Innovation and Science Australia must apply the principles specified under subsection (4).\n (4) *Industry Innovation and Science Australia may, by legislative instrument, make principles about making determinations under this section.\n (5) If *Industry Innovation and Science Australia determines a shorter period, Industry Innovation and Science Australia must notify the *general partner as soon as practicable after the determination is made.\n (6) If *Industry Innovation and Science Australia refuses to make a determination, Industry Innovation and Science Australia must:\n (a) notify the *general partner as soon as practicable after the refusal; and\n (b) provide reasons for the refusal."
+    },
+    {
+      "key": "section:25-10",
+      "title": "Section 25-10 - Industry Innovation and Science Australia may determine that a requirement does not apply",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-10",
+      "main_structural_heading": "Industry Innovation and Science Australia may determine that a requirement does not apply",
+      "defined_term": null,
+      "structure_path": "Part 4--DETERMINATIONS--BY INDUSTRY INNOVATION AND SCIENCE AUSTRALIA CONCERNING CERTAIN INVESTMENTS > Division 25--Determinations by Industry Innovation and Science Australia concerning certain investments > Section 25-10",
+      "text": "(1) *Industry Innovation and Science Australia may, on the application of a *general partner of a partnership registered as a *VCLP, an *ESVCLP or an *AFOF, determine that either or both of the following requirements do not apply to a *company:\n (a) the requirement referred to under subparagraph  118-425(2)(b)(i) of the Income Tax Assessment Act 1997 that more than 50% of the people who are currently engaged by the company to perform services must perform those services primarily in Australia;\n (b) the requirement referred to under subparagraph  118-425(2)(b)(ii) of that Act that more than 50% of its assets (determined by value) must be situated in Australia.\n (1A) *Industry Innovation and Science Australia may, on the application of a *general partner of a partnership registered as a *VCLP, an *ESVCLP or an *AFOF, determine that either or both of the following requirements do not apply to a unit trust:\n (a) the requirement referred to under subparagraph  118-427(3)(c)(i) of the Income Tax Assessment Act 1997 that more than 50% of the people who are currently engaged by the unit trust to perform services must perform those services primarily in Australia;\n (b) the requirement referred to under subparagraph  118-427(3)(c)(ii) of that Act that more than 50% of its assets (determined by value) must be situated in Australia.\n (2) An application under this section must be in the form approved by Industry Innovation and Science Australia.\n (3) In considering whether to make a determination, *Industry Innovation and Science Australia must apply the principles specified under subsection (4).\n (4) *Industry Innovation and Science Australia may, by legislative instrument, make principles about making determinations under this section.\n (5) If *Industry Innovation and Science Australia determines that a requirement does not apply, Industry Innovation and Science Australia must notify the *general partner as soon as practicable after the determination is made.\n (6) If *Industry Innovation and Science Australia refuses to make a determination, Industry Innovation and Science Australia must:\n (a) notify the *general partner as soon as practicable after the refusal; and\n (b) provide reasons for the refusal."
+    },
+    {
+      "key": "section:25-15",
+      "title": "Section 25-15 - Industry Innovation and Science Australia may determine matters relating to requirements for eligible venture capital investments",
+      "main_structural_unit": "section",
+      "main_structural_number": "25-15",
+      "main_structural_heading": "Industry Innovation and Science Australia may determine matters relating to requirements for eligible venture capital investments",
+      "defined_term": null,
+      "structure_path": "Part 4--DETERMINATIONS--BY INDUSTRY INNOVATION AND SCIENCE AUSTRALIA CONCERNING CERTAIN INVESTMENTS > Division 25--Determinations by Industry Innovation and Science Australia concerning certain investments > Section 25-15",
+      "text": "(1) *Industry Innovation and Science Australia may, on the application of a *general partner of a partnership registered as a *VCLP, an *ESVCLP or an *AFOF, determine:\n (a) the matters set out in paragraphs 118 -425(14)(a) and (b) of the Income Tax Assessment Act 1997; or\n (b) the matters set out in paragraphs 118 -425(14B)(a), (b) and (c) of that Act; or\n (c) the matters set out in paragraphs 118 -425(14C)(a) and (b) of that Act; or\n (d) the matters set out in paragraphs 118 -427(15)(a) and (b) of that Act; or\n (e) the matters set out in paragraphs 118 -427(15A)(a), (b) and (c) of that Act; or\n (f) the matters set out in paragraphs 118 -427(15B)(a) and (b) of that Act.\nNote: Determining these matters allows for the relaxation of some of the requirements for eligible venture capital investments under sections  118-425 and 118-427 of the Income Tax Assessment Act 1997.\n (1A) In making a determination under paragraph  (1)(b) or (e), *Industry Innovation and Science Australia must specify in the determination a period for the purposes of paragraph  118-425(14B)(c) or 118-427(15A)(c) of the Income Tax Assessment Act 1997, as the case requires.\n (2) An application under this section must be in the *form approved by Industry Innovation and Science Australia.\n (3) In considering whether to make a determination, *Industry Innovation and Science Australia must apply the principles specified under subsection (4).\n (4) *Industry Innovation and Science Australia may, by legislative instrument, make principles about making determinations under this section.\n (5) If *Industry Innovation and Science Australia makes a determination under subsection (1), Industry Innovation and Science Australia must notify the *general partner as soon as practicable after the determination is made.\n (6) If *Industry Innovation and Science Australia refuses to make a determination, Industry Innovation and Science Australia must:\n (a) notify the *general partner as soon as practicable after the refusal; and\n (b) provide reasons for the refusal.\nTable of sections\nSection 29-1 Decisions reviewed\nSection 29-5 Notification of right to seek internal review\nSection 29-10 Internal review of decisions\nSection 29-15 Review of decisions by Administrative Review Tribunal"
+    },
+    {
+      "key": "section:29-1",
+      "title": "Section 29-1 - Decisions reviewed",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-1",
+      "main_structural_heading": "Decisions reviewed",
+      "defined_term": null,
+      "structure_path": "Part 5--REVIEW--OF DECISIONS > Division 29--Review of decisions > Section 29-1",
+      "text": "The following decisions of *Industry Innovation and Science Australia are reviewable under this Part:\n (aa) decisions under section  9-4 refusing to allow a partner&#39;s *committed capital in a partnership to exceed 30% of the partnership&#39;s committed capital;\n (a) decisions under subsection  9-10(3) allowing, or refusing to allow, a longer period for the purposes of paragraph 9-10(1)(b) for repayment of a *permitted loan;\n (b) decisions under section  13-1 refusing to register a *limited partnership as a *VCLP, an *ESVCLP or an *AFOF under Part  2;\n (c) decisions under section  13-5 refusing to register conditionally a limited partnership as a VCLP, an ESVCLP or an AFOF;\n (d) decisions under section  17-1, 17-5 or 17-10 revoking a registration under Part 2;\n (e) decisions under subsection  17-1(2) determining a period within which *investment registration requirements must be met;\n (f) decisions under section  21-5 refusing to register an entity as an *eligible venture capital investor under Part  3;\n (g) decisions under section  21-25 revoking a registration under Part 3;\n (h) decisions under section  25-5 determining a shorter period, or refusing to make such a determination; or\n (i) decisions under section  25-10 or 25-15 refusing to make a determination;\n (j) decisions under subsection  25-15(1A) specifying a period;\n (k) decisions under section  362-25 in Schedule 1 to the Taxation Administration Act 1953 making a *private ruling, or decisions refusing to make a private ruling under that section;\n (l) decisions under section  362-60 in Schedule 1 to that Act withdrawing a private ruling;\n (m) decisions under subsection  118-432(2) of the Income Tax Assessment Act 1997 refusing to make a finding about an activity."
+    },
+    {
+      "key": "section:29-5",
+      "title": "Section 29-5 - Notification of right to seek internal review",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-5",
+      "main_structural_heading": "Notification of right to seek internal review",
+      "defined_term": null,
+      "structure_path": "Part 5--REVIEW--OF DECISIONS > Division 29--Review of decisions > Section 29-5",
+      "text": "(1) A notice that:\n (a) is given to the *person affected by a decision that is reviewable under this Part; and\n (b) advises that person of the decision;\nmust include a statement to the effect that the person may, under section 29-10, request *Industry Innovation and Science Australia to reconsider the decision.\n (2) The person affected by the decision is the person who made the relevant application to *Industry Innovation and Science Australia.\n (3) A failure to comply with subsection  (1) in relation to a decision reviewable under this Part does not affect the validity of the decision."
+    },
+    {
+      "key": "section:29-10",
+      "title": "Section 29-10 - Internal review of decisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-10",
+      "main_structural_heading": "Internal review of decisions",
+      "defined_term": null,
+      "structure_path": "Part 5--REVIEW--OF DECISIONS > Division 29--Review of decisions > Section 29-10",
+      "text": "(1) If the *person affected by a decision that is reviewable under this Part is dissatisfied with the decision, the person may, by notice in writing given to *Industry Innovation and Science Australia, request Industry Innovation and Science Australia to reconsider the decision.\n (2) The request must not be made more than 21 days, or such longer period as *Industry Innovation and Science Australia approves, after the person receives from Industry Innovation and Science Australia a notice advising of the decision.\n (3) The request must set out the person&#39;s reasons for making it.\n (4) On receipt of the request, *Industry Innovation and Science Australia must reconsider the decision and may confirm or revoke it, or vary it in such manner as Industry Innovation and Science Australia thinks fit.\n (5) If *Industry Innovation and Science Australia does not confirm, vary or revoke the decision before the end of the period of 60 days after the day on which Industry Innovation and Science Australia receives the request, Industry Innovation and Science Australia is taken, at the end of that period, to have confirmed the decision.\n (6) As soon as practicable after *Industry Innovation and Science Australia confirms, varies or revokes the decision, Industry Innovation and Science Australia must give the person a written notice that:\n (a) advises of the confirmation, variation or revocation of the decision; and\n (b) except in a case to which subsection  (5) applies--advises of Industry Innovation and Science Australia&#39;s reasons for confirming, varying or revoking the decision; and\n (c) in the case of a confirmation or variation of the decision--advises the person that the person may apply to the Administrative Review Tribunal under the Administrative Review Tribunal Act 2024 for review of the decision as confirmed or varied.\n (7) A failure to comply with subsection  (6) in relation to the confirmation, variation or revocation of the decision does not affect the validity of the confirmation, variation or revocation.\n (8) For the purposes of subsections  (4), (5), (6) and (7) and section 29-15, if *Industry Innovation and Science Australia revokes a decision and replaces it with another decision:\n (a) Industry Innovation and Science Australia is taken to vary the first -mentioned decision and not to revoke it; and\n (b) the other decision is taken to be the first -mentioned decision as varied."
+    },
+    {
+      "key": "section:29-15",
+      "title": "Section 29-15 - Review of decisions by Administrative Review Tribunal",
+      "main_structural_unit": "section",
+      "main_structural_number": "29-15",
+      "main_structural_heading": "Review of decisions by Administrative Review Tribunal",
+      "defined_term": null,
+      "structure_path": "Part 5--REVIEW--OF DECISIONS > Division 29--Review of decisions > Section 29-15",
+      "text": "(1) Application may be made to the Administrative Review Tribunal for a reviewable decision of *Industry Innovation and Science Australia that has been confirmed or varied under section  29-10.\n (2) An application may only be made by *the person affected by the decision.\nTable of sections\nSection 33-5 Meaning of form approved by Industry Innovation and Science Australia\nSection 33-10 Regulations"
+    },
+    {
+      "key": "section:33-5",
+      "title": "Section 33-5 - Meaning of form approved by Industry Innovation and Science Australia",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-5",
+      "main_structural_heading": "Meaning of form approved by Industry Innovation and Science Australia",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 33--Miscellaneous > Section 33-5",
+      "text": "A notice or application is in the form approved by Industry Innovation and Science Australia if:\n (a) it is in the form approved by *Industry Innovation and Science Australia for that kind of notice or application; and\n (b) it contains a declaration signed by a person or persons as the form requires; and\n (c) it contains the information that the form requires, and any further information, statement or document as Industry Innovation and Science Australia requires, whether in the form or otherwise; and\n (d) it is given in the manner that Industry Innovation and Science Australia requires (which may include electronically)."
+    },
+    {
+      "key": "section:33-10",
+      "title": "Section 33-10 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "33-10",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Division 33--Miscellaneous > Section 33-10",
+      "text": "The Governor-General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "doc": {
+    "jurisdiction": "victoria",
+    "source_url": "https://classic.austlii.edu.au/au/legis/vic/consol_reg/tar2017378/",
+    "register_url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/taxation-administration-regulations-2017/",
+    "source": "Taxation Administration Regulations 2017 (100000174).txt",
+    "filename": "Taxation Administration Regulations 2017 (100000174).json",
+    "name": "Taxation Administration Regulations 2017",
+    "citation": "Taxation Administration Regulations 2017"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Objectives",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Objectives",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 1",
+      "text": "The objectives of these Regulations are&#8212;\n         (a)     to prescribe a scale of expenses to be paid to persons required to\nattend and give evidence; and\n         (b)     to provide for a form of receipt for the seizure of materials;\nand\n         (c)     to provide for the time within which the Victorian Civil and\nAdministrative Tribunal may re-open a matter when an objector is in default of\nappearance."
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Authorising provision",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Authorising provision",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 2",
+      "text": "These Regulations are made under section 136 of the Taxation Administration Act 1997."
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Commencement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 3",
+      "text": "These Regulations come into operation on 19 November 2017."
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Revocation",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Revocation",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 4",
+      "text": "The following Regulations are revoked&#8212;\n         (a)     the Taxation Administration Regulations\n2007[1];\n         (b)     the Taxation Administration Amendment Regulations\n2010[2]."
+    },
+    {
+      "key": "regulation:5.term:half-day",
+      "title": "Regulation 5 Definitions \"half day\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"half day\"",
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 5",
+      "text": "\"half day\" means a period not exceeding 4 hours in any\nday, whether that period is continuous or not;"
+    },
+    {
+      "key": "regulation:5.term:the-act",
+      "title": "Regulation 5 Definitions \"the Act\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"the Act\"",
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 5",
+      "text": "\"the Act\" means the Taxation Administration\nAct 1997."
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Expenses for persons required to attend under section 73 of the Act",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Expenses for persons required to attend under section 73 of the Act",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 6",
+      "text": "The scale of expenses prescribed for persons required to attend and give evidence under section 73 of the Act is as\nfollows&#8212;\n         (a)     for travelling expenses, if a person's principal residence or\nprincipal place of business is&#8212;\n               (i)     more than 7 kilometres from the place of attendance, the sum\nreasonably and actually paid; or\n               (ii)     not more than 7 kilometres from the place of attendance, $1.63 per\nkilometre or part thereof;\n         (b)     for employees&#8212;\n               (i)     $91.35 per half day of attendance or part thereof; or\n               (ii)     for a period exceeding a half day, the amount actually lost by\nreason of attendance or $195.75 per day, whichever is the lesser;\n         (c)     for self-employed persons or persons in partnership, $115.82 per half\nday of attendance or part thereof, but not exceeding $195.75 per day;\n         (d)     for expenses for legal or other representation at the attendance,\n$81.56;\n         (e)     for expenses for the presence of an interpreter at the attendance,\n$35.89 per hour of attendance or part thereof plus any travelling\nexpenses of the interpreter determined in accordance with paragraph\n        (a)."
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Receipt for seized documents or things",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Receipt for seized documents or things",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 7",
+      "text": "The form of receipt prescribed for the purpose of section 76(3) of the Act is Form 1 in Schedule 1."
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Time for VCAT to re-open matter",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Time for VCAT to re-open matter",
+      "defined_term": null,
+      "structure_path": "Taxation Administration Regulations 2017 > Regulation 8",
+      "text": "The time prescribed for the purposes of section 111(2) of the Act is the period of 6 weeks commencing on\nthe day on which the assessment or decision is confirmed by\nthe Tribunal.\nTAXATION ADMINISTRATION REGULATIONS 2017"
+    },
+    {
+      "key": "schedule:1.section:54A",
+      "title": "Schedule 1 Section 54A - of the ILA authorises the making of the style changes set out",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "54A",
+      "main_structural_unit_heading": "of the ILA authorises the making of the style changes set out",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Section 54A",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1 FORM 1 Regulation 7 Taxation Administration Act 1997 PROPERTY COLLECTION RECORD Premises: Name: Date:          Time:     Authorised officer: Item No. Applicable period Description of item Collected by Where item found Time found Certificate of collection Authorised officer:                                          (Print name)          (Signature) *Owner/*Occupier/*representative:               (Print name) (Signature) Forwarded to: Date     /     / *Delete whichever is not applicable &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Version No. 001 S.R. No. 111/2017Version as at19 November 2017 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; Version No. 001 Taxation Administration Regulations 2017 S.R. No. 111/2017 Version as at19 November 2017 TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes Endnotes",
+      "text": "Schedule 1 - Schedule 1 FORM 1 Regulation 7 Taxation Administration Act 1997 PROPERTY COLLECTION RECORD Premises: Name: Date:          Time:     Authorised officer: Item No. Applicable period Description of item Collected by Where item found Time found Certificate of collection Authorised officer:                                          (Print name)          (Signature) *Owner/*Occupier/*representative:               (Print name) (Signature) Forwarded to: Date     /     / *Delete whichever is not applicable &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Version No. 001 S.R. No. 111/2017Version as at19 November 2017 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; Version No. 001 Taxation Administration Regulations 2017 S.R. No. 111/2017 Version as at19 November 2017 TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes Endnotes\n\nSection 54A - of the ILA authorises the making of the style changes set out\n\nin Schedule 1 to that Act.\nReferences to ILA s. 39B\nSidenotes which cite ILA s. 39B refer to section 39B of the ILA which\nprovides that where an undivided regulation, rule or clause of a Schedule is\namended by the insertion of one or more subregulations, subrules or subclauses\nthe original regulation, rule or clause becomes subregulation, subrule or\nsubclause (1) and is amended by the insertion of the expression \"(1)\" at\nthe beginning of the original regulation, rule or clause.\nInterpretation\nAs from 1 January 2001, amendments to section 36 of the ILA have the\nfollowing effects:\n&#8226;     Headings\nAll headings included in a Statutory Rule which is made on or after 1\nJanuary 2001 form part of that Statutory Rule.  Any heading inserted in a\nStatutory Rule which was made before 1 January 2001, by a Statutory Rule made on\nor after 1 January 2001, forms part of that Statutory Rule. This includes\nheadings to Parts, Divisions or Subdivisions in a Schedule; Orders; Parts into\nwhich an Order is divided; clauses; regulations; rules; items; tables; columns;\nexamples; diagrams; notes or forms.  See section 36(1A)(2A)(2B).\n&#8226;     Examples, diagrams or notes\nAll examples, diagrams or notes included in a Statutory Rule which is made\non or after 1 January 2001 form part of that Statutory Rule.  Any examples,\ndiagrams or notes inserted in a Statutory Rule which was made before"
+    },
+    {
+      "key": "schedule:1.section:1",
+      "title": "Schedule 1 Section 1 - January 2001, by a Statutory Rule made on or after 1 January 2001, form",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1",
+      "main_structural_unit_heading": "January 2001, by a Statutory Rule made on or after 1 January 2001, form",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Section 1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1 FORM 1 Regulation 7 Taxation Administration Act 1997 PROPERTY COLLECTION RECORD Premises: Name: Date:          Time:     Authorised officer: Item No. Applicable period Description of item Collected by Where item found Time found Certificate of collection Authorised officer:                                          (Print name)          (Signature) *Owner/*Occupier/*representative:               (Print name) (Signature) Forwarded to: Date     /     / *Delete whichever is not applicable &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Version No. 001 S.R. No. 111/2017Version as at19 November 2017 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; Version No. 001 Taxation Administration Regulations 2017 S.R. No. 111/2017 Version as at19 November 2017 TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes Endnotes",
+      "text": "Schedule 1 - Schedule 1 FORM 1 Regulation 7 Taxation Administration Act 1997 PROPERTY COLLECTION RECORD Premises: Name: Date:          Time:     Authorised officer: Item No. Applicable period Description of item Collected by Where item found Time found Certificate of collection Authorised officer:                                          (Print name)          (Signature) *Owner/*Occupier/*representative:               (Print name) (Signature) Forwarded to: Date     /     / *Delete whichever is not applicable &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Version No. 001 S.R. No. 111/2017Version as at19 November 2017 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; Version No. 001 Taxation Administration Regulations 2017 S.R. No. 111/2017 Version as at19 November 2017 TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes Endnotes\n\nSection 1 - January 2001, by a Statutory Rule made on or after 1 January 2001, form\n\npart of that Statutory Rule.  See section 36(3A).\n&#8226;     Punctuation\nAll punctuation included in a Statutory Rule which is made on or after"
+    },
+    {
+      "key": "schedule:1.part:of.section:1",
+      "title": "Schedule 1 Section 1 - January 2001 forms part of that Statutory Rule. Any punctuation inserted",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "1",
+      "main_structural_unit_heading": "January 2001 forms part of that Statutory Rule. Any punctuation inserted",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part of that Statutory Rule. See section 36(3A). > Section 1",
+      "schedule_id": "1",
+      "schedule_heading": "Schedule 1 FORM 1 Regulation 7 Taxation Administration Act 1997 PROPERTY COLLECTION RECORD Premises: Name: Date:          Time:     Authorised officer: Item No. Applicable period Description of item Collected by Where item found Time found Certificate of collection Authorised officer:                                          (Print name)          (Signature) *Owner/*Occupier/*representative:               (Print name) (Signature) Forwarded to: Date     /     / *Delete whichever is not applicable &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Version No. 001 S.R. No. 111/2017Version as at19 November 2017 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; Version No. 001 Taxation Administration Regulations 2017 S.R. No. 111/2017 Version as at19 November 2017 TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes Endnotes",
+      "text": "Schedule 1 - Schedule 1 FORM 1 Regulation 7 Taxation Administration Act 1997 PROPERTY COLLECTION RECORD Premises: Name: Date:          Time:     Authorised officer: Item No. Applicable period Description of item Collected by Where item found Time found Certificate of collection Authorised officer:                                          (Print name)          (Signature) *Owner/*Occupier/*representative:               (Print name) (Signature) Forwarded to: Date     /     / *Delete whichever is not applicable &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Version No. 001 S.R. No. 111/2017Version as at19 November 2017 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552; Version No. 001 Taxation Administration Regulations 2017 S.R. No. 111/2017 Version as at19 November 2017 TAXATION ADMINISTRATION REGULATIONS 2017 - NOTES Endnotes Endnotes\n\nSection 1 - January 2001 forms part of that Statutory Rule. Any punctuation inserted\n\nin a Statutory Rule which was made before 1 January 2001, by a Statutory Rule\nmade on or after 1 January 2001, forms part of that Statutory Rule. See\nsection 36(3B).\n&#8226;     Provision numbers\nAll provision numbers included in a Statutory Rule form part of that\nStatutory Rule, whether inserted in the Statutory Rule before, on or after 1\nJanuary 2001.  Provision numbers include regulation numbers, rule numbers,\nsubregulation numbers, subrule numbers, paragraphs and subparagraphs.  See\nsection 36(3C).\n&#8226;     Location of \"legislative items\"\nA \"legislative item\" is a penalty, an example or a note.  As from 13\nOctober 2004, a legislative item relating to a provision of a Statutory Rule is\ntaken to be at the foot of that provision even if it is preceded or followed by\nanother legislative item that relates to that provision.  For example, if a\npenalty at the foot of a provision is followed by a note, both of these\nlegislative items will be regarded as being at the foot of that provision.  See\nsection 36B.\n&#8226;     Other material\nAny explanatory memorandum, table of provisions, endnotes, index and other\nmaterial printed after the Endnotes does not form part of a Statutory Rule.  See\nsection 36(3)(3D)(3E).\n     2     Table of Amendments\nThere are no amendments made to the Taxation\nAdministration Regulations 2017 by statutory rules, subordinate instruments\nand Acts.\n     3     Amendments Not in OperationThere\nare no amendments which were Not in Operation at the date of this\npublication.\n     4     Explanatory details\n[1] Reg. 4(a): S.R. No. 126/2007\nas amended by S.R. No. 10/2010.\n[2] Reg. 4(b): S.R. No.\n10/2010."
+    }
+  ]
+}

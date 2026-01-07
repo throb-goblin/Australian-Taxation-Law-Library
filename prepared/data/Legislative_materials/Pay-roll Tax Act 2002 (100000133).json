@@ -1,0 +1,123 @@
+{
+  "doc": {
+    "jurisdiction": "western_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/wa/consol_act/pta2002155/",
+    "register_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a6336.html&view=consolidated",
+    "source": "Pay-roll Tax Act 2002 (100000133).txt",
+    "filename": "Pay-roll Tax Act 2002 (100000133).json",
+    "name": "Pay-roll Tax Act 2002",
+    "citation": "Pay-roll Tax Act 2002"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1 -- Preliminary > Section 1",
+      "text": "This Act may be cited as the Pay-roll Tax Act 2002."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 -- Preliminary > Section 2",
+      "text": "This Act comes into operation on the day on which the Taxation Administration\nAct 2003 comes into operation."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Relationship with other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Relationship with other Acts",
+      "defined_term": null,
+      "structure_path": "Part 1 -- Preliminary > Section 3",
+      "text": "The Pay-roll Tax Assessment Act 2002 and the Taxation Administration Act 2003\nare to be read with this Act as if they formed a single Act."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Meaning of terms",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Meaning of terms",
+      "defined_term": null,
+      "structure_path": "Part 1 -- Preliminary > Section 4",
+      "text": "The Glossaries at the ends of the Pay-roll Tax Assessment Act 2002 and the\nTaxation Administration Act 2003 define or affect the meaning of some of the\nwords and expressions used in this Act and also affect the operation of other\nprovisions.\n[4A. ^1M Modification, to insert section 4A, to have effect under the\nCommonwealth Places (Mirror Taxes Administration) Act 1999 s. 7, see\nCommonwealth Places (Mirror Taxes Administration) Regulations 2007 r. 26 and\nendnote 1M.]\n[4A. ^1MC Modification, to insert section 4A, to have effect under the\nCommonwealth Places (Mirror Taxes) Act 1998 (Commonwealth) s. 8, see\nCommonwealth Places (Mirror Taxes) (Modification of Applied Laws (WA)) Notice\nSection 2007 cl. 27 and endnote 1MC.]\n                      Part 2 -- Imposition of pay-roll tax"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Imposition of pay-roll tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Imposition of pay-roll tax",
+      "defined_term": null,
+      "structure_path": "Part 2 -- Imposition of pay-roll tax > Section 5",
+      "text": "(1) Pay-roll tax on wages paid or payable before 1 January 2005 is imposed at\nthe rate of 6%.\n(2) Pay-roll tax on wages paid or payable during the period that begins on\nSection 1 January 2005 and ends on 30 June 2018 is imposed at the rate of 5.5%.\n(3) Pay-roll tax on wages paid or payable during the period that begins on\nSection 1 July 2018 and ends on 30 June 2023 (the sliding scale period) is imposed at\nthe rates determined under --\n(a) for local non-group employers -- Part 3 Division 1; or\n(b) for interstate non-group employers -- Part 3 Division 2; or\n(c) for employers who are members of groups -- Part 3 Division 3.\n(4) Pay-roll tax on wages paid or payable on or after 1 July 2023 is imposed at\nthe rate of 5.5%.\n[Section 5 inserted: No. 41 of 2003 s. 7; amended: No. 83 of 2004 s. 6; No. 19\nof 2017 s. 6.]\n  Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023\n               Division 1 -- Rates for local non-group employers"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Rates for whole or part of assessment year",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Rates for whole or part of assessment year",
+      "defined_term": null,
+      "structure_path": "Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023 > Division 1 -- Rates for local non-group employers > Section 6",
+      "text": "(1) If an employer is a local non-group employer for the whole of an assessment\nyear, or only part of an assessment year (the part-year), in the sliding scale\nperiod, the rate of pay-roll tax payable by the employer for the year or\npart-year is the rate set out in, or determined under, the Table according to\nthe amount of WA taxable wages paid or payable by the employer during the year\nor part-year.\nâ-----â¬---------------------------â¬--------------------â\nâ     âAmount of WA taxable wages â        Rate        â\nâ     â                           â        (%)         â\nâ-----â¼---------------------------â¼--------------------â¤\nâ1.   âNot more than              â5.5                 â\nâ     â$100 000 000 Ã Y           â                    â\nâ-----â¼---------------------------â¼--------------------â¤\nâ2.   âMore than $100 000 000 x Y âRate calculated     â\nâ     âbut not more than          âunder subsection (2)â\nâ     â$1 500 000 000 Ã Y         â                    â\nâ-----â¼---------------------------â¼--------------------â¤\nâ3.   âMore than                  âRate calculated     â\nâ     â$1 500 000 000 Ã Y         âunder subsection (3)â\nâ-----â´---------------------------â´--------------------â\n(2) For the purposes of item 2 in the Table to subsection (1), the rate is to\nbe calculated as follows --\n(3) For the purposes of item 3 in the Table to subsection (1), the rate is to\nbe calculated as follows --\nmrdoc_3873103.jpg\n(4) In this section --\nW is the total amount of WA taxable wages paid or payable by the employer\nduring the assessment year or part-year;\nY is the number of days in the assessment year during which WA taxable wages\nwere paid or payable by the employer, divided by the number of days in the\nassessment year.\n(5) The rates calculated under subsections (2) and (3) are to be calculated to\nSection 4 decimal places."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Rates for progressive return period or part of period",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Rates for progressive return period or part of period",
+      "defined_term": null,
+      "structure_path": "Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023 > Division 1 -- Rates for local non-group employers > Section 7",
+      "text": "(1) The rate of pay-roll tax payable by a local non-group employer for a\nprogressive return period or for part of a progressive return period (the\nperiod or part-period) in the sliding scale period is the rate set out in, or\ndetermined under, the Table according to the amount of WA taxable wages paid or\npayable by the employer during the period or part-period.\nâ-----â¬---------------------------â¬--------------------â\nâ     âAmount of WA taxable wages â        Rate        â\nâ     â                           â        (%)         â\nâ-----â¼---------------------------â¼--------------------â¤\nâ1.   âNot more than              â5.5                 â\nâ     â$100 000 000 Ã M Ã P       â                    â\nâ-----â¼---------------------------â¼--------------------â¤\nâ2.   âMore than                  âRate calculated     â\nâ     â$100 000 000 Ã M Ã P but   âunder subsection (2)â\nâ     ânot more than              â                    â\nâ     â$1 500 000 000 Ã M Ã P     â                    â\nâ-----â¼---------------------------â¼--------------------â¤\nâ3.   âMore than                  âRate calculated     â\nâ     â$1 500 000 000 Ã M Ã P     âunder subsection (3)â\nâ-----â´---------------------------â´--------------------â\n(2) For the purposes of item 2 in the Table to subsection (1), the rate is to\nbe calculated as follows --\n(3) For the purposes of item 3 in the Table to subsection (1), the rate is to\nbe calculated as follows --\n(4) In this section --\nM is the number of months in the progressive return period, divided by 12;\nP is the number of days in the progressive return period during which WA\ntaxable wages were paid or payable by the employer, divided by the total number\nof days in the progressive return period;\nW is the total amount of WA taxable wages paid or payable by the employer\nduring the period or part-period.\n(5) The rates calculated under subsections (2) and (3) are to be calculated to\nSection 4 decimal places.\n             Division 2 -- Rates for interstate non-group employers"
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Rates for whole or part of assessment year",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Rates for whole or part of assessment year",
+      "defined_term": null,
+      "structure_path": "Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023 > Division 2 -- Rates for interstate non-group employers > Section 8",
+      "text": "(1) If an employer is an interstate non-group employer for the whole of an\nassessment year, or only part of an assessment year (the part-year), in the\nsliding scale period, the rate of pay-roll tax payable by the employer for the\nyear or part-year is the rate set out in, or determined under, the Table\naccording to the amount of Australian taxable wages paid or payable by the\nemployer during the year or part-year.\nâ-----â¬---------------------------â¬--------------------â\nâ     â   Amount of Australian    â        Rate        â\nâ     â       taxable wages       â        (%)         â\nâ-----â¼---------------------------â¼--------------------â¤\nâ1.   âNot more than              â5.5                 â\nâ     â$100 000 000 Ã Y           â                    â\nâ-----â¼---------------------------â¼--------------------â¤\nâ2.   âMore than                  âRate calculated     â\nâ     â$100 000 000 Ã Y           âunder subsection (2)â\nâ     âbut not more than          â                    â\nâ     â$1 500 000 000 Ã Y         â                    â\nâ-----â¼---------------------------â¼--------------------â¤\nâ3.   âMore than                  âRate calculated     â\nâ     â$1 500 000 000 Ã Y         âunder subsection (3)â\nâ-----â´---------------------------â´--------------------â\n(2) For the purposes of item 2 in the Table to subsection (1), the rate is to\nbe calculated as follows --\n(3) For the purposes of item 3 in the Table to subsection (1), the rate is to\nbe calculated as follows --\n(4) In this section --\nW is the total amount of Australian taxable wages paid or payable by the\nemployer during the assessment year or part-year;\nY is the number of days in the assessment year during which Australian taxable\nwages were paid or payable by the employer, divided by the total number of days\nin the assessment year.\n(5) The rates calculated under subsections (2) and (3) are to be calculated to\nSection 4 decimal places.\n(6) Despite subsections (1) to (5), if the employer fails to comply with a\nrequirement under the Pay-roll Tax Assessment Act 2002 section 27(1) to lodge\nan additional return for the assessment year within the period referred to in\nsection 27(2)(c) of that Act, the rate of pay-roll tax payable by the employer\nfor the year or part-year is 6.5%.\n(7) Subsection (6) does not apply if the Commissioner has made a determination\nunder the Pay-roll Tax Assessment Act 2002 section 23C in relation to the\nemployer and the year or part-year."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Rates for progressive return period",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Rates for progressive return period",
+      "defined_term": null,
+      "structure_path": "Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023 > Division 2 -- Rates for interstate non-group employers > Section 9",
+      "text": "The rate of pay-roll tax payable by an interstate non-group employer for a\nprogressive return period in an assessment year in the sliding scale period\nis --\n(a) if a nomination under the Pay-roll Tax Assessment Act 2002 section 23A(1)\n(a) applies in relation to the employer and the progressive return period -- the\nrate that would be determined under section 8(1) to (5) of this Act if --\n(i) the nominated amount of Australian taxable wages were the actual amount of\nAustralian taxable wages paid or payable by the employer during the year; and\n(ii) the nominated number of days were the actual number of days in the year\nduring which Australian taxable wages were paid or payable by the employer;\nor\n(b) otherwise -- 6.5%.\n                    Division 3 -- Rates for group employers"
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Rates for whole or part of assessment year",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Rates for whole or part of assessment year",
+      "defined_term": null,
+      "structure_path": "Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023 > Division 3 -- Rates for group employers > Section 10",
+      "text": "(1) This section applies to a group --\n(a) if at all times during an assessment year in the sliding scale period there\nis at least 1 member of the group who pays or is liable to pay Australian\ntaxable wages as a group member (whether or not any member of the group pays or\nis liable to pay Australian taxable wages as a group member throughout the\nwhole assessment year); or\n(b) if --\n(i) during part only of an assessment year (the part-year) in the sliding scale\nperiod there is at least 1 member of the group who pays or is liable to pay\nAustralian taxable wages as a group member (whether or not that member or any\nother member of the group pays or is liable to pay Australian taxable wages as\na group member throughout the part-year); and\n(ii) during the remainder of the assessment year there is no member of the\ngroup who pays or is liable to pay Australian taxable wages as a group member.\n(2) The rate of pay-roll tax payable by the group for the year or part-year is\nthe rate set out in, or determined under, the Table according to the amount of\nAustralian taxable wages paid or payable by all members of the group during the\nyear or part-year.\nâ-----â¬--------------------------â¬---------------------â\nâ     â   Amount of Australian   â        Rate         â\nâ     â      taxable wages       â         (%)         â\nâ-----â¼--------------------------â¼---------------------â¤\nâ1.   âNot more than             â5.5                  â\nâ     â$100 000 000 Ã Y          â                     â\nâ-----â¼--------------------------â¼---------------------â¤\nâ2.   âMore than $100 000 000 Ã YâRate calculated underâ\nâ     âbut not more than         âsubsection (3)       â\nâ     â$1 500 000 000 Ã Y        â                     â\nâ-----â¼--------------------------â¼---------------------â¤\nâ3.   âMore than                 âRate calculated underâ\nâ     â$1 500 000 000 Ã Y        âsubsection (4)       â\nâ-----â´--------------------------â´---------------------â\n(3) For the purposes of item 2 in the Table to subsection (2), the rate is to\nbe calculated as follows --\n(4) For the purposes of item 3 in the Table to subsection (2), the rate is to\nbe calculated as follows --\n(5) In this section --\nW is the total amount of Australian taxable wages paid or payable by all\nmembers of the group during the assessment year or part-year;\nY is the number of days in the assessment year during which Australian taxable\nwages were paid or payable by at least 1 member of the group, divided by the\ntotal number of days in the assessment year.\n(6) The rates calculated under subsections (3) and (4) are to be calculated to\nSection 4 decimal places.\n(7) Despite subsections (1) to (6), if the DGE of the group fails to comply\nwith a requirement under the Pay-roll Tax Assessment Act 2002 section 27(1a) to\nlodge an additional return for the assessment year within the period referred\nto in section 27(2)(c) of that Act, the rate of pay-roll tax payable by the\ngroup for the year or part-year is 6.5%.\n(8) Subsection (7) does not apply if the Commissioner has made a determination\nunder the Pay-roll Tax Assessment Act 2002 section 23C in relation to the group\nand the year or part-year."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Rates for progressive return period",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Rates for progressive return period",
+      "defined_term": null,
+      "structure_path": "Part 3 -- Rates of pay-roll tax for period from 1 July 2018 to 30 June 2023 > Division 3 -- Rates for group employers > Section 11",
+      "text": "The rate of pay-roll tax payable by a member of a group for a progressive\nreturn period in an assessment year in the sliding scale period is --\n(a) if a nomination under the Pay-roll Tax Assessment Act 2002 section 23A(1)\n(b) applies in relation to the group and the progressive return period -- the\nrate that would be determined under section 10(1) to (6) of this Act if --\n(i) the nominated amount of Australian taxable wages were the actual amount of\nAustralian taxable wages paid or payable by all members of the group during the\nyear; and\n(ii) the nominated number of days were the actual number of days in the year\nduring which Australian taxable wages were paid or payable by at least 1 member\nof the group;\nor\n(b) otherwise -- 6.5%.\nThis is a compilation of the Pay-roll Tax Act 2002 and includes amendments made\nby other written laws. For provisions that have come into operation see the"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "doc": {
+    "jurisdiction": "new_south_wales",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nsw/consol_act/cptaa1998502/",
+    "register_url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-100",
+    "source": "Commonwealth Places (Mirror Taxes Administration) Act 1998 (100000024).txt",
+    "filename": "Commonwealth Places (Mirror Taxes Administration) Act 1998 (100000024).json",
+    "name": "Commonwealth Places (Mirror Taxes Administration) Act 1998",
+    "citation": "Commonwealth Places (Mirror Taxes Administration) Act 1998"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 1",
+      "text": "This Act is the Commonwealth Places (Mirror Taxes Administration) Act 1998."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 2",
+      "text": "(1) This Act commences on a day or days to be appointed by\n     proclamation, except as provided by subsection (2).\n     (2) When an arrangement has been made with the Commonwealth under\n     section 5, section 7 is deemed to have come into operation on 6\n     October 1997.\n     Note : The operation of this Act and the Commonwealth Act will depend\n     on the making of an arrangement under section 5 of this Act and\n     section 9 of the Commonwealth Act. As soon as the arrangement is\n     made, the State taxing laws are taken to have always applied in\n     relation to Commonwealth places in the State, but not so as to impose\n     any liability for tax for things that happened before 6 October 1997."
+    },
+    {
+      "key": "section:3.term:applied-law",
+      "title": "Section 3 Definitions \"applied law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"applied law\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"applied law\" means the provisions of a State taxing law that apply\n     in relation to a Commonwealth place in accordance with the\n     Commonwealth Act."
+    },
+    {
+      "key": "section:3.term:commonwealth-act",
+      "title": "Section 3 Definitions \"Commonwealth Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Commonwealth Act\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Commonwealth Act\" means the Commonwealth Places (Mirror Taxes) Act\n     1998 of the Commonwealth."
+    },
+    {
+      "key": "section:3.term:commonwealth-place",
+      "title": "Section 3 Definitions \"Commonwealth place\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Commonwealth place\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Commonwealth place\" means a place in the State (not being the seat\n     of Government) acquired by the Commonwealth for public purposes."
+    },
+    {
+      "key": "section:3.term:commonwealth-constitution",
+      "title": "Section 3 Definitions \"Commonwealth Constitution\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Commonwealth Constitution\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Commonwealth Constitution\" means the Constitution of the\n     Commonwealth.\n     \"corresponding applied law\", in relation to a State taxing law, means\n     an applied law that corresponds to the State taxing law."
+    },
+    {
+      "key": "section:3.term:excluded-by-section-52-i-of-the-commonwealth-constitution",
+      "title": "Section 3 Definitions \"excluded by section 52 (i) of the Commonwealth Constitution\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"excluded by section 52 (i) of the Commonwealth Constitution\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"excluded by section 52 (i) of the Commonwealth Constitution\" means\n     inapplicable by reason only of the operation of section 52 of the\n     Commonwealth Constitution in relation to Commonwealth places.\n     \"in relation to\", when used in relation to a Commonwealth place or a\n     place that was a Commonwealth place, means in, or in relation to, the\n     Commonwealth place or former Commonwealth place."
+    },
+    {
+      "key": "section:3.term:modifications",
+      "title": "Section 3 Definitions \"modifications\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"modifications\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"modifications\" includes additions, omissions and substitutions."
+    },
+    {
+      "key": "section:3.term:proceedings",
+      "title": "Section 3 Definitions \"proceedings\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"proceedings\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"proceedings\" means any proceedings, whether civil or criminal and\n     whether original or appellate."
+    },
+    {
+      "key": "section:3.term:state-authority",
+      "title": "Section 3 Definitions \"State authority\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"State authority\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"State authority\" means any of the following:\n          (a) the Governor, a Minister or a member of the Executive\n          Council of the State,\n          (b) a court of the State,\n          (c) a person who holds office as a member of a court of the\n          State,\n          (d) a body created by or under the law of the State,\n          (e) an officer or employee of the State, or of a body\n          referred to in paragraph (d)."
+    },
+    {
+      "key": "section:3.term:state-law",
+      "title": "Section 3 Definitions \"State law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"State law\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"State law\" means:\n          (a) any law in force in the State, whether written or\n          unwritten, and\n          (b) any instrument made or having effect under a law\n          referred to in paragraph (a),\n     but does not include a law of the Commonwealth, whether written or\n     unwritten, or an instrument made or having effect under such a law."
+    },
+    {
+      "key": "section:3.term:state-taxing-law",
+      "title": "Section 3 Definitions \"State taxing law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"State taxing law\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"State taxing law\" means a State law that is a State taxing law\n     within the meaning of the Commonwealth Act.\n     (2) The note after section 2 does not form part of this Act."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - This Act binds the Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "This Act binds the Crown",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 4",
+      "text": "This Act binds the Crown in right of the State and, in so far as the\nlegislative power of the State permits, in all its other capacities."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Arrangements with Commonwealth",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Arrangements with Commonwealth",
+      "defined_term": null,
+      "structure_path": "Part 2 - ADMINISTRATION AND OPERATION OF STATE TAXING LAWS AS APPLIED LAWS IN > Section 5",
+      "text": "(1) The Governor may make an arrangement with the Governor-General of\n     the Commonwealth in relation to the exercise or performance of a\n     power, duty or function (not being a power, duty or function\n     involving the exercise of judicial power) by a State authority under\n     an applied law.\n     (2) The Governor may arrange with the Governor-General for the\n     variation or revocation of an arrangement made under this section.\n     Editorial note : For an arrangement under this section see\n     Commonwealth Gazette No GN 7 of 20.2.2002, p 590"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Exercise of powers etc by State authorities",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Exercise of powers etc by State authorities",
+      "defined_term": null,
+      "structure_path": "Part 2 - ADMINISTRATION AND OPERATION OF STATE TAXING LAWS AS APPLIED LAWS IN > Section 6",
+      "text": "Despite any State law, a State authority has any power, duty or function that\nthe Commonwealth Act authorises or requires the authority to exercise or\nperform."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Modified operation of State taxing laws",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Modified operation of State taxing laws",
+      "defined_term": null,
+      "structure_path": "Part 2 - ADMINISTRATION AND OPERATION OF STATE TAXING LAWS AS APPLIED LAWS IN > Section 7",
+      "text": "(1) If, in relation to a State taxing law, there is a corresponding\n     applied law, the State taxing law is to be read and construed with\n     any modifications that are necessary or convenient:\n          (a) for the purpose of enabling the effective operation of\n          the State taxing law in conjunction with the corresponding\n          applied law, or\n          (b) for the purpose of enabling the State taxing law to\n          operate so that a taxpayer has a combined liability under:\n               (i) the State taxing law, and\n               (ii) the corresponding applied law,\n          that is as nearly as possible the same as the taxpayer's\n          liability would be under the State taxing law alone if the\n          Commonwealth places in the State were not Commonwealth\n          places.\n     (2) Regulations may prescribe particular modifications that are to\n     have effect under subsection (1).\n     (3) Modifications prescribed under subsection (2):\n          (a) may be expressed to take effect from a day that is\n          earlier than the day on which the regulations are published\n          in the Gazette (but not earlier than 6 October 1997), and\n          (b) may deal with the circumstances in which the\n          modifications apply, and with matters of a transitional or\n          savings nature."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Continuation of proceedings if place found not to be a Commonwealth place",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Continuation of proceedings if place found not to be a Commonwealth place",
+      "defined_term": null,
+      "structure_path": "Part 3 - PROCEEDINGS > Section 8",
+      "text": "If:\n     (a) proceedings have been commenced in a court under a law as an\n     applied law, and\n     (b) the court is satisfied that the State taxing law that corresponds\n     to that law is not excluded by section 52 (i) of the Commonwealth\n     Constitution,\nthen the proceedings must be continued as though they had been commenced under\nthe State taxing law."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Objection not allowable on ground of duplicate proceedings",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Objection not allowable on ground of duplicate proceedings",
+      "defined_term": null,
+      "structure_path": "Part 3 - PROCEEDINGS > Section 9",
+      "text": "In any proceedings under a State taxing law, an objection must not be allowed\nmerely on the ground that proceedings have been commenced, or are pending,\nunder a corresponding applied law."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Proceedings on certain appeals",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Proceedings on certain appeals",
+      "defined_term": null,
+      "structure_path": "Part 3 - PROCEEDINGS > Section 10",
+      "text": "(1) This section applies to an appeal from a judgment, decree, order\n     or sentence of a court in proceedings under a law as an applied law.\n     (2) If the court is satisfied that the State taxing law that\n     corresponds to that law is not excluded by section 52 (i) of the\n     Commonwealth Constitution, then the court must deal with the appeal\n     as though:\n          (a) the proceedings in relation to which the appeal was\n          brought had been brought under the State taxing law, and\n          (b) the judgment, decree, order or sentence had been given\n          or made in proceedings brought under the State taxing law."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Certificates about ownership of land",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Certificates about ownership of land",
+      "defined_term": null,
+      "structure_path": "Part 3 - PROCEEDINGS > Section 11",
+      "text": "(1) In proceedings under a State taxing law (or purporting to be\n     under a State taxing law) in which any question arises as to whether\n     a place is a Commonwealth place, a certificate in writing given by an\n     authorised person about any of the following matters relating to land\n     is evidence of the matters stated in the certificate:\n          (a) the ownership of the land, or of an estate or interest\n          in the land, on a date or during a period specified in the\n          certificate,\n          (b) the existence and ownership of a right in respect of\n          the land, on a date or during a period specified in the\n          certificate.\n     (2) A document that purports to be a certificate referred to in\n     subsection (1) is to be regarded as being such a certificate, and to\n     have been duly given, unless the contrary is proved.\n     (3) In this section:\n     \"authorised person\" has the same meaning as it has in section 16 of\n     the Commonwealth Act."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Validation of things purportedly done under an applied law",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Validation of things purportedly done under an applied law",
+      "defined_term": null,
+      "structure_path": "Part 4 - VALIDATION AND SAVING > Section 12",
+      "text": "If:\n     (a) something purports to have been done under a law as an applied\n     law, and\n     (b) the State taxing law that corresponds to that law is not excluded\n     by section 52 (i) of the Commonwealth Constitution,\nthen that thing is to be regarded as having been done under the State taxing\nlaw."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Provisions as to operation of applied law and State taxing law if a place ceases to be a Commonwealth place",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Provisions as to operation of applied law and State taxing law if a place ceases to be a Commonwealth place",
+      "defined_term": null,
+      "structure_path": "Part 4 - VALIDATION AND SAVING > Section 13",
+      "text": "Section 13 Provisions as to operation of applied law and State taxing law if a place\nceases to be a Commonwealth place\n     (1) This section applies if an applied law ceases, or ceased, to have\n     effect in relation to a place at a particular time because the place\n     ceases, or ceased, to be a Commonwealth place at that time.\n     (2) The State taxing law to which the applied law corresponded\n     immediately before that time:\n          (a) applies, or is to be regarded as having applied, in\n          relation to that place from that time, and\n          (b) is to be read and construed as though it provided\n          expressly that it was intended to apply in relation to that\n          place from that time.\n     (3) The following things are not affected:\n          (a) any right, privilege, obligation or liability acquired,\n          accrued or incurred under the applied law,\n          (b) any penalty, forfeiture or punishment incurred in\n          respect of an offence against the applied law,\n          (c) any investigation, legal proceeding or remedy in\n          respect of any right, privilege, obligation, liability,\n          penalty, forfeiture or punishment referred to in paragraph\n          (a) or (b).\n     (4) Any penalty, forfeiture or punishment referred to in subsection\n     (3) (b) may be imposed as if the applied law had not ceased to have\n     effect.\n     (5) An investigation, legal proceeding or remedy referred to in\n     subsection (3) (c) may be instituted, continued or enforced as if the\n     applied law had not ceased to have effect."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Provisions as to operation of State taxing law if a place becomes a Commonwealth place",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Provisions as to operation of State taxing law if a place becomes a Commonwealth place",
+      "defined_term": null,
+      "structure_path": "Part 4 - VALIDATION AND SAVING > Section 14",
+      "text": "Section 14 Provisions as to operation of State taxing law if a place becomes a\nCommonwealth place\n     (1) This section applies if a State taxing law ceases, or ceased, to\n     have effect in relation to a place at a particular time because the\n     place becomes, or became, a Commonwealth place at that time.\n     (2) The following things are not affected:\n          (a) the previous operation of the State taxing law before\n          that time,\n          (b) any right, privilege, obligation or liability acquired,\n          accrued or incurred under the State taxing law,\n          (c) any penalty, forfeiture or punishment incurred in\n          respect of an offence against the State taxing law,\n          (d) any investigation, legal proceeding or remedy in\n          respect of any right, privilege, obligation, liability,\n          penalty, forfeiture or punishment referred to in paragraph\n          (b) or (c).\n     (3) Any penalty, forfeiture or punishment referred to in subsection\n     (2) (c) may be imposed as if the State taxing law had not ceased to\n     have effect.\n     (4) An investigation, legal proceeding or remedy referred to in\n     subsection (2) (d) may be instituted, continued or enforced as if the\n     State taxing law had not ceased to have effect."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Instruments referring to applied law",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Instruments referring to applied law",
+      "defined_term": null,
+      "structure_path": "Part 5 - MISCELLANEOUS > Section 15",
+      "text": "(1) This section applies to an instrument or other writing that\n     relates to an act, matter or thing that has a connection with a\n     Commonwealth place.\n     (2) In so far as:\n          (a) the instrument or writing contains a reference to a law\n          as an applied law, and\n          (b) the State taxing law that corresponds to that law is\n          not excluded by section 52 (i) of the Commonwealth\n          Constitution,\n     the reference has effect as if it were a reference to the State\n     taxing law."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Appropriation",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Appropriation",
+      "defined_term": null,
+      "structure_path": "Part 5 - MISCELLANEOUS > Section 16",
+      "text": "Any liability of the State:\n     (a) to pay money to the Commonwealth to enable it to comply with\n     section 23 (1) of the Commonwealth Act, or\n     (b) under an arrangement with the Commonwealth under section 5,\nis to be met out of the Consolidated Fund which is appropriated to the\nnecessary extent."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 5 - MISCELLANEOUS > Section 17",
+      "text": "The Governor may make regulations prescribing all matters that are necessary or\nconvenient to be prescribed to give effect to the purposes of this Act."
+    }
+  ]
+}

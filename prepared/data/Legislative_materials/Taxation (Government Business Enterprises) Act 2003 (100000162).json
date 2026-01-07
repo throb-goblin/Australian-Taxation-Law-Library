@@ -1,0 +1,113 @@
+{
+  "doc": {
+    "jurisdiction": "australian_capital_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/act/consol_act/tbea2003477/",
+    "register_url": "https://www.legislation.act.gov.au/a/2003-12/",
+    "source": "Taxation (Government Business Enterprises) Act 2003 (100000162).txt",
+    "filename": "Taxation (Government Business Enterprises) Act 2003 (100000162).json",
+    "name": "Taxation (Government Business Enterprises) Act 2003",
+    "citation": "Taxation (Government Business Enterprises) Act 2003"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act This Act is the Taxation (Government Business Enterprises) Act 2003.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act This Act is the Taxation (Government Business Enterprises) Act 2003.",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": ""
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain words",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain words",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "and expressions used in this Act, and includes references (signpost\ndefinitions) to other words and expressions defined elsewhere in this\nAct.\n     For example, the signpost definition 'memorandum of\nunderstanding--see section 5.' means that the expression\n'memorandum of understanding' is defined in that section.\nNote 2     A definition in the dictionary (including a signpost\ndefinition) applies to the entire Act unless the definition, or another\nprovision of the Act, provides otherwise or the contrary intention otherwise\nappears (see Legislation Act\n, s 155 and s 156 (1)).\nSection 4 A note included in this Act is explanatory and is not part of this Act. Note See Legislation Act\n, s 127 (1), (4) and (5) for the legal status of notes."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Purpose of pt 2 The purpose of this part is to give effect in relation to the Territory to the 2001 memorandum of understanding between the Territory, the",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Purpose of pt 2 The purpose of this part is to give effect in relation to the Territory to the 2001 memorandum of understanding between the Territory, the",
+      "defined_term": null,
+      "structure_path": "Part 2--PAYMENT OF COMMONWEALTH INCOME TAX EQUIVALENT > Section 5",
+      "text": "Commonwealth, the States and the commissioner of taxation about the national tax\nequivalent regime."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Territory entities subject to national tax equivalent regime A territory entity prescribed by regulation must comply with--",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Territory entities subject to national tax equivalent regime A territory entity prescribed by regulation must comply with--",
+      "defined_term": null,
+      "structure_path": "Part 2--PAYMENT OF COMMONWEALTH INCOME TAX EQUIVALENT > Section 6",
+      "text": "(a)     the taxation laws listed in the memorandum of understanding, schedule\nSection 2 subject to the modifications of the application of those laws made by the\nmemorandum and the manual; and\n         (b)     the manual."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Application of principle of competitive neutrality In making a regulation for section 6, the Executive must have regard to the principle that, to eliminate resource allocation distortions arising out of the",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Application of principle of competitive neutrality In making a regulation for section 6, the Executive must have regard to the principle that, to eliminate resource allocation distortions arising out of the",
+      "defined_term": null,
+      "structure_path": "Part 2--PAYMENT OF COMMONWEALTH INCOME TAX EQUIVALENT > Section 7",
+      "text": "public ownership of entities engaged in significant business activities,\ngovernment businesses should not enjoy any net competitive advantage simply\nbecause of their public ownership."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Information to be given A territory entity prescribed for section 6 must, on being asked to do so by the Minister, give the Minister--",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Information to be given A territory entity prescribed for section 6 must, on being asked to do so by the Minister, give the Minister--",
+      "defined_term": null,
+      "structure_path": "Part 2--PAYMENT OF COMMONWEALTH INCOME TAX EQUIVALENT > Section 8",
+      "text": "(a)     any information asked for by the Minister about the entity's\ncompliance with its obligations under this part; or\n         (b)     a copy of any return or other document the entity has given the\ncommissioner of taxation in compliance, or purported compliance, with its\nobligations under this part."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Territory entities subject to taxes and charges generally A territory entity prescribed by regulation is not exempt from liability for any tax (however described), or any fee or charge, under territory",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Territory entities subject to taxes and charges generally A territory entity prescribed by regulation is not exempt from liability for any tax (however described), or any fee or charge, under territory",
+      "defined_term": null,
+      "structure_path": "Part 3--PAYMENT OF TAXES AND CHARGES GENERALLY > Section 9",
+      "text": "law."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Territory entities subject to taxes and charges at direction of Minister",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Territory entities subject to taxes and charges at direction of Minister",
+      "defined_term": null,
+      "structure_path": "Part 3--PAYMENT OF TAXES AND CHARGES GENERALLY > Section 10",
+      "text": "(1)     The Minister may, in writing, direct a territory entity that is not\nprescribed for section 9 to pay any tax (however described), or any fee or\ncharge payable under a territory law.\n     (2)     A direction is a notifiable instrument."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Regulation-making power The Executive may make regulations for this Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Regulation-making power The Executive may make regulations for this Act.",
+      "defined_term": null,
+      "structure_path": "Part 4--MISCELLANEOUS > Section 11",
+      "text": "- NOTES Dictionary\nDictionary\n(see s 3)\nNote 1     The Legislation Act\n contains definitions and other provisions relevant to this Act.\nNote 2     In particular, the Legislation Act\n, dict, pt 1, defines the following terms:\n               o      administrative unit\n               o      State\n               o      territory authority\n               o      territory law\n               o      territory-owned corporation.\n\"commissioner of taxation\" means the Commissioner of Taxation\nof the Commonwealth.\n\"manual\" means the manual kept by the commissioner of taxation\nunder the memorandum of understanding.\n\"memorandum of understanding\"--see section 5.\n\"territory entity\" includes the following:\n         (a)     a territory authority;\n         (b)     a territory-owned corporation;\n         (c)     an administrative unit;\n         (d)     a part of an administrative unit.\n- NOTES Endnotes"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Notes",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Notes",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_reg/antsastr2019201900417527/",
+    "register_url": "https://www.legislation.gov.au/F2019L00417/latest/text",
+    "source": "A New Tax System (Goods and Services Tax) Regulations 2019 (100000005).txt",
+    "filename": "A New Tax System (Goods and Services Tax) Regulations 2019 (100000005).json",
+    "name": "A New Tax System (Goods and Services Tax) Regulations 2019",
+    "citation": "A New Tax System (Goods and Services Tax) Regulations 2019"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Examples for item 3 of the table in section 40-5.12 (professional",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Examples for item 3 of the table in section 40-5.12 (professional",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 1",
+      "text": "services)\t63"
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Examples for item 4 of the table in section 40-5.12 (payment",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Examples for item 4 of the table in section 40-5.12 (payment",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 2",
+      "text": "systems)\t63"
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Examples for item 7 of the table in section 40-5.12 (options, rights",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Examples for item 7 of the table in section 40-5.12 (options, rights",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 3",
+      "text": "and obligations)\t64"
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Examples for item 10 of the table in section 40-5.12 (insurance and",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Examples for item 10 of the table in section 40-5.12 (insurance and",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 4",
+      "text": "reinsurance)\t64"
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Examples for item 12 of the table in section 40-5.12 (managing",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Examples for item 12 of the table in section 40-5.12 (managing",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 5",
+      "text": "assets or liabilities)\t65\nRegulation 6 Examples for item 15 of the table in section 40-5.12 (trustee\nservices)\t65\nRegulation 7 Examples for item 20 of the table in section 40-5.12 (hire purchase)\t65\nChapter 1-Introduction\nPart 1-Preliminary\nRegulation 1 Name\n\t\tThis instrument is the A New Tax System (Goods and Services Tax) Regulations\n2019.\nRegulation 2 Commencement\n\t(1)\tEach provision of this instrument specified in column 1 of the table commences,\nor is taken to have commenced, in accordance with column 2 of the table. Any\nother statement in column 2 has effect according to its terms.\nCommencement information\nColumn 1\nColumn 2\nColumn 3\nProvisions\nCommencement\nDate/Details\nRegulation 1. The whole of this\ninstrument\nRegulation 1 April 2019.\nRegulation 1 April 2019\nNote:\tThis table relates only to the provisions of this instrument as originally made. It will\nnot be amended to deal with any later amendments of this instrument.\n\t(2)\tAny information in column 3 of the table is not part of this instrument.\nInformation may be inserted in this column, or information in it may be edited, in\nany published version of this instrument.\nRegulation 3 Authority\n\t\tThis instrument is made under the A New Tax System (Goods and Services Tax)\nAct 1999.\nChapter 2-The basic rules\nPart 2-5-Registration\nDivision 23-Who is required to be registered and who may be\nregistered"
+    },
+    {
+      "key": "regulation:23-15-01",
+      "title": "Regulation 23-15-01 - Registration turnover threshold (other than for non-profit bodies)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "23-15-01",
+      "main_structural_heading": "Registration turnover threshold (other than for non-profit bodies)",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-5-Registration\t2 > Division 23-Who is required to be registered and who may be registered\t2 > Regulation 23-15-01",
+      "text": "For the purposes of paragraph 23-15(1)(b) of the Act, the amount of $75,000 is\nspecified."
+    },
+    {
+      "key": "regulation:23-15-02",
+      "title": "Regulation 23-15-02 - Registration turnover threshold for non-profit bodies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "23-15-02",
+      "main_structural_heading": "Registration turnover threshold for non-profit bodies",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-5-Registration\t2 > Division 23-Who is required to be registered and who may be registered\t2 > Regulation 23-15-02",
+      "text": "For the purposes of paragraph 23-15(2)(b) of the Act, the amount of $150,000 is\nspecified.\nPart 2-6-Tax periods\nDivision 29-What is attributable to tax periods\nSubdivision 29-C-Tax invoices and adjustment notes"
+    },
+    {
+      "key": "regulation:29-80-01",
+      "title": "Regulation 29-80-01 - Value of taxable supply for which tax invoice not required",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "29-80-01",
+      "main_structural_heading": "Value of taxable supply for which tax invoice not required",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-6-Tax periods\t3 > Division 29-What is attributable to tax periods\t3 > Subdivision 29-C-Tax invoices and adjustment notes\t3 > Regulation 29-80-01",
+      "text": "For the purposes of subsection 29-80(1) of the Act, the amount of $75 is\nspecified."
+    },
+    {
+      "key": "regulation:29-80-02",
+      "title": "Regulation 29-80-02 - Amount for which adjustment note not required",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "29-80-02",
+      "main_structural_heading": "Amount for which adjustment note not required",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-6-Tax periods\t3 > Division 29-What is attributable to tax periods\t3 > Subdivision 29-C-Tax invoices and adjustment notes\t3 > Regulation 29-80-02",
+      "text": "For the purposes of subsection 29-80(2) of the Act, the amount of $75 is\nspecified.\nPart 2-7-Returns, payments and refunds\nDivision 33-Payments of GST"
+    },
+    {
+      "key": "regulation:33-15-01",
+      "title": "Regulation 33-15-01 - Object of this Division",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-01",
+      "main_structural_heading": "Object of this Division",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-01",
+      "text": "The object of this Division is to provide for the deferral of payments of amounts\nof assessed GST on taxable importations."
+    },
+    {
+      "key": "regulation:33-15-01A",
+      "title": "Regulation 33-15-01A - Circumstances in which payments of assessed GST on taxable",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-01A",
+      "main_structural_heading": "Circumstances in which payments of assessed GST on taxable",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-01A",
+      "text": "importations are deferred\n\t\tFor the purposes of paragraph 33-15(1)(b) of the Act, amounts of assessed GST\non taxable importations are to be paid in accordance with section 33-15.01B of\nthis instrument if both of the following requirements are met:\n\t(a)\tGST returns in relation to the importer are lodged with the Commissioner\nin the approved form;\n\t(b)\teither:\n\t(i)\tthe goods in question are entered for home consumption (within the\nmeaning of the Customs Act 1901) by computer and the importer is an\napproved entity at the time of the taxable importation; or\n\t(ii)\tthe goods in question are taken to have been entered for home\nconsumption for the purposes of the A New Tax System (Goods and\nServices Tax) Act 1999 under subsection 105D(2) of the Customs Act\nRegulation 1901 and the importer is an approved entity at that time."
+    },
+    {
+      "key": "regulation:33-15-01B",
+      "title": "Regulation 33-15-01B - Payment",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-01B",
+      "main_structural_heading": "Payment",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-01B",
+      "text": "(1)\tAn amount of assessed GST on a taxable importation that is payable by an\napproved entity must be paid to the Commissioner on or before the 21st day after\nthe end of the month in which the liability for the assessed GST arose.\n\t(2)\tAmounts of assessed GST must be paid by electronic payment."
+    },
+    {
+      "key": "regulation:33-15-02",
+      "title": "Regulation 33-15-02 - Application for approval",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-02",
+      "main_structural_heading": "Application for approval",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-02",
+      "text": "An entity may apply to the Commissioner in the approved form for approval to\nmake deferred payments of assessed GST on taxable importations."
+    },
+    {
+      "key": "regulation:33-15-03",
+      "title": "Regulation 33-15-03 - Requirements for approval",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-03",
+      "main_structural_heading": "Requirements for approval",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-03",
+      "text": "(1)\tThe Commissioner must, in writing, approve an application by an entity if the\nCommissioner is satisfied that:\n\t(a)\tthe entity is registered under Part 2-5 of the Act; and\n\t(b)\tthe entity has an ABN; and\n\t(c)\tif the entity is an individual-the entity is not an undischarged bankrupt;\nand\n\t(d)\tthe tax period applying to the entity is each individual month; and\n\t(e)\tif the entity is a member (but not the representative member) of a GST\ngroup-the representative member of the group is an approved entity; and\n\t(f)\tthe entity will be able to meet the requirements in sections 33-15.01A and\n33-15.01B; and\n\t(g)\tthe bank guarantee (if any) required under section 33-15.04 has been\nprovided; and\n\t(h)\tit would not be appropriate to refuse the application under subsection (2),\n(3) or (4) of this section.\n\t(2)\tThe Commissioner may refuse the application if the entity is a Chapter 5 body\ncorporate (within the meaning of section 9 of the Corporations Act 2001).\n\t(3)\tThe Commissioner may refuse the application if, in the period of 3 years before\nthe date of the application:\n\t(a)\tthe entity; or\n\t(b)\tif the entity is not an individual-an individual who is relevant to the\nentity's application;\nhas been convicted by a court, whether in Australia or in another country, of an\noffence in relation to taxation requirements, customs requirements, the\nmisdescription of goods, trade practices, fair trading or the defrauding of a\ngovernment.\nNote:\tPart VIIC of the Crimes Act 1914 includes provisions that, in certain circumstances,\nrelieve persons from the requirement to disclose spent convictions and require persons\naware of such convictions to disregard them.\n\t(4)\tThe Commissioner may refuse the application if the entity, or any of its related\nentities, has:\n\t(a)\tan outstanding tax-related liability (within the meaning of section 995-1 of\nthe Income Tax Assessment Act 1997); or\n\t(b)\ta return outstanding under a taxation law."
+    },
+    {
+      "key": "regulation:33-15-04",
+      "title": "Regulation 33-15-04 - Bank guarantee requirement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-04",
+      "main_structural_heading": "Bank guarantee requirement",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-04",
+      "text": "(1)\tIf:\n\t(a)\tan entity applies for approval; and\n\t(b)\ta previous approval of the entity has been revoked under section 33-15.08\nof this instrument or regulation 33-15.08 of the A New Tax System (Goods\nand Services Tax) Regulations 1999;\nthe Commissioner may require the entity to provide a bank guarantee in relation\nto the payment of deferred payments of assessed GST on taxable importations.\n\t(2)\tThe guarantee must provide that, if an amount of assessed GST on taxable\nimportations is not paid to the Commissioner on or before the day mentioned in\nsubsection 33-15.01B(1), the bank will pay to the Commissioner the lesser of:\n\t(a)\tthe overdue amount; and\n\t(b)\tthe guarantee amount worked out under subsection (3) of this section.\n\t(3)\tThe guarantee amount is 1.5 times the highest monthly amount of assessed GST\non taxable importations that was payable by the entity:\n\t(a)\tin the 12 months before the application mentioned in paragraph (1)(a) was\nmade; or\n\t(b)\tif no monthly amounts of assessed GST on taxable importations were\npayable in that 12 months-in the 12 months before the previous approval\nwas revoked."
+    },
+    {
+      "key": "regulation:33-15-05",
+      "title": "Regulation 33-15-05 - Decision on application-notice and date of effect",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-05",
+      "main_structural_heading": "Decision on application-notice and date of effect",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-05",
+      "text": "(1)\tIf the Commissioner approves an entity's application, the Commissioner must\ngive the entity written notice of the approval.\n\t(2)\tThe approval takes effect on the day specified in the approval.\n\t(3)\tIf the Commissioner refuses an entity's application, the Commissioner must give\nthe entity written notice of the refusal.\n\t(4)\tThe notice must:\n\t(a)\tstate the reasons for the refusal; and\n\t(b)\tstate that the entity has a right under section 33-15.09 to object against the\ndecision."
+    },
+    {
+      "key": "regulation:33-15-08",
+      "title": "Regulation 33-15-08 - Revocation of approval",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-08",
+      "main_structural_heading": "Revocation of approval",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-08",
+      "text": "(1)\tThe Commissioner may, in writing, revoke an entity's approval if the\nCommissioner is satisfied that:\n\t(a)\tthe entity has failed to meet a requirement in section 33-15.01A or\n33-15.01B; or\n\t(b)\tthe entity no longer meets the requirements for approval in\nsection 33-15.03; or\n\t(c)\tthe bank guarantee (if any) provided by the entity under section 33-15.04\nhas lapsed; or\n\t(d)\tthe entity is liable to pay general interest charge on an amount; or\n\t(e)\tthe entity is being prosecuted for, or has been convicted of, an offence\nunder Part III of the Taxation Administration Act 1953.\n\t(2)\tThe revocation takes effect on the day specified in the revocation.\n\t(3)\tIf the Commissioner revokes an entity's approval, the Commissioner must give\nthe entity written notice of the revocation.\n\t(4)\tThe notice must:\n\t(a)\tstate the reasons for the revocation; and\n\t(b)\tstate that the entity has a right under section 33-15.09 to object against the\ndecision."
+    },
+    {
+      "key": "regulation:33-15-09",
+      "title": "Regulation 33-15-09 - Review of decisions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "33-15-09",
+      "main_structural_heading": "Review of decisions",
+      "defined_term": null,
+      "structure_path": "Chapter 2-The basic rules\t2 > Part 2-7-Returns, payments and refunds\t4 > Division 33-Payments of GST\t4 > Regulation 33-15-09",
+      "text": "An entity that is dissatisfied with a decision of the Commissioner to:\n\t(a)\trefuse an application by the entity under section 33-15.03; or\n\t(b)\trequire the entity to provide a bank guarantee under section 33-15.04; or\n\t(c)\trevoke an approval of the entity under section 33-15.08;\nmay object against the decision in the manner set out in Part IVC of the Taxation\nAdministration Act 1953.\nChapter 3-The exemptions\nPart 3-1-Supplies that are not taxable supplies\nDivision 38-GST-free supplies\nSubdivision 38-A-Food"
+    },
+    {
+      "key": "regulation:38-3-01",
+      "title": "Regulation 38-3-01 - Food additives",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "38-3-01",
+      "main_structural_heading": "Food additives",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 38-GST-free supplies\t8 > Subdivision 38-A-Food\t8 > Regulation 38-3-01",
+      "text": "(1)\tFor the purposes of paragraph 38-3(1)(e) of the Act, food additives other than\nexempt food additives are specified.\n\t(2)\tEach of the following is an exempt food additive:\n\t(a)\ta food additive which, at the time of supply is packaged and marketed for\nretail sale;\n\t(b)\ta food additive which, at the time of supply:\n\t(i)\thas a measurable nutritional value; and\n\t(ii)\tis supplied for use solely or predominantly in the composition of food;\nand\n\t(iii)\tis essential to the composition of that food."
+    },
+    {
+      "key": "regulation:38-3-02",
+      "title": "Regulation 38-3-02 - GST-free beverages supplied from vending machines",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "38-3-02",
+      "main_structural_heading": "GST-free beverages supplied from vending machines",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 38-GST-free supplies\t8 > Subdivision 38-A-Food\t8 > Regulation 38-3-02",
+      "text": "For the purposes of subsection 38-3(2) of the Act, section 38-3 of the Act does\nnot apply to a supply of a beverage that:\n\t(a)\tis specified in the third column (which is headed \"Beverages\") of the table\nin clause 1 of Schedule 2 to the Act; and\n\t(b)\tapart from this section, would not be GST-free; and\n\t(c)\tis supplied on premises from a vending machine for consumption on the\npremises.\nSubdivision 38-B-Health"
+    },
+    {
+      "key": "regulation:38-45-01",
+      "title": "Regulation 38-45-01 - Medical aids and appliances",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "38-45-01",
+      "main_structural_heading": "Medical aids and appliances",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 38-GST-free supplies\t8 > Subdivision 38-B-Health\t8 > Regulation 38-45-01",
+      "text": "(1)\tFor the purposes of paragraph 38-45(1)(a) of the Act, supplies of the medical\naids and appliances mentioned in the following table are specified.\nMedical aids and appliances\nItem\nCategory\nMedical aid or appliance\n1\nAdvanced wound care\n(a) alginate; and\n(b) hydro colloids; and\n(c) hydro gel; and\n(d) polyurethane film; and\n(e) polyurethane foam\n2\nCommunication aids for people with\ndisabilities\n(a) tracheostomy appliances and\naccessories; and\n(b) laryngotomy appliances and accessories\n3\nContinence\nskin bond\n4\nDaily living for people with disabilities\n(a) artificial ears; and\n(b) nose prostheses\n5\nHearing/speech\nhearing loops\n6\nInfusion systems for the delivery of a\nmeasured dose of a medication\n(a) infusion sets; and\n(b) infusion pumps\n7\nMobility of people with disabilities-\nphysical: orthoses\ncompression garments\n8\nMobility of people with disabilities-\nphysical: prostheses\nsupplements and aids associated with\nmammary prostheses\n9\nMobility of people with disabilities-\nphysical: seating aids\npostural support seating\n10\nMobility of people with disabilities-\nphysical: walking aids\naccessories associated with walking frames\nor specialised ambulatory ortheses\n11\nPersonal hygiene for people with disabilities\ncustomised modifications and accessories\nfor the aids or appliances mentioned in\nitems 111 to 121 of Schedule 3 to the Act\n12\nRespiratory appliances\ntilt tables\n13\nStoma\nstoma products including all bags and\nrelated equipment for patients with\nurostomies\n\t(2)\tSection 182-15 of the Act applies in relation to the second column of the table in\nsubsection (1) of this section as if that column were the second column of the\ntable in Schedule 3 to the Act.\nNote:\tThe second column in the table in subsection (1) of this section and the second column\nof the table in Schedule 3 to the Act are both headed \"Category\".\nSubdivision 38-E-Exports and other cross-border supplies"
+    },
+    {
+      "key": "regulation:38-185-01",
+      "title": "Regulation 38-185-01 - Export of goods by travellers as accompanied baggage",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "38-185-01",
+      "main_structural_heading": "Export of goods by travellers as accompanied baggage",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 38-GST-free supplies\t8 > Subdivision 38-E-Exports and other cross-border supplies\t9 > Regulation 38-185-01",
+      "text": "Schedule 1 specifies rules for the purposes of item 7 of the table in\nsubsection 38-185(1) of the Act.\nDivision 40-Input taxed supplies\nSubdivision 40-A-Financial supplies"
+    },
+    {
+      "key": "regulation:40-5-01",
+      "title": "Regulation 40-5-01 - Object of Subdivision 40-A",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-01",
+      "main_structural_heading": "Object of Subdivision 40-A",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-01",
+      "text": "The object of this Subdivision is to identify supplies that are financial supplies.\nNote 1:\tFor the meaning of supply, see section 9-10 of the Act.\nNote 2:\tSubsection 40-5(2) of the Act provides that financial supply has the meaning given by\nthis instrument."
+    },
+    {
+      "key": "regulation:40-5-05",
+      "title": "Regulation 40-5-05 - Acquisition",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-05",
+      "main_structural_heading": "Acquisition",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-05",
+      "text": "In this Division, acquisition, in relation to the provision or disposal of an\ninterest, includes acceptance and receipt of the interest."
+    },
+    {
+      "key": "regulation:40-5-06",
+      "title": "Regulation 40-5-06 - Financial supply providers",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-06",
+      "main_structural_heading": "Financial supply providers",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-06",
+      "text": "(1)\tAn entity, in relation to the supply of an interest that was:\n\t(a)\timmediately before the supply, the property of the entity; or\n\t(b)\tcreated by the entity in making the supply;\nis the financial supply provider of the interest.\nNote 1:\tExamples of interests to which paragraph (a) applies are:\n(a)\ta share or bond that is sold; and\n(b)\trights assigned under a derivative.\nNote 2:\tExamples of interests to which paragraph (b) applies are:\n(a)\ta share or bond that is issued; and\n(b)\ta derivative that is entered into.\n\t(2)\tThe entity that acquires that interest is also the financial supply provider of the\ninterest."
+    },
+    {
+      "key": "regulation:40-5-07",
+      "title": "Regulation 40-5-07 - Financial supply facilitators",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-07",
+      "main_structural_heading": "Financial supply facilitators",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-07",
+      "text": "A financial supply facilitator, in relation to the supply of an interest, is an entity\nfacilitating the supply of the interest for a financial supply provider."
+    },
+    {
+      "key": "regulation:40-5-08",
+      "title": "Regulation 40-5-08 - When supply may be financial supply",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-08",
+      "main_structural_heading": "When supply may be financial supply",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-08",
+      "text": "For the purposes of subsection 40-5(2) of the Act, a supply is a financial supply\nif:\n\t(a)\tthe supply is a financial supply under section 40-5.09 and is not excluded\nby section 40-5.12; or\n\t(b)\t the supply is an incidental financial supply under section 40-5.10."
+    },
+    {
+      "key": "regulation:40-5-09.p1",
+      "title": "Regulation 40-5-09 - What supplies are financial supplies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-09",
+      "main_structural_heading": "What supplies are financial supplies",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-09",
+      "text": "(1) The provision, acquisition or disposal of an interest mentioned in subsection (3) is a financial supply if: (a) the provision, acquisition or disposal is: (i) for consideration; and (ii) in the course or furtherance of an enterprise; and (iii) connected with the indirect tax zone; and (b) the supplier is: (i) registered or required to be registered; and (ii) a financial supply provider in relation to supply of the interest. (2) However, if Division 84 (offshore supplies) of the Act applies to the provision, acquisition or disposal of an interest mentioned in subsection (3), the provision, acquisition or disposal is a financial supply to the extent that it would, apart from subparagraphs (1)(a)(iii) and (b)(i), be a financial supply. (3) For the purposes of subsections (1) and (2), the interest is an interest in or under a matter mentioned in an item in the following table. Financial supplies Item An interest in or under . 1 An account made available by an Australian ADI in the course of: (a) its banking business within the meaning of the Banking Act 1959; or (b) its State banking business 2 A debt, credit arrangement or right to credit, including a letter of credit 3 A charge or mortgage over real or personal property 4 A regulated superannuation fund, an approved deposit fund, a pooled superannuation trust or a public sector superannuation scheme within the meaning of the Superannuation Industry (Supervision) Act 1993, or a retirement savings account within the meaning of the Retirement Savings Accounts Act 1997 5 An annuity or allocated pension 6 A life insurance business (within the meaning of the Life Insurance Act 1995): (a) which consists of the issuing of life policies (within the meaning of that Act); or (b) to which a declaration under subsection 12(2) or section 12A of that Act applies; or related reinsurance business 7 A guarantee 7A An indemnity that holds a person harmless from any loss as a result of a transaction the person enters with a third party 8 Credit under a hire purchase agreement entered into before 1 July 2012 in relation to goods, if: (a) the credit for the goods is provided for a separate charge; and (b) the charge is disclosed to the recipient of the goods 9 Australian currency, the currency of a foreign country, digital currency or an agreement to buy or sell any of these 3 things 10 Securities, including: (a) a debenture described in paragraph (a), (b), (c), (e) or (f) of the definition of debenture in section 9 of the Corporations Act 2001; and (b) a document issued by an individual that would be a debenture if it were issued by a body corporate; and (c) a scheme described in paragraph (e), (i) or (m) of the definition of managed investment scheme in section 9 of the Corporations Act 2001; and (d) the capital of a partnership or trust 11 A derivative 12 An account made available by a non-resident in the course of carrying on banking business (within the meaning of the Banking Act 1959) in a foreign country in which the entity is authorised under the law of that country to carry on banking business 13 A foreign superannuation fund (within the meaning of the Income Tax Assessment Act 1997) Note 1: If something is within the scope of both an item in the table in this subsection and an item in the table in section 40-5.12, it will not be a financial supply (see paragraph 40-5.08(a)). Note 2: Subparagraph (1)(b)(ii) has the effect that a supply by a financial supply facilitator is not a financial supply. Note 3: Supply of something that is mentioned in more than one item in the table in this subsection will still be a financial supply. (4) A supply by an Australian ADI for a fee of not more than $1,000 is a financial supply if: (a) item 1 of the table in subsection (3) does not apply to the supply because the recipient of the supply does not have an account with the ADI but the item would have applied to the supply if the recipient had an account with the ADI; or (b) the fee relates to an application to the ADI that, if accepted, would result in the creation of an account by the ADI. Example 1: For paragraph (a), electronic transfer to another Australian ADI for a person who does not hold an account with the ADI. Example 2: For paragraph (b), a loan application fee. (5) A supply by an entity for a fee of not more than"
+    },
+    {
+      "key": "regulation:40-5-09.p2",
+      "title": "Regulation 40-5-09 - What supplies are financial supplies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-09",
+      "main_structural_heading": "What supplies are financial supplies",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-09",
+      "text": "does not have an account with the ADI but the item would have applied to the supply if the recipient had an account with the ADI; or (b) the fee relates to an application to the ADI that, if accepted, would result in the creation of an account by the ADI. Example 1: For paragraph (a), electronic transfer to another Australian ADI for a person who does not hold an account with the ADI. Example 2: For paragraph (b), a loan application fee. (5) A supply by an entity for a fee of not more than $1,000 is a financial supply if it is a supply of one or more of the following ATM services: (a) a withdrawal from an account; (b) a deposit into an account; (c) an electronic transfer from an account; (d) advice of the balance of an account. (6) A reference in item 10 of the table in subsection (3) to a security does not include a security in relation to which an entity is given a right to participate in a barter scheme under which each participant may obtain goods or services from another participant for consideration that is wholly or substantially in kind rather than in cash."
+    },
+    {
+      "key": "regulation:40-5-10",
+      "title": "Regulation 40-5-10 - Incidental financial supplies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-10",
+      "main_structural_heading": "Incidental financial supplies",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-10",
+      "text": "If something is supplied by an entity to a recipient directly in connection with a\nfinancial supply to the recipient by the entity, the thing is an incidental financial\nsupply if:\n\t(a)\tit is incidental to the financial supply; and\n\t(b)\tit and the financial supply are supplied, at or about the same time, but not\nfor separate consideration; and\n\t(c)\tit is the usual practice of the entity to supply the thing, or similar things,\nand the financial supply together in the ordinary course of the entity's\nenterprise.\nNote:\tSection 40-5.12 does not apply in relation to incidental financial supplies. As a result, if\nsomething is both an incidental financial supply and within the scope of an item in the\ntable in section 40-5.12, it will still be a financial supply.\nExample:\tAdvice, for which a separate charge is not made, in relation to a housing loan."
+    },
+    {
+      "key": "regulation:40-5-11",
+      "title": "Regulation 40-5-11 - Examples of supplies that are financial supplies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-11",
+      "main_structural_heading": "Examples of supplies that are financial supplies",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-11",
+      "text": "(1)\tSchedule 2 sets out examples of supplies that relate to matters mentioned in the\ntable in subsection 40-5.09(3).\n\t(2)\tIf an example in Schedule 2 is inconsistent with any other provision of this\ninstrument, the provision prevails.\nNote 1:\tThe examples are not to be taken as exhaustive. See section 15AD of the Acts\nInterpretation Act 1901.\nNote 2:\tSomething that is within the scope of an item in the table in subsection 40-5.09(3) can\nbe a financial supply even if it is not mentioned as an example in Schedule 2."
+    },
+    {
+      "key": "regulation:40-5-12",
+      "title": "Regulation 40-5-12 - What supplies are not financial supplies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-12",
+      "main_structural_heading": "What supplies are not financial supplies",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-12",
+      "text": "For the purposes of subsection 40-5(2) of the Act, a supply mentioned in\nsection 40-5.09 of this instrument is not a financial supply if it is the supply of\nsomething, or an interest in or under something, that is mentioned in an item in\nthe following table.\nSupplies that are not financial supplies\nItem\nSupply of, or supply of an interest in or under .\n1\nCheque and deposit forms and books supplied to an Australian ADI in connection with an\naccount mentioned in item 1 of the table in subsection 40-5.09(3)\n2\nSpecial forms, or overprinting of standard forms, by an Australian ADI to the requirements\nof particular account holders in connection with an account mentioned in item 1 of the table\nin subsection 40-5.09(3)\n3\nProfessional services, including information and advice, in relation to a financial supply\n4\nA payment system, except to the extent that it is digital currency\n5\nStored value facility cards and prepayments not linked to accounts provided by an\nAustralian ADI in connection with an account mentioned in item 1 of the table in\nsubsection 40-5.09(3)\n6\nGoods in accordance with agreements under which the goods are supplied under a lease, if:\n(a) the lessees have no obligation or option to acquire the rights of the lessors in the goods;\nor\n(b) the lessors dispose of their rights in the goods to the lessees\n7\nAn option, right or obligation to make a taxable supply or acquire something the supply of\nwhich is a taxable supply, except a mortgage or charge mentioned in item 3 of the table in\nsubsection 40-5.09(3)\n8\nA supply made as a result of the exercise of an option or right, or the performance of an\nobligation, to make taxable supply or acquire something the supply of which is a taxable\nsupply, including an option, right or obligation under a mortgage or charge mentioned in\nitem 3 of the table in subsection 40-5.09(3)\n9\nFacilities for:\n(a) trading securities or derivatives; and\n(b) clearance and settlement of those trades\n10\nInsurance and reinsurance business, except life insurance business mentioned in item 6 of\nthe table in subsection 40-5.09(3)\n11\nBroking services\n12\nManagement of the assets or liabilities of another entity, including investment portfolio\nmanagement and administration services for trusts or superannuation, pension or annuity\nfunds\n13\nDebt collection services\n14\nSales accounting services under a factoring arrangement, or an arrangement having the\nsame effect as a factoring arrangement\n15\nTrustee services\n16\nCustodian services in relation to money, digital currency, documents and other things\n17\nAustralian currency, or the currency of a foreign country, the market value of which\nexceeds its stated value as legal tender, or an agreement to buy or sell currency of either\nkind the market value of which exceeds its stated value as legal tender\n18\nAn arrangement for the provision of goods to an entity for display or demonstration\npending disposal of the goods to a third party\n19\nGoods supplied under a hire purchase agreement entered into on or after 1 July 2012\n20\nCredit under a hire purchase agreement entered into on or after 1 July 2012\n21\nA warranty for goods\nNote 1:\tIf something is within the scope of both an item in the table in subsection 40-5.09(3)\nand an item in the table in this section, it will not be a financial supply (see\nparagraph 40-5.08(a)).\nNote 2:\tThis section does not apply in relation to incidental financial supplies. As a result, if\nsomething is both an incidental financial supply and within the scope of an item in the\ntable in this section, it will still be a financial supply.\nNote 3:\tSections 7-1 and 9-70 of the Act, and this section in respect of items 7 and 8 of the\ntable in this section, have the effect that GST is payable on the premium (if any) on a\ntaxable deliverable commodity derivative and the price on settlement when the\ncommodity is delivered."
+    },
+    {
+      "key": "regulation:40-5-13",
+      "title": "Regulation 40-5-13 - Examples of supplies that are not financial supplies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "40-5-13",
+      "main_structural_heading": "Examples of supplies that are not financial supplies",
+      "defined_term": null,
+      "structure_path": "Chapter 3-The exemptions\t8 > Part 3-1-Supplies that are not taxable supplies\t8 > Division 40-Input taxed supplies\t10 > Subdivision 40-A-Financial supplies\t10 > Regulation 40-5-13",
+      "text": "(1)\tSchedule 3 sets out examples of supplies mentioned in section 40-5.12.\n\t(2)\tIf an example in Schedule 3 is inconsistent with any other provision of this\ninstrument, the provision prevails.\nNote:\tThe examples are not to be taken as exhaustive. See section 15AD of the Acts\nInterpretation Act 1901.\nChapter 4-The special rules\nPart 4-1-Special rules mainly about particular ways\nentities are organised\nDivision 48-GST groups\nSubdivision 48-A-Formation and membership of GST groups"
+    },
+    {
+      "key": "regulation:48-10-01",
+      "title": "Regulation 48-10-01 - Trust distribution and beneficiaries",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "48-10-01",
+      "main_structural_heading": "Trust distribution and beneficiaries",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-1-Special rules mainly about particular ways entities are organised\t16 > Division 48-GST groups\t16 > Subdivision 48-A-Formation and membership of GST groups\t16 > Regulation 48-10-01",
+      "text": "For the purposes of this Subdivision, if the trustee of a trust distributes income or\ncapital of the trust in such a way that another entity receives the income or\ncapital indirectly through one or more interposed trusts or companies:\n\t(a)\tthe trustee is taken also to distribute the income or capital to the other\nentity; and\n\t(b)\tthe other entity is taken also to be a beneficiary of the trust."
+    },
+    {
+      "key": "regulation:48-10-02",
+      "title": "Regulation 48-10-02 - Membership requirements for partnerships",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "48-10-02",
+      "main_structural_heading": "Membership requirements for partnerships",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-1-Special rules mainly about particular ways entities are organised\t16 > Division 48-GST groups\t16 > Subdivision 48-A-Formation and membership of GST groups\t16 > Regulation 48-10-02",
+      "text": "(1)\tFor the purposes of subparagraph 48-10(1)(a)(ii) of the Act, this section sets out\nthe requirements that a partnership must satisfy.\nNote:\tThe partnership must also satisfy other membership requirements set out in\nsection 48-10 of the Act.\n\t(2)\tIf the GST group or proposed GST group includes entities other than\npartnerships, the partnership must satisfy the requirements of subsection (4), (5),\n(6) or (7).\n\t(3)\tIf the GST group or proposed GST group consists only of partnerships:\n\t(a)\tthere are no further requirements for one of the partnerships; and\n\t(b)\teach other partnership must satisfy the requirements of subsection (7).\nRequirements that may be satisfied\n\t(4)\tThe partnership satisfies the requirements of this subsection if, for at least one\ncompany that is a member of the GST group or proposed GST group:\n\t(a)\tthe partnership has at least a 90% stake in the company (worked out in\naccordance with section 190-5 of the Act as if the partnership were a\ncompany); or\n\t(b)\tshares of the company are held in such a way that:\n\t(i)\tif there is one shareholder-the shareholder is an associated person in\nrelation to a partner in the partnership; and\n\t(ii)\tif there is more than one shareholder-at least 2 shareholders are\nassociated persons in relation to different partners in the partnership.\n\t(5)\tThe partnership satisfies the requirements of this subsection if each partner in the\npartnership is:\n\t(a)\tan individual who is a member of the GST group or proposed GST group;\nor\n\t(b)\ta family member of such an individual.\n\t(6)\tThe partnership satisfies the requirements of this subsection if, for at least one\ntrust that is a member of the GST group or proposed GST group, the\nbeneficiaries include at least 2 persons who are associated persons in relation to\ndifferent partners in the partnership.\n\t(7)\tThe partnership (the candidate partnership) satisfies the requirements of this\nsubsection if:\n\t(a)\tthere is a partnership (the member partnership) that is a member of the\nGST group or proposed GST group because of:\n\t(i)\tparagraph (3)(a) or subsection (4), (5) or (6); or\n\t(ii)\tthis subsection, including the repeated application of this subsection;\nand\n\t(b)\teach partner in the candidate partnership is an individual, a family trust of\nan individual or a family company of an individual; and\n\t(c)\tfor each partner in the candidate partnership that is an individual, a family\ntrust of an individual or a family company of an individual, one of the\nfollowing is a partner in the member partnership:\n\t(i)\tthe individual;\n\t(ii)\ta family trust of the individual;\n\t(iii)\ta family company of the individual;\n\t(iv)\ta family member of the individual;\n\t(v)\tanother individual for whom the first individual is a family member;\n\t(vi)\ta family trust of a family member mentioned in subparagraph (iv) or\nthe other individual mentioned in subparagraph (v);\n\t(vii)\ta family company of a family member mentioned in subparagraph (iv)\nor the other individual mentioned in subparagraph (v); and\n\t(d)\tat least 2 of the partners in the candidate partnership comply with\nparagraph (c) through different partners in the member partnership\n(whether or not they also comply through the same partner in the member\npartnership)."
+    },
+    {
+      "key": "regulation:48-10-03",
+      "title": "Regulation 48-10-03 - Membership requirements for trusts",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "48-10-03",
+      "main_structural_heading": "Membership requirements for trusts",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-1-Special rules mainly about particular ways entities are organised\t16 > Division 48-GST groups\t16 > Subdivision 48-A-Formation and membership of GST groups\t16 > Regulation 48-10-03",
+      "text": "(1)\tFor the purposes of subparagraph 48-10(1)(a)(ii) of the Act, the following are the\nrequirements that a trust must satisfy:\n\t(a)\tif the GST group or proposed GST group consists only of fixed trusts-\neither the requirement set out in subsection (2) or the alternative\nrequirements set out in section 48-10.03A;\n\t(b)\tin any other case-the requirement set out in subsection (2).\nNote:\tThe trust must also satisfy other membership requirements set out in section 48-10 of\nthe Act.\nRequirements that may be satisfied\n\t(2)\tOne of the following must be satisfied for the trustee of the trust (the candidate\ntrustee):\n\t(a)\tthe candidate trustee has at least a 90% stake in a company that is a\nmember of the GST group or proposed GST group (worked out in\naccordance with section 190-5 of the Act as if the trustee were a company);\n\t(b)\tthe candidate trustee distributes any income or capital of the trust only to\nbeneficiaries that are permitted beneficiaries (whether or not other\ndistributions could lawfully be made);\n\t(c)\tthe candidate trustee is the sole beneficiary of any distribution of income or\ncapital by the trustee of another trust that is a member of the GST group or\nproposed GST group;\n\t(d)\tthe candidate trustee distributes income or capital of the trust, and the\ntrustee of another trust that is a member of the GST group or proposed\nGST group distributes income or capital of the other trust, only to persons\nwho are all family members of the same individual (whether or not other\ndistributions could lawfully be made).\nNote:\tDistributions to beneficiaries may be direct or indirect (section 48-10.01).\n\t(3)\tEach of the following is a permitted beneficiary:\n\t(a)\ta company that is a member of the GST group or proposed GST group;\n\t(b)\tan endorsed charity or a gift-deductible entity;\n\t(c)\tan individual who is a member of the GST group or proposed GST group;\n\t(d)\ta family member of an individual who is a member of the GST group or\nproposed GST group;\n\t(e)\ta trustee of a trust that is a member of the GST group or proposed GST\ngroup.\n\t(4)\tFor a company that is a member of the GST group or proposed GST group, each\nassociated person in relation to a shareholder of the company is also a permitted\nbeneficiary if:\n\t(a)\tfor a company with one shareholder-the beneficiaries of the trust include\nan associated person in relation to the shareholder; and\n\t(b)\tfor a company with more than one shareholder-the beneficiaries of the\ntrust include at least 2 beneficiaries who are associated persons in relation\nto different shareholders.\n\t(5)\tFor a partnership that is a member of the GST group or proposed GST group,\neach associated person in relation to a partner in the partnership is also a\npermitted beneficiary if the beneficiaries of the trust include at least 2\nbeneficiaries who are associated persons in relation to different partners."
+    },
+    {
+      "key": "regulation:48-10-03A",
+      "title": "Regulation 48-10-03A - Alternative membership requirements for groups of fixed trusts",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "48-10-03A",
+      "main_structural_heading": "Alternative membership requirements for groups of fixed trusts",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-1-Special rules mainly about particular ways entities are organised\t16 > Division 48-GST groups\t16 > Subdivision 48-A-Formation and membership of GST groups\t16 > Regulation 48-10-03A",
+      "text": "(1)\tThis section sets out the alternative requirements mentioned in\nparagraph 48-10.03(1)(a) for a trust to satisfy in relation to a GST group or\nproposed GST group that consists only of fixed trusts.\nNote:\tThe fixed trust must also satisfy other membership requirements set out in\nsection 48-10 of the Act.\n\t(2)\tThe fixed trust must be a member of the same 90% owned trust group as all other\nfixed trusts in that group.\n\t(3)\tFor the purposes of this section:\n\t(a)\ttwo fixed trusts are members of the same 90% owned trust group if:\n\t(i)\tthe trustee of one of the trusts has at least a 90% trust stake in the\nother trust; or\n\t(ii)\tthe trustee of a third trust has at least a 90% trust stake in each of the 2\ntrusts; and\n\t(b)\tthe trustee of a fixed trust (the head trust) has at least a 90% trust stake in\nanother fixed trust (the sub-trust) if the trustee:\n\t(i)\towns at least 90% of the issued units in the sub-trust (whether directly\nor indirectly through one or more interposed trusts or companies); and\n\t(ii)\thas the right to receive at least 90% of any distribution of capital or\nincome of the sub-trust."
+    },
+    {
+      "key": "regulation:48-10-04",
+      "title": "Regulation 48-10-04 - Membership requirements for individuals",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "48-10-04",
+      "main_structural_heading": "Membership requirements for individuals",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-1-Special rules mainly about particular ways entities are organised\t16 > Division 48-GST groups\t16 > Subdivision 48-A-Formation and membership of GST groups\t16 > Regulation 48-10-04",
+      "text": "(1)\tFor the purposes of subparagraph 48-10(1)(a)(ii) of the Act, this section sets out\nthe requirements that an individual must satisfy.\nNote:\tThe individual must also satisfy other membership requirements set out in\nsection 48-10 of the Act.\n\t(2)\tThe individual must satisfy the requirements of subsection (3), (4) or (5).\nRequirements that may be satisfied\n\t(3)\tThe individual satisfies the requirements of this subsection if, for at least one\ncompany that is a member of the GST group or proposed GST group:\n\t(a)\tthe individual has at least a 90% stake in the company (worked out in\naccordance with section 190-5 of the Act as if the individual were a\ncompany); or\n\t(b)\teach shareholder of the company is either the individual or a family\nmember of the individual.\n\t(4)\tThe individual satisfies the requirements of this subsection if, for at least one\npartnership that is a member of the GST group or proposed GST group, the\npartners of the partnership are:\n\t(a)\tthe individual and one or more family members of the individual; or\n\t(b)\tfamily members of the individual.\n\t(5)\tThe individual satisfies the requirements of this subsection if, for at least one\ntrust that is a member of the GST group or proposed GST group:\n\t(a)\tthe beneficiaries of the trust include either or both of the individual and\nfamily members of the individual; and\n\t(b)\tthe trustee of the trust distributes income or capital of the trust only to\npermitted beneficiaries.\nDivision 51-GST joint ventures\nSubdivision 51-A-Formation of and participation in GST joint ventures"
+    },
+    {
+      "key": "regulation:51-5-01",
+      "title": "Regulation 51-5-01 - Specified purposes for GST joint ventures",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "51-5-01",
+      "main_structural_heading": "Specified purposes for GST joint ventures",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-1-Special rules mainly about particular ways entities are organised\t16 > Division 51-GST joint ventures\t20 > Subdivision 51-A-Formation of and participation in GST joint ventures\t20 > Regulation 51-5-01",
+      "text": "(1)\tFor the purposes of paragraph 51-5(1)(a) of the Act, each of the following\npurposes are specified:\n\t(a)\tresearch and development;\n\t(b)\tthe provision of insurance, other than life insurance;\n\t(c)\tfishing;\n\t(d)\tagriculture;\n\t(e)\tcultivation, or exploitation, of timber;\n\t(f)\tdesign, or building, or maintenance, of residential or commercial premises;\n\t(g)\tcivil engineering, including the design, construction and maintenance of\nroads, railways, bridges, canals, dams, ports, harbours, airports and similar\ninstallations;\n\t(h)\tgeneration, or transmission, or distribution, of electricity;\n\t(i)\ttransmission, or distribution, of water;\n\t(j)\treceipt, or storage, or distribution, of oil and gas products;\n\t(k)\trefining, or processing, of oil and gas products;\n\t(l)\tbeneficiation of minerals and primary metal production, including alloy\nproduction;\n\t(m)\tcharitable activities;\n\t(n)\ttransportation.\n\t(2)\tIf a joint venture is a joint venture for more than one of the purposes specified in\nsubsection (1) or paragraph 51-5(1)(a) of the Act, the combination of those\npurposes is specified as a purpose.\nPart 4-2-Special rules mainly about supplies and\nacquisitions\nDivision 70-Financial supplies (reduced credit acquisitions)"
+    },
+    {
+      "key": "regulation:70-5-01",
+      "title": "Regulation 70-5-01 - Objects of this Division",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-01",
+      "main_structural_heading": "Objects of this Division",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-01",
+      "text": "The objects of this Division are:\n\t(a)\tto specify the kind of acquisitions that relate to making financial supplies\nthat can give rise to an entitlement to a reduced input tax credit; and\n\t(b)\tto specify the percentage to which the input tax credit is reduced."
+    },
+    {
+      "key": "regulation:70-5-01A",
+      "title": "Regulation 70-5-01A - Meaning of closely related",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-01A",
+      "main_structural_heading": "Meaning of closely related",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-01A",
+      "text": "An enterprise is closely related to another enterprise if any of the following\nconditions apply:\n\t(a)\tboth enterprises are carried on by the same entity;\n\t(b)\tone enterprise is carried on by a 100% subsidiary of the entity that carries\non the other enterprise;\n\t(c)\tboth enterprises are carried on by 100% subsidiaries of the same entity."
+    },
+    {
+      "key": "regulation:70-5-02.p1",
+      "title": "Regulation 70-5-02 - Acquisitions that attract reduced input tax credits: general",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-02",
+      "main_structural_heading": "Acquisitions that attract reduced input tax credits: general",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-02",
+      "text": "(1) For the purposes of subsection 70-5(1) of the Act, an acquisition mentioned in the following table that relates to making financial supplies can give rise to an entitlement to a reduced input tax credit. Reduced credit acquisitions-general Item Acquisition Transaction banking and cash management services 1 The service of opening, issuing, closing, operating, maintaining or performing a transaction in respect of an account by a financial supply facilitator, including by using the following facilities: (a) telephone banking; (b) internet banking; (c) Bank@Post 2 Processing services in relation to account information for account providers, including the following: (a) archives storage, retrieval and destruction services; (b) statement processing and bulk mailing; (c) processing and manipulation of information relating to accounts, including information about transactions to which item 7 applies 3 Acquisition of transaction cards by card account providers 4 Acquisition of passbooks, deposit and withdrawal forms and cheques and chequebooks by account providers 5 Processing services in relation to account applications for account providers, including providing credit reference and credit scoring assessments Payment and fund transfers services 6 Supplies to which the following payment system fees relate: (a) fees charged by the operator of a payment system to a participant in the system; (b) fees charged by a participant in a payment system to a third party in relation to access to the system; (c) fees charged between participants in a payment system 7 Processing, settling, clearing and switching transactions of the following kinds: (a) direct credit and debit; (b) other credit and debit transactions; (c) charge, credit and debit card transactions; (d) cheque; (e) electronic funds transfer; (f) ATM; (g) BPAY; (h) internet banking; (i) Bank@Post; (j) the SWIFT (Society for Worldwide Interbank Financial Telecommunications) Payment Delivery System 8 Services to a third party mentioned in paragraph (b) in item 6, including: (a) processing of account data; and (b) electronic payment services Securities transactions services 9 Arrangement, by a financial supply facilitator, of the provision, acquisition (within the meaning of Division 40) or disposal of an interest in a security, including the following: (a) order placement and trade execution; (b) clearance and settlement of trades; (c) management of the issue of securities, including rights and bonus issues; (d) arranging flotations and privatisations; (e) arranging mergers and acquisitions; (f) arranging takeover bids; (g) performing a settlement, including issue of drafts and encashment; (h) other securities transactions, including lodgement, withdrawal and exchange control; (i) underwriting, except a matter that is described in the table in subsection 40-5.09(3) 10 Securities and unit registry services to securities and unit issuers, including the following: (a) managing portfolios of assets; (b) allotting of share issues; (c) making dividend payments; (d) receiving applications for issue of shares; (e) performing a redemption or capital repayment; (f) placing scrip orders; (g) bonus issues; (h) scrip settlement; (i) client account processing; (j) transaction processing and recording; (k) handling investor inquiries Loans services 11 The following supplies by a financial supply facilitator: (a) loan agency services; (b) provision of a loan facility; (c) mortgage broking; (d) arranging syndicated loans; (e) introducing and broking 12 Lenders mortgage and title insurance 12A Lenders mortgage reinsurance 13 Loan protection insurance 14 The following loan application, management and processing services: (a) loan origination and brokerage; (b) settlement and discharge of loans, including document preparation; (c) registration of loan documents; (d) credit reference assessment and credit scoring analysis; (e) valuations; (f) property title searches; (g) registration and certification of titles; (h) mortgage variations, including name changes; (i) lodging and removing caveats to titles 15 The following loan management services: (a) processing of repayments; (b) statement preparation; (c) filing and requisitioning of loan file records Credit union services 16 Supply to a credit union by: (a) an entity that is wholly owned by 2 or more credit unions; or (b) an entity that is wholly owned by an entity mentioned in paragraph (a) Debt collection services 17 The following debt collection services: (a) debt recovery; (b) litigation; (c) lodgement of documents; (d) management by a financial supply facilitator of the recovery of sums due by borrowers Asset based finance services 18 Arrangement by a financial supply facilitator of hire purchase to which item 8 in the table in subsection 40-5.09(3) applies Trade finance services 19 Trade finance transaction processing and recording 20 Trade finance remittance services Capital markets and financial instruments services 21 Arrangement by a financial supply facilitator of any of the following: (a) the supply of a derivative or the currency of a foreign country, or an agreement to buy or sell the currency; (b) the sale of a forward contract; (c) the"
+    },
+    {
+      "key": "regulation:70-5-02.p2",
+      "title": "Regulation 70-5-02 - Acquisitions that attract reduced input tax credits: general",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-02",
+      "main_structural_heading": "Acquisitions that attract reduced input tax credits: general",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-02",
+      "text": "the recovery of sums due by borrowers Asset based finance services 18 Arrangement by a financial supply facilitator of hire purchase to which item 8 in the table in subsection 40-5.09(3) applies Trade finance services 19 Trade finance transaction processing and recording 20 Trade finance remittance services Capital markets and financial instruments services 21 Arrangement by a financial supply facilitator of any of the following: (a) the supply of a derivative or the currency of a foreign country, or an agreement to buy or sell the currency; (b) the sale of a forward contract; (c) the supply of digital currency, or an agreement to buy or sell digital currency 22 Transaction processing, account maintenance and report generation services provided to any of the following: (a) suppliers of derivatives; (b) suppliers of the currency of a foreign country, or an agreement to buy or sell the currency; (c) suppliers of digital currency, or an agreement to buy or sell digital currency Funds management services 23 The following investment portfolio management functions, including those functions for superannuation schemes: (a) management of a client's asset portfolio; (b) management of an investment portfolio for a trust or superannuation fund; (c) acting as a trustee of a trust or superannuation fund; (d) acting as a single responsible entity; (e) asset allocation services 24 The following administrative functions in relation to investment funds, including those functions for superannuation schemes: (a) maintaining member and employer and trustee records and associated accounting; (b) processing of applications, contributions, benefits and distributions; (c) processing transfers between funds and trusts; (d) production of reports, statements and forms and distribution to members, employers and trustees; (e) handling of inquiries and complaints made by members; (f) archives storage, retrieval and destruction services; (g) statement processing and bulk mailing; (h) compliance with industry regulatory requirements, excluding taxation and auditing services; (i) processing and assessing claims under life insurance policies Insurance services 25 Brokerage of general or life insurance 26 The following life insurance administration services provided for a life insurer: (a) maintaining policyholder records and associated accounting; (b) processing of premiums and benefits; (c) processing and assessing claims under policies; (d) production of reports, statements and forms and distribution to policyholders, including statement processing and bulk handling; (e) handling of inquiries and complaints made by policyholders; (f) archives storage, retrieval and destruction services; (g) processing and assessing applications; (h) compliance with industry regulatory requirements, excluding taxation and auditing services; (i) managing reinsurance requirements Services remunerated by commission and franchise fees 27 Supplies for which financial supply facilitators are paid commission by financial supply providers 28 Supplies provided by financial supply facilitators to franchisors, for which the facilitators are paid a franchise fee Trustee and custodial services 29 Trustee and custodial services (except safe custody of money, documents and other things), including the following: (a) transfer of cash without purchase, sale or transfer of assets, excluding cash delivery and collection from branches of Australian ADIs; (b) undertaking and settling of securities transactions by a financial supply facilitator; (c) collecting income and other payments; (d) registration of interests and rights; (e) proxy voting; (f) exercise of options and warrants; (g) opening and maintaining accounts with Australian ADIs; (h) nominee services in relation to financial supplies 30 The following master custody services: (a) maintenance of accounting records; (b) taxation reporting; (c) mandate monitoring; (d) trade execution monitoring; (e) portfolio performance analysis; (f) risk management reporting 31 Single responsible entity services Supplies to recognised trust schemes 32 Supplies acquired by a recognised trust scheme, to the extent that: (a) the supplies are acquired on or after 1 July 2012; and (b) the supplies acquired are not: (i) a supply by way of sale of goods, or a supply of real property, made by selling a freehold interest in land, selling a stratum unit or granting or selling a long-term lease; or (ii) a brokerage service covered by item 9 or 21; or (iii) a service covered by paragraph (a), (b) or (e) of item 23; or (iv) a service covered by paragraph (a), (b), (c), (d), (e), (f), (g) or (i) of item 24; or (v) a custodial service covered by item 29; or (vi) a master custody service covered by item 30; or (vii) a monitoring or reporting service covered by item 33 Monitoring services 33 Monitoring and reporting services (other than taxation and auditing services) that: (a) are acquired on or after 1 July 2012; and (b) are required for compliance with the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 Note: These are reduced credit acquisitions: see subsection 70-5(1) of the Act. (2) However,"
+    },
+    {
+      "key": "regulation:70-5-02.p3",
+      "title": "Regulation 70-5-02 - Acquisitions that attract reduced input tax credits: general",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-02",
+      "main_structural_heading": "Acquisitions that attract reduced input tax credits: general",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-02",
+      "text": "by paragraph (a), (b), (c), (d), (e), (f), (g) or (i) of item 24; or (v) a custodial service covered by item 29; or (vi) a master custody service covered by item 30; or (vii) a monitoring or reporting service covered by item 33 Monitoring services 33 Monitoring and reporting services (other than taxation and auditing services) that: (a) are acquired on or after 1 July 2012; and (b) are required for compliance with the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 Note: These are reduced credit acquisitions: see subsection 70-5(1) of the Act. (2) However, something that is used in making a reduced credit acquisition is not, for that reason, a reduced credit acquisition. Example 1: Information technology services used for brokerage services. Example 2: Labour hire services used for life insurance administration services."
+    },
+    {
+      "key": "regulation:70-5-02A.p1",
+      "title": "Regulation 70-5-02A - Acquisitions that attract reduced input tax credits: certain offshore",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-02A",
+      "main_structural_heading": "Acquisitions that attract reduced input tax credits: certain offshore",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-02A",
+      "text": "supplies (1) For the purposes of subsection 70-5(1) of the Act, an acquisition mentioned in subsection (3) of this section that relates to making financial supplies can give rise to an entitlement to a reduced input tax credit if: (a) the supply or transfer that gives rise to the acquisition (the relevant supply) consists of: (i) the transfer of something to an enterprise in the indirect tax zone (a receiving enterprise) from an enterprise outside the indirect tax zone (a supplying enterprise); or (ii) the doing of something for a receiving enterprise by a supplying enterprise; and (b) the relevant supply is a taxable supply because of section 84-5 of the Act (including a supply that is not connected to the indirect tax zone because of section 84-15 of the Act); and (c) the receiving enterprise and the supplying enterprise are closely related. (2) In determining the reduced credit acquisition, the price of the relevant supply is reduced by the amount passed on by the supplying enterprise to the receiving enterprise for any unabsorbed contribution. (3) The acquisitions are set out in the following table. Reduced credit acquisitions-certain offshore supplies Item Acquisition Senior executive management 1 Provision of senior management services, including the following: (a) corporate strategy and development; (b) investment strategy and performance measurement functions; (c) profit or business centre performance support 2 Provision of support systems associated with the provision of senior management services Human resources support 3 Provision of human resources support services, including the following: (a) general advice and planning; (b) recruitment assistance; (c) compensation advice and management; (d) training 4 Processing and maintenance of employee data and files Corporate marketing and communications 5 Provision of corporate information and communication services 6 Provision of marketing administration and media support services Financial management 7 Performance of financial management service functions, including the following: (a) tax law compliance; (b) corporate treasury operations; (c) financial control (including statutory reporting and accounting policy); (d) general ledger account reporting functions, including paying and processing invoices and payment instructions; (e) internal audit functions; (f) management reporting systems; (g) setting intrabank transfer pricing policy; (h) corporate insurance; (i) centralised payroll functions Supply procurement and management 8 Process and management services for the procurement of supplies Credit, operational and risk management 9 Establishment and application of credit policy 10 Development, establishment and application of policies, monitoring systems and procedures to manage market and operational risk 11 Development and application of security processes related to fraud prevention Relationship management 12 Provision of supervision, monitoring and management services in support of client relationships In-house legal services 13 Provision of legal services, including: (a) company secretary functions; and (b) regulatory and legal compliance Technology systems 14 Provision of systems development and computer programming services 15 Maintenance and operation of transaction processing systems (including communications and applications systems) 16 Development and maintenance of disaster recovery systems Business services 17 Provision of transport, security and mail services 18 Property management (4) However, something that is used in making a reduced credit acquisition is not, for that reason, a reduced credit acquisition. Example 1: Consultant's services used in the provision of recruitment services. Example 2: Labour hire services used in the provision of security services. (5) The performance by a third party, on behalf of the supplying enterprise or a closely related enterprise of the supplying enterprise, of all or part of the relevant supply is an unabsorbed contribution if: (a) the amount paid or payable, or part of the amount paid or payable, by the supplying enterprise for the performance is passed on by the supplying enterprise to the receiving enterprise as part of the price of the relevant supply; and (b) the enterprise carried on by the third party is not closely related to the supplying enterprise; and (c) the thing that is involved in the performance by the third party retains, at the time of the relevant supply, the substance and character that it had when first purchased, for the purposes of the relevant supply, by the supplying enterprise or an entity that carries on an enterprise that is closely related to the supplying enterprise. Example: For paragraph (c), legal advice that is given in the following circumstances is an unabsorbed contribution: (a) the advice is acquired by the supplying enterprise from a third party service provider as part of the provision of in-house legal services by the supplying enterprise to its 100% subsidiary in the indirect tax zone; (b) the external legal service provider is not closely related to the supplying enterprise; (c) the advice is passed on to the 100% subsidiary in the"
+    },
+    {
+      "key": "regulation:70-5-02A.p2",
+      "title": "Regulation 70-5-02A - Acquisitions that attract reduced input tax credits: certain offshore",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-02A",
+      "main_structural_heading": "Acquisitions that attract reduced input tax credits: certain offshore",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-02A",
+      "text": "or an entity that carries on an enterprise that is closely related to the supplying enterprise. Example: For paragraph (c), legal advice that is given in the following circumstances is an unabsorbed contribution: (a) the advice is acquired by the supplying enterprise from a third party service provider as part of the provision of in-house legal services by the supplying enterprise to its 100% subsidiary in the indirect tax zone; (b) the external legal service provider is not closely related to the supplying enterprise; (c) the advice is passed on to the 100% subsidiary in the indirect tax zone by the supplying enterprise; (d) the amount paid or payable for the advice is passed on to the 100% subsidiary in the indirect tax zone as part of the price that the supplying enterprise charges for the provision of in-house legal services."
+    },
+    {
+      "key": "regulation:70-5-02D",
+      "title": "Regulation 70-5-02D - Prohibition against claiming twice",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-02D",
+      "main_structural_heading": "Prohibition against claiming twice",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-02D",
+      "text": "To avoid doubt, an entity is not entitled to a reduced input tax credit under\nsections 70-5.02 and 70-5.02A for the same acquisition."
+    },
+    {
+      "key": "regulation:70-5-03",
+      "title": "Regulation 70-5-03 - Percentage to which input tax credits are reduced",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "70-5-03",
+      "main_structural_heading": "Percentage to which input tax credits are reduced",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 70-Financial supplies (reduced credit acquisitions)\t21 > Regulation 70-5-03",
+      "text": "For the purposes of subsection 70-5(2) of the Act, the percentage to which an\ninput tax credit is reduced is as follows:\n\t(a)\tfor a reduced credit acquisition covered by item 32 of the table in\nsubsection 70-5.02(1)-55%;\n\t(b)\tfor a reduced credit acquisition covered by item 32 and one or more other\nitems of the table in subsection 70-5.02(1):\n\t(i)\tto the extent that the acquisition is covered by item 32-55%; and\n\t(ii)\tto the extent that the acquisition is not covered by item 32-75%;\n\t(c)\tfor all other kinds of reduced credit acquisitions-75%.\nDivision 78-Insurance"
+    },
+    {
+      "key": "regulation:78-105-01",
+      "title": "Regulation 78-105-01 - Statutory compensation schemes",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "78-105-01",
+      "main_structural_heading": "Statutory compensation schemes",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 78-Insurance\t30 > Regulation 78-105-01",
+      "text": "For the purposes of paragraph 78-105(c) of the Act, a scheme or arrangement\nmentioned in column 1 of an item in the following table established under the\nlaw mentioned in column 2 of the item is specified.\nStatutory compensation schemes\nItem\nColumn 1\nScheme or arrangement\nColumn 2\nAustralian law\n1\nCommonwealth government employees\nworkers' compensation insurance scheme\nSafety, Rehabilitation and Compensation\nAct 1988 (Cth)\n2\nACT government employees workers'\ncompensation insurance scheme\nSafety, Rehabilitation and Compensation\nAct 1988 (Cth)\n3\nRehabilitation and compensation scheme\nSafety, Rehabilitation and Compensation\n(Defence-related Claims) Act 1988 (Cth)\n4\nMilitary rehabilitation and compensation\nscheme\nMilitary Rehabilitation and Compensation\nAct 2004 (Cth)\n5\nNSW Treasury Managed Fund\nGovernment Insurance Office\n(Privatisation) Act 1991 (NSW)\n6\nSporting injuries insurance scheme\nSporting Injuries Insurance Act 1978\n(NSW)\nMotor Accidents Compensation Act 1999\n(NSW)\n7\nWorkCover scheme\nWorkers Compensation Act 1987 (NSW)\nWorkplace Injury Management and Workers\nCompensation Act 1998 (NSW)\n8\nGeneral insurance schemes provided by the\nVictorian Managed Insurance Authority\nVictorian Managed Insurance Authority Act\nRegulation 1996 (Vic.)\n9\nWorkers' compensation insurance scheme\nAccident Compensation Act 1985 (Vic.)\nWorkers Compensation Act 1958 (Vic.)\nWorkplace Injury Rehabilitation and\nCompensation Act 2013 (Vic.)\n10\nStatutory insurance scheme\nQueensland Building and Construction\nCommission Act 1991 (Qld)\n11\nWorkers' compensation scheme\nWorkers' Compensation and Rehabilitation\nAct 2003 (Qld)\n12\nWorkers' compensation scheme\nWorkers' Compensation and Injury\nManagement Act 1981 (WA)\n13\nRiskCover Fund\nInsurance Commission of Western Australia\nAct 1986 (WA)\n14\nWorkers' rehabilitation and compensation\nscheme\nReturn to Work Act 2014 (SA)\n15\nWorkers' compensation insurance scheme\nWorkers Rehabilitation and Compensation\nAct 1988 (Tas.)\n16\nWorkCover scheme\nWorkers Compensation Act 1951 (ACT)\n17\nWorkers' compensation insurance scheme\nWorkers Compensation Act 1951 (ACT)\nDivision 79-Compulsory third party schemes"
+    },
+    {
+      "key": "regulation:79-35-01",
+      "title": "Regulation 79-35-01 - CTP ancillary payment or supply",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "79-35-01",
+      "main_structural_heading": "CTP ancillary payment or supply",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 79-Compulsory third party schemes\t32 > Regulation 79-35-01",
+      "text": "For the purposes of paragraph 79-35(3)(b) of the Act, the following kinds of\npayments are specified:\n\t(a)\ta payment for medical treatment provided by a medical practitioner;\n\t(b)\ta payment for surgical treatment provided by a medical practitioner;\n\t(c)\ta payment for treatment provided by a registered nurse;\n\t(d)\ta payment for dental treatment;\n\t(e)\ta payment for hospital treatment;\n\t(f)\ta payment for ambulance services;\n\t(g)\ta payment for the conveyance of an injured person to obtain emergency\nmedical treatment;\n\t(h)\ta payment for the cost of travel for a medical practitioner or registered\nnurse to provide medical treatment;\n\t(i)\ta payment made according to a bulk-billing arrangement under section 54\nof the Motor Accidents Compensation Act 1999 (NSW).\nNote:\tUnder section 79-35 of the Act, the payments mentioned in this section must be made\nunder a compulsory third party scheme. Section 79-35 sets out other requirements in\nrelation to a CTP ancillary payment or supply.\nDivision 81-Payment of taxes, fees and charges"
+    },
+    {
+      "key": "regulation:81-10-01",
+      "title": "Regulation 81-10-01 - Fees and charges which constitute consideration",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "81-10-01",
+      "main_structural_heading": "Fees and charges which constitute consideration",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 81-Payment of taxes, fees and charges\t33 > Regulation 81-10-01",
+      "text": "(1)\tSubject to section 81-15.02 of this instrument, for the purposes of\nsubsection 81-10(2) of the Act, the following kinds of Australian fee or charge\nare prescribed:\n\t(a)\ta fee for parking a motor vehicle in a ticketed or metered parking space;\n\t(b)\ta toll for driving a motor vehicle on a road;\n\t(c)\ta fee for hire, use of, or entry to a facility, other than an entry fee to a\nnational park;\n\t(d)\ta fee for the use of a waste disposal facility;\n\t(e)\ta fee for pre-lodgement advice if:\n\t(i)\tthe advice relates to an application to which subsection 81-10(4) of\nthe Act applies; and\n\t(ii)\tit is not compulsory to seek the advice;\n\t(f)\ta fee or charge for the provision of information by an Australian\ngovernment agency if the provision of the information is of a\nnon-regulatory nature;\n\t(g)\ta fee or charge for a supply of a non-regulatory nature;\n\t(h)\ta fee or charge for a supply by an Australian government agency, where\nthe supply may also be made by a supplier that is not an Australian\ngovernment agency.\n\t(2)\tDespite subsection (1), a fee or charge the payment of which is covered by\nsubsection 9-17(3) or (4) of the Act is not prescribed.\nNote:\tAustralian fee or charge is defined in section 195-1 of the Act."
+    },
+    {
+      "key": "regulation:81-15-01",
+      "title": "Regulation 81-15-01 - Fees and charges which do not constitute consideration",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "81-15-01",
+      "main_structural_heading": "Fees and charges which do not constitute consideration",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 81-Payment of taxes, fees and charges\t33 > Regulation 81-15-01",
+      "text": "Subject to section 81-15.02 of this instrument, for the purposes of section 81-15\nof the Act, payment of the following kinds of Australian fees and charges, or the\ndischarging of a liability to make such a payment, is not the provision of\nconsideration:\n\t(a)\ta fee or charge for:\n\t(i)\tthe kerbside collection of waste; or\n\t(ii)\tthe supply, exchange or removal of bins or crates used in connection\nwith kerbside collection of waste;\n\t(b)\troyalties charged in relation to natural resources;\n\t(c)\ta fee or charge imposed on an industry to finance regulatory or other\ngovernment activities connected with the industry;\n\t(d)\ta fee or charge to compensate an Australian government agency for costs\nincurred by the agency in undertaking regulatory activities;\n\t(e)\ta fee or charge imposed in relation to a court, tribunal, commission of\ninquiry or sheriff's office;\n\t(f)\ta fee or charge for a supply of a regulatory nature made by an Australian\ngovernment agency;\n\t(g)\ta fee or charge for entry to a national park."
+    },
+    {
+      "key": "regulation:81-15-02",
+      "title": "Regulation 81-15-02 - Fees and charges covered by sections 81-10.01 and 81-15.01",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "81-15-02",
+      "main_structural_heading": "Fees and charges covered by sections 81-10.01 and 81-15.01",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-2-Special rules mainly about supplies and acquisitions\t21 > Division 81-Payment of taxes, fees and charges\t33 > Regulation 81-15-02",
+      "text": "Fee or charge for a supply of a non-regulatory nature is not consideration if\ncovered by section 81-15.01\n\t(1)\tFor the purposes of section 81-15 of the Act, payment of, or the discharging of a\nliability to pay, a fee or charge covered by both paragraph 81-10.01(1)(g) and\nsection 81-15.01 of this instrument is not the provision of consideration.\nOther fees or charges covered by section 81-10.01 are consideration even if\ncovered by section 81-15.01\n\t(2)\tSection 81-15.01 does not apply in relation to an Australian fee or charge\ncovered by subsection 81-10.01(1) (other than one covered by\nparagraph 81-10.01(1)(g)).\nPart 4-7-Special rules mainly about returns, payments and\nrefunds\nDivision 168-Tourist refund scheme\nSubdivision 168-A-Kinds of acquisitions"
+    },
+    {
+      "key": "regulation:168-5-01",
+      "title": "Regulation 168-5-01 - Acquisition",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-01",
+      "main_structural_heading": "Acquisition",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-A-Kinds of acquisitions\t35 > Regulation 168-5-01",
+      "text": "For the purposes of paragraphs 168-5(1)(b) and (1A)(b) of the Act, an acquisition\nthat meets the requirements in this Subdivision is specified.\nNote:\tPart of a person's eligibility for the tourist refund scheme involves making an\nacquisition:\n(a)\tthe supply of which is a taxable supply; and\n(b)\tthat is of a kind specified in this instrument."
+    },
+    {
+      "key": "regulation:168-5-02",
+      "title": "Regulation 168-5-02 - Goods to which this Subdivision applies",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-02",
+      "main_structural_heading": "Goods to which this Subdivision applies",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-A-Kinds of acquisitions\t35 > Regulation 168-5-02",
+      "text": "This Subdivision applies to an acquisition of goods the supply of which is a\ntaxable supply, except any of the following goods:\n\t(a)\ttobacco;\n\t(b)\ttobacco products;\n\t(c)\talcoholic beverages, except wine on which wine tax is taken to have been\nborne (within the meaning of section 31-10 of the Wine Tax Act);\n\t(d)\tgoods that have been partly consumed at the time at which the acquirer\nleaves the indirect tax zone."
+    },
+    {
+      "key": "regulation:168-5-03",
+      "title": "Regulation 168-5-03 - Registered entity",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-03",
+      "main_structural_heading": "Registered entity",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-A-Kinds of acquisitions\t35 > Regulation 168-5-03",
+      "text": "The goods must have been acquired from a registered entity."
+    },
+    {
+      "key": "regulation:168-5-04",
+      "title": "Regulation 168-5-04 - Purchase price",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-04",
+      "main_structural_heading": "Purchase price",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-A-Kinds of acquisitions\t35 > Regulation 168-5-04",
+      "text": "(1)\tIf one item has been acquired from a registered entity, the purchase price paid by\nthe acquirer must be at least $300.\n\t(2)\tIf 2 or more items have been acquired from the same registered entity, the total\npurchase price paid by the acquirer for the items must be at least $300."
+    },
+    {
+      "key": "regulation:168-5-05",
+      "title": "Regulation 168-5-05 - Tax invoice",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-05",
+      "main_structural_heading": "Tax invoice",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-A-Kinds of acquisitions\t35 > Regulation 168-5-05",
+      "text": "(1)\tThe acquisition may consist of one or more acquisitions from the same registered\nentity for which the acquirer holds one or more tax invoices.\n\t(2)\tEach acquisition must be accompanied by a tax invoice.\nSubdivision 168-B-Departure from the indirect tax zone"
+    },
+    {
+      "key": "regulation:168-5-05A",
+      "title": "Regulation 168-5-05A - Leaving the indirect tax zone",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-05A",
+      "main_structural_heading": "Leaving the indirect tax zone",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-B-Departure from the indirect tax zone\t36 > Regulation 168-5-05A",
+      "text": "For the purposes of paragraph 168-5(1)(c) and subparagraph 168-5(1A)(e)(ii) of\nthe Act, the circumstances in which the acquirer must leave the indirect tax zone\nare specified in this Subdivision.\nNote:\tPart of a person's eligibility for the tourist refund scheme involves leaving the indirect\ntax zone in circumstances specified in this instrument."
+    },
+    {
+      "key": "regulation:168-5-06",
+      "title": "Regulation 168-5-06 - Departure",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-06",
+      "main_structural_heading": "Departure",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-B-Departure from the indirect tax zone\t36 > Regulation 168-5-06",
+      "text": "The acquirer must leave the indirect tax zone other than in the course of the\nacquirer's employment as:\n\t(a)\tthe person in charge or command of an aircraft or ship; or\n\t(b)\ta member of the crew of an aircraft or ship."
+    },
+    {
+      "key": "regulation:168-5-07",
+      "title": "Regulation 168-5-07 - Place of departure",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-07",
+      "main_structural_heading": "Place of departure",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-B-Departure from the indirect tax zone\t36 > Regulation 168-5-07",
+      "text": "The acquirer must leave the indirect tax zone at an airport, or seaport, at which\nthe tourist refund scheme is administered.\nSubdivision 168-C-Export as accompanied baggage"
+    },
+    {
+      "key": "regulation:168-5-08",
+      "title": "Regulation 168-5-08 - Accompanied baggage",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-08",
+      "main_structural_heading": "Accompanied baggage",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-C-Export as accompanied baggage\t36 > Regulation 168-5-08",
+      "text": "For the purposes of paragraph 168-5(1)(c) of the Act, the circumstances in which\nthe goods must be exported from the indirect tax zone as accompanied baggage\nare specified in this Subdivision.\nNote:\tPart of a person's eligibility for the tourist refund scheme involves exporting goods\nfrom the indirect tax zone as accompanied baggage in circumstances specified in this\ninstrument."
+    },
+    {
+      "key": "regulation:168-5-09",
+      "title": "Regulation 168-5-09 - Time of export",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-09",
+      "main_structural_heading": "Time of export",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-C-Export as accompanied baggage\t36 > Regulation 168-5-09",
+      "text": "The goods must be exported within 60 days after the day on which they were\nacquired."
+    },
+    {
+      "key": "regulation:168-5-10",
+      "title": "Regulation 168-5-10 - Verification of export",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-10",
+      "main_structural_heading": "Verification of export",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-C-Export as accompanied baggage\t36 > Regulation 168-5-10",
+      "text": "(1)\tThe acquirer must present to an officer of Customs, on request, at a TRS\nverification facility:\n\t(a)\tthe tax invoice relating to the goods; and\n\t(b)\tas many of the following as are requested:\n\t(i)\tthe goods (unless subsection (4) applies);\n\t(ii)\tthe acquirer's passport;\n\t(iii)\tdocuments that confirm the acquirer's entitlement to leave the indirect\ntax zone on an aircraft or ship (for example, the acquirer's boarding\npass or ticket).\n\t(2)\tHowever, if a TRS verification facility enables an acquirer to lodge a claim for\npayment, the acquirer may instead:\n\t(a)\tcomplete a claim for payment; and\n\t(b)\tinclude the acquirer's tax invoice with the claim; and\n\t(c)\tlodge the claim for payment at the TRS verification facility.\nNote:\tA TRS verification facility may enable an acquirer to lodge a claim for payment, for\nexample, by placing the claim in a drop box facility.\nTime for compliance\n\t(3)\tThe acquirer must comply with subsection (1) or (2):\n\t(a)\tif the acquirer is leaving the indirect tax zone on an aircraft-at least 30\nminutes before the aircraft's scheduled departure time; or\n\t(b)\tif the acquirer is leaving the indirect tax zone on a ship-at least 60\nminutes before the ship's scheduled departure time.\nNote:\tThe scheduled departure time of an aircraft or ship may change, for example, because\nof a delay.\nRequirements for checked in goods\n\t(4)\tIf the acquirer checks in the goods as accompanied baggage, the tax invoice must\nbe endorsed by an officer of Customs with a statement to the effect that the\ngoods have been checked in.\n\t(5)\tThe acquirer must request the endorsement mentioned in subsection (4):\n\t(a)\tbefore presenting to an officer of Customs at a TRS verification facility;\nand\n\t(b)\tin the manner and form approved in writing by the Comptroller-General of\nCustoms.\nSubdivision 168-D-Export by resident of an external Territory as\nunaccompanied baggage"
+    },
+    {
+      "key": "regulation:168-5-10A",
+      "title": "Regulation 168-5-10A - Export of goods to an external Territory",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-10A",
+      "main_structural_heading": "Export of goods to an external Territory",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-D-Export by resident of an external Territory as > Regulation 168-5-10A",
+      "text": "For the purposes of subparagraph 168-5(1A)(e)(ii) of the Act, the circumstances\nin which the goods must be exported to an external Territory are specified in this\nSubdivision.\nNote:\tPart of a person's eligibility for the tourist refund scheme involves exporting goods to\nan external Territory other than as accompanied baggage in circumstances specified in\nthis instrument."
+    },
+    {
+      "key": "regulation:168-5-10B",
+      "title": "Regulation 168-5-10B - Time of export",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-10B",
+      "main_structural_heading": "Time of export",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-D-Export by resident of an external Territory as > Regulation 168-5-10B",
+      "text": "The goods must be exported within 60 days after the day on which they were\nacquired."
+    },
+    {
+      "key": "regulation:168-5-10C",
+      "title": "Regulation 168-5-10C - Verification of export",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-10C",
+      "main_structural_heading": "Verification of export",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-D-Export by resident of an external Territory as > Regulation 168-5-10C",
+      "text": "(1)\tThe acquirer must present to an officer of Customs, on request, at a TRS\nverification facility:\n\t(a)\tthe tax invoice relating to the goods; and\n\t(b)\tdocumentary evidence that the acquirer is an individual to whom\nparagraph 168-5(1A)(c) of the Act applies; and\n\t(c)\tdocumentary evidence that:\n\t(i)\tthe goods have been exported to an external Territory; or\n\t(ii)\tarrangements have been made for the exportation of the goods to an\nexternal Territory within 60 days after the day on which the goods\nwere acquired.\n\t(2)\tHowever, if a TRS verification facility enables an acquirer to lodge a claim for\npayment, the acquirer may instead:\n\t(a)\tcomplete a claim for payment; and\n\t(b)\tinclude the following documents with the claim:\n\t(i)\tthe acquirer's tax invoice;\n\t(ii)\tdocumentary evidence referred to in paragraph (1)(b);\n\t(iii)\tdocumentary evidence referred to in subparagraph (1)(c)(i) or (ii); and\n\t(c)\tlodge the claim for payment at the TRS verification facility.\nNote:\tA TRS verification facility may enable an acquirer to lodge a claim for payment, for\nexample, by placing the claim in a drop box facility.\nTime for compliance\n\t(3)\tThe acquirer must comply with subsection (1) or (2):\n\t(a)\tif the acquirer is leaving the indirect tax zone on an aircraft-at least 30\nminutes before the aircraft's scheduled departure time; or\n\t(b)\tif the acquirer is leaving the indirect tax zone on a ship-at least 60\nminutes before the ship's scheduled departure time.\nNote:\tThe scheduled departure time of an aircraft or ship may change, for example, because\nof a delay.\nRequirements for evidence of export\n\t(4)\tIf the acquirer presents the evidence mentioned in subparagraph (1)(c)(ii),\ndocumentary evidence that the goods have been exported to an external Territory\nas described in that subparagraph must be given to the Comptroller-General of\nCustoms within 90 days after the day on which the goods were acquired.\nSubdivision 168-E-Proportion of amount of GST for payment in cash"
+    },
+    {
+      "key": "regulation:168-5-11",
+      "title": "Regulation 168-5-11 - Cash payment",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-11",
+      "main_structural_heading": "Cash payment",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-E-Proportion of amount of GST for payment in cash\t38 > Regulation 168-5-11",
+      "text": "(1)\tFor the purposes of paragraphs 168-5(1)(e) and (1A)(g) of the Act, this section\napplies if:\n\t(a)\tan amount of GST on a taxable supply is to be paid to an acquirer in cash;\nand\n\t(b)\tthe amount of GST is not an exact multiple of 5 cents.\n\t(2)\tThe amount of GST is to be rounded up or down to the nearest exact multiple of\nRegulation 5 cents (rounding up if the amount is an exact multiple of 2.5 cents). The result is\nthe proportion of the amount of GST that is to be paid to the acquirer.\nSubdivision 168-F-Documentation relating to entitlement to payment"
+    },
+    {
+      "key": "regulation:168-5-12",
+      "title": "Regulation 168-5-12 - Payment authority",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-12",
+      "main_structural_heading": "Payment authority",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-F-Documentation relating to entitlement to payment\t39 > Regulation 168-5-12",
+      "text": "(1)\tThis section applies if:\n\t(a)\tan acquirer complies with subsections 168-5.10(1) and (3) or\nsubsections 168-5.10C(1) and (3) at the request of an officer of Customs;\nand\n\t(b)\tthe officer is satisfied that the acquirer is entitled to be paid an amount\nunder section 168-5 of the Act.\n\t(2)\tThe officer must give the acquirer a payment authority that includes:\n\t(a)\tinformation identifying the acquirer; and\n\t(b)\tthe amount to which the acquirer is entitled.\nSubdivision 168-G-Period and manner of payment"
+    },
+    {
+      "key": "regulation:168-5-14",
+      "title": "Regulation 168-5-14 - Processing payment authority given to officer of Customs at airport",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-14",
+      "main_structural_heading": "Processing payment authority given to officer of Customs at airport",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-G-Period and manner of payment\t39 > Regulation 168-5-14",
+      "text": "(1)\tFor the purposes of subsection 168-5(2) of the Act, this section applies if:\n\t(a)\tan acquirer gives a payment authority to an officer of Customs at a TRS\nverification facility:\n\t(i)\tthat is located at an airport; and\n\t(ii)\tat which facilities exist for making cash payments; and\n\t(b)\tthe amount to be paid to the acquirer (including any amount payable to the\nacquirer, in relation to the acquisition, under section 25-5 of the Wine Tax\nAct) is $200 or less.\nNote:\tFacilities for making cash payments to acquirers will only be available at some\nairports, and will not be available at seaports.\n\t(2)\tIf it is practicable to pay cash to the acquirer, the amount must be paid to the\nacquirer, in Australian currency, before the acquirer leaves the indirect tax zone.\n\t(3)\tIf it is not practicable to pay cash to the acquirer, an officer of Customs must\nmake arrangements for the acquirer to lodge the payment authority at a TRS\nverification facility before leaving the indirect tax zone.\nExample 1:\tA shortage of cash at the TRS verification facility.\nExample 2:\tPassenger congestion that would make it unreasonable to pay cash to each acquirer\nwithin the time available."
+    },
+    {
+      "key": "regulation:168-5-15",
+      "title": "Regulation 168-5-15 - Processing payment authority lodged at a TRS verification facility",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-15",
+      "main_structural_heading": "Processing payment authority lodged at a TRS verification facility",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-G-Period and manner of payment\t39 > Regulation 168-5-15",
+      "text": "(1)\tFor the purposes of subsection 168-5(2) of the Act, this section applies if an\nacquirer:\n\t(a)\tlodges a payment authority at a TRS verification facility when the acquirer\nis leaving the indirect tax zone; and\n\t(b)\tincludes with the authority instructions for paying an amount to the\nacquirer by:\n\t(i)\tcrediting the amount to a credit card account or an Australian bank\naccount; or\n\t(ii)\tposting a cheque for the amount to a nominated address.\n\t(2)\tThe acquirer must be paid the amount in accordance with the instructions given\nwith the authority.\n\t(3)\tThe payment must be made within 60 days after the payment authority is lodged."
+    },
+    {
+      "key": "regulation:168-5-16",
+      "title": "Regulation 168-5-16 - Processing payment authority given to Comptroller-General of",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-16",
+      "main_structural_heading": "Processing payment authority given to Comptroller-General of",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-G-Period and manner of payment\t39 > Regulation 168-5-16",
+      "text": "Customs\n\t(1)\tFor the purposes of subsection 168-5(2) of the Act, this section applies if:\n\t(a)\tan acquirer posts a payment authority, from a place outside the indirect tax\nzone, to the Comptroller-General of Customs; and\n\t(b)\tthe acquirer includes with the authority instructions for paying an amount\nto the acquirer by:\n\t(i)\tcrediting the amount to a credit card account or an Australian bank\naccount; or\n\t(ii)\tposting a cheque for the amount to a nominated address; and\n\t(c)\tthe Comptroller-General of Customs receives the authority not later than\nRegulation 30 days after the day on which the payment authority was given to the\nacquirer.\n\t(2)\tThe acquirer must be paid the amount in accordance with the instructions given\nwith the authority.\n\t(3)\tThe payment must be made within 60 days after the Comptroller-General of\nCustoms receives the payment authority."
+    },
+    {
+      "key": "regulation:168-5-17",
+      "title": "Regulation 168-5-17 - Processing claim for payment",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "168-5-17",
+      "main_structural_heading": "Processing claim for payment",
+      "defined_term": null,
+      "structure_path": "Chapter 4-The special rules\t16 > Part 4-7-Special rules mainly about returns, payments and refunds\t35 > Division 168-Tourist refund scheme\t35 > Subdivision 168-G-Period and manner of payment\t39 > Regulation 168-5-17",
+      "text": "(1)\tFor the purposes of subsection 168-5(2) of the Act, this section applies if:\n\t(a)\tan acquirer lodges a claim for payment in accordance with\nsubsections 168-5.10(2) and (3) or subsections 168-5.10C(2) and (3); and\n\t(b)\tthe acquirer includes with the claim instructions for paying an amount to\nthe acquirer by:\n\t(i)\tcrediting the amount to a credit card account or an Australian bank\naccount; or\n\t(ii)\tposting a cheque for the amount to a nominated address; and\n\t(c)\tthe Comptroller-General of Customs is satisfied that the acquirer is entitled\nto be paid an amount under section 168-5 of the Act.\n\t(2)\tThe acquirer must be paid the amount in accordance with the instructions given\nwith the claim.\n\t(3)\tThe payment must be made within 60 days after whichever is the later of the\nfollowing:\n\t(a)\tthe day the Comptroller-General of Customs receives the claim;\n\t(b)\tif the Comptroller-General of Customs asks the acquirer to give\ninformation relating to the claim for payment-the day the\nComptroller-General receives the information.\nChapter 6-Interpretation\nPart 6-3-Dictionary in the Act\nDivision 195-Dictionary in the Act"
+    },
+    {
+      "key": "regulation:195-1-01",
+      "title": "Regulation 195-1-01 - Compulsory third party schemes",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "195-1-01",
+      "main_structural_heading": "Compulsory third party schemes",
+      "defined_term": null,
+      "structure_path": "Chapter 6-Interpretation\t42 > Part 6-3-Dictionary in the Act\t42 > Division 195-Dictionary in the Act\t42 > Regulation 195-1-01",
+      "text": "For the purposes of the definition of compulsory third party scheme in\nsection 195-1 of the Act, a scheme or arrangement mentioned in column 1 of an\nitem in the following table established under the law mentioned in column 2 of\nthe item is specified.\nCompulsory third party schemes\nItem\nColumn 1\nScheme or arrangement\nColumn 2\nAustralian law\n1\nCompensation scheme for victims of motor\naccidents\nMotor Accidents Act 1988 (NSW)\nMotor Accidents Compensation Act 1999\n(NSW)\n2\nCompulsory third party transport accident\ncompensation scheme\nTransport Accident Act 1986 (Vic.)\n3\nStatutory insurance scheme\nMotor Accident Insurance Act 1994 (Qld)\n4\nCompulsory third party insurance scheme\nMotor Vehicle (Third Party Insurance) Act\nRegulation 1943 (WA)\n5\nThird party insurance scheme\nMotor Vehicles Act 1959 (SA)\n6\nMotor accidents insurance scheme\nMotor Accidents (Liabilities and\nCompensation) Act 1973 (Tas.)\n7\nCompulsory third party insurance scheme\nRoad Transport (Third-Party Insurance) Act\nRegulation 2008 (ACT)\n8\nMotor accidents compensation scheme\nMotor Accidents (Compensation) Act 1979\n(NT)"
+    },
+    {
+      "key": "regulation:195-1-02",
+      "title": "Regulation 195-1-02 - First aid or life saving course",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "195-1-02",
+      "main_structural_heading": "First aid or life saving course",
+      "defined_term": null,
+      "structure_path": "Chapter 6-Interpretation\t42 > Part 6-3-Dictionary in the Act\t42 > Division 195-Dictionary in the Act\t42 > Regulation 195-1-02",
+      "text": "(1)\tFor the purposes of subparagraph (b)(vi) of the definition of first aid or life\nsaving course in section 195-1 of the Act, the following qualifications are\nspecified:\n\t(a)\ta qualification that was specified for the purposes of that subparagraph by\nthe A New Tax System (Goods and Services Tax) Regulations 1999\nimmediately before their repeal;\n\t(b)\ta qualification that:\n\t(i)\tis provided under the VET Quality Framework (within the meaning of\nthe National Vocational Education and Training Regulator Act 2011)\nby a registered training organisation; and\n\t(ii)\tcertifies the attainment of each competency mentioned in column 1 of\nan item in the following table with a unit code mentioned in column 2\nof the item.\nFirst aid or life saving course competencies\nItem\nColumn 1\nCompetency\nColumn 2\nUnit code\n1\nRespond to aquatic emergency using basic\nwater rescue techniques\n(a) SISCAQU002; or\n(b) SISCAQU202A; or\n(c) SRCAQU003B; or\n(d) SRCAQU003A\n2\nInstruct water familiarisation, buoyancy and\nmobility skills\n(a) SISCAQU008; or\n(b) SISCAQU308A; or\n(c) SRCAQU009B; or\n(d) SRCAQU009A\n3\nInstruct water safety and survival skills\n(a) SISCAQU009; or\n(b) SISCAQU309A; or\n(c) SRCAQU010B; or\n(d) SRCAQU010A\n4\nInstruct the strokes of swimming\n(a) SISCAQU010; or\n(b) SISCAQU310A; or\n(c) SRCAQU011B; or\n(d) SRCAQU011A\n\t(2)\tIt is not necessary for a person to obtain certification of attainment of all the\ncompetencies mentioned in column 2 of the table in subsection (1) from the same\nregistered training organisation.\nPart 6-4-Dictionary"
+    },
+    {
+      "key": "regulation:196-1-01.p1",
+      "title": "Regulation 196-1-01 - Definitions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "196-1-01",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Chapter 6-Interpretation\t42 > Part 6-4-Dictionary\t44 > Regulation 196-1-01",
+      "text": "Note: A number of expressions used in this instrument are defined in the Act, including the following: (a) Comptroller-General of Customs; (b) electronic payment; (c) entity; (d) family member; (e) relevant traveller. In this instrument: account, except in subsection 40-5.09(3), means: (a) an account mentioned in item 1 of the table in subsection 40-5.09(3); or (b) an account in relation to which the account holder (the customer) has the right: (i) to have the account maintained by the account provider (the provider); and (ii) to repayment of the amount credited to the account by the provider; and (iii) to require the provider to act on directions by the customer that are in accordance with the arrangements, or any agreement, between the provider and the customer in relation to operation of the account. acquirer means a person who acquires goods the supply of which is a taxable supply. acquisition: (a) has the meaning given in the Act; and (b) in Division 40, also has a meaning affected by section 40-5.05. Act means the A New Tax System (Goods and Services Tax) Act 1999. approved entity means an entity with an approval under section 33-15.03 to make deferred payments of assessed GST on taxable importations. APRA means the Australian Prudential Regulation Authority. associated person means: (a) in relation to a partner in a partnership: (i) if the partner is not an individual-the partner; and (ii) if the partner is an individual-the partner or a family member of the partner; or (b) in relation to a shareholder in a company: (i) if the shareholder is not an individual-the shareholder; and (ii) if the shareholder is an individual-the shareholder or a family member of the shareholder. ATM means automatic teller machine. Australian ADI has the meaning given by section 9 of the Corporations Act 2001. barrier copy, in relation to an invoice, means the copy of the invoice that is attached to the sealed package in which the goods to which the invoice relates are enclosed when the goods are passed into the possession of the relevant traveller. charge card means an article, commonly known as a charge card, for use in obtaining cash, goods or services by incurring a debt with the issuer of the card. closely related: see section 70-5.01A. credit card: (a) means an article commonly known as a credit card and any similar article for use in obtaining cash, goods or services on credit; and (b) includes an article commonly issued by persons conducting business to their customers, or prospective customers, for use in obtaining goods or services from the business on credit. credit union means: (a) an Australian ADI listed on the APRA website as a credit union; or (b) an Australian ADI listed on the APRA website as an Australian-owned bank that: (i) on or before 1 July 2011 was listed on the APRA website as a credit union; and (ii) retains mutuality; and (iii) was listed on the APRA website as a credit union at all times in the period between 1 July 2011 and the time it was listed on the APRA website as an Australian-owned bank; or (c) the Cairns Penny Savings & Loans Limited (ACN 087 933 757). Note: A list of Australian ADIs could in 2019 be viewed on APRA's website (https://www.apra.gov.au/). customer copy, in relation to an invoice, means the copy of the invoice that is placed inside the sealed package in which the goods to which the invoice relates are enclosed when the goods are passed into the possession of the relevant traveller. debit card means an article intended for use by an entity in obtaining access to an account held by the entity for the purpose of withdrawing or depositing cash or obtaining goods or services. derivative means an agreement or instrument the value of which depends on, or is derived from, the value of assets or liabilities, an index or a rate. disposal, of an interest, includes assignment, cancellation, redemption, transfer and surrender of the interest. family company, of an individual, means a company each shareholder of which is either the individual or a family member of the individual. family trust, of an individual, means a trust that distributes income or capital of the trust only to the individual or family members of the individual (whether or not other distributions could lawfully be made). financial supply facilitator: see section 40-5.07. financial supply provider: see section 40-5.06. fixed trust has the same meaning as in section 995-1 of the Income Tax Assessment Act 1997. incidental financial supply: see section 40-5.10. interest means anything that is recognised at law"
+    },
+    {
+      "key": "regulation:196-1-01.p2",
+      "title": "Regulation 196-1-01 - Definitions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "196-1-01",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Chapter 6-Interpretation\t42 > Part 6-4-Dictionary\t44 > Regulation 196-1-01",
+      "text": "means a company each shareholder of which is either the individual or a family member of the individual. family trust, of an individual, means a trust that distributes income or capital of the trust only to the individual or family members of the individual (whether or not other distributions could lawfully be made). financial supply facilitator: see section 40-5.07. financial supply provider: see section 40-5.06. fixed trust has the same meaning as in section 995-1 of the Income Tax Assessment Act 1997. incidental financial supply: see section 40-5.10. interest means anything that is recognised at law or in equity as property in any form. LAG product means a liquid, aerosol, gel, cream or paste that is in a container that has a capacity of more than 100 ml. managed investment scheme has the meaning given by section 9 of the Corporations Act 2001. mortgage loan means a loan secured by a mortgage over real property. mortgage scheme means a managed investment scheme that has at least 50% of its non-cash assets invested in mortgage loans or in one or more other mortgage schemes. officer of Customs has the meaning given by subsection 4(1) of the Customs Act 1901. participant, in a payment system, means a person who is a participant in the system in accordance with the rules governing the operations of the system. payment system means a funds transfer system that facilitates the circulation of money or digital currency, including any procedures that relate to the system. permitted beneficiary: see subsections 48-10.03(3), (4) and (5). provision, of an interest, includes allotment, creation, grant and issue of the interest. receiving enterprise has the meaning given by subsection 70-5.02A(1). recognised trust scheme means a trust that has the following features: (a) the entity that acts in the capacity of trustee or responsible entity of the trust is carrying on, in its own capacity, an enterprise that includes making taxable supplies to the trust; (b) the trust is: (i) a managed investment scheme, or part of a managed investment scheme, other than a securitisation entity or a mortgage scheme; or (ii) an approved deposit fund within the meaning of the Superannuation Industry (Supervision) Act 1993; or (iii) a pooled superannuation trust within the meaning of the Superannuation Industry (Supervision) Act 1993; or (iv) a public sector superannuation scheme within the meaning of the Superannuation Industry (Supervision) Act 1993; or (v) a regulated superannuation fund (other than a self managed superannuation fund) within the meaning of the Superannuation Industry (Supervision) Act 1993. registered training organisation has the meaning given by section 3 of the National Vocational Education and Training Regulator Act 2011. related entity means: (a) for an entity that is a member of a GST group-any other member of the GST group; or (b) for an entity that is a joint venture operator for a GST joint venture-any other company that is a participant in the GST joint venture; or (c) for an entity that has a GST branch-any GST branch the entity has; or (d) for an entity that is a GST branch-the parent entity that has the GST branch and any other GST branch the parent entity has. securities has the meaning given by subsection 92(1) of the Corporations Act 2001. securitisation entity means a trust that meets the conditions in subsection 820-39(3) of the Income Tax Assessment Act 1997 at the time of the supply. Note 1: The relevant supply is mentioned in item 32 of the table in subsection 70-5.02(1). Note 2: Whether a trust meets the conditions in subsection 820-39(3) of the Income Tax Assessment Act 1997 is affected by subsection 820-39(4) of that Act. seller includes an employee or agent of a seller. shareholder of a company that is an unincorporated association means a member of the association. smart card means an article, commonly known as a smart card, that has the capacity to keep a record of financial transactions using the article. supplying enterprise has the meaning given by subsection 70-5.02A(1). tourist refund scheme means the arrangements set out in Division 168 of the Act. transaction card means a debit card, charge card, credit card or smart card. TRS verification facility, in relation to an acquirer who is leaving the indirect tax zone from an airport, or seaport, at which the tourist refund scheme is administered, means the place, at the airport or seaport, at which the scheme is administered. Note: The tourist refund scheme will not be administered at every airport and seaport in Australia. unabsorbed contribution: see subsection 70-5.02A(5). waste includes green waste and recyclables. Chapter 7-Transitional Part 7-1-Transitional matters Division"
+    },
+    {
+      "key": "regulation:196-1-01.p3",
+      "title": "Regulation 196-1-01 - Definitions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "196-1-01",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Chapter 6-Interpretation\t42 > Part 6-4-Dictionary\t44 > Regulation 196-1-01",
+      "text": "set out in Division 168 of the Act. transaction card means a debit card, charge card, credit card or smart card. TRS verification facility, in relation to an acquirer who is leaving the indirect tax zone from an airport, or seaport, at which the tourist refund scheme is administered, means the place, at the airport or seaport, at which the scheme is administered. Note: The tourist refund scheme will not be administered at every airport and seaport in Australia. unabsorbed contribution: see subsection 70-5.02A(5). waste includes green waste and recyclables. Chapter 7-Transitional Part 7-1-Transitional matters Division 197-Transitional matters relating to the repeal of the A New Tax System (Goods and Services Tax) Regulations 1999"
+    },
+    {
+      "key": "regulation:197-1-01",
+      "title": "Regulation 197-1-01 - Definitions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-01",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-01",
+      "text": "In this Division:\ncommencement time means the time this section commences.\nold regulations means the A New Tax System (Goods and Services Tax)\nRegulations 1999.\nrepealing regulations means the Treasury Laws Amendment (Goods and\nServices Tax) Regulations 2019."
+    },
+    {
+      "key": "regulation:197-1-02",
+      "title": "Regulation 197-1-02 - Old regulations continue to apply to tax periods starting before",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-02",
+      "main_structural_heading": "Old regulations continue to apply to tax periods starting before",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-02",
+      "text": "commencement time\n\t\tDespite the repeal of the old regulations by the repealing regulations, the old\nregulations (other than Division 168 of the old regulations), as in force\nimmediately before the commencement time, continue to apply in relation to\nworking out net amounts for tax periods starting before the commencement time."
+    },
+    {
+      "key": "regulation:197-1-03",
+      "title": "Regulation 197-1-03 - Approved forms",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-03",
+      "main_structural_heading": "Approved forms",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-03",
+      "text": "If:\n\t(a)\timmediately before the commencement time, there was a form approved\nunder section 388-50 in Schedule 1 to the Taxation Administration Act\nRegulation 1953 for the purposes of a provision of the old regulations; and\n\t(b)\tthe form could be approved for the purposes of a corresponding provision\nof this instrument;\nthe form has effect for the purposes of this instrument as if it had been approved\nfor the purposes of the corresponding provision of this instrument."
+    },
+    {
+      "key": "regulation:197-1-04",
+      "title": "Regulation 197-1-04 - Deferred payments of assessed GST on taxable importations",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-04",
+      "main_structural_heading": "Deferred payments of assessed GST on taxable importations",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-04",
+      "text": "Applications under the old regulations\n\t(1)\tDespite the repeal of the old regulations by the repealing regulations,\nregulations 33-15.02 to 33-15.05 and 33-15.09 of the old regulations, as in force\nimmediately before the commencement time, continue to apply in relation to any\napplication made under regulation 33-15.02 of the old regulations before the\ncommencement time.\nApprovals under the old regulations\n\t(2)\tThis instrument, other than section 33-15.05, has effect as if:\n\t(a)\tan application had been approved under section 33-15.03 at the\ncommencement time in relation to each entity that was, immediately before\nthe commencement time, an approved entity within the meaning of the old\nregulations; and\n\t(b)\tan application approved after the commencement time under\nregulation 33-15.03 of the old regulations as continued in effect under\nsubsection (1) had been approved under section 33-15.03 at the time of\napproval."
+    },
+    {
+      "key": "regulation:197-1-05.p1",
+      "title": "Regulation 197-1-05 - Tourist refund scheme",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-05",
+      "main_structural_heading": "Tourist refund scheme",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-05",
+      "text": "Despite the repeal of Division 168 of the old regulations by the repealing regulations, that Division, as in force immediately before the commencement time, continues to apply in relation to any goods exported before the commencement time. Schedule 1-Rules for the supply of goods to a relevant traveller Note: See section 38-185.01. Regulation 1 Purpose of this Schedule This Schedule specifies rules for the supply of goods to a relevant traveller for the purposes of item 7 of the table in subsection 38-185(1) of the Act. Regulation 2 Sealed bag rules If: (a) a relevant traveller takes possession of goods before presenting to an officer of Customs as departing the indirect tax zone; and (b) the goods are not LAG products; the supply of the goods must be made in accordance with the requirements in column 2 of an item in the following table and within the timeframe (if any) in column 3 of the item. Sealed bag rules Item Column 1 Summary Column 2 Requirements Column 3 Timeframe 1 Seller to sight travel documents The seller of the goods must sight: (a) the relevant traveller's ticket for travel from the indirect tax zone to a foreign country; or (b) if the Commissioner is satisfied that it is appropriate not to require a ticket to be sighted, a document satisfactory to the Commissioner that provides evidence that the relevant traveller is to travel from the indirect tax zone to a foreign country Before the relevant traveller takes possession of the goods 2 Relevant traveller to sign SB declaration The relevant traveller must sign, and retain a copy of, a declaration (SB declaration) in the approved form setting out: (a) details of the relevant traveller, the goods and the proposed journey; and (b) a statement that the relevant traveller: (i) intends departing the indirect tax zone with the goods within Regulation 60 days after taking possession; and (ii) will not interfere with the goods, the sealed package containing the goods or the copies of the invoice relating to the goods before surrendering the sealed package in accordance with item 6 or 7; and (iii) will, in accordance with item 6 or 7, surrender the sealed package for removal of the barrier copy of the invoice; and (iv) is aware of the penalty for making a false or misleading statement (a) In relation to signing- before the relevant traveller takes possession of the goods; and (b) in relation to retaining a copy-5 years 3 Seller to make an invoice The seller must make an invoice: (a) in the form approved under clause 5; and (b) in triplicate; and (c) containing a full description of the goods; and (d) containing any other information that the form requires At the time of the sale 4 Time is limited within which the relevant traveller may take possession of the goods The seller must pass possession of the goods to the relevant traveller After the start of the 60th day before the date on which the relevant traveller will depart the indirect tax zone, according to the SB declaration 5 Relevant traveller may only take possession of goods in a sealed package The seller must not pass possession of the goods to the relevant traveller unless: (a) the goods are packaged in a manner approved by the Commissioner in writing; and (b) the package is sealed by a method approved by the Commissioner in writing so that the goods cannot be removed from the package without the seal being broken; and (c) a copy of the invoice is attached to the exterior of the package by a method approved by the Commissioner in writing; and (d) a copy of the invoice is placed inside the package by a method that, if possible, enables the invoice to be read without need to break the seal of the package 6 Invoice to be retrieved at the point of surrender of goods before Australian Border Force border clearance area If, before the relevant traveller presents to an officer of Customs as departing the indirect tax zone, the relevant traveller surrenders the sealed package to the carrier with whom the relevant traveller is to travel, the seller must retrieve the barrier copy of the invoice At the time when the relevant traveller surrenders the sealed package 7 Invoice to be retrieved when beyond the Australian Border Force border clearance area If the relevant traveller has possession of the package after presenting to an officer of Customs as departing the indirect tax zone, the relevant traveller must surrender the sealed package to the seller and the seller must retrieve"
+    },
+    {
+      "key": "regulation:197-1-05.p2",
+      "title": "Regulation 197-1-05 - Tourist refund scheme",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-05",
+      "main_structural_heading": "Tourist refund scheme",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-05",
+      "text": "departing the indirect tax zone, the relevant traveller surrenders the sealed package to the carrier with whom the relevant traveller is to travel, the seller must retrieve the barrier copy of the invoice At the time when the relevant traveller surrenders the sealed package 7 Invoice to be retrieved when beyond the Australian Border Force border clearance area If the relevant traveller has possession of the package after presenting to an officer of Customs as departing the indirect tax zone, the relevant traveller must surrender the sealed package to the seller and the seller must retrieve the barrier copy of the invoice After the relevant traveller presents to an officer of Customs as departing the indirect tax zone and before departing on the flight or voyage 8 Sealed package to be examined The seller must examine the sealed package when dealing with it under item 6 or 7 to ascertain whether it: (a) remains sealed; or (b) has been tampered with Immediately before the barrier copy of the invoice is retrieved under item 6 or 7 9 Tampering or other discrepancy in respect of sealed package is to be notified The seller must notify the Commissioner in the approved form if the seller becomes aware that: (a) the package is no longer sealed, or has otherwise been tampered with; or (b) the goods enclosed in the package are not the goods described in the customer copy of the invoice or the barrier copy of the invoice, as the case may be As soon as is practicable 10 Retrieved invoices must be validated The seller must validate the retrieved barrier copy of the invoice by a method approved by the Commissioner in writing As soon as is practicable 11 Invoices must be matched The seller must reconcile the retrieved barrier copy of the invoice against the seller's copy of the invoice, by a method approved by the Commissioner in writing As soon as is practicable Regulation 3 Sealed bag rules for liquids, aerosols, gels, creams and pastes If: (a) a relevant traveller takes possession of goods before presenting to an officer of Customs as departing the indirect tax zone; and (b) the goods are a LAG product; the supply of the goods must: (c) be made in accordance with the requirements in column 2 of an item in the table in clause 2 and within the timeframe (if any) in column 3 of the item; or (d) be made in accordance with the requirements in column 2 of an item in the following table and within the timeframe (if any) in column 3 of the item. Sealed bag rules Item Column 1 Summary Column 2 Requirements Column 3 Timeframe 1 Seller to sight travel documents The seller of the goods must sight: (a) the relevant traveller's ticket for travel from the indirect tax zone to a foreign country; or (b) if the Commissioner is satisfied that it is appropriate not to require a ticket to be sighted, a document satisfactory to the Commissioner that provides evidence that the relevant traveller is to travel from the indirect tax zone to a foreign country Before the relevant traveller takes possession of the goods 2 Relevant traveller to sign SB declaration The relevant traveller must sign, and retain a copy of, a declaration (SB declaration) in the approved form setting out: (a) details of the relevant traveller, the goods and the proposed journey; and (b) a statement that the relevant traveller: (i) intends departing the indirect tax zone with the goods within Regulation 60 days after taking possession; and (ii) will remove the barrier copy of the invoice, surrender the sealed package and have the barrier copy of the invoice endorsed, as mentioned in item 6; and (iii) will not otherwise interfere with the goods, the sealed package containing the goods or the copies of the invoice relating to the goods before surrendering the sealed package in accordance with item 6; and (iv) is aware of the penalty for making a false or misleading statement (a) In relation to signing- before the relevant traveller takes possession of the goods; and (b) in relation to retaining a copy-5 years 3 Seller to make an invoice The seller must make an invoice: (a) in the form approved under clause 5; and (b) in triplicate; and (c) containing a full description of the goods; and (d) containing any other information that the form requires At the time of the sale 4 Time is limited within which the relevant traveller may take possession of the goods The seller must pass possession of the goods to the"
+    },
+    {
+      "key": "regulation:197-1-05.p3",
+      "title": "Regulation 197-1-05 - Tourist refund scheme",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-05",
+      "main_structural_heading": "Tourist refund scheme",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-05",
+      "text": "In relation to signing- before the relevant traveller takes possession of the goods; and (b) in relation to retaining a copy-5 years 3 Seller to make an invoice The seller must make an invoice: (a) in the form approved under clause 5; and (b) in triplicate; and (c) containing a full description of the goods; and (d) containing any other information that the form requires At the time of the sale 4 Time is limited within which the relevant traveller may take possession of the goods The seller must pass possession of the goods to the relevant traveller After the start of the 60th day before the date on which the relevant traveller will depart the indirect tax zone, according to the SB declaration 5 Relevant traveller may only take possession of goods in a sealed package The seller must not pass possession of the goods to the relevant traveller unless: (a) the goods are packaged in a manner approved by the Commissioner in writing; and (b) the package is sealed by a method approved by the Commissioner in writing so that the goods cannot be removed from the package without the seal being broken; and (c) a copy of the invoice is attached to the exterior of the package by a method approved by the Commissioner in writing; and (d) a copy of the invoice is placed inside the package by a method that, if possible, enables the invoice to be read without need to break the seal of the package 6 Relevant traveller to remove invoice The relevant traveller must: (a) remove the barrier copy of the invoice; and (b) surrender the sealed package to the carrier with whom the relevant traveller is to travel; and (c) request an officer of Customs to endorse the barrier copy of the invoice with a statement to the effect that the goods have been checked in Before presenting to an officer of Customs as departing the indirect tax zone 7 Seller to retrieve invoice The seller must retrieve the barrier copy of the invoice After the relevant traveller surrenders the sealed package 8 Tampering or other discrepancy in respect of sealed package is to be notified The seller must notify the Commissioner in the approved form if the seller becomes aware that: (a) the package is no longer sealed, or has otherwise been tampered with; or (b) the goods enclosed in the package are not the goods described in the customer copy of the invoice or the barrier copy of the invoice, as the case may be; or (c) the barrier copy of the invoice has not been endorsed as mentioned in item 6 As soon as is practicable 9 Retrieved invoices must be validated The seller must validate the retrieved barrier copy of the invoice by a method approved by the Commissioner in writing As soon as is practicable 10 Invoices must be matched The seller must reconcile the retrieved barrier copy of the invoice against the seller's copy of the invoice, by a method approved by the Commissioner in writing As soon as is practicable Regulation 4 Customs barrier rules If a relevant traveller takes possession of goods after presenting to an officer of Customs as departing the indirect tax zone, the supply of the goods must be made in accordance with the requirements in column 2 of an item in the following table and within the timeframe (if any) in column 3 of the item. Customs barrier rules Item Column 1 Summary Column 2 Requirements Column 3 Timeframe 1 Seller to sight travel documents The seller of the goods must sight: (a) either: (i) the relevant traveller's boarding pass or ticket for travel from the indirect tax zone to a foreign country; or (ii) if the Commissioner is satisfied that it is appropriate not to require a ticket or boarding pass to be sighted, a document satisfactory to the Commissioner that provides evidence that the relevant traveller is to travel from the indirect tax zone to a foreign country; and (b) a document satisfactory to the Commissioner that provides evidence that the relevant traveller presented to an officer of Customs as departing the indirect tax zone before taking possession of the goods Before the relevant traveller takes possession of the goods 2 Relevant traveller may have to sign a CB declaration If the relevant traveller pays for the goods before presenting to an officer of Customs as departing the indirect tax zone, the relevant traveller must sign, and retain a copy of, a declaration (CB declaration) in the approved form setting out: (a) details of the"
+    },
+    {
+      "key": "regulation:197-1-05.p4",
+      "title": "Regulation 197-1-05 - Tourist refund scheme",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-05",
+      "main_structural_heading": "Tourist refund scheme",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-05",
+      "text": "(b) a document satisfactory to the Commissioner that provides evidence that the relevant traveller presented to an officer of Customs as departing the indirect tax zone before taking possession of the goods Before the relevant traveller takes possession of the goods 2 Relevant traveller may have to sign a CB declaration If the relevant traveller pays for the goods before presenting to an officer of Customs as departing the indirect tax zone, the relevant traveller must sign, and retain a copy of, a declaration (CB declaration) in the approved form setting out: (a) details of the relevant traveller, the goods and the proposed journey; and (b) a statement that the relevant traveller is aware of the penalty for making a false or misleading statement (a) In relation to signing- before the relevant traveller takes possession of the goods; and (b) in relation to retaining a copy-5 years 3 Seller to make an invoice or receipt The seller must make an invoice or receipt: (a) in the form approved under clause 5; and (b) in duplicate; and (c) containing a full description of the goods; and (d) containing any other information that the form requires At the time of the sale Regulation 5 Forms of invoice and receipt For the purposes of item 3 of the tables in clauses 2, 3 and 4, the Commissioner may, in writing, approve forms of invoice and receipt, including forms that render obvious an alteration to, or deletion from, the contents of the invoice or receipt. Regulation 6 Employees or agents may meet requirements A requirement to be met by a seller under this Schedule may be met by action of an employee or agent of the seller. Schedule 2-Examples of financial supply Note: See section 40-5.11. Regulation 1 Examples for item 1 of the table in subsection 40-5.09(3) (accounts) A supply mentioned, or a supply of something mentioned, in the following table that relates to the matter mentioned in item 1 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Accounts Item Examples 1 Opening, keeping, operating, maintaining and closing of cheque, debit card, deposit and savings accounts for account holders 2 Cash collection, handling and sorting for account holders by account providers 3 ATM, electronic and telephone operation of accounts 4 Supply of standard cheque and deposit books for account holders 5 Supply of debit and smart cards 6 Cashing cheques and payment orders 7 Preparation, reconciliation and replacement of account statements 8 Notification of dishonoured transactions and unpaid fees 9 Stopping payment of cheques 10 Operation of authorised overdraft facilities 11 Unauthorised usage of overdraft facilities 12 Retention and storage of vouchers 13 Making information about accounts available 14 Garnishee of accounts 15 Recovery of Commonwealth, State and Territory fees, duties and taxes 16 Audit confirmation of accounts 17 Electronic funds transfer 18 Money transfer for account holders 19 Making disbursements for account holders Regulation 2 Examples for item 2 of the table in subsection 40-5.09(3) (debt and credit) A supply mentioned, or a supply of something mentioned, in the following table that relates to the matter mentioned in item 2 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Debt and credit Item Examples 1 Borrowing and lending, including establishing, maintaining and discharging loans 2 Opening, keeping, operating, maintaining and closing charge and credit card facilities 3 Supply of credit cards 4 Establishing, operating and terminating letters of credit 5 Right to an income stream under a securitisation arrangement 6 Recovery of Commonwealth, State and Territory fees, duties and taxes 7 Recovery of lenders mortgage insurance fees Regulation 3 Examples for item 3 of the table in subsection 40-5.09(3) (charges and mortgages) A supply mentioned, or a supply of something mentioned, in the following table that relates to the matter mentioned in item 3 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Charges and mortgages Item Examples 1 A mortgage over land or premises 2 A mortgage over a chattel 3 A charge over the assets of a company 4 Documentation or valuation of the collateral or security for a credit or an advance 5 A mortgage over a share or bond Regulation 4 Examples for item 6 of"
+    },
+    {
+      "key": "regulation:197-1-05.p5",
+      "title": "Regulation 197-1-05 - Tourist refund scheme",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "197-1-05",
+      "main_structural_heading": "Tourist refund scheme",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 197-1-05",
+      "text": "to the matter mentioned in item 3 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Charges and mortgages Item Examples 1 A mortgage over land or premises 2 A mortgage over a chattel 3 A charge over the assets of a company 4 Documentation or valuation of the collateral or security for a credit or an advance 5 A mortgage over a share or bond Regulation 4 Examples for item 6 of the table in subsection 40-5.09(3) (life insurance business) A supply mentioned, or a supply of something mentioned, in the following table that relates to the matter mentioned in item 6 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Life insurance business Item Examples 1 A contract of insurance that provides for the payment of money on the death of a person or on the happening of a contingency dependent on the termination or continuance of human life 2 A contract of insurance that is subject to payment of premiums for a term dependent on the termination or continuance of human life 3 A contract of insurance for a term dependent on the termination or continuance of human life that provides for the payment of an annuity 4 A contract that provides for the payment of an annuity for a term not dependent on the continuance of a human life 5 A continuous disability policy within the meaning of section 9A of the Life Insurance Act 1995 6 A contract (whether or not a contract of insurance) that constitutes an investment account contract, or an investment-linked contract, within the meaning of section 14 of the Life Insurance Act 1995 Regulation 5 Examples for item 7 of the table in subsection 40-5.09(3) (guarantees) A supply mentioned, or a supply of something mentioned, in the following table that relates to the matter mentioned in item 7 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Guarantees Item Examples 1 A surety bond that is a guarantee 2 A performance bond"
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Examples for item 7A of the table in subsection 40-5.09(3) (indemnities)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Examples for item 7A of the table in subsection 40-5.09(3) (indemnities)",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 6",
+      "text": "A supply mentioned, or a supply of something mentioned, in the following table\nthat relates to the matter mentioned in item 7A of the table in\nsubsection 40-5.09(3), or to an incidental financial supply, is an example of a\nsupply of an interest in or under that matter, or of an incidental financial supply.\nIndemnities\nItem\nExamples\n1\nAn indemnity that is not a contract of insurance"
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Examples for item 8 of the table in subsection 40-5.09(3) (hire purchase)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Examples for item 8 of the table in subsection 40-5.09(3) (hire purchase)",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 7",
+      "text": "A supply mentioned, or a supply of something mentioned, in the following table\nthat relates to the matter mentioned in item 8 of the table in\nsubsection 40-5.09(3), or to an incidental financial supply, is an example of a\nsupply of an interest in or under that matter, or of an incidental financial supply.\nHire purchase\nItem\nExamples\n1\nThe amount of interest, and associated fees and charges, in respect of the credit component\nunder a hire purchase agreement entered into before 1 July 2012"
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Examples for item 9 of the table in subsection 40-5.09(3) (currency)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Examples for item 9 of the table in subsection 40-5.09(3) (currency)",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 8",
+      "text": "A supply mentioned, or a supply of something mentioned, in the following table\nthat relates to the matter mentioned in item 9 of the table in\nsubsection 40-5.09(3), or to an incidental financial supply, is an example of a\nsupply of an interest in or under that matter, or of an incidental financial supply.\nCurrency\nItem\nExamples\n1\nForeign currency in cash form\n2\nForeign currency drafts\n3\nTravellers cheques\n4\nInternational cheques\n5\nCollection, negotiation and endorsement of instruments (including cheques) for payment in\nforeign currency, including message services\n6\nForward contracts for transactions to buy or sell foreign currency\n7\nOptions to buy or sell foreign currency\n8\nConversion of Australian currency into foreign currency and conversion of foreign currency\ninto Australian currency"
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Examples for item 10 of the table in subsection 40-5.09(3) (securities)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Examples for item 10 of the table in subsection 40-5.09(3) (securities)",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 9",
+      "text": "A supply mentioned, or a supply of something mentioned, in the following table\nthat relates to the matter mentioned in item 10 of the table in\nsubsection 40-5.09(3), or to an incidental financial supply, is an example of a\nsupply of an interest in or under that matter, or of an incidental financial supply.\nSecurities\nItem\nExamples\n1\nBonds, stocks or debentures issued, or proposed to be issued, by a government entity\n2\nShares in, or debentures or convertible notes of, a body\n3\nSubordinated notes\n4\nStructured notes\n5\nUnits in a unit trust\n6\nDealings in floating rate notes, commercial bills, commercial paper, extendable bill\ninvestments and other financial instruments\n7\nInterests in a partnership\n8\nPromissory notes and bills of exchange\n9\nBank cheques\n10\nWarrants\n11\nSecurities lending"
+    },
+    {
+      "key": "regulation:10.p1",
+      "title": "Regulation 10 - Examples for item 11 of the table in subsection 40-5.09(3) (derivatives)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Examples for item 11 of the table in subsection 40-5.09(3) (derivatives)",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 10",
+      "text": "A supply mentioned, or a supply of something mentioned, in the following table that relates to the matter mentioned in item 11 of the table in subsection 40-5.09(3), or to an incidental financial supply, is an example of a supply of an interest in or under that matter, or of an incidental financial supply. Derivatives Item Examples 1 Forward contracts, futures contracts, swap contracts and options contracts the value of which depends on, or is derived from: (a) the price of debt securities or debt securities index values or interest rates; or (b) foreign exchange or currency values or currency index values; or (c) share or stock prices or equity index values; or (d) credit spreads or credit events, including: (i) default; and (ii) other forms of financial distress; and (iii) credit index values; or (e) macroeconomic indicators or variables; or (f) climatic events or indexes 2 Commodity derivatives that involve no option, right or obligation to delivery of the commodity, such as electricity derivatives 3 Reciprocal repurchase agreements 4 Options over input taxed supply of precious metals 5 Securities lending agreements 6 Initial and variation margins in respect of exchange traded futures contracts 7 Cash settlement of a derivative over the counter or on the exchange rather than the physical delivery of the underlying taxable assets Schedule 3-Examples of supply that is not financial supply Note: See section 40-5.13. Regulation 1 Examples for item 3 of the table in section 40-5.12 (professional services) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 3 of the table in section 40-5.12 is an example of a supply mentioned in that section. Professional services Item Examples 1 Advice by a legal practitioner in the course of professional practice 2 Advice by an accountant in the course of professional practice 3 Taxation advice, including preparation of tax returns 4 Actuarial advice 5 Rating services for securitisation vehicles Regulation 2 Examples for item 4 of the table in section 40-5.12 (payment systems) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 4 of the table in section 40-5.12 is an example of a supply mentioned in that section. Payment systems Item Examples 1 Supply of services by a payment system operator to a participant in the system for which the following fees are charged by the operator: (a) membership fees; (b) processing fees; (c) service fees; (d) marketing fees; (e) risk management fees; (f) multi-currency fees 2 Access to a payment system, and supply of other related services by a participant in the system to a third party 3 Supply of a service by one participant in a payment system to another participant in the system in relation to charge, credit and debit card transactions 4 Processing, settling, clearing and switching transactions of the following kinds: (a) direct credit and debit; (b) other debit and credit transactions; (c) charge, credit and debit card transactions; (d) cheque; (e) electronic funds transfer; (f) ATM; (g) BPAY; (h) internet banking; (i) Bank@Post; (j) SWIFT (Society for Worldwide Interbank Financial Telecommunications) Payment Delivery System; (k) an approved RTGS (real time gross settlement) system; (l) Austraclear 5 Supply to a participant in a payment system by the operator of the system of the following services: (a) processing of account data; (b) electronic payment services Regulation 3 Examples for item 7 of the table in section 40-5.12 (options, rights and obligations) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 7 of the table in section 40-5.12 is an example of a supply mentioned in that section. Options, rights and obligations Item Examples 1 Deliverable wool futures and forward contracts 2 Deliverable wheat futures and forward contracts 3 Options over a contract mentioned in item 1 or 2 Regulation 4 Examples for item 10 of the table in section 40-5.12 (insurance and reinsurance) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 10 of the table in section 40-5.12 is an example of a supply mentioned in that section. Insurance and reinsurance Item Examples 1 Health insurance provided as part of a health insurance business (within the meaning of section 121-1 of the Private Health Insurance Act 2007) Regulation 5 Examples for item 12 of the table in section 40-5.12 (managing assets or liabilities) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item"
+    },
+    {
+      "key": "regulation:10.p2",
+      "title": "Regulation 10 - Examples for item 11 of the table in subsection 40-5.09(3) (derivatives)",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Examples for item 11 of the table in subsection 40-5.09(3) (derivatives)",
+      "defined_term": null,
+      "structure_path": "Chapter 7-Transitional\t49 > Part 7-1-Transitional matters\t49 > Division 197-Transitional matters relating to the repeal of the A New Tax > Regulation 10",
+      "text": "of something mentioned, in the following table that relates to something mentioned in item 10 of the table in section 40-5.12 is an example of a supply mentioned in that section. Insurance and reinsurance Item Examples 1 Health insurance provided as part of a health insurance business (within the meaning of section 121-1 of the Private Health Insurance Act 2007) Regulation 5 Examples for item 12 of the table in section 40-5.12 (managing assets or liabilities) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 12 of the table in section 40-5.12 is an example of a supply mentioned in that section. Managing assets or liabilities Item Examples 1 Managing the assets or liabilities of an entity 2 Acting as the trustee of an entity 3 Investment portfolio administration, including: (a) maintaining account holder records and associated accounting; and (b) processing of contributions and returns; and (c) storage and retrieval of archives; and (d) statement processing and bulk mailing Regulation 6 Examples for item 15 of the table in section 40-5.12 (trustee services) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 15 of the table in section 40-5.12 is an example of a supply mentioned in that section. Trustee services Item Examples 1 Acting as a trustee of a trust or other entity 2 Acting as a trustee under a will or settlement Regulation 7 Examples for item 20 of the table in section 40-5.12 (hire purchase) A supply mentioned, or a supply of something mentioned, in the following table that relates to something mentioned in item 20 of the table in section 40-5.12 is an example of a supply mentioned in that section. Hire purchase Item Examples 1 The credit component under a hire purchase agreement entered into on or after 1 July 2012 where the consideration is the amount of interest and associated fees and charges OPC63556 - D iv A New Tax System (Goods and Services Tax) Regulations 2019 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 i OPC63556 - D Section 1 50 A New Tax System (Goods and Services Tax) Regulations 2019 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 1 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 65 OPC63556 - D Chapter 7 Transitional Part 7-1 Transitional matters Division 197 Transitional matters relating to the repeal of the A New Tax System (Goods and Services Tax) Regulations 1999 Clause 197-1.05 Transitional Chapter 7 Transitional matters Part 7-1 Transitional matters relating to the repeal of the A New Tax System (Goods and Services Tax) Regulations 1999 Division 197 Clause 197-1.05 64 A New Tax System (Goods and Services Tax) Regulations 2019 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 65 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 Error! No text of specified style in document. 65 OPC63556 - D Schedule 3 Examples of supply that is not financial supply Section 7 Examples of supply that is not financial supply Schedule 3 Section 7 65 A New Tax System (Goods and Services Tax) Regulations 2019 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 65 OPC63556 - D A New Tax System (Goods and Services Tax) Regulations 2019 65 OPC63556 - D"
+    }
+  ]
+}

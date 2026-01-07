@@ -1,0 +1,163 @@
+{
+  "doc": {
+    "jurisdiction": "australian_capital_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/act/consol_act/tsppa2000587/",
+    "register_url": "https://www.legislation.act.gov.au/a/2000-21/",
+    "source": "Territory Superannuation Provision Protection Act 2000 (100000177).txt",
+    "filename": "Territory Superannuation Provision Protection Act 2000 (100000177).json",
+    "name": "Territory Superannuation Provision Protection Act 2000",
+    "citation": "Territory Superannuation Provision Protection Act 2000"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act This Act is the Territory Superannuation Provision Protection Act 2000.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act This Act is the Territory Superannuation Provision Protection Act 2000.",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 1",
+      "text": ""
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Object of Act The object of this Act is to ensure that funds dedicated to meeting the superannuation liabilities of the Territory, territory authorities and",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Object of Act The object of this Act is to ensure that funds dedicated to meeting the superannuation liabilities of the Territory, territory authorities and",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 3",
+      "text": "territory-owned corporations remain dedicated to meeting those\nliabilities."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain words",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain words",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 4",
+      "text": "and expressions used in this Act, and includes references (signpost\ndefinitions) to other words and expressions defined elsewhere in this\nAct.\n     For example, the signpost definition\n'\"appropriation\"--see the Financial Management Act\n, dictionary.' means that the expression 'appropriation'\nis defined in that dictionary and the definition applies to this Act.\nNote 2     A definition in the dictionary (including a signpost\ndefinition) applies to the entire Act unless the definition, or another\nprovision of the Act, provides otherwise or the contrary intention otherwise\nappears (see Legislation Act\n, s 155 and s 156 (1)).\nSection 5 A note included in this Act is explanatory and is not part of this Act. Note See the Legislation Act\n, s 127 (1), (4) and (5) for the legal status of notes."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Establishment of superannuation directorate The Treasurer must, under the Financial Management Act , dictionary, definition of \"directorate\", paragraph (b),",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Establishment of superannuation directorate The Treasurer must, under the Financial Management Act , dictionary, definition of \"directorate\", paragraph (b),",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 6",
+      "text": "establish and keep a directorate for this Act."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Superannuation banking accounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Superannuation banking accounts",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 7",
+      "text": "(1)     The director-general must open and keep 1 or more banking accounts\n(a superannuation banking account) solely for the\nmanagement of the superannuation assets and liabilities of the Territory,\nterritory authorities and territory-owned corporations.\n     (2)     A superannuation banking account is a directorate banking account of\nthe superannuation directorate."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Payment of superannuation appropriations An amount appropriated by a superannuation appropriation may only be paid out of the territory banking account to be credited to a superannuation",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Payment of superannuation appropriations An amount appropriated by a superannuation appropriation may only be paid out of the territory banking account to be credited to a superannuation",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 8",
+      "text": "banking account."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Payments from superannuation banking accounts An amount from a superannuation appropriation may only be paid out of a superannuation banking account--",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Payments from superannuation banking accounts An amount from a superannuation appropriation may only be paid out of a superannuation banking account--",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 9",
+      "text": "(a)     to meet the liabilities of the Territory to provide superannuation\nbenefits in relation to--\n               (i)     members of the Legislative Assembly; or\n               (ii)     members of the staff of a member of the Legislative Assembly;\nor\n         (b)     to meet the liabilities of the Territory, a territory authority or a\nterritory-owned corporation to provide superannuation      benefits in relation to\nits officers or employees; or\n         (c)     to pay fees owing to a body that manages a superannuation scheme of\nwhich an officer or employee of the Territory, a territory authority or a\nterritory-owned corporation is a member in his or her capacity as such an\nofficer or employee; or\n         (d)     to pay actuarial fees and other administrative costs and expenses\nincurred by the superannuation directorate in administering money provided for\nsuperannuation entitlements in relation to members of the Legislative Assembly,\nmembers of the staff of members of the Legislative Assembly or officers or\nemployees of the Territory, territory authorities or territory-owned\ncorporations; or\n         (e)     for transfer to another superannuation banking account; or\n         (f)     for investment in accordance with section 11."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Closure of superannuation banking accounts If a superannuation banking account is closed, any amount standing to the credit of the account immediately before it is closed must be paid into another",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Closure of superannuation banking accounts If a superannuation banking account is closed, any amount standing to the credit of the account immediately before it is closed must be paid into another",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 10",
+      "text": "superannuation banking account."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Investment of amounts in superannuation banking accounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Investment of amounts in superannuation banking accounts",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 11",
+      "text": "(1)     An amount in a superannuation banking account that is not immediately\nneeded for a purpose mentioned in section 9 (a) to (e) may be\ninvested--\n         (a)     by the Treasurer, for the superannuation banking account, in an\ninvestment mentioned in the Financial Management Act 1996\n, section 38 (1) (a) to (e); or\n         (b)     in any investment prescribed by a superannuation management\nguideline.\n     (2)     For subsection (1) (a), the investment must be consistent with any\ninvestment prescribed by a superannuation management guideline.\n     (3)     Transfers between the territory banking account and superannuation\nbanking accounts to facilitate investment may be made without\nappropriation.\n     (4)     Returns received by the Territory for the investment of amounts from a\nsuperannuation banking account must be paid into a superannuation banking\naccount.\n     (5)     Any fees or expenses reasonably incurred in making or managing an\ninvestment of an amount from a superannuation banking account may be deducted\nfrom the investment.\n     (6)     Returns that must be paid into a superannuation banking account under\nsubsection (4) may be paid into the account directly or through the territory\nbanking account.\n     (7)     If returns to be paid to a superannuation banking account are paid\ninto the territory banking account under subsection (6), the returns may be paid\nto the superannuation banking account from the territory banking account without\nfurther appropriation."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Returns on amounts appropriated for superannuation",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Returns on amounts appropriated for superannuation",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 12",
+      "text": "(1)     A superannuation appropriation, whether made before or after the\ncommencement of this Act, is taken to be an appropriation of--\n         (a)     the amount stated in the appropriation; and\n         (b)     any returns received on the investment of the amount, or any part of\nit     , under this Act.\n     (2)     Returns received by the Territory on an investment under this Act of\nan amount from a superannuation appropriation must be applied for the purposes\nfor which the amount invested was appropriated.\n     (3)     Any fees or expenses reasonably incurred in making or managing an\ninvestment of an amount from a superannuation appropriation may be deducted from\nthe investment."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Appropriation of certain amounts paid by territory authorities and territory-owned corporations An amount paid to the Territory by a territory authority or a",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Appropriation of certain amounts paid by territory authorities and territory-owned corporations An amount paid to the Territory by a territory authority or a",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 13",
+      "text": "territory-owned corporation, whether before or after the commencement of this\nAct, as part of an arrangement for the management of the superannuation\nliabilities of the authority or corporation, and any returns on the investment\nof the amount, are appropriated for the purpose of making payments to satisfy\nsuperannuation liabilities of the Territory."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Additional provisions for superannuation",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Additional provisions for superannuation",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 14",
+      "text": "(1)     Despite the Financial Management Act\n, section 6, the Treasurer may, if the Treasurer considers it appropriate\nto do so, authorise payment of a stated amount of public money of the Territory\nthat is not required for non-superannuation purposes into a superannuation\nbanking account.\n     (2)     An authorisation under subsection (1) is a disallowable\ninstrument.\nNote     A disallowable instrument must be notified, and presented to\nthe Legislative Assembly, under the Legislation Act\n.\n     (3)     Unless an authorisation is disallowed by the Legislative\nAssembly, the authorisation commences--\n         (a)     on the day after the last day when it could have been disallowed;\nor\n         (b)     if the authorisation provides for a later date or time of\ncommencement--on that date or at that time.\n     (4)     In this section:\n\"non-superannuation purposes\" means purposes other than\nmeeting, or providing for, present or future unfunded liabilities of the\nTerritory, territory authorities or territory-owned corporations for\nsuperannuation benefits for persons mentioned in section 9 (a) or (b)."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Investments made from superannuation provision account",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Investments made from superannuation provision account",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 15",
+      "text": "(1)     An amount that--\n         (a)     was appropriated for superannuation and paid into--\n               (i)     the ACT Superannuation Provision Trust Account established under the\nAudit Act\n1989\n, section 85 (2); or\n               (ii)     the superannuation provision account; and\n         (b)     has been invested in investments that were current on\nSection 1 July 2000;\n     must, on the repayment of the amount invested, be paid into 1 or more\nsuperannuation banking accounts.\n     (2)     Returns on an amount invested as mentioned in subsection (1) that are\npaid after 1 July 2000 must be paid into a superannuation banking\naccount.\n     (3)     Returns that are to be paid into a superannuation banking account\nunder subsection (2) may be paid into the account directly or through the\nTerritory banking account.\nNote     1 July 2000 was the day the Act commenced."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Superannuation management guidelines",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Superannuation management guidelines",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 16",
+      "text": "(1)     The Treasurer may make superannuation management guidelines for\nthis Act.\n     (2)     A guideline is a disallowable instrument.\nNote     A disallowable instrument must be notified, and presented to\nthe Legislative Assembly, under the Legislation Act\n.\n- NOTES Dictionary\nDictionary\n     (see s 4)\nNote 1     The Legislation Act\n contains definitions and other provisions relevant to this Act.\nNote 2     In particular, the Legislation Act\n, dict, pt 1, defines the following terms:\n               o      authorised deposit-taking institution\n               o      Commonwealth\n               o      director-general (see s 163)\n               o      disallowable instrument\n               o      Legislative Assembly\n               o      State\n               o      territory-owned corporation\n               o      the Territory\n               o      Treasurer.\n\"appropriation\"--see the Financial Management Act\n, dictionary.\n\"directorate\"--see the Financial Management Act\n, dictionary.\n\"Financial Management Act \"means the Financial Management Act 1996\n.\n\"invest\" includes enter into a transaction or arrangement for\nthe protection or enhancement of investments.\n\"returns\", in relation to an investment--see the Financial Management Act 1996\n, dictionary.\n\"securities\"--see the Financial Management Act\n, dictionary.\n\"superannuation appropriation \"means an appropriation to the\nsuperannuation directorate declared by the Act by which it is made to be for\nsuperannuation, and includes--\n         (a)     an appropriation made before 1 July 2000 to--\n               (i)     the department known as the ACT Superannuation Provision Unit;\nor\n               (ii)     the department known as the ACT Superannuation and Insurance\nProvision Unit; and\n         (b)     a payment under an authorisation under section 14.\nNote     1 July 2000 was the day the Act commenced.\n\"superannuation banking account\"--see section 7.\n\"superannuation directorate\" means the directorate established\nunder section 6.\n\"superannuation management guideline\" means a guideline made\nunder section 16 (Superannuation management guidelines).\n\"superannuation provision account\" means the banking account\nkept by the Department of Treasury and Infrastructure immediately before 1 July\nSection 2000 that was known as the Superannuation Provision Account.\nNote     1 July 2000 was the day the Act commenced.\n\"territory authority\"--see the Financial Management Act\n, dictionary.\n\"territory banking account\"--see the Financial Management Act\n, dictionary.\n- NOTES Endnotes"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Notes",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Notes",
+      "defined_term": null,
+      "structure_path": "Territory Superannuation Provision Protection Act 2000 > Section 5",
+      "text": ""
+    }
+  ]
+}

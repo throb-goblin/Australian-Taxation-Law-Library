@@ -1,0 +1,573 @@
+{
+  "doc": {
+    "jurisdiction": "western_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/wa/consol_act/p84a1895135/",
+    "register_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a577.html&view=consolidated",
+    "source": "Partnership Act 1895 (100000128).txt",
+    "filename": "Partnership Act 1895 (100000128).json",
+    "name": "Partnership Act 1895",
+    "citation": "Partnership Act 1895"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part IA -- Preliminary > Section 1",
+      "text": "This Act may be cited as the Partnership Act 1895^ 1."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part IA -- Preliminary > Section 2",
+      "text": "This Act shall commence and come into force on 1 October 1895."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Terms used in this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Terms used in this Act",
+      "defined_term": null,
+      "structure_path": "Part IA -- Preliminary > Section 3",
+      "text": "In this Act the following words and expressions are used in the following\nsenses, unless a different intention appears from the context --\nbusiness includes any trade, occupation, or profession;\ncourt includes every court and judge having jurisdiction in the case;\nincorporated limited partnership has the meaning given in the Limited\nPartnerships Act 2016 section 3;\nland includes hereditaments, corporeal and incorporeal, of any tenure;\nlimited partnership has the meaning given in the Limited Partnerships Act 2016\nSection 3; person includes any body of persons corporate or unincorporated; writing includes print, and written includes printed."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Application of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Application of Act",
+      "defined_term": null,
+      "structure_path": "Part IA -- Preliminary > Section 4",
+      "text": "(1) Subject to subsections (2) and (3), this Act shall not apply to any company\nor association which is --\n(a) registered as a company under the Corporations Act 2001 of the Commonwealth\nor any other Act of Parliament for the time being in force and relating to the\nregistration of joint stock companies; or\n(b) formed or incorporated by or in pursuance of any other local or foreign Act\nof Parliament, or Letters Patent, or Royal Charter.\n(2) This Act applies to a limited partnership to the extent and with the\nmodifications set out in the Limited Partnerships Act 2016 section 6.\n(3) This Act applies to an incorporated limited partnership to the extent and\nwith the modifications set out in the Limited Partnerships Act 2016 sections 8\nand 9."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Present law to continue except as modified",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Present law to continue except as modified",
+      "defined_term": null,
+      "structure_path": "Part IA -- Preliminary > Section 6",
+      "text": "The rules of equity and common law applicable to partnership shall continue in\nforce, except so far as they are inconsistent with the express provisions of\nthis Act.\n                        Part I -- Nature of partnership"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Meaning of \"partnership\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Meaning of \"partnership\"",
+      "defined_term": null,
+      "structure_path": "Part I -- Nature of partnership > Section 7",
+      "text": "(1) Subject to subsection (3), partnership is the relation which subsists\nbetween persons carrying on a business in common with a view of profit.\n(2) In deciding whether a partnership does or does not exist in any particular\ncase, the court shall have regard to the true contract and intention of the\npartners as appearing from the whole facts of the case.\n(3) Partnership does not include the relation which subsists between --\n(a) the partners in an incorporated limited partnership; or\n(b) an incorporated limited partnership and its partners."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Rules to apply in determining partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Rules to apply in determining partnership",
+      "defined_term": null,
+      "structure_path": "Part I -- Nature of partnership > Section 8",
+      "text": "(1A) In determining whether a partnership does or does not exist regard shall\nbe had to the rules set out in subsections (1) to (8).\n(1) Joint tenancy, tenancy in common, joint property, common property or part\nownership does not of itself create a partnership as to anything so held or\nowned, whether the tenants or owners do or do not share any profits made by the\nuse thereof.\n(2) The sharing of gross returns does not of itself create a partnership\nwhether the persons sharing such returns have or have not a joint or common\nright or interest in any property from which, or from the use of which, the\nreturns are derived.\n(3) The receipt by a person of a share of the profits of a business is prima\nfacie evidence that he is a partner in the business, but the receipt of such a\nshare, or of a payment contingent upon or varying with the profits of a\nbusiness, does not of itself make him a partner in the business.\n(4) The receipt by a person of a debt or other liquidated amount by instalments\nor otherwise out of the accruing profits of a business does not of itself make\nhim a partner in the business or liable as such.\n(5) A contract for the remuneration of a servant or agent of any person engaged\nin a business by a share of the profits of the business does not of itself make\nthe servant or agent a partner in the business, or liable as such, or give him\nthe rights of a partner.\n(6) A person who, immediately before the death of a deceased partner, was the\nspouse or de facto partner of the partner, or who is the child of a deceased\npartner, and receiving by way of annuity a portion of the profits made in the\nbusiness in which the deceased person was a partner, is not by reason only of\nsuch receipt a partner in the business, or liable as such.\n(7) The advance of money by way of loan to a person engaged, or about to\nengage, in any business on a contract with that person that the lender shall\nreceive a rate of interest varying with the profits, or shall receive a share\nof the profits arising from carrying on the business, does not of itself make\nthe lender a partner with the person or persons carrying on the business, or\nliable as such. Provided that the contract is at the time of the advance\nentered into in writing and signed by or on behalf of all the parties thereto.\n(8) A person receiving by way of annuity or otherwise a portion of the profits\nof a business in consideration of the sale by him of the goodwill of the\nbusiness is not, by reason only of such receipt, a partner in the business, or\nliable as such."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Seller of business to be deferred to other creditors for value",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Seller of business to be deferred to other creditors for value",
+      "defined_term": null,
+      "structure_path": "Part I -- Nature of partnership > Section 9",
+      "text": "In the event of any person to whom money has been advanced by way of loan upon\nsuch a contract as is mentioned in the last foregoing section, whether in\nwriting or otherwise, or of any buyer of a goodwill in consideration of a share\nof the profits of the business, being adjudged a bankrupt, entering into a\npersonal insolvency agreement under Part X of the Bankruptcy Act 1966\n(Commonwealth) as a debtor, or dying in insolvent circumstances, the lender of\nthe loan shall not be entitled to recover anything in respect of his loan, and\nthe seller of the goodwill shall not be entitled to recover anything in respect\nof the share of profits contracted for, until the claims of the other creditors\nof the borrower or buyer for valuable consideration in money or money's worth\nhave been satisfied."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Meanings of \"firm\" and \"firm-name\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Meanings of \"firm\" and \"firm-name\"",
+      "defined_term": null,
+      "structure_path": "Part I -- Nature of partnership > Section 10",
+      "text": "Persons who have entered into partnership with one another are, for the\npurposes of this Act, called collectively a firm, and the name under which\ntheir business is carried on is called the firm-name."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Number of persons in firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Number of persons in firm",
+      "defined_term": null,
+      "structure_path": "Part I -- Nature of partnership > Section 11",
+      "text": "A firm may consist of any number of persons not exceeding 20 (except if\nregulations under section 115(2) of the Corporations Act 2001 of the\nCommonwealth apply to the firm)."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Choice of firm-name",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Choice of firm-name",
+      "defined_term": null,
+      "structure_path": "Part I -- Nature of partnership > Section 12",
+      "text": "Subject to all statutory and other rules of law for the protection of trade\nmarks, trade names, and rights incident to the goodwill of any business,\npartners may carry on their business under any firm-name they think proper.\n         Part II -- Relations of partners to persons dealing with them"
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Partners bound by acts of firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Partners bound by acts of firm",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 13",
+      "text": "(1) An act or instrument relating to the business of the firm, done or executed\nin the firm-name, or in any other manner showing an intention to bind the firm\nby any person thereto authorised, whether a partner or not, is binding on the\nfirm and all the partners.\n(2) This section shall not affect any general rule of law relating to the\nexecution of deeds or negotiable instruments."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Partner using credit of firm for private purposes",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Partner using credit of firm for private purposes",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 14",
+      "text": "Where one partner pledges the credit of the firm for a purpose apparently not\nconnected with the firm's ordinary course of business, the firm is not bound,\nunless he is, in fact, specially authorised by the other partners; but this\nsection does not affect any personal liability which may arise against any\nother partner who has so conducted himself as to give reasonable ground to the\nparty dealing with the partner first mentioned for believing him to be so\nauthorised."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Effect of notice that firm will not be bound by act of partner",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Effect of notice that firm will not be bound by act of partner",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 15",
+      "text": "If it has been agreed between the partners that any restriction shall be placed\non the power of any one or more of them to bind the firm, no act done in\ncontravention of the agreement is binding on the firm with respect to persons\nhaving notice of the agreement."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Liability of partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Liability of partners",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 16",
+      "text": "Every partner in a firm is liable, jointly with the other partners, for all\ndebts and obligations of the firm incurred while he is a partner, and after his\ndeath his estate is also severally liable in a due course of administration for\nsuch debts and obligations so far as they remain unsatisfied, but subject to\nthe prior payment of his separate debts."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Liability of firm for wrongs",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Liability of firm for wrongs",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 17",
+      "text": "(1) Where by any wrongful act or omission of any partner acting in the ordinary\ncourse of the business of the firm, or with the authority of his copartners,\nloss or injury is caused to any person not being a partner in the firm, or any\npenalty is incurred, the firm is liable therefor to the same extent as the\npartner so acting or omitting to act.\n(2) For the purposes of subsection (1), a partner who commits a wrongful act or\nomission as a director of a corporation, as defined in section 9 of the\nCorporations Act 2001 of the Commonwealth, is not to be taken to be acting in\nthe ordinary course of the business of the firm or with the authority of the\npartner's copartners only because of any one or more of the following --\n(a) the partner obtained the agreement or authority of the partner's\ncopartners, or some of them, to be appointed or to act as a director of the\ncorporation;\n(b) remuneration that the partner receives for acting as a director of the\ncorporation forms part of the income of the firm;\n(c) any copartner is also a director of that or any other corporation;\n(d) the firm acts for the corporation."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Misapplication of money or property",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Misapplication of money or property",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 18",
+      "text": "(1) Where any money or property of a third person is received by one partner,\nacting within the scope of his real or apparent authority in the partnership\naffairs, and is misapplied by that partner, and where any money or property of\na third person, being as such in the custody of the firm, is misapplied by any\npartner, the firm shall be liable to make good the loss.\n(2) For the purposes of this section, money shall be deemed to be in the\ncustody of the firm when it has been paid to any agent of the firm, or paid or\ncredited to the account of the firm with any person in the ordinary course of\nbusiness."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Liability for wrongs, joint and several",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Liability for wrongs, joint and several",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 19",
+      "text": "Every partner is liable jointly with his copartners, and also severally, for\neverything for which the firm while he is a partner therein become liable under\neither of the 2 last preceding sections."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Improper employment of trust property",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Improper employment of trust property",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 20",
+      "text": "If a partner, being a trustee, improperly employs trust property in the\nbusiness, or on account of the partnership, no other partner shall be liable\nfor the trust property to the persons beneficially interested therein, unless\nhe knew of the breach of trust. Nothing in this section shall prevent trust\nmoney from being followed and recovered from the firm if still in its\npossession or under its control."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Persons liable by \"holding out\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Persons liable by \"holding out\"",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 21",
+      "text": "(1) Everyone who by words spoken or written, or by conduct, represents himself,\nor who knowingly suffers himself to be represented as a partner in a particular\nfirm, is liable as a partner to any one who has on the faith of any such\nrepresentation given credit to the firm, whether the representation has or has\nnot been made or communicated to the person so giving credit by or with the\nknowledge of the apparent partner making the representation or suffering it to\nbe made.\n(2) Provided that where, after a partner's death, the partnership business is\ncontinued in the old firm-name, the continued use of that name or of the\ndeceased partner's name as part thereof shall not of itself make his executors'\nor administrators' estate or effects liable for any partnership debts\ncontracted after his death."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Admissions and representations by partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Admissions and representations by partners",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 22",
+      "text": "(1) An admission made by any partner concerning the partnership affairs and in\nthe ordinary course of its business is evidence against the firm, and a\nrepresentation made by any partner to any person concerning the partnership\naffairs and in the ordinary course of its business shall have the same effect\nas against the firm, and so far as concerns the civil rights and liabilities of\nthe partners as if it had been made by all the partners.\n(2) This section shall not apply to a representation made by one partner as to\nthe extent of his own authority to bind the firm."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Notice to acting partner to be notice to firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Notice to acting partner to be notice to firm",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 23",
+      "text": "Notice to any partner who habitually acts in the partnership business of any\nmatter relating to partnership affairs operates as notice to the firm, except\nin the case of a fraud on the firm committed by or with the consent of that\npartner."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Liabilities of incoming and outgoing partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Liabilities of incoming and outgoing partners",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 24",
+      "text": "(1) A person who is admitted as a partner into an existing firm does not\nthereby become liable to the creditors of the firm for anything done or omitted\nbefore he became a partner.\n(2) A partner who retires from a firm does not thereby cease to be liable for\npartnership debts or obligations incurred before his retirement.\n(3) A retiring partner may be discharged from any existing liabilities, and an\nincoming partner may become subject thereto by an agreement to that effect\nbetween himself and the members of the firm as newly constituted and the\ncreditors, and such agreement may be either express or inferred as a fact from\nthe course of dealing between the creditors and the firm as newly constituted."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Revocation of continuing guaranty",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Revocation of continuing guaranty",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 25",
+      "text": "A continuing guaranty given either to a firm or to a third person, in respect\nof the transactions of a firm is, in the absence of an agreement to the\ncontrary, revoked as to future transactions by any change in the constitution\nof the firm to which or of the firm in respect of the transactions of which the\nguaranty was given."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Special powers of partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Special powers of partners",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 26",
+      "text": "Subject to the provisions of this Act, the acts of every partner who does any\nact necessary for or usually done in carrying on business of the kind carried\non by the firm of which he is a member shall bind his partners to the same\nextent as if he were their agent duly appointed for that purpose; unless the\npartner so acting has in fact no authority to act for the firm in the\nparticular matter, and the person with whom he is dealing --\n(a) knows that he has no authority; or\n(b) does not know or believe him to be a partner."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Special powers of partners in certain firms",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Special powers of partners in certain firms",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 27",
+      "text": "Subject to the provisions of the last foregoing section, every member of a\npartnership carrying on business of a kind in which any of the following acts\nis usually done, may bind the firm by the same respectively:\n(a) He may draw, accept, indorse, make, and issue bills and negotiable\ninstruments in the name of the firm.\n(b) He may borrow money on the credit of the firm.\n(c) He may, for the purpose of such borrowing, or of securing an existing debt,\npledge any goods or personal chattels belonging to the firm.\n(d) He may, for the like purposes, make an equitable mortgage by deposit of\ndeeds or otherwise of real estate or chattels real belonging to the firm."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Enforcing judgments against partners and partnerships",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Enforcing judgments against partners and partnerships",
+      "defined_term": null,
+      "structure_path": "Part II -- Relations of partners to persons dealing with them > Section 28",
+      "text": "The enforcement of a judgment against a partner or against a partnership is\nsubject to the Civil Judgments Enforcement Act 2004.\n                Part III -- Relations of partners to one another"
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Terms of partnership may be varied by consent",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Terms of partnership may be varied by consent",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 29",
+      "text": "The mutual rights and duties of partners, whether ascertained by agreement or\ndefined by this Act, may be varied by the consent of all the partners, and such\nconsent may be either express or inferred from a course of dealing."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Meaning of \"partnership property\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Meaning of \"partnership property\"",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 30",
+      "text": "(1) All property and rights and interests in property originally brought into\nthe partnership stock, or acquired, whether by purchase or otherwise, on\naccount of the firm or for the purposes and in the course of the partnership\nbusiness, are called in this Act partnership property, and must be held and\napplied by the partners exclusively for the purposes of the partnership, and in\naccordance with the partnership agreement.\n(2) Provided that the legal estate or interest in any land which is partnership\nproperty shall devolve according to the nature and tenure thereof, and the\ngeneral rules of law thereto applicable, but in trust so far as necessary for\nthe persons beneficially interested in the land under this section.\n(3) Where the co-owners of an estate or interest in any land, not being itself\npartnership property, are partners as to profits made by the use of that land\nor estate, and purchase other land or estate out of the profits to be used in\nlike manner, the land so purchased belongs to them, in the absence of an\nagreement to the contrary, not as partners, but as co-owners for the same\nrespective estates and interests as are held by them, in the land first\nmentioned at the date of the purchase."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Property bought with partnership money",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Property bought with partnership money",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 31",
+      "text": "Unless the contrary intention appears, property bought with money belonging to\nthe firm is deemed to have been bought on account of the firm."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Conversion of real into personal estate",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Conversion of real into personal estate",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 32",
+      "text": "Where land has become partnership property, it shall, unless the contrary\nintention appears, be treated as between the partners (including the\nrepresentatives of a deceased partner), and also as between the heirs of a\ndeceased partner and his executors or administrators, as personal and not real\nestate."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Meaning of \"partner's share\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Meaning of \"partner's share\"",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 33",
+      "text": "The share of a partner in the partnership property at any time is the\nproportion of the then existing partnership assets to which he would be\nentitled if the whole were realised and converted into money, and after all the\nthen existing debts and liabilities of the firm had been discharged."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Rules as to interests, rights and duties of partners",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Rules as to interests, rights and duties of partners",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 34",
+      "text": "(1A) The interests of partners in the partnership property, and their rights\nand duties in relation to the partnership, shall be determined, subject to any\nagreement, express or implied, between the partners, by the rules set out in\nsubsections (1) to (9).\n(1) All the partners are entitled to share equally in the capital and profits\nof the business, and must contribute equally towards the losses, whether of\ncapital or otherwise, sustained by the firm.\n(2) The firm must indemnify every partner in respect of payments made and\npersonal liabilities incurred by him --\n(a) in the ordinary and proper conduct of the business of the firm; or\n(b) in or about anything necessarily done for the preservation of the business\nor property of the firm.\n(3) A partner making, for the purpose of the partnership, any actual payment or\nadvance beyond the amount of capital which he has agreed to subscribe, is\nentitled to interest at the rate of 6% per annum from the date of the payment\nor advance.\n(4) A partner is not entitled, before the ascertainment of profits, to interest\non the capital subscribed by him.\n(5) Every partner may take part in the management of the partnership business,\nand shall attend diligently to the partnership business, and shall not be\nentitled to any remuneration for acting in the partnership business.\n(6) No person may be introduced as a partner, without the consent of all\nexisting partners.\n(7) Any difference arising as to matters connected with the ordinary course of\nthe partnership business may be decided by a majority of the partners.\n(7A) A decision for the purposes of subsection (7) must be arrived at in good\nfaith for the interest of the firm as a whole, and every partner must have an\nopportunity of being heard in the matter.\n(7B) Subsection (7A) extends to powers conferred by a majority of the partners\nby express agreement.\n(8) The partnership books are to be kept at the place of business of the\npartnership (or the principal place, if there is more than one), and every\npartner may, when he thinks fit, have access to inspect and copy any of them.\n(9) No change may be made in the conduct or regulation of the partnership\naffairs without the consent or authority of a majority of the partners, and no\nchange may be made in the nature of the partnership business, or the place\nwhere it is carried on, without the consent of all existing partners."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Expulsion of partner",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Expulsion of partner",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 35",
+      "text": "(1) No majority of the partners can expel any partner unless a power to do so\nhas been conferred by written agreement between the partners.\n(2) Where such power is conferred, it may be exercised only in good faith with\na view to the benefit of the firm, and the partner whom it is sought to expel\nmust have an opportunity of being heard."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Retirement of partner where fixed term",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Retirement of partner where fixed term",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 36",
+      "text": "Where a partnership has been entered into for a fixed term, no partner can\nretire from it during that term except with the consent of all the partners, or\nin the exercise of an option previously conferred by written agreement."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Retirement from partnership at will",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Retirement from partnership at will",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 37",
+      "text": "(1) Where no fixed term has been agreed upon for the duration of the\npartnership, any partner may determine the partnership at any time on giving\nnotice in writing of his intention so to do to all the other partners.\n(2) Where the partnership has originally been constituted by a deed, a notice\nin writing, signed by the partner giving it, shall be sufficient for this\npurpose."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Where partnership continued after expiration of term",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Where partnership continued after expiration of term",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 38",
+      "text": "(1) Where a partnership entered into for a fixed term is continued after the\nterm has expired, and without any express new agreement, the rights and duties\nof the partners remain the same as they were at the expiration of the term, so\nfar as is consistent with the incidents of a partnership at will.\n(2) A continuance of the business by the partners, or such of them as\nhabitually acted therein during the term without any settlement or liquidation\nof the partnership affairs, is presumed to be a continuance of the partnership."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Partners to render accounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Partners to render accounts",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 39",
+      "text": "Partners are bound to render true accounts and full information of all things\naffecting the partnership to any partner or his legal representatives."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Partners must account for all benefits derived",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Partners must account for all benefits derived",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 40",
+      "text": "(1) Every partner must account to the firm for any benefit derived by him,\nwithout the consent of the other partners, from any transaction concerning the\npartnership, or from any use by him of the partnership, property, name, or\nbusiness connection.\n(2) This section applies also to transactions undertaken after a partnership\nhas been dissolved by the death of a partner, and before the affairs thereof\nhave been completely wound up, either by any surviving partner or by the\nrepresentatives of the deceased partner."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Partner must not compete with firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Partner must not compete with firm",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 41",
+      "text": "If a partner, without the consent of the other partners, carries on any\nbusiness of the same nature as, and competing with that of the firm, he must\naccount for and pay over to the firm all profits made by him in that business."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Effect of assignment of partner's share",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Effect of assignment of partner's share",
+      "defined_term": null,
+      "structure_path": "Part III -- Relations of partners to one another > Section 42",
+      "text": "(1) An assignment by any partner of his share in the partnership, either\nabsolute or by way of mortgage, does not, as against the other partners,\nentitle the assignee during the continuance of the partnership to interfere in\nthe management or administration of the partnership business or affairs, or to\nrequire any accounts of the partnership transactions, or to inspect the\npartnership books, but entitles the assignee only to receive the share of\nprofits to which the assigning partner would otherwise be entitled, and the\nassignee must accept the account of profits agreed to by the partners.\n(2) In case of a dissolution of the partnership, whether as respects all the\npartners, or as respects the assigning partner, the assignee is entitled to\nreceive the share of the partnership assets to which the assigning partner is\nentitled as between himself and the other partners, and, for the purpose of\nascertaining that share, to an account as from the date of the dissolution.\n           Part IV -- Dissolution of partnership and its consequences"
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Dissolution by expiration of notice",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Dissolution by expiration of notice",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 43",
+      "text": "Subject to any agreement between the partners, a partnership is dissolved --\n(a) if entered into for a fixed term, by the expiration of that term;\n(b) if entered into for a single adventure or undertaking, by the termination\nof that adventure or undertaking;\n(c) if entered into for an undefined time, by any partner giving notice in\nwriting to the other or others of his intention to dissolve the partnership.\nIn the last mentioned case the partnership is dissolved as from the date\nmentioned in the notice as the date of dissolution, or, if no date is so\nmentioned, as from the date of the communication of the notice."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Dissolution by death, bankruptcy, assignment or charge",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Dissolution by death, bankruptcy, assignment or charge",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 44",
+      "text": "(1) Subject to any agreement between the partners every partnership is also\ndissolved by the death or bankruptcy of any partner.\n(2) A partnership may, at the option of the other partners or any of them, by\nwritten notice, be dissolved if any partner assigns his share of the\npartnership property or suffers such share to be charged under this Act for his\nseparate debt.\n(3) The dissolution shall take effect from the date of the death, bankruptcy,\nor notice as the case may be.\n(4) Such notice shall be given within 28 days after the partner or partners\ngiving the same has or have notice of the assignment or charge."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Dissolution by illegality of partnership",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Dissolution by illegality of partnership",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 45",
+      "text": "A partnership is in every case dissolved by the happening of any event which\nmakes it unlawful for the business of the firm to be carried on, or for the\nmembers of the firm to carry it on in partnership."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Dissolution by court",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Dissolution by court",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 46",
+      "text": "On application by a partner the court may decree a dissolution of the\npartnership in any of the following cases --\n(a) when a partner is found lunatic by inquisition, or is shown to the\nsatisfaction of the court to be of unsound mind, in either of which cases the\napplication may be made as well on behalf of that partner by his committee or\nnext friend or person having title to intervene, as by any other partner;\n(b) when a partner other than the partner suing, becomes in any other way\npermanently incapable of performing his part of the partnership contract;\n(c) when a partner, other than the partner suing, has been guilty of such\nconduct as in the opinion of the court, regard being had to the nature of the\nbusiness, is calculated to prejudicially affect the carrying on of the\nbusiness;\n(d) when a partner, other than the partner suing, wilfully or persistently\ncommits a breach of the partnership agreement, or otherwise so conducts himself\nin matters relating to the partnership business that it is not reasonably\npracticable for the other partner or partners to carry on the business in\npartnership with him;\n(e) when a partner, other than the partner suing, encumbers his interest in the\nproperty or profits of the firm;\n(f) when the business of the partnership can only be carried on at a loss;\n(g) whenever in any case whatever circumstances have arisen which, in the\nopinion of the court, render it just and equitable that the partnership be\ndissolved."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Rights of creditors against apparent members of firm",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Rights of creditors against apparent members of firm",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 47",
+      "text": "(1) Where a person deals with a firm after a change in its constitution, he is\nentitled to treat all apparent members of the old firm as still being members\nof the firm, until he has notice of the change.\n(2) An advertisement in the 'Government Gazette' and in a Perth or local\nnewspaper (if any) as to a firm whose principal place of business is in Western\nAustralia shall be notice as to persons who had not dealings with the firm\nbefore the date of the dissolution or change so advertised.\n(3) The estate of a partner who dies or becomes bankrupt, or of a partner who,\nnot having been known to the person dealing with the firm to be a partner,\nretires from the firm, is not liable for partnership debts contracted after the\ndate of the death, bankruptcy, or retirement respectively."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Partner may notify of dissolution",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Partner may notify of dissolution",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 48",
+      "text": "On the dissolution of a partnership, or retirement of a partner, any partner\nmay publicly notify the same, and may require the other partner or partners to\nconcur for that purpose in all necessary or proper acts, if any, which cannot\nbe so done without his or their concurrence."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Authority for purposes of winding up",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Authority for purposes of winding up",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 49",
+      "text": "(1) After the dissolution of a partnership, the authority of each partner to\nbind the firm, and the other rights and obligations of the partners, continue\nnotwithstanding the dissolution, so far as may be necessary to wind up the\naffairs of the partnership, and to complete transactions begun but unfinished\nat the time of the dissolution, but not otherwise.\n(2) Despite subsection (1), the firm is in no case bound by the acts of a\npartner who has become bankrupt.\n(3) Subsection (2) does not affect the liability of any person who has, after\nthe bankruptcy, represented himself or knowingly suffered himself to be\nrepresented as a partner of the bankrupt."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Application of partnership property",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Application of partnership property",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 50",
+      "text": "On the dissolution of a partnership every partner is entitled, as against the\nother partners in the firm, and all persons claiming through them in respect of\ntheir interests as partners, to have the property of the partnership applied in\npayment of the debts and liabilities of the firm, and to have the surplus\nassets after such payment applied in payment of what may be due to the partners\nrespectively, after deducting what may be due from them as partners to the\nfirm; and for that purpose any partner or his representatives may, on the\ntermination of the partnership, apply to the court to wind up the business and\naffairs of the firm."
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Sale of goodwill on dissolution",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Sale of goodwill on dissolution",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 51",
+      "text": "On the dissolution of a partnership every partner shall be entitled, in the\nabsence of any agreement to the contrary, to have the goodwill of the business\nsold for the common benefit of all the partners."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Use of firm-name may be restrained",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Use of firm-name may be restrained",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 52",
+      "text": "After a dissolution every partner in the dissolved firm, or his\nrepresentatives, may, in the absence of any agreement to the contrary, restrain\nany other partner, or his representative, from carrying on the same business\nunder the firm-name until the affairs of the firm have been wound up, and the\npartnership property disposed of."
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Provision where premium paid",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Provision where premium paid",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 53",
+      "text": "Where one partner has paid a premium to another on entering into a partnership\nfor a fixed term, and the partnership is dissolved before the expiration of\nthat term otherwise than by the death of a partner, the court may order the\nrepayment of the premium, or of such part thereof as it thinks just, having\nregard to the terms of the partnership contract and to the length of time\nduring which the partnership has continued; unless --\n(a) the dissolution is, in the judgment of the court, wholly or chiefly due to\nthe misconduct of the partner who paid the premium; or\n(b) the partnership has been dissolved by an agreement containing no provision\nfor a return of any part of the premium."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Lien on assets where partnership dissolved for fraud",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Lien on assets where partnership dissolved for fraud",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 54",
+      "text": "Where a partnership contract is rescinded on the ground of the fraud or\nmisrepresentation of one of the parties thereto, the party entitled to rescind\nis, without prejudice to any other right, entitled --\n(a) to a lien on or right of retention of the surplus of the partnership\nassets, after satisfying the partnership liabilities for any sum of money paid\nby him for the purchase of a share in the partnership, and for any capital\ncontributed by him, and is\n(b) to stand in the place of the creditors of the firm for any payments made by\nhim in respect of the partnership liabilities, and\n(c) to be indemnified by the person guilty of the fraud, or making the\nrepresentation, against all the debts and liabilities of the firm."
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Right of outgoing partner in certain cases to share profits made after",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Right of outgoing partner in certain cases to share profits made after",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 55",
+      "text": "dissolution\n(1) Where any member of a firm has died or otherwise ceased to be a partner,\nand the surviving or continuing partners carry on the business of the firm with\nits capital or assets without any final settlements of accounts as between the\nfirm and the outgoing partner or his estate, then, in the absence of any\nagreement to the contrary, the outgoing partner, or his estate, is entitled at\nthe option of himself or his representatives to such share of the profits made\nsince the dissolution as the court may find to be attributable to the use of\nhis share of the partnership assets, or to interest at the rate of 6% per annum\non the amount of his share of the partnership assets.\n(2) Provided that where by the partnership contract an option is given to\nsurviving or continuing partners to purchase the interest of a deceased or\noutgoing partner, and that option is duly exercised, the estate of the deceased\npartner or the outgoing partner, or his estate, as the case may be, is not\nentitled to any further or other share of profits; but if any partner assuming\nto act in exercise of the option does not in all material respects comply with\nthe terms thereof, he is liable to account under the foregoing provisions of\nthis section.\n(3) In determining how far the profits made since the dissolution are\nattributable to the outgoing partner's capital, the court shall have regard to\nthe nature of the business, the amount of capital from time to time employed in\nit, the skill and industry of each partner taking part in it, and the conduct\nof the parties generally. And the court may allow to any such continuing\npartners such remuneration as to the court seems meet for carrying on the\npartnership business."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Retaining of deceased partner's share to be a debt",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Retaining of deceased partner's share to be a debt",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 56",
+      "text": "Subject to any agreement between the partners, the amount due from surviving or\ncontinuing partners to an outgoing partner, or the representatives of a\ndeceased partner, in respect of the outgoing or deceased partner's share, is a\ndebt accruing at the date of the dissolution or death."
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Rules for distribution of assets on final settlement of accounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Rules for distribution of assets on final settlement of accounts",
+      "defined_term": null,
+      "structure_path": "Part IV -- Dissolution of partnership and its consequences > Section 57",
+      "text": "(1) In settling accounts between the partners after a dissolution of\npartnership, the rules set out in subsections (2) and (3) shall, subject to any\nagreement, be observed.\n(2) Losses, including losses and deficiencies of capital shall be paid first\nout of profits, next out of capital, and lastly, if necessary, by the partners\nindividually in the proportion in which they were entitled to share profits.\n(3) The assets of the firm, including the sums, if any, contributed by the\npartners to make up losses or deficiencies of capital, shall be applied in the\nfollowing manner and order --\n(a) in paying the debts and liabilities of the firm to persons who are not\npartners therein;\n(b) in paying to each partner rateably what is due from the firm to him for\nadvances as distinguished from capital;\n(c) in paying to each partner rateably what is due from the firm to him in\nrespect of capital;\n(d) the ultimate residue, if any, shall be divided among the partners in the\nproportion in which profits are divisible.\n^1 This is a compilation of the Partnership Act 1895 and includes the\namendments made by the other written laws referred to in the following table.\nThe table also contains information about any reprint."
+    }
+  ]
+}

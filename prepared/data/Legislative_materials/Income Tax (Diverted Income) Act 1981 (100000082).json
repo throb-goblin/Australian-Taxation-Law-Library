@@ -1,0 +1,73 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/itia1981248/",
+    "register_url": "https://www.legislation.gov.au/C2004A02489/latest/text",
+    "source": "Income Tax (Diverted Income) Act 1981 (100000082).txt",
+    "filename": "Income Tax (Diverted Income) Act 1981 (100000082).json",
+    "name": "Income Tax (Diverted Income) Act 1981",
+    "citation": "Income Tax (Diverted Income) Act 1981"
+  },
+  "chunks": [
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax (Diverted Income) Act 1981 > Section 2",
+      "text": "2. This Act shall come into operation on the day on which it receives the\nRoyal Assent.*1*\nINCOME TAX (DIVERTED INCOME) ACT 1981 No. 112 of 1981"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Diverted Income) Act 1981 > Section 3",
+      "text": "3. In this Act, \"Assessment Act\" means the Income Tax Assessment Act 1936.\nINCOME TAX (DIVERTED INCOME) ACT 1981 No. 112 of 1981"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Income Tax (Diverted Income) Act 1981 > Section 4",
+      "text": "4. The Assessment Act is incorporated, and shall be read as one, with this\nAct.\nINCOME TAX (DIVERTED INCOME) ACT 1981 No. 112 of 1981"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Diverted Income) Act 1981 > Section 5",
+      "text": "5. The tax known as income tax, to the extent that that tax is payable in\naccordance with Division 9C of Part III of the Assessment Act, is imposed by\nthis Act in respect of the financial year that commenced on 1 July 1979 and in\nrespect of each subsequent financial year.\nINCOME TAX (DIVERTED INCOME) ACT 1981 No. 112 of 1981"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Rate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Rate of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Diverted Income) Act 1981 > Section 6",
+      "text": "6. The rate of tax imposed by this Act in respect of a financial year is the\nrate of tax payable, in respect of that financial year, by a trustee of a\ntrust estate in respect of the net income of the trust estate in respect of\nwhich the trustee is liable, in pursuance of section 99A of the Assessment\nAct, to be assessed to pay tax.\nINCOME TAX (DIVERTED INCOME) ACT 1981 No. 112 of 1981 - NOTE\n                                      NOTE\n  1. Act No. 112, 1981; assented to 24 June 1981."
+    },
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title.",
+      "defined_term": null,
+      "structure_path": "Income Tax (Diverted Income) Act 1981 > Section 1",
+      "text": ""
+    }
+  ]
+}

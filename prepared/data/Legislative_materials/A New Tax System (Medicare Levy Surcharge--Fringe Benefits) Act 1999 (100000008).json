@@ -1,0 +1,273 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/antslsba1999523/",
+    "register_url": "https://www.legislation.gov.au/C2004A00412/latest/text",
+    "source": "A New Tax System (Medicare Levy Surcharge--Fringe Benefits) Act 1999 (100000008).txt",
+    "filename": "A New Tax System (Medicare Levy Surcharge--Fringe Benefits) Act 1999 (100000008).json",
+    "name": "A New Tax System (Medicare Levy Surcharge--Fringe Benefits) Act 1999",
+    "citation": "A New Tax System (Medicare Levy Surcharge--Fringe Benefits) Act 1999"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": "This Act may be cited as the A New Tax System (Medicare Levy Surcharge--Fringe Benefits) Act 1999."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 2",
+      "text": "This Act commences on the day on which the A New Tax System (Fringe Benefits Reporting) Act 1999 receives the Royal Assent."
+    },
+    {
+      "key": "section:3.term:assessment-act",
+      "title": "Section 3 Definitions \"Assessment Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Assessment Act\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"Assessment Act\" means the Income Tax Assessment Act 1936.\n\"Australia\", when used in a geographical sense, has the same meaning as in the Income Tax Assessment Act 1997 ."
+    },
+    {
+      "key": "section:3.term:covered",
+      "title": "Section 3 Definitions \"covered\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"covered\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"covered\" by an insurance policy that provides private patient hospital cover has a meaning affected by section 4.\nNote: For limited purposes, sections 12, 13 and 14 also treat certain persons as being covered by an insurance policy that provides private patient hospital cover."
+    },
+    {
+      "key": "section:3.term:dependant",
+      "title": "Section 3 Definitions \"dependant\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"dependant\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"dependant\" of a person has the meaning given by section 5.\n\"family tier 1 threshold\", of a person for a year of income, means the family tier 1 threshold (within the meaning of the Private Health  Insurance Act 2007) of the person for the financial year corresponding to the year of income."
+    },
+    {
+      "key": "section:3.term:income-for-surcharge-purposes",
+      "title": "Section 3 Definitions \"income for surcharge purposes\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"income for surcharge purposes\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"income for surcharge purposes\" has the same meaning as in the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:3.term:married",
+      "title": "Section 3 Definitions \"married\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"married\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"married\" has a meaning affected by section 7."
+    },
+    {
+      "key": "section:3.term:prescribed-person",
+      "title": "Section 3 Definitions \"prescribed person\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"prescribed person\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"prescribed person\" has the meaning given by section 8."
+    },
+    {
+      "key": "section:3.term:reportable-fringe-benefits-total",
+      "title": "Section 3 Definitions \"reportable fringe benefits total\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"reportable fringe benefits total\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"reportable fringe benefits total\" has the same meaning as in the Fringe Benefits Tax Assessment Act 1986."
+    },
+    {
+      "key": "section:3.term:resident-of-australia",
+      "title": "Section 3 Definitions \"resident of Australia\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"resident of Australia\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"resident of Australia\" has the meaning given by section 10.\n\"singles tier 1 threshold\", of a person for a year of income, means the singles tier 1 threshold (within the meaning of the Private Health Insurance Act 2007 ) of the person for the financial year corresponding to the year of income."
+    },
+    {
+      "key": "section:3.term:surcharge",
+      "title": "Section 3 Definitions \"surcharge\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"surcharge\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"surcharge\" means Medicare levy surcharge imposed by section 10."
+    },
+    {
+      "key": "section:3.term:tier-2-earner",
+      "title": "Section 3 Definitions \"tier 2 earner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tier 2 earner\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"tier 2 earner\" has the meaning given by section 6."
+    },
+    {
+      "key": "section:3.term:tier-3-earner",
+      "title": "Section 3 Definitions \"tier 3 earner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"tier 3 earner\"",
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "\"tier 3 earner\" has the meaning given by section 6.\n (2) Subject to subsection  (1) and any other contrary intention, an expression used in both this Act and Part VIIB of the Assessment Act has the same meaning in this Act as it has in that Part."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - When does a person have private patient hospital cover?",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "When does a person have private patient hospital cover?",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": "For the purposes of this Act, a person is covered by an insurance policy that provides private patient hospital cover if:\n (a) the policy is a complying health insurance policy (within the meaning of the Private Health Insurance Act 2007) that covers hospital treatment (within the meaning of that Act); and\n (b) any excess payable in respect of benefits under the policy is no more than the applicable amount set out in section  45-1 of that Act in any 12 month period."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Who is a dependant of a person?",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Who is a dependant of a person?",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 5",
+      "text": "A person is a dependant of another person for a period if the person would be a dependant of the other person for the period for the purposes of Part VIIB of the Assessment Act, disregarding subsections  251R(4), (5), (6B), (6C) and (6D) of that Act."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - What is a tier 2 earner and tier 3 earner",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "What is a tier 2 earner and tier 3 earner",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 6",
+      "text": "(1) Subject to this section, for the purposes of this Act:\n (a) tier 2 earner, for a year of income, means a tier 2 earner (within the meaning of the Private Health Insurance Act 2007) for the financial year corresponding to the year of income; and\n (b) tier 3 earner, for a year of income, means a tier 3 earner (within the meaning of that Act) for the financial year corresponding to the year of income.\n (2) In determining whether a person is a tier 2 earner or tier 3 earner for a year of income for the purposes of this Act, section  22-30 of the Private Health Insurance Act 2007 operates with the modification set out in subsection  (3).\n (3) Replace paragraph  22-30(1)(b) of the Private Health Insurance Act 2007 with the following paragraph:\n (b) on any day in the year, the person has one or more dependants (within the meaning of the A New Tax System (Medicare Levy Surcharge--Fringe Benefits) Act 1999), other than a dependant to whom the person is married (within the meaning of that Act):"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - When are people married ?",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "When are people married ?",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 7",
+      "text": "De facto couples treated as if married\n (1) This Act applies to 2 persons (whether of the same sex or different sexes) as if they were married to each other for a period if:\n (a) their relationship is registered for the period under a law of a State or Territory prescribed for the purposes of section  2E of the Acts Interpretation Act 1901 as a kind of relationship prescribed for the purposes of that section; or\n (b) they lived together in a relationship as a couple on a genuine domestic basis for the period, although not legally married to each other.\n (1A) If, during the period, either or both of the persons was legally married to another person, or in a relationship mentioned in paragraph  (1)(a) with another person, this Act applies as if the person or persons were not legally married to, or in a relationship mentioned in paragraph  (1)(a) with, the other person.\nPersons living separately taken not to be married\n (2) A person is taken not to be married to another person if they are living separately and apart.\nNew widows and widowers taken to be married until end of year\n (3) If:\n (a) the last person (the deceased) to whom another person was married during a year of income died during the year of income; and\n (b) the death occurred while they were married;\nthe living person is taken to be married to the deceased during the period starting on the day the deceased died and ending on 30 June of the year of income."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Who is a prescribed person ?",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Who is a prescribed person ?",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 8",
+      "text": "A person is a prescribed person for a period if the person would be a prescribed person for the purposes of Part VIIB of the Assessment Act during the period, disregarding subsection  251U(3) of that Act."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Application",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Application",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 9",
+      "text": "This Act extends to every external Territory referred to in the definition of Australia."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Imposition of Medicare levy surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Imposition of Medicare levy surcharge",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION--OF SURCHARGE > Section 10",
+      "text": "Surcharge imposed on reportable fringe benefits total\n (1) Medicare levy surcharge is imposed on the reportable fringe benefits total for a year of income of a person who is a resident of Australia at any time during the year of income.\nNote: Subdivision 61-L (tax offset for Medicare levy surcharge (lump sum payments in arrears)) of the Income Tax Assessment Act 1997 might provide a tax offset for a person if Medicare levy surcharge is payable by the person.\nWho is a resident of Australia--general rule\n (2) A person is a resident of Australia if he or she is a resident of Australia as defined in subsection 6(1) of the Assessment Act.\nApplication: 1999-2000 year of income onwards\n (4) Subsection (1) applies to the 1999 -2000 year of income and later years of income."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Amount of surcharge payable",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Amount of surcharge payable",
+      "defined_term": null,
+      "structure_path": "Part 3--AMOUNT--OF SURCHARGE PAYABLE > Division 1--General rule > Section 11",
+      "text": "General rule\n  The amount of surcharge payable by a person on the person&#39;s reportable fringe benefits total for a year of income is the total of the amounts worked out under whichever of Divisions  2, 3 and 4 apply to the person for a period in the year of income."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Amount of surcharge for single person without dependants",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Amount of surcharge for single person without dependants",
+      "defined_term": null,
+      "structure_path": "Part 3--AMOUNT--OF SURCHARGE PAYABLE > Division 2--Amount of surcharge for single person without dependants > Section 12",
+      "text": "(1) This Division applies to a person for a period in a year of income if:\n (a) the person&#39;s income for surcharge purposes for the year of income exceeds the person&#39;s singles tier 1 threshold for the year of income; and\n (b) during the whole of the period:\n (i) the person is not a married person; and\n (ii) the person does not have any dependants; and\n (iii) the person is not covered by an insurance policy that provides private patient hospital cover; and\n (iv) the person is not a prescribed person.\n (2) The amount of surcharge payable on the person&#39;s reportable fringe benefits total for the year of income is 1% of that total if this Division applies to the person for the whole of the year of income.\n (3) If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person&#39;s reportable fringe benefits total for the year of income includes the amount worked out using the formula:\n (4) Increase the amount of each percentage mentioned in subsections  (2) and (3) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.\n (5) Increase the amount of each percentage mentioned in subsections  (2) and (3) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Amount of surcharge for single person with dependants",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Amount of surcharge for single person with dependants",
+      "defined_term": null,
+      "structure_path": "Part 3--AMOUNT--OF SURCHARGE PAYABLE > Division 3--Amount of surcharge for single person with dependants > Section 13",
+      "text": "Application\n (1) This Division applies to a person for a period in a year of income if:\n (a) the person&#39;s income for surcharge purposes for the year of income exceeds the person&#39;s family tier 1 threshold for the year of income; and\n (b) during the whole of the period:\n (i) the person is not a married person; and\n (ii) the person has one or more dependants; and\n (iii) the person, or at least one of the person&#39;s dependants, is not covered by an insurance policy that provides private patient hospital cover; and\n (iv) the person is not a prescribed person.\nSpecial rules for applying subparagraph (1)(b)(iii)\n (2) For the purposes of subparagraph  (1)(b)(iii):\n (a) the person is taken to be covered during the whole of the period by an insurance policy that provides private patient hospital cover if, apart from subsection  251U(2) of the Assessment Act, the person would be a prescribed person for the period because of paragraph  251U(1)(a), (b), (ca), (caa) or (cb) of that Act; and\n (b) disregard each of the person&#39;s dependants who:\n (i) is a prescribed person for the period; or\n (ii) would be a prescribed person for the period apart from subsection  251U(2) of the Assessment Act.\nNote: Paragraphs 251U(1)(a), (b), (ca), (caa) and (cb) of the Assessment Act provide that the following are prescribed persons:\ndefence personnel and members of their families who can get free medical treatment;people who can get free medical treatment under the Veterans&#39; Entitlements Act 1986, the Military Rehabilitation and Compensation Act 2004 , the Australian Participants in British Nuclear Tests and British Commonwealth Occupation Force (Treatment) Act 2006 or the Treatment Benefits (Special Access) Act 2019;people who receive certain payments under the Social Security Act 1991 or the Veterans&#39; Entitlements Act 1986 .\n Subsection 251U(2) of the Assessment Act provides that a person who would otherwise be a prescribed person is not a prescribed person if one or more of his or her dependants are not prescribed persons.\nAmount of surcharge payable for whole year\n (3) The amount of surcharge payable on the person&#39;s reportable fringe benefits total for the year of income is 1% of that total if this Division applies to the person for the whole of the year of income.\nAmount of surcharge payable for part of year\n (4) If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person&#39;s reportable fringe benefits total for the year of income includes the amount worked out using the formula:\n (5) Increase the amount of each percentage mentioned in subsections  (3) and (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.\n (6) Increase the amount of each percentage mentioned in subsections  (3) and (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Who does this Division apply to?",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Who does this Division apply to?",
+      "defined_term": null,
+      "structure_path": "Part 3--AMOUNT--OF SURCHARGE PAYABLE > Division 4--Amount of surcharge for married person > Section 14",
+      "text": "Application\n (1) This Division applies to a person for a period in a year of income if, during the whole of the period:\n (a) the person is a married person; and\n (b) the person, or at least one of the person&#39;s dependants, is not covered by an insurance policy that provides private patient hospital cover; and\n (c) the person is not a prescribed person.\nSpecial rules for applying paragraph (1)(b)\n (2) For the purposes of paragraph  (1)(b):\n (a) the person is taken to be covered during the whole of the period by an insurance policy that provides private patient hospital cover if, apart from subsection  251U(2) of the Assessment Act, the person would be a prescribed person for the period because of paragraph  251U(1)(a), (b), (ca), (caa) or (cb) of that Act; and\n (b) disregard each of the person&#39;s dependants who:\n (i) is a prescribed person for the period; or\n (ii) would be a prescribed person for the period apart from subsection  251U(2) of the Assessment Act.\nNote: Paragraphs 251U(1)(a), (b), (ca), (caa) and (cb) of the Assessment Act provide that the following are prescribed persons:\ndefence personnel and members of their families who can get free medical treatment;people who can get free medical treatment under the Veterans&#39; Entitlements Act 1986, the Military Rehabilitation and Compensation Act 2004 , the Australian Participants in British Nuclear Tests and British Commonwealth Occupation Force (Treatment) Act 2006 or the Treatment Benefits (Special Access) Act 2019;people who receive certain payments under the Social Security Act 1991 or the Veterans&#39; Entitlements Act 1986 .\n Subsection 251U(2) of the Assessment Act provides that a person who would otherwise be a prescribed person is not a prescribed person if one or more of his or her dependants are not prescribed persons."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Amount of surcharge if this Division applies for whole year",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Amount of surcharge if this Division applies for whole year",
+      "defined_term": null,
+      "structure_path": "Part 3--AMOUNT--OF SURCHARGE PAYABLE > Division 4--Amount of surcharge for married person > Section 15",
+      "text": "When this section applies\n (1) The amount of surcharge payable on the person&#39;s reportable fringe benefits total for the year of income is 1% of that total if:\n (a) this Division applies to the person for the whole of the year of income; and\n (b) the sum of the person&#39;s income for surcharge purposes, and the person&#39;s spouse&#39;s income for surcharge purposes, for the year of income exceeds the person&#39;s family tier 1 threshold for the year of income; and\n (c) the person&#39;s income for surcharge purposes for the year of income exceeds $27,222.\nSpecial rule if person&#39;s spouse is a presently entitled beneficiary in a trust estate\n (2) In working out whether subsection  (1) applies to a person whose spouse is a beneficiary presently entitled to a share in the net income of a trust estate in respect of which the trustee is liable to be assessed under section  98 of the Assessment Act, assume that:\n (a) the spouse&#39;s income for surcharge purposes included that share; and\n (b) subsection 271-105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate.\n (3) Increase the amount of the percentage mentioned in subsection  (1) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.\n (4) Increase the amount of the percentage mentioned in subsection  (1) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Amount of surcharge if this Division applies for part of the year",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Amount of surcharge if this Division applies for part of the year",
+      "defined_term": null,
+      "structure_path": "Part 3--AMOUNT--OF SURCHARGE PAYABLE > Division 4--Amount of surcharge for married person > Section 16",
+      "text": "When this section applies\n (1) The amount of surcharge payable on a person&#39;s reportable fringe benefits total for a year of income includes the amount worked out using the formula in subsection  (4) if:\n (a) this Division applies to the person for only part of the year of income; and\n (b) either subsection (2) or (3) applies to the person.\nPerson married for whole year of income\n (2) This subsection applies to the person if:\n (a) the person is married for the whole of the year of income; and\n (b) the sum of the person&#39;s income for surcharge purposes, and the person&#39;s spouse&#39;s income for surcharge purposes, for the year of income exceeds the person&#39;s family tier 1 threshold for the year of income; and\n (c) the person&#39;s income for surcharge purposes for the year of income exceeds $27,222.\nPerson married for part of the year of income\n (3) This subsection applies to the person if:\n (a) the person is married for only part of the year of income; and\n (b) the person&#39;s income for surcharge purposes for the year of income exceeds the person&#39;s family tier 1 threshold for the year of income.\nAmount of surcharge\n (4) The amount of surcharge payable on the person&#39;s reportable fringe benefits total for the year of income includes the amount worked out using the formula:\nwhere:\n\"number of applicable days\" is the number of days in the year of income for which this Division applies to the person.\n (4A) Increase the amount of the percentage mentioned in subsection  (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.\n (4B) Increase the amount of the percentage mentioned in subsection  (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.\nSpecial rule if person&#39;s spouse is a presently entitled beneficiary in a trust estate\n (5) In working out whether subsection  (2) applies to a person whose spouse is a beneficiary presently entitled to a share in the net income of a trust estate in respect of which the trustee is liable to be assessed under section  98 of the Assessment Act, assume that:\n (a) the spouse&#39;s income for surcharge purposes included that share; and\n (b) subsection 271-105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate."
+    }
+  ]
+}

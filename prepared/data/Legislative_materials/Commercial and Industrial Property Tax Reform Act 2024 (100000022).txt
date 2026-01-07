@@ -5,605 +5,444 @@ Register: https://www.legislation.vic.gov.au/in-force/acts/commercial-and-indust
 Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download.cgi/download/au/legis/vic/consol_act/caiptra2024472.txt
 When scraped: 2025-12-29T23:10:22.310476Z
 
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024 
-
-Section 1
-Purposes
-
+COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
+- TABLE OF PROVISIONS
+PART 1--PRELIMINARY
+Section 1. Purposes
+Section 2. Commencement
+Section 3. Definitions
+Section 4. When does land have a qualifying use?
+Section 4A. Valuation of land
+Section 4B. Provisional determination of qualifying use
+Section 5. Taxation Administration Act 1997
+Section 6. Act binds the Crown
+PART 2--ENTRY OF LAND INTO TAX REFORM SCHEME
+Division 1--Preliminary
+Section 7. When land enters the tax reform scheme
+Division 2--Entry transactions
+Section 8. What is an entry transaction?
+Section 9. What is a qualifying dutiable transaction?
+Section 10. Aggregation of interests acquired under qualifying dutiable transactions
+Section 11. What is a qualifying landholder transaction?
+Section 12. Determination of interest acquired under qualifying landholder transaction
+Section 13. Aggregation of interests acquired under qualifying landholder transactions
+Division 3--Entry consolidations
+Section 14. What is an entry consolidation?
+Section 15. Certain land taken to be consolidated on subdivision
+Division 4--Entry subdivisions
+Section 16. What is an entry subdivision?
+PART 3--COMMERCIAL AND INDUSTRIAL PROPERTY TAX
+Division 1--Imposition and rate of CIPT
+Section 17. Imposition of CIPT
+Section 18. Who is liable for CIPT?
+Section 19. Rate of CIPT
+Section 20. When must CIPT be paid?
+Section 21. CIPT is additional to other taxes and charges
+Division 2--Assessment of CIPT
+Section 22. Assessment generally
+Section 23. Occupancy on land
+Section 24. Assessment of joint owners
+Section 25. Certain long-term lessees
+Section 26. Reassessments
+Division 3--Security for CIPT
+Section 27. CIPT is a first charge on land
+Division 4--Recovery of CIPT
+Section 28. Recovery from lessee, mortgagee or occupier
+Section 29. Effect of notice under section 28
+Division 5--Prohibition on passing on CIPT
+Section 30. Prohibition on passing on CIPT to renters
+Division 6--Anti-avoidance
+Section 31. What is a tax avoidance scheme?
+Section 32. Anti-avoidance provision
+Division 7--Notification requirements
+Section 33. Notice of errors in notice of assessment
+Section 34. Notice of change of use
+PART 4--GENERAL
+Section 35. Regulations
+PART 5--TRANSITIONAL PROVISIONS
+Section 36. State Taxation Further Amendment Act 2025
+ENDNOTES
+Section 1 Purposes
 The purposes of this Act are&#8212;
-
          (a)     to reform the taxation of commercial and industrial property;
 and
-
          (b)     to amend the Duties Act 2000, the Taxation
 Administration Act 1997, the Treasury Corporation of Victoria
 Act 1992 and other Acts.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 2
-Commencement
-
+Section 2 Commencement
 This Act comes into operation on 1 July
 2024.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 3
-Definitions
-
+Section 3 Definitions
 In this Act&#8212;
-
 "associated person" has the same meaning as in section 3(1) of
 the Duties Act 2000;
-
 "AVPCC" means an Australian Valuation Property Classification
 Code based on the Valuation Best Practice Specifications Guidelines;
-
 "BTR land" means land that is eligible for a BTR benefit within
 the meaning of the Land Tax Act 2005;
-
 "change of use", in relation to tax reform scheme land,
 means&#8212;
-
          (a)     if the land has a qualifying use, a change that results in it no
 longer having a qualifying use; or
-
          (b)     if the land does not have a qualifying use, a change that results in
 it having a qualifying use;
-
 "CIPT" means commercial and industrial property tax;
-
 "CIPT taxable land", in relation to a tax year, means land
 that, as at midnight on 31 December immediately preceding that tax
 year&#8212;
-
          (a)     was tax reform scheme land; and
-
          (b)     was not still within the transition period in relation to that land;
 and
-
          (c)     had a qualifying use; and
-
          (d)     was taxable land within the meaning of the Land Tax
 Act 2005;
-
 "commercial and industrial property tax" means tax imposed by
-section 17;
-
+Section 17;
 "dutiable transaction "has the same meaning as in section 3(1)
 of the Duties Act 2000;
-
 "eligible student accommodation" means residential premises
 that are&#8212;
-
          (a)     designed for occupation by students of a higher education provider;
 and
-
          (b)     occupied or available for occupation by students of a higher education
 provider; and
-
          (c)     commercial residential premises within the meaning of
 section 195-1 of the A New Tax System (Goods and Services Tax)
-Act 1999 of the Commonwealth; 
-
+Act 1999 of the Commonwealth;
 "entry consolidation", in relation to land&#8212;see
-section 14(1);
-
+Section 14(1);
 "entry date", in relation to tax reform scheme land, means the
 date specified in section 7(2) as the date on which the land enters the tax
 reform scheme under Part 2;
-
 "entry subdivision", in relation to land&#8212;see
-section 16;
-
+Section 16;
 "entry transaction", in relation to land&#8212;see
-section 8;
-
+Section 8;
 "higher education provider "has the same meaning as in
 section 16-1 of the Higher Education Support Act 2003 of the
 Commonwealth;
-
 "interest in a landholder "has the same meaning as in
 section 79(1) of the Duties Act 2000;
-
 joint owners has the meaning given by section 3(1) of
 the Land Tax Act 2005;
-
 "landholder "has the same meaning as in section 71(1) of
 the Duties Act 2000;
-
 S. 3 def. of latest
 valuation inserted by No. 24/2025
 s. 3(a).
-
 "latest valuation" means the most recent valuation of land
 under&#8212;
-
          (a)     section 4A; or
-
          (b)     section 21(1)(b) of the Land Tax Act 2005; or
-
          (c)     section 13 of the Windfall Gains Tax Act 2021;
 or
-
-         (d)     the Valuation of Land Act 1960; 
-
+         (d)     the Valuation of Land Act 1960;
 S. 3 def. of lot
 inserted by No. 24/2025 s. 3(a).
-
 lot has the meaning given by section 3(1) of the
 Subdivision Act 1988;
-
 "owner", in relation to CIPT taxable land&#8212;see section
 18(2);
-
 S. 3 def. of plan of subdivision
 inserted by No. 24/2025 s. 3(a).
-
 plan of subdivision has the meaning given by section 3(1) of
-the Subdivision Act 1988; 
-
+the Subdivision Act 1988;
 S. 3 def. of provisional
 determination inserted by No. 24/2025
 s. 3(a).
-
 "provisional determination" means a determination made by the
-Commissioner under section 4B; 
-
+Commissioner under section 4B;
 "qualifying dutiable transaction", in relation to
 land&#8212;see section 9;
-
 "qualifying interest", in relation to land, means an interest
 of 50% or more in the land;
-
 "qualifying landholder transaction", in relation to
 land&#8212;see section 11;
-
 "qualifying use"&#8212;see section 4;
-
 "relevant acquisition "has the same meaning as in section 78(1)
 of the Duties Act 2000;
-
 "tax reform scheme land" means land that has entered the tax
 reform scheme under Part 2;
-
 "tax year" means a calendar year for or in which CIPT is being
 assessed;
-
 "taxable value", in relation to CIPT taxable land&#8212;see
-section 19(2);
-
+Section 19(2);
 "transition period", in relation to tax reform scheme land,
 means the period of 10 years starting on the entry date in relation to the
 land;
-
 S. 3 def. of unencum-bered
 value inserted by No. 48/2025 s. 3.
-
 "unencumbered value" has the same meaning as in section 3(1) of
 the Duties Act 2000;
-
 S. 3 def. of Valuation Best
 Practice Specifications Guidelines amended by No. 24/2025
 s. 3(b).
-
-"Valuation Best Practice Specifications Guidelines "has the same meaning as in 
+"Valuation Best Practice Specifications Guidelines "has the same meaning as in
 section 2(1) of the Valuation of Land Act 1960;
-
-S. 3 def. of 
+S. 3 def. of
 Valuer&#8211;General
 inserted by No. 24/2025 s. 3(a).
-
 Valuer&#8209;General means the valuer&#8209;general
 appointed under section 3(1) of the Valuation of Land
 Act 1960.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 4
-When does land have a qualifying use?
-
+Section 4 When does land have a qualifying use?
      (1)     For the purposes of this Act, land has a qualifying use
 if&#8212;
-
          (a)     the land has been allocated one or more than one AVPCC in the latest
 valuation, all of which are in the following ranges&#8212;
-
                (i)     200&#8722;499;
-
                (ii)     600&#8722;699; or
-
          (b)     the land&#8212;
-
                (i)     has been allocated more than one AVPCC in the latest valuation, one or
 more of which are in the ranges referred to in paragraph (a) and one or more of
 which are outside those ranges; and
-
                (ii)     is used solely or primarily for a use described in an AVPCC in the
 ranges referred to paragraph (a); or
-
 S. 4(1)(ba) inserted by
 No. 24/2025 s. 4(1).
-
          (ba)     a provisional determination that the land has a qualifying use is in
 effect; or
-
          (c)     the land is used solely or primarily as eligible student
 accommodation.
-
 S. 4(2) repealed by
 No. 24/2025 s. 4(2).
-
      *     *     *     *     *
-
 S. 4A inserted by No. 24/2025
 s. 5.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 4A
-Valuation of land
-
+Section 4A Valuation of land
 For the purposes of this Act, the Commissioner
 may request the Valuer&#8209;General or a valuer nominated by the
 Valuer&#8209;General to cause a valuation of any non&#8209;rateable
-non&#8209;leviable land and to allocate one or more AVPCC to the land. 
-
+non&#8209;leviable land and to allocate one or more AVPCC to the land.
 S. 4B inserted by No. 24/2025
 s. 5.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 4B
-Provisional determination of qualifying use
-
+Section 4B Provisional determination of qualifying use
      (1)     The Commissioner may make a provisional
-determination that land has or does not have a qualifying use.  
-
+determination that land has or does not have a qualifying use.
      (2)     A provisional determination may be made in respect of land as at any
 date, including a date that occurred before the commencement of this section, if
 as at that date&#8212;
-
          (a)     in the case of non&#8209;rateable non&#8209;leviable land, more than
-12 months have elapsed since the valuation date of the latest valuation;
+Section 12 months have elapsed since the valuation date of the latest valuation;
 or
-
          (b)     the land has not been allocated an AVPCC in the latest valuation of
 the land; or
-
          (c)     the land has not been valued by the Valuer&#8209;General or a valuer
 nominated by the Valuer&#8209;General.
-
 Examples
-
-1.     Non&#8209;rateable non&#8209;leviable land within the meaning of the
-Valuation of Land Act 1960 that has not been valued. 
-
-2.     A lot created on the registration of a plan of subdivision that has not
+Section 1. Non&#8209;rateable non&#8209;leviable land within the meaning of the
+Valuation of Land Act 1960 that has not been valued.
+Section 2. A lot created on the registration of a plan of subdivision that has not
 been valued.
-
      (3)     In making a provisional determination, the Commissioner may have
 regard to any relevant matter, including the following&#8212;
-
          (a)     the sole or primary use of the land;
-
          (b)     if the land is a lot that was created on the registration of a plan of
 subdivision, the AVPCC (if any) allocated to the land that was subdivided;
-
          (c)     the zoning of the land under a planning scheme applying to the
 land;
-
-         (d)     any other information available to the Commissioner.  
-
+         (d)     any other information available to the Commissioner.
      (4)     A provisional determination has effect from the date in respect of
 which it is made and ceases to have effect on the first valuation of the
 land.
-
      (5)     For the purposes of this Act, if a provisional determination is made
 in respect of a particular date, the AVPCC allocated to the land in the first
 valuation of the land is taken to have been allocated to the land as at that
 date and the Commissioner must assess or reassess any duty payable under the
-Duties Act 2000 or CIPT payable as a result. 
-
+Duties Act 2000 or CIPT payable as a result.
      (6)     In this section&#8212;
-
 "first valuation", of land subject to a provisional
 determination, means the first valuation of the land made by the
 Valuer&#8209;General or a valuer appointed by the Valuer&#8209;General after the
 date in respect of which the provisional determination was made.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 5
-Taxation Administration Act 1997
-
+Section 5 Taxation Administration Act 1997
 This Act is to be read together with the
 Taxation Administration Act 1997 which provides for the
 administration and enforcement of this Act and other taxation laws.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 6
-Act binds the Crown
-
+Section 6 Act binds the Crown
      (1)     This Act binds the Crown in right of
 Victoria and, so far as the legislative power of the Parliament permits, the
 Crown in all its other capacities.
-
      (2)     Nothing in this Act makes the Crown in any of its capacities liable to
 be prosecuted for an offence.
-
 Part
 2&#8212;Entry of land into tax reform scheme
-
 Division
-1&#8212;Preliminary 
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 7
-When land enters the tax reform scheme
-
+1&#8212;Preliminary
+Section 7 When land enters the tax reform scheme
      (1)     Land enters the tax reform scheme if any
 of the following occur in respect of the land&#8212;
-
-         (a)     an entry transaction; 
-
-         (b)     an entry consolidation; 
-
+         (a)     an entry transaction;
+         (b)     an entry consolidation;
          (c)     an entry subdivision.
-
      (2)     The date on which land enters the tax reform scheme
 is&#8212;
-
          (a)     in the case of an entry transaction, the date on which the transaction
 occurs; or
-
          (b)     in the case of an entry consolidation, the first date on which land
 that forms part of the consolidation entered the tax reform scheme; or
-
 Example
-
 Two parcels of land are consolidated with three parcels of tax reform
 scheme land on 1 July 2026.  Of the tax reform scheme land, one parcel
 entered the tax reform scheme on 1 January 2025, another on 1 December
-2025 and the third on 1 February 2026.  The entry date for the consolidated
+Section 2025 and the third on 1 February 2026.  The entry date for the consolidated
 land is the date on which land first entered the tax reform scheme,
-1 January 2025. 
-
+Section 1 January 2025.
          (c)     in the case of an entry subdivision, the date on which the land that
 was subdivided entered the tax reform scheme.
-
 Example
-
 A parcel of land (the parent lot) enters the tax reform
 scheme on 1 November 2025.  The parent lot is subdivided into four parcels
 of land (the child lots) on 1 February 2027.  The entry date
-for each child lot is 1 November 2025. 
-
+for each child lot is 1 November 2025.
 Division
 2&#8212;Entry transactions
-
 S. 8 amended by No. 48/2025
 s. 4(2) (ILA s. 39B(1)).
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 8
-What is an entry transaction? 
-
+Section 8 What is an entry transaction?
      (1)     A transaction in respect of land is an entry transaction
 if&#8212;
-
          (a)     the transaction is&#8212;
-
                (i)     a qualifying dutiable transaction; or
-
                (ii)     a qualifying landholder transaction; and
-
          (b)     on the date the transaction occurs, the land has a qualifying use; and
-
          (c)     the transaction relates to an interest in land&#8212;
-
                (i)     that is a qualifying interest; or
-
 S. 8(1)(c)(ii) amended by
 No. 48/2025 s. 4(1)(a).
-
                (ii)     that amounts to a qualifying interest in the land when aggregated
 with other interests in the land in accordance with section 10 or 13; and
-
 S. 8(1)(d) inserted by
 No. 48/2025 s. 4(1)(b).
-
          (d)     in the case of a qualifying dutiable transaction, the transaction has
 the duty consequences described in subsection (2).
-
 S. 8(2) inserted by
 No. 48/2025 s. 4(2).
-
      (2)     For the purposes of subsection (1)(d), the duty consequences are
 that&#8212;
-
          (a)     in the case of a transaction referred to in subsection (1)(c)(i), the
 amount determined in accordance with the formula in subsection (3) is greater
 than or equal to 50%; or
-
          (b)     in the case of a transaction referred to in subsection (1)(c)(ii), the
 sum of the amounts determined in accordance with the formula in subsection (3)
 for each aggregated interest is greater than or equal to 50%.
-
 S. 8(3) inserted by
 No. 48/2025 s. 4(2).
-
      (3)     For the purposes of subsection (2)(a) and (b), the amount is
 determined in accordance with the following formula&#8212;
-
 where&#8212;
-
           D     is the dutiable value of the land the subject of the qualifying
 dutiable transaction;
-
           U     is the unencumbered value of the whole of the land at the time of
 the qualifying dutiable transaction.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 9
-What is a qualifying dutiable transaction? 
-
+Section 9 What is a qualifying dutiable transaction?
      (1)     A transaction is a qualifying dutiable transaction
 if&#8212;
-
          (a)     the transaction is a dutiable transaction described in
 section 7(1)(a) or (b) of the Duties Act 2000, other
 than&#8212;
-
                (i)     a dutiable transaction described in section 7(1)(b)(v)
 or (va); or
-
                (ii)     the acquisition of an economic entitlement within the meaning of
 section 32XC of the Duties Act 2000; and
-
          (b)     the dutiable property the subject of the dutiable transaction is an
 estate or interest in land in Victoria described in section 10(1)(a) of the
 Duties Act 2000; and
-
 S. 9(1)(c) substituted by
 No. 48/2025 s. 5.
-
          (c)     duty is chargeable on the dutiable transaction under the Duties
 Act 2000; and
-
          (d)     the dutiable transaction is not an eligible transaction within the
 meaning of section 250A of the Duties Act 2000.
-
      (2)     However, a dutiable transaction is not a qualifying dutiable
 transaction if it occurs pursuant to an agreement or arrangement that was
 entered into before the commencement of this Act.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 10
-Aggregation of interests acquired under qualifying dutiable transactions 
-
+Section 10 Aggregation of interests acquired under qualifying dutiable transactions
 S. 10(1)
 amended by No. 48/2025 s. 6.
-
      (1)     For the purposes of section 8(1)(c)(ii), an interest in land
 obtained by a person under a qualifying dutiable transaction must be aggregated
 with another interest in the land obtained under another qualifying dutiable
 transaction if&#8212;
-
          (a)     those dutiable transactions are aggregated under section 24 of
 the Duties Act 2000; or
-
          (b)     the dutiable transactions occur within a 3 year period and
 either&#8212;
-
                (i)     the transferee under each dutiable transaction is the same person;
 or
-
                (ii)     the transferees under the dutiable transactions are associated
-persons. 
-
+persons.
 Example
-
 Person A is the transferee under a transfer of land occurring on 1 July
-2024 relating to a 35% interest in the land (qualifying dutiable
+Section 2024 relating to a 35% interest in the land (qualifying dutiable
 transaction A).  Person B is the transferee under a transfer of land
 occurring on 1 July 2026 relating to a 15% interest in the same land
 (qualifying dutiable transaction B).  Persons A and B are
 associated persons.  The interests they acquired in the land are aggregated and
 together amount to a qualifying interest.  This means qualifying dutiable
-transaction B is the entry transaction for the land.  
-
+transaction B is the entry transaction for the land.
      (2)     For the purposes of subsection (1)(b), a person is not an associated
 person of another person if the Commissioner is satisfied that the interests of
 the persons&#8212;
-
          (a)     were acquired, and will be used, independently; and
-
          (b)     were not acquired, and will not be used, for a common
 purpose.
-
      (3)     Subsection (2) does not apply if the persons are associated persons
 because they are related bodies corporate.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 11
-What is a qualifying landholder transaction? 
-
+Section 11 What is a qualifying landholder transaction?
      (1)     A transaction is a qualifying landholder transaction
 if&#8212;
-
          (a)     the transaction is a relevant acquisition; and
-
          (b)     at the time of the relevant acquisition, the landholder holds an
 interest in land described in section 10(1)(a) of the Duties
 Act 2000; and
-
 S. 11(1)(c) substituted by
 No. 48/2025 s. 7.
-
          (c)     duty is chargeable on the relevant acquisition under the Duties
 Act 2000; and
-
          (d)     the relevant acquisition is not an eligible transaction within the
 meaning of section 250A of the Duties Act 2000.
-
      (2)     However, a relevant acquisition is not a qualifying landholder
 transaction if the relevant acquisition is made pursuant to an agreement or
 arrangement that was entered into before the commencement of this Act.
-
      (3)     For the purposes of subsection (1)(b), the interest the
 landholder holds in land is to be determined in accordance with Part 2 of
-Chapter 3 of the Duties Act 2000. 
-
+Chapter 3 of the Duties Act 2000.
      (4)     An interest in land is to be disregarded for the purposes of
 subsection (1)(b) if the Commissioner determines under section 89I of
 the Duties Act 2000 that the land was not, at the time of the
-relevant acquisition, a land holding of the landholder.  
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 12
-Determination of interest acquired under qualifying landholder transaction 
-
-     (1)     The interest in land that a person is taken to have acquired under a qualifying landholder 
+relevant acquisition, a land holding of the landholder.
+Section 12 Determination of interest acquired under qualifying landholder transaction
+     (1)     The interest in land that a person is taken to have acquired under a qualifying landholder
 transaction is the interest calculated in accordance with the following
 formula&#8212;
-
 where&#8212;
-
           A     is the interest acquired in the landholder under the qualifying
 landholder transaction on which duty is chargeable under Part 2 of
 Chapter 3 of the Duties Act 2000;
-
-     B     is the interest the landholder holds in the land at the time the relevant acquisition is made. 
-
+     B     is the interest the landholder holds in the land at the time the relevant acquisition is made.
      (2)     For the purposes of the variable B, the interest the landholder
 holds in land is to be determined in accordance with Part 2 of
-Chapter 3 of the Duties Act 2000. 
-
+Chapter 3 of the Duties Act 2000.
      (3)     If, at the time of a relevant acquisition described in
 section 11(1), a landholder holds more than one interest in land described
 in section 11(1)(b), the relevant acquisition is taken to be a separate
 qualifying landholder transaction in respect of each interest in land held by
-the landholder.  
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 13
-Aggregation of interests acquired under qualifying landholder transactions 
-
+the landholder.
+Section 13 Aggregation of interests acquired under qualifying landholder transactions
 S. 13(1)
 amended by No. 48/2025 s. 8.
-
      (1)     For the purposes of section 8(1)(c)(ii), an interest in land
 obtained by a person under a qualifying landholder transaction must be
 aggregated with another interest in the land obtained under another qualifying
 landholder transaction if&#8212;
-
          (a)     the qualifying landholder transactions occur within a 3 year
 period; and
-
          (b)     under each qualifying landholder transaction, a relevant acquisition
 is made in the same landholder; and
-
          (c)     the relevant acquisitions in the landholder are made by the same
-person or associated persons. 
-
+person or associated persons.
 Example
-
 Person A obtains a 20% interest in land under a qualifying landholder
 transaction occurring on 1 December 2024 (qualifying landholder
 transaction A).  Person B obtains a 40% interest in the land under a
@@ -611,675 +450,421 @@ qualifying landholder transaction occurring on 1 July 2026
 (qualifying landholder transaction B).  Person A and Person B
 are associated persons.  The interests Persons A and B acquired in the land are
 aggregated and together amount to a qualifying interest.  This means qualifying
-landholder transaction B is the entry transaction for the land.  
-
+landholder transaction B is the entry transaction for the land.
      (2)     For the purposes of subsection (1)(b), a person is not an associated
 person of another person if the Commissioner is satisfied that the interests of
 the persons&#8212;
-
          (a)     were acquired, and will be used, independently; and
-
          (b)     were not acquired, and will not be used, for a common
 purpose.
-
      (3)     Subsection (2) does not apply if the persons are associated persons
 because they are related bodies corporate.
-
 Division
-3&#8212;Entry consolidations 
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 14
-What is an entry consolidation? 
-
+3&#8212;Entry consolidations
+Section 14 What is an entry consolidation?
      (1)     A consolidation of land is an entry consolidation if, as
 a result of the consolidation&#8212;
-
          (a)     tax reform scheme land is consolidated with any of the
 following&#8212;
-
                (i)     land that has not entered the tax reform scheme;
-
                (ii)     other tax reform scheme land; and
-
          (b)     50% or more of the area of the consolidated land is tax reform scheme
 land.
-
      (2)     However, tax reform scheme land is taken to no longer be tax reform
 scheme land if&#8212;
-
          (a)     the land is consolidated with land that has not entered the tax reform
 scheme; and
-
          (b)     as a result of the consolidation, less than 50% of the area of the
 consolidated land is tax reform scheme land.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 15
-Certain land taken to be consolidated on subdivision
-
+Section 15 Certain land taken to be consolidated on subdivision
      (1)     Two or more parcels of land are taken to
 be consolidated for the purposes of this Act if a plan of subdivision is
-registered in relation to those parcels of land.  
-
+registered in relation to those parcels of land.
      (2)     The date on which land is taken to be consolidated under
 subsection (1) is the date on which the plan of subdivision is registered.
-
 Example to s. 15 amended by
 No. 48/2025 s. 9.
-
 Example
-
 A plan of subdivision is registered on 1 January 2025 in relation to a
 parcel of land that is tax reform scheme land (Land A) and another
 parcel of land that is not tax reform scheme land (Land B).  The
 land is taken to be consolidated on 1 January 2025.  Section 14 applies to
-determine whether the consolidation of the land is an entry consolidation.   
-
+determine whether the consolidation of the land is an entry consolidation.
 Division
 4&#8212;Entry subdivisions
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 16
-What is an entry subdivision? 
-
+Section 16 What is an entry subdivision?
 A subdivision of land is an entry subdivision if the land
-that is subdivided is tax reform scheme land. 
-
+that is subdivided is tax reform scheme land.
 Part
 3&#8212;Commercial and industrial property tax
-
 Division
 1&#8212;Imposition and rate of CIPT
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 17
-Imposition of CIPT
-
+Section 17 Imposition of CIPT
 Commercial and industrial property tax is
 imposed in respect of each year on all CIPT taxable land.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 18
-Who is liable for CIPT?
-
+Section 18 Who is liable for CIPT?
      (1)     The owner of CIPT taxable land is liable
 to pay CIPT on the land.
-
      (2)     Subject to subsection (3) and section 25, the owner of
 CIPT taxable land is the same as the owner of the land under the Land Tax
 Act 2005.
-
      (3)     In determining who is the owner of CIPT taxable land, section 18 and
 Divisions 2A and 2AB of Part 3 of the Land Tax Act 2005 do not
 apply.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 19
-Rate of CIPT
-
+Section 19 Rate of CIPT
      (1)     The rate of CIPT is&#8212;
-
          (a)     for land other than BTR land&#8212;1% of the taxable value of the
 land; or
-
          (b)     for BTR land&#8212;0&#183;5% of the taxable value of the
 land.
-
      (2)     The taxable value of CIPT taxable land or part of CIPT
 taxable land is the same as the taxable value of the land or part under Division
-3 of Part 2 of the Land Tax Act 2005.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 20
-When must CIPT be paid?
-
+Section 3 of Part 2 of the Land Tax Act 2005.
+Section 20 When must CIPT be paid?
 The day specified in a notice of assessment of
 CIPT must not be less than 14 days after the day the notice is served on the
 taxpayer.
-
 Note
-
 Section 14 of the Taxation Administration Act 1997 provides for
 notices of assessment and provides that tax is payable on or before the day
 specified in the notice.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 21
-CIPT is additional to other taxes and charges
-
+Section 21 CIPT is additional to other taxes and charges
 To avoid doubt, CIPT is imposed on CIPT taxable
 land in addition to any other taxes and charges imposed on, or calculated by
 reference to the value of, the land, including land tax, windfall gains tax,
 local government rates and charges and the fire services property
 levy.
-
 Note
-
 Duty under the Duties Act 2000 is not chargeable on certain
 transactions in relation to CIPT taxable land&#8212;see Division 9 of Part 5 of
 Chapter 2 and Division 3A of Part 2 of Chapter 3 of that Act.
-
 Division
 2&#8212;Assessment of CIPT
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 22
-Assessment generally
-
+Section 22 Assessment generally
 A taxpayer is to be assessed for CIPT for a tax
 year on the taxable value of all CIPT taxable land of which the taxpayer was the
 owner at midnight on 31 December immediately preceding the tax
 year.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 23
-Occupancy on land
-
+Section 23 Occupancy on land
 The Commissioner may include in a notice of
 assessment a description of the occupancy on land.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 24
-Assessment of joint owners
-
+Section 24 Assessment of joint owners
 Joint owners of CIPT taxable land are to be
 jointly assessed for CIPT on the land as if it were owned by a single
 person.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 25
-Certain long-term lessees
-
+Section 25 Certain long-term lessees
      (1)     This section applies if&#8212;
-
          (a)     a person (the lessee) has a leasehold estate in CIPT
 taxable land (other than under a lease of Crown land); and
-
          (b)     the lessee became entitled to that estate before 30 December
 1978.
-
      (2)     If this section applies, both the lessee and the owner of the freehold
 estate in the land are to be assessed for CIPT on the land and, for the purpose
 of this Act, a reference to the owner of the land includes a reference to the
 lessee.
-
      (3)     The Commissioner may apportion the CIPT payable on the land as between
 the owner of the freehold estate and the lessee if the Commissioner is of the
 opinion that the value of the freehold owner's interest in the land is lessened
 by the covenants of the lease.
-
      (4)     If the Commissioner apportions the CIPT under subsection (3), the
 owner of the freehold estate and the lessee are each liable to pay the
 proportion of the CIPT determined by the Commissioner.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 26
-Reassessments
-
+Section 26 Reassessments
 The Commissioner may make a reassessment of
 CIPT under section 9 of the Taxation Administration Act 1997 more
 than 5 years after the initial assessment.
-
 Division
 3&#8212;Security for CIPT
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 27
-CIPT is a first charge on land
-
+Section 27 CIPT is a first charge on land
      (1)     Unpaid CIPT (including any interest and
 penalty tax) is a first charge on the land on which the CIPT is
 payable.
-
      (2)     Subject to section 36S of the Treasury Corporation of Victoria
 Act 1992, the charge has priority over all other encumbrances to which
 the land is subject.
-
      (3)     Subsections (1) and (2) do not apply to CIPT on Crown land or vested
 land under Part 3A of the Victorian Plantations Corporation
 Act 1993.
-
      (4)     If a person&#8212;
-
          (a)     is a bona fide purchaser for value of land; and
-
          (b)     obtains a certificate from the Commissioner under section 95AA of the
 Taxation Administration Act 1997 in respect of the
 land&#8212;
-
 the charge does not secure any amount of CIPT (including any interest and
 penalty tax) on the land in excess of the amount set out in the
 certificate.
-
 Note
-
 Notice of a charge under this section may be lodged with the Registrar
 under section 106B of the Transfer of Land Act 1958.
-
 Division
 4&#8212;Recovery of CIPT
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 28
-Recovery from lessee, mortgagee or occupier
-
+Section 28 Recovery from lessee, mortgagee or occupier
      (1)     If a tax default occurs in relation to
 CIPT, the Commissioner may serve a written notice on a lessee, mortgagee or
 occupier of the land on which the CIPT is payable requiring the lessee,
 mortgagee or occupier to pay an amount of CIPT (including any interest and
 penalty tax) that is payable but remains unpaid.
-
      (2)     The Commissioner cannot require a lessee or occupier&#8212;
-
          (a)     to pay an amount under this section that is greater than the amount of
 rent the lessee or occupier is required to pay the taxpayer; or
-
          (b)     to pay an amount under this section before the day on which the lessee
 or occupier is required to pay rent to the taxpayer.
-
      (3)     Subsection (2) does not apply to a lessee or occupier that is a
 related corporation or relative of the taxpayer.
-
      (4)     A copy of the notice under subsection (1) must be served on the
 taxpayer.
-
      (5)     In this section&#8212;
-
 related corporation has the meaning given in section 47 of
 the Land Tax Act 2005;
-
 relative has the meaning given in section 3(1) of the Land
 Tax Act 2005.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 29
-Effect of notice under section 28
-
+Section 29 Effect of notice under section 28
      (1)     An amount specified in a notice under
 section 28(1) must be paid to the Commissioner on receipt of the notice or
 by the date specified in the notice, whichever is the later.
-
      (2)     Section 45 of the Taxation Administration Act 1997 applies
 to an amount payable under subsection (1) as if the person required to pay the
 amount were the taxpayer.
-
      (3)     A person who pays an amount under subsection (1) is entitled to
 recover that amount from the taxpayer as a debt, or to set off the amount
 against any money owing to the taxpayer.
-
      (4)     If a lessee or occupier pays an amount under subsection
 (1)&#8212;
-
          (a)     the amount is deemed to have been paid to the Commissioner by the
 taxpayer; and
-
          (b)     the lessee or occupier is deemed to have paid an equal amount of rent
 to the taxpayer under the lease or agreement or under any applicable tenancy
 law.
-
      (5)     If a mortgagee pays an amount under subsection (1), the amount is
 deemed to be secured by the mortgage in addition to any other amount secured by
 it.
-
 Note
-
 General provisions for the recovery of CIPT can be found in Part 7 of the
 Taxation Administration Act 1997.
-
 Division
 5&#8212;Prohibition on passing on CIPT
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 30
-Prohibition on passing on CIPT to renters
-
+Section 30 Prohibition on passing on CIPT to renters
      (1)     A provision in a residential rental
 agreement to the effect that the renter is liable to pay, or to reimburse the
 residential rental provider in respect of, any CIPT payable by the residential
 rental provider in respect of the rented premises is void.
-
      (2)     In this section&#8212;
-
 "renter" includes a tenant;
-
 "residential rental agreement" means an agreement, whether or
 not in writing and whether express or implied, under which a person lets
 premises as a residence;
-
 "residential rental provider" includes a landlord.
-
 Division
 6&#8212;Anti-avoidance
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 31
-What is a tax avoidance scheme?
-
+Section 31 What is a tax avoidance scheme?
      (1)     For the purposes of this Division, a tax avoidance
 scheme is a scheme&#8212;
-
          (a)     under or in connection with which&#8212;
-
                (i)     a person has obtained a reduction in, or exemption from, CIPT;
 or
-
                (ii)     land that would otherwise be, or become, tax reform scheme land or
 CIPT taxable land is not, or does not become, tax reform scheme land or CIPT
 taxable land; and
-
          (b)     in respect of which, having regard to any one or more of the matters
 referred to in subsection (2), it would be concluded that a person, or one of
 the persons, who participated in the scheme did so for the purpose of
 enabling&#8212;
-
                (i)     a person to obtain a reduction in, or exemption from, CIPT;
 or
-
                (ii)     land that would otherwise be, or become, tax reform scheme land or
 CIPT taxable land not being, or not becoming, tax reform scheme land or CIPT
 taxable land&#8212;
-
 under or in connection with the scheme.
-
      (2)     The factors that may be considered for the purposes of subsection
 (1)(b) are&#8212;
-
          (a)     the manner in which the scheme was entered into or carried
 out;
-
          (b)     the form and substance of the scheme;
-
          (c)     the time at which the scheme was entered into and the length of the
 period during which the scheme was carried out;
-
          (d)     the result in relation to the operation of this Division that, but for
 section 32, would have been achieved by the scheme;
-
          (e)     any change in the financial position of any person that has resulted,
 will result or may reasonably be expected to result from the scheme;
-
          (f)     any other consequence for the person, or for any other person referred
 to in paragraph (e), of the scheme having been entered into and carried
 out;
-
          (g)     the nature of any connection (whether of a business, family or other
 nature) between the person and any other person referred to in
 paragraph (e).
-
      (3)     A reference in subsection (1) to a scheme being carried out by a
 person for a particular purpose includes a reference to the scheme being entered
 into or carried out by the person for 2 or more purposes of which that
 particular purpose is the main purpose.
-
      (4)     This section applies to a scheme&#8212;
-
          (a)     whenever entered into; and
-
          (b)     whether the scheme has been or is entered into or carried out in or
 outside Victoria or partly in and partly outside Victoria.
-
      (5)     In this section&#8212;
-
 "scheme" includes the whole or any part of&#8212;
-
          (a)     a contract, agreement, arrangement, understanding, promise or
 undertaking (including all steps and transactions by which it is carried into
 effect)&#8212;
-
                (i)     whether made or entered into orally or in writing;
-
                (ii)     whether express or implied;
-
                (iii)     whether or not enforceable; or
-
          (b)     a plan, proposal, action, course of action or course of conduct,
 whether or not unilateral; or
-
          (c)     a trust.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 32
-Anti-avoidance provision
-
+Section 32 Anti-avoidance provision
      (1)     If the Commissioner considers that a
 person has participated in a tax avoidance scheme, the Commissioner may do any
 one or more of the following&#8212;
-
          (a)     disregard the scheme;
-
          (b)     determine that land is tax reform scheme land or CIPT taxable
 land;
-
          (c)     determine what CIPT would have been payable but for the
 scheme;
-
          (d)     make an assessment or reassessment under the Taxation
 Administration Act 1997 of the tax liability of the person or any other
 person to give effect to that determination.
-
      (2)     Without limiting subsection (1), the Commissioner may aggregate
 interests in land obtained or taken to have been obtained under one or more
 dutiable transactions and one or more relevant acquisitions if the Commissioner
 is satisfied that the transactions and acquisitions formed part of a tax
 avoidance scheme.
-
 Division
 7&#8212;Notification requirements
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 33
-Notice of errors in notice of assessment
-
+Section 33 Notice of errors in notice of assessment
      (1)     A person who is served with a notice of
 assessment of CIPT must notify the Commissioner of any error or omission in the
 notice relating to&#8212;
-
          (a)     any tax reform scheme land owned by the person at the relevant time
 that has a qualifying use at that time but is not specified in the notice;
 and
-
          (b)     any land specified in the notice as not subject to CIPT.
-
      (2)     Notice of the error or omission must be given to the Commissioner
 within 60 days after the date of issue of the notice of assessment.
-
      (3)     If there is more than one owner of the land specified in the notice of
 assessment, it is sufficient compliance with this section if one of the owners
 provides the required information on behalf of all of them.
-
      (4)     In this section&#8212;
-
 "relevant time" means midnight on 31 December immediately
 preceding the tax year to which the notice of assessment relates.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 34
-Notice of change of use
-
+Section 34 Notice of change of use
      (1)     An owner of tax reform scheme land must
 notify the Commissioner if the land or part of the land undergoes a change of
 use.
-
      (2)     The notice must be given to the Commissioner within 30 days after the
 change of use.
-
      (3)     If there is more than one owner of the land or part, it is sufficient
 compliance with this section if one of the owners provides the required
 information on behalf of all of them.
-
      (4)     For the purposes of this section, land or part of land undergoes a
 change of use if&#8212;
-
          (a)     the land or part has a change of use as defined in section 3;
 or
-
          (b)     the actual use of the land or part changes from a use described in one
 or more than one AVPCC in the following ranges to a use not described in any
 AVPCC in those ranges&#8212;
-
                (i)     200&#8722;499;
-
                (ii)     600&#8722;699; or
-
          (c)     the actual use of the land or part changes from a use not described in
 any AVPCC in the following ranges to a use described in one or more than one
 AVPCC in those ranges&#8212;
-
                (i)     200&#8722;499;
-
                (ii)     600&#8722;699.
-
 Part
 4&#8212;General
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 35
-Regulations
-
+Section 35 Regulations
      (1)     The Governor in Council may make
 regulations for or with respect to any matter or thing that is required or
 permitted to be prescribed or necessary to be prescribed to give effect to this
 Act.
-
      (2)     Regulations made under this Act&#8212;
-
          (a)     may be of general or limited application; and
-
          (b)     may differ according to differences in time, place or
 circumstances.
-
-Pt 5 (Headings and ss 36&#8211;67) repealed by No. 16/2024 s. 67, 
+Pt 5 (Headings and ss 36&#8211;67) repealed by No. 16/2024 s. 67,
 new Pt 5 (Heading and new s. 36) inserted by No. 48/2025
 s. 10.
-
 Part
 5&#8212;Transitional provisions
-
 New s. 36 inserted by
 No. 48/2025 s. 10.
-
-COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
-Section 36
-State Taxation Further Amendment Act 2025
-
+Section 36 State Taxation Further Amendment Act 2025
 Sections 3, 8, 9, 10, 11, 13 and 15, as amended
 by Part 2 of the State Taxation Further Amendment Act 2025, apply, and
 are taken always to have applied, from 1 July 2024.
-
 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;
-
 COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
 - NOTES
-
 Version
 No. 004
-
-No. 16 of 2024Version incorporating amendments as at26 November 2025 
-
+No. 16 of 2024Version incorporating amendments as at26 November 2025
 &#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;
-
-Version No. 004 
-Commercial and Industrial Property Tax Reform Act 2024 
+Version No. 004
+Commercial and Industrial Property Tax Reform Act 2024
 No. 16 of 2024
-
 Version incorporating amendments as at26 November
 2025
-
 COMMERCIAL AND INDUSTRIAL PROPERTY TAX REFORM ACT 2024
 - NOTES Endnotes
-
 Endnotes
-
      1     General information
-
 See www.legislation.vic.gov.au for Victorian Bills, Acts and current
 Versions of legislation and up-to-date legislative information.
-
 Minister's second reading speech&#8212;
-
 Legislative Assembly: 21 March 2024
-
 Legislative Council: 2 May 2024
-
 The long title for the Bill for this Act was "A Bill for an Act to reform
 the taxation of commercial and industrial property, to amend the
 Duties Act 2000, the Taxation
 Administration Act 1997, the Treasury Corporation of Victoria
 Act 1992 and other Acts and for other purposes."
-
 Constitution Act 1975:
-
 Section 85(5) statement:
-
 Legislative Assembly: 21 March 2024
-
 Legislative Council: 2 May 2024
-
 Absolute majorities:
-
 Legislative Assembly: 2 May 2024
-
 Legislative Council: 14 May 2024
-
 The Commercial and Industrial Property Tax Reform Act 2024 was
 assented to on 21 May 2024 and came into operation on 1 July 2024:
-section 2.
-
+Section 2.
 INTERPRETATION OF LEGISLATION ACT 1984
 (ILA)
-
 Style changes
-
 Section 54A of the ILA authorises the making of the style changes set out
 in Schedule 1 to that Act.
-
 References to ILA s. 39B
-
 Sidenotes which cite ILA s. 39B refer to section 39B of the ILA which
 provides that where an undivided section or clause of a Schedule is amended by
 the insertion of one or more subsections or subclauses, the original section or
 clause becomes subsection or subclause (1) and is amended by the insertion of
 the expression "(1)" at the beginning of the original section or
 clause.
-
 Interpretation
-
 As from 1 January 2001, amendments to section 36 of the ILA have the
 following effects:
-
 &#8226;     Headings
-
 All headings included in an Act which is passed on or after 1 January 2001
 form part of that Act.  Any heading inserted in an Act which was passed before 1
 January 2001, by an Act passed on or after 1 January 2001, forms part of that
 Act.  This includes headings to Parts, Divisions or Subdivisions in a Schedule;
-sections; clauses; items; tables; columns; examples; diagrams; notes or forms. 
+sections; clauses; items; tables; columns; examples; diagrams; notes or forms.
 See section 36(1A)(2A).
-
 &#8226;     Examples, diagrams or notes
-
 All examples, diagrams or notes included in an Act which is passed on or
 after 1 January 2001 form part of that Act.  Any examples, diagrams or notes
 inserted in an Act which was passed before 1 January 2001, by an Act passed on
 or after 1 January 2001, form part of that Act.  See section 36(3A).
-
 &#8226;     Punctuation
-
 All punctuation included in an Act which is passed on or after 1 January
-2001 forms part of that Act.  Any punctuation inserted in an Act which was
+Section 2001 forms part of that Act.  Any punctuation inserted in an Act which was
 passed before 1 January 2001, by an Act passed on or after 1 January 2001, forms
 part of that Act.  See section 36(3B).
-
 &#8226;     Provision numbers
-
 All provision numbers included in an Act form part of that Act, whether
 inserted in the Act before, on or after 1 January 2001.  Provision numbers
 include section numbers, subsection numbers, paragraphs and subparagraphs.  See
-section 36(3C).
-
+Section 36(3C).
 &#8226;     Location of "legislative items"
-
 A "legislative item" is a penalty, an example or a note.  As from 13
 October 2004, a legislative item relating to a provision of an Act is taken to
 be at the foot of that provision even if it is preceded or followed by another
@@ -1287,83 +872,48 @@ legislative item that relates to that provision.  For example, if a penalty at
 the foot of a provision is followed by a note, both of these legislative items
 will be regarded as being at the foot of that provision.  See section
 36B.
-
 &#8226;     Other material
-
+Any explanatory memorandum, table of provisions, endnotes, index and other
+material printed after the Endnotes does not form part of an Act.  See
+Section 36(3)(3D)(3E).
      2     Table of Amendments
-
 This publication incorporates amendments made to
 the Commercial and Industrial Property Tax Reform Act 2024 by Acts and
 subordinate instruments.
-
 &#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;
-
 Commercial and Industrial Property Tax Reform
 Act 2024, No. 16/2024
-
-      
-      
-
 Assent Date:
-
 21.5.24
-
 Commencement Date:
-
 S. 67 on 1.7.24: s. 2
-
 Note:
-
 S. 67 repealed Pt 5 (ss 36&#8211;67) on
 1.7.25
-
 Current State:
-
 This information relates only to the provision/s amending
 the Commercial and Industrial Property Tax Reform Act
 2024
-
 State Taxation Acts Amendment Act 2025,
 No. 24/2025
-
-      
-      
-
 Assent Date:
-
 24.6.25
-
 Commencement Date:
-
 Ss 3&#8211;5 on 25.6.25: s. 2(1)
-
 Current State:
-
 This information relates only to the provision/s amending
 the Commercial and Industrial Property Tax Reform
 Act 2024
-
 State Taxation Further Amendment Act 2025,
 No. 48/2025
-
-      
-      
-
 Assent Date:
-
 25.11.25
-
 Commencement Date:
-
 Ss 3&#8211;10 on 26.11.25: s. 2(2)
-
 Current State:
-
 This information relates only to the provision/s amending
 the Commercial and Industrial Property Tax Reform
 Act 2024
-
 &#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;
-
      3     Explanatory detailsNo entries at
 date of publication.

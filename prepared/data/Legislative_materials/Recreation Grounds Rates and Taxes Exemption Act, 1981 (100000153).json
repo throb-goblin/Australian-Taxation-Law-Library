@@ -1,0 +1,43 @@
+{
+  "doc": {
+    "jurisdiction": "south_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/sa/consol_act/rgratea1981460/",
+    "register_url": "https://www.legislation.sa.gov.au/lz?path=/c/a/recreation%20grounds%20rates%20and%20taxes%20exemption%20act%201981",
+    "source": "Recreation Grounds Rates and Taxes Exemption Act, 1981 (100000153).txt",
+    "filename": "Recreation Grounds Rates and Taxes Exemption Act, 1981 (100000153).json",
+    "name": "Recreation Grounds Rates and Taxes Exemption Act, 1981",
+    "citation": "Recreation Grounds Rates and Taxes Exemption Act, 1981"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Recreation Grounds Rates and Taxes Exemption Act, 1981 > Section 1",
+      "text": "This Act may be cited as the Recreation Grounds Rates and Taxes\nExemption Act 1981."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Recreation Grounds Rates and Taxes Exemption Act, 1981 > Section 3",
+      "text": "In this Act--\n\"rates and taxes\" means rates and taxes imposed by or under any\nActs of Parliament but does not include a charge imposed for water supplied or\nservices provided."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Exemption of certain land from payment of rates",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Exemption of certain land from payment of rates",
+      "defined_term": null,
+      "structure_path": "Recreation Grounds Rates and Taxes Exemption Act, 1981 > Section 4",
+      "text": "(1)         Subject to\nsubsection (2), land is exempt from rates and taxes if--\n             (a)         the land--\n                   (i)         is vested in a council; or\n                   (ii)         is under the care, control or management of a council,\nand the public is entitled to access to the land for the purpose of sport\nor recreation;\n             (b)         the land is vested in trustees or in an association and the public is\nentitled, in pursuance of rights granted in perpetuity, to access to the land\nfor the purpose of sport or recreation;\n             (c)         the land is occupied under a lease, licence or permit granted by a\ncouncil and is used by the occupier for the purposes of sport or\nrecreation.\n         (2)         The exemption\nconferred by subsection (1) does not operate unless the whole of the income\n(if any) derived from the land by the council, trustees or association is\napplied towards the maintenance, repair or improvement of the land."
+    }
+  ]
+}

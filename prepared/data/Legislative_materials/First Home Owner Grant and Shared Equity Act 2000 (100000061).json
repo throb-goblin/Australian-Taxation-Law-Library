@@ -1,0 +1,1391 @@
+{
+  "doc": {
+    "jurisdiction": "new_south_wales",
+    "source_url": "https://classic.austlii.edu.au/au/legis/nsw/consol_act/fhogasea2000406/",
+    "register_url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2000-021",
+    "source": "First Home Owner Grant and Shared Equity Act 2000 (100000061).txt",
+    "filename": "First Home Owner Grant and Shared Equity Act 2000 (100000061).json",
+    "name": "First Home Owner Grant and Shared Equity Act 2000",
+    "citation": "First Home Owner Grant and Shared Equity Act 2000"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 1",
+      "text": "This Act is the First Home Owner Grant and Shared Equity Act 2000."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 2",
+      "text": "This Act commences on 1 July 2000."
+    },
+    {
+      "key": "section:3.term:administration",
+      "title": "Section 3 Definitions \"administration\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"administration\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"administration\" of this Act or a corresponding law includes the\n     execution and enforcement of this Act or the corresponding law."
+    },
+    {
+      "key": "section:3.term:administration-agreement",
+      "title": "Section 3 Definitions \"administration agreement\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"administration agreement\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"administration agreement\" means an agreement under section 32."
+    },
+    {
+      "key": "section:3.term:australian-citizen",
+      "title": "Section 3 Definitions \"Australian citizen\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Australian citizen\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Australian citizen\" has the same meaning as in the Australian\n     Citizenship Act 2007 of the Commonwealth."
+    },
+    {
+      "key": "section:3.term:authorised-investigation",
+      "title": "Section 3 Definitions \"authorised investigation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"authorised investigation\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"authorised investigation\" --see section 34."
+    },
+    {
+      "key": "section:3.term:authorised-officer",
+      "title": "Section 3 Definitions \"authorised officer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"authorised officer\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"authorised officer\" means a person referred to in section 33 (1) or\n     a person appointed to be an authorised officer under section 33 (2)."
+    },
+    {
+      "key": "section:3.term:building",
+      "title": "Section 3 Definitions \"building\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"building\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"building\" includes part of a building."
+    },
+    {
+      "key": "section:3.term:chief-commissioner",
+      "title": "Section 3 Definitions \"Chief Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Chief Commissioner\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"Chief Commissioner\" means the Chief Commissioner of State Revenue\n     referred to in section 60 of the Taxation Administration Act 1996."
+    },
+    {
+      "key": "section:3.term:commencement-date",
+      "title": "Section 3 Definitions \"commencement date\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"commencement date\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"commencement date\" of an eligible transaction--see section 13 (4)."
+    },
+    {
+      "key": "section:3.term:completed",
+      "title": "Section 3 Definitions \"completed\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"completed\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"completed\" --for completion of an eligible transaction, see section\n     13 (5)."
+    },
+    {
+      "key": "section:3.term:comprehensive-home-building-contract",
+      "title": "Section 3 Definitions \"comprehensive home building contract\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"comprehensive home building contract\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"comprehensive home building contract\" means a contract under which a\n     builder undertakes to build a home on land from the inception of the\n     building work to the point where the home is ready for occupation and\n     if, for any reason, the work to be carried out under such a contract\n     is not completed, includes any further contract under which the work\n     is to be completed."
+    },
+    {
+      "key": "section:3.term:consideration",
+      "title": "Section 3 Definitions \"consideration\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"consideration\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"consideration\" for an eligible transaction--see section 13 (7)."
+    },
+    {
+      "key": "section:3.term:corresponding-law",
+      "title": "Section 3 Definitions \"corresponding law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"corresponding law\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"corresponding law\" means an Act of another State, or a Territory,\n     corresponding to this Act."
+    },
+    {
+      "key": "section:3.term:eligibility-cap",
+      "title": "Section 3 Definitions \"eligibility cap\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"eligibility cap\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"eligibility cap\" --see section 13A."
+    },
+    {
+      "key": "section:3.term:eligibility-criteria",
+      "title": "Section 3 Definitions \"eligibility criteria\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"eligibility criteria\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"eligibility criteria\" means the criteria for determining whether an\n     applicant for a first home owner grant is eligible for the grant (see\n     Division 2 of Part 2)."
+    },
+    {
+      "key": "section:3.term:eligible-transaction",
+      "title": "Section 3 Definitions \"eligible transaction\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"eligible transaction\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"eligible transaction\" --see section 13 (1)."
+    },
+    {
+      "key": "section:3.term:exercise",
+      "title": "Section 3 Definitions \"exercise\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"exercise\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"exercise\" a function includes perform a duty."
+    },
+    {
+      "key": "section:3.term:first-home-owner-grant",
+      "title": "Section 3 Definitions \"first home owner grant\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"first home owner grant\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"first home owner grant\" means a first home owner grant authorised\n     under this Act."
+    },
+    {
+      "key": "section:3.term:first-home-owner-grant-scheme",
+      "title": "Section 3 Definitions \"first home owner grant scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"first home owner grant scheme\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"first home owner grant scheme\" means the scheme for payment of first\n     home owner grants established under this Act."
+    },
+    {
+      "key": "section:3.term:function",
+      "title": "Section 3 Definitions \"function\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"function\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"function\" includes a power, authority or duty."
+    },
+    {
+      "key": "section:3.term:guardian",
+      "title": "Section 3 Definitions \"guardian\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"guardian\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"guardian\" of a person under a legal disability includes a trustee\n     who holds property on trust for the person under an instrument of\n     trust or by order or direction of a court or tribunal."
+    },
+    {
+      "key": "section:3.term:home",
+      "title": "Section 3 Definitions \"home\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"home\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"home\" --see section 4."
+    },
+    {
+      "key": "section:3.term:multiple-occupancy-contract",
+      "title": "Section 3 Definitions \"multiple occupancy contract\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"multiple occupancy contract\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"multiple occupancy contract\" --see section 6A."
+    },
+    {
+      "key": "section:3.term:multiple-occupancy-land",
+      "title": "Section 3 Definitions \"multiple occupancy land\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"multiple occupancy land\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"multiple occupancy land\" --see section 6B."
+    },
+    {
+      "key": "section:3.term:new-home",
+      "title": "Section 3 Definitions \"new home\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"new home\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"new home\" --see section 4A."
+    },
+    {
+      "key": "section:3.term:option",
+      "title": "Section 3 Definitions \"option\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"option\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"option\" to purchase includes a right of preemption or a right of\n     first refusal."
+    },
+    {
+      "key": "section:3.term:owner",
+      "title": "Section 3 Definitions \"owner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"owner\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"owner\" --\n          (a) in relation to a home, has the meaning given by section\n          5 (1), and\n          (b) in relation to land, means a person who has a relevant\n          interest in the land."
+    },
+    {
+      "key": "section:3.term:owner-builder",
+      "title": "Section 3 Definitions \"owner builder\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"owner builder\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"owner builder\" means an owner of land who builds a home, or has a\n     home built, on the land without entering into a comprehensive home\n     building contract."
+    },
+    {
+      "key": "section:3.term:permanent-resident",
+      "title": "Section 3 Definitions \"permanent resident\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"permanent resident\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"permanent resident\" means--\n          (a) the holder of a permanent visa within the meaning of\n          section 30 of the Migration Act 1958 of the Commonwealth,\n          or\n          (b) a New Zealand citizen who holds a special category visa\n          within the meaning of section 32 of the Migration Act 1958\n          of the Commonwealth."
+    },
+    {
+      "key": "section:3.term:property",
+      "title": "Section 3 Definitions \"property\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"property\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"property\" means--\n          (a) a home, or\n          (b) land, or\n          (c) a relevant interest in land."
+    },
+    {
+      "key": "section:3.term:relevant-interest",
+      "title": "Section 3 Definitions \"relevant interest\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"relevant interest\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"relevant interest\" --see section 5 (2), (3) and (4)."
+    },
+    {
+      "key": "section:3.term:residence-requirement",
+      "title": "Section 3 Definitions \"residence requirement\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"residence requirement\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"residence requirement\" --see section 12."
+    },
+    {
+      "key": "section:3.term:residential-property",
+      "title": "Section 3 Definitions \"residential property\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"residential property\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"residential property\" --land in Australia is residential property at\n     a particular time if there is, at that time, a building on the land\n     lawfully occupied as a place of residence or suitable for occupation\n     as a place of residence."
+    },
+    {
+      "key": "section:3.term:spouse",
+      "title": "Section 3 Definitions \"spouse\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"spouse\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"spouse\" --see section 6."
+    },
+    {
+      "key": "section:3.term:taxation-law",
+      "title": "Section 3 Definitions \"taxation law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"taxation law\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"taxation law\" means a law for the assessment or imposition of a tax."
+    },
+    {
+      "key": "section:3.term:terms-contract",
+      "title": "Section 3 Definitions \"terms contract\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"terms contract\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"terms contract\" means a contract for the sale or purchase of land\n     under which the purchaser--\n          (a) is obliged to make 2 or more payments to the vendor\n          after the execution of the contract and before becoming\n          entitled to a conveyance or transfer of the land, and\n          (b) is entitled to possession or occupation of the land\n          before becoming entitled to a conveyance or transfer of the\n          land."
+    },
+    {
+      "key": "section:3.term:total-value",
+      "title": "Section 3 Definitions \"total value\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"total value\"",
+      "structure_path": "Part 1 - PRELIMINARY > Section 3",
+      "text": "\"total value\" of a transaction--see section 13B.\n          Note : The Interpretation Act 1987 contains definitions and\n          other provisions that affect the interpretation and\n          application of this Act.\n     (2) Notes included in this Act do not form part of this Act."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Homes",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Homes",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 4",
+      "text": "A\n\"home\" is a building (affixed to land) that--\n     (a) may lawfully be used as a place of residence, and\n     (b) is, in the Chief Commissioner's opinion, a suitable building for\n     use as a place of residence."
+    },
+    {
+      "key": "section:4A",
+      "title": "Section 4A - New homes",
+      "main_structural_unit": "section",
+      "main_structural_number": "4A",
+      "main_structural_heading": "New homes",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 4A",
+      "text": "(1) A\n     \"new home\" is a home that has not been previously occupied or sold as\n     a place of residence, and includes a substantially renovated home and\n     a home built to replace demolished premises.\n     (2) A\n     \"substantially renovated home\" is a home that--\n          (a) has been created through renovations in which all, or\n          substantially all, of a building is removed or replaced\n          (whether or not the renovations involve the removal or\n          replacement of foundations, external walls, interior\n          supporting walls, floors or staircases), and\n          (b) as renovated, has not been previously occupied or sold\n          as a place of residence.\n     (3) A home is a\n     \"home built to replace demolished premises\" if--\n          (a) the home has been built to replace demolished premises\n          on the same land, and\n          (b) the home, as built to replace the demolished premises,\n          has not been previously occupied or sold as a place of\n          residence, and\n          (c) the owner of the home did not occupy the demolished\n          premises as a place of residence before they were\n          demolished."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Ownership of land and homes",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Ownership of land and homes",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 5",
+      "text": "(1) A person is an\n     \"owner\" of a home or a\n     \"home owner\" if the person has a relevant interest in land on which a\n     home is built.\n     (2) Each of the following is, subject to subsection (3), a\n     \"relevant interest\" in land--\n          (a) an estate in fee simple in the land,\n          (b) a life estate in the land approved by the Chief\n          Commissioner,\n          (c) a perpetual lease of the land granted by the\n          Commonwealth or the State,\n          (d) a leasehold interest in the land granted by the\n          Commonwealth or the State that may be converted under the\n          terms of the lease or by statute into an estate in fee\n          simple,\n          (e) an interest as purchaser under a contract for the\n          purchase from the Commonwealth or the State of an estate in\n          fee simple in the land by instalments,\n          (e1) an interest as purchaser of an estate in fee simple\n          under a terms contract,\n          (f) a licence or right of occupancy granted by the\n          Commonwealth or the State in relation to the land that\n          gives, in the Chief Commissioner's opinion, the licensee or\n          the holder of the right reasonable security of tenure,\n          (g) an interest in a company's shares or in units in a unit\n          trust scheme, if the Chief Commissioner is satisfied that--\n               (i) the interest entitles the holder of the\n               interest to exclusive occupation of a specified\n               home situated on the land and owned by the\n               company or trustees, and\n               (ii) the value of the shares is not less than the\n               value of the company's or trustees' interest in\n               the home.\n     (3) Subject to sections 6C and 6D--\n          (a) an interest is not a relevant interest at a particular\n          time unless the holder of the interest has, or will have\n          within 12 months after that time (or a longer time allowed\n          by the Chief Commissioner), a right to immediate occupation\n          of the land, and\n          (b) an interest is not a relevant interest in the hands of\n          a person who holds it subject to a trust.\n     (6) If a person holds an interest in land on trust as guardian for a\n     person under a legal disability and that interest would be a relevant\n     interest but for subsection (3) (b), then for the purposes of this\n     Act--\n          (a) the person under the legal disability is taken to be\n          the person who holds a relevant interest in the land, and\n          (b) the guardian is taken not to hold that interest.\n     (7) In this section--\n     \"unit\" in a unit trust scheme means--\n          (a) a right or interest (whether described as a unit or a\n          sub-unit or otherwise) of a beneficiary under the scheme,\n          or\n          (b) a right to any such right or interest.\n     \"unit trust scheme\" means any arrangements made for the purpose, or\n     having the effect, of providing facilities for persons participating\n     in the arrangements, as beneficiaries under a trust, for occupying\n     any property pursuant to the trust."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Spouses",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Spouses",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 6",
+      "text": "(1) A person is the\n     \"spouse\" of another person if, on the commencement date of the\n     eligible transaction--\n          (a) they are legally married, or\n          (b) the person is the de facto partner of the other person.\n          Note : \"De facto partner\" is defined in section 21C of the\n          Interpretation Act 1987.\n     (2) A person to whom an applicant for a first home owner grant is\n     legally married is not to be regarded as the applicant's spouse if\n     the Chief Commissioner is satisfied that--\n          (a) the applicant was not cohabiting with the person on the\n          commencement date of the eligible transaction, and\n          (b) at the time of deciding the application, the applicant\n          is not cohabiting with the person and has no intention of\n          resuming cohabitation."
+    },
+    {
+      "key": "section:6A",
+      "title": "Section 6A - Multiple occupancy contract",
+      "main_structural_unit": "section",
+      "main_structural_number": "6A",
+      "main_structural_heading": "Multiple occupancy contract",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 6A",
+      "text": "(1) For the purposes of this Act--\n          (a) a contract for the purchase of a home is a\n          \"multiple occupancy contract\" if 2 or more homes are\n          purchased under the contract and the homes are on the same\n          parcel of land, and\n          (b) a comprehensive home building contract is a\n          \"multiple occupancy contract\" if 2 or more homes are to be\n          built under the contract and the homes are on the same\n          parcel of land.\n     (2) The provisions of this Act apply in respect of a multiple\n     occupancy contract as if a separate contract had been made in respect\n     of each home purchased or built under the contract that is an\n     exclusive occupancy.\n     (3) Accordingly, each of those contracts may, subject to the\n     requirements of section 13, be treated as a separate eligible\n     transaction under this Act and section 7 (4) does not prevent the\n     payment of a grant in respect of each such eligible transaction.\n     (4) A home is an\n     \"exclusive occupancy\" only if the Chief Commissioner is satisfied\n     that the purchaser of the home or the party to the contract for whom\n     the home is built is, on the completion of the contract, entitled to\n     occupy that home as a place of residence to the exclusion of the\n     persons who purchase the other homes, or for whom the other homes are\n     built, under the contract."
+    },
+    {
+      "key": "section:6B",
+      "title": "Section 6B - Multiple occupancy land",
+      "main_structural_unit": "section",
+      "main_structural_number": "6B",
+      "main_structural_heading": "Multiple occupancy land",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 6B",
+      "text": "(1) For the purposes of this Act, a parcel of land is\n     \"multiple occupancy land\" if there are 2 or more homes, built or\n     being built, on the parcel.\n     (2) The provisions of this Act apply in respect of the purchase or\n     building of a home on multiple occupancy land as if the home\n     purchased or built is an exclusive occupancy.\n     (3) A home is an\n     \"exclusive occupancy\" only if the Chief Commissioner is satisfied\n     that the persons who occupy the home as a place of residence are\n     entitled to do so to the exclusion of the persons who occupy the\n     other home or homes on the parcel of land."
+    },
+    {
+      "key": "section:6C",
+      "title": "Section 6C - Building of home on land owned by another",
+      "main_structural_unit": "section",
+      "main_structural_number": "6C",
+      "main_structural_heading": "Building of home on land owned by another",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 6C",
+      "text": "(1) If a person enters into a comprehensive building contract to\n     build, or builds or has built, a free-standing home on land in which\n     the person does not have a relevant interest, the provisions of this\n     Act apply in respect of the building of the free-standing home as if\n     the person did have such a relevant interest.\n     (2) If a person enters into a comprehensive building contract to\n     build, or builds or has built, at the person's own expense, an\n     attached home on land in which the person does not have a relevant\n     interest, the provisions of this Act apply in respect of the building\n     of the attached home as if the person did have such a relevant\n     interest.\n     (3) Accordingly, a person may apply for a first home owner grant in\n     respect of the building of such an attached home or free-standing\n     home.\n     (4) This section applies in respect of the building of a home only if\n     the owner of the estate in fee simple in the land on which the home\n     is built has consented to the occupation of the home by the applicant\n     for the first home owner grant on completion of the home or the\n     applicant has a right, under a lease, licence or other arrangement,\n     to occupy the home on completion.\n     (5) In this section--\n     \"attached home\" means a home which includes a kitchen, a bathroom, a\n     living area and a bedroom or a combined bedroom living area and which\n     is part of, or connected to, a building that contains another home.\n     \"free-standing home\" means a home that is not part of, or connected\n     to, a building that contains another home."
+    },
+    {
+      "key": "section:6D",
+      "title": "Section 6D - Purchase of manufactured home",
+      "main_structural_unit": "section",
+      "main_structural_number": "6D",
+      "main_structural_heading": "Purchase of manufactured home",
+      "defined_term": null,
+      "structure_path": "Part 1 - PRELIMINARY > Section 6D",
+      "text": "(1) If a person purchases a manufactured home and intends to use it\n     as a place of residence on land which the person has a right to\n     occupy under a lease, licence or other arrangement but in which the\n     person does not have a relevant interest--\n          (a) this Act applies as if the person had a relevant\n          interest in the land and were an owner builder building a\n          home on the land, and\n          (b) the commencement date of the transaction is taken to be\n          the date of the contract to purchase the manufactured home,\n          and\n          (c) the transaction is taken to be completed when the\n          manufactured home is ready for occupation as a place of\n          residence on land that the person has a right to occupy.\n     (2) In this section--\n     \"manufactured home\" has the same meaning as it has in the Local\n     Government Act 1993."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Entitlement to grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Entitlement to grant",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 1 - Entitlement to grant > Section 7",
+      "text": "(1) A first home owner grant is payable on an application under this\n     Act if--\n          (a) the applicant or, if there are 2 or more of them, each\n          of the applicants complies with the eligibility criteria,\n          and\n          (b) the transaction for which the grant is sought--\n               (i) is an eligible transaction, and\n               (ii) has been completed, and\n          (c) the total value of the transaction does not exceed the\n          eligibility cap for the type of first home owner grant that\n          is available in respect of that transaction.\n     (2) An applicant need not comply with the eligibility criteria to the\n     extent the applicant is exempted from compliance with the eligibility\n     criteria by this Act.\n     (3) A first home owner grant is payable before completion of the\n     relevant eligible transaction if payment is authorised under section\n     20.\n     (4) Only one first home owner grant is payable for the same eligible\n     transaction."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Criterion 1--Applicant to be a natural person",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Criterion 1--Applicant to be a natural person",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 2 - Eligibility criteria (applicants) > Section 8",
+      "text": "An applicant for a first home owner grant must be a natural person."
+    },
+    {
+      "key": "section:8A",
+      "title": "Section 8A - Criterion 1A--Applicant to be at least 18 years of age",
+      "main_structural_unit": "section",
+      "main_structural_number": "8A",
+      "main_structural_heading": "Criterion 1A--Applicant to be at least 18 years of age",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 2 - Eligibility criteria (applicants) > Section 8A",
+      "text": "(1) An applicant for a first home owner grant must be at least 18\n     years of age.\n     (2) The Chief Commissioner may exempt an applicant from the\n     requirement to be at least 18 years of age if the Chief Commissioner\n     is satisfied that--\n          (a) the home to which the application relates will be\n          occupied by the applicant as his or her principal place of\n          residence within 12 months after completion of the eligible\n          transaction or a longer period approved by the Chief\n          Commissioner, and\n          (b) the application does not form part of a scheme to\n          circumvent limitations on, or requirements affecting,\n          eligibility for or entitlement to a first home owner grant."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Criterion 2--Applicant to be Australian citizen or permanent resident",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Criterion 2--Applicant to be Australian citizen or permanent resident",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 2 - Eligibility criteria (applicants) > Section 9",
+      "text": "(1) Subject to subsection (2), an applicant for a first home owner\n     grant must be an Australian citizen or a permanent resident on the\n     commencement date of the eligible transaction.\n     (2) If an application is made by joint applicants and at least one\n     (but not all) of the applicants complies with the requirement to be\n     an Australian citizen or a permanent resident, the non-complying\n     applicant or applicants are exempted from compliance with the\n     requirement."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Criterion 3--Applicant (or applicant's spouse) must not have received an earlier grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Criterion 3--Applicant (or applicant's spouse) must not have received an earlier grant",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 2 - Eligibility criteria (applicants) > Section 10",
+      "text": "Section 10 Criterion 3--Applicant (or applicant's spouse) must not have received an\nearlier grant\n     (1) Subject to subsection (2), an applicant for a first home owner\n     grant is ineligible for the grant if--\n          (a) the applicant or the applicant's spouse has been a\n          party to an earlier application under this Act or a\n          corresponding law, and\n          (b) a grant was paid on the application.\n     (2) An applicant is not ineligible if the grant was paid but later\n     paid back, together with any penalty payable under section 45."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Criterion 4--Applicant (or applicant's spouse) must not have had relevant interest in residential property",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Criterion 4--Applicant (or applicant's spouse) must not have had relevant interest in residential property",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 2 - Eligibility criteria (applicants) > Section 11",
+      "text": "Section 11 Criterion 4--Applicant (or applicant's spouse) must not have had relevant\ninterest in residential property\n     (1) An applicant for a first home owner grant is ineligible for the\n     grant if the applicant or the applicant's spouse has, before 1 July\n     2000, held--\n          (a) a relevant interest in residential property in New\n          South Wales, or\n          (b) an interest in residential property in another State or\n          a Territory that is a relevant interest under the\n          corresponding law of that State or Territory.\n     (2) In working out for the purposes of subsection (1) whether an\n     applicant held a relevant interest (within the meaning of this Act or\n     a corresponding law) in residential property at a particular time,\n     any deferment of the applicant's right of occupation (because the\n     property was subject to a lease) is to be disregarded.\n     (3) An applicant is also ineligible if the applicant or the\n     applicant's spouse has, at any time before the commencement date of\n     the eligible transaction to which the application relates--\n          (a) held a relevant interest in residential property in New\n          South Wales or an interest in residential property in\n          another State or a Territory that is a relevant interest\n          under the corresponding law of that State or Territory, and\n          (b) occupied the property as a place of residence for a\n          continuous period of at least 6 months."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Criterion 5--Residence requirement",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Criterion 5--Residence requirement",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 2 - Eligibility criteria (applicants) > Section 12",
+      "text": "(1) An applicant for a first home owner grant must--\n          (a) commence occupation of the home to which the\n          application relates as the applicant's principal place of\n          residence within 12 months after completion of the eligible\n          transaction or the period approved by the Chief\n          Commissioner under this section, and\n          (b) occupy the home as a principal place of residence for a\n          continuous period of at least 12 months or the period\n          approved by the Chief Commissioner under this section.\n     (2) This requirement is referred to in this Act as the\n     \"residence requirement\".\n     (3) The Chief Commissioner may, if satisfied there are good reasons\n     to do so, do either or both of the following--\n          (a) approve the commencement of occupation by the applicant\n          of the home to which the application relates as a principal\n          place of residence more than 12 months after completion of\n          the eligible transaction,\n          (b) approve the occupation of the home as a principal place\n          of residence for a period of less than 12 months.\n     (4) The Chief Commissioner may, if satisfied there are good reasons\n     to do so, exempt an applicant from the residence requirement.\n     (5) An approval or exemption under this section may be given by the\n     Chief Commissioner at any time, even if the period of 12 months after\n     completion of the eligible transaction has already expired or the\n     applicant's occupation of the home as a principal place of residence\n     has already ceased.\n     (6) If an application is made by joint applicants and at least one\n     (but not all) of the applicants complies with the residence\n     requirement, the non-complying applicant or applicants are exempted\n     from compliance with the residence requirement."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Eligible transactions",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Eligible transactions",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 3 - Eligible transactions > Section 13",
+      "text": "(1) An\n     \"eligible transaction\" is--\n          (a) a contract made on or after 1 October 2012 for the\n          purchase of a new home in New South Wales, or\n          (b) a comprehensive home building contract made on or after\n          1 October 2012 by the owner of land in New South Wales, or\n          by a person who will on completion of the contract be the\n          owner of land in New South Wales, to have a new home built\n          on the land, or\n          (c) the building of a new home in New South Wales by an\n          owner builder if the building work commences on or after 1\n          October 2012.\n     (2) A contract is a contract for the purchase of a home if the\n     contract is a contract for the acquisition of a relevant interest in\n     land on which a home is or is to be built under the contract by or on\n     behalf of the vendor.\n     (3) However, a contract made on or after 1 July 2000 is not an\n     eligible transaction if--\n          (a) in the case of a contract for the purchase of a home--\n          the purchaser had an option to purchase the home granted\n          before that date or the vendor had an option to require the\n          purchaser to purchase the home granted before that date, or\n          (b) in the case of a comprehensive home building contract--\n          either party had a right or option granted before that date\n          to require the other party to enter into the contract.\n     (3A) A contract made on or after 1 October 2012 is not an eligible\n     transaction if the Chief Commissioner is satisfied that--\n          (a) the contract replaces a contract made before 1 October\n          2012, and\n          (b) the replaced contract was a contract for the purchase\n          of the same home or a comprehensive home building contract\n          to build the same or a substantially similar home.\n          Note : See also Part 11 of Schedule 1.\n     (4) The\n     \"commencement date\" of an eligible transaction is--\n          (a) in the case of a contract--the date when the contract\n          is made, or\n          (b) in the case of the building of a home by an owner\n          builder--\n               (i) the date when laying the foundations for the\n               home commences, or\n               (ii) another date the Chief Commissioner\n               considers appropriate in the circumstances of the\n               case.\n     (5) An eligible transaction is\n     \"completed\" when--\n          (a) in the case of a contract for the purchase of a home--\n               (i) the purchaser becomes entitled to possession\n               of the home under the contract, and\n               (ii) except in the case of a terms contract, if\n               the purchaser acquires an interest in land under\n               the contract that is registrable under a law of\n               the State--the purchaser's interest is registered\n               under that law, or\n          (b) in the case of a comprehensive home building contract--\n          the building is ready for occupation as a place of\n          residence, or\n          (c) in the case of the building of a home by an owner\n          builder--the building is ready for occupation as a place of\n          residence.\n     (6) If a person purchases a moveable building and intends to use it\n     as a place of residence on land in which the person has a relevant\n     interest but on which it is not situated at the time of purchase--\n          (a) this Act applies as if the person were an owner builder\n          building a home on the land, and\n          (b) the commencement date of the transaction is taken to be\n          the date of the contract to purchase the moveable building,\n          and\n          (c) the transaction is taken to be completed when the\n          moveable building is ready for occupation as a place of\n          residence on land in which the purchaser has a relevant\n          interest.\n     (7) The\n     \"consideration\" for an eligible transaction is--\n          (a) in the case of a contract for the purchase of a home--\n          the consideration for the purchase, or\n          (b) in the case of a comprehensive home building contract--\n          the total consideration payable for the building work, or\n          (c) in the case of the building of a home by an owner\n          builder--the actual costs to the owner of carrying out the\n          work (excluding any allowance for the owner builder's own\n          labour)."
+    },
+    {
+      "key": "section:13AA",
+      "title": "Section 13AA - Types of first home owner grant that are available",
+      "main_structural_unit": "section",
+      "main_structural_number": "13AA",
+      "main_structural_heading": "Types of first home owner grant that are available",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 3 - Eligible transactions > Section 13AA",
+      "text": "(1) The following types of first home owner grant are available under\n     this Act in respect of an eligible transaction--\n          (a) a first home builder's grant,\n          (b) a first home purchaser's grant.\n     (2) A first home builder's grant is available under this Act only for\n     the following categories of eligible transaction--\n          (a) a comprehensive home building contract,\n          (b) the building of a home by an owner builder.\n     (3) A first home purchaser's grant is available under this Act for\n     any other eligible transaction.\n     (4) Only one type of first home owner grant is available for the same\n     eligible transaction."
+    },
+    {
+      "key": "section:13A",
+      "title": "Section 13A - Eligibility cap",
+      "main_structural_unit": "section",
+      "main_structural_number": "13A",
+      "main_structural_heading": "Eligibility cap",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 3 - Eligible transactions > Section 13A",
+      "text": "(1) The total value of the eligible transaction must not exceed the\n     eligibility cap for the type of first home owner grant that is\n     available under this Act for that eligible transaction.\n     (2) The\n     \"eligibility caps\" are as follows--\n          (a) $750,000 for a first home builder's grant,\n          (b) $600,000 for a first home purchaser's grant.\n     (3) The question of whether the total value of a transaction exceeds\n     the amount of the eligibility cap is determined by reference to the\n     total value of the transaction as at--\n          (a) for a contract for the purchase of a home--the\n          commencement date, or\n          (b) for a comprehensive home building contract--the date\n          the transaction is completed, or\n          (c) for the building of a home by an owner builder--the\n          date the transaction is completed.\n          Note : Section 20 authorises the grant to be paid before\n          completion of an eligible transaction if the Chief\n          Commissioner considers it appropriate.\n     (4) The regulations may prescribe a different amount as the\n     eligibility cap for any type of first home owner grant and may make\n     provision for the eligible transactions to which the eligibility cap\n     applies.\n     (5) This section applies to the payment of a first home owner grant\n     in respect of an eligible transaction that has a commencement date on\n     or after 1 July 2017.\n          Note : For eligible transactions with a commencement date\n          before 1 July 2017, the transitional provisions in Schedule\n          1 apply. They preserve the previous first home owner grant\n          cap as it applied to those transactions."
+    },
+    {
+      "key": "section:13B",
+      "title": "Section 13B - Calculation of total value of transaction for purposes of eligibility cap",
+      "main_structural_unit": "section",
+      "main_structural_number": "13B",
+      "main_structural_heading": "Calculation of total value of transaction for purposes of eligibility cap",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 3 - Eligible transactions > Section 13B",
+      "text": "(1) For the purposes of this Act, the\n     \"total value\" of a transaction is--\n          (a) in the case of a contract for the purchase of a home--\n          the greater of the following--\n               (i) the consideration for the eligible\n               transaction,\n               (ii) the unencumbered value, at the commencement\n               date, of the property the subject of the\n               transaction, or\n          (b) in the case of a comprehensive home building contract--\n          the amount calculated by adding together--\n               (i) the consideration for the eligible\n               transaction, and\n               (ii) the value, at the commencement date, of the\n               relevant interest in the land on which the home\n               is to be built, or\n          (c) in the case of the building of a home by an owner\n          builder--the amount calculated by adding together--\n               (i) the unencumbered value, at the date the\n               transaction is completed, of the home, and\n               (ii) the value, at the date the transaction is\n               completed, of the relevant interest in the land\n               on which the home is built.\n     (2) The\n     \"value of the relevant interest in land\" on which a home is to be\n     built is the greater of the following--\n          (a) the consideration paid or payable for the interest,\n          (b) the unencumbered value of the interest.\n     (3) The\n     \"unencumbered value\" of the property is the value of the property\n     determined without regard to--\n          (a) any encumbrance to which the property is subject,\n          whether contingently or otherwise, or\n          (b) any arrangement that results in the reduction of the\n          value of the property, if the parties to the arrangement\n          are not dealing with each other at arm's length, or\n          (c) any scheme or arrangement that, in the opinion of the\n          Chief Commissioner, was entered into, made or carried out\n          by a party to the scheme or arrangement for the sole or\n          dominant purpose of reducing the value of the property, or\n          (d) if the property is held by a person on trust as\n          guardian for another person who is under a legal\n          disability--any liabilities of the trust, including the\n          liability to indemnify the trustee.\n     (4) For the purposes of subsection (3) (c), the Chief Commissioner\n     may have regard to--\n          (a) the duration of the scheme or arrangement before the\n          commencement date of the transaction to which the property\n          relates, and\n          (b) whether there is any commercial efficacy to the making\n          of the scheme or arrangement other than to reduce the value\n          of the property, and\n          (c) any other matters the Chief Commissioner considers\n          relevant."
+    },
+    {
+      "key": "section:13C",
+      "title": "Section 13C - Owners of land under Help to Buy arrangement",
+      "main_structural_unit": "section",
+      "main_structural_number": "13C",
+      "main_structural_heading": "Owners of land under Help to Buy arrangement",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 3 - Eligible transactions > Section 13C",
+      "text": "(1) For the purposes of assessing eligibility for a first home owner\n     grant for land purchased, or to be purchased, under a Help to Buy\n     arrangement, no account is to be taken of an interest the\n     Commonwealth or Housing Australia has, or will have, in the land.\n     (2) In this section--\n     \"Help to Buy arrangement\" has the same meaning as in the Help to Buy\n     Act 2024 of the Commonwealth.\n     \"Housing Australia\" has the same meaning as in the Housing Australia\n     Act 2018 of the Commonwealth."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Application for grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Application for grant",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 4 - Application for grant > Section 14",
+      "text": "(1) An application for a first home owner grant is to be made to the\n     Chief Commissioner or a financial institution or other person with\n     whom the Chief Commissioner has made an administration agreement.\n     (2) An application--\n          (a) must be in a form approved by the Chief Commissioner,\n          and\n          (b) must contain the information required by the Chief\n          Commissioner.\n     (3) An applicant must provide the Chief Commissioner with any further\n     information the Chief Commissioner requires to decide the\n     application.\n     (4) Information provided by an applicant in or in relation to an\n     application must, if the Chief Commissioner so requires, be verified\n     by statutory declaration or supported by other evidence required by\n     the Chief Commissioner.\n     (5) An application may only be made within a period (the\n     \"application period\")--\n          (a) commencing on the commencement date of the eligible\n          transaction to which the application relates, and\n          (b) ending 12 months after the completion of the eligible\n          transaction to which the application relates.\n     (6) However, the Chief Commissioner has a discretion to allow an\n     application before or after the application period.\n     (7) An applicant may, with the Chief Commissioner's consent, amend an\n     application."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - All interested persons to join in application",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "All interested persons to join in application",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 4 - Application for grant > Section 15",
+      "text": "(1) All interested persons must be applicants.\n     (2) An\n     \"interested person\" is a person who is, or will be, on the completion\n     of the eligible transaction to which the application relates, an\n     owner of the relevant home but does not include the following\n     persons--\n          (a) in a case to which section 6C or 6D applies--a person\n          who is the owner of the estate in fee simple in the land on\n          which the home is built or situated,\n          (b) in the case of a home being purchased or built under a\n          multiple occupancy contract, a purchaser of another home\n          under the contract or party to the contract for whom\n          another home is being built under the contract, and who\n          does not, on the completion of the contract, acquire any\n          entitlement to occupy the home that is the subject of the\n          application,\n          (c) in the case of a contract to purchase or build a home\n          on multiple occupancy land, a person who has an exclusive\n          occupancy of another home on the multiple occupancy land\n          and who does not, on completion of the contract, acquire\n          any entitlement to occupy the home that is the subject of\n          the application,\n          (d) the New South Wales Land and Housing Corporation,\n          (e) a person whose ownership share in the relevant home\n          does not exceed 5% (a\n          \"small interest holder\"), but only if, in a case where\n          there is more than one small interest holder, the total\n          ownership share of all small interest holders in the\n          relevant home does not exceed 5%,\n          (f) in the case of a home being purchased under a contract\n          entered into under an approved shared equity scheme within\n          the meaning of the Duties Act 1997 --a person who is an\n          approved equity partner (within the meaning of that Act)\n          under the contract."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Application on behalf of person under legal disability",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Application on behalf of person under legal disability",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 4 - Application for grant > Section 16",
+      "text": "(1) An application may be made on behalf of a person under a legal\n     disability by a guardian.\n     (2) For the purpose of determining eligibility, the person under the\n     legal disability is to be regarded as the applicant."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Chief Commissioner to decide applications",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Chief Commissioner to decide applications",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 17",
+      "text": "(1) If the Chief Commissioner is satisfied that a first home owner\n     grant is payable on an application, the Chief Commissioner must\n     authorise the payment of the grant.\n     (2) Payment of a first home owner grant may be authorised under\n     section 20 before completion of the relevant eligible transaction or\n     in anticipation of compliance with the residence requirement."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Amount of grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Amount of grant",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 18",
+      "text": "(1) The amount of the first home owner grant is--\n          (a) in the case of an eligible transaction with a\n          commencement date on or after 1 October 2012 but before 1\n          January 2016--$15,000, or\n          (b) in the case of an eligible transaction with a\n          commencement date on or after 1 January 2016--$10,000.\n     (2) For an eligible transaction with a commencement date on or after\n     1 October 2012 that is a contract for the purchase of a home, or a\n     comprehensive home building contract, made pursuant to an option\n     granted in the transitional period, the amount of the grant is\n     $7,000.\n     (3) A contract is made pursuant to an option granted in the\n     transitional period if--\n          (a) in the case of a contract for the purchase of a home--\n          the purchaser had an option to purchase the home granted\n          during the transitional period or the vendor had an option\n          to require the purchaser to purchase the home granted\n          during the transitional period, or\n          (b) in the case of a comprehensive home building contract--\n          either party had a right or option granted during the\n          transitional period to require the other party to enter\n          into the contract.\n     (4) The maximum amount of the first home owner grant is the\n     consideration for the eligible transaction. Accordingly, if the\n     amount that would be payable, but for this subsection, exceeds the\n     consideration for the eligible transaction, the amount of the first\n     home owner grant is the consideration for the eligible transaction.\n     (5) In this section--\n     \"the transitional period\" means the period starting on the date the\n     Bill for the State Revenue and Other Legislation Amendment (Budget\n     Measures) Act 2012 was introduced in the Legislative Assembly and\n     ending immediately before 1 October 2012."
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Payment of grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Payment of grant",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 19",
+      "text": "(1) A first home owner grant is to be paid by electronic funds\n     transfer, by cheque or in any other way the Chief Commissioner thinks\n     appropriate.\n     (2) A first home owner grant is to be paid--\n          (a) to the applicant, or\n          (b) to some other person to whom the applicant directs in\n          writing that the grant be paid.\n     (3) If the applicant requests, the Chief Commissioner may apply the\n     amount of a first home owner grant, or part of the amount, towards a\n     liability for State taxes."
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Payment in advance, subject to statutory conditions",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Payment in advance, subject to statutory conditions",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 20",
+      "text": "(1) The Chief Commissioner may authorise payment of a first home\n     owner grant--\n          (a) before completion of the relevant eligible transaction,\n          if the Chief Commissioner is satisfied that it is\n          appropriate to do so in particular circumstances, or\n          (b) in anticipation of compliance with the residence\n          requirement, if the Chief Commissioner is satisfied that\n          each applicant who is required to comply, but has not yet\n          complied, with the residence requirement, intends to occupy\n          the home as his or her principal place of residence for a\n          continuous period of at least 12 months commencing within\n          12 months after completion of the eligible transaction or a\n          longer period allowed by the Chief Commissioner,\n     or both.\n     (2) If a first home owner grant is paid before completion of the\n     relevant eligible transaction, the payment is made on condition that,\n     if the transaction is not completed within 12 months of the\n     commencement of the transaction or a longer period allowed by the\n     Chief Commissioner, the applicant must within 14 days after the end\n     of the period concerned--\n          (a) give written notice of that fact to the Chief\n          Commissioner, and\n          (b) repay the amount of the grant.\n     (2A) If the first home owner grant is paid in anticipation of\n     compliance with the eligibility cap, the payment is made on condition\n     that, if the applicant becomes aware that the total value of the\n     transaction exceeds or will exceed the eligibility cap, the applicant\n     must within 14 days after the day on which the applicant becomes so\n     aware--\n          (a) give written notice of that fact to the Chief\n          Commissioner, and\n          (b) repay the amount of the grant.\n     (3) If a first home owner grant is paid in anticipation of compliance\n     with the residence requirement, the payment is made on condition\n     that, if the residence requirement is not complied with, the\n     applicant must within 14 days after the end of the period allowed for\n     compliance--\n          (a) give written notice of that fact to the Chief\n          Commissioner, and\n          (b) repay the amount of the grant.\n     (4) A person who fails to comply with the condition prescribed by\n     this section is guilty of an offence.\n          Maximum penalty (subsection (4)): 50 penalty units."
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Imposition of conditions by Chief Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Imposition of conditions by Chief Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 21",
+      "text": "(1) The Chief Commissioner may authorise the payment of a first home\n     owner grant on conditions the Chief Commissioner considers\n     appropriate.\n     (2) A condition imposed by the Chief Commissioner (under this section\n     or any other provision of this Act) may require a person on whose\n     application the first home owner grant is paid--\n          (a) to give notice of non-compliance with the condition\n          within a period stated in the condition, and\n          (b) to repay the grant or a part of the grant within a\n          period stated in the condition.\n     (3) In the case of a joint application, each applicant is\n     individually liable to comply with a requirement under subsection (2)\n     but compliance by any one or more of them is to be regarded as\n     compliance by both or all.\n     (4) A person who fails to comply with a condition imposed by the\n     Chief Commissioner (under this section or any other provision of this\n     Act) is guilty of an offence.\n          Maximum penalty (subsection (4)): 50 penalty units."
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Death of applicant",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Death of applicant",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 22",
+      "text": "(1) An application for a first home owner grant does not lapse\n     because an applicant dies before the application is decided.\n     (2) If an applicant dies before the application is decided, the\n     following provisions apply--\n          (a) if the deceased was one of 2 or more applicants and one\n          or more applicants survive, the application is to be dealt\n          with as if the surviving applicants were the sole\n          applicants,\n          (b) in any other case, a first home owner grant, if payable\n          on the application, is to be paid to the estate of the\n          deceased.\n     (3) If a deceased applicant for a first home owner grant had not, by\n     the date of death, occupied the home to which the application relates\n     as the applicant's principal place of residence but the Chief\n     Commissioner is satisfied that he or she intended to do so within 12\n     months after completion of the eligible transaction or a longer\n     period allowed by the Chief Commissioner, the residence requirement\n     is satisfied."
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Power to correct decision",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Power to correct decision",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 23",
+      "text": "(1) If the Chief Commissioner decides an application, and is later\n     satisfied (independently of an objection under this Act) that the\n     decision is incorrect, the Chief Commissioner may vary or reverse the\n     decision.\n     (2) A decision cannot be varied or reversed under this section more\n     than 5 years after it was made.\n     (3) The 5-year time limit on varying or reversing a decision does not\n     apply to a decision that was made on the basis of false or misleading\n     information provided by an applicant for a first home owner grant, or\n     by a person on behalf of the applicant."
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Notification of decision",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Notification of decision",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 24",
+      "text": "(1) When the Chief Commissioner decides to refuse an application or\n     to vary or reverse an earlier decision on an application, the Chief\n     Commissioner must give the applicant notice of the decision and must\n     state in the notice the reasons for the decision.\n     (2) If the decision is to authorise the payment of a first home owner\n     grant with or without conditions, the payment of the grant is\n     sufficient notice of the decision."
+    },
+    {
+      "key": "section:24A.term:financial-year",
+      "title": "Section 24A Definitions \"financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "24A",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"financial year\"",
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 1 - Preliminary > Section 24A",
+      "text": "\"financial year\" means a year ending on 30 June."
+    },
+    {
+      "key": "section:24A.term:fund",
+      "title": "Section 24A Definitions \"Fund\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "24A",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"Fund\"",
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 1 - Preliminary > Section 24A",
+      "text": "\"Fund\" means the NSW Shared Equity Scheme Fund established under Division 4."
+    },
+    {
+      "key": "section:24A.term:shared-equity-scheme",
+      "title": "Section 24A Definitions \"shared equity scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "24A",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"shared equity scheme\"",
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 1 - Preliminary > Section 24A",
+      "text": "\"shared equity scheme\" --see section 24B."
+    },
+    {
+      "key": "section:24B",
+      "title": "Section 24B - Meaning of \"shared equity scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "24B",
+      "main_structural_heading": "Meaning of \"shared equity scheme\"",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 1 - Preliminary > Section 24B",
+      "text": "In this Part--\n\"shared equity scheme\" means a scheme established under this Part that enables\na person who is purchasing property to enter into an agreement with the State\nunder which--\n     (a) the State contributes a portion of the--\n          (i) purchase price, and\n          (ii) associated construction costs, if relevant, and\n     (b) the State obtains an interest in the property."
+    },
+    {
+      "key": "section:24C",
+      "title": "Section 24C - Establishment of shared equity scheme",
+      "main_structural_unit": "section",
+      "main_structural_number": "24C",
+      "main_structural_heading": "Establishment of shared equity scheme",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 2 - Establishment of scheme > Section 24C",
+      "text": "(1) The Treasurer may, by order published in the Gazette, establish a\n     shared equity scheme and specify matters in relation to the scope or\n     administration of the scheme.\n     (2) More than 1 scheme may be established."
+    },
+    {
+      "key": "section:24D",
+      "title": "Section 24D - Policy guidelines",
+      "main_structural_unit": "section",
+      "main_structural_number": "24D",
+      "main_structural_heading": "Policy guidelines",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 2 - Establishment of scheme > Section 24D",
+      "text": "(1) The Treasurer may publish policy guidelines for the purposes of\n     the administration of a shared equity scheme.\n     (2) The published policy guidelines must be tabled in each House of\n     Parliament as soon as practicable after publication.\n     (3) The Chief Commissioner must administer a shared equity scheme in\n     accordance with published policy guidelines for the scheme."
+    },
+    {
+      "key": "section:24E",
+      "title": "Section 24E - Functions of Chief Commissioner",
+      "main_structural_unit": "section",
+      "main_structural_number": "24E",
+      "main_structural_heading": "Functions of Chief Commissioner",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 3 - Functions of Chief Commissioner > Section 24E",
+      "text": "The Chief Commissioner has the functions necessary to administer and give\neffect to a shared equity scheme, including the following functions--\n     (a) to establish application processes relating to participation in\n     the scheme,\n     (b) to receive and assess applications,\n     (c) to enter contracts or other arrangements for the purposes of\n     administering the scheme,\n     (d) to monitor compliance with requirements of the scheme,\n     (e) other functions prescribed by the regulations."
+    },
+    {
+      "key": "section:24F",
+      "title": "Section 24F - Use of information obtained under other Acts",
+      "main_structural_unit": "section",
+      "main_structural_number": "24F",
+      "main_structural_heading": "Use of information obtained under other Acts",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 3 - Functions of Chief Commissioner > Section 24F",
+      "text": "The Chief Commissioner may, for the purposes of exercising functions under this\nPart, use and disclose information obtained by the Chief Commissioner under\nthis Act or another Act."
+    },
+    {
+      "key": "section:24G",
+      "title": "Section 24G - NSW Shared Equity Scheme Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "24G",
+      "main_structural_heading": "NSW Shared Equity Scheme Fund",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 4 - The Fund > Section 24G",
+      "text": "(1) A NSW Shared Equity Scheme Fund (the\n     \"Fund\") must be established in the Special Deposits Account.\n     (2) The purpose of the Fund is to provide greater opportunities for\n     home ownership by--\n          (a) facilitating the State to enter into shared equity\n          arrangements with eligible persons under shared equity\n          schemes, and\n          (b) managing money for the purposes of shared equity\n          schemes.\n     (3) The Chief Commissioner must manage the Fund."
+    },
+    {
+      "key": "section:24H",
+      "title": "Section 24H - Payments into and out of Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "24H",
+      "main_structural_heading": "Payments into and out of Fund",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 4 - The Fund > Section 24H",
+      "text": "(1) The following must be paid into the Fund--\n          (a) all money appropriated by Parliament, or advanced by\n          the Treasurer, for the purposes of payment into the Fund,\n          (a1) all money appropriated by Parliament to the Treasurer\n          for the general purposes of the Government and directed by\n          the Treasurer to be paid into the Fund,\n          (b) the proceeds of the investment of money in the Fund,\n          (c) fees and charges payable under this Part,\n          (d) all other money directed or authorised to be paid into\n          the Fund by or under an Act or law,\n          (e) amounts received from the repayments of money provided\n          under a shared equity scheme,\n          (f) all money received from the sale of assets acquired\n          under a shared equity scheme,\n          (g) amounts recovered under this Act as debts related to a\n          shared equity scheme.\n     (2) The following may be paid out of the Fund--\n          (a) amounts for the acquisition of interests in property\n          under a shared equity scheme,\n          (b) money required to meet administrative expenses related\n          to the Fund,\n          (c) amounts for the purpose of making investments,\n          (d) amounts the Treasurer directs to be paid into the\n          Consolidated Fund.\n     (3) The investments must, despite the Government Sector Finance Act\n     2018, only be invested in a way approved by the Treasurer."
+    },
+    {
+      "key": "section:24I",
+      "title": "Section 24I - Annual reports for Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "24I",
+      "main_structural_heading": "Annual reports for Fund",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 4 - The Fund > Section 24I",
+      "text": "(1) The Minister must produce an annual report on the activities of\n     the Fund during each financial year, including--\n          (a) payments in and out of the Fund, and\n          (b) details of investments.\n     (2) The annual report must also set out the aggregate value, at the\n     end of the financial year, of interests in property under each shared\n     equity scheme.\n     (3) The Treasurer may specify the following--\n          (a) the form of the report,\n          (b) matters relating to valuation requirements, including\n          how an aggregate value is to be calculated for the purposes\n          of subsection (2),\n          (c) other information to be included in the report.\n     (4) The report must include an audit of the Fund by the Auditor-\n     General, which includes an assessment of whether payments from the\n     Fund have been made in accordance with this Act.\n     (5) The report is to be made publicly available within 6 months after\n     the end of the financial year to which it relates.\n     (6) The annual report must be tabled in each House of Parliament\n     within 6 months after the end of the financial year to which it\n     relates."
+    },
+    {
+      "key": "section:24J",
+      "title": "Section 24J - Closure of Fund",
+      "main_structural_unit": "section",
+      "main_structural_number": "24J",
+      "main_structural_heading": "Closure of Fund",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 4 - The Fund > Section 24J",
+      "text": "(1) The Governor may close the Fund by proclamation published on the\n     NSW legislation website.\n     (2) The Governor may make the proclamation only if satisfied that the\n     Minister and the Treasurer support the closure of the Fund.\n     (3) A proclamation under this section must not close the Fund within\n     2 years after the commencement of this Part.\n     (4) A proclamation under this section may include savings and\n     transitional provisions in relation to the closure of the Fund,\n     including specifying what is to be done with--\n          (a) any amount left in the Fund, and\n          (b) future amounts that would have been payable to the\n          Fund."
+    },
+    {
+      "key": "section:24K",
+      "title": "Section 24K - Application of Taxation Administration Act 1996",
+      "main_structural_unit": "section",
+      "main_structural_number": "24K",
+      "main_structural_heading": "Application of Taxation Administration Act 1996",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 5 - Miscellaneous > Section 24K",
+      "text": "(1) The Taxation Administration Act 1996, Part 8 applies in relation\n     to a participant in a shared equity scheme, with the following\n     modifications--\n          (a) a reference to a taxpayer is to be read as a reference\n          to a participant,\n          (b) a reference to a tax liability is to be read as a\n          reference to compliance with the terms and conditions of\n          the shared equity scheme,\n          (c) a reference to a taxation law, including in relation to\n          the functions of an authorised officer or tax officer, is\n          to be read as the terms and conditions of the shared equity\n          scheme.\n     (2) In this section--\n     \"participant\" includes a former participant."
+    },
+    {
+      "key": "section:24L",
+      "title": "Section 24L - Eligibility for first home buyer schemes not affected",
+      "main_structural_unit": "section",
+      "main_structural_number": "24L",
+      "main_structural_heading": "Eligibility for first home buyer schemes not affected",
+      "defined_term": null,
+      "structure_path": "Part 2A - SHARED EQUITY SCHEMES > Division 5 - Miscellaneous > Section 24L",
+      "text": "Nothing in this Part affects the eligibility of a person for a grant,\n     financial assistance or a reduction in duty payable under this or\n     another Act.\n     Note--: This includes a first home buyer grant, the First Home Buyers\n     Assistance Scheme under the Duties Act 1997 and the Property Tax\n     (First Home Buyer Choice) Act 2022."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Grounds of objection--first home owner grant",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Grounds of objection--first home owner grant",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 25",
+      "text": "(1) A person who is an applicant or former applicant for a first home\n     owner grant who is dissatisfied with any of the following decisions\n     of the Chief Commissioner may make an objection under this Part--\n          (a) a decision on the person's application, including a\n          decision to vary or reverse an earlier decision made\n          independently of an objection under this Act,\n          (b) a decision to require the person to repay an amount\n          under section 45,\n          (c) a decision to require the person to pay a penalty under Section 45.\n     (2) A person who is dissatisfied with a decision of the Chief\n     Commissioner to require the person, instead of a grant recipient, to\n     pay a recoverable amount under section 46A may make an objection\n     under this Part."
+    },
+    {
+      "key": "section:25A",
+      "title": "Section 25A - Grounds of objection--shared equity schemes",
+      "main_structural_unit": "section",
+      "main_structural_number": "25A",
+      "main_structural_heading": "Grounds of objection--shared equity schemes",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 25A",
+      "text": "A person who is an applicant or former applicant for participation in a shared\nequity scheme who is dissatisfied with any of the following decisions of the\nChief Commissioner may make an objection under this Part--\n     (a) a decision on the person's application, including a decision to\n     vary or reverse an earlier decision made independently of an\n     objection under this Act,\n     (b) a decision to require the person to repay an amount under a\n     shared equity arrangement under a shared equity scheme,\n     (c) a decision to require the person to repay an amount under section\n     45,\n     (d) a decision to require the person to pay a penalty under section\n     45."
+    },
+    {
+      "key": "section:25B",
+      "title": "Section 25B - Making objections",
+      "main_structural_unit": "section",
+      "main_structural_number": "25B",
+      "main_structural_heading": "Making objections",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 25B",
+      "text": "(1) An objection must be made by giving written notice (an\n     \"objection notice\") to the Chief Commissioner.\n     (2) The grounds of objection must be stated fully and in detail in\n     the objection notice.\n     (3) The objection notice must be given to the Chief Commissioner\n     within--\n          (a) 60 days after the date of the notice of the decision to\n          which the objection relates, or\n          (b) if the Chief Commissioner is satisfied that a person\n          has a reasonable excuse for not giving the objection notice\n          within the 60-day period--the longer period approved by the\n          Chief Commissioner."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Powers of Chief Commissioner on objection",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Powers of Chief Commissioner on objection",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 26",
+      "text": "(1) After considering an objection, the Chief Commissioner may--\n          (a) allow the objection in whole or in part or may disallow\n          the objection, and\n          (b) accordingly reverse, vary or confirm the decision (the\n          \"original decision\") to which the objection was made.\n     (2) The Chief Commissioner must give the objector written notice of\n     the determination of the objection.\n     (3) The Chief Commissioner must, in the notice, give the reasons for\n     disallowing the objection or for allowing the objection in part only.\n     (4) The reasons for a determination of an objection must set out the\n     matters referred to in section 49 (3) of the Administrative Decisions\n     Review Act 1997 in respect of the determination.\n     (5) The notice must also inform the objector of the objector's right\n     to make an application for an administrative review under Subdivision\n     2 in the case of a determination to disallow the objection or to\n     allow the objection in part only."
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Administrative reviews by Civil and Administrative Tribunal",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Administrative reviews by Civil and Administrative Tribunal",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 28",
+      "text": "(1) An objector may apply to the Civil and Administrative Tribunal\n     for an administrative review under the Administrative Decisions\n     Review Act 1997 of the decision (the\n     \"original decision\") to which the objection was made if--\n          (a) the objector is dissatisfied with the Chief\n          Commissioner's determination of the objection, or\n          (b) 90 days have passed since the objection was lodged with\n          the Chief Commissioner and the Chief Commissioner has not\n          determined the objection.\n     (2) The applicant's and respondent's cases on an application for an\n     administrative review are not limited to the grounds of the\n     objection.\n     (3) The applicant has the onus of proving the applicant's case in an\n     application for an administrative review.\n     (4) An application for an administrative review--\n          (a) following a determination by the Chief Commissioner of\n          an objection--must be made not later than 60 days after the\n          date of issue of the notice of the Chief Commissioner's\n          determination of the objection, or\n          (b) following a failure of the Chief Commissioner to\n          determine an objection within the relevant 90-day period--\n          may be made at any time after the end of that period (but\n          must be made as required by paragraph (a) following a\n          subsequent determination of the objection by the Chief\n          Commissioner).\n     (5) The Civil and Administrative Tribunal may extend the time for\n     making an application for an administrative review.\n     (6) The following provisions of the Administrative Decisions Review\n     Act 1997 do not apply to an application made under this section--\n          (a) Part 2 of Chapter 3,\n          (b) section 55 (3)-(6),\n          (c) Division 2 of Part 3 of Chapter 3.\n     (7) For the purposes of section 58 (1) (a) of the Administrative\n     Decisions Review Act 1997 --\n          (a) the obligation of the Chief Commissioner under that\n          paragraph to lodge a statement of reasons with the Civil\n          and Administrative Tribunal in respect of an application is\n          limited to providing the Tribunal with a statement of\n          reasons only in respect of the matters arising from the\n          grounds specified in the application, and\n          (b) if one of the grounds specified in the application\n          relates to a matter raised in an objection determined by\n          the Chief Commissioner--the Chief Commissioner may rely on\n          reasons previously given to the objector by the Chief\n          Commissioner under section 26 for the determination of the\n          objection in explanation of that part of the original\n          decision."
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Powers of Civil and Administrative Tribunal on administrative review",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Powers of Civil and Administrative Tribunal on administrative review",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 29",
+      "text": "(1) On an administrative review, the Civil and Administrative\n     Tribunal may--\n          (a) confirm, vary or reverse the original decision, and\n          (b) make any further orders as to costs or otherwise as it\n          thinks fit.\n     (2) Subsection (1) does not limit the generality of Division 3 of\n     Part 3 of Chapter 3 of the Administrative Decisions Review Act 1997\n     \"."
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Administration",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Administration",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 1 - Administration generally > Section 30",
+      "text": "The Chief Commissioner is responsible to the Minister for the administration of\nthe first home owner grant scheme."
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Delegation",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Delegation",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 1 - Administration generally > Section 31",
+      "text": "The Chief Commissioner may delegate functions related to the administration of\nthe first home owner grant scheme or a shared equity scheme."
+    },
+    {
+      "key": "section:31A",
+      "title": "Section 31A - Delegation by Minister",
+      "main_structural_unit": "section",
+      "main_structural_number": "31A",
+      "main_structural_heading": "Delegation by Minister",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 1 - Administration generally > Section 31A",
+      "text": "The Minister may delegate the exercise of any function of the Minister under\nthis Act, other than this power of delegation, to--\n     (a) the Chief Commissioner, or\n     (b) a person employed in the Public Service."
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Administration agreements",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Administration agreements",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 1 - Administration generally > Section 32",
+      "text": "(1) Without limiting section 31, the Chief Commissioner may enter\n     into an agreement with a financial institution or other person for\n     exercising functions related to the administration of the first home\n     owner grant scheme or a shared equity scheme.\n     (2) An administration agreement is subject to conditions specified in\n     the administration agreement or by subsequent written notice given to\n     the financial institution or other person.\n     (3) The conditions may include--\n          (a) conditions as to the means by which applications are to\n          be lodged by the financial institution or other person, and\n          (b) conditions requiring the financial institution or other\n          person to keep specified records, and\n          (c) conditions as to the payment to applicants of money\n          paid to the financial institution or other person, and\n          (d) conditions restricting the financial institution or\n          other person from disclosing information that is identified\n          in the administration agreement as confidential.\n     (4) The Chief Commissioner may, at any time, at the Chief\n     Commissioner's discretion, revoke an administration agreement under\n     this section."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Authorised officers",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Authorised officers",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 1 - Administration generally > Section 33",
+      "text": "(1) A person who is an authorised officer for the purposes of the\n     taxation laws, as referred to in section 68 of the Taxation\n     Administration Act 1996, is taken to be an authorised officer for the\n     purposes of this Act.\n     (2) Without affecting subsection (1), the Chief Commissioner may\n     appoint persons to be authorised officers for the purposes of this\n     Act."
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Authorised investigations",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Authorised investigations",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 34",
+      "text": "An\n\"authorised investigation\" is an investigation to determine--\n     (a) whether the following have been properly made--\n          (i) an application under this Act or a corresponding law\n          for a first home owner grant,\n          (ii) an application under this Act to participate in a\n          shared equity scheme, or\n     (b) whether an objection to a decision made under this Act or a\n     corresponding law should be upheld, or\n     (c) whether an applicant to whom, or for whose benefit, a first home\n     owner grant has been paid under this Act or a corresponding law was\n     eligible for the grant, or\n     (d) whether a condition on which a first home owner grant has been\n     paid under this Act or a corresponding law has been complied with, or\n     (d1) whether a participant in a shared equity scheme is eligible to\n     participate, or\n     (d2) whether a person has complied with a condition for participating\n     in a shared equity scheme, or\n     (e) any other matter reasonably related to the administration of this\n     Act or a corresponding law."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Carrying out of authorised investigation",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Carrying out of authorised investigation",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 35",
+      "text": "(1) The Chief Commissioner may carry out an authorised investigation\n     for the purposes of this Act.\n     (2) The Chief Commissioner may, at the request of an authority\n     responsible for administering a corresponding law, carry out an\n     authorised investigation for the purposes of the corresponding law.\n     (3) The Chief Commissioner may delegate powers of investigation under\n     this Division to the authority responsible for the administration of\n     a corresponding law, or a person nominated by that authority."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Power of investigation",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Power of investigation",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 36",
+      "text": "(1) For the purposes of an authorised investigation, the Chief\n     Commissioner may, by written notice, require a person--\n          (a) to give the Chief Commissioner written information\n          specified in the notice, or\n          (b) to attend at a specified time and place before the\n          Chief Commissioner or an authorised officer to answer\n          questions relevant to the investigation, or\n          (c) to produce an instrument or record to the Chief\n          Commissioner at a specified time and place.\n     (2) The Chief Commissioner may require that information given, or to\n     be given, under this section be verified on oath or by statutory\n     declaration.\n     (3) A person who, without reasonable excuse, refuses or fails to\n     comply with a requirement of the Chief Commissioner under this\n     section is guilty of an offence.\n          : Maximum penalty--100 penalty units.\n     (4) A person who, having attended before the Chief Commissioner or an\n     authorised officer in response to a notice under subsection (1) (b),\n     refuses or fails, without reasonable excuse, to answer a question\n     relevant to the investigation is guilty of an offence.\n          Maximum penalty (subsection (4)): 100 penalty units."
+    },
+    {
+      "key": "section:36A",
+      "title": "Section 36A - Power to require valuation or other evidence",
+      "main_structural_unit": "section",
+      "main_structural_number": "36A",
+      "main_structural_heading": "Power to require valuation or other evidence",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 36A",
+      "text": "(1) For a relevant purpose, the Chief Commissioner may do any one or\n     more of the following--\n          (a) require, by written notice, the following to give to\n          the Chief Commissioner evidence of the value of property or\n          consideration that the Chief Commissioner considers\n          appropriate--\n               (i) an applicant for a first home owner grant,\n               (ii) an applicant for participation in a shared\n               equity scheme,\n          (b) have a valuation made of any property or consideration\n          by a person the Chief Commissioner is satisfied is suitably\n          qualified to provide evidence of the value of property or\n          consideration,\n          (c) adopt any available valuation made of the property or\n          consideration by a person the Chief Commissioner is\n          satisfied is suitably qualified to provide evidence of the\n          value of property or consideration.\n     (2) The Chief Commissioner may recover from the applicant the cost of\n     obtaining a valuation of property under subsection (1)(b) if--\n          (a) the value of the property in the valuation obtained by\n          the Chief Commissioner differs from the value of the\n          property provided by the applicant by at least 10%, or\n          (b) the applicant fails to comply with a written notice\n          given to the applicant under subsection (1)(a)(ii) within\n          60 days after the notice is issued.\n     (3) The Chief Commissioner may require the Valuer-General to make a\n     valuation for the purposes of this section.\n     (4) In this section--\n     \"applicant\" includes a former applicant.\n     \"relevant purpose\" means--\n          (a) determining the total value of a transaction, or\n          (b) the administration of a shared equity scheme."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Access to public records without fee",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Access to public records without fee",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 37",
+      "text": "The Chief Commissioner is entitled to inspect and take copies of any public\nrecord kept under an Act or law of this State without payment of any fee that\nwould be payable but for this section."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Use and inspection of documents and records provided to Chief Commissioner or authorised officer",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Use and inspection of documents and records provided to Chief Commissioner or authorised officer",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 38",
+      "text": "Section 38 Use and inspection of documents and records provided to Chief Commissioner\nor authorised officer\n     (1) This section applies to a document or record that is provided or\n     produced to the Chief Commissioner or an authorised officer.\n     (2) The Chief Commissioner or the authorised officer may take and\n     retain possession of the document or record for the purpose of\n     enabling the document or record to be inspected and for copies of, or\n     extracts of and notes from, the document or record to be made or\n     taken by or on behalf of the Chief Commissioner or authorised\n     officer.\n     (3) However, if the document or record was provided or produced to\n     the Chief Commissioner or an authorised officer on the premises where\n     it is normally kept, the Chief Commissioner or authorised officer may\n     remove it from those premises for the purposes referred to in\n     subsection (2) only--\n          (a) with the consent of the owner or occupier of the\n          premises, or\n          (b) if it is not practicable to inspect or copy or take\n          extracts or notes from the document or record on the\n          premises.\n     (4) The Chief Commissioner or authorised officer may retain\n     possession of the document or record for a reasonable period, but not\n     exceeding 28 days without the consent of the person entitled to it.\n     (5) The Chief Commissioner or the authorised officer must permit a\n     person who would be entitled to inspect the document or record if it\n     were not in the possession of the Chief Commissioner or authorised\n     officer to inspect the document or record at any reasonable time.\n     (6) Nothing in this section prejudices a lien a person has on the\n     document or record.\n     (7) Nothing in this section limits or affects section 40."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Power of entry on premises",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Power of entry on premises",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 39",
+      "text": "(1) The Chief Commissioner may enter and remain on premises if the\n     Chief Commissioner has reason to believe or suspect that there are\n     documents or records at the premises that are relevant to the\n     administration of this Act.\n     (2) Entry may be made at any reasonable time.\n     (3) The power of an authorised officer to enter premises may not be\n     exercised unless the authorised officer has a written delegation\n     covering entry issued by the Chief Commissioner and produces it if\n     requested to do so by the owner or occupier of the premises, or a\n     person in physical occupation of the premises.\n     (4) Before the Chief Commissioner or an authorised officer enters\n     premises under this Act, the Chief Commissioner or authorised officer\n     must give the owner or occupier of the premises, or a person in\n     physical occupation of the premises, reasonable notice of the\n     intention to enter unless--\n          (a) entry is made with the consent of the owner, occupier\n          or person, or\n          (b) the giving of notice would, in the opinion of the Chief\n          Commissioner or authorised officer, defeat the purpose for\n          which it is intended to enter the premises.\n     (5) The powers of entry and inspection conferred by this Division are\n     not exercisable in relation to premises or a part of premises used\n     for residential purposes except--\n          (a) with the consent of the owner or occupier of the\n          premises or part, or a person in physical occupation of the\n          premises or part, or\n          (b) under the authority conferred by a search warrant."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Functions exercisable on entry",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Functions exercisable on entry",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 40",
+      "text": "(1) The Chief Commissioner or an authorised officer who has entered\n     premises in accordance with this Division may--\n          (a) require any person at those premises to produce any\n          records in the custody or possession or under the control\n          of the person (including a written record that reproduces\n          in an understandable form information stored by computer,\n          microfilm or other means or process), and\n          (b) require any person at those premises to answer\n          questions or otherwise furnish information, and\n          (c) require the owner or occupier of the premises, or any\n          person physically in occupation of the premises, to provide\n          the Chief Commissioner or authorised officer with such\n          assistance and facilities as is or are reasonably necessary\n          to enable the Chief Commissioner or authorised officer to\n          exercise the functions of the Chief Commissioner or an\n          authorised officer under this Part.\n     (2) A receipt is to be issued for anything removed."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Search warrant",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Search warrant",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 41",
+      "text": "(1) The Chief Commissioner or an authorised officer under this Act\n     may apply to an authorised officer under the Law Enforcement (Powers\n     and Responsibilities) Act 2002 for a warrant to search any premises\n     if the Chief Commissioner or the authorised officer under this Act\n     has reasonable grounds to believe that any records are to be found\n     there, being records to which the Chief Commissioner or authorised\n     officer under this Act would have access if they were kept on\n     premises to which the Chief Commissioner or authorised officer under\n     this Act has access.\n     (2) An authorised officer under the Law Enforcement (Powers and\n     Responsibilities) Act 2002 to whom the application is made may, if\n     satisfied that there are reasonable grounds for doing so, issue a\n     search warrant authorising the Chief Commissioner or authorised\n     officer under this Act to enter and search the premises.\n     (3) Nothing in this section limits or restricts any power conferred\n     on the Chief Commissioner or an authorised officer under this Part."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Obstructing Chief Commissioner or authorised officer",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Obstructing Chief Commissioner or authorised officer",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 42",
+      "text": "(1) A person who--\n          (a) prevents the Chief Commissioner or an authorised\n          officer from exercising a function under this Division, or\n          (b) hinders or obstructs the Chief Commissioner or an\n          authorised officer in the exercise of such a function, or\n          (c) without reasonable excuse, refuses or fails to comply\n          with a requirement made by or to answer a question of the\n          Chief Commissioner or an authorised officer asked in\n          accordance with section 40,\n     is guilty of an offence.\n          : Maximum penalty--100 penalty units.\n     (2) A person is not guilty of an offence under this section arising\n     from the entry of the Chief Commissioner or an authorised officer\n     onto premises unless it is established that, at the material time,\n     the Chief Commissioner or the authorised officer--\n          (a) identified himself or herself as the Chief Commissioner\n          or an authorised officer, and\n          (b) warned the person that a failure to comply with the\n          requirement may constitute an offence."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Defence of reasonable compliance",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Defence of reasonable compliance",
+      "defined_term": null,
+      "structure_path": "Part 3 - ADMINISTRATION > Division 2 - Investigations > Section 43",
+      "text": "A person is not guilty of an offence under this Division if the court hearing\nthe charge is satisfied--\n     (a) that the defendant could not, by the exercise of reasonable\n     diligence, have complied with the requirement to which the charge\n     relates, or\n     (b) that the defendant complied with the requirement to the extent of\n     his or her ability to do so."
+    },
+    {
+      "key": "section:43A",
+      "title": "Section 43A - Special grant for ADF personnel",
+      "main_structural_unit": "section",
+      "main_structural_number": "43A",
+      "main_structural_heading": "Special grant for ADF personnel",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 43A",
+      "text": "(1) A grant (an\n     \"ADF home buyer's grant\") is payable on an application under this Act\n     if--\n          (a) the applicant or, if there are 2 or more of them, at\n          least one of the applicants is a member of the Defence\n          Force on the commencement date of the eligible transaction,\n          and\n          (b) the applicant or, if there are 2 or more of them, each\n          of the applicants--\n               (i) complies with the eligibility criteria for a\n               first home owner grant (except for the residence\n               requirement), and\n               (ii) is enrolled to vote in State elections\n               (under the Electoral Act 2017) on the\n               commencement date of the eligible transaction,\n               and\n          (c) the transaction for which the grant is sought--\n               (i) is an eligible transaction, and\n               (ii) has been completed.\n     (2) Subject to this section, this Act applies in relation to an ADF\n     home buyer's grant in the same way as it applies to a first home\n     owner grant, with any necessary modifications, as if a reference in\n     this Act to a first home owner grant included a reference to an ADF\n     home buyer's grant.\n     (3) The residence requirement does not apply to an ADF home buyer's\n     grant.\n     (4) An ADF home buyer's grant is payable in respect of an eligible\n     transaction only if a first home owner grant is not payable in\n     respect of the same eligible transaction.\n     (5) In this section, a\n     \"member of the Defence Force\" means a member of the Permanent Forces\n     of the Australian Defence Force (within the meaning of the Defence\n     Act 1903 of the Commonwealth)."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Knowingly giving false or misleading information",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Knowingly giving false or misleading information",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 44",
+      "text": "(1) A person must not--\n          (a) make a statement, orally or in writing, to an\n          authorised officer, or\n          (b) give information, orally or in writing, to an\n          authorised officer,\n     knowing that it is false or misleading in a material particular.\n          : Maximum penalty--100 penalty units.\n     (2) A person must not make a statement or give information knowing it\n     is false or misleading in a material particular in relation to--\n          (a) an application for a first home owner grant, or\n          (b) an application to participate in a shared equity\n          scheme."
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Power to require repayment and impose penalty",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Power to require repayment and impose penalty",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 45",
+      "text": "(1) The Chief Commissioner may, by written notice given to a person,\n     require the person for whom an amount was paid under this Act to\n     repay the amount if--\n          (a) the amount was paid in error, or\n          (b) the Chief Commissioner reverses the decision under\n          which the amount was paid for another reason.\n     (2) The Chief Commissioner may impose a penalty not exceeding the\n     amount the person is required to repay if--\n          (a) the amount was paid under a first home owner grant as a\n          result of dishonesty by an applicant for the grant, or\n          (b) the amount was paid under a shared equity scheme as a\n          result of dishonesty by a participant in the scheme, or\n          (c) the person fails to make a repayment required--\n               (i) under this section, or\n               (ii) by the conditions of a first home owner\n               grant.\n     (3) The penalty may be imposed in the notice under subsection (1) or\n     in a separate written notice given to the person.\n     (4) The Chief Commissioner may, by written notice given to a\n     participant in a shared equity scheme, impose a penalty of up to\n     $3,300 on the person if the person fails--\n          (a) to give the Chief Commissioner information the Chief\n          Commissioner reasonably requests from the person for the\n          administration of the scheme, or\n          (b) to notify the Chief Commissioner of a change in\n          circumstances required to be notified to the Chief\n          Commissioner under the conditions of the person's\n          participation in the scheme, or\n          (c) to comply with a condition of a shared equity\n          arrangement under a shared equity scheme and the condition\n          is prescribed by the regulations."
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Power to recover certain amounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Power to recover certain amounts",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 46",
+      "text": "(1) This section applies to the following amounts--\n          (a) an amount required to be repaid under the conditions of\n          a first home owner grant or shared equity scheme or by the\n          Chief Commissioner under this Act, by--\n               (i) an applicant or former applicant for a first\n               home owner grant, or\n               (ii) a participant or former participant in a\n               shared equity scheme,\n          (b) the amount of a penalty imposed on and payable by--\n               (i) an applicant or former applicant for a first\n               home owner grant, or\n               (ii) a participant or former participant in a\n               shared equity scheme,\n          (c) the amount a person is required to repay under section\n          45.\n     (2) An amount to which this section applies is payable to the Chief\n     Commissioner.\n     (2A) If the amount is payable by more than 1 person, each person is\n     jointly and severally liable to pay the amount.\n     (3) The liability of a person to pay an amount to which this section\n     applies is--\n          (a) a first charge on the person's interest in a home if--\n               (i) the home is one for which a first home owner\n               grant was obtained, and\n               (ii) the person was an applicant for the grant,\n               and\n               (iii) the person is liable to pay an amount\n               referred to in subsection (1)(a) or (b), or\n          (b) a charge on the person's interest in property if--\n               (i) the property is the subject of a shared\n               equity arrangement under a shared equity scheme,\n               and\n               (ii) the person is a participant in the scheme,\n               and\n               (iii) the person is liable to pay an amount\n               referred to in subsection (1)(a) or (b).\n     (3A) The charge created by subsection (3) gives the Chief\n     Commissioner an interest in the land and, accordingly, the Chief\n     Commissioner may lodge a caveat in respect of the land under the Real\n     Property Act 1900 to protect that interest.\n     (3AA) Once the caveat is recorded in the Register kept under the Real\n     Property Act 1900, the charge has priority over all other\n     encumbrances except land tax under the Land Tax Management Act 1956.\n     (3B) The caveat must be withdrawn when the amount that the applicant\n     is liable to pay has been paid.\n     (5) The Chief Commissioner may recover an amount to which this\n     section applies as a debt due to the Crown.\n     (5A) An amount to which this section applies is a referable debt\n     within the meaning of the State Debt Recovery Act 2018.\n     (6) The Chief Commissioner may enter into an arrangement (which may\n     include provision for the payment of interest) for payment of a\n     liability outstanding under this section by instalments.\n     (7) The Chief Commissioner may write off the whole or part of a\n     liability outstanding under this section if satisfied that action, or\n     further action, to recover the amount outstanding is impracticable or\n     unwarranted.\n     (8) The provisions of this section have effect despite anything\n     contained in section 42 of the Real Property Act 1900."
+    },
+    {
+      "key": "section:46A",
+      "title": "Section 46A - Recovery from third parties",
+      "main_structural_unit": "section",
+      "main_structural_number": "46A",
+      "main_structural_heading": "Recovery from third parties",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 46A",
+      "text": "(1) The Chief Commissioner may require any of the following persons,\n     instead of the grant recipient, to pay any recoverable amount that is\n     payable but remains unpaid--\n          (a) a person by whom any money is due or accruing or may\n          become due to the grant recipient,\n          (b) a person who holds or may subsequently hold money for\n          or on account of the grant recipient,\n          (c) a person who holds or may subsequently hold money on\n          account of some other person for payment to the grant\n          recipient,\n          (d) a person having authority from some other person to pay\n          money to the grant recipient.\n     (2) The Chief Commissioner's requirement is to be made by notice in\n     writing.\n     (3) A copy of the notice must be served on the grant recipient.\n     (4) The amount of money required to be paid to the Chief Commissioner\n     is--\n          (a) if the amount of the money so held or due or authorised\n          to be paid does not exceed the amount payable by the grant\n          recipient to the Chief Commissioner--all the money, or\n          (b) if the amount of the money exceeds the amount so\n          payable--sufficient money to pay the amount so payable.\n     (5) The money must be paid to the Chief Commissioner on receipt of\n     the notice, or when the money is held by the person and becomes due\n     to the grant recipient, or by the end of such period (if any) as may\n     be specified by the Chief Commissioner, whichever is the later.\n     (6) A person subject to a requirement of the Chief Commissioner under\n     this section must comply with the requirement.\n          : Maximum penalty--100 penalty units.\n     (7) A person who makes a payment in accordance with this section is\n     taken to be acting under the authority of the grant recipient and of\n     all other persons concerned and is indemnified by this section in\n     respect of the payment.\n     (8) If, after a person is given a notice under this section by the\n     Chief Commissioner, the whole or a part of the amount is paid by\n     another person, the Chief Commissioner must promptly notify the\n     person to whom the notice is given of the payment and the notice is\n     taken to be amended accordingly.\n     (9) In this section--\n     \"grant recipient\" means--\n          (a) an applicant (or former applicant) for a first home\n          owner grant to whom an amount is paid under this Act, or\n          (b) any other person to whom an amount is paid under this\n          Act.\n     \"recoverable amount\" means--\n          (a) in relation to an applicant (or former applicant) for a\n          first home owner grant, the following amounts--\n               (i) an amount that the applicant (or former\n               applicant) is required to repay under the\n               conditions of the grant or by a requirement of\n               the Chief Commissioner under this Act,\n               (ii) the amount of any penalty imposed on the\n               applicant (or former applicant) by the Chief\n               Commissioner under this Act, or\n          (b) in relation to any other person--an amount the person\n          is required to repay under section 45 (4)."
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Protection of confidential information",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Protection of confidential information",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 47",
+      "text": "(1) In this section--\n     \"duty of confidentiality\" --a person is subject to a duty of\n     confidentiality if--\n          (a) the person is, or has been, engaged in work related to\n          the administration of this Act, or\n          (b) the person has obtained access to protected information\n          (directly or indirectly) from a person who is, or has been,\n          engaged in work related to the administration of this Act.\n     \"protected information\" means information obtained in the course of\n     work related to the administration of this Act about--\n          (a) an applicant for a first home owner grant or the\n          applicant's spouse, or\n          (b) an applicant, including a former applicant, for\n          participation in a shared equity scheme or the applicant's\n          spouse.\n     (2) A person who is subject to a duty of confidentiality must not\n     disclose protected information except as permitted by subsection (3).\n          : Maximum penalty--100 penalty units.\n     (3) Protected information may be disclosed--\n          (a) at the request or with the consent of the person to\n          whom the information relates or a person acting on that\n          person's behalf, or\n          (b) in connection with the administration of the following\n          laws (including for the purpose of any legal proceedings\n          arising out of any of those laws or a report of any such\n          proceedings)--\n               (i) this Act or a corresponding law,\n               (ia) the Unclaimed Money Act 1995,\n               (ii) a taxation law of the Commonwealth or a\n               State or Territory,\n               (iii) the First Home Saver Accounts Act 2008 of\n               the Commonwealth, or\n          (b1) to the Commonwealth or Housing Australia to assist in\n          determining whether a person is ineligible to enter into a\n          Help to Buy arrangement because the person is receiving\n          assistance under a State or Territory home buyer scheme, or\n          (c) to the Australian Charities and Not-for-profits\n          Commission or a person authorised by the Australian\n          Charities and Not-for-profits Commissioner, or\n          (d) as authorised under the regulations.\n     (4) In this section--\n     \"Help to Buy arrangement\" has the same meaning as in the Help to Buy\n     Act 2024 of the Commonwealth.\n     \"Housing Australia\" has the same meaning as in the Housing Australia\n     Act 2018 of the Commonwealth.\n     \"State or Territory home buyer scheme\" has the same meaning as in the\n     Help to Buy Act 2024 of the Commonwealth."
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - Evidence",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "Evidence",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 48",
+      "text": "(1) A certificate signed by the Chief Commissioner stating that a\n     first home owner grant was paid to a person named in the certificate\n     on a specified date is admissible in legal proceedings as evidence of\n     the payment.\n     (2) A copy of a notice issued by the Chief Commissioner imposing a\n     penalty under this Act is admissible in legal proceedings as evidence\n     of the imposition of the penalty.\n     (3) A copy of a notice issued by the Chief Commissioner requiring the\n     payment or repayment of a specified amount is admissible in legal\n     proceedings as evidence--\n          (a) that the requirement was made, and\n          (b) that the amount specified in the notice was outstanding\n          at the date of the notice."
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Proceedings for offences",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Proceedings for offences",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 49",
+      "text": "(1) Proceedings for an offence against this Act or the regulations\n     may be dealt with before the Local Court or before the Supreme Court\n     in its summary jurisdiction.\n     (2) Proceedings for an offence against this Act or the regulations\n     may be commenced at any time within 3 years after the date on which\n     it is alleged the offence was committed."
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Standing appropriation",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Standing appropriation",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 50",
+      "text": "The Consolidated Fund is appropriated to the extent necessary for the payment\nof grants under this Act."
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Personal liability",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Personal liability",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 51",
+      "text": "(1) This section applies to a person who is--\n          (a) the Chief Commissioner or an authorised officer, or\n          (b) a public servant involved in the administration of this\n          Act, or\n          (c) a person to whom the Chief Commissioner has delegated\n          functions under this Act.\n     (2) A matter or thing done or omitted to be done by a person to whom\n     this section applies does not, if the matter or thing was done or\n     omitted in good faith for the purpose of administering this Act,\n     subject the person so acting personally to any action, liability,\n     claim or demand."
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 52",
+      "text": "(1) The Governor may make regulations, not inconsistent with this\n     Act, for or with respect to any matter that by this Act is required\n     or permitted to be prescribed or that is necessary or convenient to\n     be prescribed for carrying out or giving effect to this Act.\n     (2) A regulation may create an offence punishable by a penalty not\n     exceeding 20 penalty units."
+    },
+    {
+      "key": "section:52A",
+      "title": "Section 52A - Savings, transitional and other provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "52A",
+      "main_structural_heading": "Savings, transitional and other provisions",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 52A",
+      "text": "Schedule 1 has effect."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Review of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Review of Act",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 54",
+      "text": "(1) The Minister is to review this Act to determine whether the\n     policy objectives of the Act remain valid and whether the terms of\n     the Act remain appropriate for securing those objectives.\n     (2) The review is to be undertaken as soon as possible after the\n     period of 5 years from the date of assent to this Act.\n     (3) A report on the outcome of the review is to be tabled in each\n     House of Parliament within 12 months after the end of the period of 5\n     years."
+    },
+    {
+      "key": "section:18A-18C",
+      "title": "Section 18A-18C - (Repealed)",
+      "main_structural_unit": "section",
+      "main_structural_number": "18A-18C",
+      "main_structural_heading": "(Repealed)",
+      "defined_term": null,
+      "structure_path": "Part 2 - FIRST HOME OWNER GRANT > Division 5 - Decision on application > Section 18A-18C",
+      "text": ""
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - (Repealed)",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "(Repealed)",
+      "defined_term": null,
+      "structure_path": "Part 2B - OBJECTIONS AND REVIEW > Section 27",
+      "text": ""
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - (Repealed)",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "(Repealed)",
+      "defined_term": null,
+      "structure_path": "Part 4 - MISCELLANEOUS > Section 53",
+      "text": ""
+    },
+    {
+      "key": "schedule:1.part:2.section:2001",
+      "title": "Schedule 1 Section 2001 - extends to eligible transactions entered into before the commencement of",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2001",
+      "main_structural_unit_heading": "extends to eligible transactions entered into before the commencement of",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 - Provisions consequent on enactment of First Home Owner Grant Amendment > Section 2001",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 2001 - extends to eligible transactions entered into before the commencement of\n\nthat amendment if a first home owner grant has not been paid in respect of the\ntransaction concerned."
+    },
+    {
+      "key": "schedule:1.part:2.section:3",
+      "title": "Schedule 1 Section 3 - Applicants to be at least 16 years of age",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "3",
+      "main_structural_unit_heading": "Applicants to be at least 16 years of age",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 - Provisions consequent on enactment of First Home Owner Grant Amendment > Section 3",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 3 - Applicants to be at least 16 years of age"
+    },
+    {
+      "key": "schedule:1.part:2.section:8A",
+      "title": "Schedule 1 Section 8A - extends to an application under this Act made before the",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "8A",
+      "main_structural_unit_heading": "extends to an application under this Act made before the",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 - Provisions consequent on enactment of First Home Owner Grant Amendment > Section 8A",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 8A - extends to an application under this Act made before the\n\ncommencement of that section but only if--\n     (a) the application was made on or after the day on which the Bill\n     for the First Home Owner Grant Amendment Act 2001 was first\n     introduced into Parliament (whether or not that Act was enacted in\n     the form of the Bill as introduced), and\n          Date of introduction: 11.4.2001.\n     (b) a first home owner grant had not been paid in respect of the\n     application before the commencement of section 8A."
+    },
+    {
+      "key": "schedule:1.part:2.section:4",
+      "title": "Schedule 1 Section 4 - Validation of payment of increased grants",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "4",
+      "main_structural_unit_heading": "Validation of payment of increased grants",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 - Provisions consequent on enactment of First Home Owner Grant Amendment > Section 4",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 4 - Validation of payment of increased grants\n\nThe payment of an amount as a first home owner grant before the commencement of"
+    },
+    {
+      "key": "schedule:1.part:2.section:13A",
+      "title": "Schedule 1 Section 13A - is validated to the extent that the payment would have been valid",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "13A",
+      "main_structural_unit_heading": "is validated to the extent that the payment would have been valid",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 - Provisions consequent on enactment of First Home Owner Grant Amendment > Section 13A",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 13A - is validated to the extent that the payment would have been valid\n\nhad section 13A been in force at the time it was made.\nPart 3 - Provisions consequent on enactment of First Home Owner Grant Amendment\nAct 2002 5 Validation of payment of grants\nThe payment of an amount as a first home owner grant before the commencement of\nthis clause, and anything done under this Act, is validated to the extent that\nit would have been valid if this Act (as amended by Schedule 1 [1]-[3] to the\nFirst Home Owner Grant Amendment Act 2002) had been in force when the payment\nwas made or the thing was done.\nPart 4 - Provisions consequent on enactment of State Revenue Legislation\nFurther Amendment Act 2003 6 Definition\nIn this Part--\n\"amending Act\" means the State Revenue Legislation Further Amendment Act 2003.\nSection 7 Some amendments operate from 1 July 2002\n     (1) The amendments made to this Act by Schedule 3 [1], [2], [3], [7]\n     and [8] to the amending Act are taken to have operated from 1 July\n     2002 and, subject to subclause (2), apply from 1 July 2002 in respect\n     of contracts made before, on or after that date.\n     (2) The multiple occupancy contract amendments apply only to\n     contracts made on or after 1 July 2002.\n     (3) For the purposes of this clause,\n     \"the multiple occupancy contract amendments\" are--\n          (a) Schedule 3 [3] to the amending Act, and\n          (b) Schedule 3 [1] and [8] to the amending Act, insofar as\n          they relate to multiple occupancy contracts."
+    },
+    {
+      "key": "schedule:1.part:4.section:8",
+      "title": "Schedule 1 Section 8 - Criterion 5--residence requirement",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "8",
+      "main_structural_unit_heading": "Criterion 5--residence requirement",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 4 - Provisions consequent on enactment of State Revenue Legislation > Section 8",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 8 - Criterion 5--residence requirement\n\nThe amendments made to section 12 by Schedule 3 [5] and [6] to the amending Act\napply to applications made on or after 1 January 2004.\nPart 5 - Provisions consequent on enactment of State Revenue Legislation\nFurther Amendment Act 2005 9 Application of amendments\n     (1) The amendments to this Act made by the State Revenue Legislation\n     Further Amendment Act 2005 in relation to the eligibility criteria\n     for a first home owner grant apply in respect of applications for a\n     first home owner grant that are made on or after the commencement of\n     the amendments.\n     (2) The amendment to section 25 made by the State Revenue Legislation\n     Further Amendment Act 2005 applies in respect of decisions made by\n     the Chief Commissioner referred to in that section of which he or she\n     gives notice on or after the commencement of the amendment.\nPart 6 - Provisions consequent on enactment of State Revenue Legislation\nAmendment Act 2008 10 Application of amendments\n     (1) An amendment to this Act made by the State Revenue Legislation\n     Amendment Act 2008 applies in relation to applications for the first\n     home owner grant that are made on or after the commencement of that\n     amendment.\n     (2) The amendment made to section 49 by the State Revenue Legislation\n     Amendment Act 2008 does not apply in respect of an offence alleged to\n     have been committed before the commencement of that amendment (and\n     section 49, as in force immediately before that amendment, continues\n     to apply in respect of any such offence).\nPart 7 - Provisions consequent on enactment of State Revenue and Other\nLegislation Amendment (Budget Measures) Act 2008 11 Effective date of\namendments\nThe amendments made to this Act by the State Revenue and Other Legislation\nAmendment (Budget Measures) Act 2008 are taken to have effect from 14 October\n2008."
+    },
+    {
+      "key": "schedule:1.part:7.section:12",
+      "title": "Schedule 1 Section 12 - Saving of effect of repealed provisions",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "12",
+      "main_structural_unit_heading": "Saving of effect of repealed provisions",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 7 - Provisions consequent on enactment of State Revenue and Other > Section 12",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 12 - Saving of effect of repealed provisions\n\nThe provisions of this Act with regard to special eligible transactions that\nhad effect immediately before their repeal by the State Revenue and Other\nLegislation Amendment (Budget Measures) Act 2008 continue to have effect in\nrespect of anything done or omitted to be done before that repeal, as if they\nhad not been repealed.\nPart 8 - Provisions consequent on enactment of State Revenue Legislation\nFurther Amendment Act 2009 13 Definition\nIn this Part--\n\"amending Act\" means the State Revenue Legislation Further Amendment Act 2009."
+    },
+    {
+      "key": "schedule:1.part:8.section:14",
+      "title": "Schedule 1 Section 14 - Eligibility criteria",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "14",
+      "main_structural_unit_heading": "Eligibility criteria",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 8 - Provisions consequent on enactment of State Revenue Legislation > Section 14",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 14 - Eligibility criteria\n\nAn amendment made to section 6 or 9 by the amending Act applies in respect of\nan application for a first home owner grant that is made on or after the\ncommencement of that amendment."
+    },
+    {
+      "key": "schedule:1.part:8.section:15",
+      "title": "Schedule 1 Section 15 - Time limit on varying or reversing decisions",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "15",
+      "main_structural_unit_heading": "Time limit on varying or reversing decisions",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 8 - Provisions consequent on enactment of State Revenue Legislation > Section 15",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 15 - Time limit on varying or reversing decisions\n\nThe amendment made to section 23 by the amending Act extends to a decision made\nwithin 5 years before the commencement of that amendment.\nPart 9 - Provisions consequent on enactment of State Revenue Legislation\nFurther Amendment Act 2010 16 Change to first home owner grant cap\n     (1) The amendment to section 13A made by the State Revenue\n     Legislation Further Amendment Act 2010 does not apply in respect of\n     an eligible transaction that has a commencement date that is before 1\n     January 2011.\n     (2) Section 13A, as in force immediately before the amendment,\n     continues to apply in respect of such an eligible transaction.\nPart 10 - Provisions consequent on enactment of State Revenue Legislation\nAmendment Act 2011 17 Liability to repay certain amounts a first charge\nThe amendments to section 46 made by the State Revenue Legislation Amendment\nAct 2011 do not apply in respect of an eligible transaction that has a\ncommencement date that is before 1 October 2011.\nPart 11 - Provisions consequent on enactment of State Revenue and Other\nLegislation Amendment (Budget Measures) Act 2012 18 Pre-1 October 2012\ncontracts and transfers\nPart 2 of this Act, as in force immediately before its amendment by the State\nRevenue and Other Legislation Amendment (Budget Measures) Act 2012, continues\nto apply in respect of the following--\n     (a) a contract made before 1 October 2012 for the purchase of a home\n     in New South Wales,\n     (b) a comprehensive home building contract made before 1 October\n     2012,\n     (c) the building of a home in New South Wales by an owner builder if\n     the building work commenced before 1 October 2012.\n     Note : Accordingly, the above transactions may still be eligible for\n     the grant that was payable under Part 2 before 1 October 2012."
+    },
+    {
+      "key": "schedule:1.part:2.section:19.p1",
+      "title": "Schedule 1 Section 19 - Replacement contracts",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "19",
+      "main_structural_unit_heading": "Replacement contracts",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 of this Act, as in force immediately before its amendment by the State > Section 19",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 19 - Replacement contracts\n\n(1) A contract made on or after 1 October 2012 that replaces a contract made before that date (an \"earlier contract\") is taken, for the purposes of Part 2 of this Act, as in force immediately before its amendment by the State Revenue and Other Legislation Amendment (Budget Measures) Act 2012 -- (a) to have been made on the date the earlier contract was made, and (b) to have a commencement date that is the date the earlier contract was made. (2) A contract replaces another contract if the Chief Commissioner is satisfied the contract made at the earlier date was a contract for the purchase of the same home or a comprehensive home building contract to build the same or a substantially similar home. Note : Under section 13 (3A), the above transaction is not an eligible transaction. As a result of this transitional provision the transaction may still be eligible for the grant that was payable before 1 October 2012. Part 12 - Provisions consequent on enactment of State Revenue and Other Legislation Amendment (Budget Measures) Act 2014 20 Change to first home owner grant cap (1) The amendment to section 13A made by the State Revenue and Other Legislation Amendment (Budget Measures) Act 2014 does not apply in respect of an eligible transaction that has a commencement date that is before 1 July 2014. (2) Section 13A, as in force immediately before the amendment, continues to apply in respect of such an eligible transaction. (3) Section 13A, as in force immediately before the amendment, also applies to an eligible transaction with a commencement date on or after 1 July 2014 if the Chief Commissioner is satisfied that-- (a) the contract concerned replaces a contract made before 1 July 2014, and (b) the replaced contract was a contract for the purchase of the same home or a comprehensive home building contract to build the same or a substantially similar home. Part 13 - Provisions consequent on enactment of State Revenue Legislation Amendment Act 2016 21 Application of amendment (1) The amendment to section 4A made by the State Revenue Legislation Amendment Act 2016 extends to an application for a first home owner grant made before the commencement of that amendment that, immediately before that commencement, had not been finally determined. (2) For the purposes of this clause, an application is not finally determined if-- (a) any period for bringing an appeal as of right against a decision in respect of the application has not expired (ignoring any period that may be available by way of extension of time to appeal), or (b) any appeal against the decision is pending (whether or not it is an appeal brought as of right). (3) In this clause, a reference to an appeal includes a reference to an administrative review by the Civil and Administrative Tribunal under the Administrative Decisions Review Act 1997. Part 14 - Provisions consequent on enactment of State Revenue and Other Legislation Amendment (Budget Measures) Act 2017 22 Changes to eligibility cap (1) This Act, as in force immediately before its amendment by the State Revenue and Other Legislation Amendment (Budget Measures) Act 2017 continues to apply in respect of an eligible transaction that has a commencement date that is before 1 July 2017. (2) This Act, as in force immediately before the amendment, also applies to an eligible transaction with a commencement date on or after 1 July 2017 if the Chief Commissioner is satisfied that-- (a) the contract concerned replaces a contract made before 1 July 2017, and (b) the replaced contract was a contract for the purchase of the same home or a comprehensive home building contract to build the same or a substantially similar home. Part 15 - Provision consequent on Revenue, Fines and Other Legislation Amendment Act 2023 23 Validation of payments into NSW Shared Equity Scheme Fund (1) Payments, before the commencement, of amounts into the Fund by the Department of Customer Service that in total constituted the relevant amount are taken to have been, and always to have been, validly made. (2) To avoid doubt, the payment, before the commencement, of an amount out of the Fund that constituted part of the relevant amount is taken to have been, and always to have been, validly made. (3) In this clause-- \"commencement\" means the commencement of this clause. \"Fund\" has the same meaning as in Part 2A of this Act. \"relevant amount\" means the amount of $42,077,194 transferred from the Treasury to the Department of Customer Service under the Treasurer's determination. \"Treasurer's determination\" means the determination of the Treasurer under"
+    },
+    {
+      "key": "schedule:1.part:2.section:19.p2",
+      "title": "Schedule 1 Section 19 - Replacement contracts",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "19",
+      "main_structural_unit_heading": "Replacement contracts",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 2 of this Act, as in force immediately before its amendment by the State > Section 19",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 19 - Replacement contracts\n\nbeen, and always to have been, validly made. (2) To avoid doubt, the payment, before the commencement, of an amount out of the Fund that constituted part of the relevant amount is taken to have been, and always to have been, validly made. (3) In this clause-- \"commencement\" means the commencement of this clause. \"Fund\" has the same meaning as in Part 2A of this Act. \"relevant amount\" means the amount of $42,077,194 transferred from the Treasury to the Department of Customer Service under the Treasurer's determination. \"Treasurer's determination\" means the determination of the Treasurer under the Government Sector Finance Act 2018, section 4.9, dated 31 January 2023, authorising the transfer of amounts from the Treasury to the Department of Customer Service. FIRST HOME OWNER GRANT AND SHARED EQUITY ACT 2000 - NOTES Does not include amendments by-- State Debt Recovery Act"
+    },
+    {
+      "key": "schedule:1.part:15.section:2018.p1",
+      "title": "Schedule 1 Section 2018 - No 11 (amended by Revenue Legislation Further Amendment",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2018",
+      "main_structural_unit_heading": "No 11 (amended by Revenue Legislation Further Amendment",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 15 - Provision consequent on Revenue, Fines and Other Legislation > Section 2018",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 2018 - No 11 (amended by Revenue Legislation Further Amendment\n\nAct 2024 No 90), Sch 3.3 (not commenced) FIRST HOME OWNER GRANT AND SHARED EQUITY ACT 2000 - NOTES Historical notes Table of amending instrumentsFirst Home Owner Grant and Shared Equity Act 2000 No 21 (formerly First Home Owner Grant Act 2000 and First Home Owner Grant (New Homes) Act 2000). Assented to 30.5.2000. Date of commencement, 1.7.2000, sec 2. This Act has been amended as follows-- _____________________________________________________________________________ || | |State Revenue Legislation | || | |Further Amendment Act 2000. Assented to 13.12.2000. | ||2000|No 105| | || | |Date of commencement of Sch 2 [1], 1.7.2000, sec 2 (2); date of | |_____________________________________________________________________________| || | |First Home Owner Grant | ||2001|No 25 |Amendment Act 2001. Assented to 19.6.2001. | || | | | |_____________________________________________________________________________| || | |First Home Owner Grant | ||2002|No 9 |Amendment Act 2002. Assented to 22.4.2002. | || | | | |_____________________________________________________________________________| || | |Law Enforcement (Powers and | || | |Responsibilities) Act 2002. Assented to 29.11.2002. | || |No 103| | || | |Date of commencement of Sch 4, 1.12.2005, sec 2 and GG No 45 of | |_____________________________________________________________________________| || | |State Revenue Legislation | ||2003|No 80 |Further Amendment Act 2003. Assented to 27.11.2003. | || | | | |_____________________________________________________________________________| || | |Statute Law (Miscellaneous | || |No 82 |Provisions) Act (No 2) 2003. Assented to 27.11.2003. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | ||2005|No 111|Further Amendment Act 2005. Assented to 7.12.2005. | || | | | |_____________________________________________________________________________| || | |Miscellaneous Acts (Local | || | |Court) Amendment Act 2007. Assented to 13.12.2007. | ||2007|No 94 | | || | |Date of commencement of Sch 4, 6.7.2009, sec 2 and 2009 (314) LW| |_____________________________________________________________________________| || | |State Revenue Legislation | ||2008|No 67 |Amendment Act 2008. Assented to 2.7.2008. | || | | | |_____________________________________________________________________________| || | |State Revenue and Other | || | |Legislation Amendment (Budget Measures) Act 2008. Assented to | || |No 122|10.12.2008. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | ||2009|No 46 |Amendment Act 2009. Assented to 26.6.2009. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | || |No 51 |Further Amendment Act 2009. Assented to 26.6.2009. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | || | |Amendment (Defence Force Concessions) Act 2009. Assented to | || |No 76 |3.11.2009. | || | | | || | |Date of commencement, the day on which the Bill for this Act was| |_____________________________________________________________________________| || | |Relationships Register Act | ||2010|No 19 |2010. Assented to 19.5.2010. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | || |No 118|Further Amendment Act 2010. Assented to 29.11.2010. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | ||2011|No 50 |Amendment Act 2011. Assented to 25.10.2011. | || | | | |_____________________________________________________________________________| || | |State Revenue and Other | || | |Legislation Amendment (Budget Measures) Act 2012. Assented to | ||2012|No 46 |25.6.2012. | || | | | |_____________________________________________________________________________| || | |State Revenue and Other | || | |Legislation Amendment (Budget Measures) Act 2013. Assented to | ||2013|No 50 |26.6.2013. | || | | | |_____________________________________________________________________________| || | |Civil and Administrative | || | |Legislation (Repeal and Amendment) Act 2013. Assented to | || |No 95 |20.11.2013. | || | | | |_____________________________________________________________________________| || | |State Revenue and Other | || | |Legislation Amendment (Budget Measures) Act 2014. Assented to | ||2014|No 37 |24.6.2014. | || | | | |_____________________________________________________________________________| || | |Regulatory Reform and Other | || | |Legislative Repeals Act 2015. Assented to 5.11.2015. | ||2015|No 48 | | || | |Date of commencement of Sch 1, 1.3.2016, sec 2 (2) and 2015 | |_____________________________________________________________________________| || | |State Revenue Legislation | ||2016|No 14 |Amendment Act 2016. Assented to 11.5.2016. | || | | | |_____________________________________________________________________________| || | |State Revenue Legislation | ||2017|No 11 |Amendment Act 2017. Assented to 11.4.2017. | || | | | |_____________________________________________________________________________| || | |State Revenue and Other | || | |Legislation Amendment (Budget Measures) Act 2017. Assented to | || |No 33 |27.6.2017. | || | | | |_____________________________________________________________________________| || | |Electoral Act | || | |2017. Assented to 30.11.2017. | || |No 66 | | || | |Date of commencement, 1.7.2018, sec 2 and 2018 (302) LW | |_____________________________________________________________________________| || | |State Revenue and Fines Legislation | ||2022|No 16 |Amendment (Miscellaneous) Act 2022. Assented to 19.5.2022. | || | | | |_____________________________________________________________________________| || | |Treasury and Energy Legislation | || |No 63 |Amendment Act 2022. Assented to 14.11.2022. | || | | | |_____________________________________________________________________________| || | |First Home Buyer"
+    },
+    {
+      "key": "schedule:1.part:15.section:2018.p2",
+      "title": "Schedule 1 Section 2018 - No 11 (amended by Revenue Legislation Further Amendment",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2018",
+      "main_structural_unit_heading": "No 11 (amended by Revenue Legislation Further Amendment",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 15 - Provision consequent on Revenue, Fines and Other Legislation > Section 2018",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 2018 - No 11 (amended by Revenue Legislation Further Amendment\n\nAct 2017. Assented to | || |No 33 |27.6.2017. | || | | | |_____________________________________________________________________________| || | |Electoral Act | || | |2017. Assented to 30.11.2017. | || |No 66 | | || | |Date of commencement, 1.7.2018, sec 2 and 2018 (302) LW | |_____________________________________________________________________________| || | |State Revenue and Fines Legislation | ||2022|No 16 |Amendment (Miscellaneous) Act 2022. Assented to 19.5.2022. | || | | | |_____________________________________________________________________________| || | |Treasury and Energy Legislation | || |No 63 |Amendment Act 2022. Assented to 14.11.2022. | || | | | |_____________________________________________________________________________| || | |First Home Buyer Legislation Amendment | ||2023|No 4 |Act 2023. Assented to 8.6.2023. | || | | | |_____________________________________________________________________________| || | |Revenue, Fines and Other Legislation | || |No 18 |Amendment Act 2023. Assented to 4.9.2023. | || | | | |_____________________________________________________________________________| || | |Help to Buy (Commonwealth | || | |Powers) Act 2025. Assented to 11.6.2025. | ||2025|No 31 | | || | |Date of commencement, 3.12.2025, sec 2 and 2025 (651) LW | |_____________________________________________________________________________| || | |Revenue and Other Legislation | || |No 37 |Amendment Act 2025. Assented to 1.7.2025. | || | | | |_____________________________________________________________________________| Table of amendments _____________________________________________________________________________ |_____________________________________________________________________________| ||Sec 1 |Am 2012 No 46, Sch 2 [1]; 2022 No 63, Sch| |_____________________________________________________________________________| || |Am 2000 No 105, Sch 2 [1]; 2003 No 80, | || |Sch 3 [1]; 2005 No 111, Sch 2 [1]; 2009 | ||Sec 3 |No 51, Sch 3 [1] [2]; 2009 No 76, Sch 1 | || |[1]; 2010 No 19, Sch 3.39 [1]; 2012 No | |_____________________________________________________________________________| ||Sec 4A |Ins 2012 No 46, Sch 2 [3]. Am 2016 No 14,| |_____________________________________________________________________________| ||Sec 5 |Am 2003 No 80, Sch 3 [2]; 2008 No 67, Sch| |_____________________________________________________________________________| ||Sec 6 |Am 2009 No 51, Sch 3 [3] [4]; 2010 No 19,| |_____________________________________________________________________________| ||Sec 6A |Ins 2003 No 80, Sch 3 [3]. Am 2012 No 46,| |_____________________________________________________________________________| || |Am 2001 No 25, Sch 1 [1]; 2009 No 51, Sch| ||Sec 7 |3 [5]; 2009 No 76, Sch 1 [2]; 2017 No 33,| |_____________________________________________________________________________| ||Sec 8A |Ins 2001 No 25, Sch 1 [2]. Am 2005 No | |_____________________________________________________________________________| ||Sec 11 |Am 2003 No 80, Sch 3 [4]; 2005 No 111, | |_____________________________________________________________________________| ||Sec 12 |Am 2003 No 80, Sch 3 [5] [6]. Subst 2005 | |_____________________________________________________________________________| || |Am 2001 No 25, Sch 1 [3]; 2003 No 80, Sch| ||Sec 13 |3 [7]; 2012 No 46, Sch 2 [5] [6]; 2022 No| |_____________________________________________________________________________| ||Sec 13AA |Ins 2017 No 33, Sch 1.2 [4]. Am 2022 No | |_____________________________________________________________________________| || |Ins 2001 No 25, Sch 1 [4]. Subst 2002 No | || |9, Sch 1 [1]. Rep 2008 No 122, Sch 2 [1].| || |Ins 2009 No 51, Sch 3 [7]. Am 2010 No | ||Sec 13A |118, Sch 2 [1]; 2012 No 46, Sch 2 [7] | || |[8]; 2014 No 37, Sch 2 [1] [2]. Subst | || |2017 No 33, Sch 1.2 [5]. Am 2022 No 16, | |_____________________________________________________________________________| ||Sec 13B |Ins 2009 No 51, Sch 3 [7]. Am 2017 No 33,| |_____________________________________________________________________________| || |Am 2000 No 105, Sch 2 [2]; 2003 No 80, | ||Sec 15 |Sch 3 [8]; 2008 No 67, Sch 2 [4] [5]; | |_____________________________________________________________________________| || |Am 2001 No 25, Sch 1 [5]; 2002 No 9, Sch | || |1 [2]. Subst 2008 No 122, Sch 2 [2]. Am | ||Sec 18 |2009 No 51, Sch 3 [8]-[11]. Subst 2012 No| || |46, Sch 2 [9]. Am 2013 No 50, Sch 2; 2022| |_____________________________________________________________________________| || |Ins 2002 No 9, Sch 1 [3]. Subst 2008 No | ||Sec 18A |122, Sch 2 [2]. Am 2009 No 51, Sch 3 | |_____________________________________________________________________________| || |Ins 2008 No 122, Sch 2 [2]. Am 2009 No | ||Sec 18B |51, Sch 3 [15]. Rep 2012 No 46, Sch 2 | |_____________________________________________________________________________| || |Ins 2008 No 122, Sch 2 [2]. Am 2009 No | ||Sec 18C |46, Sch 2 [1]-[3]. Rep 2012 No 46, Sch 2 | |_____________________________________________________________________________| || |Am 2003 No 80, Sch 3 [9]; 2009 No 51, Sch| ||Sec 20 |3 [16]; 2017 No 33, Sch 1.2 [8]; 2022 No | |_____________________________________________________________________________| ||Sec 24H |Ins 2022 No 63, Sch 2[2]. Am 2023 No 18, | |_____________________________________________________________________________| ||Part 2, Div 6 |Renumbered as Part 2B, 2022 No 63, Sch 2 | |_____________________________________________________________________________| ||Sec 25 |Am 2001 No 25, Sch 1 [6]; 2005 No 111, | |_____________________________________________________________________________| ||Sec 28 |Am 2001 No 25, Sch 1 [8] [9]; 2013 No 95,| |_____________________________________________________________________________| || |Ins 2009 No 51, Sch 3 [18]. Am 2015 No | ||Sec 36A |48, Sch 1.13 [1] [2]; 2022 No"
+    },
+    {
+      "key": "schedule:1.part:15.section:2018.p3",
+      "title": "Schedule 1 Section 2018 - No 11 (amended by Revenue Legislation Further Amendment",
+      "main_structural_unit": "section",
+      "main_structural_unit_number": "2018",
+      "main_structural_unit_heading": "No 11 (amended by Revenue Legislation Further Amendment",
+      "defined_term": null,
+      "structure_path": "Schedule 1 > Part 15 - Provision consequent on Revenue, Fines and Other Legislation > Section 2018",
+      "schedule_id": "1",
+      "schedule_heading": "SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)",
+      "text": "Schedule 1 - SCHEDULE 1 - Savings, transitional and other provisions (Section 52A)\n\nSection 2018 - No 11 (amended by Revenue Legislation Further Amendment\n\n2009 No 51, Sch| ||Sec 20 |3 [16]; 2017 No 33, Sch 1.2 [8]; 2022 No | |_____________________________________________________________________________| ||Sec 24H |Ins 2022 No 63, Sch 2[2]. Am 2023 No 18, | |_____________________________________________________________________________| ||Part 2, Div 6 |Renumbered as Part 2B, 2022 No 63, Sch 2 | |_____________________________________________________________________________| ||Sec 25 |Am 2001 No 25, Sch 1 [6]; 2005 No 111, | |_____________________________________________________________________________| ||Sec 28 |Am 2001 No 25, Sch 1 [8] [9]; 2013 No 95,| |_____________________________________________________________________________| || |Ins 2009 No 51, Sch 3 [18]. Am 2015 No | ||Sec 36A |48, Sch 1.13 [1] [2]; 2022 No 63, Sch 2 | |_____________________________________________________________________________| ||Sec 43A |Ins 2009 No 76, Sch 1 [3]. Am 2017 No 66,| |_____________________________________________________________________________| ||Sec 44 |Am 2002 No 9, Sch 1 [4]; 2022 No 63, Sch | |_____________________________________________________________________________| || |Am 2009 No 51, Sch 3 [19]; 2011 No 50, | ||Sec 46 |Sch 2 [1]-[3]; 2022 No 63, Sch 2[17]- | |_____________________________________________________________________________| || |Am 2009 No 51, Sch 3 [20]; 2017 No 11, | ||Sec 47 |Sch 4.1; 2022 No 63, Sch 2[20]; 2025 No | |_____________________________________________________________________________| ||Sec 49 |Am 2007 No 94, Sch 4; 2008 No 67, Sch 2 | |_____________________________________________________________________________| || |Ins 2001 No 25, Sch 1 [11]. Am 2002 No 9,| || |Sch 1 [6] [7]; 2003 No 80, Sch 3 [10] | || |[11]; 2005 No 111, Sch 2 [7] [8]; 2008 No| || |67, Sch 2 [7] [8]; 2008 No 122, Sch 2 [4]| || |[5]; 2009 No 46, Sch 2 [4]; 2009 No 51, | ||Sch 1 |Sch 3 [21] [22]; 2009 No 76, Sch 1 [4]; | || |2010 No 118, Sch 2 [2] [3]; 2011 No 50, | || |Sch 2 [4] [5]; 2012 No 46, Sch 2 [11] | || |[12]; 2014 No 37, Sch 1 [3]; 2016 No 14, | || |Sch 2 [2]; 2017 No 33, Sch 1.2 [9]; 2023 | |_____________________________________________________________________________|"
+    }
+  ]
+}

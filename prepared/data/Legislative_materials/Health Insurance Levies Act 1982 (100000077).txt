@@ -6,72 +6,74 @@ Downloaded: https://classic.austlii.edu.au/cgi-bin/download.cgi/cgi-bin/download
 When scraped: 2025-12-30T00:36:52.501937Z
 
 HEALTH INSURANCE LEVIES ACT 1982
- 
- 
 - As at 27 May 2024
- 
 - Act 159 of 1982
- 
- 
- 
- 
- 
-
-Section 1
-Name of Act
- 
- 
-1 Name of Act
-This Act may be cited as the Health Insurance Levies Act 1982.
- 
-
+TABLE OF PROVISIONS
+PART 1 - PRELIMINARY
+Section 1. Name of Act
+Section 2. Commencement
+Section 3. Taxation Administration Act 1996
+Section 4. Definitions
+Section 5. Crown bound
+PART 2 - (Repealed)
+None
+PART 3 - LEVIES
+Section 10. Monthly levy payable
+Section 10A. Calculation of monthly levy
+Section 11. Requirement to furnish a monthly return
+Section 11A. Assessment of monthly levy by organisations in certain circumstances
+Section 12-15. (Repealed)
+Section 16. Adjustment of prescribed rate
+PART 3A - STATE AMBULANCE INSURANCE PLAN
+Section 16A. Establishment of plan
+Section 16B. Contributors
+Section 16C. Authorised agents
+Section 16D. Commission for authorised agents
+Section 16E. Amount of contribution
+Section 16F. Remittance of contributions by authorised agents
+Section 16G. Annual adjustment
+Section 16H. Regulations
+PART 4 - EXEMPTION FROM AMBULANCE FEES
+Section 17. Exemption from ambulance fees
+Section 18. Declarations
+PART 5 - MISCELLANEOUS
+Section 19. Records to be kept
+Section 20-24. (Repealed)
+Section 25. Transitional provisions
+Section 26. Regulations
+Schedule 1 (Repealed)
+SCHEDULE 2
+SCHEDULE 3
 HEALTH INSURANCE LEVIES ACT 1982
-Section 2
-Commencement
- 
- 
-2 Commencement
+- LONG TITLE
+An Act to impose a levy on organisations carrying on health benefits business
+in New South Wales; to make provision to free contributors to health benefits
+funds and other persons from ambulance fees; and for other purposes.
+Section 1 Name of Act
+This Act may be cited as the Health Insurance Levies Act 1982.
+Section 2 Commencement
      (1) Sections 1 and 2 shall commence on the date of assent to this
      Act.
      (2) Except as provided by subsection (1), this Act shall commence on
      1 January 1983.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 3
-Taxation Administration Act 1996
- 
- 
-3 Taxation Administration Act 1996
+Section 3 Taxation Administration Act 1996
 This Act is to be read together with the Taxation Administration Act 1996 which
 makes provision for the administration and enforcement of this Act and other
 taxation laws.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 4
-Definitions
- 
- 
-4 Definitions
+Section 4 Definitions
      (1) In this Act, except in so far as the content or subject-matter
      otherwise indicates or requires:
-
      "ambulance service" means a service related to the work of rendering
      first aid to, and the transport of, sick and injured persons, but
      does not include a service of a class prescribed for the purposes of
      this definition.
-
      "authorised agent" means an authorised agent under section 16C.
-
      "basic health benefits" means those benefits payable to a contributor
      by an organisation in accordance with an applicable benefits
      arrangement (within the meaning of the Private Health Insurance Act
      2007 of the Commonwealth) of the organisation.
-
      "Chief Commissioner" means the Chief Commissioner of State Revenue
      referred to in section 60 of the Taxation Administration Act 1996.
-
      "contributor" means:
           (a) in relation to a health benefits fund conducted by an
           organisation, a person who is a contributor to that fund in
@@ -83,19 +85,14 @@ Definitions
           (b) in relation to the State Ambulance Insurance Plan, a
           person who is a member of that Plan in accordance with the
           provisions of or made under this Act.
-
      "health benefits fund" means a fund out of which an organisation
      makes payments to contributors for periods of accommodation and
      maintenance in hospitals, and for surgical, therapeutic or other
      medical or health treatment, service or procedure in hospitals.
-
      "levy" means a monthly levy or an additional levy under this Act.
-
      "month" means any of the 12 months of the year.
-
      "organisation" means a society, body or group of persons, whether
      corporate or unincorporate, which conducts a health benefits fund.
-
      "prescribed rate" means:
           (a) for January 1983--40 cents,
           (b) for any month thereafter in 1983--70 cents,
@@ -106,15 +103,12 @@ Definitions
           (e) for July 1997 and for any month thereafter--83 cents,
           as adjusted from time to time in accordance with Schedule
           2.
-
      "record" means:
           (a) a documentary record, or
           (b) a record made by an electronic, electromagnetic,
           photographic or optical process, or
           (c) any other kind of record.
-
      "regulations" means regulations under this Act.
-
      "State Ambulance Insurance Plan" means the State Ambulance Insurance
      Plan established by section 16A.
      (2) An organisation shall, for the purposes of this Act, be deemed to
@@ -131,57 +125,29 @@ Definitions
           conducted by it are permanently resident in New South
           Wales.
      (3) Notes included in this Act do not form part of this Act.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 5
-Crown bound
- 
- 
-5 Crown bound
+Section 5 Crown bound
 This Act binds the Crown not only in right of New South Wales but also, so far
 as the legislative power of Parliament permits, the Crown in all its other
 capacities.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 10
-Monthly levy payable
- 
- 
-10 Monthly levy payable
+Section 10 Monthly levy payable
 An organisation which, on the first day in any month, carries on the business
 in New South Wales of providing health benefits to contributors is liable to
 pay to the Chief Commissioner, on or before the 15th day of that month, the
 monthly levy calculated in accordance with section 10A.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 10A
-Calculation of monthly levy
- 
- 
-10A Calculation of monthly levy
+Section 10A Calculation of monthly levy
      (1) The monthly levy for a month is the amount calculated in
      accordance with the following formula:
-
           "L" is the monthly levy in dollars.
-
           "S" is the number of single contributors at the beginning
           of the month.
-
           "F" is the number of contributing families at the beginning
           of the month.
-
           "C" is the prescribed rate in force during the month.
-
           "D" is the number of days in the month.
      (2) In subsection (1):
-
      "contributing family" means a family or group whose members are
      contributors with respect to a health benefits fund by virtue of a
      single policy of insurance.
-
      "single contributor" means a contributor who is not a member of a
      contributing family.
      (3) In determining the values of S and F in the formula given in
@@ -208,14 +174,7 @@ Calculation of monthly levy
      are not to be counted.
      (4) If a monthly levy comprises, in addition to a number of dollars,
      a number of cents, the number of cents is to be disregarded.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 11
-Requirement to furnish a monthly return
- 
- 
-11 Requirement to furnish a monthly return
+Section 11 Requirement to furnish a monthly return
 Any organisation which carries on the business in New South Wales of providing
 health benefits to contributors shall furnish, together with each monthly levy
 under section 10, a return in a form approved by the Chief Commissioner.
@@ -224,14 +183,7 @@ under section 10, a return in a form approved by the Chief Commissioner.
      an executive liability offence attracting executive liability for a
      director or other person involved in the management of the
      corporation--see section 121 of the Taxation Administration Act 1996.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 11A
-Assessment of monthly levy by organisations in certain circumstances
- 
- 
-11A Assessment of monthly levy by organisations in certain circumstances
+Section 11A Assessment of monthly levy by organisations in certain circumstances
      (1) If an organisation is liable to pay a monthly levy under section
      10 but is unable to determine accurately the number of contributors
      for the purpose of calculating the amount of the levy, the
@@ -245,33 +197,12 @@ Assessment of monthly levy by organisations in certain circumstances
           and the amount of the monthly levy, and
           (b) must pay any additional amount required or it may apply
           for a refund if the amount paid exceeds the monthly levy.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16
-Adjustment of prescribed rate
- 
- 
-16 Adjustment of prescribed rate
+Section 16 Adjustment of prescribed rate
 Schedule 2 has effect.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16A
-Establishment of plan
- 
- 
-16A Establishment of plan
+Section 16A Establishment of plan
 There is hereby established, for the purposes of this Act, a State Ambulance
 Insurance Plan.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16B
-Contributors
- 
- 
-16B Contributors
+Section 16B Contributors
      (1) Any person who is not:
           (a) a contributor to a health benefits fund conducted by an
           organisation to which section 10 applies, or
@@ -289,18 +220,10 @@ Contributors
      of the Health Insurance Act 1973 of the Commonwealth) in relation to
      the person.
      (4) In this section:
-
      "spouse" of a person includes a de facto partner of that person.
           Note : "De facto partner" is defined in section 21C of the
           Interpretation Act 1987.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16C
-Authorised agents
- 
- 
-16C Authorised agents
+Section 16C Authorised agents
      (1) In this section,
      "prescribed organisation" means:
           (a) N.I.B. Health Funds Limited, and
@@ -335,14 +258,7 @@ Authorised agents
      exercised in relation to an organisation under a changed name as if
      the organisation, under that changed name, were referred to in
      subsection (1).
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16D
-Commission for authorised agents
- 
- 
-16D Commission for authorised agents
+Section 16D Commission for authorised agents
      (1) An authorised agent which collects contributions from
      contributors to the State Ambulance Insurance Plan is entitled to a
      commission on contributions, being such amount as may be determined
@@ -350,14 +266,7 @@ Commission for authorised agents
      the Minister, and notified in writing to the authorised agent.
      (2) An amount determined under subsection (1) may differ according to
      such factors as are specified in the determination.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16E
-Amount of contribution
- 
- 
-16E Amount of contribution
+Section 16E Amount of contribution
      (1) The amount of weekly contribution (including commission) required
      to be paid for membership of the State Ambulance Insurance Plan shall
      be:
@@ -372,44 +281,24 @@ Amount of contribution
      ceases to be a member of the State Ambulance Insurance Plan.
      (3) Contributions under the State Ambulance Insurance Plan are not
      payable in respect of any period before 1 February 1984.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16F
-Remittance of contributions by authorised agents
- 
- 
-16F Remittance of contributions by authorised agents
+Section 16F Remittance of contributions by authorised agents
 An authorised agent must, on or before the 15th day of each month:
      (a) lodge a return with the Chief Commissioner, in a form approved by
      the Chief Commissioner, for that month, and
      (b) pay to the Chief Commissioner an amount calculated in accordance
      with the following formula:
-
           "A" is the amount in dollars to be paid to the Chief
           Commissioner.
-
           "S" is the number of contributors to single membership at
           the beginning of the month.
-
           "F" is the number of contributors to family membership at
           the beginning of the month.
-
           "C" is the prescribed rate in force during the month.
-
           "D" is the number of days in the month.
-
           "E" is the authorised agent's commission (determined in
           accordance with section 16D) on contributions for the
           month.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16G
-Annual adjustment
- 
- 
-16G Annual adjustment
+Section 16G Annual adjustment
      (1) If the amount paid to the Chief Commissioner by an authorised
      agent under section 16F for a year exceeds the actual amount payable
      by the authorised agent for that year, the authorised agent may apply
@@ -422,32 +311,16 @@ Annual adjustment
      authorised agent is required to lodge a return for the first month of
      the next year.
      (3) In this section:
-
      "actual amount payable" for a year means the total of all
      contributions to the State Ambulance Insurance Plan for the year
      collected by an authorised agent, less the total of all commission
      deducted from those contributions by the authorised agent in
      accordance with section 16D.
-
      "year" has the same meaning as it has in Schedule 2.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 16H
-Regulations
- 
- 
-16H Regulations
+Section 16H Regulations
 The regulations may make provision for or with respect to the conduct and
 operation of the State Ambulance Insurance Plan.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 17
-Exemption from ambulance fees
- 
- 
-17 Exemption from ambulance fees
+Section 17 Exemption from ambulance fees
      (2) Notwithstanding anything to the contrary in Chapter 5A of the
      Health Services Act 1997, no fee shall be payable by a person in
      respect of an ambulance service provided to the person in pursuance
@@ -462,49 +335,21 @@ Exemption from ambulance fees
           Insurance) Act 1942.
      (4) Nothing in this section shall be construed as conferring on a
      person any entitlement to the provision of an ambulance service.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 18
-Declarations
- 
- 
-18 Declarations
+Section 18 Declarations
 A person is, notwithstanding section 17, liable for payment in respect of an
 ambulance service referred to in section 17 (2) unless a declaration is made by
 or on behalf of the person in or to the effect of the form approved by the
 Health Administration Corporation constituted by the Health Administration Act
 1982.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 19
-Records to be kept
- 
- 
-19 Records to be kept
+Section 19 Records to be kept
 An organisation which carries on the business in New South Wales of providing
 health benefits to contributors shall:
      (a) keep such records as may be prescribed containing such
      particulars as may be prescribed relating to that business, and
      Maximum penalty: 50 penalty units.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 25
-Transitional provisions
- 
- 
-25 Transitional provisions
+Section 25 Transitional provisions
 Schedule 3 has effect.
- 
-
-HEALTH INSURANCE LEVIES ACT 1982
-Section 26
-Regulations
- 
- 
-26 Regulations
+Section 26 Regulations
      (1) The Governor may make regulations, not inconsistent with this
      Act, for or with respect to any matter that by this Act is required
      or permitted to be prescribed or that is necessary or convenient to
@@ -520,23 +365,17 @@ Regulations
      or may do any combination of those things.
      (3) A regulation may impose a penalty not exceeding 20 penalty units
      for an offence against the regulation.
- 
-
 HEALTH INSURANCE LEVIES ACT 1982
 - SCHEDULE 2
- 
- 
 SCHEDULE 2 - Adjustment of prescribed rate
 (Section 16)
-1 Definitions
+Section 1 Definitions
      (1) In this Schedule, except in so far as the context or subject-
      matter otherwise indicates or requires:
-
      "adjustment percentage", in relation to a year, means (subject to
      clauses 2 (2) and 3 (1) (b)) the percentage for that year, calculated
      in accordance with clause 2 or specified pursuant to clause 3 (1)
      (a).
-
      "year" means:
           (a) the period commencing on and including 1 February 1984
           and ending on and including 31 January 1985, or
@@ -566,7 +405,7 @@ SCHEDULE 2 - Adjustment of prescribed rate
      reference to 1 April in that year or such later date in that year as
      the Governor determines by order published in that Gazette before 1
      April in that year.
-2 Calculation of adjustment percentage
+Section 2 Calculation of adjustment percentage
      (1) For the purposes of the definition of
      "adjustment percentage" in clause 1 (1), the percentage for a year
      (referred to in this clause as the
@@ -631,7 +470,7 @@ SCHEDULE 2 - Adjustment of prescribed rate
           calculated in accordance with estimates made having regard
           to, and by reference to, such relevant information as was
           reasonably available.
-3 Governor may specify a different percentage
+Section 3 Governor may specify a different percentage
      (1) Subject to this clause, the Governor may, by regulation:
           (a) specify a percentage for a year, by way of increase or
           reduction as specified therein, which shall for the
@@ -652,7 +491,7 @@ SCHEDULE 2 - Adjustment of prescribed rate
      have effect in respect of the adjustment percentage for a year unless
      it is published in the Gazette before the operative date in the
      following year.
-4 Adjustment of prescribed rate
+Section 4 Adjustment of prescribed rate
      (1) Subject to this Schedule, where there is an adjustment percentage
      for a year, the prescribed rate (as adjusted by the previous
      operation, if any, of this subclause) is hereby adjusted, on and from
@@ -679,31 +518,27 @@ SCHEDULE 2 - Adjustment of prescribed rate
           fraction shall be disregarded, and
           (b) which is greater than one-half of one cent--that
           fraction shall be treated as one cent.
-5 Chief Commissioner to publicise adjustments
+Section 5 Chief Commissioner to publicise adjustments
 Where there is an adjustment percentage for a year, the Chief Commissioner
 shall, before the operative date in the following year, publish in the Gazette
 a notice of the prescribed rate as adjusted in accordance with this Schedule on
 and from the operative date in the following year.
-6 Savings
+Section 6 Savings
 An adjustment of the prescribed rate in accordance with this Schedule does not
 affect the liability of any organisation to pay a monthly levy in respect of a
 month before the adjustment takes effect, in accordance with this Act, and that
 organisation is liable to pay any such levy in all respects as if that
 adjustment had not been made.
- 
-
 HEALTH INSURANCE LEVIES ACT 1982
 - SCHEDULE 3
- 
- 
 SCHEDULE 3 - Transitional provisions
 (Section 25)
 Part 1 - Provisions consequent on enactment of Health Insurance Levies Act 1982
-2 Due date for first levy
+Section 2 Due date for first levy
 The due date in accordance with section 10 for the payment of the monthly levy
 in respect of the month of January in 1983 shall, notwithstanding anything to
 the contrary in that section, be 31 January 1983.
-3 Exemption from fees--date of operation
+Section 3 Exemption from fees--date of operation
      (1) Section 17 (1) does not apply to out-patient services provided
      before 1 January 1983.
      (2) Section 17 (2) does not apply to ambulance services provided
@@ -777,7 +612,6 @@ Amendment Act 1999 6 Application of amendments
      the State Ambulance Insurance Plan received by an authorised agent
      before 1 February 2000.
      (4) In this clause:
-
      "amending Act" means the State Revenue Legislation Further Amendment
      Act 1999.
 Part 6 - Provision consequent on enactment of State Revenue Legislation
@@ -825,43 +659,23 @@ Amendment Act 2012 8 Adjustment of prescribed rate
      numbers referred to in subclause (2) in the same way as it applies to
      the amounts or numbers referred to in that Schedule.
      (4) This clause does not affect clause 2 (7) or 3 of Schedule 2.
- 
-
 HEALTH INSURANCE LEVIES ACT 1982
 - NOTES
- 
-
 Reprint history:
-Reprint No 1   29 March 1984  
-
-Reprint No 2   26 August 1991  
-
-Reprint No 3   1 December 1994  
-
-Reprint No 4   25 May 1999  
-
- 
-
+Reprint No 1   29 March 1984
+Reprint No 2   26 August 1991
+Reprint No 3   1 December 1994
+Reprint No 4   25 May 1999
 HEALTH INSURANCE LEVIES ACT 1982
 - NOTES
- 
-
 Historical notes
 The following abbreviations are used in the Historical notes:
-
  _____________________________________________________________________
-|_____________________________________________________________________|
-|_____________________________________________________________________|
-|_____________________________________________________________________|
-|_____________________________________________________________________|
-|_____________________________________________________________________|
-|_____________________________________________________________________|
 |_____________________________________________________________________|
 Table of amending instrumentsHealth Insurance Levies
 Act
-1982 No 159. Assented to 23.12.1982. Date of commencement, secs 1 and 2
+Section 1982 No 159. Assented to 23.12.1982. Date of commencement, secs 1 and 2
 excepted, 1.1.1983, sec 2. This Act has been amended as follows:
-
  _____________________________________________________________________________
 |    |      |Health Insurance Levies (Administration) Amendment               |
 |    |      |Act                                                              |
@@ -1027,11 +841,10 @@ excepted, 1.1.1983, sec 2. This Act has been amended as follows:
 |    |      |Reform and Other Legislative Repeals Act 2015 No                 |
 |_____________________________________________________________________________|
 Table of amendmentsNo reference is made to certain amendments made by Schedule
-3 (amendments replacing gender-specific language) to the Statute Law
+Section 3 (amendments replacing gender-specific language) to the Statute Law
 (Miscellaneous
 Provisions) Act
 1996.
-
  _____________________________________________________________________________
 |_____________________________________________________________________________|
 |Sec 3          |Am 1983 No 162, Schs 1 (2), 2 (1). Subst 1996 No 98, Sch 1.2 |
@@ -1042,9 +855,7 @@ Provisions) Act
 |               |1997 No 37, Sch 1; 1997 No 109, Sch 1.2; 1999 No 60, Sch 3 [1|
 |               |[#93]; 2005 No 51, Sch 3 [1[#93]; 2009 No 51, Sch 7.2 [1     |
 |_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |Sec 6          |Subst 1983 No 18, Sch 1 (2). Am 1985 No 222, Sch 1 (2); 1987 |
-|_____________________________________________________________________________|
 |_____________________________________________________________________________|
 |Sec 7          |Am 1983 No 18, Sch 1 (3); 1983 No 162, Schs 1 (4), 2 (3);    |
 |_____________________________________________________________________________|
@@ -1055,44 +866,27 @@ Provisions) Act
 |_____________________________________________________________________________|
 |Sec 10         |Am 1983 No 18, Sch 1 (4); 1983 No 162, Sch 1 (4). Subst 1992 |
 |_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |Sec 11         |Am 1983 No 162, Sch 1 (4); 1992 No 86, Sch 4 (5) (8); 1992 No|
-|_____________________________________________________________________________|
 |_____________________________________________________________________________|
 |               |Am 1983 No 18, Sch 1 (4); 1983 No 162, Sch 1 (4) (5); 1992 No|
 |Sec 12         |86, Sch 4 (3); 1994 No 48, Sch 4 (5). Rep 1996 No 98, Sch 1.2|
 |_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |Sec 15         |Am 1983 No 18, Sch 1 (4). Subst 1983 No 162, Sch 1 (6). Rep  |
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |_____________________________________________________________________________|
 |               |Ins 1983 No 162, Sch 2 (5). Am 2002 No 73, Sch 1.11; 2008 No |
 |Sec 16B        |67, Sch 3; 2009 No 51, Sch 7.2 [2[#93]; 2010 No 19, Sch 3.44 |
 |_____________________________________________________________________________|
 |Sec 16C        |Ins 1983 No 162, Sch 2 (5). Am 2005 No 51, Sch 3 [2[#93] [3  |
 |_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |Sec 16G        |Ins 1983 No 162, Sch 2 (5). Rep 1996 No 98, Sch 1.2 (8). Ins |
 |_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |Sec 17         |Am 1983 No 162, Schs 1 (8), 2 (6); 1987 No 79, Sch 1; 1990 No|
-|_____________________________________________________________________________|
 |_____________________________________________________________________________|
 |Sec 19         |Am 1983 No 162, Sch 1 (4); 1992 No 112, Sch 1; 1996 No 98,   |
 |_____________________________________________________________________________|
 |               |Am 1983 No 18, Sch 1 (4); 1983 No 162, Sch 1 (4). Subst 1987 |
 |Sec 20         |No 92, Sch 1 (3). Am 1987 No 209, Sch 43; 1992 No 57, Sch 1; |
 |               |1992 No 112, Sch 1; 1994 No 48, Sch 12. Rep 1996 No 98, Sch  |
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
-|_____________________________________________________________________________|
 |_____________________________________________________________________________|
 |               |Am 1983 No 18, Sch 1 (6); 1983 No 162, Sch 1 (10); 1986 No   |
 |Sch 2          |218, Sch 19; 2001 No 22, Sch 2; 2012 No 76, Sch [2[#93]-[10  |

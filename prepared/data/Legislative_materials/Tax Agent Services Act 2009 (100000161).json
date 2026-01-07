@@ -1,0 +1,1373 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/tasa2009197/",
+    "register_url": "https://www.legislation.gov.au/C2009A00013/latest/text",
+    "source": "Tax Agent Services Act 2009 (100000161).txt",
+    "filename": "Tax Agent Services Act 2009 (100000161).json",
+    "name": "Tax Agent Services Act 2009",
+    "citation": "Tax Agent Services Act 2009"
+  },
+  "chunks": [
+    {
+      "key": "section:1-1",
+      "title": "Section 1-1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-1",
+      "text": "This Act may be cited as the Tax Agent Services Act 2009."
+    },
+    {
+      "key": "section:1-5",
+      "title": "Section 1-5 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-5",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-5",
+      "text": "(1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.\nCommencement informationColumn 1Column 2Column 3Provision(s)CommencementDate/Details1.  Part 1 and anything in this Act not elsewhere covered by this tableThe day on which this Act receives the Royal Assent.26 March 20092.  Parts 2 to 5A single day to be fixed by Proclamation.A Proclamation must not specify a day that occurs before the day on which the Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009 receives the Royal Assent.However, if any of the provision(s) do not commence within the period of 9 months beginning on the day on which the Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009 receives the Royal Assent, they commence on the first day after the end of that period. If the provision(s) commence in this way, the Minister must announce by notice in the Gazette the day on which the provision(s) commenced.1 March 2010(see F2009L04314)3.  Sections 60-1 to 60-90The day on which this Act receives the Royal Assent.26 March 20094.  Sections 60-95 to 70-20At the same time as the provision(s) covered by table item 2.1 March 20105.  Sections 70-25 to 70-45The day on which this Act receives the Royal Assent.26 March 20096.  Sections 70-50 and 70-55At the same time as the provision(s) covered by table item 2.1 March 20107.  Part 8The day on which this Act receives the Royal Assent.26 March 2009\nNote: This table relates only to the provisions of this Act as originally passed by both Houses of the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.\n (2) Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act."
+    },
+    {
+      "key": "section:1-10",
+      "title": "Section 1-10 - Extension of Act to external Territories",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-10",
+      "main_structural_heading": "Extension of Act to external Territories",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-10",
+      "text": "This Act extends to every external Territory."
+    },
+    {
+      "key": "section:1-15",
+      "title": "Section 1-15 - General administration of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-15",
+      "main_structural_heading": "General administration of Act",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 1--Preliminary > Section 1-15",
+      "text": "The Board has the general administration of this Act.\nTable of Subdivisions\nSection 2-A Objects\nSection 2-B Guide\nTable of sections\nSection 2-5 Object"
+    },
+    {
+      "key": "section:2-5",
+      "title": "Section 2-5 - Object",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-5",
+      "main_structural_heading": "Object",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of this Act > Subdivision 2-A--Objects > Section 2-5",
+      "text": "(1) The object of this Act is to support public trust and confidence in the integrity of the tax profession and of the tax system by ensuring that *tax agent services are provided to the community in accordance with appropriate standards of professional and ethical conduct.\n (2) This is to be achieved by (among other things) providing for:\n (a) the registration and regulation, by a national Board, of entities that provide *tax agent services; and\n (b) a *Code of Professional Conduct for *registered tax agents and BAS agents; and\n (c) sanctions to discipline entities in relation to their conduct as a *registered tax agent or BAS agent; and\n (d) sanctions where tax agent services are provided otherwise than in accordance with this Act.\nTable of sections\nSection 2-10 General guide to each Part"
+    },
+    {
+      "key": "section:2-10",
+      "title": "Section 2-10 - General guide to each Part",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-10",
+      "main_structural_heading": "General guide to each Part",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 2--Overview of this Act > Subdivision 2-B--Guide > Section 2-10",
+      "text": "(1) You need to be registered to provide *tax agent services for a fee or to engage in other conduct connected with providing such services. Part 2 sets out the requirements for registration.\n (2) Once registered, you must comply with several requirements, in particular, the *Code of Professional Conduct. The Code is set out in Part 3.\n (3) Part 4 sets out the circumstances in which your registration can be terminated.\n (4) Part 5 provides for civil penalties aimed at ensuring your compliance with this Act.\n (5) Part 6 establishes the Tax Practitioners Board and sets out the Board&#39;s functions and powers. The Board may investigate breaches of this Act and has certain reporting obligations.\n (6) Part 7 contains miscellaneous provisions, mainly administrative and machinery provisions relating to the operation of this Act.\n (7) Part 8 contains the Dictionary, which sets out a list of most of the terms that are defined in this Act. It also sets out the meanings of some important concepts and rules on how to interpret this Act.\nTable of sections\nSection 3-5 When defined terms are identified\nSection 3-10 When defined terms are not identified"
+    },
+    {
+      "key": "section:3-5",
+      "title": "Section 3-5 - When defined terms are identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-5",
+      "main_structural_heading": "When defined terms are identified",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 3--Explanation of the use of defined terms > Section 3-5",
+      "text": "(1) Many of the terms used in this Act are defined in the Dictionary, starting at section  995-1, to the Income Tax Assessment Act 1997. However, some terms used in this Act are only defined in this Act.\nNote: Expressions in the Income Tax Assessment Act 1997 (other than the expression &quot;this Act&quot;) have the same meaning in this Act as well, see subsection  90-1(2).\n (2) Most defined terms in this Act and the Income Tax Assessment Act 1997 are identified by an asterisk at the start of the term: as in &quot;*BAS service&quot;."
+    },
+    {
+      "key": "section:3-10",
+      "title": "Section 3-10 - When defined terms are not identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-10",
+      "main_structural_heading": "When defined terms are not identified",
+      "defined_term": null,
+      "structure_path": "Part 1--INTRODUCTION > Division 3--Explanation of the use of defined terms > Section 3-10",
+      "text": "(1) Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.\n (2) Terms are not asterisked in the *Guides, headings or notes contained in this Act.\n (3) The term &quot;Board&quot; is not identified with an asterisk.\n (4) If a term used in the Income Tax Assessment Act 1997 is used in this Act and the term is not identified with an asterisk in that Act, the term is not identified with an asterisk in this Act.\nNote: For expressions in the Income Tax Assessment Act 1997 that are not identified with an asterisk, see subsection 2-15(3) of that Act.\nTable of Subdivisions\nSection 20-A Eligibility for registration\nSection 20-B Applying for registration\nSection 20-C Renewing registration"
+    },
+    {
+      "key": "section:20-1",
+      "title": "Section 20-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Section 20-1",
+      "text": "You must be registered to provide tax agent services for a fee or to engage in other conduct connected with providing such services. You will be eligible for registration if you are a fit and proper person and have appropriate qualifications and experience.If you are eligible and apply to the Tax Practitioners Board for registration as a registered tax agent or BAS agent, you will be registered for a period of at least 1 year. Your registration may be subject to conditions. You may seek to vary these conditions.Certain events, mainly relating to criminal convictions and bankruptcy, may affect your continued registration.You may also apply to have your registration renewed.\nTable of sections\nSection 20-5 Eligibility for registration as registered tax agent or BAS agent\nSection 20-10 Regulations may prescribe system regarding professional associations\nSection 20-15 Criteria for determining whether an individual is a fit and proper person"
+    },
+    {
+      "key": "section:20-5",
+      "title": "Section 20-5 - Eligibility for registration as registered tax agent or BAS agent",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-5",
+      "main_structural_heading": "Eligibility for registration as registered tax agent or BAS agent",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-A--Eligibility for registration > Section 20-5",
+      "text": "Individuals\n (1) An individual, aged 18 years or more, is eligible for registration as a *registered tax agent or BAS agent if the Board is satisfied that:\n (a) the individual is a fit and proper person; and\n (b) the individual meets the requirements prescribed by the regulations (including, but not limited to, requirements relating to qualifications and experience) in respect of registration as a registered tax agent or BAS agent; and\n (c) in the case of registration which is not a renewal--the individual maintains, or will be able to maintain, professional indemnity insurance that meets the Board&#39;s requirements; and\n (d) in the case of a renewal of registration--the individual:\n (i) maintains, at the time of applying for registration, professional indemnity insurance that meets the Board&#39;s requirements; and\n (ii) has completed continuing professional education that meets the Board&#39;s requirements.\nNote 1: An individual in the capacity of trustee of a trust can be registered: see section  70-15.\nNote 2: Subsection (4) provides for an exception to paragraph (1)(b) for pre -1988 tax agents and nominees.\nPartnerships\n (2) A partnership is eligible for registration as a *registered tax agent or BAS agent if the Board is satisfied that:\n (a) each partner who is an individual is:\n (i) aged 18 years or more; and\n (ii) a fit and proper person; and\n (b) if a company is a partner:\n (i) each director of the company is a fit and proper person; and\n (ii) the company is not under external administration; and\n (iii) the company has not been convicted of a *serious taxation offence or an offence involving fraud or dishonesty during the previous 5 years; and\n (c) the partnership has:\n (i) in the case of registration as a *registered tax agent--a sufficient number of individuals, being registered tax agents, to provide *tax agent services to a competent standard, and to carry out supervisory arrangements; or\n (ii) in the case of registration as a *registered BAS agent--a sufficient number of individuals, being registered tax agents or BAS agents, to provide *BAS services to a competent standard, and to carry out supervisory arrangements; and\n (d) in the case of registration which is not a renewal--the partnership maintains, or will be able to maintain, professional indemnity insurance that meets the Board&#39;s requirements; and\n (e) in the case of a renewal of registration--the partnership maintains, at the time of applying for registration, professional indemnity insurance that meets the Board&#39;s requirements.\nCompanies\n (3) A company is eligible for registration as a *registered tax agent or BAS agent if the Board is satisfied that:\n (a) each director of the company is a fit and proper person; and\n (b) the company is not under external administration; and\n (c) the company has not been convicted of a *serious taxation offence or an offence involving fraud or dishonesty during the previous 5 years; and\n (d) the company has:\n (i) in the case of registration as a *registered tax agent--a sufficient number of individuals, being registered tax agents, to provide *tax agent services to a competent standard and to carry out supervisory arrangements; or\n (ii) in the case of registration as a *registered BAS agent--a sufficient number of individuals, being registered tax agents or BAS agents, to provide *BAS services to a competent standard, and to carry out supervisory arrangements; and\n (e) in the case of registration which is not a renewal--the company maintains, or will be able to maintain, professional indemnity insurance that meets the Board&#39;s requirements; and\n (f) in the case of a renewal of registration--the company maintains, at the time of applying for registration, professional indemnity insurance that meets the Board&#39;s requirements.\nNote: A company in the capacity of trustee of a trust can be registered: see section  70-15.\nSpecial rule about pre-1988 tax agents\n (4) An individual is eligible for registration as a *registered tax agent even if the Board is not satisfied that the individual satisfies the requirements mentioned in paragraph (1)(b) if:\n (a) the individual was registered as a tax agent or as a nominee for the purposes of Part  VIIA of the Income Tax Assessment Act 1936 (as in force immediately before the commencement of item 7 of Schedule  1 to the Tax Agent Services (Transitional Provisions and Consequential Amendments) Act 2009) at both of the following times:\n (i) immediately before the commencement of this Act;\n (ii) immediately before the commencement of section  39 of the Taxation Laws Amendment Act (No. 2) 1988; and\n (b) the individual is otherwise eligible for registration as a registered tax agent."
+    },
+    {
+      "key": "section:20-10",
+      "title": "Section 20-10 - Regulations may prescribe system regarding professional associations",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-10",
+      "main_structural_heading": "Regulations may prescribe system regarding professional associations",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-A--Eligibility for registration > Section 20-10",
+      "text": "The regulations may provide for a system to allow the Board to accredit professional associations for the purposes of recognising professional qualifications and experience that are relevant to the registration of individuals as *registered tax agents and BAS agents."
+    },
+    {
+      "key": "section:20-15",
+      "title": "Section 20-15 - Criteria for determining whether an individual is a fit and proper person",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-15",
+      "main_structural_heading": "Criteria for determining whether an individual is a fit and proper person",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-A--Eligibility for registration > Section 20-15",
+      "text": "In deciding whether it is satisfied that an individual is a fit and proper person, the Board must have regard to:\n (a) whether the individual is of good fame, integrity and character; and\n (b) without limiting paragraph  (a):\n (i) whether an event described in section  20-45 has occurred during the previous 5 years; and\n (ii) whether the individual had the status of an undischarged bankrupt at any time during the previous 5 years; and\n (iii) whether the individual served a term of imprisonment, in whole or in part, at any time during the previous 5 years.\nTable of sections\nSection 20-20 Application for registration\nSection 20-25 Registration\nSection 20-30 Board to notify you of grant of registration\nSection 20-35 Commencement and duration of registration\nSection 20-40 Variation of conditions of registration\nSection 20-45 Certain events may affect your continued registration"
+    },
+    {
+      "key": "section:20-20",
+      "title": "Section 20-20 - Application for registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-20",
+      "main_structural_heading": "Application for registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-B--Applying for registration > Section 20-20",
+      "text": "(1) You may apply to the Board for registration, including renewal of registration, as a *registered tax agent or BAS agent.\n (2) An application must be in a form approved by the Board and must be accompanied by:\n (a) any documents that are required by the Board; and\n (b) the prescribed application fee.\n (3) The Board must give the application fee to the Commissioner, who receives the fee on behalf of the Commonwealth.\n (4) If you withdraw your application:\n (a) within 30 days after the day on which the application was made; and\n (b) before the application has been granted or refused;\nthe Commissioner must refund the application fee to you."
+    },
+    {
+      "key": "section:20-25",
+      "title": "Section 20-25 - Registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-25",
+      "main_structural_heading": "Registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-B--Applying for registration > Section 20-25",
+      "text": "Grant of application for registration\n (1) If you have applied to the Board for a type of registration, the Board must grant your application if you are eligible for registration of that type. Otherwise, the Board must reject your application.\n (2) The Board must decide your application within 4 months of receiving it.\n (3) If the Board does not decide your application within 4 months of receiving it, the Board is taken to have rejected your application. However, this does not apply if your application is for renewal of your registration.\nNote: For renewals of registration, see section 20-50.\nPeriod of registration\n (4) If the Board grants your application, the Board must also determine the period for which you are registered. The period must be for at least 1 year.\nConditions of registration\n (5) If the Board considers it appropriate to do so, the Board may impose one or more conditions to which your registration is subject.\n (6) If a condition is imposed, it must relate to the subject area in respect of which you may provide *tax agent services.\n (7) In deciding whether to impose a condition, the Board must have regard to the requirements prescribed by regulations under paragraph  20-5(1)(b) in relation to:\n (a) if you are an individual--your registration as a *registered tax agent or BAS agent; and\n (b) if you are a partnership or company--the registration of individuals who will provide *tax agent services for you."
+    },
+    {
+      "key": "section:20-30",
+      "title": "Section 20-30 - Board to notify you of grant of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-30",
+      "main_structural_heading": "Board to notify you of grant of registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-B--Applying for registration > Section 20-30",
+      "text": "Notification of decision\n (1) The Board must, within 30 days of its decision to grant or reject your application for registration, notify you in writing of:\n (a) the decision; and\n (b) if the Board rejects your application--the reasons for the decision; and\n (c) if the Board grants your application--the following:\n (i) the period of your registration;\n (ii) any conditions to which your registration is subject.\nHowever, failure to comply does not affect the validity of the Board&#39;s decision.\n (2) The Board must also notify the Commissioner of the Board&#39;s decision.\nProfessional indemnity insurance\n (3) If the Board grants your application, the Board may, by written notice, require you to maintain professional indemnity insurance as specified in the notice. The notice may be given to you at the same time as the notice referred to in subsection  (1), or subsequently."
+    },
+    {
+      "key": "section:20-35",
+      "title": "Section 20-35 - Commencement and duration of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-35",
+      "main_structural_heading": "Commencement and duration of registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-B--Applying for registration > Section 20-35",
+      "text": "Your registration:\n (a) commences:\n (i) if it is a renewal of your registration--on the day after the day on which your previous registration expired; or\n (ii) in any other case--on the day specified in the notice given under subsection  20-30(1); and\n (b) expires at the end of the period determined by the Board, unless it is terminated before that time.\nNote: Registration may be terminated under Subdivision 30-B or 40 -A."
+    },
+    {
+      "key": "section:20-40",
+      "title": "Section 20-40 - Variation of conditions of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-40",
+      "main_structural_heading": "Variation of conditions of registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-B--Applying for registration > Section 20-40",
+      "text": "(1) The Board may vary a condition to which your registration as a *registered tax agent or BAS agent is subject if:\n (a) you make an application for variation of the condition; and\n (b) the Board is satisfied that it is appropriate to vary the condition.\n (2) Your application must be:\n (a) in a form approved by the Board; and\n (b) accompanied by any information or documents that are required by the Board."
+    },
+    {
+      "key": "section:20-45",
+      "title": "Section 20-45 - Certain events may affect your continued registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-45",
+      "main_structural_heading": "Certain events may affect your continued registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-B--Applying for registration > Section 20-45",
+      "text": "(1) The following events may affect your continued registration as a *registered tax agent or BAS agent:\n (a) you are convicted of a *serious taxation offence;\n (b) you are convicted of an offence involving fraud or dishonesty;\n (c) you are penalised for being a *promoter of a *tax exploitation scheme;\n (d) you are penalised for implementing a *scheme that has been promoted on the basis of conformity with a *public ruling, *private ruling or *oral ruling in a way that is materially different from that described in the ruling;\n (da) you are penalised for promoting on the basis of conformity with a public ruling, private ruling or oral ruling a scheme that is materially different from that described in the ruling;\n (e) you become an undischarged bankrupt or go into external administration;\n (f) you are sentenced to a term of imprisonment.\n (2) An event described in paragraph  (1)(c), (d) or (da) does not affect your continued registration as a *registered tax agent or BAS agent if:\n (a) you are a partner in a partnership; and\n (b) you:\n (i) did not aid, abet, counsel or procure the relevant act or omission; and\n (ii) were not in any way knowingly concerned in, or party to, the relevant act or omission (whether directly or indirectly and whether by any act or omission of the partner).\nTable of sections\nSection 20-50 Renewal of registration"
+    },
+    {
+      "key": "section:20-50",
+      "title": "Section 20-50 - Renewal of registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "20-50",
+      "main_structural_heading": "Renewal of registration",
+      "defined_term": null,
+      "structure_path": "Part 2--REGISTRATION > Division 20--Registration > Subdivision 20-C--Renewing registration > Section 20-50",
+      "text": "(1) The Board may renew your registration under section  20-25 if you make an application for renewal:\n (a) at least 30 days, but not more than 90 days, before the day on which your registration expires; or\n (b) within such other period as the Board allows.\n (2) Your registration is taken to continue until your application is decided, or you withdraw your application, whichever happens first.\n (3) You may apply for renewal of registration during a period when your registration is suspended under section  30-25.\nTable of Subdivisions\nSection 30-A The Code of Professional Conduct\nSection 30-B Your liability for administrative sanctions\nSection 30-C Other obligations"
+    },
+    {
+      "key": "section:30-1",
+      "title": "Section 30-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Section 30-1",
+      "text": "The Code of Professional Conduct regulates your personal and professional conduct as a registered tax agent or BAS agent.If the Board investigates you and finds that you have failed to comply with the Code, the Board may give you a written caution, order you to take specified actions, or suspend or terminate your registration.You must also notify the Board if certain circumstances change, including if you cease to meet the requirements for registration.\nTable of sections\nSection 30-5 Application of the Code of Professional Conduct\nSection 30-10 The Code of Professional Conduct\nSection 30-12 Minister may determine Code of Professional Conduct obligations"
+    },
+    {
+      "key": "section:30-5",
+      "title": "Section 30-5 - Application of the Code of Professional Conduct",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-5",
+      "main_structural_heading": "Application of the Code of Professional Conduct",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-A--The Code of Professional Conduct > Section 30-5",
+      "text": "The *Code of Professional Conduct applies to you if you are a *registered tax agent or BAS agent."
+    },
+    {
+      "key": "section:30-10",
+      "title": "Section 30-10 - The Code of Professional Conduct",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-10",
+      "main_structural_heading": "The Code of Professional Conduct",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-A--The Code of Professional Conduct > Section 30-10",
+      "text": "Honesty and integrity\n (1) You must act honestly and with integrity.\n (2) You must comply with the *taxation laws in the conduct of your personal affairs.\n (3) If:\n (a) you receive money or other property from or on behalf of a client; and\n (b) you hold the money or other property on trust;\nyou must account to your client for the money or other property.\nIndependence\n (4) You must act lawfully in the best interests of your client.\n (5) You must have in place adequate arrangements for the management of conflicts of interest that may arise in relation to the activities that you undertake in the capacity of a *registered tax agent or BAS agent.\nConfidentiality\n (6) Unless you have a legal duty to do so, you must not disclose any information relating to a client&#39;s affairs to a third party without your client&#39;s permission.\nCompetence\n (7) You must ensure that a *tax agent service that you provide, or that is provided on your behalf, is provided competently.\n (8) You must maintain knowledge and skills relevant to the *tax agent services that you provide.\n (9) You must take reasonable care in ascertaining a client&#39;s state of affairs, to the extent that ascertaining the state of those affairs is relevant to a statement you are making or a thing you are doing on behalf of the client.\n (10) You must take reasonable care to ensure that *taxation laws are applied correctly to the circumstances in relation to which you are providing advice to a client.\nOther responsibilities\n (11) You must not knowingly obstruct the proper administration of the *taxation laws.\n (12) You must advise your client of the client&#39;s rights and obligations under the *taxation laws that are materially related to the *tax agent services you provide.\n (13) You must maintain professional indemnity insurance that meets the Board&#39;s requirements.\n (14) You must respond to requests and directions from the Board in a timely, responsible and reasonable manner.\n (15) You must not employ, or use the services of, an entity to provide *tax agent services on your behalf if:\n (a) you know, or ought reasonably to know, that the entity is a *disqualified entity; and\n (b) the Board has not given you approval under section  45-5 to employ, or use the services of, the disqualified entity to provide tax agent services on your behalf.\n (16) You must not provide *tax agent services in connection with an *arrangement with an entity that you know, or ought reasonably to know, is a *disqualified entity.\n (17) You must comply with any obligations determined under section  30-12."
+    },
+    {
+      "key": "section:30-12",
+      "title": "Section 30-12 - Minister may determine Code of Professional Conduct obligations",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-12",
+      "main_structural_heading": "Minister may determine Code of Professional Conduct obligations",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-A--The Code of Professional Conduct > Section 30-12",
+      "text": "(1) The Minister may, by legislative instrument, determine obligations for the purposes of subsection  30-10(17).\n (2) The obligations must relate to the professional and ethical conduct of *registered tax agents and BAS agents. The obligations may elaborate or supplement any aspect of the *Code of Professional Conduct but must not be inconsistent with the Code.\nTable of sections\nSection 30-15 Sanctions for failure to comply with the Code of Professional Conduct\nSection 30-20 Orders\nSection 30-25 Suspension\nSection 30-30 Termination"
+    },
+    {
+      "key": "section:30-15",
+      "title": "Section 30-15 - Sanctions for failure to comply with the Code of Professional Conduct",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-15",
+      "main_structural_heading": "Sanctions for failure to comply with the Code of Professional Conduct",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-B--Your liability for administrative sanctions > Section 30-15",
+      "text": "(1) This Subdivision applies if the Board is satisfied, after conducting an investigation under Subdivision  60-E, that you have failed to comply with the *Code of Professional Conduct.\n (2) The Board may do one or more of the following:\n (a) give you a written caution;\n (b) give you an order under section  30-20;\n (c) suspend your registration under section  30-25;\n (d) terminate your registration under section  30-30."
+    },
+    {
+      "key": "section:30-20",
+      "title": "Section 30-20 - Orders",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-20",
+      "main_structural_heading": "Orders",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-B--Your liability for administrative sanctions > Section 30-20",
+      "text": "(1) The Board may make an order that requires you take one or more actions including, but not limited to, the following:\n (a) completing a course of education or training specified in the order;\n (b) providing *tax agent services for which you are registered only under the supervision of a *registered tax agent or BAS agent specified in the order;\n (c) providing only those tax agent services that are specified in the order;\n (d) requiring you to notify, in writing, all of your current clients about the findings of the Board&#39;s investigation specified in the order.\n (2) The Board must notify you in writing of the order. The order may specify the following, as appropriate:\n (a) the period of time within which you must complete the requirements specified in the order;\n (b) the period of time during which the order applies."
+    },
+    {
+      "key": "section:30-25",
+      "title": "Section 30-25 - Suspension",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-25",
+      "main_structural_heading": "Suspension",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-B--Your liability for administrative sanctions > Section 30-25",
+      "text": "(1) The Board may, by notice in writing, suspend your registration for a period determined by the Board.\nNote: The Board must cause notice of its decision to be published by notifiable instrument: see section  60-140.\n (2) You must not provide *tax agent services during the period of suspension.\nNote: If you provide tax agent services while suspended, you may contravene a civil penalty provision: see subsection  (4) and Subdivision 50-A.\n (3) If, when the Board suspends your registration under subsection  (1), your registration is already suspended, suspension is for a further period that the Board determines is appropriate. The further period commences at the end of the period of suspension.\n (4) While you are suspended, you are taken not to be a *registered tax agent or BAS agent, except for the purposes of:\n (aa) Part 2 (Registration); and\n (ab) Subdivision 30-C (Notifying a change of circumstances); and\n (ac) Part 4 (Termination of registration); and\n (ad) section 60-25 (Appointment of Tax Practitioner Board members); and\n (b) this Division."
+    },
+    {
+      "key": "section:30-30",
+      "title": "Section 30-30 - Termination",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-30",
+      "main_structural_heading": "Termination",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-B--Your liability for administrative sanctions > Section 30-30",
+      "text": "The Board may terminate your registration.\nNote: For notice and effect of termination, see Subdivision 40-B.\nTable of sections\nSection 30-35 Obligation to notify a change of circumstances\nSection 30-40 Obligation to notify of significant breaches of the Code of Professional Conduct"
+    },
+    {
+      "key": "section:30-35",
+      "title": "Section 30-35 - Obligation to notify a change of circumstances",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-35",
+      "main_structural_heading": "Obligation to notify a change of circumstances",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-C--Other obligations > Section 30-35",
+      "text": "Individuals\n (1) If you are a *registered tax agent or BAS agent and an individual, you must notify the Board in writing whenever:\n (a) you cease to meet one of the *tax practitioner registration requirements; or\n (b) an event affecting your continued registration, as described in section  20-45, occurs; or\n (ba) you have reasonable grounds to believe that:\n (i) you have breached the *Code of Professional Conduct; and\n (ii) the breach is a *significant breach of the Code; or\n (c) there is a change in your address for service of notices or of any other circumstances relevant to your registration.\nPartnerships\n (2) If you are a *registered tax agent or BAS agent and a partnership, you must notify the Board in writing whenever:\n (a) you cease to meet one of the *tax practitioner registration requirements; or\n (b) an event affecting your continued registration, as described in section  20-45, occurs in respect of:\n (i) a partner in the partnership; or\n (ii) a director of a company that is a partner in the partnership; or\n (ba) you have reasonable grounds to believe that:\n (i) you have breached the *Code of Professional Conduct; and\n (ii) the breach is a *significant breach of the Code; or\n (c) the composition of the partnership changes; or\n (d) there is a change in your address for service of notices or of any other circumstances relevant to your registration.\nCompanies\n (3) If you are a *registered tax agent or BAS agent and a company, you must notify the Board in writing whenever:\n (a) you cease to meet one of the *tax practitioner registration requirements; or\n (b) an event affecting your continued registration, as described in section  20-45, occurs in respect of a director of the company; or\n (ba) you have reasonable grounds to believe that:\n (i) you have breached the *Code of Professional Conduct; and\n (ii) the breach is a *significant breach of the Code; or\n (c) an individual becomes, or ceases to be, a director of the company; or\n (d) there is a change in your address for service of notices or of any other circumstances relevant to your registration.\nWhen notice must be given\n (4) You must give the notice within 30 days of the day on which:\n (a) you become, or ought to have become, aware that the event occurred (unless paragraph  (1)(ba), (2)(ba) or (3)(ba) applies); or\n (b) if paragraph (1)(ba), (2)(ba) or (3)(ba) applies--you first have, or ought to have, reasonable grounds to believe that you have breached the *Code of Professional Conduct, and that the breach is a *significant breach of the Code.\nNote: A breach of this subsection is a breach of section 8C of the Taxation Administration Act 1953 and of subsection 30-10(2) of this Act."
+    },
+    {
+      "key": "section:30-40",
+      "title": "Section 30-40 - Obligation to notify of significant breaches of the Code of Professional Conduct",
+      "main_structural_unit": "section",
+      "main_structural_number": "30-40",
+      "main_structural_heading": "Obligation to notify of significant breaches of the Code of Professional Conduct",
+      "defined_term": null,
+      "structure_path": "Part 3--THE--CODE OF PROFESSIONAL CONDUCT > Division 30--The Code of Professional Conduct > Subdivision 30-C--Other obligations > Section 30-40",
+      "text": "(1) If you are a *registered tax agent or BAS agent, you must notify the Board, in writing, if you have reasonable grounds to believe that:\n (a) another registered tax agent or BAS agent has breached the *Code of Professional Conduct; and\n (b) the breach is a *significant breach of the Code.\n (2) In addition, if at the time you have reasonable grounds to believe that other agent has breached the Code, and that the breach is a *significant breach of the Code:\n (a) the other agent is a member of a professional association accredited by the Board under the regulations; and\n (b) you are aware of that other agent&#39;s membership;\nyou must notify the association, in writing, of the breach.\nWhen you must notify\n (3) You must notify under subsection  (1) or (2) within 30 days of the day on which you first have, or ought to have, reasonable grounds to believe that the other agent breached the Code, and that the breach is a *significant breach of the Code.\nTable of Subdivisions\nSection 40-A Grounds for terminating registration\nSection 40-B Notice and effect of termination"
+    },
+    {
+      "key": "section:40-1",
+      "title": "Section 40-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 4--TERMINATION--OF REGISTRATION > Division 40--Termination of registration > Section 40-1",
+      "text": "Your registration may be terminated if an event occurs that affects your continued registration (see section 20-45), you cease to meet the tax practitioner registration requirements or you breach a condition of your registration. If your registration is terminated, the Board may also determine a period during which you may not apply for registration.\nTable of sections\nSection 40-5 Termination of registration--individuals\nSection 40-10 Termination of registration--partnerships\nSection 40-15 Termination of registration--companies"
+    },
+    {
+      "key": "section:40-5",
+      "title": "Section 40-5 - Termination of registration--individuals",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-5",
+      "main_structural_heading": "Termination of registration--individuals",
+      "defined_term": null,
+      "structure_path": "Part 4--TERMINATION--OF REGISTRATION > Division 40--Termination of registration > Subdivision 40-A--Grounds for terminating registration > Section 40-5",
+      "text": "(1) If you are a *registered tax agent or BAS agent and an individual, the Board may terminate your registration if:\n (a) an event affecting your continued registration, as described in section  20-45, occurs; or\n (b) you cease to meet one of the *tax practitioner registration requirements; or\n (c) you breach a condition of your registration.\nNote: The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision  30-B.\n (2) The Board must terminate your registration if:\n (a) you surrender your registration by notice in writing to the Board; or\n (b) you die.\n (3) Despite paragraph  (2)(a), the Board need not terminate your registration if:\n (a) you surrender your registration by notice in writing to the Board; and\n (b) either:\n (i) the Board considers that, due to a current investigation or the outcome of an investigation, it would be inappropriate to terminate your registration; or\n (ii) the Board, within 30 days after receiving your surrender notice, decides to investigate you and considers that it would be inappropriate to terminate your registration."
+    },
+    {
+      "key": "section:40-10",
+      "title": "Section 40-10 - Termination of registration--partnerships",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-10",
+      "main_structural_heading": "Termination of registration--partnerships",
+      "defined_term": null,
+      "structure_path": "Part 4--TERMINATION--OF REGISTRATION > Division 40--Termination of registration > Subdivision 40-A--Grounds for terminating registration > Section 40-10",
+      "text": "(1) If you are a *registered tax agent or BAS agent and a partnership, the Board may terminate your registration if:\n (a) you cease to meet one of the *tax practitioner registration requirements; or\n (b) you breach a condition of your registration.\nNote: The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision  30-B.\n (2) The Board must terminate your registration if you surrender your registration by notice in writing to the Board.\n (2A) Despite subsection  (2), the Board need not terminate your registration if:\n (a) you surrender your registration by notice in writing to the Board; and\n (b) either:\n (i) the Board considers that, due to a current investigation or the outcome of an investigation, it would be inappropriate to terminate your registration; or\n (ii) the Board, within 30 days after receiving your surrender notice, decides to investigate you and considers that it would be inappropriate to terminate your registration.\n (3) If an event affecting your continued registration, as described in section  20-45, occurs in respect of a partner in your partnership, then the Board may, by notice in writing, require you to remove the partner from your partnership within the period specified in the notice.\nNote: A failure to comply with a notice given under this subsection is a breach of subsection  30-10(14).\n (4) If an event affecting your continued registration, as described in section  20-45, occurs in respect of a director of a company that is a partner in your partnership, then the Board may, by notice in writing, require:\n (a) you to remove the partner from your partnership; or\n (b) the company to remove the director;\nwithin the period specified in the notice.\nNote: A failure to comply with a notice given under this subsection is a breach of subsection  30-10(14).\n (5) In determining the period, the Board must have regard to:\n (a) for the purpose of subsection  (3) and paragraph (4)(a)--the requirements of any *Australian law in relation to the removal of partners from partnerships; and\n (b) for the purpose of paragraph  (4)(b)--any requirement of the Corporations Act 2001 in relation to the removal of directors."
+    },
+    {
+      "key": "section:40-15",
+      "title": "Section 40-15 - Termination of registration--companies",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-15",
+      "main_structural_heading": "Termination of registration--companies",
+      "defined_term": null,
+      "structure_path": "Part 4--TERMINATION--OF REGISTRATION > Division 40--Termination of registration > Subdivision 40-A--Grounds for terminating registration > Section 40-15",
+      "text": "(1) If you are a *registered tax agent or BAS agent and a company, the Board may terminate your registration if:\n (a) an event affecting your continued registration, as described in section  20-45, occurs; or\n (b) you cease to meet one of the *tax practitioner registration requirements; or\n (c) you breach a condition of your registration.\nNote: The Board may also terminate your registration for breach of the Code of Professional Conduct: see Subdivision  30-B.\n (2) The Board must terminate your registration if:\n (a) you surrender your registration by notice in writing to the Board; or\n (b) you cease to exist.\n (2A) Despite paragraph  (2)(a), the Board need not terminate your registration if:\n (a) you surrender your registration by notice in writing to the Board; and\n (b) either:\n (i) the Board considers that, due to a current investigation or the outcome of an investigation, it would be inappropriate to terminate your registration; or\n (ii) the Board, within 30 days after receiving your surrender notice, decides to investigate you and considers that it would be inappropriate to terminate your registration.\n (3) If an event affecting your continued registration, as described in section  20-45, occurs in respect of a director of your company, then the Board may, by notice in writing, require you to remove the director from the board of directors within the period specified in the notice. In determining the period, the Board must have regard to any requirement of the Corporations Act 2001 in relation to the removal of directors.\nNote: A failure to comply with a notice given under this subsection is a breach of subsection  30-10(14).\nTable of sections\nSection 40-20 Notification of decision to terminate registration and when termination takes effect\nSection 40-25 Period during which you may not apply for registration"
+    },
+    {
+      "key": "section:40-20",
+      "title": "Section 40-20 - Notification of decision to terminate registration and when termination takes effect",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-20",
+      "main_structural_heading": "Notification of decision to terminate registration and when termination takes effect",
+      "defined_term": null,
+      "structure_path": "Part 4--TERMINATION--OF REGISTRATION > Division 40--Termination of registration > Subdivision 40-B--Notice and effect of termination > Section 40-20",
+      "text": "(1) If the Board terminates your registration, the Board must, within 30 days of the decision to terminate your registration, notify you in writing of:\n (a) the decision and the reasons for the decision; and\n (b) any determination under section  40-25 of a period during which you are not eligible to apply for registration.\nHowever, a failure to notify does not affect the validity of the Board&#39;s decision.\nNote 1: The Board may terminate your registration under Subdivision 30-B or 40 -A.\nNote 2: The Board must cause notice of its decision to be published by notifiable instrument: see section  60-140.\n (2) The termination takes effect on the day specified in the notice given under subsection  (1). The day specified in the notice must be at least 28 days after the date of the notice.\n (3) The Board must also notify the Commissioner of the Board&#39;s decision and the reasons for the decision."
+    },
+    {
+      "key": "section:40-25",
+      "title": "Section 40-25 - Period during which you may not apply for registration",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-25",
+      "main_structural_heading": "Period during which you may not apply for registration",
+      "defined_term": null,
+      "structure_path": "Part 4--TERMINATION--OF REGISTRATION > Division 40--Termination of registration > Subdivision 40-B--Notice and effect of termination > Section 40-25",
+      "text": "(1) If the Board terminates your registration, the Board may also determine a period, of not more than 5 years, during which you may not apply for registration.\n (2) Subsection (1) does not apply if your registration was terminated because:\n (a) you surrendered your registration; or\n (b) you became an undischarged bankrupt; or\n (c) you went into external administration."
+    },
+    {
+      "key": "section:45-1",
+      "title": "Section 45-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "45-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 4A--DISQUALIFIED--ENTITIES > Division 45--Disqualified entities > Section 45-1",
+      "text": "A registered tax agent or BAS agent must be approved to employ, or use the services of, a disqualified entity to provide tax agent services on the registered tax agent or BAS agent&#39;s behalf (see subsection  30-10(15) and section 50-25). Approval is sought by application to the Board.An entity is a disqualified entity if, among other things, the entity is subject to sanctions under this Act or has been convicted of certain offences.A disqualified entity must give notice to a registered tax agent or BAS agent in relation to being a disqualified entity: (a) when seeking to provide, or providing, tax agent services on the registered tax agent or BAS agent&#39;s behalf; or (b) if the entity is seeking to enter an arrangement, or has an arrangement, with the registered tax agent or BAS agent in connection with the provision of tax agent services by the registered tax agent or BAS agent.\nTable of sections\n 45-5 Approval of disqualified entity providing tax agent services on your behalf\nSection 45-10 Obligation to give notice if you are a disqualified entity\nSection 45-15 Obligation to give notice if you become a disqualified entity\nSection 45-20 Transitional obligation to give notice if you are a disqualified entity on the commencement of this section"
+    },
+    {
+      "key": "section:45-5",
+      "title": "Section 45-5 - Approval of disqualified entity providing tax agent services on your behalf",
+      "main_structural_unit": "section",
+      "main_structural_number": "45-5",
+      "main_structural_heading": "Approval of disqualified entity providing tax agent services on your behalf",
+      "defined_term": null,
+      "structure_path": "Part 4A--DISQUALIFIED--ENTITIES > Division 45--Disqualified entities > Section 45-5",
+      "text": "Application\n (1) If you are a *registered tax agent or BAS agent, you may apply to the Board for approval to employ, or use the services of, a *disqualified entity to provide *tax agent services on your behalf.\nNote: If you know, or ought reasonably to know, that an entity is a disqualified entity, you must be approved to employ, or use the services of, the disqualified entity to provide tax agent services on your behalf: see subsection  30-10(15) and section 50-25.\n (2) A disqualified entity is an entity that is neither a *registered tax agent or BAS agent nor a *qualified tax relevant provider and that, within the last 5 years:\n (a) has been convicted of:\n (i) a *serious taxation offence; or\n (ii) a *serious offence; or\n (iii) an offence involving fraud or dishonesty; or\n (b) has been penalised for being a *promoter of a *tax exploitation scheme; or\n (c) has been penalised for implementing a *scheme that has been promoted on the basis of conformity with a *product ruling in a way that is materially different from that described in the product ruling; or\n (d) has become an undischarged bankrupt or has gone into *external administration; or\n (e) has had action taken against it under subsection  30-15(2) (sanctions for failure to comply with the Code of Professional Conduct); or\n (f) has had its registration terminated, under Subdivision  40-A; or\n (g) has had an application for registration or renewal of registration rejected under section  20-25, other than a rejection on the ground that the Board is not satisfied that the entity meets the requirements in paragraph  20-5(1)(b); or\n (h) has been found by the Board, after being investigated under section  60-95, or by a Court, to have contravened this Act.\n (3) Your application must be:\n (a) in the form approved by the Board; and\n (b) accompanied by any documents that are required by the Board.\nDecision\n (4) The Board must decide your application:\n (a) within 60 days of receiving your application; or\n (b) if, within 60 days of receiving your application, you and the Board agree on a longer period for the Board to decide your application--within the agreed period.\n (5) If the Board does not decide your application within the applicable period under subsection  (4), the Board is taken to have rejected the application.\n (6) The Board may decide to give you approval, having regard to:\n (a) the reasons why the entity is a *disqualified entity and the circumstances relating to those reasons; and\n (b) the proposed role that the entity would perform in providing the *tax agent services on your behalf; and\n (c) the extent to which the reasons why the entity is a disqualified entity are relevant to the entity&#39;s ability to perform the proposed role to an appropriate standard of professional and ethical conduct; and\n (d) any other matters that the Board considers relevant.\nNotification of decision\n (7) The Board must, within a reasonable period after its decision to give you approval or to reject your application for approval, notify you in writing of:\n (a) the decision; and\n (b) if the Board rejects your application--the reasons for the decision.\nHowever, failure to comply with this subsection does not affect the validity of the Board&#39;s decision."
+    },
+    {
+      "key": "section:45-10",
+      "title": "Section 45-10 - Obligation to give notice if you are a disqualified entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "45-10",
+      "main_structural_heading": "Obligation to give notice if you are a disqualified entity",
+      "defined_term": null,
+      "structure_path": "Part 4A--DISQUALIFIED--ENTITIES > Division 45--Disqualified entities > Section 45-10",
+      "text": "(1) If:\n (a) you are a *disqualified entity; and\n (b) you are seeking to provide *tax agent services on behalf of a *registered tax agent or BAS agent;\nyou must notify the registered tax agent or BAS agent, in writing, that you are a disqualified entity before the registered tax agent or BAS agent:\n (c) enters into a contract to employ you, or use your services, to provide tax agent services on the registered tax agent or BAS agent&#39;s behalf; or\n (d) renews such a contract; or\n (e) agrees to extend such a contract.\n (2) If:\n (a) you are a *disqualified entity; and\n (b) you are seeking to enter into an *arrangement with a *registered tax agent or BAS agent in connection with the provision of tax agent services by the registered tax agent or BAS agent;\nyou must notify the registered tax agent or BAS agent, in writing, that you are a disqualified entity before the registered tax agent or BAS agent:\n (c) enters into an arrangement with you in connection with the provision of tax agent services by the registered tax agent or BAS agent; or\n (d) renews such an arrangement; or\n (e) agrees to extend such an arrangement.\nCivil penalty\n (3) You contravene this subsection if you fail to give a notice in accordance with subsection  (1) or (2).\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B in Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you."
+    },
+    {
+      "key": "section:45-15",
+      "title": "Section 45-15 - Obligation to give notice if you become a disqualified entity",
+      "main_structural_unit": "section",
+      "main_structural_number": "45-15",
+      "main_structural_heading": "Obligation to give notice if you become a disqualified entity",
+      "defined_term": null,
+      "structure_path": "Part 4A--DISQUALIFIED--ENTITIES > Division 45--Disqualified entities > Section 45-15",
+      "text": "(1) If you become a *disqualified entity and:\n (a) you are providing *tax agent services on behalf of a *registered tax agent or BAS agent; or\n (b) there is an *arrangement in force between you and a *registered tax agent or BAS agent in connection with the provision of tax agent services by the registered tax agent or BAS agent;\nyou must notify the registered tax agent or BAS agent, in writing, that you are a disqualified entity.\n (2) You must notify the registered tax agent or BAS agent within 30 days of the day on which you become, or ought to have become, aware, that you are a disqualified entity.\nCivil penalty\n (3) You contravene this subsection if you fail to give a notice in accordance with this section.\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B in Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you."
+    },
+    {
+      "key": "section:45-20",
+      "title": "Section 45-20 - Transitional obligation to give notice if you are a disqualified entity at the commencement of this section",
+      "main_structural_unit": "section",
+      "main_structural_number": "45-20",
+      "main_structural_heading": "Transitional obligation to give notice if you are a disqualified entity at the commencement of this section",
+      "defined_term": null,
+      "structure_path": "Part 4A--DISQUALIFIED--ENTITIES > Division 45--Disqualified entities > Section 45-20",
+      "text": "(1) If:\n (a) immediately before the day this section commences a *registered tax agent or BAS agent employs you, or uses your services, to provide *tax agent services on the registered tax agent or BAS agent&#39;s behalf; and\n (b) at the start of the day this section commences you are a *disqualified entity; and\n (c) immediately before the day that is 12 months after the day this section commences the registered tax agent or BAS agent employs you, or uses your services, to provide tax agent services on the registered tax agent or BAS agent&#39;s behalf; and\n (d) you have not already notified the registered tax agent or BAS agent under section  45-10 or 45-15 that you are a disqualified entity;\nyou must notify the registered tax agent or BAS agent, in writing, that you are a disqualified entity. You must give the notice within 30 days of the day that is 12 months after the day this section commences.\n (2) If:\n (a) immediately before the day this section commences there is an *arrangement in force between you and a *registered tax agent or BAS agent in connection with the provision of *tax agent services by the registered tax agent or BAS agent; and\n (b) at the start of the day this section commences you are a *disqualified entity; and\n (c) immediately before the day that is 12 months after the day this section commences there is an arrangement in force between you and the registered tax agent or BAS agent in connection with the provision of tax agent services by the registered tax agent or BAS agent; and\n (d) you have not already notified the registered tax agent or BAS agent under section  45-10 or 45-15 that you are a disqualified entity;\nyou must notify the registered tax agent or BAS agent, in writing, that you are a disqualified entity. You must give the notice within 30 days of the day that is 12 months after the day this section commences.\nCivil penalty\n (3) You contravene this subsection if you fail to give a notice in accordance with subsection  (1) or (2).\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B in Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\nTable of Subdivisions\nSection 50-A Conduct that is prohibited without registration\nSection 50-AA Conduct that relates to tax (financial) advice services\nSection 50-B Other civil penalties\nSection 50-C Obtaining an order for a civil penalty"
+    },
+    {
+      "key": "section:50-1",
+      "title": "Section 50-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Section 50-1",
+      "text": "This Division contains civil penalty provisions. If you contravene a civil penalty provision, the Board may apply to the Federal Court for an order that you pay a pecuniary penalty. You may contravene a civil penalty provision if you are unregistered and provide tax agent services for a fee, advertise that you can provide such services or represent yourself as registered.You contravene a civil penalty provision if you are neither registered nor a qualified tax relevant provider and you provide tax (financial) advice services for a fee or advertise that you can provide such services.You also contravene a civil penalty provision if you are registered and you make a false or misleading statement, employ or use the services of an entity whose registration has been terminated, or sign a declaration or statement that was prepared by an unregistered entity who was not working under the supervision or control of a registered tax agent or BAS agent.\nTable of sections\nSection 50-5 Providing tax agent services if unregistered\nSection 50-10 Advertising tax agent services if unregistered\nSection 50-15 Representing that you are a registered tax agent or BAS agent if unregistered"
+    },
+    {
+      "key": "section:50-5",
+      "title": "Section 50-5 - Providing tax agent services if unregistered",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-5",
+      "main_structural_heading": "Providing tax agent services if unregistered",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-A--Conduct that is prohibited without registration > Section 50-5",
+      "text": "(1) You contravene this subsection if:\n (a) you provide a service that you know, or ought reasonably to know, is a *tax agent service; and\n (b) the tax agent service is not a *BAS service or a *tax (financial) advice service; and\n (c) you charge or receive a fee or other reward for providing the tax agent service; and\n (d) you are not a *registered tax agent; and\n (e) if you provide the tax agent service as a legal service--either:\n (i) you are prohibited, under a *State law or *Territory law that regulates legal practice and the provision of legal services, from providing that tax agent service; or\n (ii) subject to subsection  (3), the service consists of preparing, or lodging, a return or a statement in the nature of a return.\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (2) You contravene this subsection if:\n (a) you provide a service that you know, or ought reasonably to know, is a *BAS service; and\n (b) you charge or receive a fee or other reward for providing the BAS service; and\n (c) you are not a *registered tax agent or BAS agent; and\n (d) if you provide the BAS service as a legal service--either:\n (i) you are prohibited, under a *State law or *Territory law that regulates legal practice and the provision of legal services, from providing that BAS service; or\n (ii) subject to subsection  (4), the service consists of preparing, or lodging, a return or a statement in the nature of a return; and\n (e) if the BAS service relates to imports or exports to which an *indirect tax law applies--you are not a customs broker licensed under Part XI of the Customs Act 1901 .\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (3) Subparagraph (1)(e)(ii) does not apply if you provide the *tax agent service as a legal service in the course of acting for a trust or deceased estate as trustee or *legal personal representative.\n (4) Subparagraph (2)(d)(ii) does not apply if you provide the *BAS service as a legal service in the course of acting for a trust or deceased estate as trustee or *legal personal representative.\n (5) If you wish to rely on subsection  (3) or (4) in civil penalty proceedings, you bear an *evidential burden in relation to that matter."
+    },
+    {
+      "key": "section:50-10",
+      "title": "Section 50-10 - Advertising tax agent services if unregistered",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-10",
+      "main_structural_heading": "Advertising tax agent services if unregistered",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-A--Conduct that is prohibited without registration > Section 50-10",
+      "text": "(1) You contravene this subsection if:\n (a) you advertise that you will provide a *tax agent service; and\n (b) the tax agent service is not a *BAS service or a *tax (financial) advice service; and\n (c) you are not a *registered tax agent; and\n (d) if the tax agent service would be provided as a legal service--either:\n (i) you are prohibited, under a *State law or *Territory law that regulates legal practice and the provision of legal services, from providing that tax agent service; or\n (ii) subject to subsection  (3), the service would consist of preparing, or lodging, a return or a statement in the nature of a return; and\n (e) if the tax agent service would be provided on a voluntary basis--you would not provide the service under a scheme that the Commissioner has, by notifiable instrument, approved for the purposes of this paragraph.\nCivil penalty:\n (a) for an individual--50 penalty units; and\n (b) for a body corporate--250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (2) You contravene this subsection if:\n (a) you advertise that you will provide a *BAS service; and\n (b) you are not a *registered tax agent or BAS agent; and\n (c) if the BAS service would be provided as a legal service--either:\n (i) you are prohibited, under a *State law or *Territory law that regulates legal practice and the provision of legal services, from providing that BAS service; or\n (ii) subject to subsection  (4), the service would consist of preparing, or lodging, a return or a statement in the nature of a return; and\n (d) if the BAS service relates to imports or exports to which an *indirect tax law applies--you are not a customs broker licensed under Part XI of the Customs Act 1901 ; and\n (e) if the BAS service would be provided on a voluntary basis--you would not provide the service under a scheme that the Commissioner has, by notifiable instrument, approved for the purposes of this paragraph.\nCivil penalty:\n (a) for an individual--50 penalty units; and\n (b) for a body corporate--250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (3) Subparagraph (1)(d)(ii) does not apply if you would provide the *tax agent service as a legal service in the course of acting for a trust or deceased estate as trustee or *legal personal representative.\n (4) Subparagraph (2)(c)(ii) does not apply if you would provide the *BAS service as a legal service in the course of acting for a trust or deceased estate as trustee or *legal personal representative.\n (4A) If you wish to rely on subsection  (3) or (4) in civil penalty proceedings, you bear an *evidential burden in relation to that matter."
+    },
+    {
+      "key": "section:50-15",
+      "title": "Section 50-15 - Representing that you are a registered tax agent or BAS agent if unregistered",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-15",
+      "main_structural_heading": "Representing that you are a registered tax agent or BAS agent if unregistered",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-A--Conduct that is prohibited without registration > Section 50-15",
+      "text": "You contravene this section if:\n (a) you represent that you are a *registered tax agent or BAS agent; and\n (b) that representation is untrue.\nCivil penalty:\n (a) for an individual--50 penalty units; and\n (b) for a body corporate--250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\nTable of sections\nSection 50-17 Providing tax (financial) advice services if not registered or qualified\nSection 50-18 Advertising tax (financial) advice services if not registered or qualified"
+    },
+    {
+      "key": "section:50-17",
+      "title": "Section 50-17 - Providing tax (financial) advice services if not registered or qualified",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-17",
+      "main_structural_heading": "Providing tax (financial) advice services if not registered or qualified",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-AA--Conduct that relates to tax (financial) advice services > Section 50-17",
+      "text": "You contravene this section if:\n (a) either:\n (i) you provide a service that you know, or ought reasonably to know, is a *tax (financial) advice service; or\n (ii) a service that you know, or ought reasonably to know, is a tax (financial) advice service is provided on your behalf by another person; and\n (b) the tax (financial) advice service is not a *BAS service; and\n (c) either:\n (i) you charge or receive a fee or other reward for providing the tax (financial) advice service; or\n (ii) the other person charges or receives a fee or other reward for providing the tax (financial) advice service on your behalf; and\n (d) you are not a *registered tax agent or a *qualified tax relevant provider; and\n (e) in the case of the tax (financial) advice service provided on your behalf by another person--that other person is not a registered tax agent or a qualified tax relevant provider; and\n (f) in the case of you providing the tax (financial) advice service as a legal service--you are prohibited, under a *State law or *Territory law that regulates legal practice and the provision of legal services, from providing that tax (financial) advice service.\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you."
+    },
+    {
+      "key": "section:50-18",
+      "title": "Section 50-18 - Advertising tax (financial) advice services if not registered or qualified",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-18",
+      "main_structural_heading": "Advertising tax (financial) advice services if not registered or qualified",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-AA--Conduct that relates to tax (financial) advice services > Section 50-18",
+      "text": "You contravene this section if:\n (a) you advertise that:\n (i) you will provide a *tax (financial) advice service; or\n (ii) another person will provide a tax (financial) advice service on your behalf; and\n (b) the tax (financial) advice service is not a *BAS service; and\n (c) you are not a *registered tax agent or a *qualified tax relevant provider; and\n (d) if the tax (financial) advice service would be provided on your behalf by another person--that other person is not a registered tax agent or a qualified tax relevant provider; and\n (e) if the tax (financial) advice service would be provided as a legal service--you are prohibited, under a *State law or *Territory law that regulates legal practice and the provision of legal services, from providing that tax (financial) advice service.\nCivil penalty:\n (a) for an individual--50 penalty units; and\n (b) for a body corporate--250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B in Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\nTable of sections\nSection 50-20 Making false or misleading statements\nSection 50-25 Employing or using the services of deregistered entities\nSection 50-30 Signing of declarations etc."
+    },
+    {
+      "key": "section:50-20",
+      "title": "Section 50-20 - Making false or misleading statements",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-20",
+      "main_structural_heading": "Making false or misleading statements",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-B--Other civil penalties > Section 50-20",
+      "text": "You contravene this section if:\n (a) you are a *registered tax agent or BAS agent; and\n (b) you:\n (i) make a statement to the Commissioner; or\n (ii) prepare a statement that you know, or ought reasonably to know, is likely to be made to the Commissioner by an entity; or\n (iii) permit or direct an entity to do a thing mentioned in subparagraph  (i) or (ii); and\n (c) you know, or are reckless as to whether, the statement:\n (i) is false, incorrect or misleading in a material particular; or\n (ii) omits any matter or thing without which the statement is misleading in a material respect.\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote 1: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\nNote 2: In some circumstances, it is an offence to recklessly make a false or misleading statement under sections  8K and 8N of the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:50-25",
+      "title": "Section 50-25 - Employing or using the services of deregistered entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-25",
+      "main_structural_heading": "Employing or using the services of deregistered entities",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-B--Other civil penalties > Section 50-25",
+      "text": "(1) You contravene this subsection if:\n (a) you are a *registered tax agent or BAS agent; and\n (b) you employ or use the services of an entity to provide *tax agent services on your behalf; and\n (c) you know, or ought reasonably to know, that:\n (i) the entity is not a registered tax agent or BAS agent but was previously a registered tax agent or BAS agent; and\n (ii) the entity&#39;s registration was terminated within the period of 1 year before you first employed, or first used the services of, the entity.\nCivil penalty:\n (a) for an individual--250 penalty units; and\n (b) for a body corporate--1,250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (2) Subsection (1) does not apply if the entity&#39;s registration was terminated:\n (a) because:\n (i) the entity surrendered their registration; or\n (ii) the entity became an undischarged bankrupt or went into external administration; or\n (b) because of a reason prescribed by the regulations.\n (3) Subsection (1) does not apply if:\n (a) the entity is a *disqualified entity; and\n (b) the Board has given you approval under section  45-5 to employ, or use the services of, the disqualified entity to provide *tax agent services on your behalf."
+    },
+    {
+      "key": "section:50-30",
+      "title": "Section 50-30 - Signing of declarations etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-30",
+      "main_structural_heading": "Signing of declarations etc.",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-B--Other civil penalties > Section 50-30",
+      "text": "Individuals\n (1) You contravene this subsection if:\n (a) you are a *registered tax agent and an individual; and\n (b) in the course of providing a *tax agent service, you sign a declaration or other statement in relation to a taxpayer that is required or permitted by a *taxation law; and\n (c) the document in relation to which the declaration or other statement is being made was prepared by an entity other than:\n (i) you; or\n (ii) another registered tax agent who is an individual; or\n (iii) another individual who is working under your supervision and control or the supervision and control of another registered tax agent who is an individual.\nCivil penalty: 250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (2) You contravene this subsection if:\n (a) you are a *registered tax agent or BAS agent who is an individual; and\n (b) in the course of providing a *BAS service, you sign a declaration or other statement in relation to a taxpayer that is required or permitted by a *taxation law; and\n (c) the document in relation to which the declaration or other statement is being made was prepared by an entity other than:\n (i) you; or\n (ii) a registered tax agent or BAS agent who is an individual; or\n (iii) an individual who is working under your supervision and control or the supervision and control of another registered tax agent or BAS agent who is an individual.\nCivil penalty: 250 penalty units.\nNote: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\nPartnerships and companies\n (3) You contravene this subsection if:\n (a) you are a partnership or company that is a *registered tax agent; and\n (b) in the course of providing a *tax agent service, you sign a declaration or other statement in relation to a taxpayer that is required or permitted by a *taxation law; and\n (c) the document in relation to which the declaration or other statement is being made was prepared by an entity other than:\n (i) a registered tax agent who is an individual; or\n (ii) an individual who is working under the supervision and control of a registered tax agent who is an individual.\nCivil penalty: 1,250 penalty units.\nNote 1: If you are a partnership and contravene this subsection, see also section  50-40.\nNote 2: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (4) You contravene this subsection if:\n (a) you are a partnership or company that is a *registered tax agent or BAS agent; and\n (b) in the course of providing a *BAS service, you sign a declaration or other statement in relation to a taxpayer that is required or permitted by a *taxation law; and\n (c) the document in relation to which the declaration or other statement is being made was prepared by an entity other than:\n (i) a registered tax agent or BAS agent who is an individual; or\n (ii) an individual who is working under the supervision and control of a registered tax agent or BAS agent who is an individual.\nCivil penalty: 1,250 penalty units.\nNote 1: If you are a partnership and contravene this subsection, see also section  50-40.\nNote 2: Subdivision 50-C of this Act and Subdivision  298-B of Schedule 1 to the Taxation Administration Act 1953 determine the procedure for obtaining a civil penalty order against you.\n (5) Subsections (1) to (4) do not apply if you took reasonable steps to ensure the accuracy of the document. In civil penalty proceedings, you bear the *evidential burden of proving that you took such reasonable steps.\nTable of sections\nSection 50-35 Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision\nSection 50-40 Treatment of partnerships\nSection 50-45 Recovery of a pecuniary penalty"
+    },
+    {
+      "key": "section:50-35",
+      "title": "Section 50-35 - Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-35",
+      "main_structural_heading": "Federal Court may order you to pay a pecuniary penalty for contravening a civil penalty provision",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-C--Obtaining an order for a civil penalty > Section 50-35",
+      "text": "Application for order\n (1) Within 4 years after you contravene a civil penalty provision, the Board may apply on behalf of the Commonwealth to the *Federal Court for an order that you pay the Commonwealth a pecuniary penalty.\nCourt may order you to pay pecuniary penalty\n (2) If the *Federal Court is satisfied that you have contravened a civil penalty provision, the Federal Court may order you to pay to the Commonwealth, for each contravention, the pecuniary penalty that the Federal Court determines is appropriate (but not more than the maximum amount specified for the provision).\nConduct contravening more than one civil penalty provision\n (3) If conduct contravenes 2 or more civil penalty provisions of this Act, proceedings may be instituted against you in relation to the contravention of any one or more of those provisions. However, you are not liable to more than one pecuniary penalty in respect of the same conduct."
+    },
+    {
+      "key": "section:50-40",
+      "title": "Section 50-40 - Treatment of partnerships",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-40",
+      "main_structural_heading": "Treatment of partnerships",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-C--Obtaining an order for a civil penalty > Section 50-40",
+      "text": "(1) If a partnership contravenes a civil penalty provision, each partner in the partnership, at the time of the conduct constituting the contravention, is taken to have contravened the civil penalty provision unless the partner proves, on the balance of probabilities, that the partner:\n (a) did not engage in the conduct; and\n (b) did not aid, abet, counsel or procure the conduct; and\n (c) was not in any way knowingly concerned in, or party to, the conduct (whether directly or indirectly or whether by any act or omission of the partner).\n (2) If a partnership contravenes a civil penalty provision, the civil penalty that may be imposed on each partner in the partnership:\n (a) if the partner is an individual--must not exceed an amount equal to one -fifth of the maximum penalty that could be imposed on a body corporate for the same contravention; and\n (b) in any other case--must not exceed the maximum penalty that could be imposed on a body corporate for the same contravention."
+    },
+    {
+      "key": "section:50-45",
+      "title": "Section 50-45 - Recovery of a pecuniary penalty",
+      "main_structural_unit": "section",
+      "main_structural_number": "50-45",
+      "main_structural_heading": "Recovery of a pecuniary penalty",
+      "defined_term": null,
+      "structure_path": "Part 5--CIVIL--PENALTIES > Division 50--Civil penalties > Subdivision 50-C--Obtaining an order for a civil penalty > Section 50-45",
+      "text": "If the *Federal Court orders you to pay a pecuniary penalty:\n (a) the penalty is payable to the Commissioner, who receives the penalty on behalf of the Commonwealth; and\n (b) the Commissioner may, on behalf of the Commonwealth, enforce the order as if it were a judgment of the Federal Court.\nTable of Subdivisions\nSection 60-A Establishment, functions and powers of the Board\nSection 60-B Appointment etc. of members of the Board\nSection 60-C Board procedures\nSection 60-D Committees etc.\nSection 60-E Investigations\nSection 60-F Public reporting obligations of the Board\nSection 60-G Finance"
+    },
+    {
+      "key": "section:60-1",
+      "title": "Section 60-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Section 60-1",
+      "text": "This Division establishes the Tax Practitioners Board and contains administrative provisions relating to Board appointments and Board procedures. Comprising at least 7 Board members, the Board has functions and powers relating to the operation of this Act. Board members must be individuals who are representatives of the community rather than representatives of larger registered tax agents or BAS agents.One of the Board&#39;s functions is to investigate your application for registration and conduct that may breach this Act. For the purposes of an investigation, the Board may oblige you to give it information.The Board must also report to the Minister on its operations each year, maintain a register of registered tax agents and BAS agents, and publish decisions to terminate or suspend the registration of a registered tax agent or BAS agent.\nTable of sections\nSection 60-5 Establishment\nSection 60-10 Membership\nSection 60-15 Functions\nSection 60-20 Powers"
+    },
+    {
+      "key": "section:60-5",
+      "title": "Section 60-5 - Establishment",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-5",
+      "main_structural_heading": "Establishment",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-A--Establishment, functions and powers of the Board > Section 60-5",
+      "text": "The Tax Practitioners Board is established."
+    },
+    {
+      "key": "section:60-10",
+      "title": "Section 60-10 - Membership",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-10",
+      "main_structural_heading": "Membership",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-A--Establishment, functions and powers of the Board > Section 60-10",
+      "text": "(1) The Board consists of:\n (a) the *Chair; and\n (b) 6 or more other *Board members.\nNote: Board members must be community representatives (see subsection  60-25(4)).\n (2) The performance of the functions, or the exercise of the powers, of the Board is not affected only because of a vacancy or vacancies in the membership of the Board."
+    },
+    {
+      "key": "section:60-15",
+      "title": "Section 60-15 - Functions",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-15",
+      "main_structural_heading": "Functions",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-A--Establishment, functions and powers of the Board > Section 60-15",
+      "text": "The functions of the Board are:\n (a) to administer the system for the registration of *registered tax agents and BAS agents; and\n (b) to investigate:\n (i) applications for registration; and\n (ii) conduct that may breach this Act; and\n (c) to impose sanctions for non -compliance with the *Code of Professional Conduct; and\n (d) to issue, by legislative instrument, guidelines to assist in achieving the functions mentioned in paragraphs  (a), (b) and (c); and\n (e) such other functions as are conferred on the Board by this Act, the regulations or any other law of the Commonwealth; and\n (f) to do anything incidental or conducive to the performance of its functions."
+    },
+    {
+      "key": "section:60-20",
+      "title": "Section 60-20 - Powers",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-20",
+      "main_structural_heading": "Powers",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-A--Establishment, functions and powers of the Board > Section 60-20",
+      "text": "The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.\nTable of sections\nSection 60-25 Appointment\nSection 60-30 Term of appointment\nSection 60-35 Remuneration and allowances\nSection 60-40 Leave of absence\nSection 60-45 Outside employment\nSection 60-50 Disclosure of interests\nSection 60-55 Resignation\nSection 60-60 Termination of appointment\nSection 60-65 Terms and conditions of appointment not provided for by Act\nSection 60-67 Acting appointments"
+    },
+    {
+      "key": "section:60-25",
+      "title": "Section 60-25 - Appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-25",
+      "main_structural_heading": "Appointment",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-25",
+      "text": "(1) A Board member is to be appointed by the Minister by written instrument, on a full -time basis or on a part-time basis.\n (2) The Minister must appoint one of the *Board members to be the *Chair. However, that member must not be:\n (a) a person who holds any office or appointment (other than as a Board member) under a law of the Commonwealth on a full -time basis; or\n (b) a person appointed or engaged under the Public Service Act 1999.\n (3) A person&#39;s appointment as a *Board member is not invalid because of a defect or irregularity in connection with the person&#39;s appointment.\nCommunity representatives\n (4) In appointing an individual as a *Board member, the Minister must be satisfied that the individual is a *community representative.\n (5) An individual is a community representative if the individual is not any of the following:\n (a) a partner in a partnership that is a *prescribed tax agent;\n (b) an *executive officer of a company that is a prescribed tax agent;\n (c) a former partner in a partnership that is currently a prescribed tax agent, if the individual is receiving regular and ongoing benefits, or has within the last 6 months received a material benefit, from the partnership;\n (d) a former executive officer of a company that is currently a prescribed tax agent if either of the following apply:\n (i) the individual is receiving regular and ongoing benefits, or has within the last 6 months received a material benefit, from the company;\n (ii) the individual holds *shares in the company.\n (6) A prescribed tax agent means a company or partnership that:\n (a) is a *registered tax agent or BAS agent; and\n (b) has more than 100 employees.\nNote: A company or partnership whose registration as a registered tax agent or registered BAS agent is suspended remains a registered tax agent or BAS agent for the purposes of this section (see subsection  30-25(4)).\n (7) An executive officer of a company means a director, secretary or senior manager (within the meaning of the Corporations Act 2001) of the company."
+    },
+    {
+      "key": "section:60-30",
+      "title": "Section 60-30 - Term of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-30",
+      "main_structural_heading": "Term of appointment",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-30",
+      "text": "A *Board member holds office for the period specified in the instrument of appointment.\nNote: A Board member is eligible for reappointment: see section 33AA of the Acts Interpretation Act 1901."
+    },
+    {
+      "key": "section:60-35",
+      "title": "Section 60-35 - Remuneration and allowances",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-35",
+      "main_structural_heading": "Remuneration and allowances",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-35",
+      "text": "(1) A *Board member is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration is in operation, a Board member is to be paid the remuneration that is prescribed by the regulations.\n (2) A *Board member is to be paid the allowances that are prescribed by the regulations.\n (3) This section has effect subject to the Remuneration Tribunal Act 1973."
+    },
+    {
+      "key": "section:60-40",
+      "title": "Section 60-40 - Leave of absence",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-40",
+      "main_structural_heading": "Leave of absence",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-40",
+      "text": "(1) A full-time *Board member has the recreation leave entitlements that are determined by the Remuneration Tribunal.\n (2) The Minister may grant a full -time *Board member leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.\n (3) The Minister may grant leave of absence to a part -time *Board member on the terms and conditions that the Minister determines."
+    },
+    {
+      "key": "section:60-45",
+      "title": "Section 60-45 - Outside employment",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-45",
+      "main_structural_heading": "Outside employment",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-45",
+      "text": "(1) A full-time *Board member must not engage in paid employment outside the duties of his or her office without the Minister&#39;s approval.\n (2) A part-time *Board member must not engage in paid employment that conflicts or may conflict with the proper performance of his or her duties."
+    },
+    {
+      "key": "section:60-50",
+      "title": "Section 60-50 - Disclosure of interests",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-50",
+      "main_structural_heading": "Disclosure of interests",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-50",
+      "text": "A *Board member must give written notice to the Minister of any direct or indirect pecuniary interest that the Board member has or acquires and that conflicts or could conflict with the proper performance of the Board&#39;s functions."
+    },
+    {
+      "key": "section:60-55",
+      "title": "Section 60-55 - Resignation",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-55",
+      "main_structural_heading": "Resignation",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-55",
+      "text": "(1) A *Board member may resign his or her appointment by giving the Minister a written resignation. The resignation must specify a day from which the resignation will take effect.\n (2) The *Chair may resign his or her appointment without resigning his or her appointment as a *Board member."
+    },
+    {
+      "key": "section:60-60",
+      "title": "Section 60-60 - Termination of appointment",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-60",
+      "main_structural_heading": "Termination of appointment",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-60",
+      "text": "All Board members\n (1) The Minister may terminate the appointment of a *Board member:\n (a) for misbehaviour or physical or mental incapacity; or\n (b) if the Board member:\n (i) becomes bankrupt; or\n (ii) applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or\n (iii) compounds with his or her creditors; or\n (iv) makes an assignment of his or her remuneration for the benefit of his or her creditors; or\n (c) if the Board member fails, without reasonable excuse, to comply with section  60-50.\nAdditional grounds: full-time Board members\n (2) The Minister may terminate the appointment of a full -time *Board member if:\n (a) the Board member is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or\n (b) the Board member engages, except with the Minister&#39;s approval, in paid employment outside the duties of his or her office.\nAdditional grounds: part-time Board members\n (3) The Minister may terminate the appointment of a part -time *Board member if:\n (a) the Board member is absent, except on leave of absence, from 3 consecutive meetings of the Board; or\n (b) the Board member engages in paid employment that conflicts or may conflict with the proper performance of his or her duties."
+    },
+    {
+      "key": "section:60-65",
+      "title": "Section 60-65 - Terms and conditions of appointment not provided for by Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-65",
+      "main_structural_heading": "Terms and conditions of appointment not provided for by Act",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-65",
+      "text": "A *Board member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister."
+    },
+    {
+      "key": "section:60-67",
+      "title": "Section 60-67 - Acting appointments",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-67",
+      "main_structural_heading": "Acting appointments",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-B--Appointment etc. of members of the Board > Section 60-67",
+      "text": "(1) The Minister may, by written instrument, appoint a *Board member to act as the *Chair:\n (a) during a vacancy in the office of the Chair (whether or not an appointment has previously been made to the office); or\n (b) during any period, or during all periods, when the Chair:\n (i) is absent from duty or from Australia; or\n (ii) is, for any reason, unable to perform the duties of the office.\n (2) However, the *Board member appointed to act as the *Chair must not be:\n (a) a person who holds any office or appointment (other than as a Board member) under a law of the Commonwealth on a full -time basis; or\n (b) a person appointed or engaged under the Public Service Act 1999.\n (3) The Minister may, by written instrument, appoint a person to act as a *Board member:\n (a) during a vacancy in the office of a Board member (whether or not an appointment has previously been made to the office); or\n (b) during any period, or during all periods, when a Board member:\n (i) is absent from duty or from Australia; or\n (ii) is, for any reason, unable to perform the duties of the office.\nNote: For rules that apply to acting appointments, see sections 33AB and 33A of the Acts Interpretation Act 1901.\nTable of sections\nSection 60-70 Meetings\nSection 60-75 Decisions without meetings\nSection 60-80 Administrative support for the Board"
+    },
+    {
+      "key": "section:60-70",
+      "title": "Section 60-70 - Meetings",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-70",
+      "main_structural_heading": "Meetings",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-C--Board procedures > Section 60-70",
+      "text": "(1) At a meeting of the Board, a majority of *Board members constitutes a quorum.\n (2) A question arising at a meeting is decided by a majority of the votes of the *Board members present and voting.\n (3) The *Chair presides at all meetings at which he or she is present. If the Chair is not present, the *Board members present must appoint one of themselves to preside. However, the member appointed to preside must not be:\n (a) a person who holds any office or appointment (other than as a Board member) under a law of the Commonwealth; or\n (b) a person appointed or engaged under the Public Service Act 1999.\n (4) The *Board member presiding at a meeting has a deliberative vote and, if necessary, a casting vote.\n (5) The Board may regulate proceedings at its meetings as it considers appropriate.\nNote: Section 33B of the Acts Interpretation Act 1901 provides for participation in meetings by telephone etc."
+    },
+    {
+      "key": "section:60-75",
+      "title": "Section 60-75 - Decisions without meetings",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-75",
+      "main_structural_heading": "Decisions without meetings",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-C--Board procedures > Section 60-75",
+      "text": "(1) The Board may only make a decision without meeting if the Board determines that the decision may be made in that way.\n (2) If the Board determines that a decision may be made without meeting, a decision is taken to have been made at a Board meeting if:\n (a) a majority of the Board indicate agreement with the proposed decision in accordance with the method determined by the Board under subsection  (3); and\n (b) all *Board members were informed of the proposed decision, or reasonable efforts were made to inform all Board members of the proposed decision.\n (3) The Board may determine the method by which *Board members are to indicate agreement with proposed decisions.\n (4) The Board must keep a record of decisions made in accordance with this section."
+    },
+    {
+      "key": "section:60-80",
+      "title": "Section 60-80 - Administrative support for the Board",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-80",
+      "main_structural_heading": "Administrative support for the Board",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-C--Board procedures > Section 60-80",
+      "text": "The Board is to be assisted by APS employees whose services are made available to the Board by the Commissioner.\nTable of sections\nSection 60-85 Establishment of committees\nSection 60-90 Remuneration and allowances of committee members"
+    },
+    {
+      "key": "section:60-85",
+      "title": "Section 60-85 - Establishment of committees",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-85",
+      "main_structural_heading": "Establishment of committees",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-D--Committees etc. > Section 60-85",
+      "text": "(1) The Board may establish *committees to assist the Board in the performance of its functions and the exercise of its powers.\n (2) A *committee is to consist of such persons (whether *Board members or not) as the Board determines."
+    },
+    {
+      "key": "section:60-90",
+      "title": "Section 60-90 - Remuneration and allowances of committee members",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-90",
+      "main_structural_heading": "Remuneration and allowances of committee members",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-D--Committees etc. > Section 60-90",
+      "text": "(1) A member of a *committee (other than a *Board member) is to be paid the remuneration that is determined by the Remuneration Tribunal but, if no determination is in operation, the member is to be paid the remuneration that is prescribed by the regulations.\n (2) A member of a *committee (other than a *Board member) is to be paid the allowances that are prescribed by the regulations.\n (3) This section has effect subject to the Remuneration Tribunal Act 1973.\nTable of sections\nSection 60-95 Investigations\nSection 60-100 Power to request production of a document or thing\nSection 60-105 Power to require witnesses to appear before the Board\nSection 60-110 Power to take evidence on oath or affirmation\nSection 60-115 Self-incrimination\nSection 60-120 Board may retain documents and things\nSection 60-125 Outcomes of investigations"
+    },
+    {
+      "key": "section:60-95",
+      "title": "Section 60-95 - Investigations",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-95",
+      "main_structural_heading": "Investigations",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-95",
+      "text": "(1) The Board may investigate:\n (a) your application for registration; or\n (b) any conduct that may breach this Act; or\n (c) other matters prescribed by the regulations.\n (2) The Board must notify you in writing if the Board decides to investigate you. The notice must be given within 2 weeks after the decision is made.\n (3) An investigation is taken to commence on the date of the notice.\n (4) The Board:\n (a) has a discretion as to its procedure; and\n (b) is not bound by the rules of evidence."
+    },
+    {
+      "key": "section:60-100",
+      "title": "Section 60-100 - Power to request production of a document or thing",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-100",
+      "main_structural_heading": "Power to request production of a document or thing",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-100",
+      "text": "(1) For the purpose of an investigation, the Board may, by notice, request a person:\n (a) to give the Board the information referred to in the notice; or\n (b) to produce to the Board the documents or things referred to in the notice.\nNote: Failure to give the information, or produce the documents or things, is an offence: see sections 8C and 8D of the Taxation Administration Act 1953.\n (2) The Board&#39;s request must:\n (a) be in writing; and\n (b) specify the period within which the person must comply with the request.\nThe period specified under paragraph (b) must be at least 14 days after the date of the request."
+    },
+    {
+      "key": "section:60-105",
+      "title": "Section 60-105 - Power to require witnesses to appear before the Board",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-105",
+      "main_structural_heading": "Power to require witnesses to appear before the Board",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-105",
+      "text": "(1) For the purpose of an investigation, the Board may, by notice in writing, require a person to appear before it:\n (a) to give evidence; or\n (b) to produce the documents or things referred to in the notice.\nNote: Failure to attend, answer questions, or produce the documents or things, is an offence: see sections  8C and 8D of the Taxation Administration Act 1953.\n (2) If a person is required to appear before the Board because the person has been nominated by an entity that has applied for registration, the person is entitled to be paid by the entity any allowances and expenses that are prescribed by the regulations.\n (3) In any other case, a person required to appear before the Board is entitled to be paid by the Commonwealth any allowances and expenses that are prescribed by the regulations.\nUse of virtual enquiry technology etc.\n (4) The Board may decide to hold a proceeding at which a person is to appear before it:\n (a) at one or more physical venues; or\n (b) at one or more physical venues and using virtual enquiry technology; or\n (c) using virtual enquiry technology only.\n (5) Subsection (6) applies if the proceeding is held:\n (a) at one or more physical venues and using virtual enquiry technology; or\n (b) using virtual enquiry technology only.\n (6) The Board must ensure that the use of the virtual enquiry technology is reasonable.\n (7) If the proceeding is held:\n (a) at more than one physical venue; or\n (b) at one or more physical venues and using virtual enquiry technology; or\n (c) using virtual enquiry technology only;\nthe Board may appoint a single place and time at which the proceeding is taken to have been held.\n (8) This section applies to part of a proceeding in the same way that it applies to all of a proceeding."
+    },
+    {
+      "key": "section:60-110",
+      "title": "Section 60-110 - Power to take evidence on oath or affirmation",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-110",
+      "main_structural_heading": "Power to take evidence on oath or affirmation",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-110",
+      "text": "(1) For the purpose of taking evidence, the *Chair, or an individual acting on behalf of the Chair, may:\n (a) require a person to either take an oath or make an affirmation; and\n (b) administer an oath or affirmation to the person.\nNote: Failure to take an oath or make an affirmation is an offence: see section 8D of the Taxation Administration Act 1953.\n (2) The oath or affirmation is an oath or affirmation that the evidence the person will give will be true.\n (3) The Board may, if it thinks that it is appropriate, allow a person who has been sworn, or who has made an affirmation, to give evidence by tendering a written statement and verifying it by oath or affirmation."
+    },
+    {
+      "key": "section:60-115",
+      "title": "Section 60-115 - Self - incrimination",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-115",
+      "main_structural_heading": "Self - incrimination",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-115",
+      "text": "(1) A person is not excused from:\n (a) giving information or evidence; or\n (b) producing a document or thing;\nunder section 60-100 or 60-105 on the ground that doing so might tend to incriminate the person or expose the person to a penalty.\n (2) However, in the case of an individual:\n (a) the information or evidence given or the document or thing produced; and\n (b) the giving of the information or evidence or the producing of the document or thing; and\n (c) any information, document or thing obtained as a direct or indirect consequence of giving the information or evidence, or producing the document or thing;\nare not admissible in evidence against the individual in proceedings, other than proceedings for an offence against:\n (d) section 8C or 8D of the Taxation Administration Act 1953 in relation to the information or evidence given, or document or thing produced, under this Act; or\n (e) section 137.1 or 137.2 of the Criminal Code (which deals with false or misleading information or documents) in relation to the information or evidence given, or document produced, under this Act; or\n (f) section 149.1 of the Criminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act."
+    },
+    {
+      "key": "section:60-120",
+      "title": "Section 60-120 - Board may retain documents and things",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-120",
+      "main_structural_heading": "Board may retain documents and things",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-120",
+      "text": "(1) If a document or thing is produced to the Board in accordance with section  60-100 or 60-105, the Board:\n (a) may take possession of, and make copies of, the document or thing, or take extracts from the document; and\n (b) may retain possession of the document or thing for such period as is necessary for the purposes of the investigation to which the document or thing relates.\n (2) While the Board retains the document or thing, the Board must allow a person who would otherwise be entitled to possession of the document or thing, or a person authorised by that person:\n (a) reasonable access to the document for the purposes of inspecting and making copies of, or taking extracts from, it; and\n (b) reasonable access to the thing."
+    },
+    {
+      "key": "section:60-125",
+      "title": "Section 60-125 - Outcomes of investigations",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-125",
+      "main_structural_heading": "Outcomes of investigations",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-E--Investigations > Section 60-125",
+      "text": "Investigation relating to application for registration\n (1) After completing an investigation in relation to an application for registration under section  20-20, the Board must make a decision in accordance with section 20-25.\nInvestigation relating to whether conduct breaches this Act\n (2) If the Board investigates conduct under section  60-95 and finds that the conduct breaches this Act, the Board must either:\n (a) make a decision that no further action will be taken; or\n (b) do one or more of the following:\n (i) impose one or more sanctions under Subdivision  30-B;\n (ii) terminate an entity&#39;s registration under Subdivision  40-A;\n (iii) apply to the *Federal Court for an order for payment of a pecuniary penalty under Subdivision 50-C;\n (iv) apply to the Federal Court for an injunction under section  70-5;\n (v) decide that the entity (the contravening entity) that engaged in the conduct, and the information in respect of the contravening entity prescribed by the regulations for the purposes of this subparagraph, be entered on the register for the period prescribed by the regulations for the purposes of this subparagraph.\nNote 1: The Board may terminate an entity&#39;s registration under Subdivision 40-A without investigating conduct under section  60-95.\nNote 2: In this section, register means the register kept under section  60-135 (see subsection (10) of this section).\n  (2A) If the Board makes a decision in relation to the contravening entity under subparagraph  (2)(b)(v), then the contravening entity, and the information in respect of the contravening entity mentioned in that subparagraph, must be entered on the register for the period mentioned in that subparagraph.\nPeriod within which a decision must be made\n (3) The Board must make a decision under subsection  (2):\n (a) within 24 months after the day on which the investigation is taken to have commenced under subsection  60-95(3); or\n (b) if a longer period is determined by the Board under subsection  (4)--within that period.\n (4) If the Board is satisfied that, for reasons beyond the control of the Board, a decision under subsection  (2) cannot be made within the period mentioned in paragraph (3)(a), the Board may determine a longer period within which the Board must make a decision under subsection  (2).\n (5) If the Board determines a longer period, the Board must do so not later than 2 weeks before the expiry of the period mentioned in paragraph  (3)(a).\n (6) The reasons mentioned in subsection  (4) include, but are not limited to, the following:\n (a) undue delay that has been caused by an entity other than the Board and that has affected the conduct of the investigation to which the decision relates;\n (b) the complexity of the investigation.\nDecision not made\n (7) If:\n (a) a decision is not made within the period mentioned in paragraph  (3)(a) and the Board does not determine a longer period; or\n (b) the Board determines a longer period but does not make a decision within that period;\nthe Board is taken to have decided to take no further action in relation to the matter that was the subject of investigation.\nNotification of decisions\n (8) If:\n (a) the Board makes a decision under subsection  (2); or\n (b) the Board investigates conduct under section  60-95 and finds that the conduct does not breach this Act;\nthe Board must, within 30 days of making the decision or finding:\n (c) notify the following persons, in writing, of the decision or finding:\n (i) the entity affected by the decision or finding;\n (ii) the complainant (if any);\n (iia) any professional association accredited by the Board under the regulations of which the entity is a member;\n (iii) if the decision or finding is relevant to the administration of the *taxation laws (other than this Act)--the Commissioner;\n (iv) if the decision or finding concerns a *registered tax agent in relation to providing a *tax (financial) advice service--*ASIC; and\n (d) give, in writing, the reasons for the decision to:\n (i) the entity affected by the decision; and\n (ia) if subparagraph  (c)(iia) applies--the relevant professional association; and\n (ii) if subparagraph  (c)(iii) applies--the Commissioner; and\n (iii) if subparagraph  (c)(iv) applies--*ASIC.\n (9) If the Board determines a longer period under subsection  (4), the Board must, within 30 days of making the determination:\n (a) notify the entity affected by the determination, in writing, of the determination; and\n (b) give, in writing, the reasons for the determination.\nDefinitions\n (10) In this section, register means the register kept under section 60-135.\nTable of sections\nSection 60-130 Annual report\nSection 60-135 Register\nSection 60-140 Publication of information"
+    },
+    {
+      "key": "section:60-130",
+      "title": "Section 60-130 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-130",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-F--Public reporting obligations of the Board > Section 60-130",
+      "text": "(1) The *Chair must, as soon as practicable after the end of each *financial year, prepare and give to the Minister, for presentation to the Parliament, a report on its operations during that year.\nNote: See also section 34C of the Acts Interpretation Act 1901 , which contains extra rules about annual reports.\n (2) The *Chair must also set out in the report, in relation to each general category of offence and in relation to each *law enforcement agency:\n (a) the number of occasions (if any) during the year on which the Board was requested by, or on behalf of, the head of the agency to disclose information under subsection  70-40(4) to *authorised law enforcement agency officers; and\n (b) the number of occasions (if any) during the year on which information was disclosed under that subsection to authorised law enforcement agency officers."
+    },
+    {
+      "key": "section:60-135",
+      "title": "Section 60-135 - Register",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-135",
+      "main_structural_heading": "Register",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-F--Public reporting obligations of the Board > Section 60-135",
+      "text": "(1) The Board must establish, and maintain, a register of entities in accordance with this Act and the regulations made for the purposes of this subsection.\n (2) Each entity that is a *registered tax agent or BAS agent must be entered on the register for the period during which the entity is a registered tax agent or BAS agent.\nNote: Another provision of this Act, or regulations made for the purposes of subsection (1), may require an entity that is not a registered tax agent or BAS agent to be entered on the register for a period.\n  (3) Without limiting the regulations that may be made for the purposes of subsection  (1), those regulations may do the following:\n (a) require an entity to be entered on the register for a specified period;\n (b) if an entity is required (whether by this Act or by the regulations) to be entered on the register for a period--require specified information in respect of the entity to be entered on the register for some or all of that period.\nEntities that are not registered tax agents or BAS agents\n (3A) An entity that is not a *registered tax agent or BAS agent, and information in respect of such an entity:\n (a) must not be entered on the register; and\n (b) must not remain entered on the register;\nexcept as required by this Act or by regulations made for the purposes of subsection (1).\nAvailability of register\n (4) The register is to be made available for inspection on the internet."
+    },
+    {
+      "key": "section:60-140",
+      "title": "Section 60-140 - Publication of information",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-140",
+      "main_structural_heading": "Publication of information",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-F--Public reporting obligations of the Board > Section 60-140",
+      "text": "The Board must, by notifiable instrument, publish notice of the following decisions:\n (a) a decision under Subdivision  30-B or 40-A to terminate the registration of a *registered tax agent or BAS agent;\n (b) a decision under section  30-25 to suspend the registration of a registered tax agent or BAS agent.\nTable of sections\n 60-145 Tax Practitioners Board Special Account"
+    },
+    {
+      "key": "section:60-150",
+      "title": "Section 60-150 - Credits to the Tax Practitioners Board Special Account",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-150",
+      "main_structural_heading": "Credits to the Tax Practitioners Board Special Account",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-G--Finance > Section 60-150",
+      "text": "60-155 Purposes of the Tax Practitioners Board Special Account"
+    },
+    {
+      "key": "section:60-145",
+      "title": "Section 60-145 - Tax Practitioners Board Special Account",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-145",
+      "main_structural_heading": "Tax Practitioners Board Special Account",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-G--Finance > Section 60-145",
+      "text": "(1) The Tax Practitioners Board Special Account is established by this section.\n (2) The Tax Practitioners Board Special Account is a special account for the purposes of the Public Governance, Performance and Accountability Act 2013.\nSection 60-150 Credits to the Tax Practitioners Board Special Account\n  There must be credited to the Tax Practitioners Board Special Account amounts equal to the following:\n (a) amounts received by the Commonwealth under this Act (other than amounts received by way of penalty or amounts related to such amounts);\n (b) amounts appropriated by the Parliament for the purposes of the Account.\nNote: An Act appropriating money for expenditure out of the Consolidated Revenue Fund may contain a provision to the effect that, if any of the purposes of a special account is a purpose that is covered by an item in such an Act (whether or not the item expressly refers to the special account), then amounts may be debited against the appropriation for that item and credited to that special account."
+    },
+    {
+      "key": "section:60-155",
+      "title": "Section 60-155 - Purposes of the Tax Practitioners Board Special Account",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-155",
+      "main_structural_heading": "Purposes of the Tax Practitioners Board Special Account",
+      "defined_term": null,
+      "structure_path": "Part 6--THE--TAX PRACTITIONERS BOARD > Division 60--The Tax Practitioners Board > Subdivision 60-G--Finance > Section 60-155",
+      "text": "The purposes of the Tax Practitioners Board Special Account are as follows:\n (a) paying or discharging the costs, expenses and other obligations incurred by the Commonwealth in the performance of the Board&#39;s functions under this Act;\n (b) paying any remuneration and allowances payable to any person under this Act (including APS employees mentioned in section  60-80);\n (c) reducing the balance of the account (and therefore the available appropriation for the account) without making a real or notional payment.\nNote: See section 80 of the Public Governance, Performance and Accountability Act 2013 (which deals with special accounts).\nTable of Subdivisions\nSection 70-A Injunctions\nSection 70-B Administrative review\nSection 70-C Provisions affecting trustees and partnerships\nSection 70-D Provisions relating to the Board\nSection 70-E Miscellaneous\nSection 70-F Address for service of notices"
+    },
+    {
+      "key": "section:70-1",
+      "title": "Section 70-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Section 70-1",
+      "text": "This Division sets out some miscellaneous provisions, including a provision allowing the Board to apply to the Federal Court for an injunction, a provision allowing you to apply to the Administrative Review Tribunal for review of a Board&#39;s decision and a provision about the treatment of trustees.\nTable of sections\nSection 70-5 Injunction to restrain or require certain conduct"
+    },
+    {
+      "key": "section:70-5",
+      "title": "Section 70-5 - Injunction to restrain or require certain conduct",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-5",
+      "main_structural_heading": "Injunction to restrain or require certain conduct",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-A--Injunctions > Section 70-5",
+      "text": "(1) If, on the application of the Board, the *Federal Court is satisfied that you have engaged, or are proposing to engage, in conduct that would constitute a contravention of a civil penalty provision, the Federal Court may grant an injunction:\n (a) restraining you from engaging in the conduct; or\n (b) if in the Federal Court&#39;s opinion it is desirable to do so, requiring you to do something.\n (2) Before deciding the application, the *Federal Court may grant an interim injunction:\n (a) restraining you from engaging in conduct; or\n (b) requiring you to do something.\nTable of sections\nSection 70-10 Administrative review"
+    },
+    {
+      "key": "section:70-10",
+      "title": "Section 70-10 - Administrative review",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-10",
+      "main_structural_heading": "Administrative review",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-B--Administrative review > Section 70-10",
+      "text": "An application may be made to the Administrative Review Tribunal for review of any of the following decisions of the Board:\n (a) a decision under section  20-25:\n (i) to reject an application for registration (including renewal of registration); or\n (ii) to specify a condition to which registration is subject;\n (c) a decision under section  20-40 to refuse to vary a condition to which registration is subject;\n (d) a decision under subsection  20-50(1) not to determine another period for making a renewal application;\n (e) a decision under Subdivision  30-B or 40-A to terminate registration;\n (f) a decision under section  30-20 to make an order or to specify a time period in respect of an order;\n (g) a decision under section  30-25 to suspend registration (including a decision as to the length of the suspension);\n (ga) a decision under Subdivision  40-A not to terminate registration;\n (h) a decision under section  40-25 to determine a period during which an application for registration may not be made;\n (ha) a decision under subparagraph  60-125(2)(b)(v) that an entity, and certain information in respect of the entity, be entered on the register kept under section  60-135 for a period;\n (ha) a decision under section  45-5 to reject an application for approval to employ, or use the services of, a *disqualified entity;\n (i) a decision under subsection  60-125(4) to extend the period of time within which an investigation is to be completed.\nTable of sections\nSection 70-15 How this Act applies to an individual or company in the capacity of a trustee\nSection 70-20 Continuity of partnerships"
+    },
+    {
+      "key": "section:70-15",
+      "title": "Section 70-15 - How this Act applies to an individual or company in the capacity of a trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-15",
+      "main_structural_heading": "How this Act applies to an individual or company in the capacity of a trustee",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-C--Provisions affecting trustees and partnerships > Section 70-15",
+      "text": "This Act applies to:\n (a) a trustee who is an individual in the same way as it applies to an individual; and\n (b) a trustee that is a company in the same way as it applies to a company."
+    },
+    {
+      "key": "section:70-20",
+      "title": "Section 70-20 - Continuity of partnerships",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-20",
+      "main_structural_heading": "Continuity of partnerships",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-C--Provisions affecting trustees and partnerships > Section 70-20",
+      "text": "For the purposes of this Act, a change in the composition of a partnership does not affect the continuity of the partnership.\nTable of sections\nSection 70-25 Immunity from legal action\nSection 70-30 Delegation by Board"
+    },
+    {
+      "key": "section:70-25",
+      "title": "Section 70-25 - Immunity from legal action",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-25",
+      "main_structural_heading": "Immunity from legal action",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-D--Provisions relating to the Board > Section 70-25",
+      "text": "No action, suit or proceeding may be brought against:\n (a) a person who is, or has been, a *Board member; or\n (b) a person who is, or has been, a member of a *committee;\nin relation to anything done, or omitted to be done, in good faith by the Board member or committee member:\n (c) in the performance, or purported performance, of the Board&#39;s functions; or\n (d) in the exercise, or purported exercise, of the Board&#39;s powers."
+    },
+    {
+      "key": "section:70-30",
+      "title": "Section 70-30 - Delegation by Board",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-30",
+      "main_structural_heading": "Delegation by Board",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-D--Provisions relating to the Board > Section 70-30",
+      "text": "(1) Subject to subsections  (1A) and (2), the Board may, by writing, delegate all or any of its functions and powers to:\n (a) a *Board member; or\n (b) a *committee; or\n (c) an APS employee whose services are made available to the Board under section  60-80; or\n (d) to a person engaged by the Board.\nFunctions and powers that must not be delegated\n (1A) The Board may not delegate:\n (a) its function of issuing guidelines; or\n (b) its power to establish a committee under section  60-85.\nPowers to make reviewable decisions\n (2) A power to make a reviewable decision (other than a decision covered by subsection  (2A)):\n (a) must not be delegated under paragraph  (1)(a), (c) or (d); and\n (b) may be delegated to a *committee under paragraph (1)(b) only if:\n (i) the committee has 3 members or more; and\n (ii) all members of the committee are *Board members.\nNote: For reviewable decision, see subsection  (5).\n (2A) This subsection covers the following reviewable decisions:\n (a) a decision to terminate the registration of an individual under subsection  40-5(2);\n (b) a decision to terminate the registration of a partnership under subsection  40-10(2);\n (c) a decision to terminate the registration of a company under subsection  40-15(2).\n Other matters\n (3) A delegate is, in the exercise of a delegated function or power, subject to the directions of the Board.\n (4) A delegation under this section:\n (a) may be revoked by the Board (whether or not constituted by the *Board members who constituted the Board when the power was delegated); and\n (b) continues in force even if the membership of the Board changes.\nDefinitions\n (5) In this section:\n\"reviewable decision\" means a decision in respect of which an application for review may be made to the Administrative Review Tribunal under section  70-10.\nTable of sections\nSection 70-35 Official information not to be disclosed\nSection 70-40 Exceptions to the prohibition on disclosure of official information\nSection 70-45 On-disclosure of official information\nSection 70-50 Legal professional privilege\nSection 70-55 Regulations"
+    },
+    {
+      "key": "section:70-35",
+      "title": "Section 70-35 - Official information not to be disclosed",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-35",
+      "main_structural_heading": "Official information not to be disclosed",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-E--Miscellaneous > Section 70-35",
+      "text": "Offence--recording or disclosing official information\n (1) A person commits an offence if:\n (a) the person:\n (i) is or has been a *Board member or a member of a *committee; or\n (ii) is or has been an APS employee whose services were made available to the Board by the Commissioner; or\n (iii) is or has been a person appointed or employed by, or a provider of services for, the Commonwealth; and\n (b) the person:\n (i) makes a record of information; or\n (ii) discloses information to another person (other than the person to whom the information relates or that person&#39;s *agent in relation to the information) or to a court or tribunal; and\n (c) the information is *official information; and\n (d) the information was acquired by the first -mentioned person in the course of, or because of, his or her duties under or in relation to this Act or the regulations.\nPenalty: Imprisonment for 2 years.\nConsent is not a defence\n (2) It is not a defence to a prosecution for an offence against subsection  (1) that the entity to whom the information relates has consented to:\n (a) the making of the record; or\n (b) the disclosure of the information.\nLimits on disclosure to courts and tribunals\n (3) A person mentioned in paragraph  (1)(a) is not required to disclose to a court or tribunal *official information that was acquired by the person in the course of, or because of, his or her duties under or in relation to this Act or the regulations except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations."
+    },
+    {
+      "key": "section:70-40.p1",
+      "title": "Section 70-40 - Exceptions to the prohibition on disclosure of official information",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-40",
+      "main_structural_heading": "Exceptions to the prohibition on disclosure of official information",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-E--Miscellaneous > Section 70-40",
+      "text": "Disclosure in the performance of duties (1) Subsection 70-35(1) does not apply if the record or disclosure is made in performing the person&#39;s duties under or in relation to this Act or the regulations. Note: A defendant bears an evidential burden in relation to the matters in subsection (1): see subsection 13.3(3) of the Criminal Code. Disclosure of publicly available information (2) Subsection 70-35(1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection 70-35(1) or 70-45(1)). Note: A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the Criminal Code. Disclosures to the Commissioner (3) Subsection 70-35(1) does not apply if the record or disclosure is to the Commissioner and is for the purpose of administering a *taxation law. Note: A defendant bears an evidential burden in relation to the matters in subsection (3): see subsection 13.3(3) of the Criminal Code. Disclosures to ASIC (3A) Subsection 70-35(1) does not apply if the record or disclosure is to *ASIC for the purpose of ASIC performing any of its functions or exercising any of its powers. Note: A defendant bears an evidential burden in relation to the matters in subsection (3A): see subsection 13.3(3) of the Criminal Code. Disclosures to Financial Services and Credit Panels (3AA) Subsection 70-35(1) does not apply if the record or disclosure is to a *Financial Services and Credit Panel for the purpose of the panel performing any of its functions or exercising any of its powers. Note: A defendant bears an evidential burden in relation to the matters in subsection (3AA): see subsection 13.3(3) of the Criminal Code. Disclosures to the Inspector-General of Taxation (3B) Subsection 70-35(1) does not apply if the record or disclosure is to the Inspector-General of Taxation and is for the purpose of investigating or reporting under, or otherwise administering: (a) the Inspector-General of Taxation Act 2003; or (b) provisions of the Ombudsman Act 1976, to the extent that they are applied by the Inspector-General of Taxation Act 2003 . Note: A defendant bears an evidential burden in relation to the matters in subsection (3B): see subsection 13.3(3) of the Criminal Code. Disclosure in relation to serious offences and proceeds of crime orders (4) Subsection 70-35(1) does not apply if: (a) the record is made for, or the disclosure is to, an *authorised law enforcement agency officer; and (b) the record or disclosure is for the purpose of: (i) investigating a *serious offence; or (ii) enforcing a law, the contravention of which is a serious offence; or (iii) the making, or proposed or possible making, of a *proceeds of crime order. Note: A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection 13.3(3) of the Criminal Code. Disclosures to the Secretary of the Department (5) Subsection 70-35(1) does not apply if: (a) the person (the first person) makes the record for, or the disclosure to, the Secretary of the Department; and (b) the record or disclosure is of information that concerns: (i) a breach of an obligation of confidence by another person (the second person) against the Commonwealth or a Commonwealth entity (within the meaning of the Public Governance, Performance and Accountability Act 2013 ); or (ii) if the first person reasonably suspects that such a breach has occurred--the suspected breach; and (c) the obligation arose in connection with the second person providing advice, or otherwise providing services, to a Commonwealth entity either: (i) as an entity engaged by the Commonwealth entity for that purpose; or (ii) as an entity representing a taxpayer; and (d) the record or disclosure is for the purpose of: (i) enabling or assisting in the consideration, development or implementation of any measure or the taking of any action directed at dealing with the breach or suspected breach; or (ii) enabling or assisting the Secretary or an SES employee of the Department to advise the Minister and the *Finance Minister in relation to the breach or suspected breach; and (e) the record or disclosure is of information that does not include: (i) the *ABN; or (ii) the name; or (iii) contact details; or (iv) personal information (within the meaning of the Privacy Act 1988); of any person other than the second person, unless the Board is satisfied that the inclusion of the information is necessary for a purpose mentioned in paragraph (d). Note: A defendant bears an evidential burden in relation to the matters in subsection (5): see subsection 13.3(3) of the Criminal Code. Disclosures to a prescribed professional disciplinary"
+    },
+    {
+      "key": "section:70-40.p2",
+      "title": "Section 70-40 - Exceptions to the prohibition on disclosure of official information",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-40",
+      "main_structural_heading": "Exceptions to the prohibition on disclosure of official information",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-E--Miscellaneous > Section 70-40",
+      "text": "breach or suspected breach; and (e) the record or disclosure is of information that does not include: (i) the *ABN; or (ii) the name; or (iii) contact details; or (iv) personal information (within the meaning of the Privacy Act 1988); of any person other than the second person, unless the Board is satisfied that the inclusion of the information is necessary for a purpose mentioned in paragraph (d). Note: A defendant bears an evidential burden in relation to the matters in subsection (5): see subsection 13.3(3) of the Criminal Code. Disclosures to a prescribed professional disciplinary body (6) Subsection 70-35(1) does not apply if: (a) the person (the first person) makes the record for, or the disclosure to, a professional disciplinary body that is prescribed by the regulations for the purposes of this subsection (a prescribed disciplinary body); and (b) the record or disclosure is of information that concerns another person (the second person) and an act or omission (or a suspected act or omission) of the second person that the first person reasonably suspects may constitute a breach by the second person of the prescribed disciplinary body&#39;s code of conduct or professional standards, however described; and (c) the record or disclosure is made for the purpose of enabling or assisting the prescribed disciplinary body to perform one or more of its functions in respect of the second person; and (d) the record or disclosure is of information that does not include: (i) the *ABN; or (ii) the name; or (iii) contact details; or (iv) personal information (within the meaning of the Privacy Act 1988); of any person other than the second person, unless the Board is satisfied that the inclusion of the information is necessary for the purpose mentioned in paragraph (c). Note: A defendant bears an evidential burden in relation to the matters in subsection (6): see subsection 13.3(3) of the Criminal Code."
+    },
+    {
+      "key": "section:70-45",
+      "title": "Section 70-45 - On - disclosure of official information",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-45",
+      "main_structural_heading": "On - disclosure of official information",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-E--Miscellaneous > Section 70-45",
+      "text": "Offence--on-disclosure of information\n (1) A person commits an offence if:\n (a) the person:\n (i) makes a record of information; or\n (ii) discloses information to another person (other than a person to whom the information relates or the person&#39;s *agent in relation to the information) or to a court or tribunal; and\n (b) the information was acquired by the first -mentioned person under an exception in section 70-40 or in this section; and\n (c) the first-mentioned person did not acquire the information in the course of, or because of, his or her duties under or in relation to this Act or the regulations.\nPenalty: Imprisonment for 2 years.\nConsent is not a defence\n (2) It is not a defence to a prosecution for an offence against subsection  (1) that the entity to whom the information relates has consented to:\n (a) the making of the record; or\n (b) the disclosure of the information.\nExceptions\n (3) Subsection (1) does not apply if the information was already available to the public (otherwise than as a result of a contravention of subsection  (1) or 70-35(1)).\nNote: A defendant bears an evidential burden in relation to the matters in subsection (3): see subsection  13.3(3) of the Criminal Code.\n (4) Subsection (1) does not apply if:\n (a) the information was originally disclosed under an exception in section  70-40 for a purpose specified in that exception (the original purpose); and\n (b) the information was acquired by the person under this section or an exception in section  70-40; and\n (c) the record or disclosure is made by the person for the original purpose, or in connection with the original purpose.\nNote: A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection  13.3(3) of the Criminal Code.\n (5) Without limiting subsection  (4), a record or disclosure is made by the person in connection with the original purpose if the record or disclosure is for purposes of criminal, civil or administrative proceedings (including merits review or judicial review) that are related to the original purpose.\nLimit on on-disclosure to courts or tribunals\n (6) A person is not to be required to disclose to a court or tribunal information that was acquired by the person under this section, except if it is necessary to do so for the purpose of carrying into effect the provisions of this Act or the regulations."
+    },
+    {
+      "key": "section:70-50",
+      "title": "Section 70-50 - Legal professional privilege",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-50",
+      "main_structural_heading": "Legal professional privilege",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-E--Miscellaneous > Section 70-50",
+      "text": "This Act does not affect the law relating to legal professional privilege."
+    },
+    {
+      "key": "section:70-55",
+      "title": "Section 70-55 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-55",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-E--Miscellaneous > Section 70-55",
+      "text": "(1) The Governor-General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n (2) In particular, regulations may be made in relation to transitional matters relating to the enactment of this Act and the repeal of Part  VIIA of the Income Tax Assessment Act 1936.\nTable of sections\nSection 70-60 Address for service of notices\nSection 70-65 How documents may be given"
+    },
+    {
+      "key": "section:70-60",
+      "title": "Section 70-60 - Address for service of notices",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-60",
+      "main_structural_heading": "Address for service of notices",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-F--Address for service of notices > Section 70-60",
+      "text": "(1) An entity&#39;s address for service of notices by the Board for the purposes of this Act is:\n (a) a physical address in Australia; or\n (b) a postal address in Australia; or\n (c) an electronic address;\nthat the entity has given the Board as the entity&#39;s address for service for the purposes of this Act.\n (2) If an entity has given the Board more than one address for service for the purposes of subsection  (1), the entity&#39;s address for service is such of those addresses as the Board considers reasonable in the circumstances.\n (3) If an entity has not given the Board an address for service, the entity&#39;s address for service is the address that the Board reasonably believes to be the entity&#39;s address for service for the purposes of this Act."
+    },
+    {
+      "key": "section:70-65",
+      "title": "Section 70-65 - How documents may be given",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-65",
+      "main_structural_heading": "How documents may be given",
+      "defined_term": null,
+      "structure_path": "Part 7--MISCELLANEOUS > Division 70--Miscellaneous > Subdivision 70-F--Address for service of notices > Section 70-65",
+      "text": "(1) For the purposes of this Act, a document (however described) may be given to an entity:\n (a) in the manner specified in section  28A of the Acts Interpretation Act 1901; or\n (b) if the entity&#39;s address for service is an electronic address--by sending it to that address; or\n (c) if the entity is a company and a liquidator of the company has been appointed--by leaving it at, or posting it to, the address of the liquidator&#39;s office in the most recent notice of that address lodged with *ASIC; or\n (d) if the entity is a company and an administrator of the company has been appointed--by leaving it at, or posting it to, the address of the administrator in the most recent notice of that address lodged with ASIC.\n (2) Despite section 29 of the Acts Interpretation Act 1901, a document posted under subsection (1) of this section is taken to be given at the time the Board posts it.\n (3) This Subdivision has effect despite paragraphs 9(1)(d) and (2)(d) of the Electronic Transactions Act 1999.\nTable of sections\nSection 80-1 What forms part of this Act\nSection 80-2 What does not form part of this Act\nSection 80-5 The role of Guides in interpreting this Act"
+    },
+    {
+      "key": "section:80-1",
+      "title": "Section 80-1 - What forms part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "80-1",
+      "main_structural_heading": "What forms part of this Act",
+      "defined_term": null,
+      "structure_path": "Part 8--INTERPRETATION > Division 80--Rules for interpreting this Act > Section 80-1",
+      "text": "(1) These all form part of this Act:\n (a) the headings to the Parts, Divisions and Subdivisions of this Act;\n (b) *Guides;\n (c) the headings to the sections and subsections of this Act;\n (d) the notes and examples (however described) that follow provisions of this Act.\n (2) The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision."
+    },
+    {
+      "key": "section:80-2",
+      "title": "Section 80-2 - What does not form part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "80-2",
+      "main_structural_heading": "What does not form part of this Act",
+      "defined_term": null,
+      "structure_path": "Part 8--INTERPRETATION > Division 80--Rules for interpreting this Act > Section 80-2",
+      "text": "Tables of Subdivisions and tables of sections do not form part of this Act."
+    },
+    {
+      "key": "section:80-5",
+      "title": "Section 80-5 - The role of Guides in interpreting this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "80-5",
+      "main_structural_heading": "The role of Guides in interpreting this Act",
+      "defined_term": null,
+      "structure_path": "Part 8--INTERPRETATION > Division 80--Rules for interpreting this Act > Section 80-5",
+      "text": "(1) A Guide consists of sections under a heading indicating that what follows is a Guide to a particular Subdivision, Division etc.\n (2) A Guide forms part of this Act, but is kept separate from operative provisions. In interpreting an operative provision, a Guide may only be considered:\n (a) in determining the purpose or object underlying the provision; or\n (b) to confirm that the provision&#39;s meaning is the ordinary meaning conveyed by its text, taking into account its context in the Act and the purpose or object underlying the provision; or\n (c) in determining the provision&#39;s meaning if the provision is ambiguous or obscure; or\n (d) in determining the provision&#39;s meaning if the ordinary meaning conveyed by its text, taking into account its context in the Act and the purpose or object underlying the provision, leads to a result that is manifestly absurd or is unreasonable.\nTable of sections\nSection 90-1 Dictionary\nSection 90-5 Meaning of tax agent service\nSection 90-10 Meaning of BAS service\nSection 90-15 Meaning of tax (financial) advice service"
+    },
+    {
+      "key": "section:90-1.term:bas-service",
+      "title": "Section 90-1 Dictionary \"BAS service\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"BAS service\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"BAS service\" has the meaning given by section 90-10."
+    },
+    {
+      "key": "section:90-1.term:board",
+      "title": "Section 90-1 Dictionary \"Board\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Board\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Board\" means the Tax Practitioners Board established by section 60-5."
+    },
+    {
+      "key": "section:90-1.term:board-member",
+      "title": "Section 90-1 Dictionary \"Board member\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Board member\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Board member\" means a member of the Board appointed in accordance with section 60-25 (including the Chair)."
+    },
+    {
+      "key": "section:90-1.term:chair",
+      "title": "Section 90-1 Dictionary \"Chair\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Chair\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Chair\" means the Chair of the Board."
+    },
+    {
+      "key": "section:90-1.term:code-of-professional-conduct",
+      "title": "Section 90-1 Dictionary \"Code of Professional Conduct\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Code of Professional Conduct\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Code of Professional Conduct\" means the Code of Professional Conduct set out in section 30-10."
+    },
+    {
+      "key": "section:90-1.term:committee",
+      "title": "Section 90-1 Dictionary \"committee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"committee\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"committee\" means a committee established under section 60-85."
+    },
+    {
+      "key": "section:90-1.term:community-representative",
+      "title": "Section 90-1 Dictionary \"community representative\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"community representative\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"community representative\" has the meaning given by section 60-25."
+    },
+    {
+      "key": "section:90-1.term:disqualified-entity",
+      "title": "Section 90-1 Dictionary \"disqualified entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"disqualified entity\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"disqualified entity\" has the meaning given by subsection 45-5(2).\n\"evidential burden\", in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist."
+    },
+    {
+      "key": "section:90-1.term:executive-officer",
+      "title": "Section 90-1 Dictionary \"executive officer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"executive officer\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"executive officer\" has the meaning given by section 60-25."
+    },
+    {
+      "key": "section:90-1.term:external-administration",
+      "title": "Section 90-1 Dictionary \"external administration\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"external administration\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"external administration\": a person goes into external administration if the person becomes a Chapter 5 body corporate (within the meaning of the Corporations Act 2001)."
+    },
+    {
+      "key": "section:90-1.term:federal-court",
+      "title": "Section 90-1 Dictionary \"Federal Court\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Federal Court\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Federal Court\" means the Federal Court of Australia."
+    },
+    {
+      "key": "section:90-1.term:financial-services-and-credit-panel",
+      "title": "Section 90-1 Dictionary \"Financial Services and Credit Panel\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Financial Services and Credit Panel\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Financial Services and Credit Panel\" has the same meaning as in the Australian Securities and Investments Commission Act 2001 ."
+    },
+    {
+      "key": "section:90-1.term:financial-services-licensee",
+      "title": "Section 90-1 Dictionary \"financial services licensee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"financial services licensee\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"financial services licensee\" has the same meaning as in the Corporations Act 2001."
+    },
+    {
+      "key": "section:90-1.term:guide",
+      "title": "Section 90-1 Dictionary \"Guide\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Guide\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"Guide\" has the meaning given by section 80-5."
+    },
+    {
+      "key": "section:90-1.term:official-information",
+      "title": "Section 90-1 Dictionary \"official information\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"official information\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"official information\" means information that:\n (a) was disclosed or obtained under or for the purposes of this Act; and\n (b) relates to the affairs of a person; and\n (c) identifies, or is reasonably capable of being used to identify, the person."
+    },
+    {
+      "key": "section:90-1.term:prescribed-tax-agent",
+      "title": "Section 90-1 Dictionary \"prescribed tax agent\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"prescribed tax agent\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"prescribed tax agent\" has the meaning given by section 60-25."
+    },
+    {
+      "key": "section:90-1.term:qualified-tax-relevant-provider",
+      "title": "Section 90-1 Dictionary \"qualified tax relevant provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"qualified tax relevant provider\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"qualified tax relevant provider\" has the same meaning as in the Corporations Act 2001."
+    },
+    {
+      "key": "section:90-1.term:registered-bas-agent",
+      "title": "Section 90-1 Dictionary \"registered BAS agent\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"registered BAS agent\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"registered BAS agent\" means an entity that is registered under this Act as a registered BAS agent.\nNote: In most cases, an entity is taken not to be a registered BAS agent if the entity is suspended from providing BAS services under section  30-25."
+    },
+    {
+      "key": "section:90-1.term:registered-tax-agent",
+      "title": "Section 90-1 Dictionary \"registered tax agent\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"registered tax agent\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"registered tax agent\" means an entity that is registered under this Act as a registered tax agent.\nNote: In most cases, an entity is taken not to be a registered tax agent if the entity is suspended from providing tax agent services under section  30-25."
+    },
+    {
+      "key": "section:90-1.term:registered-tax-agent-or-bas-agent",
+      "title": "Section 90-1 Dictionary \"registered tax agent or BAS agent\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"registered tax agent or BAS agent\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"registered tax agent or BAS agent\" means an entity that is registered under this Act as a registered tax agent or a registered BAS agent."
+    },
+    {
+      "key": "section:90-1.term:registered-tax-agents-and-bas-agents",
+      "title": "Section 90-1 Dictionary \"registered tax agents and BAS agents\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"registered tax agents and BAS agents\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"registered tax agents and BAS agents\" means entities that are registered under this Act as registered tax agents and entities that are registered under this Act as registered BAS agents."
+    },
+    {
+      "key": "section:90-1.term:relevant-provider",
+      "title": "Section 90-1 Dictionary \"relevant provider\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"relevant provider\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"relevant provider\" has the same meaning as in the Corporations Act 2001."
+    },
+    {
+      "key": "section:90-1.term:representative",
+      "title": "Section 90-1 Dictionary \"representative\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"representative\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"representative\" has the meaning given by paragraph (a) of the definition of that expression in section 9 of the Corporations Act 2001."
+    },
+    {
+      "key": "section:90-1.term:serious-taxation-offence",
+      "title": "Section 90-1 Dictionary \"serious taxation offence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"serious taxation offence\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"serious taxation offence\" means:\n (a) an offence against section  134.1, 134.2, 135.1, 135.2 or 135.4 of the Criminal Code, if the offence relates to a tax liability (within the meaning of the Taxation Administration Act 1953); or\n (b) a *taxation offence that is punishable on conviction by a fine exceeding 40 penalty units, or imprisonment, or both."
+    },
+    {
+      "key": "section:90-1.term:significant-breach-of-the-code",
+      "title": "Section 90-1 Dictionary \"significant breach of the Code\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"significant breach of the Code\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"significant breach of the Code\" means a breach of the *Code of Professional Conduct by a *registered tax agent or BAS agent if the breach:\n (a) constitutes an indictable offence, or an offence involving dishonesty, under an *Australian law; or\n (b) results, or is likely to result, in material loss or damage to another entity (including the Commonwealth); or\n (c) is otherwise significant, including taking into account any one or more of the following:\n (i) the number or frequency of similar breaches by the agent;\n (ii) the impact of the breach on the agent&#39;s ability to provide *tax agent services;\n (iii) the extent to which the breach indicates that the agent&#39;s arrangements to ensure compliance with the Code are inadequate; or\n  (d) is a breach of a kind prescribed by the regulations for the purposes of this paragraph."
+    },
+    {
+      "key": "section:90-1.term:tax-agent-service",
+      "title": "Section 90-1 Dictionary \"tax agent service\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tax agent service\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"tax agent service\" has the meaning given by section 90-5."
+    },
+    {
+      "key": "section:90-1.term:taxation-offence",
+      "title": "Section 90-1 Dictionary \"taxation offence\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxation offence\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"taxation offence\" has the meaning given by section 8A of the Taxation Administration Act 1953 ."
+    },
+    {
+      "key": "section:90-1.term:tax-financial-advice-service",
+      "title": "Section 90-1 Dictionary \"tax (financial) advice service\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tax (financial) advice service\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"tax (financial) advice service\" has the meaning given by section 90-15."
+    },
+    {
+      "key": "section:90-1.term:tax-practitioner-registration-requirements",
+      "title": "Section 90-1 Dictionary \"tax practitioner registration requirements\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tax practitioner registration requirements\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"tax practitioner registration requirements\" means the matters about which the Board must, under Subdivision 20-A, be satisfied before the Board is obliged to grant an application for registration under this Act."
+    },
+    {
+      "key": "section:90-1.term:virtual-enquiry-technology",
+      "title": "Section 90-1 Dictionary \"virtual enquiry technology\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-1",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"virtual enquiry technology\"",
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-1",
+      "text": "\"virtual enquiry technology\" means any technology that allows a person to appear at all or part of a hearing, examination or other enquiry without being physically present at the hearing, examination or other enquiry.\n (2) An expression has the same meaning in this Act as in the Income Tax Assessment Act 1997 (other than the expression &quot;this Act&quot;)."
+    },
+    {
+      "key": "section:90-5",
+      "title": "Section 90-5 - Meaning of tax agent service",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-5",
+      "main_structural_heading": "Meaning of tax agent service",
+      "defined_term": null,
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-5",
+      "text": "(1) A tax agent service is any service:\n (a) that relates to:\n (i) ascertaining liabilities, obligations or entitlements of an entity that arise, or could arise, under a *taxation law; or\n (ii) advising an entity about liabilities, obligations or entitlements of the entity or another entity that arise, or could arise, under a taxation law; or\n (iii) representing an entity in their dealings with the Commissioner; and\n (b) that is provided in circumstances where the entity can reasonably be expected to rely on the service for either or both of the following purposes:\n (i) to satisfy liabilities or obligations that arise, or could arise, under a taxation law;\n (ii) to claim entitlements that arise, or could arise, under a taxation law.\n (2) A service specified in the regulations for the purposes of this subsection is not a tax agent service.\nNote: For specification by class, see subsection 13(3) of the Legislation Act 2003."
+    },
+    {
+      "key": "section:90-10",
+      "title": "Section 90-10 - Meaning of BAS service",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-10",
+      "main_structural_heading": "Meaning of BAS service",
+      "defined_term": null,
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-10",
+      "text": "(1) A BAS service is a *tax agent service:\n (a) that relates to:\n (i) ascertaining liabilities, obligations or entitlements of an entity that arise, or could arise, under a *BAS provision; or\n (ii) advising an entity about liabilities, obligations or entitlements of the entity or another entity that arise, or could arise, under a BAS provision; or\n (iii) representing an entity in their dealings with the Commissioner in relation to a BAS provision; and\n (b) that is provided in circumstances where the entity can reasonably be expected to rely on the service for either or both of the following purposes:\n (i) to satisfy liabilities or obligations that arise, or could arise, under a BAS provision;\n (ii) to claim entitlements that arise, or could arise, under a BAS provision.\n (1AA) A *tax agent service that relates to any of the following is also a BAS service:\n (a) section 9 of the A New Tax System (Australian Business Number) Act 1999;\n (b) sections 202CD and 202CF of the Income Tax Assessment Act 1936;\n (c) the Superannuation Guarantee Charge Act 1992;\n (d) Part 3B of the Superannuation Industry (Supervision) Act 1993;\n (e) Part 5-30 in Schedule 1 to the Taxation Administration Act 1953 .\n (1AB) A *tax agent service that relates to the Superannuation Guarantee (Administration) Act 1992 is also a BAS service to the extent that it relates to a payroll function or payments to contractors.\n (1A) The Board may, by legislative instrument, specify that another service is a BAS service.\n (2) A service specified in the regulations for the purposes of this subsection is not a BAS service.\nNote: For specification by class, see subsection 13(3) of the Legislation Act 2003."
+    },
+    {
+      "key": "section:90-15",
+      "title": "Section 90-15 - Meaning of tax (financial) advice service",
+      "main_structural_unit": "section",
+      "main_structural_number": "90-15",
+      "main_structural_heading": "Meaning of tax (financial) advice service",
+      "defined_term": null,
+      "structure_path": "Part 8--INTERPRETATION > Division 90--Dictionary > Section 90-15",
+      "text": "(1) A tax (financial) advice service is a *tax agent service (other than within the meaning of subparagraph  (1)(a)(iii) of the definition of that expression) provided by a *financial services licensee or a *representative of a financial services licensee in the course of giving advice of a kind usually given by a financial services licensee or a representative of a financial services licensee to the extent that:\n (a) the service relates to:\n (i) ascertaining liabilities, obligations or entitlements of an entity that arise, or could arise, under a *taxation law; or\n (ii) advising an entity about liabilities, obligations or entitlements of the entity or another entity that arise, or could arise, under a taxation law; and\n (b) the service is provided in circumstances where the entity can reasonably be expected to rely on the service for either or both of the following purposes:\n (i) to satisfy liabilities or obligations that arise, or could arise, under a taxation law;\n (ii) to claim entitlements that arise, or could arise, under a taxation law.\n (2) The Board may, by legislative instrument, specify that another service is a tax (financial) advice service.\n (3) However, a service is not a tax (financial) advice service if:\n (a) it consists of preparing a return or a statement in the nature of a return; or\n (b) it is specified in the regulations for the purposes of this paragraph."
+    }
+  ]
+}

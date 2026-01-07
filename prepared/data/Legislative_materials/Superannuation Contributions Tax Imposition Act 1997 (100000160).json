@@ -1,0 +1,103 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/sctia1997532/",
+    "register_url": "https://www.legislation.gov.au/C2004A05170/latest/text",
+    "source": "Superannuation Contributions Tax Imposition Act 1997 (100000160).txt",
+    "filename": "Superannuation Contributions Tax Imposition Act 1997 (100000160).json",
+    "name": "Superannuation Contributions Tax Imposition Act 1997",
+    "citation": "Superannuation Contributions Tax Imposition Act 1997"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 1",
+      "text": "This Act may be cited as the Superannuation Contributions Tax\n         Imposition Act 1997."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 2",
+      "text": "This Act commences on the day on which it receives the Royal\n         Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 3",
+      "text": "Expressions used in this Act that are defined by the\n         Superannuation Contributions Tax (Assessment and Collection) Act\n         1997 have the same meanings as in that Act."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Imposition of superannuation contributions surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Imposition of superannuation contributions surcharge",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 4",
+      "text": "The superannuation contributions surcharge that is payable on a\n         memberâs surchargeable contributions for a financial year under the\n         Superannuation Contributions Tax (Assessment and Collection) Act\n         1997 is imposed by this Act.\n         Note:    Surcharge is not payable for the financial year that began\n                on 1Â July 2005 or a later financial yearâsee subsection 7(1)\n                of the Superannuation Contributions Tax (Assessment and\n                Collection) Act 1997."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Rate of superannuation contributions surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Rate of superannuation contributions surcharge",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 5",
+      "text": "(1AA) In this section:\n         higher income amount means:\n      (a)   for the 2003-2004 financial yearâ$114,981; and\n      (b)   for the 2004-2005 financial yearâthat amount as indexed under\n             sectionÂ 7.\n         lower income amount means:\n      (a)   for the 2003-2004 financial yearâ$94,691; and\n      (b)   for the 2004-2005 financial yearâthat amount as indexed under\n             sectionÂ 7.\n         maximum surcharge percentage means:\n      (a)   for the 2003-2004 financial yearâ14.5%; and\n      (b)   for the 2004-2005 financial yearâ12.5%.\n      (1)   Unless subsectionÂ (3) applies, if the memberâs adjusted taxable\n         income for a financial year (relevant adjusted taxable income) is\n         not less than the lower income amount but is less than the higher\n         income amount, the rate of the superannuation contributions\n         surcharge that applies to the member for that year is the\n         percentage (calculated to 5 decimal places) of the memberâs\n         surchargeable contributions for that year worked out using the\n         formula:\n         where:\n         A is:\n      (1A)  If the percentage calculated under subsectionÂ (1) for a\n         financial year would, if it were worked out to 6 decimal places,\n         end with a number greater than 4, the number so calculated is\n         increased by 0.00001.\n      (2)   If the memberâs adjusted taxable income for a financial year is\n         equal to, or greater than, the higher income amount, the rate of\n         the superannuation contributions surcharge that applies to the\n         member for that year is the maximum surcharge percentage of the\n         memberâs surchargeable contributions for that year.\n      (3)   If:\n      (a)   the member has not quoted his or her tax file number in\n             connection with the operation or the possible future operation\n             of the Superannuation Contributions Tax (Collection and\n             Assessment) Act 1997 to the superannuation provider, or one of\n             the superannuation providers, who, at the end of a financial\n             year, held any of the memberâs surchargeable contributions for\n             that year; and\n      (b)   the Commissioner has not, after taking all reasonable steps,\n             found out the memberâs tax file number; and\n      (c)   the Commissioner has written a letter to the member at the\n             memberâs last-known address telling the member that, if the\n             member does not quote his or her tax file number, the rate of\n             surcharge that will apply to the member for a financial year\n             (the relevant financial year) may be the maximum surcharge\n             percentage of the memberâs surchargeable contributions for the\n             relevant financial year;\n         the following provisions have effect:\n      (d)   if contributed amounts in respect of contributions began to be\n             paid for or by the member to a superannuation provider before\n             7Â May 1997 and the memberâs surchargeable contributions for the\n             relevant financial year exceed the surchargeable contributions\n             thresholdâthe rate of surcharge that applies in respect of the\n             memberâs surchargeable contributions for the relevant financial\n             year is the maximum surcharge percentage of those\n             contributions;\n      (e)   if contributed amounts in respect of contributions began to be\n             paid for or by the member to a superannuation provider before\n             7Â May 1997 and the memberâs surchargeable contributions for the\n             relevant financial year do not exceed the surchargeable\n             contributions thresholdâthe rate of surcharge that applies in\n             respect of the memberâs surchargeable contributions for the\n             relevant financial year is nil;\n      (f)   subject to subsectionÂ (4), if no contributed amounts in respect\n             of contributions began to be paid for or by the member to a\n             superannuation provider before 7Â May 1997âthe rate of surcharge\n             that applies in respect of the memberâs surchargeable\n             contributions for the relevant financial year is the maximum\n             surcharge percentage of those contributions.\n      (4)   If:\n      (a)   the Commissioner has written a letter to a member as mentioned\n             in paragraphÂ (3)(c); and\n      (b)   the member has not quoted his or her tax file number as\n             mentioned in paragraphÂ (3)(a) within 3 months after the letter\n             was sent;\n         paragraphÂ (3)(f) does not apply in respect of the member unless the\n         Commissioner has, after that period, written a further letter to\n         the member:\n      (c)   to an address determined by the Commissioner as most\n             appropriate for the letter to reach the member; and\n      (d)   in the same terms as the earlier letter."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Surchargeable contributions threshold",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Surchargeable contributions threshold",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 6",
+      "text": "Surchargeable contributions threshold for the 1996-97 financial\n         year\n      (1)   The surchargeable contributions threshold for the 1996-97\n         financial year is $2,000.\n         Surchargeable contributions for a later financial year\n      (2)   The surchargeable contributions threshold for a financial year\n         (the relevant financial year) after the 1996-97 financial year is\n         the amount worked out using the formula:\n         where:\n         previous threshold means the surchargeable contributions threshold\n         for the financial year immediately before the relevant financial\n         year.\n         indexation factor means the number worked out under subsections\n         9(4) and (5) of the Superannuation Contributions Tax (Assessment\n         and Collection) Act 1997 for the relevant financial year.\n         current charge percentage means the number that is specified in\n         subsection 19(2) of the Superannuation Guarantee (Administration)\n         Act 1992 for the quarter beginning on 1Â July of the relevant\n         financial year.\n         previous charge percentage means the number that is specified in\n         subsection 19(2) of the Superannuation Guarantee (Administration)\n         Act 1992 for the quarter beginning on 1Â July of the financial year\n         immediately before the relevant financial year."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Indexation",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Indexation",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 7",
+      "text": "Indexation of certain amounts for 2004-05 financial year\n      (1)   SectionÂ 5 applies in relation to an indexing financial year as\n         if each indexable amount were replaced by the amount worked out\n         using the formula:\n         where:\n         previous indexable amount means the indexable amount for the\n         financial year immediately before the indexing financial year.\n         relevant indexation factor means the indexation factor for the\n         indexing financial year.\n         Rounding off of indexed amounts\n      (2)   If an amount worked out under subsectionÂ (1) is an amount of\n         dollars and cents:\n      (a)   if the number of cents is less than 50âthe amount is to be\n             rounded down to the nearest whole dollar; or\n      (b)   otherwiseâthe amount is to be rounded up to the nearest whole\n             dollar.\n         Indexation factor\n      (3)   The indexation factor for an indexing financial year is the\n         number calculated, to 3 decimal places, using the formula:\n         where:\n         current March year means the period of 12 months ending on 31Â March\n         immediately before the indexing financial year.\n         previous March year means the period of 12 months immediately\n         before the current March year.\n         Rounding up of indexation factor\n      (4)   If the number calculated under subsectionÂ (3) for a financial\n         year would, if it were worked out to 4 decimal places, end with a\n         number greater than 4, the number so calculated is increased by\n         0.001.\n         Change in index numbers\n      (5)   If, at any time, whether before or after the commencement of\n         this Act, the Australian Statistician has published or publishes an\n         index number for a quarter in substitution for an index number\n         previously published for the quarter, the publication of the later\n         index number is to be disregarded.\n         Indexable amounts to be published\n      (6)   The Commissioner must publish before, or as soon as practicable\n         after, the start of the 2004-05 financial year the indexable\n         amounts as replaced under subsectionÂ (1) for that year.\n         Definitions\n      (7)   In this section:\n         indexable amount means:\n      (a)   an amount stated in sectionÂ 5; or\n      (b)   if that amount has previously been altered under this\n             sectionâthe altered amount.\n         indexing financial year means the 2004-05 financial year.\n         index number, for a quarter, means the estimate of full-time adult\n         average weekly ordinary time earnings for the middle month of the\n         quarter published by the Australian Statistician.\n         Note:    For the purposes of this section, Australian Statistician\n                means the Australian Statistician referred to in subsection\n                5(2) of the Australian Bureau of Statistics Act 1975."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Severability",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Severability",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 8",
+      "text": "If, apart from this section, sectionÂ 4 would impose in relation\n         to a State, or an authority or officer of a State, a superannuation\n         contributions surcharge the imposition of which in relation to the\n         State, authority or officer would exceed the legislative power of\n         the Commonwealth, sectionÂ 4 has effect as if it did not impose that\n         surcharge in relation to the State, authority or officer, as the\n         case may be."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Act does not impose tax on property of State",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Act does not impose tax on property of State",
+      "defined_term": null,
+      "structure_path": "Superannuation Contributions Tax Imposition Act 1997 > Section 9",
+      "text": "(1)   Without limiting sectionÂ 7, this Act does not impose a tax on\n         property of any kind belonging to a State.\n      (2)   In this section:\n         property of any kind belonging to a State has the same meaning as\n         in sectionÂ 114 of the Constitution.\nNotes to the Superannuation Contributions Tax Imposition Act 1997\nNote 1\nThe Superannuation Contributions Tax Imposition Act 1997 as shown in this\ncompilation comprises Act No.Â 72, 1997 amended as indicated in the Tables\nbelow.\nFor all relevant information pertaining to application, saving or\ntransitional provisions see Table A.\nTable of Acts\n|Act             |Number  |Date     |Date of     |Applica|\n|                |and year|of Assent|commencement|tion,  |\n|                |        |         |            |saving |\n|                |        |         |            |or     |\n|                |        |         |            |transit|\n|                |        |         |            |ional  |\n|                |        |         |            |provisi|\n|                |        |         |            |ons    |\n|Superannuation  |72, 1997|5Â June   |5Â June 1997 |       |\n|Contributions   |        |1997     |            |       |\n|Tax Imposition  |        |         |            |       |\n|Act 1997        |        |         |            |       |\n|Superannuation  |186,    |7 Dec    |ScheduleÂ 1: |â      |\n|Contributions   |1997    |1997     |5Â June 1997 |       |\n|Tax Imposition  |        |         |(a)         |       |\n|Amendment Act   |        |         |Remainder:  |       |\n|1997            |        |         |Royal Assent|       |\n|Taxation Laws   |51, 2002|29Â June  |ScheduleÂ 1  |Sch. 1 |\n|Amendment       |        |2002     |(itemsÂ 189, |(item  |\n|(Superannuation)|        |         |190): 1Â July|202(5),|\n|Act (No.Â 2) 2002|        |         |2003        |(6))   |\n|                |        |         |ScheduleÂ 1  |       |\n|                |        |         |(itemÂ 202(5)|       |\n|                |        |         |, (6)):     |       |\n|                |        |         |Royal Assent|       |\n|Superannuation  |112,    |12 Nov   |ScheduleÂ 1: |Sch. 1 |\n|(Surcharge Rate |2003    |2003     |1Â July 2003 |(itemÂ 3|\n|Reduction)      |        |         |Remainder:  |2)     |\n|Amendment Act   |        |         |Royal Assent|       |\n|2003            |        |         |            |       |\n|Superannuation  |106,    |30Â June  |30Â June 2004|Sch. 2 |\n|Budget Measures |2004    |2004     |            |(itemÂ 1|\n|Act 2004        |        |         |            |1(1))  |\n|Superannuation  |102,    |12 Aug   |12 Aug 2005 |â      |\n|Laws Amendment  |2005    |2005     |            |       |\n|(Abolition of   |        |         |            |       |\n|Surcharge) Act  |        |         |            |       |\n|2005            |        |         |            |       |\n(a)   The Superannuation Contributions Tax Imposition Act 1997 was amended\n   by ScheduleÂ 1 only of the Superannuation Contributions Tax Imposition\n   Amendment Act 1997, subsection 2(2) of which provides as follows:\n      (2)   ScheduleÂ 1 is taken to have commenced on 5Â June 1997,\n         immediately after the commencement of the Superannuation\n         Contributions Tax Imposition Act 1997.\nTable of Amendments\n|ad. = added or inserted      am. = amended      rep. =|\n|repealed      rs. = repealed and substituted          |\n|Provision affected|How affected                        |\n|Note to s. 4      |ad. No.Â 102, 2005                   |\n|S. 5              |am. No.Â 186, 1997; No.Â 112, 2003;   |\n|                  |No.Â 106, 2004; No.Â 102, 2005        |\n|S. 6              |am. No.Â 51, 2002                    |\n|Subhead. to s.    |am. No.Â 112, 2003; No.Â 102, 2005    |\n|7(1)              |                                    |\n|S. 7              |am. No.Â 112, 2003; No.Â 102, 2005    |\nTable A\nApplication, saving or transitional provisions\nTaxation Laws Amendment (Superannuation) Act (No.Â 2) 2002 (No.Â 51, 2002)\nScheduleÂ 1\nSection 202 Application of amendments made by PartÂ 2\n(5)   Subject to subitemÂ (6), the amendments made by itemsÂ 189 to 192 apply\n      in relation to surcharge imposed by the Superannuation Contributions\n      Tax Imposition Act 1997 and the Superannuation Contributions Tax\n      (Members of Constitutionally Protected Superannuation Funds)\n      Imposition Act 1997 for the 2003-2004 financial year and later\n      financial years.\n(6)   However, for the 2003-2004 year, the amount that is the previous\n      charge percentage (which is a number that relates to the 2002-2003\n      year) is to be determined as if the amendments made by itemsÂ 190 and\n      192 had not been made.\nSuperannuation (Surcharge Rate Reduction) Amendment Act 2003\n      (No.Â 112, 2003)\nScheduleÂ 1\nSection 32 Application of amendments made by PartÂ 1\n      The amendments made by PartÂ 1 apply in relation to liability to\n      surcharge in respect of the 2003-04 financial year and later financial\n      years.\nNote: The Acts amended by PartÂ 1 continue to apply in relation to liability\n      to surcharge in respect of financial years that ended before 1Â July\n      2003 as if the amendments made by PartÂ 1 had not been made.\nSuperannuation Budget Measures Act 2004 (No.Â 106, 2004)\nScheduleÂ 2\nSection 11 Application of amendments\n(1)   The amendments made by PartÂ 1 of this Schedule apply in relation to\n      liability to surcharge in respect of the 2004-05 financial year and\n      later financial years."
+    }
+  ]
+}

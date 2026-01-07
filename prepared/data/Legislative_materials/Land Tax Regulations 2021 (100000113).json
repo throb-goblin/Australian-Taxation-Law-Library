@@ -1,0 +1,93 @@
+{
+  "doc": {
+    "jurisdiction": "tasmania",
+    "source_url": "https://classic.austlii.edu.au/au/legis/tas/consol_reg/ltr2021199/",
+    "register_url": "https://www.legislation.tas.gov.au/view/html/inforce/current/sr-2021-096",
+    "source": "Land Tax Regulations 2021 (100000113).txt",
+    "filename": "Land Tax Regulations 2021 (100000113).json",
+    "name": "Land Tax Regulations 2021",
+    "citation": "Land Tax Regulations 2021"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title These regulations may be cited as the Land Tax Regulations 2021 .",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title These regulations may be cited as the Land Tax Regulations 2021 .",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 1",
+      "text": ""
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement These regulations take effect on 15 December 2021.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement These regulations take effect on 15 December 2021.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 2",
+      "text": ""
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Interpretation In these regulations - Act means the Land Tax Act 2000 .",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation In these regulations - Act means the Land Tax Act 2000 .",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 3",
+      "text": ""
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Prescribed owner of land For the purposes of paragraph (b) of the definition of owner in section 3A(1) of the Act, the following persons are prescribed:",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Prescribed owner of land For the purposes of paragraph (b) of the definition of owner in section 3A(1) of the Act, the following persons are prescribed:",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 4",
+      "text": "(a) in the case of land not registered under the Land Titles Act\n     1980 and subject to a mortgage or other encumbrance under which a\n     person is entitled to an equity of redemption, the person for the\n     time being having that equity of redemption;\n     (b) in the case of land not registered under the Land Titles Act\n     1980 and not subject to a mortgage or other encumbrance -\n     (i) if a person is entitled to an estate of freehold in the land for\n     his or her life, that person; or\n     (ii) if subparagraph (i) does not apply, the person entitled to an\n     estate in fee simple in the land."
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Repatriation health card For the purposes of section 19(a)(ii) of the Act, a Repatriation Health Card - For All Conditions, with a war widow or war widower endorsement, issued under the Veterans' Entitlements Act 1986 of the Commonwealth is prescribed to be equivalent to a Pensioner Concession Card.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Repatriation health card For the purposes of section 19(a)(ii) of the Act, a Repatriation Health Card - For All Conditions, with a war widow or war widower endorsement, issued under the Veterans' Entitlements Act 1986 of the Commonwealth is prescribed to be equivalent to a Pensioner Concession Card.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 5",
+      "text": ""
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Amendment of assessment An amendment of an assessment of land tax made under the Land and Income Taxation Act 1910 for any financial year ending on or before",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Amendment of assessment An amendment of an assessment of land tax made under the Land and Income Taxation Act 1910 for any financial year ending on or before",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 6",
+      "text": ""
+    },
+    {
+      "key": "regulation:30",
+      "title": "Regulation 30 - June 2000 is to be made under that Act as if it had not been repealed.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "30",
+      "main_structural_heading": "June 2000 is to be made under that Act as if it had not been repealed.",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 30",
+      "text": ""
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - Prescribed fees The following fees are prescribed as the fees payable for the matters to which they respectively relate:",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "Prescribed fees The following fees are prescribed as the fees payable for the matters to which they respectively relate:",
+      "defined_term": null,
+      "structure_path": "Land Tax Regulations 2021 > Regulation 7",
+      "text": "(a) if an application for a search under section 42(1) of the Act, a\n     fee of 6 fee units;\n     (b) if an issue of a certificate under section 42(2) of the Act, a\n     fee of 1.5 fee units.\n   Displayed and numbered in accordance with the Rules Publication Act\n   1953.\n   Notified in the Gazette on 1 December 2021\n   These regulations are administered in the Department of Treasury and\n   Finance."
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "doc": {
+    "jurisdiction": "victoria",
+    "source_url": "https://classic.austlii.edu.au/au/legis/vic/consol_act/tca1984208/",
+    "register_url": "https://www.legislation.vic.gov.au/in-force/acts/trustee-companies-act-1984/",
+    "source": "Trustee Companies Act 1984 (100000190).txt",
+    "filename": "Trustee Companies Act 1984 (100000190).json",
+    "name": "Trustee Companies Act 1984",
+    "citation": "Trustee Companies Act 1984"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Part I--PRELIMINARY > Section 1",
+      "text": "This Act may be cited as the Trustee\nCompanies Act 1984."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Part I--PRELIMINARY > Section 2",
+      "text": "The several provisions of this Act shall come\ninto operation on a day or the respective days to be fixed by proclamation or\nsuccessive proclamations of the Governor in Council published in the Government\nGazette.\nS. 3\nrepealed by No.\n45/1994s. 42(Sch.\nitem 13.1).\n     *     *     *     *     *"
+    },
+    {
+      "key": "section:4.term:domestic-partner",
+      "title": "Section 4 Definitions \"domestic partner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"domestic partner\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"domestic partner\" of a person means&#8212;\n         (a)     a person who is in a registered relationship with the person;\nor\n         (b)     an adult person to whom the person is not married but with whom the\nperson is in a relationship as a couple where one or each of them provides\npersonal or financial commitment and support of a domestic nature for the\nmaterial benefit of the other, irrespective of their genders and whether or not\nthey are living under the same roof, but does not include a person who provides\ndomestic support and personal care to the person&#8212;\n               (i)     for fee or reward; or\n               (ii)     on behalf of another person or an organisation (including a\ngovernment or government agency, a body corporate or a charitable or benevolent\norganisation);"
+    },
+    {
+      "key": "section:4.term:estate",
+      "title": "Section 4 Definitions \"estate\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"estate\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"estate\" includes all real and personal property of whatever\nnature or kind committed to the administration or management of a trustee\ncompany;\nS. 4(1) def. of financial institution\namended by Nos 46/1998s. 7(Sch.\n1), 11/2001 s. 3(Sch. item 82.1(b)), repealed by No. 17/2010\ns. 3(1)(a).\n     *     *     *     *     *"
+    },
+    {
+      "key": "section:4.term:gross-value",
+      "title": "Section 4 Definitions \"gross value\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"gross value\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"gross value\" means&#8212;\n         (a)     in relation to an estate (other than an estate or any part of an\nestate in relation to which there is a perpetual trust) the aggregate\nof&#8212;\n               (i)     the actual amount paid out of an estate in the due course of\nadministration or management from capital for debts, duties, liabilities and\nadministration expenses and to or on behalf of beneficiaries; and\n               (ii)     the amount of the value at the time of distribution or appropriation\nof any assets distributed or appropriated in specie to any beneficiary without\ndeduction of any liabilities; or\n         (b)     in relation to the whole or part of an estate in relation to which\nthere is a perpetual trust&#8212;the value at the time the whole or part of the\nestate is committed to the trustee company without deduction of any\nliabilities;\nS. 4(1) def. of insurance\ncompany repealed by No. 17/2010 s. 3(1)(a).\n     *     *     *     *     *"
+    },
+    {
+      "key": "section:4.term:manager",
+      "title": "Section 4 Definitions \"manager\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"manager\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"manager\" includes acting manager;"
+    },
+    {
+      "key": "section:4.term:managing-director",
+      "title": "Section 4 Definitions \"managing director\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"managing director\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"managing director\" includes acting managing\ndirector;\nS. 4(1) def. of nominee corporation\namended by No. 44/2001 s. 3(Sch. item 118.1(a)), substituted by\nNo. 9/2002 s. 3(Sch. item 15.1), repealed by No. 17/2010\ns. 3(1)(a).\n     *     *     *     *     *"
+    },
+    {
+      "key": "section:4.term:prescribed",
+      "title": "Section 4 Definitions \"prescribed\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"prescribed\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"prescribed\" means prescribed by this Act or the\nregulations;\nS. 4(1) def. of reserve fund amended\nby No. 76/1988 s. 4, repealed by No. 17/2010\ns. 3(1)(a).\n     *     *     *     *     *\nS. 4(1) def. of related corporation\nsubstituted by No. 44/2001 s. 3(Sch. item 118.1(b)), repealed by\nNo. 17/2010 s. 3(1)(a).\n     *     *     *     *     *\nS. 4(1) def. of spouse inserted by\nNo. 27/2001 s. 8(Sch. 6 item 8.1)."
+    },
+    {
+      "key": "section:4.term:spouse",
+      "title": "Section 4 Definitions \"spouse\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"spouse\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"spouse\" of a person means a person to whom the person is\nmarried;\nS. 4(1) def. of State Trustees\ninserted by No. 17/2010 s. 3(1)(b)."
+    },
+    {
+      "key": "section:4.term:state-trustees",
+      "title": "Section 4 Definitions \"State Trustees\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"State Trustees\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"State Trustees\" has the same meaning as in the State\nTrustees (State Owned Company) Act 1994;\nS. 4(1) def. of subordinated\nloan repealed by No. 17/2010 s. 3(1)(a).\n     *     *     *     *     *\nS. 4(1) def. of\ntrustee company substituted\nby No. 17/2010 s. 3(1)(c)."
+    },
+    {
+      "key": "section:4.term:trustee-company",
+      "title": "Section 4 Definitions \"trustee company\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"trustee company\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"trustee company\" means&#8212;\n         (a)     a licensed trustee company within the meaning of section 601RAA of the\nCorporations Act; or\n         (b)     State Trustees;\nS. 4(1) def. of voting shares amended\nby No. 44/2001 s. 3(Sch. item 118.1(a)), repealed by\nNo. 17/2010 s. 3(1)(a).\n     *     *     *     *     *"
+    },
+    {
+      "key": "section:4.term:will",
+      "title": "Section 4 Definitions \"will\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"will\"",
+      "structure_path": "Part I--PRELIMINARY > Section 4",
+      "text": "\"will\" includes codicil and any other testamentary\ndisposition.\nS. 4(2) repealed by No. 17/2010\ns. 3(2).\n     *     *     *     *     *\nS. 4(3) substituted by No. 44/2001\ns. 3(Sch. item 118.2), repealed by No. 17/2010\ns. 3(2).\n     *     *     *     *     *\nS. 4(4) amended by No.\n46/1998s. 7(Sch. 1), repealed by\nNo. 17/2010 s. 3(2).\n     *     *     *     *     *\nS. 4(5) inserted by No. 27/2001\ns. 8(Sch. 6 item 8.2), substituted by No. 12/2008\ns. 73(1)(Sch. 1 item 62.2).\n     (5)     For the purposes of the definition of domestic\npartner in subsection (1)&#8212;\n         (a)     \"registered relationship\" has the same meaning as in the\nRelationships Act 2008; and\n         (b)     in determining whether persons who are not in a registered\nrelationship are domestic partners of each other, all the circumstances of their\nrelationship are to be taken into account, including any one or more of the\nmatters referred to in section 35(2) of the Relationships Act 2008 as may\nbe relevant in a particular case; and\n         (c)     a person is not a domestic partner of another person only because they\nare co-tenants.\nS. 5 amended by Nos\n46/1998s. 7(Sch. 1), 44/2001\ns. 3(Sch. items 118.3, 118.4), repealed by No. 17/2010\ns. 4.\n     *     *     *     *     *\nPt 2 (Heading and ss 6&#8211;8) amended by\nNos 76/1988 ss 5, 6, 46/1998 s. 7(Sch. 1), repealed by\nNo. 17/2010 s. 5.\n     *     *     *     *     *\nPart\nIII&#8212;Powers of trustee companies\nNo. 6402 s. 4.\nS.\nSection 9amended by No. 74/2000\ns. 3(Sch. 1 item 133)."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Trustee company may act as executor or administrator",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Trustee company may act as executor or administrator",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 9",
+      "text": "Where a trustee company is named either alone\nor jointly as executor in the will of a testator (whether the will was made\nbefore or after the commencement of this section) the trustee company may act as\nexecutor, and may apply for and obtain probate of the will of the testator and\nmay perform and discharge all the acts and duties of an executor as fully and\neffectually as an executor who is a private individual.\nNo. 6402\nss 6, 7."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Authority for trustee company to obtain probate",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Authority for trustee company to obtain probate",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 10",
+      "text": "(1)     Where a person is named expressly or by\nimplication as executor and is entitled to obtain probate of the will of a\ntestator, that person may&#8212;\n         (a)     instead of applying personally, authorize a trustee company to apply\nfor and obtain probate of the will; or\n         (b)     join with a trustee company in an application for a grant of probate\nof the will to the person and the trustee company jointly.\n     (2)     An application under subsection (1) may be granted unless the testator\nhas by will expressed the desire that the office of executor is not to be\ndelegated or that the trustee company so applying is not to act in the trusts of\nthe will.\nNo. 6402\nss 5, 8."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Authority for trustee company to obtain letters of administration",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Authority for trustee company to obtain letters of administration",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 11",
+      "text": "(1)     In any case in which a person may apply\nfor and obtain a grant of letters of administration of the estate of a deceased\nperson (whether with or without the will annexed), that person\nmay&#8212;\n         (a)     join with a trustee company in an application for a grant of letters\nof administration to the person and the trustee company jointly; or\n         (b)     instead of applying personally, authorize a trustee company to apply\nfor and obtain a grant of letters of administration to the estate.\n     (2)     Where&#8212;\n         (a)     a person joins with a trustee company in an application under\nsubsection (1); or\nS. 11(2)(b) amended by No. 45/1994\ns. 42(Sch. item 13.2).\n         (b)     a trustee company makes an application that it has, pursuant to\nsubsection (1)(b), been authorized to make&#8212;\nthe Supreme Court may grant letters of administration of the estate in\naccordance with the application.\n     (3)     Where administration of any estate with or without the will annexed is\ngranted to a trustee company either alone or jointly with any other person, that\ntrustee company may do and perform all acts and duties which belong to the\noffice of administrator or administrator with the will annexed, as the case may\nbe, as fully and effectually as an administrator who is a private\nindividual.\nS. 11A inserted by No. 84/1991 s. 16,\nrepealed by No.\n80/2014s. 46.\n     *     *     *     *     *\nNo. 6402 s. 9."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Court may act on affidavit of manager etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Court may act on affidavit of manager etc.",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 12",
+      "text": "In all cases in which a trustee company is\nempowered by this Act or any other Act to apply for probate of a will or for\nletters of administration in respect of the estate of a deceased person, the\nSupreme Court may receive and act upon an affidavit made by the managing\ndirector, manager, district manager, assistant manager, secretary or such other\nofficer of the trustee company as may from time to time be appointed by the\nboard of directors of the trustee company for that purpose in place of any\naffidavit required by any Act or rule of the Supreme Court to be made by persons\nmaking application for probate or for letters of administration.\nNo. 6402 s. 10."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Appointment as trustee etc.",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Appointment as trustee etc.",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 13",
+      "text": "S. 13(1)\namended by No. 17/2010 s. 6(1).\n     (1)     Where probate or letters of administration are granted to a trustee\ncompany, the capital, and all other assets of the trustee company shall be\nliable for the proper administration of the estate committed to the trustee\ncompany.\nS. 13(2) repealed by No. 17/2010\ns. 6(2).\n     *     *     *     *     *\nNo. 6402 s. 11."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Trustee company may be appointed trustee, receiver or guardian of estate",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Trustee company may be appointed trustee, receiver or guardian of estate",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 14",
+      "text": "S. 14(1)\nsubstituted by No. 59/1986 s. 143(2).\n     (1)     Where a court, judge or other person has power to appoint a person\nas&#8212;\n         (a)     trustee;\n         (b)     guardian of a minor; or\n         (c)     sole guarantor or surety for a person appointed as trustee or\nguardian&#8212;\na trustee company may be so appointed and may continue to act until removed\nfrom office.\nS. 14(2) amended by Nos 59/1986\ns. 143(2), 52/1998 s.\n311(Sch. 1 item 99.1), 13/2019 s. 221(Sch. 1 item\n56.1).\n     (2)     Where a trustee company is appointed to an office referred to in\nsubsection (1) or as an administrator under the Guardianship and\nAdministration Act 2019, the capital of the trustee company and all other\nassets of the trustee company shall be liable for the proper discharge of the\nduties committed to the trustee company and that liability shall be deemed\nsufficient security for the discharge of those duties in place of the bond\nrequired from private persons when appointed as trustee, guardian,\nadministrator, guarantor or surety.\nNo. 6402 s. 12."
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Trustee company may act under power of attorney",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Trustee company may act under power of attorney",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 15",
+      "text": "S. 15(1) amended\nby No. 76/1988 s. 7.\n     (1)     It shall be lawful for a trustee company to act under any power of\nattorney by which the trustee company is appointed attorney by any person, and\nall the powers conferred upon the trustee company by any such power of attorney\nmay be exercised and carried into execution by such officers of the trustee\ncompany as it determines.\n     (2)     The capital and all other assets of a trustee company shall be liable\nfor the due execution of the powers conferred by subsection (1) upon the trustee\ncompany.\n     (3)     This section does not authorize any person to confer any power upon a\ntrustee company which cannot be legally conferred upon a private\nindividual.\nNo. 6402 s. 13."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Trustee company may be appointed to act as temporary executor, administrator or trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Trustee company may be appointed to act as temporary executor, administrator or trustee",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 16",
+      "text": "An executor, administrator or trustee may\nappoint a trustee company to act as executor, administrator or trustee, and a\ntrustee company, if so appointed by power of attorney, may act within the scope\nof the authority conferred upon it as effectually as the executor, administrator\nor trustee could have acted and may exercise all discretionary and other powers\ndelegated by the principal as fully as the principal could have exercised\nthem.\nNo. 6402 s. 14."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Executor or administrator may appoint trustee company",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Executor or administrator may appoint trustee company",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 17",
+      "text": "S. 17(1) amended\nby No. 59/1986 s. 143(2).\n     (1)     It shall be lawful&#8212;\n         (a)     for an executor or administrator acting under any probate or letters\nof administration, whether granted before or after the commencement of this\nsection;\n         (b)     for a trustee;\nS. 17(1)(c) substituted by Nos 59/1986\ns. 143(2), 52/1998 s.\n311(Sch. 1 item 99.2), amended by No. 13/2019 s. 221(Sch. 1 item\n56.2).\n         (c)     with the consent of the Victorian Civil and Administrative Tribunal,\nfor an administrator appointed under the Guardianship and Administration Act\n2019; or\nS. 17(1)(d) substituted by No. 59/1986\ns. 143(2).\n         (d)     with the consent of the Supreme Court, for the guardian of a\nminor&#8212;\nto appoint a trustee company to perform and discharge all the acts and\nduties of the executor, administrator, trustee or guardian and the trustee\ncompany shall have power to perform and discharge those acts and\nduties.\n     (2)     Where a trustee company is appointed under subsection\n(1)&#8212;\n         (a)     the capital and all other assets of the trustee company shall be\nliable for the proper discharge of the duties referred to in subsection\n(1);\nS. 17(2)(b) amended by No. 59/1986\ns. 143(2).\n         (b)     the executor, administrator, trustee or guardian that appointed the\ntrustee company shall be released from liability in respect of all acts done, or\nomitted to be done, by the trustee company acting under that\nappointment.\nNo. 6402 s. 15."
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Application for consent",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Application for consent",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 18",
+      "text": "(1)     An application may be made to the Supreme\nCourt for consent under section 17.\n     (2)     Notice of an intended application shall be advertised seven days\nbefore the making of the application in a daily newspaper circulating generally\nin Victoria.\n     (3)     The Supreme Court may require any person resident in Victoria and\nentitled to the immediate receipt of any of the income or corpus of the estate\nin respect of which the application is made to be served with notice of the\nintended application.\n     (4)     The costs of the application shall be in the discretion of the Supreme\nCourt and may be ordered to be paid out of the estate.\n     (5)     The consent of the Supreme Court shall not be given in the case of a\nwill in which the testator has expressed the wish that the trusts should not be\ndelegated or that a trustee company should not act.\nS. 19 amended by No. 59/1986 s. 143(2),\nrepealed by No. 17/2010 s. 7.\n     *     *     *     *     *\nS. 20 repealed by No. 17/2010\ns. 7.\n     *     *     *     *     *\nS. 20A inserted by No. 84/1991 s. 17,\namended by Nos 35/1996s. 453(Sch.\nSection 1 item 86.1(a)(b)), 102/1997 s.\n49(Sch.item 7),\nsubstituted by No. 18/2005 s. 18(Sch. 1 item 110.1), amended by\nNo. 17/2014 s. 160(Sch. 2 item 100.1)."
+    },
+    {
+      "key": "section:20A",
+      "title": "Section 20A - Preparation of wills",
+      "main_structural_unit": "section",
+      "main_structural_number": "20A",
+      "main_structural_heading": "Preparation of wills",
+      "defined_term": null,
+      "structure_path": "Part III--POWERS OF TRUSTEE COMPANIES > Section 20A",
+      "text": "Despite anything to the contrary in the Legal\nProfession Uniform Law (Victoria), a trustee company may prepare wills and\ncharge a fee and recover disbursements for will preparation and other related\nservices, if the wills are prepared under the direction and control of an\nAustralian legal practitioner within the meaning of that Act.\nPt 4 (Heading and ss 21&#8211;24) amended by\nNos 59/1986 s. 143(2), 110/1986 s. 140(2), 76/1988 ss 8, 9,\n45/1994 s. 42(Sch. item 13.3), 104/1995 s. 7, 52/1998\ns. 311(Sch. 1 item 99.3), 24/2000\ns. 20(1)(2), repealed by No. 17/2010 s. 8.\n     *     *     *     *     *\nPart\nV&#8212;Administration of estates\nPt 5 Div. 1 (Heading) inserted by No.\n76/2012 s. 25(a).\nDivision\n1&#8212;General\nNo. 6402 s. 20."
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Trustee company to be subject to same duties as individual",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Trustee company to be subject to same duties as individual",
+      "defined_term": null,
+      "structure_path": "Part V--ADMINISTRATION OF ESTATES > Division 1--General > Section 25",
+      "text": "S. 25(1)\nsubstituted by No. 59/1986 s. 143(2), amended by No. 41/2017\ns. 27.\n     (1)     Except as otherwise provided in this Act and subject to sections\nSection 65C and 65D of the Administration and Probate Act 1958, where\na trustee company has been or is appointed or has acted or acts in any\noffice referred to in section 14, 16 or 17, the trustee company, in addition to\nthe liabilities and restrictions imposed by this Act is subject to the same\nrespective rights, duties and obligations to which any individual acting in any\nsuch capacity would be subject.\n     (2)     Where an individual acting in any capacity referred to in subsection\n(1) would be liable to attachment, commitment, or to any process, the managers\nand directors of the trustee company shall, where the trustee company is acting\nin any such capacity, each be liable for any individual acts and not further or\notherwise in person to attachment, commitment or other process.\nNo. 6402 s. 21."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Trustee company may be removed from office by Supreme Court",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Trustee company may be removed from office by Supreme Court",
+      "defined_term": null,
+      "structure_path": "Part V--ADMINISTRATION OF ESTATES > Division 1--General > Section 26",
+      "text": "S. 26(1)\nsubstituted by No. 59/1986 s. 143(2).\n     (1)     In every case in which a trustee company has been or is appointed to\nany office referred to in section 14, 16 or 17 or under any power of\nattorney the trustee company, in addition to the liabilities and restrictions\nimposed by this Act, is subject in all respects to the same control and liable\nto removal in the same manner as a private individual who may be appointed\nexecutor, administrator, trustee, guardian or attorney would be.\n     (2)     It shall be lawful for all persons who may claim relief against a\ntrustee company for any act done or assumed to be done or in respect of any act\nomitted to be done by the trustee company, its directors or officers under any\nof the powers conferred by this Act to apply to the Supreme Court or in any\nother court of competent jurisdiction for an order against the trustee company\nor against any of its directors or officers and the court may make and enforce\nsuch order in the matter as to the court seems just.\nPt 5 Div. 2 (Heading) inserted by No.\n76/2012 s. 25(b).\nDivision\n2&#8212;Transfer of estate assets and liabilities\nS. 26AA inserted by No. 76/2012\ns. 26."
+    },
+    {
+      "key": "section:26AA",
+      "title": "Section 26AA - Definitions",
+      "main_structural_unit": "section",
+      "main_structural_number": "26AA",
+      "main_structural_heading": "Definitions",
+      "defined_term": null,
+      "structure_path": "Part V--ADMINISTRATION OF ESTATES > Division 2--Transfer of estate assets and liabilities > Section 26AA",
+      "text": "(1)     Terms used in this Division and in Part\nSection 5D.6 of the Corporations Act have the same meanings in this Division as they\nhave in that Part.\n     (2)     For the of avoidance of doubt&#8212;\n         (a)     a reference in Part 5D.6 of the Corporations Act to the Public Trustee\nof a State or Territory is taken to be, in relation to Victoria, a reference to\nState Trustees; and\n         (b)     a reference in this Division to a receiving company includes a\nreference to State Trustees.\nS. 26A (Heading) substituted by No. 76/2012\ns. 27(1).\nS. 26A inserted by No. 17/2010\ns. 9."
+    },
+    {
+      "key": "section:26A",
+      "title": "Section 26A - Transfer determinations under the Corporations Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "26A",
+      "main_structural_heading": "Transfer determinations under the Corporations Act",
+      "defined_term": null,
+      "structure_path": "Part V--ADMINISTRATION OF ESTATES > Division 2--Transfer of estate assets and liabilities > Section 26A",
+      "text": "(1)     This section applies if&#8212;\nS. 26A(1)(a) substituted by No. 76/2012\ns. 27(2).\n         (a)     the Australian Securities and Investments Commission\n(ASIC) makes a determination under section 601WBA(1) of the\nCorporations Act that there is to be a transfer of estate assets and liabilities\nfrom a transferring company to a receiving company; and\n         (b)     ASIC issues a certificate of transfer under section 601WBG of the\nCorporations Act for the transfer; and\n         (c)     either or both of the transferring company and the receiving company\nare registered in Victoria.\n     (2)     When the certificate of transfer comes into force, the receiving\ncompany is taken to be the successor in law in relation to estate assets and\nliabilities of the transferring company, to the extent of the\ntransfer.\nNote\nSection 601WBG(2)(d) of the Corporations Act requires the certificate of\ntransfer to state when it is to come into force.\n     (3)     Without limiting subsection (2)&#8212;\n         (a)     if the transfer is a total transfer&#8212;\n               (i)     all of the assets of the transferring company become assets of the\nreceiving company; and\n               (ii)     all of the liabilities of the transferring company become liabilities\nof the receiving company&#8212;\nwithout the need for any further transfer, conveyance, assignment or\nassurance; and\n         (b)     if the transfer is a partial transfer&#8212;\n               (i)     assets of the transferring company listed in the certificate of\ntransfer in accordance with section 601WBG(2)(c) of the Corporations Act become\nassets of the receiving company; and\n               (ii)     liabilities of the transferring company listed in the certificate of\ntransfer in accordance with section 601WBG(2)(c) of the Corporations Act become\nliabilities of the receiving company&#8212;\nwithout the need for any further transfer, conveyance, assignment or\nassurance; and\n         (c)     to the extent of the transfer, the duties, obligations, immunities,\nrights and privileges applying to the transferring company apply to the\nreceiving company.\n     (4)     If the certificate of transfer includes provisions of the kind\nreferred to in section 601WBG(3) of the Corporations Act\nspecifying&#8212;\n         (a)     that particular things are to happen or are taken to be the\ncase&#8212;those things are, by force of this section, taken to happen or to be\nthe case, in accordance with those provisions;\n         (b)     a mechanism for determining things that are to happen or are\ntaken to be the case&#8212;things determined in accordance with the mechanism\nare, by force of this section, taken to happen, or to be the case, as determined\nin accordance with that mechanism.\nS. 26B inserted by No. 17/2010\ns. 9."
+    },
+    {
+      "key": "section:26B",
+      "title": "Section 26B - Exemption from State tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "26B",
+      "main_structural_heading": "Exemption from State tax",
+      "defined_term": null,
+      "structure_path": "Part V--ADMINISTRATION OF ESTATES > Division 2--Transfer of estate assets and liabilities > Section 26B",
+      "text": "(1)     In this section&#8212;\n\"exempt matter\" means the transfer of the estate assets and\nliabilities of a transferring company to a receiving company under Division 2 of\nPart 5D.6 of the Corporations Act;\n\"State tax\" means application or registration fees, duty under\nthe Duties Act 2000 or any other tax, duty, fee or charge imposed by any\nAct or law of the State.\n     (2)     State tax is not payable in relation to&#8212;\n         (a)     an exempt matter; or\n         (b)     anything done because of, or for a purpose connected with or arising\nout of, an exempt matter.\nS. 27 amended by Nos 110/1986 s.\n140(2), 46/1998s. 7(Sch. 1),\n27/2001 s. 8(Sch. 6 item 8.3), repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nS. 28 amended by No. 110/1986 s.\n140(2), repealed by No. 17/2010 s. 10.\n     *     *     *     *     *\nS. 29 amended by Nos 59/1986\ns. 143(2), 110/1986 s. 140(2), repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nS. 30 amended by Nos 55/1987\ns. 57(3)(Sch. 5 item 80), 45/1994\ns. 42(Sch. item 13.4),\n46/1998s. 7(Sch. 1), 12/1999\ns. 4(Sch. 2 item 20.1), repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nS. 31 amended by Nos 76/1988\ns. 10, 44/2001 s. 3(Sch.\nitem 118.5), repealed by No. 17/2010 s. 10.\n     *     *     *     *     *\nS. 32 amended by Nos 76/1988\ns. 11, 11/2001 s. 3(Sch. item 82.2), repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nS. 33 repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nS. 34 amended by No. 11/2001\ns. 3(Sch. item 82.2), repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nS. 35 amended by\nNos 46/1998s. 7(Sch. 1),\n44/2001 s. 3(Sch. item 118.6), repealed by No. 17/2010\ns. 10.\n     *     *     *     *     *\nPt 6 (Heading and ss 36&#8211;39) amended by\nNos 76/1988 ss 12, 14(1), 104/1995 ss 8, 9, 11/2001\ns. 3(Sch. item 82.2), 44/2001 s. 3(Sch. item 118.7),\nrepealed by No. 17/2010 s. 11.\n     *     *     *     *     *\nPt 7 (Heading and ss 40&#8211;42) amended by\nNos 76/1988 ss 13, 14(2)(3), 104/1995 ss 10&#8211;12, 24/2000\ns. 20(3), 11/2001 s. 3(Sch. item 82.2), 44/2001 s. 3(Sch.\nitem 118.8), 9/2002\ns. 3(Sch. item 15.2), repealed by No. 17/2010\ns. 12.\n     *     *     *     *     *\nPart\nVIII&#8212;Claims and distribution\nNo. 6402 s. 31."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Refusal of claim",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Refusal of claim",
+      "defined_term": null,
+      "structure_path": "Part VIII--CLAIMS AND DISTRIBUTION > Section 43",
+      "text": "(1)     Whenever a trustee company refuses to\nrecognize in whole or in part the claim of a person who claims to be a creditor\nagainst the estate of any deceased person, the trustee company may give notice\nin writing of such refusal to the person so claiming.\n     (2)     If the person does not, within three months after the receipt of a\nnotice under subsection (1), institute proceedings to enforce the claim, it\nshall be lawful for the trustee company to distribute the assets of the deceased\nperson without regard to the claim or to so much of the claim as the trustee\ncompany has by the notice refused to recognize, and thereupon the right of the\nperson to recover the amount of the claim or the part of the claim which the\ntrustee company has by the notice refused to recognize shall be absolutely\nbarred.\n     (3)     For the purposes of this section, a notice may be served on a person\nby posting it in a registered letter addressed to the person at the address\ngiven in the claim, and such a notice shall be deemed to have been received by\nthe person in the ordinary course of post unless the trustee company has notice\nto the contrary before the distribution of the assets.\nNo. 6402 ss 32,\n33.\nS. 44 amended by No. 110/1986\ns. 140(2), substituted by No. 84/1991 s. 18."
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Power to make distribution if claimants fail to claim",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Power to make distribution if claimants fail to claim",
+      "defined_term": null,
+      "structure_path": "Part VIII--CLAIMS AND DISTRIBUTION > Section 44",
+      "text": "(1)     This section applies if&#8212;\n         (a)     a trustee company has been granted probate of a will or administration\nof an estate; and\n         (b)     the trustee company has been informed of the existence at any time of\na person who, if he or she had survived the testator or intestate, would have\nbeen entitled to a legacy under the will or to the whole or a distributive share\nof the estate; and\n         (c)     a claim has not been made within 3 years after the grant of probate or\nadministration by the person or any person claiming through that person or as\none of his or her issue.\n     (2)     The trustee company may&#8212;\n         (a)     submit a report to the Court specifying the material facts;\nand\n         (b)     obtain a direction from the Court as to the manner, form and type of\nadvertisements to be made before a distribution can be made.\n     (3)     The trustee company may distribute an estate as if the person had\npredeceased the testator or intestate without issue if&#8212;\n         (a)     the trustee company has obtained a direction from the Court under\nsubsection (2); and\n         (b)     the trustee company has complied with the direction; and\n         (c)     the claim of any claimant has been finally dealt with.\n     (4)     Nothing in this section shall prejudice the right of any person to\nfollow the assets or any part of the assets into the hands of the person or\npersons who have received them.\n     (5)     This section shall not be construed as in derogation from the\nprovisions of section 33 of the Trustee Act 1958.\nPt 9 (Heading and ss 45&#8211;49) amended by\nNos 55/1987 s. 57(3)(Sch. 5 item 81), 45/1994 s. 42(Sch. items\n13.5, 13.6),\n46/1998s.\n7(Sch. 1), 44/2001 s. 3(Sch. items 118.9&#8211;118.12),\n68/2009s. 97(Sch. item 127),\nrepealed by No. 17/2010 s. 13.\n     *     *     *     *     *\nPart\nX&#8212;General\nS. 50 amended by No. 44/2001\ns. 3(Sch. items 118.13, 118.14), repealed by No. 17/2010\ns. 14.\n     *     *     *     *     *\nS. 51 amended by No. 44/2001\ns. 3(Sch. items 118.15, 118.16), repealed by No. 17/2010\ns. 14.\n     *     *     *     *     *\nS. 52 amended by Nos\n46/1998s. 7(Sch. 1), 2/2009\ns. 31(1), repealed by No. 17/2010 s. 14.\n     *     *     *     *     *\nS. 53 repealed by No. 17/2010\ns. 14.\n     *     *     *     *     *\nNo. 6402 s. 36.\nS. 54 (Heading) inserted by No. 18/2005\ns. 18(Sch. 1 item 110.2).\nS. 54 amended by Nos 110/1986 s. 140(2),\n35/1996s. 453(Sch. 1 item\n86.2(a)&#8211;(d))."
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Testators may appoint their own lawyers",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Testators may appoint their own lawyers",
+      "defined_term": null,
+      "structure_path": "Part X--GENERAL > Section 54",
+      "text": "S. 54(1)\namended by No. 18/2005 s. 18(Sch. 1\nitem 110.3).\n     (1)     Where by any will a testator directs that an Australian legal\npractitioner shall conduct the legal business of the estate of the testator, an\nAustralian legal practitioner shall be entitled to act accordingly, but in such\na case the trustee company concerned shall not be liable for the negligence,\nmisfeasance, nonfeasance or misconduct of the practitioner, and the practitioner\nmay be removed by order of the Supreme Court upon the application of the trustee\ncompany or of any person interested in the estate upon cause shown, and then and\nin such case the Supreme Court may appoint the legal practitioner of the trustee\ncompany.\nS. 54(2) inserted by No. 35/1996\ns. 453(Sch. 1 item 86.3),\nsubstituted by No. 18/2005 s. 18(Sch. 1 item 110.4), repealed by\nNo. 17/2014 s. 160(Sch. 2 item 100.2).\n     *     *     *     *     *\nS. 54A inserted by No. 76/1988\ns. 14(4), repealed by No. 17/2010 s. 14.\n     *     *     *     *     *"
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Part X--GENERAL > Section 55",
+      "text": "The Governor in Council may make regulations\nfor or with respect to prescribing any matter or thing authorized or required to\nbe prescribed for the purposes of this Act.\nPt 11 (Heading and ss 56&#8211;61)\ninserted by No. 17/2010 s. 15.\nPart\nXI&#8212;Transitional provisions\nS. 56 inserted by No. 17/2010\ns. 15."
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Regulations of a savings or transitional nature",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Regulations of a savings or transitional nature",
+      "defined_term": null,
+      "structure_path": "Part XI--TRANSITIONAL PROVISIONS > Section 56",
+      "text": "(1)     Without limiting section 55, the Governor\nin Council may make regulations containing provisions of a transitional nature,\nincluding matters of an application or savings nature, arising as a result of\nthe enactment of the Trustee Companies Legislation Amendment Act 2010,\nincluding the repeals and amendments made by that Act.\n     (2)     Regulations made under this section may&#8212;\n         (a)     have a retrospective effect to a day on or from the date that the\nTrustee Companies Legislation Amendment Act 2010 receives the Royal\nAssent; and\n         (b)     be of limited or general application; and\n         (c)     leave any matter or thing to be decided by a specified person or class\nof persons; and\n         (d)     provide for the exemption of persons or matters or a class of persons\nor matters from any of the regulations made under this section.\n     (3)     To the extent to which a provision of the regulations made under this\nsection takes effect from a time that is earlier than the beginning of the day\non which the regulations containing the provision are made, the provision does\nnot operate so as&#8212;\n         (a)     to affect in a manner prejudicial to any person (other than the Crown\nor an authority of the Crown), the rights of that person existing before the\ndate of making of those regulations; or\n         (b)     to impose liabilities on any person (other than the Crown or an\nauthority of the Crown) in respect of anything done or omitted to be done before\nthe date of making of those regulations.\n     (4)     Regulations under this section have effect despite anything to the\ncontrary in any Act (other than this Act or the\nCharter of Human Rights and\nResponsibilities Act 2006) or in any subordinate\ninstrument.\nS. 57 inserted by No. 17/2010\ns. 15."
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Court may review rate of commission",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Court may review rate of commission",
+      "defined_term": null,
+      "structure_path": "Part XI--TRANSITIONAL PROVISIONS > Section 57",
+      "text": "Despite the repeal of section 21(3) by\nsection 8 of the Trustee Companies Legislation Amendment Act 2010,\nany application made to the Supreme Court for a review of the commission or rate\nof commission charged in respect of an estate that was made but not determined\nbefore that repeal is taken to continue in force and may be dealt with as if\nsection 21(3) had not been repealed.\nS. 58 inserted by No. 17/2010\ns. 15."
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Order for account and audit of estate",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Order for account and audit of estate",
+      "defined_term": null,
+      "structure_path": "Part XI--TRANSITIONAL PROVISIONS > Section 58",
+      "text": "Despite the repeal of sections 27 and 28 by\nsection 10 of the Trustee Companies Legislation Amendment Act 2010,\nany application made to the Supreme Court for an order for account that was made\nbut not determined before that repeal is taken to continue in force and may be\ndealt with as if sections 27 and 28 had not been repealed.\nS. 59 inserted by No. 17/2010\ns. 15."
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Order to restrain disposal of shares",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Order to restrain disposal of shares",
+      "defined_term": null,
+      "structure_path": "Part XI--TRANSITIONAL PROVISIONS > Section 59",
+      "text": "Despite the repeal of section 29 by\nsection 10 of the Trustee Companies Legislation Amendment Act 2010,\nany application made to the Supreme Court for an order to\nrestrain&#8212;\n         (a)     a director or any shareholder from disposing of any share that the\ndirector or shareholder holds in the trustee company; or\n         (b)     the voluntary winding up of a trustee company&#8212;\nthat was made but not determined before that repeal is taken to continue in\nforce and may be dealt with as if section 29 had not been repealed.\nS. 60 inserted by No. 17/2010\ns. 15."
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Order for winding up of trustee company",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Order for winding up of trustee company",
+      "defined_term": null,
+      "structure_path": "Part XI--TRANSITIONAL PROVISIONS > Section 60",
+      "text": "Despite the repeal of section 30 by\nsection 10 of the Trustee Companies Legislation Amendment Act 2010,\nany application made to the Supreme Court for an order for the winding up of a\ntrustee company that was made but not determined before that repeal is taken to\ncontinue in force and may be dealt with as if section 30 had not been\nrepealed.\nS. 61 inserted by No. 17/2010\ns. 15."
+    },
+    {
+      "key": "section:61",
+      "title": "Section 61 - General transitional provision",
+      "main_structural_unit": "section",
+      "main_structural_number": "61",
+      "main_structural_heading": "General transitional provision",
+      "defined_term": null,
+      "structure_path": "Part XI--TRANSITIONAL PROVISIONS > Section 61",
+      "text": "(1)     The amendments and repeals made by the\nTrustee Companies Legislation Amendment Act 2010 are not taken to affect\nany duties, obligations, rights, liabilities, immunities and privileges that\napply to a trustee company pursuant to this Act that are not otherwise dealt\nwith by Chapter 5D of the Corporations Act.\n     (2)     Despite the commencement of the Trustee Companies Legislation\nAmendment Act 2010, any entitlement of a trustee company to fees or\ncommissions that existed under this Act immediately before that commencement\ncontinue to exist and may be dealt with as if this Act, as in force before that\ncommencement, continued to apply.\n     (3)     Despite the commencement of the Trustee Companies Legislation\nAmendment Act 2010, any action taken or duties performed by a trustee\ncompany under this Act before that commencement are not taken to be affected by\nthat commencement.\n     (4)     Despite the commencement of the Trustee Companies Legislation\nAmendment Act 2010, if a trustee company was a party to any proceedings\nbrought under this Act that were pending\nimmediately before that commencement, the\ntrustee company continues to be a party and this Act, as in force before that\ncommencement, continues to apply to those proceedings.\nSchs(Heading)repealed\nbyNo.\n80/2014s. 47.\n     *     *     *     *     *\nSch. 1 repealed by No. 45/1994\ns. 42(Sch. item 13.1).\n     *     *     *     *     *\nSch. 2 amended by No. 45/1994\ns. 42(Sch. item 13.7), substituted by No. 104/1995 s. 13,\namended by Nos 103/2004 s. 83, 2/2009 s. 31(2), repealed by\nNo. 17/2010 s. 16.\n     *     *     *     *     *\nSch. 3 repealed by No. 84/1991\ns. 19.\n     *     *     *     *     *\n&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;&#205;"
+    }
+  ]
+}

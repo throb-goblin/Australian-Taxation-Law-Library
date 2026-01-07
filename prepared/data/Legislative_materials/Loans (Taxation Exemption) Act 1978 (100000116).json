@@ -1,0 +1,63 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/lea1978285/",
+    "register_url": "https://www.legislation.gov.au/C2004A01959/latest/text",
+    "source": "Loans (Taxation Exemption) Act 1978 (100000116).txt",
+    "filename": "Loans (Taxation Exemption) Act 1978 (100000116).json",
+    "name": "Loans (Taxation Exemption) Act 1978",
+    "citation": "Loans (Taxation Exemption) Act 1978"
+  },
+  "chunks": [
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Loans (Taxation Exemption) Act 1978 > Section 2",
+      "text": "2. This Act shall come into operation on the day on which it receives the\nRoyal Assent.*1*\nLOANS (TAXATION EXEMPTION) ACT 1978 No. 160, 1978"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Interpretation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": null,
+      "structure_path": "Loans (Taxation Exemption) Act 1978 > Section 3",
+      "text": "3. (1) In this Act, unless the contrary intention appears-\n  ''law'' means a law of the Commonwealth or of a State or Territory;\n  ''prescribed borrowing'' means a borrowing of moneys outside Australia by or\non behalf of the Commonwealth upon terms and conditions that do not provide\nfor the issue of stock or securities of a kind to which section 6B of the\nLoans Securities Act 1919 applies.\n  (2) A reference in this Act to tax or duty shall be read as including a\nreference to withholding tax within the meaning of the Income Tax Assessment\nAct 1936 and to tax or duty in respect of-\n  (a)  the estates of deceased persons;\n  (b)  property derived from deceased persons; and\n  (c)  gifts or other dispositions of property.\nLOANS (TAXATION EXEMPTION) ACT 1978 No. 160, 1978"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Exemption from taxation of certain documents and payments",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Exemption from taxation of certain documents and payments",
+      "defined_term": null,
+      "structure_path": "Loans (Taxation Exemption) Act 1978 > Section 4",
+      "text": "4. (1) Where, by the terms and conditions upon which a prescribed borrowing\nhas been made, the Commonwealth has given an undertaking, however expressed,\nto the effect that a document relating to the borrowing will be exempt from,\nfree of, or not subject to taxes imposed in Australia, the document is not\nsubject to any tax or duty under any law.\n  (2) Where, by the terms and conditions upon which a prescribed borrowing has\nbeen made, the Commonwealth has given an undertaking, however expressed, to\nthe effect that an amount payable by or on behalf of the Commonwealth in\nrespect of the borrowing, whether by way of principal, interest, commitment\nfee or otherwise, will be exempt from, free of, or not subject to, taxes\nimposed in Australia, except where the person beneficially entitled to the\namount is a person included in a particular class of persons consisting of or\nincluding all residents of Australia, the amount-\n  (a)  is not subject to any tax or duty under any law; and\n  (b)  shall be disregarded for all purposes in determining the liability of\nany person to pay tax or duty under any law or in determining the amount of\nany such liability,\nunless, at the time of the Act, transaction or event that, according to the\nprovisions of the law imposing the tax or duty, gave rise to liability to the\ntax or duty, the person beneficially entitled to the amount was a person\nincluded in that particular class of persons.\nLOANS (TAXATION EXEMPTION) ACT 1978 No. 160, 1978"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Application of Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Application of Act",
+      "defined_term": null,
+      "structure_path": "Loans (Taxation Exemption) Act 1978 > Section 5",
+      "text": "5. This Act has effect notwithstanding anything contained in any law.\n------------------------------------------------------------------------------\n--\nLOANS (TAXATION EXEMPTION) ACT 1978 No. 160, 1978      - NOTE\n                                      NOTE\nSection 1. Act No. 160, 1978; assented to 28 November 1978."
+    },
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title.",
+      "defined_term": null,
+      "structure_path": "Loans (Taxation Exemption) Act 1978 > Section 1",
+      "text": ""
+    }
+  ]
+}

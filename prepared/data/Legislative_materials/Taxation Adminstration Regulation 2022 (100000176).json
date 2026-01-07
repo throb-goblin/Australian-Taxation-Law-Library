@@ -1,0 +1,175 @@
+{
+  "doc": {
+    "jurisdiction": "queensland",
+    "source_url": "https://classic.austlii.edu.au/au/legis/qld/consol_reg/tar2022360/",
+    "register_url": "https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2022-0108",
+    "source": "Taxation Adminstration Regulation 2022 (100000176).txt",
+    "filename": "Taxation Adminstration Regulation 2022 (100000176).json",
+    "name": "Taxation Adminstration Regulation 2022",
+    "citation": "Taxation Adminstration Regulation 2022"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 1",
+      "text": "This regulation may be cited as the Taxation Administration Regulation 2022.\nCommencement"
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 2",
+      "text": "This regulation commences on 2 September 2022.\nDefinitions"
+    },
+    {
+      "key": "regulation:3.term:bpay-facility",
+      "title": "Regulation 3 Definitions \"BPAY facility\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"BPAY facility\"",
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 3",
+      "text": "\"BPAY facility\" means a facility by that name offered by BPAY Pty Limited ACN\nRegulation 079 137 518."
+    },
+    {
+      "key": "regulation:3.term:payroll-tax",
+      "title": "Regulation 3 Definitions \"payroll tax\"",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Definitions",
+      "defined_term": "\"payroll tax\"",
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 3",
+      "text": "\"payroll tax\" means payroll tax chargeable under the Payroll Tax Act 1971,\nsection 10.\nPrescribed methods of paymentâAct, s 29"
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Prescribed methods of paymentâAct, s 29",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Prescribed methods of paymentâAct, s 29",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 4",
+      "text": "(1) For section 29 (1) (b) of the Act, an electronic payment method\n     is prescribed for payment of an amount of any of the followingâ\n          (a) a duty;\n          (b) payroll tax;\n          (c) land tax;\n          (d) betting tax;\n          (e) a royalty, royalty civil penalty or royalty fee;\n          (f) penalty tax or unpaid tax interest payable in relation\n          to a duty, payroll tax, land tax, betting tax or a royalty;\n          (g) a cost or expense under section 117 of the Act;\n          (h) a cost under the Duties Act 2001, section 505;\n          (i) a self assessor penalty;\n          (j) a fee under the Duties Act 2001 or the Land Tax Act\n          2010.\n     (2) Each of the following methods of payment is an\n     \"electronic payment method\" â\n          (a) BPAY facility;\n          (b) direct debit;\n          (c) electronic funds transfer;\n          (d) for payment of an amount of at least $10 but not more\n          than $50,000, including an amount payable under an\n          assessment notice relating to 1 or more of the taxes or\n          other liabilities mentioned in subsection (1) (a) to (f)\n          â\n               (i) Visa or MasterCard credit card; or\n               (ii) another credit card approved by the\n               commissioner by a notice published on the\n               departmentâs website.\n     (3) In this sectionâ\n     \"betting tax\" means betting tax imposed under the Betting Tax Act\n     2018, section 19.\n     \"duty\" means a duty imposed under the Duties Act 2001.\n     \"land tax\" means land tax imposed under the Land Tax Act 2010,\n     section 6 or levied under the repealed Land Tax Act 1915, section 8.\n     \"self assessor penalty\" means a penalty payable by a self assessor\n     under the Duties Act 2001, section 488.\nElectronic paymentâAct, s 29A"
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Electronic paymentâAct, s 29A",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Electronic paymentâAct, s 29A",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 5",
+      "text": "For section 29A (4) of the Act, definition\n\"prescribed electronic way\", the following electronic ways are prescribedâ\n     (a) BPAY facility;\n     (b) direct debit;\n     (c) electronic funds transfer.\nPrescribed rate of interest for general refunds, unpaid tax interest and\noverpaymentsâAct, ss 39, 54, 61 and 61A"
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Prescribed rate of interest for general refunds, unpaid tax interest and overpaymentsâAct, ss 39, 54, 61 and 61A",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Prescribed rate of interest for general refunds, unpaid tax interest and overpaymentsâAct, ss 39, 54, 61 and 61A",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 6",
+      "text": "(1) The prescribed rate of interest for a financial year is an annual\n     rate equal to the sum ofâ\n          (a) for sections 39 (4) (b) (ii) and 54 (2) of the Act\n          âthe 90-day bank bill yield rate for the financial year\n          and 8%; and\n          (b) for sections 61 (3) and 61A (3) of the Act âthe 90-\n          day bank bill yield rate for the financial year.\n     (2) The\n     \"90-day bank bill yield rate\" for a financial year is the monthly\n     average yield of 90-day bank accepted bills for the month of May in\n     the preceding financial year, rounded to the nearest second decimal\n     point, published by the Reserve Bank of Australia on its website.\n     (3) For section 54 (3) (b) (i) of the Act, Sunday is prescribed.\nWhen payments are receivedâAct, s 40"
+    },
+    {
+      "key": "regulation:7",
+      "title": "Regulation 7 - When payments are receivedâAct, s 40",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "7",
+      "main_structural_heading": "When payments are receivedâAct, s 40",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 7",
+      "text": "(1) For section 40 (1) (b) of the Act, the time prescribed is when\n     the payment is credited to an accountâ\n          (a) operated by the commissioner with a financial\n          institution; and\n          (b) used to perform the commissionerâs functions under\n          section 8 of the Act.\n     (2) However, if the payment is later dishonoured, the payment is\n     taken not to have been received by the commissioner.\nWaiver of tax law liabilityâAct, s 43"
+    },
+    {
+      "key": "regulation:8",
+      "title": "Regulation 8 - Waiver of tax law liabilityâAct, s 43",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "8",
+      "main_structural_heading": "Waiver of tax law liabilityâAct, s 43",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 8",
+      "text": "For section 43 (1) of the Act, $20.00 is prescribed.\nRecognised laws and corresponding commissionersâAct, s 78"
+    },
+    {
+      "key": "regulation:9",
+      "title": "Regulation 9 - Recognised laws and corresponding commissionersâAct, s 78",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "9",
+      "main_structural_heading": "Recognised laws and corresponding commissionersâAct, s 78",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 9",
+      "text": "(1) A law stated in schedule 1 is a recognised law for the Act.\n     (2) A person holding the following office is the corresponding\n     commissioner for a recognised lawâ\n          (a) for the Customs Act 1901 (Cwlth) âthe Comptroller-\n          General of Customs under that Act and the Commissioner of\n          Taxation under the Taxation Administration Act 1953\n          (Cwlth);\n          (b) for another recognised law mentioned in schedule 1,\n          part 1 âthe Commissioner of Taxation under the Taxation\n          Administration Act 1953 (Cwlth);\n          (c) for a recognised law mentioned in schedule 1, part 2\n          âthe Commissioner for Australian Capital Territory\n          Revenue under the Taxation Administration Act 1999 (ACT);\n          (d) for a recognised law mentioned in schedule 1, part 3\n          âthe Chief Commissioner, or Commissioner of State\n          Revenue, under the Taxation Administration Act 1996 (NSW);\n          (e) for a recognised law mentioned in schedule 1, part 4\n          âthe Commissioner of Territory Revenue under the Taxation\n          Administration Act 2007 (NT);\n          (f) for a recognised law mentioned in schedule 1, part 5\n          âthe Commissioner of State Taxation under the Taxation\n          Administration Act 1996 (SA);\n          (g) for a recognised law mentioned in schedule 1, part 6\n          âthe Commissioner of State Revenue under the Taxation\n          Administration Act 1997 (Tas);\n          (h) for a recognised law mentioned in schedule 1, part 7\n          âthe Commissioner of State Revenue under the Taxation\n          Administration Act 1997 (Vic);\n          (i) for a recognised law mentioned in schedule 1, part 8\n          âthe Commissioner of State Revenue appointed as mentioned\n          in the Taxation Administration Act 2003 (WA), section 6.\nExpenses for attendanceâAct, s 88"
+    },
+    {
+      "key": "regulation:10",
+      "title": "Regulation 10 - Expenses for attendanceâAct, s 88",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "10",
+      "main_structural_heading": "Expenses for attendanceâAct, s 88",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 10",
+      "text": "(1) For section 88 (7) of the Act, the following expenses are\n     prescribed for a person who is required to attend a placeâ\n          (a) expenses the person incurs travelling to and from the\n          place;\n          (b) if it is necessary for the person to be away from the\n          personâs place of residence to attend the placeâ\n               (i) expenses the person incurs for accommodation\n               and meals; and\n               (ii) loss of the personâs earnings, or\n               additional expenses the person incurs, while away\n               from the personâs place of residence to attend\n               the place.\n     (2) The amount of the expenses the person is entitled to be paid is\n     the amount payable under the Uniform Civil Procedure (Fees)\n     Regulation 2019, part 3, asâ\n          (a) for an expense mentioned in subsection (1) (a) âa\n          travelling allowance; and\n          (b) for an expense mentioned in subsection (1) (b) (i)\n          âan accommodation allowance; and\n          (c) for an expense mentioned in subsection (1) (b) (ii)\n          âan attendance allowance.\n     (3) For subsection (2), a reference in the Uniform Civil Procedure\n     (Fees) Regulation 2019, part 3 to the court is taken to be a\n     reference to the place the person is required to attend.\nWay to give royalty document, and when royalty document is given, to\ncommissionerâAct, ss 143 and 144"
+    },
+    {
+      "key": "regulation:11",
+      "title": "Regulation 11 - Way to give royalty document, and when royalty document is given, to commissionerâAct, ss 143 and 144",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "11",
+      "main_structural_heading": "Way to give royalty document, and when royalty document is given, to commissionerâAct, ss 143 and 144",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 11",
+      "text": "(1) This section applies to giving a document to the commissioner\n     under a royalty law.\n     (2) For section 143 (1) (d) of the Act, giving the document to the\n     chief executive or a public service officer of the resources\n     department, at an office of the resources department, is prescribed.\n     (3) For section 144 (1) (d) of the Act, when the document is given to\n     the chief executive or public service officer at the office is\n     prescribed.\n     (4) In this sectionâ\n     \"resources department\" means the department in which a resources law\n     is administered.\nNon-application of s 147 of Act"
+    },
+    {
+      "key": "regulation:12",
+      "title": "Regulation 12 - Non-application of s 147 of Act",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "12",
+      "main_structural_heading": "Non-application of s 147 of Act",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 12",
+      "text": "Section 147 (1) of the Act does not apply to a taxpayer if the taxpayer is not\nrequired to pay the tax for an instrument, transaction or matter underâ\n     (a) for a liability to pay a tax, other than payroll tax or a\n     royaltyâan agreement between the taxpayers liable to pay the tax\n     for the instrument, transaction or matter; or\n     (b) an Act relating to the instrument, transaction or matter; or\n     (c) a court order or decision of QCAT.\nWays documents may be given by commissionerâAct, s 148"
+    },
+    {
+      "key": "regulation:13",
+      "title": "Regulation 13 - Ways documents may be given by commissionerâAct, s 148",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "13",
+      "main_structural_heading": "Ways documents may be given by commissionerâAct, s 148",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 13",
+      "text": "For section 148 (1) (e) of the Act, the circumstances prescribed are thatâ\n     (a) the document relates to a tax law; and\n     (b) the person, or the personâs tax agent, has consented to the\n     document being given using the approved information system; and\n     (c) the document is made available in a format that can be saved and\n     stored outside the approved information system.\nWhen document is taken to be given by commissionerâAct, s 149"
+    },
+    {
+      "key": "regulation:14",
+      "title": "Regulation 14 - When document is taken to be given by commissionerâAct, s 149",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "14",
+      "main_structural_heading": "When document is taken to be given by commissionerâAct, s 149",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Regulation 14",
+      "text": "(1) For section 149 (1) (d) of the Act, the date prescribed for a\n     document made available using an approved information system isâ\n          (a) the day the commissioner gives the person notice the\n          document is available to be accessed using the approved\n          information system; or\n          (b) if the person satisfies the commissioner that, on the\n          day mentioned in paragraph (a), the approved information\n          system was not available to be accessedâthe first day\n          after the notice is given that the document is able to be\n          accessed using the approved information system.\n               Examples for paragraph (b)â\n                         1 Planned system maintenance\n                         or an unplanned system outage\n                         affects the approved\n                         information system and\n                         prevents it being accessed.\n                         In this case, the approved\n                         information system itself was\n                         not available to be accessed.\n                         2 The approved information\n                         system is functioning\n                         normally, but the person does\n                         not have access to the\n                         internet. In this case, the\n                         approved information system\n                         is available to be accessed\n                         and the person is taken to\n                         have accessed the document.\n     (2) For subsection (1), notice given to the person by email or a text\n     message is taken to be given to the person on the day the email or\n     text message is sent."
+    },
+    {
+      "key": "schedule:1",
+      "title": "Schedule 1 - *** SCHEDULE 1 - Recognised laws *** **** Part 1 - Commonwealth **** Child Support (Assessment) Act 1989 Child Support (Registration and Collection) Act 1988 Customs Act 1901 Excise Act 1901 Fringe Benefits Tax Assessment Act 1986 Income Tax Assessment Act 1936 Income Tax Assessment Act 1997 International Tax Agreements Act 1953 Petroleum Resource Rent Tax Assessment Act 1987 Product Grants and Benefits Administration Act 2000 Superannuation Guarantee (Administration) Act 1992 Taxation Administration Act 1953 Taxation (Interest on Overpayments and Early Payments) Act 1983 Trust Recoupment Tax Assessment Act 1985 **** Part 2 - Australian Capital Territory **** Betting Operations Tax Act 2018 Duties Act 1999 Emergencies Act 2004 First Home Owner Grant Act 2000 Gaming Machine Act 2004 Land Rent Act 2008 Land Tax Act 2004 Land Titles Act 1925 Payroll Tax Act 2011 Planning and Development Act 2007 Taxation Administration Act 1999 Taxation (Government Business Enterprises) Act 2003 Utilities Act 2000 Utilities (Network Facilities Tax) Act 2006 **** Part 3 - New South Wales **** Betting Tax Act 2001 Duties Act 1997 Health Insurance Levies Act 1982 Land Tax Act 1956 Land Tax Management Act 1956 Mining Act 1992 Offshore Minerals Act 1999 Payroll Tax Act 2007 Petroleum (Offshore) Act 1982 Petroleum (Onshore) Act 1991 Taxation Administration Act 1996 **** Part 4 - Northern Territory **** Payroll Tax Act 2009 Stamp Duty Act 1978 Taxation Administration Act 2007 **** Part 5 - South Australia **** Land Tax Act 1936 Payroll Tax Act 2009 Petroleum Products Regulation Act 1995 Stamp Duties Act 1923 Taxation Administration Act 1996 **** Part 6 - Tasmania **** Duties Act 2001 Employment Incentive Scheme (Payroll Tax Rebate) Act 2009 (repealed) First Home Owner Grant Act 2000 HomeBuilder Grants Act 2020 Land Tax Act 2000 Payroll Tax Act 2008 Payroll Tax Rebate (Apprentices, Trainees and Youth Employees) Act 2017 Taxation Administration Act 1997 **** Part 7 - Victoria **** Business Franchise (Petroleum Products) Act 1979 Business Franchise (Tobacco) Act 1974 (repealed) Commercial Passenger Vehicle Industry Act 2017 Congestion Levy Act 2005 Debits Tax Act 1990 (repealed) Duties Act 2000 Financial Institutions Duty Act 1982 (repealed) Gambling Regulation Act 2003 Land Tax Act 1958 (repealed) Land Tax Act 2005 Livestock Disease Control Act 1994 Pay-roll Tax Act 1971 (repealed) Payroll Tax Act 2007 Planning and Environment Act 1987 Stamps Act 1958 (repealed) Taxation Administration Act 1997 **** Part 8 - Western Australia **** Betting Tax Act 2018 Betting Tax Assessment Act 2018 Duties Act 2008 Land Tax Act 2002 Land Tax Assessment Act 2002 Pay-roll Tax Act 2002 Pay-roll Tax Assessment Act 2002 Stamp Act 1921 Taxation Administration Act 2003",
+      "main_structural_unit": "schedule",
+      "main_structural_unit_number": "1",
+      "main_structural_unit_heading": "*** SCHEDULE 1 - Recognised laws *** **** Part 1 - Commonwealth **** Child Support (Assessment) Act 1989 Child Support (Registration and Collection) Act 1988 Customs Act 1901 Excise Act 1901 Fringe Benefits Tax Assessment Act 1986 Income Tax Assessment Act 1936 Income Tax Assessment Act 1997 International Tax Agreements Act 1953 Petroleum Resource Rent Tax Assessment Act 1987 Product Grants and Benefits Administration Act 2000 Superannuation Guarantee (Administration) Act 1992 Taxation Administration Act 1953 Taxation (Interest on Overpayments and Early Payments) Act 1983 Trust Recoupment Tax Assessment Act 1985 **** Part 2 - Australian Capital Territory **** Betting Operations Tax Act 2018 Duties Act 1999 Emergencies Act 2004 First Home Owner Grant Act 2000 Gaming Machine Act 2004 Land Rent Act 2008 Land Tax Act 2004 Land Titles Act 1925 Payroll Tax Act 2011 Planning and Development Act 2007 Taxation Administration Act 1999 Taxation (Government Business Enterprises) Act 2003 Utilities Act 2000 Utilities (Network Facilities Tax) Act 2006 **** Part 3 - New South Wales **** Betting Tax Act 2001 Duties Act 1997 Health Insurance Levies Act 1982 Land Tax Act 1956 Land Tax Management Act 1956 Mining Act 1992 Offshore Minerals Act 1999 Payroll Tax Act 2007 Petroleum (Offshore) Act 1982 Petroleum (Onshore) Act 1991 Taxation Administration Act 1996 **** Part 4 - Northern Territory **** Payroll Tax Act 2009 Stamp Duty Act 1978 Taxation Administration Act 2007 **** Part 5 - South Australia **** Land Tax Act 1936 Payroll Tax Act 2009 Petroleum Products Regulation Act 1995 Stamp Duties Act 1923 Taxation Administration Act 1996 **** Part 6 - Tasmania **** Duties Act 2001 Employment Incentive Scheme (Payroll Tax Rebate) Act 2009 (repealed) First Home Owner Grant Act 2000 HomeBuilder Grants Act 2020 Land Tax Act 2000 Payroll Tax Act 2008 Payroll Tax Rebate (Apprentices, Trainees and Youth Employees) Act 2017 Taxation Administration Act 1997 **** Part 7 - Victoria **** Business Franchise (Petroleum Products) Act 1979 Business Franchise (Tobacco) Act 1974 (repealed) Commercial Passenger Vehicle Industry Act 2017 Congestion Levy Act 2005 Debits Tax Act 1990 (repealed) Duties Act 2000 Financial Institutions Duty Act 1982 (repealed) Gambling Regulation Act 2003 Land Tax Act 1958 (repealed) Land Tax Act 2005 Livestock Disease Control Act 1994 Pay-roll Tax Act 1971 (repealed) Payroll Tax Act 2007 Planning and Environment Act 1987 Stamps Act 1958 (repealed) Taxation Administration Act 1997 **** Part 8 - Western Australia **** Betting Tax Act 2018 Betting Tax Assessment Act 2018 Duties Act 2008 Land Tax Act 2002 Land Tax Assessment Act 2002 Pay-roll Tax Act 2002 Pay-roll Tax Assessment Act 2002 Stamp Act 1921 Taxation Administration Act 2003",
+      "defined_term": null,
+      "structure_path": "Taxation Adminstration Regulation 2022 > Schedule 1",
+      "schedule_id": "1",
+      "schedule_heading": "*** SCHEDULE 1 - Recognised laws *** **** Part 1 - Commonwealth **** Child Support (Assessment) Act 1989 Child Support (Registration and Collection) Act 1988 Customs Act 1901 Excise Act 1901 Fringe Benefits Tax Assessment Act 1986 Income Tax Assessment Act 1936 Income Tax Assessment Act 1997 International Tax Agreements Act 1953 Petroleum Resource Rent Tax Assessment Act 1987 Product Grants and Benefits Administration Act 2000 Superannuation Guarantee (Administration) Act 1992 Taxation Administration Act 1953 Taxation (Interest on Overpayments and Early Payments) Act 1983 Trust Recoupment Tax Assessment Act 1985 **** Part 2 - Australian Capital Territory **** Betting Operations Tax Act 2018 Duties Act 1999 Emergencies Act 2004 First Home Owner Grant Act 2000 Gaming Machine Act 2004 Land Rent Act 2008 Land Tax Act 2004 Land Titles Act 1925 Payroll Tax Act 2011 Planning and Development Act 2007 Taxation Administration Act 1999 Taxation (Government Business Enterprises) Act 2003 Utilities Act 2000 Utilities (Network Facilities Tax) Act 2006 **** Part 3 - New South Wales **** Betting Tax Act 2001 Duties Act 1997 Health Insurance Levies Act 1982 Land Tax Act 1956 Land Tax Management Act 1956 Mining Act 1992 Offshore Minerals Act 1999 Payroll Tax Act 2007 Petroleum (Offshore) Act 1982 Petroleum (Onshore) Act 1991 Taxation Administration Act 1996 **** Part 4 - Northern Territory **** Payroll Tax Act 2009 Stamp Duty Act 1978 Taxation Administration Act 2007 **** Part 5 - South Australia **** Land Tax Act 1936 Payroll Tax Act 2009 Petroleum Products Regulation Act 1995 Stamp Duties Act 1923 Taxation Administration Act 1996 **** Part 6 - Tasmania **** Duties Act 2001 Employment Incentive Scheme (Payroll Tax Rebate) Act 2009 (repealed) First Home Owner Grant Act 2000 HomeBuilder Grants Act 2020 Land Tax Act 2000 Payroll Tax Act 2008 Payroll Tax Rebate (Apprentices, Trainees and Youth Employees) Act 2017 Taxation Administration Act 1997 **** Part 7 - Victoria **** Business Franchise (Petroleum Products) Act 1979 Business Franchise (Tobacco) Act 1974 (repealed) Commercial Passenger Vehicle Industry Act 2017 Congestion Levy Act 2005 Debits Tax Act 1990 (repealed) Duties Act 2000 Financial Institutions Duty Act 1982 (repealed) Gambling Regulation Act 2003 Land Tax Act 1958 (repealed) Land Tax Act 2005 Livestock Disease Control Act 1994 Pay-roll Tax Act 1971 (repealed) Payroll Tax Act 2007 Planning and Environment Act 1987 Stamps Act 1958 (repealed) Taxation Administration Act 1997 **** Part 8 - Western Australia **** Betting Tax Act 2018 Betting Tax Assessment Act 2018 Duties Act 2008 Land Tax Act 2002 Land Tax Assessment Act 2002 Pay-roll Tax Act 2002 Pay-roll Tax Assessment Act 2002 Stamp Act 1921 Taxation Administration Act 2003",
+      "text": "Schedule 1 - *** SCHEDULE 1 - Recognised laws *** **** Part 1 - Commonwealth **** Child Support (Assessment) Act 1989 Child Support (Registration and Collection) Act 1988 Customs Act 1901 Excise Act 1901 Fringe Benefits Tax Assessment Act 1986 Income Tax Assessment Act 1936 Income Tax Assessment Act 1997 International Tax Agreements Act 1953 Petroleum Resource Rent Tax Assessment Act 1987 Product Grants and Benefits Administration Act 2000 Superannuation Guarantee (Administration) Act 1992 Taxation Administration Act 1953 Taxation (Interest on Overpayments and Early Payments) Act 1983 Trust Recoupment Tax Assessment Act 1985 **** Part 2 - Australian Capital Territory **** Betting Operations Tax Act 2018 Duties Act 1999 Emergencies Act 2004 First Home Owner Grant Act 2000 Gaming Machine Act 2004 Land Rent Act 2008 Land Tax Act 2004 Land Titles Act 1925 Payroll Tax Act 2011 Planning and Development Act 2007 Taxation Administration Act 1999 Taxation (Government Business Enterprises) Act 2003 Utilities Act 2000 Utilities (Network Facilities Tax) Act 2006 **** Part 3 - New South Wales **** Betting Tax Act 2001 Duties Act 1997 Health Insurance Levies Act 1982 Land Tax Act 1956 Land Tax Management Act 1956 Mining Act 1992 Offshore Minerals Act 1999 Payroll Tax Act 2007 Petroleum (Offshore) Act 1982 Petroleum (Onshore) Act 1991 Taxation Administration Act 1996 **** Part 4 - Northern Territory **** Payroll Tax Act 2009 Stamp Duty Act 1978 Taxation Administration Act 2007 **** Part 5 - South Australia **** Land Tax Act 1936 Payroll Tax Act 2009 Petroleum Products Regulation Act 1995 Stamp Duties Act 1923 Taxation Administration Act 1996 **** Part 6 - Tasmania **** Duties Act 2001 Employment Incentive Scheme (Payroll Tax Rebate) Act 2009 (repealed) First Home Owner Grant Act 2000 HomeBuilder Grants Act 2020 Land Tax Act 2000 Payroll Tax Act 2008 Payroll Tax Rebate (Apprentices, Trainees and Youth Employees) Act 2017 Taxation Administration Act 1997 **** Part 7 - Victoria **** Business Franchise (Petroleum Products) Act 1979 Business Franchise (Tobacco) Act 1974 (repealed) Commercial Passenger Vehicle Industry Act 2017 Congestion Levy Act 2005 Debits Tax Act 1990 (repealed) Duties Act 2000 Financial Institutions Duty Act 1982 (repealed) Gambling Regulation Act 2003 Land Tax Act 1958 (repealed) Land Tax Act 2005 Livestock Disease Control Act 1994 Pay-roll Tax Act 1971 (repealed) Payroll Tax Act 2007 Planning and Environment Act 1987 Stamps Act 1958 (repealed) Taxation Administration Act 1997 **** Part 8 - Western Australia **** Betting Tax Act 2018 Betting Tax Assessment Act 2018 Duties Act 2008 Land Tax Act 2002 Land Tax Assessment Act 2002 Pay-roll Tax Act 2002 Pay-roll Tax Assessment Act 2002 Stamp Act 1921 Taxation Administration Act 2003"
+    }
+  ]
+}

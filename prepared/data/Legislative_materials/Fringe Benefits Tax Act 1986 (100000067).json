@@ -1,0 +1,83 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/fbta1986188/",
+    "register_url": "https://www.legislation.gov.au/C2004A03281/latest/text",
+    "source": "Fringe Benefits Tax Act 1986 (100000067).txt",
+    "filename": "Fringe Benefits Tax Act 1986 (100000067).json",
+    "name": "Fringe Benefits Tax Act 1986",
+    "citation": "Fringe Benefits Tax Act 1986"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 1",
+      "text": "(Assented to 24 June\n1986)\n  1. This Act may be cited as the Fringe Benefits Tax Act 1986.\n(Minister's second reading speech made in-\n    House of Representatives on 2 May 1986\n    Senate on 27 May 1986)\nFRINGE BENEFITS TAX ACT 1986 No. 40 of 1986"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 2",
+      "text": "2. This Act shall come into operation on the day on which the Fringe\nBenefits Tax Assessment Act 1986 comes into operation.\nFRINGE BENEFITS TAX ACT 1986 No. 40 of 1986"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Incorporation",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Incorporation",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 3",
+      "text": "3. The Fringe Benefits Tax Assessment Act 1986 is incorporated and shall be\nread as one with this Act.\nFRINGE BENEFITS TAX ACT 1986 No. 40 of 1986"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Act to bind Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Act to bind Crown",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 4",
+      "text": "4. This Act binds the Crown in right of each of the States, of the Northern\nTerritory and of Norfolk Island.\nFRINGE BENEFITS TAX ACT 1986 No. 40 of 1986"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 5",
+      "text": "5. Tax is imposed in respect of the fringe benefits taxable amount of an\nemployer of a year of tax.\nFRINGE BENEFITS TAX ACT 1986 No. 40 of 1986"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Rates of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Rates of tax",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 6",
+      "text": "6. The rate of tax in respect of the fringe benefits taxable amount of an\nemployer of a year of tax is-\n  (a)  in the case of the year of tax that commences on 1 July 1986-46%; and\n  (b)  in the case of the year of tax that commences on 1 April 1987 or a\nsubsequent year of tax-49%.\nFRINGE BENEFITS TAX ACT 1986 No. 40 of 1986"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Severability",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Severability",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax Act 1986 > Section 7",
+      "text": "7. It is the intention of the Parliament that if, but for this section,\nsection 5 of this Act would impose a tax on property of any kind belonging to\na State within the meaning of section 114 of the Constitution, section 5 of\nthis Act shall have effect as if it did not impose that tax."
+    }
+  ]
+}

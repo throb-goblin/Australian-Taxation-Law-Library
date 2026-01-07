@@ -1,0 +1,53 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/itca1989323/",
+    "register_url": "https://www.legislation.gov.au/C2004A03847/latest/text",
+    "source": "Income Tax (Fund Contributions) Act 1989 (100000086).txt",
+    "filename": "Income Tax (Fund Contributions) Act 1989 (100000086).json",
+    "name": "Income Tax (Fund Contributions) Act 1989",
+    "citation": "Income Tax (Fund Contributions) Act 1989"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Income Tax (Fund Contributions) Act 1989 > Section 1",
+      "text": "(Assented to 30 June\n1989) 1. This Act may be cited as the Income Tax (Fund Contributions) Act\n1989.\n(Minister's second reading speech made in-\n    House of Representatives on 30 November 1988\n    Senate on 23 May 1989)\nINCOME TAX (FUND CONTRIBUTIONS) ACT 1989 No. 99 of 1989"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax (Fund Contributions) Act 1989 > Section 2",
+      "text": "2. This Act commences on the day on which it receives the Royal Assent.\nINCOME TAX (FUND CONTRIBUTIONS) ACT 1989 No. 99 of 1989"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Imposition of income tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Imposition of income tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Fund Contributions) Act 1989 > Section 3",
+      "text": "3. If subsection 5 (4) of the Income Tax Act 1986 has the effect that that\nAct does not impose tax in respect of the subject of taxation mentioned in\nparagraph 5 (4) (a) of that Act, this Act imposes income tax in respect of\nthat subject of taxation.\nINCOME TAX (FUND CONTRIBUTIONS) ACT 1989 No. 99 of 1989"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Financial years for which tax payable",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Financial years for which tax payable",
+      "defined_term": null,
+      "structure_path": "Income Tax (Fund Contributions) Act 1989 > Section 4",
+      "text": "4. The tax imposed by this Act is levied and shall be paid for each of the\nfinancial years for which the tax imposed by the Income Tax Act 1986 is levied\nin accordance with section 7 of that Act."
+    }
+  ]
+}

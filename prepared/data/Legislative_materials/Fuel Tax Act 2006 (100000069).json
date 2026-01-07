@@ -1,0 +1,1322 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/fta2006103/",
+    "source": "Fuel Tax Act 2006 (100000069).txt",
+    "filename": "Fuel Tax Act 2006 (100000069).json",
+    "name": "Fuel Tax Act 2006",
+    "citation": "Fuel Tax Act 2006"
+  },
+  "chunks": [
+    {
+      "key": "section:1-5",
+      "title": "Section 1-5 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-5",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-1--PRELIMINARY > Division 1--Preliminary > Subdivision 1-A--Preliminary > Section 1-5",
+      "text": "This Act may be cited as the Fuel Tax Act 2006."
+    },
+    {
+      "key": "section:1-10",
+      "title": "Section 1-10 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-10",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-1--PRELIMINARY > Division 1--Preliminary > Subdivision 1-A--Preliminary > Section 1-10",
+      "text": "This Act commences on 1 July 2006."
+    },
+    {
+      "key": "section:1-15",
+      "title": "Section 1-15 - States and Territories are bound by the fuel tax law",
+      "main_structural_unit": "section",
+      "main_structural_number": "1-15",
+      "main_structural_heading": "States and Territories are bound by the fuel tax law",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-1--PRELIMINARY > Division 1--Preliminary > Subdivision 1-A--Preliminary > Section 1-15",
+      "text": "The *fuel tax law binds the Crown in right of each of the States, of the Australian Capital Territory and of the Northern Territory. However, it does not make the Crown liable to be prosecuted for an offence.\nNote: For the application of this Act to the Commonwealth, see section  95-10.\nTable of Subdivisions\nSection 2-A Overview and purpose of the fuel tax law\nTable of Sections\nSection 2-1 Overview and purpose of the fuel tax law"
+    },
+    {
+      "key": "section:2-1",
+      "title": "Section 2-1 - Overview and purpose of the fuel tax law",
+      "main_structural_unit": "section",
+      "main_structural_number": "2-1",
+      "main_structural_heading": "Overview and purpose of the fuel tax law",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 2--Overview and purpose of the fuel tax law > Subdivision 2-A--Overview and purpose of the fuel tax law > Section 2-1",
+      "text": "This Act provides a single system of fuel tax credits. Fuel tax credits are paid to reduce or remove the incidence of fuel tax levied on taxable fuels, ensuring that, generally, fuel tax is effectively only applied to:\n (a) fuel used in private vehicles and for certain other private purposes; and\n (b) fuel used on-road in light vehicles for business purposes.\n  Liability for fuel tax currently arises under the Excise Act 1901, the Excise Tariff Act 1921, the Customs Act 1901 and the Customs Tariff Act 1995.\n  The administrative aspects of this Act (such as your rights, obligations and payment arrangements) are aligned as closely as possible to the administrative aspects of other indirect taxes (primarily, the GST), and other taxes administered by the Commissioner, to reduce your compliance costs.\nTable of Subdivisions\nSection 3-A Explanation of the use of defined terms\nTable of Sections\nSection 3-1 When defined terms are identified\nSection 3-5 When terms are not identified\nSection 3-10 Identifying the defined term in a definition"
+    },
+    {
+      "key": "section:3-1",
+      "title": "Section 3-1 - When defined terms are identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-1",
+      "main_structural_heading": "When defined terms are identified",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 3--Explanation of the use of defined terms > Subdivision 3-A--Explanation of the use of defined terms > Section 3-1",
+      "text": "(1) Many of the terms used in the *fuel tax law are defined.\n (2) Most defined terms in this Act are identified by an asterisk appearing at the start of the term: as in &quot; *enterprise&quot;. The footnote that goes with the asterisk contains a signpost to the Dictionary definitions at section  110-5."
+    },
+    {
+      "key": "section:3-5",
+      "title": "Section 3-5 - When terms are not identified",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-5",
+      "main_structural_heading": "When terms are not identified",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 3--Explanation of the use of defined terms > Subdivision 3-A--Explanation of the use of defined terms > Section 3-5",
+      "text": "(1) Once a defined term has been identified by an asterisk, later occurrences of the term in the same subsection are not usually asterisked.\n (2) Terms are not asterisked in the non-operative material contained in this Act.\nNote: The non-operative material is described in Division 4.\n (3) The following basic terms used throughout the Act are not identified with an asterisk.\nCommon definitions that are not asteriskedItemThis term:1Commissioner2entity3fuel tax4fuel tax credit5indirect tax zone6taxable fuel7you"
+    },
+    {
+      "key": "section:3-10",
+      "title": "Section 3-10 - Identifying the defined term in a definition",
+      "main_structural_unit": "section",
+      "main_structural_number": "3-10",
+      "main_structural_heading": "Identifying the defined term in a definition",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 3--Explanation of the use of defined terms > Subdivision 3-A--Explanation of the use of defined terms > Section 3-10",
+      "text": "Within a definition, the defined term is identified by bold italics.\nTable of Subdivisions\nSection 4-A Status of Guides and other non-operative material\nTable of Sections\nSection 4-1 Non-operative material\nSection 4-5 Guides\nSection 4-10 Other material"
+    },
+    {
+      "key": "section:4-1",
+      "title": "Section 4-1 - Non - operative material",
+      "main_structural_unit": "section",
+      "main_structural_number": "4-1",
+      "main_structural_heading": "Non - operative material",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 4--Status of Guides and other non-operative material > Subdivision 4-A--Status of Guides and other non-operative material > Section 4-1",
+      "text": "In addition to the operative provisions themselves, this Act contains other material to help you identify accurately and quickly the provisions that are relevant to you and to help you understand them.\n  This other material falls into 2 main categories."
+    },
+    {
+      "key": "section:4-5",
+      "title": "Section 4-5 - Guides",
+      "main_structural_unit": "section",
+      "main_structural_number": "4-5",
+      "main_structural_heading": "Guides",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 4--Status of Guides and other non-operative material > Subdivision 4-A--Status of Guides and other non-operative material > Section 4-5",
+      "text": "The first is the &quot;Guides&quot;. A *Guide consists of sections under a heading indicating that what follows is a Guide to a particular Subdivision, Division etc.\n  *Guides form part of this Act but are kept separate from the operative provisions. In interpreting an operative provision, a Guide may only be considered for limited purposes. These are set out in section  105-10."
+    },
+    {
+      "key": "section:4-10",
+      "title": "Section 4-10 - Other material",
+      "main_structural_unit": "section",
+      "main_structural_number": "4-10",
+      "main_structural_heading": "Other material",
+      "defined_term": null,
+      "structure_path": "Chapter 1--Introduction > Part 1-2--USING THIS ACT > Division 4--Status of Guides and other non-operative material > Subdivision 4-A--Status of Guides and other non-operative material > Section 4-10",
+      "text": "The other category consists of material such as notes and examples. These also form part of the Act. Generally, they are distinguished by type size from the operative provisions, but are not kept separate from them.\nTable of Subdivisions\nSection 40-A Object of this Chapter\nTable of Sections\nSection 40-5 Object of this Chapter"
+    },
+    {
+      "key": "section:40-5",
+      "title": "Section 40-5 - Object of this Chapter",
+      "main_structural_unit": "section",
+      "main_structural_number": "40-5",
+      "main_structural_heading": "Object of this Chapter",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 40--Object of this Chapter > Subdivision 40-A--Object of this Chapter > Section 40-5",
+      "text": "(1) The object of this Chapter is to provide a single system of fuel tax credits to ensure that, generally, fuel tax is effectively only applied to:\n (a) fuel used in private vehicles and for certain other private purposes; and\n (b) fuel used on-road in light vehicles for business purposes.\n (2) To do this, a fuel tax credit is provided to reduce or remove the incidence of fuel tax applied to:\n (a) fuel used in *carrying on your *enterprise (other than fuel used on-road in light vehicles); and\n (b) fuel used for domestic heating and domestic electricity generation; and\n (c) fuel packaged for use other than in an internal combustion engine; and\n (d) fuel supplied into certain kinds of tanks.\nNote: However, other provisions of this Act might affect your entitlement to a fuel tax credit.\nTable of Subdivisions\n Guide to Division 41\nSection 41-A Entitlement rules for fuel tax credits\nSection 41-B Disentitlement rules for fuel tax credits"
+    },
+    {
+      "key": "section:41-1",
+      "title": "Section 41-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Section 41-1",
+      "text": "Fuel tax credits are provided under Subdivision 41-A to business taxpayers who are registered, or required to be registered, for GST (and to some non -profit bodies) in 2 situations.The first situation is where you acquire, manufacture or import fuel to use in carrying on your enterprise (whether the fuel is used as fuel or otherwise).The second situation is where you acquire, manufacture or import fuel to:\n (a) make a taxable supply to a private user for domestic heating; or (b) package the fuel for the purpose of making a taxable supply of it for use other than in an internal combustion engine; or (c) make a taxable supply of LPG into certain kinds of tanks.\nHowever, fuel tax credits are denied under Subdivision 41-B if:\n (a) another person is already entitled to a fuel tax credit in respect of the fuel; or (b) the fuel is for use on-road in light vehicles; or (c) the fuel is for use in vehicles that do not meet certain environmental criteria; or (d) the fuel is for use in aircraft.\nTable of Sections\nSection 41-5 Fuel tax credit for fuel to be used in carrying on your enterprise\nSection 41-10 Fuel tax credit for fuel supplied for domestic heating, packaged for supply or transferred into tanks"
+    },
+    {
+      "key": "section:41-5",
+      "title": "Section 41-5 - Fuel tax credit for fuel to be used in carrying on your enterprise",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-5",
+      "main_structural_heading": "Fuel tax credit for fuel to be used in carrying on your enterprise",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Subdivision 41-A--Entitlement rules for fuel tax credits > Section 41-5",
+      "text": "(1) You are entitled to a fuel tax credit for taxable fuel that you acquire or manufacture in, or import into, the indirect tax zone to the extent that you do so for use in *carrying on your *enterprise.\nNote 1: Other provisions can affect your entitlement to the credit. (For example, see Subdivision  41-B.)\nNote 2: Fuel is taken to have been used if it is blended as specified in a determination made under section  95-5.\nRegistration for GST\n (2) However, you are only entitled to the fuel tax credit if, at the time you acquire, manufacture or import the fuel, you are *registered for GST, or *required to be registered for GST.\n (3) Subsection (2) does not apply if, at the time you acquire, manufacture or import the fuel:\n (a) you are a non-profit body; and\n (b) you acquire, manufacture or import the fuel for use in a vehicle (or vessel) that:\n (i) provides emergency services; and\n (ii) is clearly identifiable as such."
+    },
+    {
+      "key": "section:41-10",
+      "title": "Section 41-10 - Fuel tax credit for fuel supplied for domestic heating, packaged for supply or transferred into tanks",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-10",
+      "main_structural_heading": "Fuel tax credit for fuel supplied for domestic heating, packaged for supply or transferred into tanks",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Subdivision 41-A--Entitlement rules for fuel tax credits > Section 41-10",
+      "text": "Certain fuels supplied for domestic heating\n (1) You are entitled to a fuel tax credit for taxable fuel that you acquire or manufacture in, or import into, the indirect tax zone to the extent that:\n (a) you do so to make a *taxable supply of the fuel to an entity; and\n (b) the fuel is kerosene, heating oil or any other fuel prescribed by the regulations; and\n (c) you have a reasonable belief that the entity:\n (i) will not use the fuel in *carrying on an *enterprise; but\n (ii) will use the fuel for domestic heating.\nCertain fuels packaged for supply\n (2) You are entitled to a fuel tax credit for taxable fuel that you acquire or manufacture in, or import into, the indirect tax zone to the extent that:\n (a) you do so to package the fuel, in accordance with the regulations, for the purpose of making a *taxable supply of the fuel for use other than in an internal combustion engine; and\n (b) the fuel is kerosene, mineral turpentine, white spirit or any other fuel prescribed by the regulations.\nLPG supplied into certain kinds of tanks\n (3) You are entitled to a fuel tax credit for taxable fuel that is *LPG that you acquire or manufacture in, or import into, the indirect tax zone to the extent that:\n (a) you do so for making a *taxable supply of the LPG; and\n (b) the supply involves transferring the LPG to a tank; and\n (c) the tank is not for use in a system for supplying fuel to an internal combustion engine of either a *motor vehicle or a vessel, either directly or by filling another tank connected to such an engine; and\n (d) any of the following apply to the tank:\n (i) the tank has a capacity of not more than 210 kilograms of LPG;\n (ii) the tank is at *residential premises and is not for use in *carrying on an *enterprise;\n (iii) the tank is for use in a system for supplying fuel to at least 2 residential premises (whether or not the system also supplies fuel to premises other than residential premises).\n (4) Paragraph (3)(c) does not apply to a *motor vehicle that:\n (a) is designed merely to move goods with a forklift and is for use primarily off public roads; or\n (b) is of a kind prescribed by the regulations for the purposes of this paragraph.\nTable of Sections\nSection 41-15 No fuel tax credit if another entity was previously entitled to a credit\nSection 41-20 No fuel tax credit for fuel to be used in light vehicles on a public road\nSection 41-25 No fuel tax credit for fuel to be used in motor vehicles that do not meet environmental criteria\nSection 41-30 No fuel tax credit for fuel to be used in an aircraft"
+    },
+    {
+      "key": "section:41-15",
+      "title": "Section 41-15 - No fuel tax credit if another entity was previously entitled to a credit",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-15",
+      "main_structural_heading": "No fuel tax credit if another entity was previously entitled to a credit",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Subdivision 41-B--Disentitlement rules for fuel tax credits > Section 41-15",
+      "text": "(1) You are not entitled to a fuel tax credit (under this Division or Division  42) for taxable fuel if it is reasonable to conclude that another entity has previously been entitled to a fuel tax credit (under this Division or Division 42), or a *decreasing fuel tax adjustment, for the fuel.\n (2) However, subsection  (1) does not apply if it is also reasonable to conclude that another entity had, in respect of the credit, an *increasing fuel tax adjustment of the *amount of the credit."
+    },
+    {
+      "key": "section:41-20",
+      "title": "Section 41-20 - No fuel tax credit for fuel to be used in light vehicles on a public road",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-20",
+      "main_structural_heading": "No fuel tax credit for fuel to be used in light vehicles on a public road",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Subdivision 41-B--Disentitlement rules for fuel tax credits > Section 41-20",
+      "text": "You are not entitled to a fuel tax credit for taxable fuel to the extent that you acquire, manufacture or import the fuel for use in a vehicle with a gross vehicle mass of 4.5 tonnes or less travelling on a public road."
+    },
+    {
+      "key": "section:41-25",
+      "title": "Section 41-25 - No fuel tax credit for fuel to be used in motor vehicles that do not meet environmental criteria",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-25",
+      "main_structural_heading": "No fuel tax credit for fuel to be used in motor vehicles that do not meet environmental criteria",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Subdivision 41-B--Disentitlement rules for fuel tax credits > Section 41-25",
+      "text": "(1) You are not entitled to a fuel tax credit for taxable fuel to the extent that you acquire, manufacture or import the fuel for use in a *motor vehicle, unless the vehicle meets one of the following criteria:\n (a) it is manufactured on or after 1  January 1996;\n (b) it is registered in an audited maintenance program that is accredited by the *Transport Secretary;\n (c) it meets Rule 147A of the Australian Vehicle Standards Rules  1999;\n (d) it complies with a maintenance schedule that is endorsed by the Transport Secretary.\n (2) Subsection (1) does not apply to a *motor vehicle:\n (a) that is used:\n (i) in carrying on a *primary production business; and\n (ii) primarily on an agricultural property; or\n (b) that is not powered by a diesel engine; or\n (c) that is not used on a public road."
+    },
+    {
+      "key": "section:41-30",
+      "title": "Section 41-30 - No fuel tax credit for fuel to be used in an aircraft",
+      "main_structural_unit": "section",
+      "main_structural_number": "41-30",
+      "main_structural_heading": "No fuel tax credit for fuel to be used in an aircraft",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 41--Fuel tax credits for business taxpayers and non-profit bodies > Subdivision 41-B--Disentitlement rules for fuel tax credits > Section 41-30",
+      "text": "You are not entitled to a fuel tax credit for taxable fuel that you acquire, manufacture or import for use as fuel in aircraft if the fuel was entered for home consumption for that use (within the meaning of the Excise Act 1901 or the Customs Act 1901, as the case requires).\nTable of Subdivisions\n Guide to Division 42\nSection 42-A Fuel tax credit for non-business taxpayers"
+    },
+    {
+      "key": "section:42-1",
+      "title": "Section 42-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "42-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 42--Fuel tax credit for non-business taxpayers > Section 42-1",
+      "text": "Fuel tax credits are provided under this Division to non-business taxpayers. Currently, a credit is only provided for fuel to be used by you for generating electricity for domestic use.\nTable of Sections\nSection 42-5 Fuel tax credit for fuel to be used in generating electricity for domestic use"
+    },
+    {
+      "key": "section:42-5",
+      "title": "Section 42-5 - Fuel tax credit for fuel to be used in generating electricity for domestic use",
+      "main_structural_unit": "section",
+      "main_structural_number": "42-5",
+      "main_structural_heading": "Fuel tax credit for fuel to be used in generating electricity for domestic use",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 42--Fuel tax credit for non-business taxpayers > Subdivision 42-A--Fuel tax credit for non-business taxpayers > Section 42-5",
+      "text": "You are entitled to a fuel tax credit for taxable fuel that you acquire or manufacture in, or import into, the indirect tax zone to the extent that you do so for use by you in generating electricity for domestic use.\nNote: If you are carrying on an enterprise, you might be entitled to a credit under section  41-5.\nTable of Subdivisions\n Guide to Division 43\nSection 43-A Working out your fuel tax credit"
+    },
+    {
+      "key": "section:43-1",
+      "title": "Section 43-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "43-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 43--Working out your fuel tax credit > Section 43-1",
+      "text": "The amount of your credit for taxable fuel is the amount of fuel tax that was payable on the fuel, reduced to take account of certain grants and subsidies that were payable in respect of the fuel (as the grants or subsidies reduced the amount of fuel tax that effectively applied to the fuel).For taxable fuel that is a blend of fuels, there are additional rules for working out the amount of your credit.In some cases, the credit is reduced so that some of the fuel tax can be retained as a road user charge.\nTable of Sections\nSection 43-5 Working out your fuel tax credit\nSection 43-6 Meaning of fuel tax\nSection 43-7 Working out the effective fuel tax for fuel blends\nSection 43-10 Reducing the amount of your fuel tax credit"
+    },
+    {
+      "key": "section:43-5",
+      "title": "Section 43-5 - Working out your fuel tax credit",
+      "main_structural_unit": "section",
+      "main_structural_number": "43-5",
+      "main_structural_heading": "Working out your fuel tax credit",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 43--Working out your fuel tax credit > Subdivision 43-A--Working out your fuel tax credit > Section 43-5",
+      "text": "(1) The *amount of your fuel tax credit for taxable fuel is the amount of *effective fuel tax that is payable on the fuel.\nNote: The amount of the credit may be reduced under section 43-10.\nAmount of effective fuel tax\n (2) The *amount of effective fuel tax that is payable on the fuel is the amount (but not less than nil) worked out using the formula:\nwhere:\n\"fuel tax amount\" means the *amount of fuel tax that was or would be payable on the fuel at the rate in force on the day worked out using the table in subsection  (2A).\n\"grant or subsidy amount\" means the *amount of any grant or subsidy, except a grant specified in subsection  (3), that was or would be payable in respect of the fuel by the Commonwealth at the rate in force on the day worked out using the table in subsection (2A).\nNote: Section 43-7 affects how this subsection applies to blends.\nDay for rate of fuel tax, grant or subsidy\n (2A) Work out the day using the table:\nDay for rate of fuel tax, grant or subsidy If:The day is:1You acquired or imported the fuelThe day you acquired or imported the fuel2You:(a) manufactured the fuel; and(b) entered the fuel for home consumption (within the meaning of the Excise Act 1901)The day you entered the fuel for home consumption (within the meaning of the Excise Act 1901)\nNote: Division 65 sets out which tax period a credit is attributable to.\n (3) In applying subsection  (2), disregard a benefit under the Product Stewardship (Oil) Act 2000."
+    },
+    {
+      "key": "section:43-6",
+      "title": "Section 43-6 - Meaning of fuel tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "43-6",
+      "main_structural_heading": "Meaning of fuel tax",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 43--Working out your fuel tax credit > Subdivision 43-A--Working out your fuel tax credit > Section 43-6",
+      "text": "(1) Fuel tax is duty that is payable on fuel under:\n (a) the Excise Act 1901 and the Excise Tariff Act 1921; or\n (b) the Customs Act 1901 and the Customs Tariff Act 1995;\nother than any duty that is expressed as a percentage of the value of fuel for the purposes of section 9 of the Customs Tariff Act 1995 .\n (2) For the purposes of subsection  (1), if:\n (a) an Excise Tariff alteration, proposed by a motion moved in the House of Representatives, relates to duty payable on fuel; or\n (b) a Customs Tariff alteration, proposed by a motion moved in the House of Representatives, relates to duty payable on fuel;\nthe alteration is taken to have effect as if it is an amendment of the Act it proposes to alter, and as if that amendment is in force.\n (3) However, the alteration ceases to be taken to have that effect unless, before whichever of the following first happens:\n (a) the close of the session in which the Excise Tariff alteration or Customs Tariff alteration, is proposed;\n (b) the expiration of 12 months after the Excise Tariff alteration or Customs Tariff alteration, is proposed;\none or more amendments of an Act come into force that have the effect proposed by the alteration.\n (4) For the purposes of subsection  (3), the Excise Tariff alteration, or the Customs Tariff alteration, is taken to have been proposed at the time the motion referred to in subsection (2) was moved."
+    },
+    {
+      "key": "section:43-7",
+      "title": "Section 43-7 - Working out the effective fuel tax for fuel blends",
+      "main_structural_unit": "section",
+      "main_structural_number": "43-7",
+      "main_structural_heading": "Working out the effective fuel tax for fuel blends",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 43--Working out your fuel tax credit > Subdivision 43-A--Working out your fuel tax credit > Section 43-7",
+      "text": "Certain blends containing ethanol\n (1) The effective fuel tax for taxable fuel that:\n (a) is a blend of ethanol and one or more other kinds of fuel; and\n (b) meets the requirements prescribed by the regulations;\nis worked out under subsection 43-5(2) as if the fuel were entirely petrol.\nCertain blends containing biodiesel\n (2)  The effective fuel tax for taxable fuel that:\n (a) is a blend of *biodiesel and one or more other kinds of fuel; and\n (b) meets the requirements prescribed by the regulations;\nis worked out under subsection 43-5(2) as if the fuel were entirely diesel.\nOther blends for which there is evidence of fuel proportions\n (3) The effective fuel tax for taxable fuel:\n (a) that is a blend of more than one kind of fuel; and\n (b) to which neither subsection  (1) nor (2) applies; and\n (c) for which you have documentary evidence that satisfies the Commissioner of the actual proportions of the kinds of fuel in the blend;\nis worked out under subsection 43-5(2) in accordance with those proportions.\n (4) The Commissioner may determine, by legislative instrument, the kinds of documentary evidence that are able to satisfy the Commissioner for the purposes of paragraph  (3)(c).\n (5) If:\n (a) you acquire or manufacture in, or import into, the indirect tax zone a taxable fuel that is a blend of either of the following (whether or not the blend includes other substances other than fuel):\n (i) petrol and one other kind of fuel;\n (ii) diesel and one other kind of fuel; and\n (b) none of subsections  (1), (2) or (3) apply to the fuel; and\n (c) you acquire, manufacture or import the fuel on terms and conditions that specify or require that the blend contains a minimum percentage by volume of petrol or diesel (as the case requires);\nthen the effective fuel tax for the fuel is worked out under subsection 43-5(2) as if:\n (d) the fuel contains that minimum percentage of petrol or diesel (as the case requires); and\n (e) the remaining percentage by volume of the fuel consists of the other kind of fuel contained in the blend.\nRules for working out fuel tax in other cases of blends\n (6) For the purposes of working out under subsection  43-5(2) the *effective fuel tax payable on taxable fuels that are blends other than blends to which any of subsections  (1), (2), (3) or (5) of this section apply, the Commissioner may determine, by legislative instrument, rules for working out the proportions of one or more of the constituents of the blends.\nNote: The rules may make different provision for different blends or different classes of blends (see subsection  33(3A) of the Acts Interpretation Act 1901).\nWorking out the fuel tax for certain fuels containing ethanol or biodiesel\n (7) Work out the *effective fuel tax under subsection 43-5(2) for taxable fuel:\n (a) that you acquired, manufactured or imported; and\n (b) that is, or is a blend containing, ethanol or *biodiesel; and\n (c) to which neither subsection  (1) nor (2) of this section applies;\nas if all the ethanol or biodiesel were manufactured or produced in Australia.\nNote: As you may not know whether the ethanol or biodiesel is imported or manufactured domestically, this subsection requires you to work out the effective fuel tax assuming that they were manufactured domestically."
+    },
+    {
+      "key": "section:43-10",
+      "title": "Section 43-10 - Reducing the amount of your fuel tax credit",
+      "main_structural_unit": "section",
+      "main_structural_number": "43-10",
+      "main_structural_heading": "Reducing the amount of your fuel tax credit",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 43--Working out your fuel tax credit > Subdivision 43-A--Working out your fuel tax credit > Section 43-10",
+      "text": "Road user charge\n (3) To the extent that you acquire, manufacture or import taxable fuel to use, in a vehicle, for travelling on a public road, the *amount of your fuel tax credit for the fuel is reduced by the amount of the road user charge for the fuel.\nNote: Only certain motor vehicles whose gross vehicle mass is more than 4.5 tonnes are entitled to any credit (see sections  41-20 and 41-25).\n (4) However, the *amount is not reduced under subsection (3) if the vehicle&#39;s travel on a public road is incidental to the vehicle&#39;s main use.\nWorking out the amount of the reduction\n (6) The *amount by which a fuel tax credit for taxable fuel is reduced under subsection (3) is worked out by reference to the rate of fuel tax or road user charge in force on the day worked out using the table in subsection  43-5(2A).\nDetermining the rate of road user charge\n (7) The *amount of road user charge for a taxable fuel is worked out using the rate determined under subsection (8) that applies to the taxable fuel.\n (8) The *Transport Minister may, by legislative instrument, determine a rate of road user charge for the following classes of taxable fuels:\n (a) taxable fuels for which duty is payable at a rate per litre of fuel;\n (b) taxable fuels for which duty is payable at a rate per kilogram of fuel;\n (c) taxable fuels for which duty is payable at a rate expressed in a unit of measurement that is not mentioned in paragraph  (a) or (b).\nNote 1: A different rate may be determined for each class of taxable fuels.\nNote 2: For the purposes of determining whether duty is payable for a taxable fuel at a rate per litre, per kilogram or per another unit of measurement, see whichever of the Excise Tariff Act 1921 and the Customs Tariff Act 1995 is applicable to the taxable fuel.\n (9) Before the *Transport Minister determines an increased rate of road user charge, the Transport Minister must:\n (a) make the following publicly available for at least 60 days:\n (i) the proposed increased rate of road user charge;\n (ii) any information that was relied on in determining the proposed increased rate; and\n (b) consider any comments received, within the period specified by the Transport Minister, from the public in relation to the proposed increased rate.\n (10) However, the *Transport Minister may, as a result of considering any comments received from the public in accordance with subsection (9), determine a rate of road user charge that is different from the proposed rate that was made publicly available without making that different rate publicly available in accordance with that subsection.\n (11) In determining the road user charge, the *Transport Minister must not apply a method for indexing the charge.\n (11A) In determining the road user charge, the *Transport Minister must determine the rate to one decimal place of a cent.\n (12) The *Transport Minister must not make more than one determination in respect of a class of taxable fuel in a financial year if the effect of the determination would be to increase the road user charge for that class of taxable fuel more than once in that financial year.\nNote: For the classes of taxable fuel, see subsection (8).\nTable of Subdivisions\n Guide to Division 44\nSection 44-A Increasing and decreasing fuel tax adjustments"
+    },
+    {
+      "key": "section:44-1",
+      "title": "Section 44-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "44-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 44--Increasing and decreasing fuel tax adjustments > Section 44-1",
+      "text": "Your entitlement to a fuel tax credit for taxable fuel is worked out on the basis of what the fuel is intended for when you acquire, manufacture or import the fuel.If you use or supply the fuel differently, or you do not use or supply the fuel at all, you have an increasing or decreasing fuel tax adjustment.Fuel tax adjustments are included in working out your net fuel amount under Division 60. (Your assessed net fuel amount determines how much you owe the Commissioner or the Commissioner owes you.)\nTable of Sections\nSection 44-5 Increasing and decreasing fuel tax adjustments for change of circumstances\nSection 44-10 Increasing fuel tax adjustment for failure to use or make a taxable supply of fuel"
+    },
+    {
+      "key": "section:44-5",
+      "title": "Section 44-5 - Increasing and decreasing fuel tax adjustments for change of circumstances",
+      "main_structural_unit": "section",
+      "main_structural_number": "44-5",
+      "main_structural_heading": "Increasing and decreasing fuel tax adjustments for change of circumstances",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 44--Increasing and decreasing fuel tax adjustments > Subdivision 44-A--Increasing and decreasing fuel tax adjustments > Section 44-5",
+      "text": "(1) You have a *fuel tax adjustment if you use fuel, or make a *taxable supply of fuel, and the *amount of the fuel tax credit to which you would have been entitled for the use or supply would have been different from the amount to which you are or were entitled if one or both of the following were to apply:\n (a) you had originally acquired, manufactured or imported the fuel to use or make a taxable supply in the circumstances in which you did use, or make a taxable supply of, the fuel;\n (b) an alteration of a kind referred to in subsection  43-6(2) that:\n (i) under that subsection, had been taken to have effect as if it is an amendment of an Act; and\n (ii) under subsection  43-6(3) ceased to be taken to have that effect;\n  had never been proposed as mentioned in subsection  43-6(2).\n (2) The *amount of the adjustment is the difference between the 2 amounts.\nNote: Division 65 sets out which tax period or fuel tax return period the fuel tax adjustment is attributable to.\nDecreasing fuel tax adjustments\n (3) The *fuel tax adjustment is a decreasing fuel tax adjustment if the *amount to which you would have been entitled is greater than the amount to which you are or were entitled.\nIncreasing fuel tax adjustments\n (4) The *fuel tax adjustment is an increasing fuel tax adjustment if the *amount to which you are or were entitled is greater than the amount to which you would have been entitled.\nExample: You acquire taxable fuel to use in a harvester in carrying on your farming enterprise, so you are paid a fuel tax credit for the fuel. Later on, you use the fuel to transport wheat in a vehicle of more than 4.5 tonnes travelling on a public road. As your fuel tax credit would have been reduced by the amount of the road user charge, you have an increasing fuel tax adjustment of the difference between the 2 amounts."
+    },
+    {
+      "key": "section:44-10",
+      "title": "Section 44-10 - Increasing fuel tax adjustment for failure to use or make a taxable supply of fuel",
+      "main_structural_unit": "section",
+      "main_structural_number": "44-10",
+      "main_structural_heading": "Increasing fuel tax adjustment for failure to use or make a taxable supply of fuel",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-1--BASIC RULES > Division 44--Increasing and decreasing fuel tax adjustments > Subdivision 44-A--Increasing and decreasing fuel tax adjustments > Section 44-10",
+      "text": "You have an increasing fuel tax adjustment if:\n (a) you are or were entitled to a fuel tax credit for taxable fuel; and\n (b) you have no reasonable prospect of using, or making a *taxable supply of, the fuel.\nThe *amount of the adjustment is the amount of the credit that you are or were entitled to.\nExample: You acquire taxable fuel to use in a harvester in carrying on your farming enterprise, so you are paid a fuel tax credit for the fuel. Later on, the fuel is stolen. You have an increasing fuel tax adjustment of the amount of the credit.\nNote: Division 65 sets out which tax period or fuel tax return period the fuel tax adjustment is attributable to.\nTable of Subdivisions\n Guide to Division 46\nSection 46-A Instalment taxpayers"
+    },
+    {
+      "key": "section:46-1",
+      "title": "Section 46-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "46-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-3--SPECIAL RULES > Division 46--Instalment taxpayers > Section 46-1",
+      "text": "If you are a GST instalment taxpayer, you work out and claim your fuel tax credits for GST instalment quarters, instead of the annual tax period you use for the GST. However, you can choose not to give a return for the first 3 GST instalment quarters in a financial year (but if you have an increasing fuel tax adjustment, you must give a return for the last quarter in the year).\nTable of Sections\nSection 46-5 Instalment taxpayers"
+    },
+    {
+      "key": "section:46-5",
+      "title": "Section 46-5 - Instalment taxpayers",
+      "main_structural_unit": "section",
+      "main_structural_number": "46-5",
+      "main_structural_heading": "Instalment taxpayers",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-3--SPECIAL RULES > Division 46--Instalment taxpayers > Subdivision 46-A--Instalment taxpayers > Section 46-5",
+      "text": "(1) If you are a *GST instalment payer, you must treat each *GST instalment quarter as if it were a *tax period.\nGST instalment quarters to be treated as tax periods\n (2) For the purposes of working out under subsection  65-5(1) which *GST instalment quarter a fuel tax credit is attributable to, you must treat each GST instalment quarter as if, in the *GST Act, the quarter were a *tax period.\nChoice to give a return for first 3 quarters\n (3) You may choose whether to give the Commissioner a return for any of the first 3 *GST instalment quarters in a *financial year. If you do so, you must give the Commissioner your return on or before the day on which you are, or would be, required to pay your *GST instalment to the Commissioner for the quarter (disregarding section  162-80 of the *GST Act).\nNote: Section 162-80 of the GST Act allows certain entities to pay only 2 GST instalments for a financial year.\n (4) If you choose not to give a return for any of those quarters, then any fuel tax credit or *fuel tax adjustment that is attributable to that quarter:\n (a) ceases to be attributable to that quarter; and\n (b) becomes attributable to the first quarter for which you give the Commissioner a return.\nNote: See subsection 65-5(4) if your return for a quarter does not include a fuel tax credit that is attributable, under this subsection, to the quarter.\nRequirement to give a return for final quarter\n (5) If you have an *increasing fuel tax adjustment that is (or, under subsection (4), would be) attributable to the last *GST instalment quarter in the *financial year, you must give the Commissioner a return for that quarter on or before the day on which you are, or would be, required to pay your *GST instalment to the Commissioner for the quarter (disregarding section 162-80 of the *GST Act).\nTable of Subdivisions\n Guide to Division 47\nSection 47-A Time limit on entitlements to fuel tax credits"
+    },
+    {
+      "key": "section:47-1",
+      "title": "Section 47-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "47-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-3--SPECIAL RULES > Division 47--Time limit on entitlements to fuel tax credits > Section 47-1",
+      "text": "Your entitlements to fuel tax credits cease unless they are included in your assessed net fuel amounts within a limited period (generally 4 years).\nTable of Sections\nSection 47-5 Time limit on entitlements to fuel tax credits\nSection 47-10 Exceptions to time limit on entitlements to fuel tax credits"
+    },
+    {
+      "key": "section:47-5",
+      "title": "Section 47-5 - Time limit on entitlements to fuel tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "47-5",
+      "main_structural_heading": "Time limit on entitlements to fuel tax credits",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-3--SPECIAL RULES > Division 47--Time limit on entitlements to fuel tax credits > Subdivision 47-A--Time limit on entitlements to fuel tax credits > Section 47-5",
+      "text": "(1) You cease to be entitled to a fuel tax credit to the extent that it has not been taken into account, in an *assessment of a *net fuel amount of yours, during the period of 4 years after the day on which you were required to give to the Commissioner a return for the tax period or fuel tax return period to which the fuel tax credit would be attributable under subsection  65-5(1), (2) or (3).\n (2) Without limiting subsection  (1), you also cease to be entitled to a fuel tax credit for taxable fuel you acquire, manufacture or import, to the extent that you did not give to the Commissioner under section  61-15 during the period of 4 years after the day on which the acquisition, manufacture or importation occurred a return that takes the fuel tax credit into account.\nNote: Section 47-10 sets out circumstances in which your entitlement to the fuel tax credit does not cease under this section."
+    },
+    {
+      "key": "section:47-10",
+      "title": "Section 47-10 - Exceptions to time limit on entitlements to fuel tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "47-10",
+      "main_structural_heading": "Exceptions to time limit on entitlements to fuel tax credits",
+      "defined_term": null,
+      "structure_path": "Chapter 3--Fuel tax credits > Part 3-3--SPECIAL RULES > Division 47--Time limit on entitlements to fuel tax credits > Subdivision 47-A--Time limit on entitlements to fuel tax credits > Section 47-10",
+      "text": "If:\n (a) you requested the Commissioner to treat a document under subsection  29-70(1B) of the *GST Act as a tax invoice (within the meaning of that Act) for the purposes of attributing an *input tax credit for fuel to a *tax period; and\n (b) you made the request before the end of the 4 -year period mentioned in subsection 47-5(1) of this Act in relation to the tax period; and\n (c) the Commissioner agrees to the request after the end of the 4 -year period;\nyou do not cease under subsection 47-5(1) to be entitled to a fuel tax credit for the fuel to the extent that, had the Commissioner agreed to the request before the end of the 4 -year period, you would not cease under that subsection to be entitled to the credit.\nTable of Subdivisions\n Guide to Division 60\nSection 60-A Net fuel amounts"
+    },
+    {
+      "key": "section:60-1",
+      "title": "Section 60-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 60--Net fuel amounts > Section 60-1",
+      "text": "Your net fuel amount reflects how much you or the Commissioner must pay. A positive net fuel amount reflects how much you must pay the Commissioner. A negative net fuel amount reflects how much the Commissioner must pay you.Your net fuel amount is worked out for each tax period (or fuel tax return period if you are not registered, nor required to be registered, for GST).\nTable of Sections\nSection 60-5 Working out your net fuel amount\nSection 60-10 Determinations relating to how to work out net fuel amounts"
+    },
+    {
+      "key": "section:60-5",
+      "title": "Section 60-5 - Working out your net fuel amount",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-5",
+      "main_structural_heading": "Working out your net fuel amount",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 60--Net fuel amounts > Subdivision 60-A--Net fuel amounts > Section 60-5",
+      "text": "Your net fuel amount for a *tax period or a *fuel tax return period is worked out using the following formula:\n  where:\n\"total decreasing fuel tax adjustments\" is the sum of all *decreasing fuel tax adjustments that are attributable to the period.\nNote: Division 65 sets out which tax periods or fuel tax return periods fuel tax adjustments are attributable to.\n\"total fuel tax\" is nil.\nNote: Fuel tax is currently assessed under the Excise Act 1901, the Excise Tariff Act 1921, the Customs Act 1901 and the Customs Tariff Act 1995.\n\"total fuel tax credits\" is the sum of all fuel tax credits to which you are entitled that are attributable to the period.\nNote: Division 65 sets out which tax periods or fuel tax return periods fuel tax credits are attributable to.\n\"total increasing fuel tax adjustments\" is the sum of all *increasing fuel tax adjustments that are attributable to the period.\nNote: Division 65 sets out which tax periods or fuel tax return periods fuel tax adjustments are attributable to."
+    },
+    {
+      "key": "section:60-10",
+      "title": "Section 60-10 - Determinations relating to how to work out net fuel amounts",
+      "main_structural_unit": "section",
+      "main_structural_number": "60-10",
+      "main_structural_heading": "Determinations relating to how to work out net fuel amounts",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 60--Net fuel amounts > Subdivision 60-A--Net fuel amounts > Section 60-10",
+      "text": "(1) The Commissioner may make a determination that, in the circumstances specified in the determination, a *net fuel amount for a *tax period or a *fuel tax return period may be worked out to take account of other matters in the way specified in the determination.\n (2) The matters must relate to correction of errors that were made in working out *net fuel amounts to which subsection (3) or (4) applies.\n (3) This subsection applies to a *net fuel amount for a *tax period (the earlier tax period) if:\n (a) the earlier tax period precedes the tax period mentioned in subsection  (1); and\n (b) the tax period mentioned in subsection  (1) starts during the *period of review for the *assessment of the net fuel amount.\n (4) This subsection applies to a *net fuel amount for a *fuel tax return period (the earlier fuel tax return period ) if:\n (a) the earlier fuel tax return period precedes the fuel tax return period mentioned in subsection  (1); and\n (b) the fuel tax return period mentioned in subsection  (1) starts during the *period of review for the *assessment of the net fuel amount.\n (5) If the circumstances mentioned in subsection  (1) apply in relation to a *tax period or a *fuel tax return period applying to you, you may work out your *net fuel amount for the tax period or fuel tax return period in that way.\nTable of Subdivisions\n Guide to Division 61\nSection 61-A Returns, refunds and payments"
+    },
+    {
+      "key": "section:61-1",
+      "title": "Section 61-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "61-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 61--Returns, refunds and payments > Section 61-1",
+      "text": "You must give the Commissioner a return for each tax period (or fuel tax return period if you are not registered, nor required to be registered, for GST) by a specified time.If the Commissioner assesses you as having a positive net fuel amount, you must pay the Commissioner that amount. If the Commissioner assesses you as having a negative net fuel amount, the Commissioner must pay you that amount.\nNote: For the assessment of the net fuel amount (including self-assessment), see Division  155 in Schedule 1 to the Taxation Administration Act 1953.\nTable of Sections\nSection 61-5 Entitlement to a refund\nSection 61-7 When entitlement arises\nSection 61-10 Requirement to pay an assessed net fuel amount\nSection 61-15 When you must give the Commissioner your return\nSection 61-20 Fuel tax return periods"
+    },
+    {
+      "key": "section:61-5",
+      "title": "Section 61-5 - Entitlement to a refund",
+      "main_structural_unit": "section",
+      "main_structural_number": "61-5",
+      "main_structural_heading": "Entitlement to a refund",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 61--Returns, refunds and payments > Subdivision 61-A--Returns, refunds and payments > Section 61-5",
+      "text": "(1) If your *assessed net fuel amount for a *tax period or *fuel tax return period is less than zero, the Commissioner must, on behalf of the Commonwealth, pay that *amount (expressed as a positive amount) to you.\nNote 1: See Division 3A of Part IIB of the Taxation Administration Act 1953 for the rules about how the Commissioner must pay you. Division 3 of Part IIB of that Act allows the Commissioner to apply the amount owing as a credit against tax debts that you owe to the Commonwealth.\nNote 2: Interest is payable under the Taxation (Interest on Overpayments and Early Payments) Act 1983 if the Commissioner is late in paying the amount.\n (2) However, if:\n (a) the Commissioner amends the *assessment of your *net fuel amount for a *tax period or *fuel tax return period; and\n (b) your *assessed net fuel amount before the amendment was less than zero; and\n (c) the *amount that, because of the assessment, was:\n (i) paid; or\n (ii) applied under the Taxation Administration Act 1953;\n  exceeded the amount (including a nil amount) that would have been payable or applicable had your assessed net fuel amount always been the later assessed net fuel amount;\nyou must pay the excess to the Commissioner as if:\n (d) the excess were an assessed net fuel amount for that period; and\n (e) that assessed net fuel amount were an amount greater than zero and equal to the amount of the excess; and\n (f) despite section  61-10, that assessed net fuel amount became payable, and due for payment, by you at the time when the amount was paid or applied.\nNote: Treating the excess as if it were an assessed net fuel amount has the effect of applying the collection and recovery rules in Part  3-10 in Schedule 1 to the Taxation Administration Act 1953, such as a liability to pay the general interest charge under section  105-80 in that Schedule."
+    },
+    {
+      "key": "section:61-7",
+      "title": "Section 61-7 - When entitlement arises",
+      "main_structural_unit": "section",
+      "main_structural_number": "61-7",
+      "main_structural_heading": "When entitlement arises",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 61--Returns, refunds and payments > Subdivision 61-A--Returns, refunds and payments > Section 61-7",
+      "text": "Your entitlement to be paid an *amount under section 61-5 arises when the Commissioner gives you notice of the *assessment of your *net fuel amount for the *tax period or *fuel tax return period.\nNote: In certain circumstances, the Commissioner is treated as having given you notice of the assessment when you give to the Commissioner your return (see section  155-15 in Schedule 1 to the Taxation Administration Act 1953)."
+    },
+    {
+      "key": "section:61-10",
+      "title": "Section 61-10 - Requirement to pay an assessed net fuel amount",
+      "main_structural_unit": "section",
+      "main_structural_number": "61-10",
+      "main_structural_heading": "Requirement to pay an assessed net fuel amount",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 61--Returns, refunds and payments > Subdivision 61-A--Returns, refunds and payments > Section 61-10",
+      "text": "You must pay your *assessed net fuel amount for a *tax period to the Commissioner by the day on which you are required under section  46-5 or 61-15 to give to the Commissioner your return for the tax period, if your assessed net fuel amount is greater than zero."
+    },
+    {
+      "key": "section:61-15",
+      "title": "Section 61-15 - When you must give the Commissioner your return",
+      "main_structural_unit": "section",
+      "main_structural_number": "61-15",
+      "main_structural_heading": "When you must give the Commissioner your return",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 61--Returns, refunds and payments > Subdivision 61-A--Returns, refunds and payments > Section 61-15",
+      "text": "(1) If you are *registered for GST, or *required to be registered for GST, you must give the Commissioner your return for a *tax period on or before the day on which you are required to give the Commissioner your *GST return for the tax period.\nNote 1: For the penalties for failing to comply with these obligations, see the Taxation Administration Act 1953 .\nNote 2: If you lodge your GST return electronically, you must also electronically notify the Commissioner of your net fuel amount (see section  388-80 in Schedule 1 to the Taxation Administration Act 1953).\nNote 3: Instalment taxpayers may give their returns on a different day (see section  46-5).\n (2) If you are neither *registered for GST, nor *required to be registered for GST, you must give the Commissioner your return for a *fuel tax return period by the 21st day after the end of the fuel tax return period.\n (2A) You must, if required by the Commissioner, whether before or after the end of a *tax period or *fuel tax return period, give to the Commissioner, within the time required, a return or a further or fuller return for the tax period or fuel tax return period or a specified period, whether or not you have given the Commissioner a return for the tax period or fuel tax return period under subsection  (1) or (2).\n (3) You must give the Commissioner your return for a *tax period or a *fuel tax return period in the *approved form."
+    },
+    {
+      "key": "section:61-20",
+      "title": "Section 61-20 - Fuel tax return periods",
+      "main_structural_unit": "section",
+      "main_structural_number": "61-20",
+      "main_structural_heading": "Fuel tax return periods",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-1--NET FUEL AMOUNTS > Division 61--Returns, refunds and payments > Subdivision 61-A--Returns, refunds and payments > Section 61-20",
+      "text": "(1) If you are neither *registered for GST, nor *required to be registered for GST, your fuel tax return period is the period specified in the return.\n (2) However, you must end a *fuel tax return period within 90 days, or any longer period allowed by the Commissioner, after you become aware of an *increasing fuel tax adjustment under Division  44. If you do not do so, your fuel tax return period ends at the end of the 90 days, or the longer period allowed by the Commissioner.\nNote: You must give your return to the Commissioner by the 21st day after the end of the fuel tax return period (see section  61-15).\nTable of Subdivisions\n Guide to Division 65\nSection 65-A Attribution rules"
+    },
+    {
+      "key": "section:65-1",
+      "title": "Section 65-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "65-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-2--ATTRIBUTION RULES > Division 65--Attribution rules > Section 65-1",
+      "text": "Fuel tax credits and fuel tax adjustments are attributed to tax periods (or fuel tax return periods).Generally, if you are a business taxpayer, your fuel tax credit for taxable fuel is attributed to the same period as your input tax credit for the fuel (to reduce compliance costs). If you are a non -business taxpayer, your fuel tax credit for taxable fuel is attributed to the fuel tax return period in which you acquire, manufacture or import the fuel.Fuel tax adjustments are attributed to the tax period (or fuel tax return period) in which you become aware of the adjustment.\nTable of Sections\nSection 65-5 Attribution rules for fuel tax credits\nSection 65-10 Attribution rules for fuel tax adjustments"
+    },
+    {
+      "key": "section:65-5",
+      "title": "Section 65-5 - Attribution rules for fuel tax credits",
+      "main_structural_unit": "section",
+      "main_structural_number": "65-5",
+      "main_structural_heading": "Attribution rules for fuel tax credits",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-2--ATTRIBUTION RULES > Division 65--Attribution rules > Subdivision 65-A--Attribution rules > Section 65-5",
+      "text": "Attribution rules for fuel you acquire or import\n (1) If you are *registered for GST, or *required to be registered for GST, your fuel tax credit for taxable fuel that you acquire or import is attributable to:\n (a) the same *tax period that your *input tax credit for the fuel is attributable to under the *GST Act; or\n (b) the same tax period that an input tax credit would have been attributable to under that Act if the fuel had been a *creditable acquisition or a *creditable importation.\n (2) If you are neither *registered for GST, nor *required to be registered for GST, your fuel tax credit for taxable fuel that you acquire or import is attributable to the *fuel tax return period in which you acquire or import the fuel.\nAttribution rule for fuel you manufacture\n (3) Your fuel tax credit for taxable fuel that you manufacture is attributable to the *tax period or *fuel tax return period in which the fuel was entered for home consumption (within the meaning of the Excise Act 1901).\nLater attribution rule for fuel tax credits\n (4) If your return for a *tax period or *fuel tax return period does not take into account a fuel tax credit that is attributable to the period mentioned in subsection  (1), (2) or (3), then the credit:\n (a) ceases to be attributable to that period; and\n (b) becomes attributable to the first period for which you give the Commissioner a return that does take it into account.\nNote: For another attribution rule for fuel tax credits, see subsection 46-5(4) (GST instalment taxpayers)."
+    },
+    {
+      "key": "section:65-10",
+      "title": "Section 65-10 - Attribution rules for fuel tax adjustments",
+      "main_structural_unit": "section",
+      "main_structural_number": "65-10",
+      "main_structural_heading": "Attribution rules for fuel tax adjustments",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-2--ATTRIBUTION RULES > Division 65--Attribution rules > Subdivision 65-A--Attribution rules > Section 65-10",
+      "text": "A *fuel tax adjustment under Division 44 is attributable to the *tax period or *fuel tax return period in which you become aware of the adjustment.\nNote: For another attribution rule for fuel tax adjustments, see subsection  46-5(4) (GST instalment taxpayers).\nTable of Subdivisions\n Guide to Division 70\nSection 70-A Special rules about entities and how they are organised\nSection 70-B Government entities"
+    },
+    {
+      "key": "section:70-1",
+      "title": "Section 70-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Section 70-1",
+      "text": "This Act applies to GST groups, joint ventures, religious practitioners, incapacitated entities, branches, resident agents and non -profit sub-entities in a similar way to the way in which the GST Act applies to those entities.Government entities that are registered for GST are treated as if they are carrying on an enterprise.\nTable of Sections\nSection 70-5 Application of fuel tax law to GST groups and joint ventures\nSection 70-10 Entry and exit history rules\nSection 70-15 Consolidating joint venture returns\nSection 70-20 Application of fuel tax law to religious practitioners\nSection 70-25 Application of fuel tax law to incapacitated entities\nSection 70-30 Application of fuel tax law to GST branches, resident agents and non -profit sub-entities"
+    },
+    {
+      "key": "section:70-5",
+      "title": "Section 70-5 - Application of fuel tax law to GST groups and joint ventures",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-5",
+      "main_structural_heading": "Application of fuel tax law to GST groups and joint ventures",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-A--Special rules about entities and how they are organised > Section 70-5",
+      "text": "(1) The entities in column 1 of the table are treated as a single entity for the purposes of the *fuel tax law.\n (2) The entity in column 2 of the table has all the rights, powers and obligations of the single entity under the *fuel tax law (instead of each entity in column 1 having those rights, powers and obligations).\nApplication of fuel tax law to GST groups and joint venturesItemColumn 1These entities are treated as a single entity for the purposes of the fuel tax lawColumn 2This entity has all the rights, powers and obligations of the single entity under the fuel tax law1The members of a *GST groupThe representative member of the group2The *participants in a *GST joint venture (to the extent that any relevant fuel is acquired, manufactured or imported in the course of activities for which the joint venture was entered into)The *joint venture operator of the joint venture\nNote: Sections 444-80 and 444-90 in Schedule  1 to the Taxation Administration Act 1953 affect the operation of this section."
+    },
+    {
+      "key": "section:70-10",
+      "title": "Section 70-10 - Entry and exit history rules",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-10",
+      "main_structural_heading": "Entry and exit history rules",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-A--Special rules about entities and how they are organised > Section 70-10",
+      "text": "Entry history rule\n (1) For the purposes of the *fuel tax law, from the time when a particular entity starts to be treated as part of a single entity under section 70-5, everything that happened (including because of any previous application of this section) before that time, in relation to any fuel in the hands of the particular entity at that time, is taken to have happened as if the fuel had been in the hands of the single entity.\nExample: The single entity is taken to have acquired the fuel for the purposes for which the particular entity acquired the fuel.\nExit history rule\n (2) For the purposes of the *fuel tax law, from the time when a particular entity ceases to be treated as part of a single entity under section 70-5, everything that happened (including because of any previous application of this section) before that time, in relation to any fuel in the hands of the particular entity immediately after that time, is taken to have happened as if the fuel had been in the hands of the particular entity.\nExample: The particular entity is taken to have acquired the fuel for the purposes for which the single entity acquired the fuel."
+    },
+    {
+      "key": "section:70-15",
+      "title": "Section 70-15 - Consolidating joint venture returns",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-15",
+      "main_structural_heading": "Consolidating joint venture returns",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-A--Special rules about entities and how they are organised > Section 70-15",
+      "text": "If, under section  51-52 of the *GST Act, an election is in force to consolidate a *joint venture operator&#39;s *GST returns relating to its *GST joint ventures, the operator must consolidate its returns under this Act relating to the joint ventures."
+    },
+    {
+      "key": "section:70-20",
+      "title": "Section 70-20 - Application of fuel tax law to religious practitioners",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-20",
+      "main_structural_heading": "Application of fuel tax law to religious practitioners",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-A--Special rules about entities and how they are organised > Section 70-20",
+      "text": "The *fuel tax law applies to *religious practitioners and religious institutions in the same way as the *GST Act applies to them under Division 50 of that Act."
+    },
+    {
+      "key": "section:70-25",
+      "title": "Section 70-25 - Application of fuel tax law to incapacitated entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-25",
+      "main_structural_heading": "Application of fuel tax law to incapacitated entities",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-A--Special rules about entities and how they are organised > Section 70-25",
+      "text": "The *fuel tax law applies to an *incapacitated entity and its representative (within the meaning of the *GST Act) in the same way as that Act applies to them under Division 58 of that Act."
+    },
+    {
+      "key": "section:70-30",
+      "title": "Section 70-30 - Application of fuel tax law to GST branches, resident agents and non - profit sub - entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-30",
+      "main_structural_heading": "Application of fuel tax law to GST branches, resident agents and non - profit sub - entities",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-A--Special rules about entities and how they are organised > Section 70-30",
+      "text": "While an entity meets the condition in column 1 of the table, the *fuel tax law applies to:\n (a) the entity; and\n (b) its fuel tax credits, *net fuel amount, *assessed net fuel amount and *fuel tax adjustments;\nin a corresponding way to the way in which the *GST law applies, because of the Division of the *GST Act mentioned in column 2, to:\n (c) the entity; and\n (d) its *input tax credits, *net amount, assessed net amount and *adjustments.\nApplication of fuel tax law to GST branches, resident agents and non-profit sub-entitiesItemColumn 1While this condition is met ...Column 2the fuel tax law applies in a corresponding way to the way in which the GST law applies to the entity because of this Division of the GST Act ...1The entity has a *GST branchDivision 542The entity has a *resident agentDivision 573The entity has a non-profit sub-entityDivision 63\nTable of Sections\nSection 70-35 Application of fuel tax law to government entities"
+    },
+    {
+      "key": "section:70-35",
+      "title": "Section 70-35 - Application of fuel tax law to government entities",
+      "main_structural_unit": "section",
+      "main_structural_number": "70-35",
+      "main_structural_heading": "Application of fuel tax law to government entities",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-3--SPECIAL RULES ABOUT ENTITIES > Division 70--Special rules about entities > Subdivision 70-B--Government entities > Section 70-35",
+      "text": "A *government entity that is *registered for GST is treated, while its registration has effect, as if it were an entity *carrying on an *enterprise.\nTable of Subdivisions\n Guide to Division 75\nSection 75-A Application of this Division\nSection 75-B Commissioner may negate effects of schemes for fuel tax benefits"
+    },
+    {
+      "key": "section:75-1",
+      "title": "Section 75-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Section 75-1",
+      "text": "The object of this Division is to deter schemes that give entities benefits by reducing fuel tax, increasing refunds or altering the timing of payment of assessed net fuel amounts.If the dominant purpose or principal effect of a scheme is to give an entity such a benefit, the Commissioner may negate the benefit any entity gets from the scheme by making a declaration stating the entity&#39;s net fuel amount for a particular tax period, despite the scheme.\nTable of Sections\nSection 75-5 When does this Division operate?\nSection 75-10 When does an entity get a fuel tax benefit from a scheme?\nSection 75-15 Matters to be considered in determining purpose or effect"
+    },
+    {
+      "key": "section:75-5",
+      "title": "Section 75-5 - When does this Division operate?",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-5",
+      "main_structural_heading": "When does this Division operate?",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-A--Application of this Division > Section 75-5",
+      "text": "General rule\n (1) This Division operates if:\n (a) an entity (the avoider) gets a *fuel tax benefit from a *scheme; and\n (b) the fuel tax benefit is not attributable to the making, by any entity, of a choice, election, application or agreement that is expressly provided for by the *fuel tax law or the *GST law; and\n (c) taking account of the matters described in section  75-15, it is reasonable to conclude that either:\n (i) an entity that (whether alone or with others) entered into or carried out the scheme, or part of the scheme, did so with the sole or dominant purpose of that entity or another entity getting a fuel tax benefit from the scheme; or\n (ii) the principal effect of the scheme, or of part of the scheme, is that the avoider gets the fuel tax benefit from the scheme directly or indirectly; and\n (d) the avoider gets the fuel tax benefit from the scheme on or after 1  July 2006.\nTerritorial application\n (2) It does not matter whether the *scheme, or any part of the scheme, was entered into or carried out inside or outside Australia."
+    },
+    {
+      "key": "section:75-10",
+      "title": "Section 75-10 - When does an entity get a fuel tax benefit from a scheme?",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-10",
+      "main_structural_heading": "When does an entity get a fuel tax benefit from a scheme?",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-A--Application of this Division > Section 75-10",
+      "text": "(1) An entity gets a fuel tax benefit from a *scheme if:\n (a) an *amount that is payable by the entity under this Act apart from this Division is, or could reasonably be expected to be, smaller than it would be apart from the scheme or a part of the scheme; or\n (b) an amount that is payable to the entity under this Act apart from this Division is, or could reasonably be expected to be, larger than it would be apart from the scheme or a part of the scheme; or\n (c) all or part of an amount that is payable by the entity under this Act apart from this Division is, or could reasonably be expected to be, payable later than it would have been apart from the scheme or a part of the scheme; or\n (d) all or part of an amount that is payable to the entity under this Act apart from this Division is, or could reasonably be expected to be, payable earlier than it would have been apart from the scheme or a part of the scheme.\nFuel tax benefit can arise even if no economic alternative\n (2) An entity can get a *fuel tax benefit from a *scheme even if the entity or entities that entered into or carried out the scheme, or a part of the scheme, could not have engaged economically in any activities:\n (a) of the kind to which this Act applies; and\n (b) that would produce an effect equivalent (except in terms of this Act) to the effect of the scheme or part of the scheme;\nother than the activities involved in entering into or carrying out the scheme or part of the scheme."
+    },
+    {
+      "key": "section:75-15",
+      "title": "Section 75-15 - Matters to be considered in determining purpose or effect",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-15",
+      "main_structural_heading": "Matters to be considered in determining purpose or effect",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-A--Application of this Division > Section 75-15",
+      "text": "(1) The following matters are to be taken into account under section  75-5 in considering an entity&#39;s purpose in entering into or carrying out the *scheme from which the avoider got a *fuel tax benefit, and the effect of the scheme:\n (a) the manner in which the scheme was entered into or carried out;\n (b) the form and substance of the scheme, including:\n (i) the legal rights and obligations involved in the scheme; and\n (ii) the economic and commercial substance of the scheme;\n (c) the purpose or object (whether or not expressly stated) of any of the following Acts, and any relevant provision of those Acts, so far as they are relevant to this Act:\n (i) this Act;\n (ii) the Excise Act 1901 and the Excise Tariff Act 1921;\n (iii) the Customs Act 1901 and the Customs Tariff Act 1995;\n (v) the *GST Act;\n (d) the timing of the scheme;\n (e) the period over which the scheme was entered into and carried out;\n (f) the effect that this Act would have in relation to the scheme apart from this Division;\n (g) any change in the avoider&#39;s financial position that has resulted, or may reasonably be expected to result, from the scheme;\n (h) any change that has resulted, or may reasonably be expected to result, from the scheme in the financial position of an entity (a connected entity) that has or had a connection or dealing with the avoider, whether the connection or dealing is or was of a family, business or other nature;\n (i) any other consequence for the avoider or a connected entity of the scheme having been entered into or carried out;\n (j) the nature of the connection between the avoider and a connected entity;\n (k) the circumstances surrounding the scheme;\n (l) any other relevant circumstances.\n (2) Subsection (1) applies in relation to consideration of an entity&#39;s purpose in entering into or carrying out a part of a *scheme from which the avoider gets a *fuel tax benefit, and the effect of part of the scheme, as if the part were itself the scheme from which the avoider gets the fuel tax benefit.\nTable of Sections\nSection 75-40 Commissioner may make declaration for purpose of negating avoider&#39;s fuel tax benefits\nSection 75-45 Commissioner may reduce an entity&#39;s net fuel amount to compensate\nSection 75-50 Declaration has effect according to its terms\nSection 75-55 Commissioner may disregard scheme in making declarations\nSection 75-60 One declaration may cover several tax periods or fuel tax return periods\nSection 75-65 Commissioner must give copy of declaration to entity affected"
+    },
+    {
+      "key": "section:75-40",
+      "title": "Section 75-40 - Commissioner may make declaration for purpose of negating avoider&#39;s fuel tax benefits",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-40",
+      "main_structural_heading": "Commissioner may make declaration for purpose of negating avoider&#39;s fuel tax benefits",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-B--Commissioner may negate effects of schemes for fuel tax benefits > Section 75-40",
+      "text": "(1) For the purpose of negating a *fuel tax benefit the avoider gets from the *scheme, the Commissioner may make a declaration stating the *amount that is (and has been at all times) the avoider&#39;s *net fuel amount for a specified *tax period or *fuel tax return period that has ended.\n (2) A declaration under this section is not a legislative instrument.\n (3) The Commissioner must take such action as he or she considers necessary to give effect to a declaration made under this section."
+    },
+    {
+      "key": "section:75-45",
+      "title": "Section 75-45 - Commissioner may reduce an entity&#39;s net fuel amount to compensate",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-45",
+      "main_structural_heading": "Commissioner may reduce an entity&#39;s net fuel amount to compensate",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-B--Commissioner may negate effects of schemes for fuel tax benefits > Section 75-45",
+      "text": "(1) This section operates if:\n (a) the Commissioner has made a declaration under subsection  75-40(1) to negate the *fuel tax benefit an entity gets from a *scheme; and\n (b) the Commissioner considers that another entity (the loser) gets a *fuel tax disadvantage from the scheme; and\n (c) the Commissioner considers that it is fair and reasonable that the loser&#39;s fuel tax disadvantage be negated or reduced.\n (2) An entity gets a fuel tax disadvantage from a *scheme if:\n (a) an *amount that is payable by the entity under this Act apart from this Division is, or could reasonably be expected to be, larger than it would have been apart from the scheme or a part of the scheme; or\n (b) an amount that is payable to the entity under this Act apart from this Division is, or could reasonably be expected to be, smaller than it would have been apart from the scheme or a part of the scheme; or\n (c) all or part of an amount that is payable by the entity under this Act apart from this Division is, or could reasonably be expected to be, payable earlier than it would have been apart from the scheme or a part of the scheme; or\n (d) all or part of an amount that is payable to the entity under this Act apart from this Division is, or could reasonably be expected to be, payable later than it would have been apart from the scheme or a part of the scheme.\n (3) For the purposes of negating or reducing the loser&#39;s *fuel tax disadvantage from the *scheme, the Commissioner may make a declaration (under this section) stating the *amount that is (and has been at all times) the loser&#39;s *net fuel amount for a specified *tax period or *fuel tax return period that has ended.\n (4) An *amount stated in a declaration as the loser&#39;s *net fuel amount must not be less than the net fuel amount would have been apart from the *scheme, or part of the scheme, and the declaration.\n (5) An entity may give the Commissioner a written request to make a declaration under this section relating to the entity. The Commissioner must decide whether or not to grant the request, and give the entity notice of the Commissioner&#39;s decision.\n (6) A declaration under this section is not a legislative instrument."
+    },
+    {
+      "key": "section:75-50",
+      "title": "Section 75-50 - Declaration has effect according to its terms",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-50",
+      "main_structural_heading": "Declaration has effect according to its terms",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-B--Commissioner may negate effects of schemes for fuel tax benefits > Section 75-50",
+      "text": "For the purpose of making an *assessment, a statement in a declaration under this Subdivision has effect according to its terms, despite the provisions of this Act outside of this Division."
+    },
+    {
+      "key": "section:75-55",
+      "title": "Section 75-55 - Commissioner may disregard scheme in making declarations",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-55",
+      "main_structural_heading": "Commissioner may disregard scheme in making declarations",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-B--Commissioner may negate effects of schemes for fuel tax benefits > Section 75-55",
+      "text": "For the purposes of making a declaration under this Subdivision, the Commissioner may:\n (a) treat a particular event that actually happened as not having happened; and\n (b) treat a particular event that did not actually happen as having happened and, if appropriate, treat the event as:\n (i) having happened at a particular time; and\n (ii) having involved particular action by a particular entity; and\n (c) treat a particular event that actually happened as:\n (i) having happened at a time different from the time it actually happened; or\n (ii) having involved particular action by a particular entity (whether or not the event actually involved any action by that entity)."
+    },
+    {
+      "key": "section:75-60",
+      "title": "Section 75-60 - One declaration may cover several tax periods or fuel tax return periods",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-60",
+      "main_structural_heading": "One declaration may cover several tax periods or fuel tax return periods",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-B--Commissioner may negate effects of schemes for fuel tax benefits > Section 75-60",
+      "text": "Statements relating to different *tax periods or *fuel tax return periods may be included in a single declaration under this Subdivision."
+    },
+    {
+      "key": "section:75-65",
+      "title": "Section 75-65 - Commissioner must give copy of declaration to entity affected",
+      "main_structural_unit": "section",
+      "main_structural_number": "75-65",
+      "main_structural_heading": "Commissioner must give copy of declaration to entity affected",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-4--ANTI-AVOIDANCE > Division 75--Anti-avoidance > Subdivision 75-B--Commissioner may negate effects of schemes for fuel tax benefits > Section 75-65",
+      "text": "(1) The Commissioner must give a copy of a declaration under this Subdivision to the entity whose *net fuel amount is stated in the declaration.\n (2) A failure to comply with subsection  (1) does not affect the validity of the declaration.\nTable of Subdivisions\n Guide to Division 95\nSection 95-A Miscellaneous"
+    },
+    {
+      "key": "section:95-1",
+      "title": "Section 95-1 - What this Division is about",
+      "main_structural_unit": "section",
+      "main_structural_number": "95-1",
+      "main_structural_heading": "What this Division is about",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-5--MISCELLANEOUS > Division 95--Miscellaneous > Section 95-1",
+      "text": "This Division provides for determinations and regulations to be made for the purposes of the fuel tax law.\nTable of Sections\nSection 95-5 Determination of blends that no longer constitute fuels\nSection 95-10 Application of this law to the Commonwealth\nSection 95-100 Regulations"
+    },
+    {
+      "key": "section:95-5",
+      "title": "Section 95-5 - Determination of blends that no longer constitute fuels",
+      "main_structural_unit": "section",
+      "main_structural_number": "95-5",
+      "main_structural_heading": "Determination of blends that no longer constitute fuels",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-5--MISCELLANEOUS > Division 95--Miscellaneous > Subdivision 95-A--Miscellaneous > Section 95-5",
+      "text": "(1) For the purposes of the *fuel tax law, the Commissioner may, by legislative instrument, determine that a blend of a fuel and another product does not constitute a fuel.\n (2) An entity that blends that fuel and that other product to produce that blend is taken to have used that fuel.\n (3) In making a determination under subsection  (1), the Commissioner must consider the following matters:\n (a) the physical and chemical properties of the blend;\n (b) whether the blend can be used in an internal combustion engine;\n (c) whether the blend is marketed and distributed as fuel;\n (d) whether there is a risk that the blend might be used as fuel, and the financial impact on the Commonwealth if the blend were used as fuel;\n (e) any other relevant matter.\nThe Commissioner must give the greatest weight to the matter mentioned in paragraph (d)."
+    },
+    {
+      "key": "section:95-10",
+      "title": "Section 95-10 - Application of this law to the Commonwealth",
+      "main_structural_unit": "section",
+      "main_structural_number": "95-10",
+      "main_structural_heading": "Application of this law to the Commonwealth",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-5--MISCELLANEOUS > Division 95--Miscellaneous > Subdivision 95-A--Miscellaneous > Section 95-10",
+      "text": "(1) It is the Parliament&#39;s intention that the Commonwealth and *untaxable Commonwealth entities should:\n (a) be notionally entitled to fuel tax credits; and\n (b) have notional *fuel tax adjustments.\nNote: The fuel tax law binds the Crown in right of the States, the Australian Capital Territory and the Northern Territory (see section  1-15).\n (2) The *Finance Minister may give such written directions as are necessary or convenient for carrying out or giving effect to subsection (1) and, in particular, may give directions in relation to the transfer of money within an account, or between accounts, operated by the Commonwealth or an *untaxable Commonwealth entity.\n (3) The directions given under subsection  (2) may also take account of the provisions of the Fuel Tax (Consequential and Transitional Provisions) Act 2006.\n (4) Directions under subsection  (2) have effect, and must be complied with, despite any other Commonwealth law.\n (5) A direction given under subsection  (2) is not a legislative instrument."
+    },
+    {
+      "key": "section:95-100",
+      "title": "Section 95-100 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "95-100",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Chapter 4--Common rules > Part 4-5--MISCELLANEOUS > Division 95--Miscellaneous > Subdivision 95-A--Miscellaneous > Section 95-100",
+      "text": "The Governor -General may make regulations prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.\nTable of Subdivisions\nSection 105-A Rules for interpreting this Act\nTable of Sections\nSection 105-1 What forms part of this Act\nSection 105-5 What does not form part of this Act\nSection 105-10 Guides, and their role in interpreting this Act"
+    },
+    {
+      "key": "section:105-1",
+      "title": "Section 105-1 - What forms part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "105-1",
+      "main_structural_heading": "What forms part of this Act",
+      "defined_term": null,
+      "structure_path": "Chapter 5--Interpretation > Part 5-1--RULES FOR INTERPRETING THIS ACT > Division 105--Rules for interpreting this Act > Subdivision 105-A--Rules for interpreting this Act > Section 105-1",
+      "text": "(1) These all form part of this Act:\n (a) the headings to the Chapters, Parts, Divisions and Subdivisions of this Act;\n (b) *Guides;\n (c) the headings to the sections and subsections of this Act;\n (d) the headings for groups of sections of this Act (group headings);\n (e) the notes and examples (however described) that follow provisions of this Act.\n (2) The asterisks used to identify defined terms form part of this Act. However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision."
+    },
+    {
+      "key": "section:105-5",
+      "title": "Section 105-5 - What does not form part of this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "105-5",
+      "main_structural_heading": "What does not form part of this Act",
+      "defined_term": null,
+      "structure_path": "Chapter 5--Interpretation > Part 5-1--RULES FOR INTERPRETING THIS ACT > Division 105--Rules for interpreting this Act > Subdivision 105-A--Rules for interpreting this Act > Section 105-5",
+      "text": "These do not form part of this Act:\n (a) footnotes and endnotes;\n (b) Tables of Subdivisions;\n (c) Tables of sections."
+    },
+    {
+      "key": "section:105-10",
+      "title": "Section 105-10 - Guides, and their role in interpreting this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "105-10",
+      "main_structural_heading": "Guides, and their role in interpreting this Act",
+      "defined_term": null,
+      "structure_path": "Chapter 5--Interpretation > Part 5-1--RULES FOR INTERPRETING THIS ACT > Division 105--Rules for interpreting this Act > Subdivision 105-A--Rules for interpreting this Act > Section 105-10",
+      "text": "(1) A Guide consists of:\n (a) sections under a heading indicating that what follows is a Guide to a particular Subdivision, Division etc.; or\n (b) a Subdivision, Division or Part that is identified as a Guide by a provision in the Subdivision, Division or Part.\n (2) *Guides form part of this Act, but they are kept separate from the operative provisions. In interpreting an operative provision, a Guide may only be considered:\n (a) in determining the purpose or object underlying the provision; or\n (b) to confirm that the provision&#39;s meaning is the ordinary meaning conveyed by its text, taking into account its context in the Act and the purpose or object underlying the provision; or\n (c) in determining the provision&#39;s meaning if the provision is ambiguous or obscure; or\n (d) in determining the provision&#39;s meaning if the ordinary meaning conveyed by its text, taking into account its context in the Act and the purpose or object underlying the provision, leads to a result that is manifestly absurd or is unreasonable.\nTable of Subdivisions\nSection 110-A Dictionary\nTable of Sections\nSection 110-5 Dictionary"
+    },
+    {
+      "key": "section:110-5.term:adjustment",
+      "title": "Section 110-5 Dictionary \"adjustment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"adjustment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"adjustment\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:amount",
+      "title": "Section 110-5 Dictionary \"amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"amount\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"amount\" includes a nil amount."
+    },
+    {
+      "key": "section:110-5.term:approved-form",
+      "title": "Section 110-5 Dictionary \"approved form\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"approved form\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"approved form\" has the meaning given by section 388-50 in Schedule 1 to the Taxation Administration Act 1953.\n\"assessed net fuel amount\", for a *tax period, or for a *fuel tax return period, means the *net fuel amount *assessed for the tax period or fuel tax return period."
+    },
+    {
+      "key": "section:110-5.term:assessment",
+      "title": "Section 110-5 Dictionary \"assessment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"assessment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"assessment\" has the meaning given by the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:110-5.term:biodiesel",
+      "title": "Section 110-5 Dictionary \"biodiesel\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"biodiesel\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"biodiesel\" has the same meaning as it has in the Excise Tariff Act 1921."
+    },
+    {
+      "key": "section:110-5.term:carrying-on",
+      "title": "Section 110-5 Dictionary \"carrying on\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"carrying on\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"carrying on\" an *enterprise has the meaning given by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:commissioner",
+      "title": "Section 110-5 Dictionary \"Commissioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Commissioner\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"Commissioner\" means the Commissioner of Taxation.\nNote: The office of Commissioner of Taxation is created by section 4 of the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:110-5.term:creditable-acquisition",
+      "title": "Section 110-5 Dictionary \"creditable acquisition\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"creditable acquisition\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"creditable acquisition\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:creditable-importation",
+      "title": "Section 110-5 Dictionary \"creditable importation\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"creditable importation\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"creditable importation\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:decreasing-adjustment",
+      "title": "Section 110-5 Dictionary \"decreasing adjustment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"decreasing adjustment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"decreasing adjustment\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:decreasing-fuel-tax-adjustment",
+      "title": "Section 110-5 Dictionary \"decreasing fuel tax adjustment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"decreasing fuel tax adjustment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"decreasing fuel tax adjustment\" has the meaning given by section 44-5."
+    },
+    {
+      "key": "section:110-5.term:effective-fuel-tax",
+      "title": "Section 110-5 Dictionary \"effective fuel tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"effective fuel tax\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"effective fuel tax\" has the meaning given by sections 43-5 and 43-7."
+    },
+    {
+      "key": "section:110-5.term:enterprise",
+      "title": "Section 110-5 Dictionary \"enterprise\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"enterprise\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"enterprise\" has the meaning given by section 9-20 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:entity",
+      "title": "Section 110-5 Dictionary \"entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"entity\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"entity\" has the meaning given by section 184-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:finance-minister",
+      "title": "Section 110-5 Dictionary \"Finance Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Finance Minister\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"Finance Minister\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:financial-year",
+      "title": "Section 110-5 Dictionary \"financial year\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"financial year\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"financial year\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax",
+      "title": "Section 110-5 Dictionary \"fuel tax\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax\" has the meaning given by section 43-6."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax-adjustment",
+      "title": "Section 110-5 Dictionary \"fuel tax adjustment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax adjustment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax adjustment\" means an *increasing fuel tax adjustment or a *decreasing fuel tax adjustment."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax-benefit",
+      "title": "Section 110-5 Dictionary \"fuel tax benefit\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax benefit\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax benefit\" has the meaning given by section 75-10."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax-credit",
+      "title": "Section 110-5 Dictionary \"fuel tax credit\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax credit\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax credit\" means an entitlement arising under section  41-5, 41-10 or 42-5."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax-disadvantage",
+      "title": "Section 110-5 Dictionary \"fuel tax disadvantage\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax disadvantage\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax disadvantage\" has the meaning given by section 75-45."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax-law",
+      "title": "Section 110-5 Dictionary \"fuel tax law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax law\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax law\" means:\n (a) this Act; and\n (b) the Fuel Tax (Consequential and Transitional Provisions) Act 2006 ; and\n (c) the Taxation Administration Act 1953 , so far as it relates to any Act covered by paragraphs (a) and (b); and\n (d) any other Act, so far as it relates to any Act covered by paragraphs  (a) to (c) (or to so much of that Act as is covered); and\n (e) regulations under any Act, so far as they relate to any Act covered by paragraphs  (a) to (d) (or to so much of that Act as is covered)."
+    },
+    {
+      "key": "section:110-5.term:fuel-tax-return-period",
+      "title": "Section 110-5 Dictionary \"fuel tax return period\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"fuel tax return period\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"fuel tax return period\" has the meaning given by section 61-20."
+    },
+    {
+      "key": "section:110-5.term:government-entity",
+      "title": "Section 110-5 Dictionary \"government entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"government entity\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"government entity\" has the meaning given by section 41 of the A New Tax System (Australian Business Number) Act 1999 ."
+    },
+    {
+      "key": "section:110-5.term:gst-act",
+      "title": "Section 110-5 Dictionary \"GST Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST Act\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST Act\" means the A New Tax System (Goods and Services Tax) Act 1999."
+    },
+    {
+      "key": "section:110-5.term:gst-branch",
+      "title": "Section 110-5 Dictionary \"GST branch\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST branch\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST branch\" has the meaning given by section 54-5 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-group",
+      "title": "Section 110-5 Dictionary \"GST group\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST group\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST group\" has the meaning given by section 48-5 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-instalment",
+      "title": "Section 110-5 Dictionary \"GST instalment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST instalment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST instalment\" has the meaning given by subsection 162-70(1) of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-instalment-payer",
+      "title": "Section 110-5 Dictionary \"GST instalment payer\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST instalment payer\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST instalment payer\" has the meaning given by section 162-50 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-instalment-quarter",
+      "title": "Section 110-5 Dictionary \"GST instalment quarter\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST instalment quarter\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST instalment quarter\" has the meaning given by subsections 162-70(2) and (3) of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-joint-venture",
+      "title": "Section 110-5 Dictionary \"GST joint venture\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST joint venture\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST joint venture\" has the meaning given by section 51-5 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-law",
+      "title": "Section 110-5 Dictionary \"GST law\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST law\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST law\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:gst-return",
+      "title": "Section 110-5 Dictionary \"GST return\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"GST return\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"GST return\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:guide",
+      "title": "Section 110-5 Dictionary \"Guide\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Guide\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"Guide\" has the meaning given by section 105-10."
+    },
+    {
+      "key": "section:110-5.term:incapacitated-entity",
+      "title": "Section 110-5 Dictionary \"incapacitated entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"incapacitated entity\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"incapacitated entity\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:increasing-adjustment",
+      "title": "Section 110-5 Dictionary \"increasing adjustment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"increasing adjustment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"increasing adjustment\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:increasing-fuel-tax-adjustment",
+      "title": "Section 110-5 Dictionary \"increasing fuel tax adjustment\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"increasing fuel tax adjustment\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"increasing fuel tax adjustment\" has the meaning given by sections 44-5 and 44 -10."
+    },
+    {
+      "key": "section:110-5.term:indirect-tax-zone",
+      "title": "Section 110-5 Dictionary \"indirect tax zone\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"indirect tax zone\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"indirect tax zone\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:input-tax-credit",
+      "title": "Section 110-5 Dictionary \"input tax credit\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"input tax credit\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"input tax credit\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:input-taxed",
+      "title": "Section 110-5 Dictionary \"input taxed\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"input taxed\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"input taxed\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:joint-venture-operator",
+      "title": "Section 110-5 Dictionary \"joint venture operator\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"joint venture operator\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"joint venture operator\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:lpg",
+      "title": "Section 110-5 Dictionary \"LPG\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"LPG\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"LPG\" means:\n (a) liquid propane; or\n (b) a liquid mixture of propane and butane; or\n (c) a liquid mixture of propane and other hydrocarbons that consists mainly of propane; or\n (d) a liquid mixture of propane, butane and other hydrocarbons that consists mainly of propane and butane."
+    },
+    {
+      "key": "section:110-5.term:motor-vehicle",
+      "title": "Section 110-5 Dictionary \"motor vehicle\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"motor vehicle\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"motor vehicle\" has the meaning given by section 995-1 of the Income Tax Assessment Act 1997 ."
+    },
+    {
+      "key": "section:110-5.term:net-amount",
+      "title": "Section 110-5 Dictionary \"net amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"net amount\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"net amount\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:net-fuel-amount",
+      "title": "Section 110-5 Dictionary \"net fuel amount\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"net fuel amount\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"net fuel amount\" has the meaning given by section 60-5."
+    },
+    {
+      "key": "section:110-5.term:participant",
+      "title": "Section 110-5 Dictionary \"participant\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"participant\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"participant\" has the meaning given by section 195-1 of the *GST Act.\n\"period of review\", for an *assessment, has the meaning given by section  155-35 in Schedule 1 to the Taxation Administration Act 1953."
+    },
+    {
+      "key": "section:110-5.term:primary-production-business",
+      "title": "Section 110-5 Dictionary \"primary production business\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"primary production business\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"primary production business\" has the meaning given by subsection 995-1(1) of the Income Tax Assessment Act 1997."
+    },
+    {
+      "key": "section:110-5.term:registered-for-gst",
+      "title": "Section 110-5 Dictionary \"registered for GST\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"registered for GST\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"registered for GST\" has the meaning given to registered by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:religious-practitioner",
+      "title": "Section 110-5 Dictionary \"religious practitioner\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"religious practitioner\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"religious practitioner\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:required-to-be-registered-for-gst",
+      "title": "Section 110-5 Dictionary \"required to be registered for GST\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"required to be registered for GST\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"required to be registered for GST\" has the meaning given to required to be registered by section  195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:resident-agent",
+      "title": "Section 110-5 Dictionary \"resident agent\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"resident agent\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"resident agent\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:residential-premises",
+      "title": "Section 110-5 Dictionary \"residential premises\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"residential premises\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"residential premises\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:scheme",
+      "title": "Section 110-5 Dictionary \"scheme\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"scheme\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"scheme\" has the meaning given by subsection 165-10(2) of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:taxable-fuel",
+      "title": "Section 110-5 Dictionary \"taxable fuel\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxable fuel\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"taxable fuel\" means fuel in respect of which duty is payable under:\n (a) the Excise Act 1901 and the Excise Tariff Act 1921; or\n (b) the Customs Act 1901 and the Customs Tariff Act 1995;\nbut does not include fuel covered by:\n (c) item 15, 20 or 21 of the Schedule to the Excise Tariff Act 1921; or\n (d) any imported goods that would be classified to item  15 of the Schedule to the Excise Tariff Act 1921, if the goods had been manufactured in the indirect tax zone.\nNote: Item 15 of the Schedule to the Excise Tariff Act 1921 deals with certain petroleum based oils and greases. Item 20 of that Schedule deals with certain stabilised crude petroleum oils. Item 21 of that Schedule deals with certain condensate."
+    },
+    {
+      "key": "section:110-5.term:taxable-supply",
+      "title": "Section 110-5 Dictionary \"taxable supply\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"taxable supply\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"taxable supply\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:tax-period",
+      "title": "Section 110-5 Dictionary \"tax period\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"tax period\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"tax period\" has the meaning given by section 195-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:transport-department",
+      "title": "Section 110-5 Dictionary \"Transport Department\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Transport Department\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"Transport Department\" means the Department administered by the *Transport Minister."
+    },
+    {
+      "key": "section:110-5.term:transport-minister",
+      "title": "Section 110-5 Dictionary \"Transport Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Transport Minister\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"Transport Minister\" means the Minister who administers the Road Vehicle Standards Act 2018."
+    },
+    {
+      "key": "section:110-5.term:transport-secretary",
+      "title": "Section 110-5 Dictionary \"Transport Secretary\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"Transport Secretary\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"Transport Secretary\" means the Secretary of the *Transport Department."
+    },
+    {
+      "key": "section:110-5.term:untaxable-commonwealth-entity",
+      "title": "Section 110-5 Dictionary \"untaxable Commonwealth entity\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"untaxable Commonwealth entity\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"untaxable Commonwealth entity\" has the meaning given by section 177-1 of the *GST Act."
+    },
+    {
+      "key": "section:110-5.term:you",
+      "title": "Section 110-5 Dictionary \"you\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "110-5",
+      "main_structural_heading": "Dictionary",
+      "defined_term": "\"you\"",
+      "structure_path": "Chapter 5--Interpretation > Part 5-3--DICTIONARY > Division 110--Dictionary > Subdivision 110-A--Dictionary > Section 110-5",
+      "text": "\"you\": if a provision of this Act uses the expression you, it applies to entities generally, unless its application is expressly limited.\nNote: The expression you is not used in provisions that apply only to entities that are not individuals."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "doc": {
+    "jurisdiction": "tasmania",
+    "source_url": "https://classic.austlii.edu.au/au/legis/tas/consol_reg/dr2021202/",
+    "register_url": "https://www.legislation.tas.gov.au/view/html/inforce/current/sr-2021-037",
+    "source": "Duties Regulations 2021 (100000049).txt",
+    "filename": "Duties Regulations 2021 (100000049).json",
+    "name": "Duties Regulations 2021",
+    "citation": "Duties Regulations 2021"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title These regulations may be cited as the Duties Regulations 2021 .",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title These regulations may be cited as the Duties Regulations 2021 .",
+      "defined_term": null,
+      "structure_path": "Duties Regulations 2021 > Regulation 1",
+      "text": ""
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement These regulations take effect on 29 June 2021.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement These regulations take effect on 29 June 2021.",
+      "defined_term": null,
+      "structure_path": "Duties Regulations 2021 > Regulation 2",
+      "text": ""
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Interpretation In these regulations - Act means the Duties Act 2001 ; former Act means the Stamp Duties Act 1931 ; prescribed day means 1 July 2001.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation In these regulations - Act means the Duties Act 2001 ; former Act means the Stamp Duties Act 1931 ; prescribed day means 1 July 2001.",
+      "defined_term": null,
+      "structure_path": "Duties Regulations 2021 > Regulation 3",
+      "text": ""
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - Prescribed fees",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "Prescribed fees",
+      "defined_term": null,
+      "structure_path": "Duties Regulations 2021 > Regulation 4",
+      "text": "(1)  The fees specified in Schedule 1 are prescribed as the fees\n     payable to the Commissioner in respect of the matters to which they\n     respectively relate.\n     (2)  The fees specified in Schedule 1 are exclusive of GST."
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - Savings and transitional provisions",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "Savings and transitional provisions",
+      "defined_term": null,
+      "structure_path": "Duties Regulations 2021 > Regulation 5",
+      "text": "(1)  An objection made on or after the prescribed day to an\n     assessment of duty payable under the former Act is to be determined\n     in accordance with section 21 of the former Act.\n     (2)  An appeal made on or after the prescribed day in relation to an\n     assessment of duty payable under the former Act is to be determined\n     in accordance with section 22 of the former Act."
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Prescribed property",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Prescribed property",
+      "defined_term": null,
+      "structure_path": "Duties Regulations 2021 > Regulation 6",
+      "text": "(1)  For the purposes of paragraph (c) of the definition of\n     mortgage-backed security in section 3 of the Act, and paragraph (b)\n     of the definition of pool of mortgages in section 3 of the Act, the\n     following property is prescribed property:\n     (a) cash;\n     (b) bonds, debentures, stock or Treasury Bills, of a government\n     authority;\n     (c) debentures, or stock, of a statutory authority constituted under\n     the law of a government authority;\n     (d) notes or other securities of a government authority;\n     (e) deposits with authorised deposit-taking institutions;\n     (f) certificates of deposits, or other securities, issued by an\n     authorised deposit-taking institution;\n     (g) bills of exchange, or promissory notes or other negotiable\n     instruments, accepted, drawn or endorsed by an authorised\n     deposit-taking institution;\n     (h) a guaranteed investment contract, expressed in Australian\n     currency, of a type approved by the Commissioner;\n     (i) mortgage-backed securities.\n     (2)  For the purposes of subregulation (1)  -\n     government authority means -\n     (a) the Government of the Commonwealth; or\n     (b) the Government of Tasmania or another State; or\n     (c) the Administration of a Territory;\n     statutory authority means a body or authority, whether incorporated\n     or not, that is established or constituted under a written law or\n     under the royal prerogative, being a body or authority which, or of\n     which the governing authority, wholly or partly comprises a person\n     or persons appointed by the Governor, a Minister or another\n     statutory authority, but does not include an Agency within the\n     meaning of the State Service Act 2000 .\n     SCHEDULE 1 - Fees Regulation 4\n   Column 1\n   Column 2\n   Column 3\n   Item\n   Section of Act\n   Fee (fee units)\n   1.\n   205(2)(b)\n   352\n   2.\n   210(2)(b)\n   314\n   Displayed and numbered in accordance with the Rules Publication Act\n   1953.\n   Notified in the Gazette on 16 June 2021\n   These regulations are administered in the Department of Treasury and\n   Finance."
+    }
+  ]
+}

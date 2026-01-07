@@ -1,0 +1,73 @@
+{
+  "doc": {
+    "jurisdiction": "south_australia",
+    "source_url": "https://classic.austlii.edu.au/au/legis/sa/consol_reg/ptr2025264/",
+    "register_url": "https://www.legislation.sa.gov.au/lz?path=/c/r/payroll%20tax%20regulations%202025",
+    "source": "Payroll Tax Regulations 2025 (100000142).txt",
+    "filename": "Payroll Tax Regulations 2025 (100000142).json",
+    "name": "Payroll Tax Regulations 2025",
+    "citation": "Payroll Tax Regulations 2025"
+  },
+  "chunks": [
+    {
+      "key": "regulation:1",
+      "title": "Regulation 1 - Short title These regulations may be cited as the Payroll Tax Regulations 2025.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title These regulations may be cited as the Payroll Tax Regulations 2025.",
+      "defined_term": null,
+      "structure_path": "Part 1--Preliminary > Regulation 1",
+      "text": ""
+    },
+    {
+      "key": "regulation:2",
+      "title": "Regulation 2 - Commencement These regulations come into operation on the day on which they are made.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement These regulations come into operation on the day on which they are made.",
+      "defined_term": null,
+      "structure_path": "Part 1--Preliminary > Regulation 2",
+      "text": ""
+    },
+    {
+      "key": "regulation:3",
+      "title": "Regulation 3 - Interpretation In these regulations-- Act means the Payroll Tax Act 2009; relevant contract has the meaning given in section 32 of the Act.",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation In these regulations-- Act means the Payroll Tax Act 2009; relevant contract has the meaning given in section 32 of the Act.",
+      "defined_term": null,
+      "structure_path": "Part 1--Preliminary > Regulation 3",
+      "text": "Part 2--Exemptions"
+    },
+    {
+      "key": "regulation:4",
+      "title": "Regulation 4 - General practitioners--bulk billed services",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "4",
+      "main_structural_heading": "General practitioners--bulk billed services",
+      "defined_term": null,
+      "structure_path": "Part 2--Exemptions > Regulation 4",
+      "text": "(1) For the purposes of Schedule 2 clause 17B(1) of the Act, the\n   percentage of wages determined in accordance with subregulation (2)\n   paid or payable to general practitioners engaged by a designated\n   medical practice in the provision of medical services during a\n   prescribed period are declared to be exempt wages.\n   (2) The percentage of wages that are exempt wages is to be determined\n   according to the following formula:\n   2025.6.un00.jpg\n   Where--\n   A is the percentage of wages declared to be exempt wages for the\n   prescribed period\n   B is the total number of bulk billed services, other than services of a\n   kind referred to in Schedule 1 Part 3 Division 3.2 of the Health\n   Insurance (General Medical Services Table) Regulations 2021 of the\n   Commonwealth, provided by general practitioners engaged by the\n   designated medical practice during the prescribed period\n   C is the total number of medical services, other than services of a\n   kind referred to in Schedule 1 Part 3 Division 3.2 of the Health\n   Insurance (General Medical Services Table) Regulations 2021 of the\n   Commonwealth, provided by general practitioners engaged by the\n   designated medical practice during the prescribed period.\n   (3) For the purposes of paragraph (b) of the definition of bulk billed\n   service in Schedule 2 clause 17B(4) of the Act, the following kinds of\n   medical service are prescribed:\n   (a) a medical service provided under the Veterans' Entitlement Act 1986\n   of the Commonwealth;\n   (b) a medical service provided under the Return to Work Act 2014, or\n   under a corresponding law.\n   (4) For the purposes of paragraph (b) of the definition of general\n   practitioner in Schedule 2 clause 17B(4) of the Act, the following\n   kinds of medical practitioner are prescribed:\n   (a) a medical practitioner who is a general practitioner within the\n   meaning of paragraph (b) of the definition of general practitioner in\n   section 3(1) of the Health Insurance Act 1973 of the Commonwealth;\n   (b) a medical practitioner--\n   (i) who is not a specialist, general practitioner or consultant\n   physician (each within the meaning of the Health Insurance Act 1973 of\n   the Commonwealth); and\n   (ii) who--\n   (A) is registered under section 3GA of the Health Insurance Act 1973 of\n   the Commonwealth and is practising during the period and in the\n   location in respect of which the medical practitioner is registered,\n   insofar as the circumstances specified for the purposes of\n   section 19AA(3)(b) of that Act apply; or\n   (B) is covered by an exemption under section 19AB(3) of the Health\n   Insurance Act 1973 of the Commonwealth; or\n   (C) first became a medical practitioner before 1 November 1996.\n   (5) In this regulation--\n   corresponding law has the same meaning as in the Return to Work\n   Act 2014;\n   prescribed period means the financial year commencing on--\n   (a) 1 July 2024; or\n   (b) 1 July in any subsequent year."
+    },
+    {
+      "key": "regulation:5",
+      "title": "Regulation 5 - General practitioners engaged under relevant contract",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "5",
+      "main_structural_heading": "General practitioners engaged under relevant contract",
+      "defined_term": null,
+      "structure_path": "Part 2--Exemptions > Regulation 5",
+      "text": "(1) For the purposes of Schedule 2 clause 17C(1) of the Act,\n   circumstances in which--\n   (a) wages are paid or payable, or deemed by the Act to be paid or\n   payable, by a prescribed medical practice to a general practitioner\n   engaged by the practice in the provision of medical services under a\n   relevant contract; and\n   (b) payroll tax has not been paid on those wages,\n   are prescribed circumstances.\n   (2) For the purposes of Schedule 2 clause 17C(1) of the Act, all wages\n   paid or payable in the circumstances prescribed in subregulation (1)\n   are declared to be exempt wages.\n   (3) This regulation applies in respect of the financial years\n   commencing on the following days:\n   (a) 1 July 2018;\n   (b) 1 July 2019;\n   (c) 1 July 2020;\n   (d) 1 July 2021;\n   (e) 1 July 2022;\n   (f) 1 July 2023.\n   (4) In this regulation--\n   general practitioner and medical service have the same respective\n   meanings as in Schedule 2 clause 17B of the Act;\n   prescribed medical practice means a medical practice which successfully\n   applied for the payroll tax amnesty for medical practices with\n   contracted general practitioners approved by the Treasurer on\n   22 June 2023."
+    },
+    {
+      "key": "regulation:6",
+      "title": "Regulation 6 - Other medical practitioners and dentists engaged under relevant contract",
+      "main_structural_unit": "regulation",
+      "main_structural_number": "6",
+      "main_structural_heading": "Other medical practitioners and dentists engaged under relevant contract",
+      "defined_term": null,
+      "structure_path": "Part 2--Exemptions > Regulation 6",
+      "text": "(1) For the purposes of Schedule 2 clause 17C(1) of the Act,\n   circumstances in which--\n   (a) wages are paid or payable, or deemed by the Act to be paid or\n   payable--\n   (i) by a prescribed medical practice to a medical practitioner (other\n   than a medical practitioner who is a general practitioner) engaged by\n   the practice in the provision of medical services under a relevant\n   contract; or\n   (ii) by a prescribed dental practice to a dentist engaged by the\n   practice in the provision of dental services under a relevant contract;\n   and\n   (b) payroll tax has not been paid on those wages,\n   are prescribed circumstances.\n   (2) For the purposes of Schedule 2 clause 17C(1) of the Act, all wages\n   paid or payable in the circumstances prescribed in subregulation (1)\n   are declared to be exempt wages.\n   (3) This regulation applies in respect of the financial years\n   commencing on the following days:\n   (a) 1 July 2019;\n   (b) 1 July 2020;\n   (c) 1 July 2021;\n   (d) 1 July 2022;\n   (e) 1 July 2023.\n   (4) In this regulation--\n   general practitioner and medical service have the same respective\n   meanings as in Schedule 2 clause 17B of the Act;\n   prescribed dental practice means a dental practice which was registered\n   as an employer under the Act prior to 1 July 2024;\n   prescribed medical practice means a medical practice which was\n   registered as an employer under the Act prior to 1 July 2024.\n   Legislative history\n   o For further information relating to the Act and subordinate\n   legislation made under the Act see the Index of South Australian\n   Statutes or www.legislation.sa.gov.au.\n   Principal regulations\n   Year\n       No\n         Reference\n                               Commencement\n   2025\n       6\n         Gazette 20.2.2025 p195\n                               20.2.2025: r 2"
+    }
+  ]
+}

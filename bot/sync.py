@@ -102,6 +102,15 @@ def parse_args() -> argparse.Namespace:
         help="Force rewrite even if version_id appears unchanged",
     )
 
+    p.add_argument(
+        "--rebuild-prepared-only",
+        action="store_true",
+        help=(
+            "Rewrite prepared outputs from existing raw files only (no network). "
+            "Useful after changing prepared-cleanup rules."
+        ),
+    )
+
     return p.parse_args()
 
 
@@ -649,10 +658,17 @@ def normalize_newlines(text: str) -> str:
 # -----------------
 
 
-_AUSTLII_SECT_DOT_RE = re.compile(r"^\s*-\s*SECT\s+(\d{1,5})\.(\d{1,5})([A-Za-z]{0,4})?\s*$")
-_AUSTLII_SECT_SIMPLE_RE = re.compile(r"^\s*-\s*SECT\s+(\d{1,5}[A-Za-z]{0,4})\s*$")
-_AUSTLII_INLINE_SECT_DOT_RE = re.compile(r"\bSECT\s+(\d{1,5})\.(\d{1,5})([A-Za-z]{0,4})?\b")
-_AUSTLII_INLINE_SECT_SIMPLE_RE = re.compile(r"\bSECT\s+(\d{1,5}[A-Za-z]{0,4})\b")
+# Some Commonwealth acts have long letter suffixes (e.g. 8AAZAA), so allow more.
+_AUSTLII_SECT_DOT_RE = re.compile(r"^\s*-\s*SECT\s+(\d{1,5})\.(\d{1,5})([A-Za-z]{0,12})?\s*$")
+_AUSTLII_SECT_SIMPLE_RE = re.compile(r"^\s*-\s*SECT\s+(\d{1,5}[A-Za-z]{0,12})\s*$")
+_AUSTLII_INLINE_SECT_DOT_RE = re.compile(r"\bSECT\s+(\d{1,5})\.(\d{1,5})([A-Za-z]{0,12})?\b")
+_AUSTLII_INLINE_SECT_SIMPLE_RE = re.compile(r"\bSECT\s+(\d{1,5}[A-Za-z]{0,12})\b")
+
+# Regulations commonly use REG markers in AustLII dumps.
+_AUSTLII_REG_DOT_RE = re.compile(r"^\s*-\s*REG\s+(\d{1,5})\.(\d{1,5})([A-Za-z]{0,12})?\s*$", re.IGNORECASE)
+_AUSTLII_REG_SIMPLE_RE = re.compile(r"^\s*-\s*REG\s+(\d{1,5}[A-Za-z]{0,12})\s*$", re.IGNORECASE)
+_AUSTLII_INLINE_REG_DOT_RE = re.compile(r"\bREG\s+(\d{1,5})\.(\d{1,5})([A-Za-z]{0,12})?\b", re.IGNORECASE)
+_AUSTLII_INLINE_REG_SIMPLE_RE = re.compile(r"\bREG\s+(\d{1,5}[A-Za-z]{0,12})\b", re.IGNORECASE)
 
 
 def _rewrite_austlii_sect_lines(text: str) -> str:
@@ -669,6 +685,15 @@ def _rewrite_austlii_sect_lines(text: str) -> str:
         if m2:
             out.append(f"Section {m2.group(1)}")
             continue
+        m3 = _AUSTLII_REG_DOT_RE.match(s)
+        if m3:
+            a, b, suffix = m3.group(1), m3.group(2), m3.group(3) or ""
+            out.append(f"Regulation {a}-{b}{suffix}")
+            continue
+        m4 = _AUSTLII_REG_SIMPLE_RE.match(s)
+        if m4:
+            out.append(f"Regulation {m4.group(1)}")
+            continue
         out.append(s)
     return "\n".join(out).strip() + "\n"
 
@@ -676,6 +701,8 @@ def _rewrite_austlii_sect_lines(text: str) -> str:
 def _rewrite_austlii_sect_inline(text: str) -> str:
     out = _AUSTLII_INLINE_SECT_DOT_RE.sub(lambda m: f"Section {m.group(1)}-{m.group(2)}{m.group(3) or ''}", text)
     out = _AUSTLII_INLINE_SECT_SIMPLE_RE.sub(lambda m: f"Section {m.group(1)}", out)
+    out = _AUSTLII_INLINE_REG_DOT_RE.sub(lambda m: f"Regulation {m.group(1)}-{m.group(2)}{m.group(3) or ''}", out)
+    out = _AUSTLII_INLINE_REG_SIMPLE_RE.sub(lambda m: f"Regulation {m.group(1)}", out)
     return out
 
 
@@ -688,14 +715,19 @@ def _strip_leading_toc(text: str) -> str:
     # If we see many TOC markers early on, skip until first real section.
     sect_like = 0
     for i in range(min(len(lines), 250)):
-        if _AUSTLII_SECT_DOT_RE.match(lines[i]) or _AUSTLII_SECT_SIMPLE_RE.match(lines[i]):
+        if (
+            _AUSTLII_SECT_DOT_RE.match(lines[i])
+            or _AUSTLII_SECT_SIMPLE_RE.match(lines[i])
+            or _AUSTLII_REG_DOT_RE.match(lines[i] or "")
+            or _AUSTLII_REG_SIMPLE_RE.match(lines[i] or "")
+        ):
             sect_like += 1
     if sect_like < 5:
         return text
 
-    section_re = re.compile(r"^Section\s+\d")
+    heading_re = re.compile(r"^(?:Section|Regulation)\s+\d", re.IGNORECASE)
     for i in range(min(len(lines), 800)):
-        if section_re.match((lines[i] or "").lstrip()):
+        if heading_re.match((lines[i] or "").lstrip()):
             return "\n".join(lines[i:]).strip() + "\n"
     return text
 
@@ -721,7 +753,7 @@ def _strip_internal_tables_of_sections(text: str) -> str:
         s = (line or "").strip()
         if not s:
             return False
-        if s.startswith("Section "):
+        if s.startswith("Section ") or s.startswith("Regulation "):
             return True
         # Common non-hyphenated headings: "1 Short title" or "1A ..."
         if re.match(r"^\d+[A-Za-z]*\s+\S+", s):
@@ -746,6 +778,390 @@ def _strip_internal_tables_of_sections(text: str) -> str:
     return "\n".join(out).strip() + "\n"
 
 
+# Many AustLII text dumps render TOCs as lines ending with a page number, often
+# separated by tabs or wide spacing, e.g.:
+#   Regulation 1 Name\t1
+#   1     Short title      1
+_PAGINATED_TOC_LINE_RE = re.compile(r"^\s*\S.*(?:\t|\s{2,})\d+\s*$")
+_PAGINATED_TOC_PART_RE = re.compile(r"^\s*Part\s+\d+\b", re.IGNORECASE)
+_PAGINATED_TOC_DIV_RE = re.compile(r"^\s*Division\s+\d+\b", re.IGNORECASE)
+
+
+def _strip_leading_paginated_toc(text: str) -> str:
+    """Strip a leading TOC that uses trailing page numbers (common in some states/territories).
+
+    Example (NT):
+      1     Short title      1
+      2     Commencement     1
+
+    We keep from the first plausible body heading onward, where the section headings
+    no longer end with page numbers.
+    """
+
+    lines = normalize_newlines(text).split("\n")
+    if not lines:
+        return text
+
+    scan = lines[:300]
+    paginated = 0
+    structure = 0
+    for line in scan:
+        if _PAGINATED_TOC_LINE_RE.match(line or ""):
+            paginated += 1
+        if _PAGINATED_TOC_PART_RE.match(line or "") or _PAGINATED_TOC_DIV_RE.match(line or ""):
+            structure += 1
+
+    # Require a meaningful number of TOC-like lines to avoid false positives.
+    if paginated < 20:
+        return text
+
+    # If the TOC includes an ENDNOTES marker, it's a strong signal the real body follows.
+    for i in range(min(len(lines), 2500)):
+        if (lines[i] or "").strip().casefold() == "endnotes":
+            return "\n".join(lines[i:]).strip() + "\n"
+
+    # Regulations often repeat structural headings after the TOC without page numbers.
+    body_structural = re.compile(r"^\s*(?:Chapter\s+\d+\b|Part\s+\d+\b)", re.IGNORECASE)
+    for i in range(min(len(lines), 5000)):
+        s = (lines[i] or "").rstrip()
+        if not s:
+            continue
+        if _PAGINATED_TOC_LINE_RE.match(s):
+            continue
+        if body_structural.match(s):
+            return "\n".join(lines[i:]).strip() + "\n"
+
+    # Otherwise, find the first heading-like line that does NOT end with a page number,
+    # and require nearby body-like text so we don't cut on wrapped TOC lines.
+    heading_like = re.compile(r"^\s*\d+[A-Za-z]*\s+\S+.*\S\s*$")
+    body_line_re = re.compile(r"^\s{2,}\S+.*\S\s*$")
+    for i in range(min(len(lines), 5000)):
+        s = (lines[i] or "").rstrip()
+        if not s:
+            continue
+        if _PAGINATED_TOC_LINE_RE.match(s):
+            continue
+        if heading_like.match(s) and not s.lower().startswith("part ") and not s.lower().startswith("division "):
+            # Look ahead for indented body-like lines (common in AustLII text).
+            lookahead = lines[i + 1 : i + 12]
+            if any(body_line_re.match((x or "").rstrip()) for x in lookahead):
+                return "\n".join(lines[i:]).strip() + "\n"
+
+    return text
+
+
+def _strip_early_paginated_toc_block(text: str) -> str:
+    """Remove an early TOC block that uses trailing page numbers.
+
+    Unlike _strip_leading_paginated_toc(), this attempts to preserve any preamble
+    before the TOC by removing only the detected TOC block.
+    """
+
+    lines = normalize_newlines(text).split("\n")
+    if not lines:
+        return text
+
+    # Prefer explicit TOC triggers when present.
+    toc_start: int | None = None
+    toc_triggers = {"contents", "table of contents", "table of provisions"}
+    for i in range(min(len(lines), 700)):
+        if (lines[i] or "").strip().casefold() in toc_triggers:
+            toc_start = i + 1
+            break
+
+    # Otherwise find a plausible TOC start within the first ~500 lines.
+    if toc_start is None:
+        for i in range(min(len(lines), 500)):
+            if _PAGINATED_TOC_LINE_RE.match(lines[i] or ""):
+                # Require a dense run of paginated lines after this point.
+                window = lines[i : i + 250]
+                if sum(1 for x in window if _PAGINATED_TOC_LINE_RE.match(x or "")) >= 20:
+                    toc_start = i
+                    break
+
+    if toc_start is None:
+        return text
+
+    # Find a plausible end marker.
+    body_structural = re.compile(r"^\s*(?:Chapter\s+\d+\b|Part\s+\d+\b)", re.IGNORECASE)
+    heading_like = re.compile(r"^\s*\d[0-9A-Za-z\-\.]*\s+\S+.*\S\s*$")
+    body_line_re = re.compile(r"^\s{2,}\S+.*\S\s*$")
+
+    toc_end: int | None = None
+    for j in range(toc_start + 1, min(len(lines), 8000)):
+        s = (lines[j] or "").rstrip()
+        if not s:
+            continue
+        if (s or "").strip().casefold() == "endnotes":
+            toc_end = j
+            break
+        if _PAGINATED_TOC_LINE_RE.match(s):
+            continue
+        if body_structural.match(s):
+            toc_end = j
+            break
+        if heading_like.match(s):
+            lookahead = lines[j + 1 : j + 12]
+            if any(body_line_re.match((x or "").rstrip()) for x in lookahead):
+                toc_end = j
+                break
+
+    if toc_end is None:
+        return text
+
+    kept = [*lines[:toc_start], *lines[toc_end:]]
+    return "\n".join(kept).strip() + "\n"
+
+
+def _strip_paginated_lines_right_before_body(text: str) -> str:
+    """Drop a small paginated-TOC remnant immediately before body start.
+
+    Some documents have a paginated TOC block and then repeat a structural header
+    (e.g. 'Chapter 1-...') for the actual body. After block removal, a few TOC lines
+    can remain right before that repeated header.
+    """
+
+    lines = normalize_newlines(text).split("\n")
+    if not lines:
+        return text
+
+    body_structural = re.compile(r"^\s*(?:Chapter\s+\d+\b|Part\s+\d+\b)", re.IGNORECASE)
+
+    body_start: int | None = None
+    for i in range(min(len(lines), 1200)):
+        s = (lines[i] or "").rstrip()
+        if not s:
+            continue
+        if _PAGINATED_TOC_LINE_RE.match(s):
+            continue
+        if body_structural.match(s):
+            body_start = i
+            break
+
+    if body_start is None or body_start == 0:
+        return text
+
+    window_start = max(0, body_start - 120)
+    to_remove: set[int] = set()
+
+    for idx in range(window_start, body_start):
+        s = (lines[idx] or "").rstrip()
+        if not s:
+            continue
+        if _PAGINATED_TOC_LINE_RE.match(s):
+            to_remove.add(idx)
+            # Often the descriptive portion wraps onto the prior line.
+            if idx - 1 >= window_start:
+                prev = (lines[idx - 1] or "").rstrip()
+                if prev and (not _PAGINATED_TOC_LINE_RE.match(prev)) and (not body_structural.match(prev)):
+                    to_remove.add(idx - 1)
+
+    if not to_remove:
+        return text
+
+    kept = [line for i, line in enumerate(lines) if i not in to_remove]
+    return "\n".join(kept).strip() + "\n"
+
+
+def _join_wrapped_bare_heading_refs(text: str, *, heading_word: str) -> str:
+    """Join lines like 'Section 60.' back into the previous line when they appear
+    to be a wrapped reference mid-paragraph rather than a real heading.
+
+    This prevents false section boundaries in definitions/paragraphs.
+    """
+
+    lines = normalize_newlines(text).split("\n")
+    if not lines:
+        return text
+
+    bare_ref = re.compile(rf"^\s*{re.escape(heading_word)}\s+\d+[A-Za-z]*(?:\.)?\s*$")
+    out: list[str] = []
+    for line in lines:
+        s = (line or "").rstrip()
+        if out and bare_ref.match(s):
+            prev = (out[-1] or "").rstrip()
+            if prev and not prev.strip().lower().startswith(heading_word.lower()):
+                # If previous line looks like a sentence fragment, treat this as wrap.
+                if not prev.rstrip().endswith((".", ":", ";")):
+                    out[-1] = (prev + " " + s.strip()).rstrip()
+                    continue
+        out.append(s)
+
+    return "\n".join(out).strip() + "\n"
+
+
+def _collapse_whitespace(s: str) -> str:
+    return " ".join((s or "").split()).strip()
+
+
+def _normalize_heading_text(heading: str, *, number: str) -> str:
+    """Normalize extracted heading lines.
+
+    - Removes duplicated leading number patterns like '5--Meaning' or '5 Meaning'
+      when the number matches the section/regulation number.
+    """
+
+    h = _collapse_whitespace(heading)
+    if not h:
+        return ""
+
+    # Remove patterns like '5--Meaning' / '5 Meaning' / '5. Meaning'
+    m = re.match(r"^(?P<num>\d+[A-Za-z]*)\s*(?:\.|--|-)\s*(?P<rest>.*\S)$", h)
+    if m and m.group("num") == number:
+        return _collapse_whitespace(m.group("rest"))
+
+    m2 = re.match(r"^(?P<num>\d+[A-Za-z]*)\s+(?P<rest>.*\S)$", h)
+    if m2 and m2.group("num") == number:
+        return _collapse_whitespace(m2.group("rest"))
+
+    return h
+
+
+def _merge_split_headings(text: str, *, heading_word: str) -> str:
+    """Merge split headings into a single line.
+
+    Handles patterns like:
+      Section 1\nName of Act\n\n1 Name of Act\nThis Act...
+      Section 5\n5--Meaning\nof non-reviewable ...\n\n...
+    """
+
+    lines = normalize_newlines(text).split("\n")
+    out: list[str] = []
+
+    only_number_hdr = re.compile(rf"^\s*{re.escape(heading_word)}\s+(?P<num>\S+)\s*$", re.IGNORECASE)
+    # Only convert flush-left numeric headings (avoid indented lists like examples).
+    numbered_hdr = re.compile(r"^(?P<num>\d[0-9A-Za-z\-\.]*)\s*(?:\.)?\s+(?P<head>\S.*\S)\s*$")
+
+    i = 0
+    while i < len(lines):
+        line = lines[i] or ""
+        m = only_number_hdr.match(line)
+        if m:
+            num = (m.group("num") or "").strip()
+
+            # Collect up to 3 non-empty heading lines (stop before a blank line).
+            heading_parts: list[str] = []
+            j = i + 1
+            while j < len(lines) and len(heading_parts) < 3:
+                nxt = (lines[j] or "").strip()
+                if not nxt:
+                    break
+                # Stop if it looks like body text starting (e.g. '(1) ...')
+                if nxt.startswith("(") or re.match(r"^\(?\d+\)\s", nxt):
+                    break
+                heading_parts.append(nxt)
+                j += 1
+
+            heading = _normalize_heading_text(" ".join(heading_parts), number=num) if heading_parts else ""
+            merged = f"{heading_word} {num}".strip()
+            if heading:
+                merged = f"{merged} {heading}".strip()
+            out.append(merged)
+
+            # Skip consumed heading lines (but keep the blank line, if any)
+            i = j
+            continue
+
+        # Add missing heading_word for numeric headings like '1. Short title' or '1     Short title'
+        m2 = numbered_hdr.match(line)
+        if m2 and not re.match(rf"^\s*{re.escape(heading_word)}\b", line, re.IGNORECASE):
+            num = (m2.group("num") or "").strip()
+            head = (m2.group("head") or "").strip()
+            out.append(f"{heading_word} {num} {head}".strip())
+            i += 1
+            continue
+
+        out.append(line.rstrip())
+        i += 1
+
+    # Remove duplicated numeric heading lines that immediately follow a merged header.
+    cleaned: list[str] = []
+    merged_re = re.compile(rf"^\s*{re.escape(heading_word)}\s+(?P<num>\S+)\s+(?P<head>\S.*\S)\s*$", re.IGNORECASE)
+    for k, line in enumerate(out):
+        m3 = merged_re.match(line or "")
+        if m3 and k + 1 < len(out):
+            nxt = _collapse_whitespace(out[k + 1])
+            num = (m3.group("num") or "").strip()
+            head = _collapse_whitespace(m3.group("head") or "")
+            dup1 = _collapse_whitespace(f"{num} {head}")
+            dup2 = _collapse_whitespace(f"{num}--{head}")
+            if nxt in {dup1, dup2}:
+                cleaned.append(line)
+                # Skip the duplicate line
+                out[k + 1] = ""
+                continue
+        if (line or "") != "":
+            cleaned.append(line)
+
+    # Drop consecutive duplicate section/regulation headers.
+    deduped: list[str] = []
+    prev_key: str | None = None
+    for line in cleaned:
+        key = _collapse_whitespace(line).casefold()
+        if prev_key is not None and key and key == prev_key:
+            continue
+        deduped.append(line)
+        prev_key = key
+
+    return "\n".join([l for l in deduped if l is not None]).strip() + "\n"
+
+
+def _strip_citation_lines_before_headings(
+    text: str,
+    *,
+    citation: str | None,
+    heading_word: str,
+    allow_removing_first_nonempty_line: bool,
+) -> str:
+    """Strip redundant citation/title lines in the body immediately before headings.
+
+    Rule (as requested): only strip if the citation is:
+    - on a line of its own (line.strip() == citation.strip())
+    - not the first non-empty line (unless allow_removing_first_nonempty_line=True)
+    - immediately before a '{heading_word} ...' line (skipping blank lines)
+    """
+
+    normalized = normalize_newlines(text)
+    citation_s = (citation or "").strip()
+    if not normalized or not citation_s:
+        return normalized
+
+    citation_cf = citation_s.casefold()
+    lines = normalized.split("\n")
+
+    heading_re = re.compile(rf"^\s*{re.escape(heading_word)}\s+\S+", re.IGNORECASE)
+
+    first_nonempty_idx: int | None = None
+    for k, line in enumerate(lines):
+        if (line or "").strip():
+            first_nonempty_idx = k
+            break
+
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        s = (line or "").strip()
+        if s and s.casefold() == citation_cf:
+            if (not allow_removing_first_nonempty_line) and (first_nonempty_idx is not None) and i == first_nonempty_idx:
+                out.append(line)
+                i += 1
+                continue
+
+            # If the next non-empty line is a Section heading, drop this citation line.
+            j = i + 1
+            while j < len(lines) and not (lines[j] or "").strip():
+                j += 1
+            if j < len(lines) and heading_re.match(lines[j] or ""):
+                i += 1
+                continue
+
+        out.append(line)
+        i += 1
+
+    return normalize_newlines("\n".join(out))
+
+
 def _strip_table_of_provisions(text: str) -> str:
     lines = normalize_newlines(text).split("\n")
     if not lines:
@@ -759,11 +1175,29 @@ def _strip_table_of_provisions(text: str) -> str:
     if toc_idx is None:
         return text
 
-    # Keep from the first section-page header onwards.
-    sect_hdr = re.compile(r"\bSECT\s+\d")
+    # Otherwise, keep from the first real body marker onwards.
+    # Important: earlier cleanup may rewrite '- SECT 1' -> 'Section 1', so we must
+    # look for both 'SECT' and 'Section'. Also prefer structural headers like
+    # 'SCHEDULE 1 ...' or '- LONG TITLE' when present.
+    # Require uppercase SCHEDULE headings to avoid false positives like
+    # 'Schedule 1, Chapter ...' references.
+    schedule_hdr = re.compile(r"^\s*SCHEDULE\s+\d")
+    long_title_hdr = re.compile(r"^\s*-\s*LONG\s+TITLE\s*$", re.IGNORECASE)
+    # Important: require flush-left headings. Indented lines like
+    # '   section 52C.' can appear mid-paragraph and must not be treated as
+    # a body marker.
+    section_hdr = re.compile(r"^(?:Section|Regulation)\s+\S+", re.IGNORECASE)
+    sect_hdr = re.compile(r"^\s*(?:-\s*)?SECT\s+\S+", re.IGNORECASE)
+
+    first_idx: int | None = None
     for j in range(toc_idx + 1, min(len(lines), 5000)):
-        if sect_hdr.search(lines[j] or ""):
-            return "\n".join(lines[j:]).strip() + "\n"
+        line = lines[j] or ""
+        if schedule_hdr.match(line) or long_title_hdr.match(line) or section_hdr.match(line) or sect_hdr.match(line):
+            first_idx = j
+            break
+
+    if first_idx is not None:
+        return "\n".join(lines[first_idx:]).strip() + "\n"
 
     return text
 
@@ -835,9 +1269,23 @@ def finalize_prepared_text(row: Dict[str, str], raw_text: str) -> str:
     body = _rewrite_austlii_sect_lines(body)
     body = _rewrite_austlii_sect_inline(body)
     body = _strip_austlii_nav_blocks(body)
-    body = _strip_table_of_provisions(body)
-    body = _strip_leading_toc(body)
-    body = _strip_internal_tables_of_sections(body)
+    # Intentionally keep TOC/TOS blocks in prepared outputs.
+    # Sidecar generation (and therefore embeddings) will ignore TOC/TOS when chunking.
+
+    doc_type = (row.get("type") or "").strip().casefold()
+    heading_word = "Regulation" if ("secondary" in doc_type or "regulation" in doc_type or "rules" in doc_type) else "Section"
+    body = _merge_split_headings(body, heading_word=heading_word)
+    body = _join_wrapped_bare_heading_refs(body, heading_word=heading_word)
+
+    citation = (row.get("citation") or row.get("title") or "").strip() or None
+    # Prepared outputs already include the citation in the header block, so any
+    # repeated citation line inside the body is redundant and safe to strip.
+    body = _strip_citation_lines_before_headings(
+        body,
+        citation=citation,
+        heading_word=heading_word,
+        allow_removing_first_nonempty_line=True,
+    )
     header = _header_block_for_row(row)
     return f"{header}\n\n{body.strip()}\n"
 
@@ -875,10 +1323,13 @@ def raw_looks_like_htmlish(text: str) -> bool:
         "<html",
         "<head",
         "<body",
+        "skip to content",
         "skip to main content",
         "site header",
         "toggle navigation",
         "site navigation",
+        "south australian legislation",
+        "legislation.sa.gov.au",
         "western australian legislation",
         "return to cart",
     ]
@@ -969,58 +1420,69 @@ def main() -> int:
             display_id = library_id or (row.get("citation") or row.get("title") or "").strip() or out_name
             print(f"[{processed + 1}/{total_rows}] {display_id}")
 
-            row["when_scraped"] = utc_now_iso()
-            row["status"] = "running"
-            row["error"] = ""
-            cat.save()
+            if not args.rebuild_prepared_only:
+                row["when_scraped"] = utc_now_iso()
+                row["status"] = "running"
+                row["error"] = ""
+                cat.save()
 
             try:
-                download_url = url
-                text = ""
+                if args.rebuild_prepared_only:
+                    if not raw_path.exists():
+                        raise RuntimeError(f"Raw file missing for rebuild: {raw_path}")
+                    raw_text = normalize_newlines(raw_path.read_text(encoding="utf-8", errors="replace"))
+                else:
+                    download_url = url
+                    text = ""
 
-                # This bot intentionally only supports AustLII catalogue URLs.
-                # Do not use government_register_url or any HTML-to-text fallback.
-                if not is_austlii_url(url):
-                    raise RuntimeError(f"Non-AustLII url not supported (refusing HTML scrape): {url}")
+                    # This bot intentionally only supports AustLII catalogue URLs.
+                    # Do not use government_register_url or any HTML-to-text fallback.
+                    if not is_austlii_url(url):
+                        raise RuntimeError(f"Non-AustLII url not supported (refusing HTML scrape): {url}")
 
-                text, download_url, _fmt = download_austlii_from_base_page(client, url)
-                row["content_format"] = "text"
-                row["content_url"] = download_url
-                vid = f"austlii:sha256:{sha256_text(text)}"
+                    text, download_url, _fmt = download_austlii_from_base_page(client, url)
+                    row["content_format"] = "text"
+                    row["content_url"] = download_url
+                    vid = f"austlii:sha256:{sha256_text(text)}"
 
-                if (
-                    not args.force
-                    and not args.repair_bad_raw
-                    and row.get("version_id")
-                    and row["version_id"].strip() == vid
-                    and raw_path.exists()
-                ):
-                    row["status"] = "skipped_unchanged"
-                    row["last_successful_scrape"] = row["last_successful_scrape"] or utc_now_iso()
-                    row["when_scraped"] = utc_now_iso()
-                    cat.save()
-                    processed += 1
-                    continue
+                    if (
+                        not args.force
+                        and not args.repair_bad_raw
+                        and row.get("version_id")
+                        and row["version_id"].strip() == vid
+                        and raw_path.exists()
+                    ):
+                        row["status"] = "skipped_unchanged"
+                        row["last_successful_scrape"] = row["last_successful_scrape"] or utc_now_iso()
+                        row["when_scraped"] = utc_now_iso()
+                        cat.save()
+                        processed += 1
+                        continue
 
-                row["version_id"] = vid
+                    row["version_id"] = vid
 
-                raw_text = normalize_newlines(text)
-                atomic_write_text(raw_path, raw_text)
+                    raw_text = normalize_newlines(text)
+                    atomic_write_text(raw_path, raw_text)
 
                 # Copy raw -> prepared BEFORE any edits, then edit prepared only.
                 atomic_write_text(prepared_path, raw_text)
                 prepared_text = finalize_prepared_text(row, raw_text)
                 atomic_write_text(prepared_path, prepared_text)
 
-                row["status"] = "ok"
-                row["last_successful_scrape"] = utc_now_iso()
-                row["error"] = ""
+                if not args.rebuild_prepared_only:
+                    row["status"] = "ok"
+                    row["last_successful_scrape"] = utc_now_iso()
+                    row["error"] = ""
 
             except Exception as exc:
-                row["status"] = "error"
-                row["error"] = str(exc)[:500]
+                if not args.rebuild_prepared_only:
+                    row["status"] = "error"
+                    row["error"] = str(exc)[:500]
+                else:
+                    raise
 
-            cat.save()
+            if not args.rebuild_prepared_only:
+                cat.save()
             processed += 1
     except KeyboardInterrupt:
         try:

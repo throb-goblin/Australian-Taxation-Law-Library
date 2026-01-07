@@ -1,0 +1,213 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/fbtttca1986486/",
+    "register_url": "https://www.legislation.gov.au/C2004A03283/latest/text",
+    "source": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 (100000066).txt",
+    "filename": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 (100000066).json",
+    "name": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986",
+    "citation": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 1",
+      "text": "This Act may be cited as the Fringe Benefits Tax (Application to the Commonwealth) Act 1986."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 2",
+      "text": "This Act shall come into operation on the day on which the Fringe Benefits Tax Assessment Act 1986 comes into operation."
+    },
+    {
+      "key": "section:2A",
+      "title": "Section 2A - Objects",
+      "main_structural_unit": "section",
+      "main_structural_number": "2A",
+      "main_structural_heading": "Objects",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 2A",
+      "text": "The objects of this Act are to provide for:\n (a) the notional application of fringe benefits tax in relation to benefits provided in respect of the employment of Commonwealth employees; and\n (b) the calculation of the reportable fringe benefits totals of those employees; and\n (c) the calculation of the reportable fringe benefits amounts of those employees in respect of that employment."
+    },
+    {
+      "key": "section:3.term:assessment-act",
+      "title": "Section 3 Definitions \"Assessment Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Assessment Act\"",
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 3",
+      "text": "\"Assessment Act\" means the Fringe Benefits Tax Assessment Act 1986."
+    },
+    {
+      "key": "section:3.term:commonwealth-employee",
+      "title": "Section 3 Definitions \"Commonwealth employee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Commonwealth employee\"",
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 3",
+      "text": "\"Commonwealth employee\" means an employee of the Commonwealth."
+    },
+    {
+      "key": "section:3.term:department",
+      "title": "Section 3 Definitions \"Department\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Department\"",
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 3",
+      "text": "\"Department\" means:\n (a) a Department of State;\n (b) a Department of the Parliament established under the Parliamentary Service Act 1999; or\n (c) an Executive Agency or Statutory Agency (within the meaning of the Public Service Act 1999)."
+    },
+    {
+      "key": "section:3.term:entitlements-act",
+      "title": "Section 3 Definitions \"Entitlements Act\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Entitlements Act\"",
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 3",
+      "text": "\"Entitlements Act\" means the Veteran&#39;s Entitlements Act 1986."
+    },
+    {
+      "key": "section:3.term:finance-department",
+      "title": "Section 3 Definitions \"Finance Department\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Finance Department\"",
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 3",
+      "text": "\"Finance Department\" means the Department that is administered by the Finance Minister."
+    },
+    {
+      "key": "section:3.term:finance-minister",
+      "title": "Section 3 Definitions \"Finance Minister\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Interpretation",
+      "defined_term": "\"Finance Minister\"",
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 3",
+      "text": "\"Finance Minister\" has the meaning given by the Income Tax Assessment Act 1997.\n\"responsible Department\", in relation to the employment of a Commonwealth employee, means:\n (a) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an annual Appropriation Act--the Department in respect of which the money was appropriated; and\n (b) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated under an Act other than an annual Appropriation Act:\n (i) if the employee performs or performed the duties of that employment in, or in respect of, a Department--that Department; or\n (ii) in any other case--the Department of State administered by the Minister who administers the Act under which that money was appropriated, insofar as the Act appropriated that money; and\n (c) where the remuneration in respect of that employment is or was paid wholly or principally out of money appropriated by the Constitution--the Finance Department.\n (2) Unless the contrary intention appears, an expression that is used in this Act and in the Assessment Act has the same meaning in this Act as it has in the Assessment Act."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Application of Assessment Act in relation to Commonwealth employment",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Application of Assessment Act in relation to Commonwealth employment",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 4",
+      "text": "Subject to this Act and to such modifications as are prescribed, the Assessment Act applies, in respect of any matter or thing in respect of the employment of a Commonwealth employee, as if:\n (a) the employee were employed by the responsible Department and not by the Commonwealth;\n (b) the responsible Department were a company and each other Department, and each authority of the Commonwealth, were a company related to the responsible Department; and\n (c) the responsible Department were a government body."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Application of Act to certain Commonwealth authorities",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Application of Act to certain Commonwealth authorities",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 5",
+      "text": "Subject to such modifications as are prescribed, this Act applies in relation to an authority of the Commonwealth referred to in paragraph  (e) of the definition of employer in subsection  136(1) of the Assessment Act in like manner as it applies in relation to a Department."
+    },
+    {
+      "key": "section:5A",
+      "title": "Section 5A - Modified objection, review and appeal provisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "5A",
+      "main_structural_heading": "Modified objection, review and appeal provisions",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 5A",
+      "text": "If, apart from this section, Part  IVC of the Taxation Administration Act 1953 would apply to an objection made under the Assessment Act in its  application in accordance with this Act, then that Part applies as if   subsection 14ZX (4), section 14ZZ and Divisions 4 and 5 of that Part were omitted."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Exemption of certain benefits provided under the Defence Service Homes Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Exemption of certain benefits provided under the Defence Service Homes Act",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 6",
+      "text": "For the purposes of the application of the Assessment Act in accordance with this Act, where a benefit is provided under the Defence Service Homes Act 1918 in respect of the employment of a Commonwealth employee by reason of the employee being an eligible person within the meaning of that Act otherwise than by virtue of paragraph  (h) or (i) of the definition of Australian Soldier in subsection  4(1) of that Act, the benefit is an exempt benefit."
+    },
+    {
+      "key": "section:6AA",
+      "title": "Section 6AA - Exemption of benefits provided to certain people",
+      "main_structural_unit": "section",
+      "main_structural_number": "6AA",
+      "main_structural_heading": "Exemption of benefits provided to certain people",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 6AA",
+      "text": "For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit (other than a benefit referred to in section  6) is provided, in respect of the employment of a Commonwealth employee, because of the employee being:\n (a) a veteran as defined by subsection  5C(1) of the Entitlements Act to whom, or in respect of whom, a pension is payable under Part II of that Act;  or\n (b) a veteran as defined by subsection  5C(1) of the Entitlements Act who is eligible to receive a service pension, or in respect of whom a service pension is payable, under Part III of that Act; or\n (c) a member of the Forces, or a member of a Peacekeeping Force, as defined by subsection  68(1) of the Entitlements Act to whom, or in respect of whom, pension is payable under Part IV of that Act; or\n (d) a person who has received a lump sum under Part  2 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004 or who is receiving payments under that Part; or\n (e) a person who is receiving a Special Rate Disability Pension under Part  6 of Chapter 4 of the Military Rehabilitation and Compensation Act 2004;\nthe benefit is an exempt benefit."
+    },
+    {
+      "key": "section:6AB",
+      "title": "Section 6AB - Exemption of benefits provided to Commonwealth employees under the Entitlements Act and the Military Rehabilitation and Compensation Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "6AB",
+      "main_structural_heading": "Exemption of benefits provided to Commonwealth employees under the Entitlements Act and the Military Rehabilitation and Compensation Act",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 6AB",
+      "text": "For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit is provided under the Entitlements Act or the Military Rehabilitation and Compensation Act 2004, in respect of the employment of a Commonwealth employee, the benefit is an exempt   benefit."
+    },
+    {
+      "key": "section:6AC",
+      "title": "Section 6AC - Exemption of health care benefits provided to certain members of the Defence Force",
+      "main_structural_unit": "section",
+      "main_structural_number": "6AC",
+      "main_structural_heading": "Exemption of health care benefits provided to certain members of the Defence Force",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 6AC",
+      "text": "(1) For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit that consists of the provision of health care and is not otherwise an exempt benefit is provided, in respect of the employment of a Commonwealth employee, because of the employee being a member of the Defence Force, the first -mentioned benefit is an exempt benefit.\n (2) In this section, a reference to an employee being a member of the   Defence Force is a reference to an employee who is, was formerly, or will become, a member of the Defence Force."
+    },
+    {
+      "key": "section:6A",
+      "title": "Section 6A - No entitlement to rebate of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "6A",
+      "main_structural_heading": "No entitlement to rebate of tax",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 6A",
+      "text": "For the purposes of the application of the Assessment Act in accordance   with this Act, it is to be assumed that section 65J of that Act (which deals with rebates) had not been enacted."
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Directions by Finance Minister",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Directions by Finance Minister",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 7",
+      "text": "(1) The Finance Minister may give such directions in writing as are necessary or convenient to be given for carrying out or giving effect to this Act and, in particular, may give directions in relation to the transfer of money within the Public Account.\n (2) Directions under subsection  (1) have effect, and shall be complied with, notwithstanding any other law of the Commonwealth."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Annual report",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Annual report",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 8",
+      "text": "The report by the Commissioner under section  4 of the Assessment Act shall include a report on the working of this Act, including any breaches or evasions of this Act of which the Commissioner has notice."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Regulations",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Regulations",
+      "defined_term": null,
+      "structure_path": "Fringe Benefits Tax (Application to the Commonwealth) Act 1986 > Section 9",
+      "text": "The Governor -General may make regulations, not inconsistent with this Act, prescribing matters:\n (a) required or permitted by this Act to be prescribed; or\n (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act."
+    }
+  ]
+}

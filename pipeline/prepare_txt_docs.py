@@ -18,7 +18,62 @@ def normalize_text(text: str) -> str:
     out = re.sub(r"[\u0000-\u0008\u000b\u000c\u000e-\u001f]", "", out)
     out = re.sub(r"\n{3,}", "\n\n", out)
     out = out.strip()
+    out = strip_repeated_title_before_sections(out)
     return out + "\n" if out else ""
+
+
+_SECTION_HEADING_RE = re.compile(r"^\s*Section\s+\S+", re.IGNORECASE)
+
+
+def strip_repeated_title_before_sections(text: str) -> str:
+    """Remove repeated document title lines immediately before 'Section ...' headings.
+
+    Keeps the first title occurrence and removes later repeats only when the next
+    non-empty line is a Section heading.
+    """
+
+    if not (text or "").strip():
+        return ""
+
+    lines = text.split("\n")
+
+    title = None
+    first_nonempty_idx: int | None = None
+    for i, line in enumerate(lines):
+        s = (line or "").strip()
+        if s:
+            title = s
+            first_nonempty_idx = i
+            break
+
+    if not title:
+        return text
+
+    title_cf = title.casefold()
+    out_lines: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        s = (line or "").strip()
+        if s and s.casefold() == title_cf:
+            # Never strip the first non-empty line (requested).
+            if first_nonempty_idx is not None and i == first_nonempty_idx:
+                out_lines.append(line)
+                i += 1
+                continue
+
+            # Only strip when the next non-empty line is a Section heading.
+            j = i + 1
+            while j < len(lines) and not (lines[j] or "").strip():
+                j += 1
+            if j < len(lines) and _SECTION_HEADING_RE.match(lines[j] or ""):
+                i += 1
+                continue
+
+        out_lines.append(line)
+        i += 1
+
+    return "\n".join(out_lines).strip()
 
 
 def sha256_bytes(data: bytes) -> str:

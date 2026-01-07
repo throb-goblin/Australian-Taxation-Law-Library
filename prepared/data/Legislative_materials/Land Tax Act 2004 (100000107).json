@@ -1,0 +1,553 @@
+{
+  "doc": {
+    "jurisdiction": "australian_capital_territory",
+    "source_url": "https://classic.austlii.edu.au/au/legis/act/consol_act/lta200490/",
+    "register_url": "https://www.legislation.act.gov.au/a/2004-4/",
+    "source": "Land Tax Act 2004 (100000107).txt",
+    "filename": "Land Tax Act 2004 (100000107).json",
+    "name": "Land Tax Act 2004",
+    "citation": "Land Tax Act 2004"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Name of Act This Act is the Land Tax Act 2004. Note This Act is a tax law under the Taxation",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Name of Act This Act is the Land Tax Act 2004. Note This Act is a tax law under the Taxation",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 1",
+      "text": "Administration Act.  As a tax law, this Act is subject to provisions of the\nTaxation Administration Act about the administration and enforcement of tax laws\ngenerally."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain terms",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Dictionary The dictionary at the end of this Act is part of this Act. Note 1 The dictionary at the end of this Act defines certain terms",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 3",
+      "text": "used in this Act, and includes references (\"signpost definitions\")\nto other terms defined elsewhere.\nFor example, the signpost definition 'unit\nsubdivision--see the Rates Act 2004\n, dictionary.' means that the term 'unit subdivision' is\ndefined in that dictionary and the definition applies to this Act.\nNote 2     A definition in the dictionary (including a signpost\ndefinition) applies to the entire Act unless the definition, or another\nprovision of the Act, provides otherwise or the contrary intention otherwise\nappears (see Legislation Act\n, s 155 and s 156 (1)).\nSection 4 A note included in this Act is explanatory and is not part of this Act. Note See Legislation Act\n, s 127 (1), (4) and (5) for the legal status of notes."
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Offences against Act--application of Criminal Code etc Other legislation applies in relation to offences against this Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Offences against Act--application of Criminal Code etc Other legislation applies in relation to offences against this Act.",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 5",
+      "text": "Note 1     Criminal Code\nThe Criminal Code\n, ch 2 applies to all offences against this Act (see Code, pt 2.1).\nThe chapter sets out the general principles of criminal responsibility\n(including burdens of proof and general defences), and defines terms used for\noffences to which the Code applies (eg \"conduct\",\n\"intention\", recklessness and strict\nliability).\nNote 2     Penalty units\nThe Legislation Act\n, s 133 deals with the meaning of offence penalties that are expressed in\npenalty units."
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Pt 2 subject to pt 4 This part is subject to part 4 (Unit subdivisions).",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Pt 2 subject to pt 4 This part is subject to part 4 (Unit subdivisions).",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 6",
+      "text": ""
+    },
+    {
+      "key": "section:7.term:tenant",
+      "title": "Section 7 Definitions \"tenant\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Definitions--pt 2 In this part: \"rent\" means valuable consideration for which a tenant is",
+      "defined_term": "\"tenant\"",
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 7",
+      "text": "\"tenant\" means a person with a right of occupation under a\ntenancy agreement."
+    },
+    {
+      "key": "section:7.term:trustee",
+      "title": "Section 7 Definitions \"trustee\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Definitions--pt 2 In this part: \"rent\" means valuable consideration for which a tenant is",
+      "defined_term": "\"trustee\"",
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 7",
+      "text": "\"trustee\" does not include a guardian or manager of the\nproperty of a person with a legal disability."
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - When is something rented for pt 2?",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "When is something rented for pt 2?",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 8",
+      "text": "(1)     For this part, a parcel of land or dwelling is not taken to be\nrented only because a tenant is liable to pay for rates, repairs,\nmaintenance or insurance in relation to the parcel or dwelling.\nNote     For provision about multiple dwellings on a parcel of land, see\ns 15.\n     (2)     For this part, a parcel of land or dwelling is taken to be\nrented if it is rented on the\nSection 1st day of a quarter."
+    },
+    {
+      "key": "section:8A",
+      "title": "Section 8A - When is land tax payable on parcel of land for pt 2?",
+      "main_structural_unit": "section",
+      "main_structural_number": "8A",
+      "main_structural_heading": "When is land tax payable on parcel of land for pt 2?",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 8A",
+      "text": "(1)     For this part, land tax is payable on a parcel of land for a quarter\nif it is payable on the 1st day of the quarter.\n     (2)     Land tax is taken to be payable on a parcel of land on the 1st day of\na quarter if it is not exempt under this part from land tax on that\nday.\n     (3)     If an exemption under this part stops applying to a parcel of land,\nland tax is payable on the 1st day of the quarter after the date the exemption\nstops applying."
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Imposition of land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Imposition of land tax",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 9",
+      "text": "(1)     Land tax at the appropriate rate is imposed for a quarter on each\nparcel of rateable land that is residential land.\n     (2)     However, land tax is not imposed on a parcel of land that is exempt\nunder section 10 or section 11.\n     (3)     The appropriate rate of land tax for a parcel of land\nis--\n         (a)     if section 27 (3) applies--the amount worked out under\nsection 27 (4), (5) or (6), whichever applies; or\n         (b)     in any other case--the amount worked out for the parcel as\nfollows:\nNote     Section 27 (3) applies to a unit owner in a registered units\nplan whose unit is subject to land tax.\n     (4)     In this section:\n\"AUV\" means the average unimproved value of the parcel of land\nunder the Rates Act 2004\n.\n\"FC\" means the fixed charge determined under the Taxation Administration Act\n, section 139 for the parcel of land.\n\"P\" means the percentage rate determined under the Taxation Administration Act\n, section 139 for the parcel of land.\nNote     Power to determine a fixed charge or percentage rate under the\nTaxation Administration Act\n includes the power to determine a different charge or rate for different\nmatters or classes of matter (see Legislation Act\n, s 48)."
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Land exempted from s 9 generally",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Land exempted from s 9 generally",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 10",
+      "text": "(1)     The following parcels of land are exempt from land tax imposed under\nSection 9:\n         (a)     a parcel of land if exempted under the following provisions:\n               (i)     section 11A (Principal place of residence exemption);\n               (ii)     section 11B (Moving out of principal place of residence);\n               (iii)     section 11C (Moving into principal place of residence--new\nowner);\n               (iv)     section 11CA (Moving into principal place of residence--ending\nrental);\n               (v)     section 11D (Exemption after death of owner);\n               (vi)     section 11G (Exemption for life tenant);\n               (vii)     section 11H (Exemption if nil or nominal rent paid);\n               (viii)     section 11I (Exemption if land becomes unfit for\noccupation);\n         (b)     a parcel of residential land owned by an individual if the parcel is\nexempted under section 13 (Decision on compassionate application) in relation to\nthe parcel;\nNote     An exemption under s 13 is for 1 year or less.\n         (c)     a parcel of land if exempted under section 13A (Exemption for land\nprovided for affordable community housing);\n         (d)     a parcel of rural land;\n         (e)     a parcel of land owned by the housing commissioner under the Housing Assistance Act 2007\n;\n         (f)     a parcel of land owned or leased by an entity declared under the Duties Act 1999\n, section 73A (Transfers etc to entities for community housing);\n         (g)     a parcel of land leased for a retirement village;\n         (h)     a parcel of land leased for a nursing home;\n               (i)     a parcel of land leased for a nursing home and a retirement\nvillage;\n         (j)     a parcel of land leased by a religious institution or order to provide\nresidential accommodation to a member of the institution or order and allow the\nmember to perform his or her duties as a member of the institution or\norder;\n         (k)     a parcel of land, other than a parcel of residential land leased to a\ncorporation or trustee, being used for a purpose prescribed under the\nregulations.\n     (2)     In this section:\n\"nursing home\" means premises that--\n         (a)     are approved, or taken to be approved, as a nursing home under the\nNational Health Act 1953\n (Cwlth); and\n         (b)     are built on land under a lease that allows the use of the\nland--\n               (i)     for residential accommodation and nursing care for patients who,\nbecause of infirmity or illness, disease, incapacity or disability have a\ncontinuing need for nursing care; and\n               (ii)     if the land is also used, or to be used, as a retirement\nvillage--for residential retirement accommodation.\n\"retirement village\" means a complex of buildings (whether or\nnot including hostel units)--\n         (a)     that is intended predominantly for retired people who are at least 55\nyears old, or couples, at least 1 of whom is at least 55 years old;\nand\n         (b)     each of which is, or is to be, occupied or used under a sublease,\nlicence or other arrangement (other than a lease); and\n         (c)     each of which is intended, and able, to be occupied as a home;\nand\n         (d)     that is built on land under a lease that allows the use of the\nland--\n               (i)     for residential retirement accommodation; and\n               (ii)     if the land is also used, or to be used, for a nursing home--for\nresidential accommodation and nursing care for patients who, because of\ninfirmity or illness, disease, incapacity or disability have a continuing need\nfor nursing care; and\n         (e)     from which no business activity is conducted by the lessee, other than\na business connected with the conduct of--\n               (i)     a retirement village; or\n               (ii)     if a nursing home is also conducted under the same lease--the\nnursing home.\n\"rural land\" means--\n         (a)     rateable land leased for the purpose of primary production only;\nor\n         (b)     rateable land leased for the purpose of primary production and other\npurposes but used mainly for primary production; or\n         (c)     a parcel of rateable land included in the common property of a\ncommunity title scheme under the Community Title Act 2001\n, if no parcel of land in the scheme is--\n               (i)     residential land; or\n               (ii)     leased for a commercial purpose.\nNote     Section 15 (2) disapplies this section in certain\ncircumstances."
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Land exempted from land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Land exempted from land tax",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11",
+      "text": "(1)     The following parcels of land are exempted from land tax:\n         (a)     a parcel of land held under a development lease by a\ncorporation;\n         (b)     a parcel of residential land owned by a not-for-profit housing\ncorporation.\n     (2)     In this section:\n\"development lease\", of land, means a lease for the development\nof the land by the lessee, or at the lessee's expense, by clearing,\nfilling, grading, draining, levelling or excavating the land to make it suitable\nfor subdivision into parcels of land to be leased.\n\"not-for-profit housing corporation\" means a corporation\nregistered under the Corporations Act\n or the Co-operatives National Law (ACT) with a constitution\nthat--\n         (a)     states that the main objective of the corporation is the provision of\nhousing; and\n         (b)     prohibits the corporation from making a distribution (whether in\nmoney, property or another way) to its members.\nNote     Section 15 (2) disapplies this section in certain\ncircumstances."
+    },
+    {
+      "key": "section:11A",
+      "title": "Section 11A - Principal place of residence exemption",
+      "main_structural_unit": "section",
+      "main_structural_number": "11A",
+      "main_structural_heading": "Principal place of residence exemption",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11A",
+      "text": "(1)     This section applies if a parcel of land is, on the 1st day of a\nquarter--\n         (a)     owned by someone other than a corporation or trustee; and\n         (b)     occupied as the principal place of residence of 1 or more owners of\nthe parcel of land.\n     (2)     The parcel of land is exempt from land tax.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (3)     However, for 2 people in a domestic partnership with more than\nSection 1 parcel of land, only 1 parcel may be eligible for an exemption under this\nsection unless the commissioner is satisfied the people have separated and there\nis no reasonable likelihood of cohabitation being resumed.\nNote     Under s 38 and the Taxation Administration Act\n, s 108, the commissioner must give the person a reviewable decision notice\nin relation to a decision to refuse to exempt a parcel of land because the\ncommissioner is not satisfied 2 people in a domestic partnership have\nseparated."
+    },
+    {
+      "key": "section:11B",
+      "title": "Section 11B - Moving out of principal place of residence",
+      "main_structural_unit": "section",
+      "main_structural_number": "11B",
+      "main_structural_heading": "Moving out of principal place of residence",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11B",
+      "text": "(1)     This section applies if an owner of a parcel of land, other than a\nparcel of land owned by a corporation or trustee--\n         (a)     occupies the parcel as the principal place of residence; and\n         (b)     stops occupying the parcel as the principal place of\nresidence.\n     (2)     The parcel of land is exempt from land tax for the 1st quarter after\nthe date the owner stops occupying the parcel as the principal place of\nresidence.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (3)     Subsection (2) does not apply if the parcel of land is rented by a\ntenant."
+    },
+    {
+      "key": "section:11C",
+      "title": "Section 11C - Moving into principal place of residence--new owner",
+      "main_structural_unit": "section",
+      "main_structural_number": "11C",
+      "main_structural_heading": "Moving into principal place of residence--new owner",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11C",
+      "text": "(1)     This section applies if a person, other than a corporation or trustee,\nbecomes the owner (the new owner) of a parcel of land, to be\noccupied by the new owner as their principal place of residence.\n     (2)     The parcel of land is exempt from land tax for the 1st quarter after\nthe date the new owner becomes the owner of the parcel.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (3)     Subsection (2) does not apply if, within 3 months after the date the\nnew owner becomes the owner of the parcel--\n         (a)     the new owner does not occupy the parcel as their principal place of\nresidence; or\n         (b)     the parcel is rented by a tenant, other than the seller of the parcel\nunder an agreement with the new owner for a period of not longer than 3\nmonths."
+    },
+    {
+      "key": "section:11CA",
+      "title": "Section 11CA - Moving into principal place of residence--ending rental",
+      "main_structural_unit": "section",
+      "main_structural_number": "11CA",
+      "main_structural_heading": "Moving into principal place of residence--ending rental",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11CA",
+      "text": "(1)     This section applies if a parcel of land, other than a parcel of land\nowned by a corporation or trustee, stops being rented so it can be occupied by\nthe owner of the parcel as their principal place of residence.\n     (2)     The parcel of land is exempt from land tax for the 1st quarter after\nthe date the parcel stopped being rented.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (3)     Subsection (2) does not apply if, within 3 months after the date the\nparcel stopped being rented--\n         (a)     the owner does not occupy the parcel as their principal place of\nresidence; or\n         (b)     the parcel is rented by a tenant."
+    },
+    {
+      "key": "section:11D",
+      "title": "Section 11D - Exemption after death of owner",
+      "main_structural_unit": "section",
+      "main_structural_number": "11D",
+      "main_structural_heading": "Exemption after death of owner",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11D",
+      "text": "(1)     This section applies if--\n         (a)     a parcel of land, other than a parcel of land owned by a corporation\nor trustee, is occupied as the principal place of residence by the owner of the\nparcel; and\n         (b)     the owner dies.\n     (2)     The parcel of land is exempt from land tax for 2 years after the date\nof the owner's death if, during the 2-year period, the parcel is\nregistered in the name of--\n         (a)     the deceased owner; or\n         (b)     the personal representative.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (3)     Before the 2-year period ends, the personal representative may apply,\nin writing, to the commissioner to extend the period.\n     (4)     The application must set out the grounds on which it is\nmade."
+    },
+    {
+      "key": "section:11E",
+      "title": "Section 11E - Decision on extension of period",
+      "main_structural_unit": "section",
+      "main_structural_number": "11E",
+      "main_structural_heading": "Decision on extension of period",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11E",
+      "text": "(1)     On receiving an application under section 11D, the commissioner may\nextend the period mentioned in section 11D (2).\n     (2)     The commissioner may extend the period if--\n         (a)     the parcel of land--\n               (i)     has not been rented since the date of the owner's death;\nand\n               (ii)     is not registered in the name of a person other than the deceased\nowner or the deceased owner's personal representative; and\n         (b)     the commissioner is satisfied that--\n               (i)     a person is occupying the parcel of land as the person's\nprincipal place of residence; and\n               (ii)     the person is likely to be a person in whom the deceased\nowner's interest in the parcel will vest in accordance with the\nadministration of the deceased's owner's estate.\n     (3)     The commissioner must tell the personal representative, in writing, of\nthe decision under subsection (1) and--\n         (a)     if the commissioner extends the period--state the extended\nperiod; or\n         (b)     if the commissioner refuses to extend the period--state the\nreasons for the refusal.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (4)     The commissioner may, by written notice given to the personal\nrepresentative, revoke an extension if satisfied that the extension should no\nlonger be given.\nNote     Under s 38 and the Taxation Administration Act\n, s 108, the commissioner must also give the person a reviewable decision\nnotice in relation to a decision to--\n         (a)      extend the period for less than the period applied for; or\n         (b)      refuse to extend the period; or\n         (c)      revoke an extension."
+    },
+    {
+      "key": "section:11F",
+      "title": "Section 11F - Applications lodged out of time",
+      "main_structural_unit": "section",
+      "main_structural_number": "11F",
+      "main_structural_heading": "Applications lodged out of time",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11F",
+      "text": "(1)     The commissioner may allow a person to lodge an application after the\nSection 2-year period mentioned in section 11D (Exemption after death of\nowner).\n     (2)     The person must state fully and in detail, in writing, the\ncircumstances concerning and the reasons for the failure to make the application\nwithin the 2-year period.\n     (3)     The commissioner may, after considering the circumstances concerning\nand the reasons for the failure to make the application within the\nperiod--\n         (a)     if satisfied that it is just and fair for the application to be lodged\nafter the period--give permission unconditionally or subject to conditions;\nor\n         (b)     refuse permission.\n     (4)     The commissioner must tell the person, in writing, of the decision\nunder subsection (3) and--\n         (a)     if the commissioner gives permission subject to a\ncondition--state the condition; or\n         (b)     if the commissioner refuses permission--state the reasons for the\nrefusal.\nNote 1     Under s 38 and the Taxation Administration Act\n, s 108, the commissioner must also give the person a reviewable decision\nnotice in relation to a decision to--\n         (a)     give permission subject to a condition; or\n         (b)     refuse permission.\nNote 2     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel."
+    },
+    {
+      "key": "section:11G",
+      "title": "Section 11G - Exemption for life tenant",
+      "main_structural_unit": "section",
+      "main_structural_number": "11G",
+      "main_structural_heading": "Exemption for life tenant",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11G",
+      "text": "(1)     This section applies if a parcel of land is, on the 1st day of a\nquarter--\n         (a)     owned by someone other than a corporation or trustee; and\n         (b)     occupied as the principal place of residence of a person having a life\nor term interest in the parcel of land under a will.\n     (2)     The parcel of land is exempt from land tax.\n     (3)     Subsection (2) does not apply if the parcel of land is rented to the\nperson or another person.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel."
+    },
+    {
+      "key": "section:11H",
+      "title": "Section 11H - Exemption if nil or nominal rent paid",
+      "main_structural_unit": "section",
+      "main_structural_number": "11H",
+      "main_structural_heading": "Exemption if nil or nominal rent paid",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11H",
+      "text": "(1)     This section applies if a parcel of land is, on the 1st day of a\nquarter--\n         (a)     owned by someone other than a corporation or trustee; and\n         (b)     occupied by a person who--\n               (i)     is liable only to pay an amount that is not more than the total amount\nrequired for rates, repairs, maintenance and insurance in relation to the\nparcel; or\n               (ii)     pays no rent for the parcel.\n     (2)     The parcel of land is exempt from land tax.\nNote     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel."
+    },
+    {
+      "key": "section:11I",
+      "title": "Section 11I - Exemption if land becomes unfit for occupation",
+      "main_structural_unit": "section",
+      "main_structural_number": "11I",
+      "main_structural_heading": "Exemption if land becomes unfit for occupation",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 11I",
+      "text": "(1)     This section applies if the commissioner is satisfied that a parcel of\nland is, or has become, unfit for occupation as a place of residence.\nExamples--unfit for\noccupation\nSection 1 property under construction or being substantially renovated\nSection 2 property damaged by fire, flood or other natural disaster\nSection 3 property maliciously damaged\nSection 4 property which is otherwise unlawful to occupy under a territory\nlaw\n     (2)     The parcel of land is exempt from land tax after the date the parcel\nbecame unfit for occupation as a place of residence, until--\n         (a)     the end of the quarter following the quarter in which a certificate of\noccupancy is issued for the parcel; or\n         (b)     the commissioner is satisfied that the parcel is fit for occupation as\na place of residence.\n     (3)     Subsection (2) does not apply if the parcel of land is rented by a\ntenant.\nNote 1     Under s 14 the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\nNote 2     Under s 38 and the Taxation Administration Act\n, s 108, the commissioner must give the person a reviewable decision notice\nin relation to a decision to refuse to exempt a parcel of land because the\ncommissioner is not satisfied the land is, or has become, unfit for occupation\nas a place of residence.\n     (4)     In this section:\n\"certificate of occupancy\"--see the Building Act 2004\n, dictionary."
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Application for compassionate case exemption",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Application for compassionate case exemption",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 12",
+      "text": "(1)     This section applies if, on the 1st day of a quarter, a parcel of\nresidential land is owned by an individual (the owner) and not\nexempt from land tax.\n     (2)     The owner may apply in writing to the commissioner for a declaration\nthat the parcel of land be treated as exempt from land tax on compelling\ncompassionate grounds.\n     (3)     The application must set out the grounds on which it is\nmade.\n     (4)     In this section:\n\"land tax\" includes a foreign ownership surcharge."
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Decision on compassionate application",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Decision on compassionate application",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 13",
+      "text": "(1)     On receiving an application under section 12 by the owner of a parcel\nof land, the commissioner must--\n         (a)     if satisfied that the owner is temporarily absent because of\ncompelling compassionate reasons and the parcel is not a parcel to which\nsubsection (2) relates--exempt the parcel from land tax; or\n         (b)     in any other case--refuse to exempt the parcel from land\ntax.\n     (2)     The commissioner must not exempt a parcel of land under this section\nif--\n         (a)     a person carries on business as the proprietor of a boarding house on\nthe parcel; or\n         (b)     the parcel is leased to a corporation or trustee.\n     (3)     An exemption under subsection (1) in relation to a parcel of land must\nstate that the parcel is exempt from land tax for a stated period of\nSection 2 years or less.\n     (4)     A notice of refusal under subsection (1) (b) must give reasons why the\ncommissioner is not satisfied that the parcel should be exempt from land tax\nunder this section.\n     (5)     The commissioner may, by notice given to the owner of the parcel of\nland, revoke an exemption under this section if satisfied that the parcel should\nno longer be exempted.\n     (6)     In this section:\n\"land tax\" includes a foreign ownership surcharge."
+    },
+    {
+      "key": "section:13A",
+      "title": "Section 13A - Exemption for land provided for affordable community housing",
+      "main_structural_unit": "section",
+      "main_structural_number": "13A",
+      "main_structural_heading": "Exemption for land provided for affordable community housing",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 13A",
+      "text": "(1)     This section applies if an owner of a parcel of land--\n         (a)     enters into an agreement with a registered community housing provider;\nand\n         (b)     makes the parcel of land available under the agreement to the provider\nfor the purpose of affordable community housing.\n     (2)     The parcel of land is exempt from land tax.\nNote     Under s 14, the commissioner must be told within 30 days if\nthere is a change in circumstances that would cause land tax to become payable\nfor the parcel.\n     (3)     An agreement under subsection (1) must require the registered\ncommunity housing provider to--\n         (a)     take all reasonable steps to rent the parcel of land for affordable\ncommunity housing; and\n         (b)     before the 1st day of a quarter, notify the commissioner whether or\nnot the parcel of land is rented.\n     (4)     Subsection (2) does not apply if--\n         (a)     the parcel of land is not rented within 3 months after the date the\nparcel--\n               (i)     is made available under the agreement to the registered community\nhousing provider; or\n               (ii)     if rented, stops being rented; or\n         (b)     any part of the parcel of land is rented for a purpose other than\naffordable community housing under the agreement; or\n         (c)     the owner does not satisfy the criteria determined under subsection\n(5) (a); or\n         (d)     the parcel of land would exceed the maximum number of parcels\ndetermined under subsection (5) (b) (i); or\n         (e)     the amount of land tax exempted would exceed the maximum value of land\ntax determined under subsection (5) (b) (ii); or\n         (f)     the parcel of land would exceed the maximum number of parcels for\nwhich an owner is entitled determined under subsection (5) (b) (iii).\n     (5)     The Minister may determine--\n         (a)     criteria that an owner of a parcel of land must satisfy before being\neligible for an exemption under this section; and\n         (b)     1 or more of the following:\n               (i)     the maximum number of parcels of land that are entitled to an\nexemption under this section;\n               (ii)     the maximum value of land tax that may be exempted under this\nsection;\n               (iii)     the maximum number of parcels of land for which an owner is entitled\nto an exemption under this section.\n     (6)     A determination is a disallowable instrument.\n     (7)     In this section:\n\"affordable community housing\" means community housing that\nis--\n         (a)     rented at a rate that is less than the current market rent;\nand\n         (b)     affordable by people on low or moderate incomes.\n\"community housing\"--see the Community Housing Providers National Law (ACT)\n, section 4 (1).\n\"Community Housing Providers National Law (ACT)\" means the\nprovisions applying because of the Community Housing Providers National Law (ACT) Act 2013\n, section 7.\n\"registered community housing provider\"--see the Community Housing Providers National Law (ACT)\n, section 4 (1)."
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Commissioner to be told of change in circumstances",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Commissioner to be told of change in circumstances",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 14",
+      "text": "(1)     This section applies in relation to a parcel of land that is leased\nfor residential purposes if--\n         (a)     land tax or a foreign ownership surcharge is not imposed on the\nparcel; or\n         (b)     the parcel is exempt from land tax or a foreign ownership\nsurcharge.\n     (2)     A relevant person for the parcel of land must tell the\ncommissioner--\n         (a)     of any change in circumstances in relation to the parcel that would\ncause land tax or a foreign ownership surcharge to become payable for the\nparcel; and\n         (b)     the date of the change in circumstances.\nNote 1     It is an offence to fail to notify the commissioner under\nthis section (see Taxation Administration Act\n, s 67 (2)).\nNote 2     It is also an offence to knowingly avoid paying, or\ndisclosing a liability to pay, part or all of an amount of tax (see Taxation Administration Act\n, s 65 (1)).\n     (3)     For subsection (2), the relevant person must tell the commissioner not\nlater than 30 days after the date the circumstances change.\nExamples--s (2) and s (3)--changed\ncircumstances\nSection 1 a change of ownership of the parcel\nSection 2 the parcel is owned by an individual as trustee\nSection 3 the parcel is owned by a foreign person or an owner subsequently becomes\na foreign person\nSection 4 the parcel is no longer a principal place of residence\nSection 5 the parcel is rented\nSection 6 the parcel is otherwise no longer exempt from land tax or a foreign\nownership surcharge\n     (4)     In this section:\n\"relevant person\", for a parcel of land, means--\n         (a)     the owner of the parcel of land; or\n         (b)     if the owner has authorised an agent to act on the owner's\nbehalf in relation to the parcel--the agent; or\n         (c)     if the owner has died--the personal representative.\nExamples--par\n        (b)--agent\naccountant, real estate agent, solicitor"
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Multiple dwellings",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Multiple dwellings",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 15",
+      "text": "(1)     This section applies if--\n         (a)     a parcel of residential land owned by someone other than a corporation\nor trustee contains multiple dwellings; and\n         (b)     at least 1 of the dwellings is occupied--\n               (i)     as the principal place of residence of 1 or more owners of the parcel,\nincluding an owner who is a personal representative of a deceased person;\nor\n               (ii)     as the principal place of residence of a person having a life or term\ninterest in the parcel of land under a will; or\n               (iii)     by a person who pays no rent for the parcel, or is liable only to\npay an amount that is not more than the total amount required for rates,\nrepairs, maintenance and insurance in relation to the parcel; and\n         (c)     at least 1 of the dwellings is rented by a tenant.\n     (2)     Section 10 (Land exempted from s 9 generally) and section 11 (Land\nexempted from land tax) do not apply to the parcel of land.\n     (3)     In working out the land tax payable for the parcel of land under\nsection 9 (Imposition of land tax), the AUV of the parcel of land is the amount\nworked out as follows:\n     (4)     In working out the land tax payable for the parcel of land under\nsection 9 (Imposition of land tax), the FC for the parcel of land is the amount\nworked out as follows:\n     (5)     In this section:\n\"AUV\" means the average unimproved value of the parcel of land\nunder the Rates Act 2004\n.\n\"dwelling\"--\n         (a)     means a room, or suite of rooms, used or capable of being used as a\nseparate residence; but\n         (b)     does not include--\n               (i)     a unit; or\n               (ii)     a garage, carport, garden shed, veranda, pergola, patio, or any other\nstructure not used for living in.\n\"FA\" means the floor area of the\nrented dwelling.\n\"FC\" means the fixed charge determined under the Taxation Administration Act\n, section 139 for section 9 (4), definition of \"FC\".\n\"TFA\" means the total floor area of all dwellings on the parcel\nof land."
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Land partly owned by corporation or trustee",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Land partly owned by corporation or trustee",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 16",
+      "text": "(1)     This section applies to a parcel of residential land that is owned\nby--\n         (a)     1 or more people who are corporations or trustees; and\n         (b)     1 or more people who are exempt from paying land tax for the parcel\nunder--\n               (i)     section 10 (Land exempted from s 9 generally), other than section 10\n(1) (a) (viii); or\n               (ii)     section 11 (Land exempted from land tax).\n     (2)     In working out the land tax payable for the parcel of land under\nsection 9 (Imposition of land tax), the AUV of the parcel of land is the amount\nworked out as follows:\n    (3)    In working out the land tax payable for theparcel of land under section 9 (Imposition of land tax), the FC for the parcelof land is the amount worked out as follows:\n     (4)     In this section:\n\"AI\" means the value of all interests in the parcel of\nland.\n\"AUV\" means the average unimproved value of the parcel of land\nunder the Rates Act 2004\n.\n\"C&TI\" means the value of all interests in the parcel of\nland held by corporations and trustees.\n\"FC \"means the fixed charge determined under the Taxation Administration Act\n, section 139 for section 9 (4), definition of FC.\n     (5)     Any land tax payable for the parcel of land is payable by the owners\nof the land who are corporations or trustees."
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Payment of land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Payment of land tax",
+      "defined_term": null,
+      "structure_path": "Part 2--IMPOSITION AND PAYMENT OF LAND TAX > Section 17",
+      "text": "(1)     Land tax in relation to a parcel of land is payable to the\ncommissioner by the owner of the parcel.\n     (2)     A person who is the owner of the parcel of land is liable to pay to\nthe commissioner any unpaid land tax payable in relation to the parcel, whether\nthe amount became payable before or after the person became the owner.\n     (3)     However, if the owner of the parcel is a person to whom the Taxation Administration Act\n, section 56H (8) applies in relation to the unpaid land tax, the amount is\npayable by the person who was the owner of the parcel for the period to which\nthe liability relates.\n     (4)     The assessment notice for the land tax payable for a quarter for a\nparcel of land must state a date for payment of the land tax\n(the payment date).\n     (5)     The payment date must not be earlier than 4 weeks after the date of\nthe notice.\n     (6)     A person may pay the land tax in relation to which an assessment\nnotice has been given--\n         (a)     if the amount payable is for a quarter and any arrears of land tax in\nrelation to previous quarters have been paid in full--by paying, on or\nbefore the date for the payment of the land tax, the amount of the land tax;\nor\n         (b)     by paying the amounts on the days that the person wishes, but so that\nthe amount owing on the date for payment is paid no later than the date for\npayment.\n     (7)     In this section:\n\"assessment notice\", in relation to land tax, means a notice of\nassessment under the Taxation Administration Act\n, section 14 in relation to the land tax.\n\"land tax\" includes a foreign ownership\nsurcharge."
+    },
+    {
+      "key": "section:17A.term:foreign-individual",
+      "title": "Section 17A Definitions \"foreign individual\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "17A",
+      "main_structural_heading": "Definitions--pt 2A In this part: \"Australian citizen\"--see the Australian Citizenship Act 2007",
+      "defined_term": "\"foreign individual\"",
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17A",
+      "text": "\"foreign individual\" means an individual who, on the 1st day of\na quarter, is not--\n         (a)     an Australian citizen; or\n         (b)     a permanent resident; or\n         (c)     ordinarily resident in Australia or an external territory.\n\"foreign person\"--\n         (a)     means--\n               (i)     a foreign individual; or\n               (ii)     a foreign corporation; or\n               (iii)     a trustee of a foreign trust; but\n         (b)     does not include a personal representative of a deceased\nperson."
+    },
+    {
+      "key": "section:17A.term:permanent-resident",
+      "title": "Section 17A Definitions \"permanent resident\"",
+      "main_structural_unit": "section",
+      "main_structural_number": "17A",
+      "main_structural_heading": "Definitions--pt 2A In this part: \"Australian citizen\"--see the Australian Citizenship Act 2007",
+      "defined_term": "\"permanent resident\"",
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17A",
+      "text": "\"permanent resident\" means--\n         (a)     a person who holds a permanent visa under the Migration Act 1958\n (Cwlth), section 30 (1); or\n         (b)     a New Zealand citizen who holds a special category visa under the Migration Act 1958\n (Cwlth), section 32."
+    },
+    {
+      "key": "section:17B",
+      "title": "Section 17B - What is a foreign corporation?--pt 2A",
+      "main_structural_unit": "section",
+      "main_structural_number": "17B",
+      "main_structural_heading": "What is a foreign corporation?--pt 2A",
+      "defined_term": null,
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17B",
+      "text": "(1)     In this part:\n\"foreign corporation\" means--\n         (a)     a corporation incorporated outside Australia; or\n         (b)     a corporation in which 1 or more foreign people hold a controlling\ninterest.\n     (2)     A corporation is taken to be a corporation mentioned in\nsubsection (1), definition of \"foreign corporation\", paragraph\n        (b) if, taking their interests together, 1 or more foreign people, or associated\npeople of the foreign people--\n         (a)     are entitled to cast, or control the casting of, 50% or more of the\nmaximum number of votes at a general meeting of the corporation; or\n         (b)     hold 50% or more of the shares in the corporation."
+    },
+    {
+      "key": "section:17C",
+      "title": "Section 17C - What is a foreign trust?--pt 2A",
+      "main_structural_unit": "section",
+      "main_structural_number": "17C",
+      "main_structural_heading": "What is a foreign trust?--pt 2A",
+      "defined_term": null,
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17C",
+      "text": "(1)     In this part, a trust is a foreign trust\nif--\n         (a)     for a trust with fixed beneficial interests--taking their\ninterests together, a beneficial interest of 50% or more of the capital of the\ntrust estate is held by--\n               (i)     1 or more foreign people; or\n               (ii)     an associated person of the foreign person; or\n         (b)     for a discretionary trust--a foreign person is named in the trust\ndeed who, under the terms of the trust, takes the capital of the trust estate\nif--\n               (i)     there is an exercise of a power or discretion in favour of the person;\nor\n               (ii)     a power or discretion is not exercised.\n     (2)     In this section:\n\"discretionary trust\"--see the Duties Act 1999\n, dictionary."
+    },
+    {
+      "key": "section:17D",
+      "title": "Section 17D - When is foreign ownership surcharge payable on parcel of land for pt 2A?",
+      "main_structural_unit": "section",
+      "main_structural_number": "17D",
+      "main_structural_heading": "When is foreign ownership surcharge payable on parcel of land for pt 2A?",
+      "defined_term": null,
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17D",
+      "text": "(1)     For this part, a foreign ownership surcharge is payable on a parcel of\nland for a quarter if it is payable on the 1st day of the quarter.\n     (2)     A foreign ownership surcharge is taken to be payable on a parcel of\nland on the 1st day of a quarter if it is not exempt under this part from the\nforeign ownership surcharge on that day.\n     (3)     If an exemption under this part stops applying to a parcel of land, a\nforeign ownership surcharge is payable on the 1st day of the quarter after the\ndate the exemption stops applying."
+    },
+    {
+      "key": "section:17E",
+      "title": "Section 17E - Imposition of foreign ownership surcharge",
+      "main_structural_unit": "section",
+      "main_structural_number": "17E",
+      "main_structural_heading": "Imposition of foreign ownership surcharge",
+      "defined_term": null,
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17E",
+      "text": "(1)     A foreign ownership surcharge at the appropriate rate is imposed for a\nquarter on each parcel of rateable land that is--\n         (a)     residential land; and\n         (b)     on the 1st day of the quarter, owned by a foreign person.\n     (2)     However, a foreign ownership surcharge is not imposed on a parcel of\nland that is exempt under--\n         (a)     section 10 (Land exempted from s 9 generally), other than section 10\n(1) (a) (vii); or\n         (b)     section 11 (Land exempted from land tax).\n     (3)     The appropriate rate of the foreign ownership surcharge\nfor a parcel of land is--\n         (a)     for a unit that is part of a unit subdivision--the amount worked\nout for the parcel as follows:\n         (b)     in any other case--the amount worked out for the parcel as\nfollows:\n     (4)     In this section:\n\"AUV\" means the average unimproved value of the parcel of land\nunder the Rates Act 2004\n.\n\"AUVRU\" means the AUV of the parcel proportionate to the number\nof residential units in the parcel, worked out as follows:\n\"AUVRUP\" means the AUVRU adjusted by the applicable percentage\nrate, worked out as follows:\n\"P\" means the percentage rate determined under the Taxation Administration Act\n, section 139 for the parcel of land.\nNote     Power to determine a percentage rate under the Taxation Administration Act\n includes the power to determine a different rate for different matters or\ndifferent classes of matters (see Legislation Act\n, s 48).\n\"residential unit\" means a unit that is residential\nland.\n\"TUE\" means the total unit entitlement of all the units in the\nunits plan.\n\"TUER\" means the total unit entitlement of all the residential\nunits in the units plan.\n\"UE\" means the unit entitlement of the unit.\n\"unit entitlement\"--see the Unit Titles Act\n, section 8.\n\"units plan\" means a units plan under the Unit Titles Act\n, section 7."
+    },
+    {
+      "key": "section:17F",
+      "title": "Section 17F - Land partly owned by foreign people",
+      "main_structural_unit": "section",
+      "main_structural_number": "17F",
+      "main_structural_heading": "Land partly owned by foreign people",
+      "defined_term": null,
+      "structure_path": "Part 2A--FOREIGN OWNERSHIP SURCHARGE > Section 17F",
+      "text": "(1)     This section applies to a parcel of residential land if on the 1st day\nof a quarter--\n         (a)     the parcel is owned by--\n               (i)     1 or more people who are foreign people; and\n               (ii)     1 or more people who are not foreign people; and\n         (b)     a foreign ownership surcharge is payable for the parcel.\n     (2)     The appropriate rate of foreign ownership surcharge payable under\nsection 17E for the parcel of land is--\n         (a)     for a unit that is part of a unit subdivision--the amount worked\nout for the parcel as follows:\n         (b)     in any other case--the amount worked out for the parcel as\nfollows:\n     (3)     In this section:\n\"AI\" means the value of all interests in the parcel of\nland.\n\"AUV\"--see section 9 (4).\n\"AUVRU\" means the AUV of the parcel proportionate to the number\nof residential units in the parcel, worked out as follows:\n\"AUVRUP\" means the AUVRU adjusted by the applicable percentage\nrate, worked out as follows:\n\"FI\" means the value of all interests in the parcel or unit\nheld by foreign people.\n\"P\"--see section 17E (4).\nNote     Power to determine a percentage rate under the Taxation Administration Act\n includes the power to determine a different rate for different matters or\ndifferent classes of matters (see Legislation Act\n, s 48).\n\"residential unit\" means a unit that is residential\nland.\n\"TUE\" means the total unit entitlement of all the units in the\nunits plan.\n\"TUER\" means the total unit entitlement of all the residential\nunits in the units plan.\n\"UE\" means the unit entitlement of the unit.\n\"unit entitlement\"--see the Unit Titles Act\n, section 8.\n\"units plan\" means a units plan under the Unit Titles Act\n, section 7."
+    },
+    {
+      "key": "section:18A",
+      "title": "Section 18A - Meaning of land tax--pt 3 In this part: \"land tax\" includes a foreign ownership surcharge.",
+      "main_structural_unit": "section",
+      "main_structural_number": "18A",
+      "main_structural_heading": "Meaning of land tax--pt 3 In this part: \"land tax\" includes a foreign ownership surcharge.",
+      "defined_term": null,
+      "structure_path": "Part 3--ENFORCEMENT > Section 18A",
+      "text": ""
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Interest payable on overdue land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Interest payable on overdue land tax",
+      "defined_term": null,
+      "structure_path": "Part 3--ENFORCEMENT > Section 19",
+      "text": "(1)     Interest on an amount of unpaid overdue land tax is worked\nout--\n         (a)     for each month that the amount remains unpaid; and\n         (b)     on the 1st day of that month; and\n         (c)     at the interest rate applying to that day; and\n         (d)     on the total amount of overdue land tax that is unpaid on a day when\nthe interest is worked out.\nNote     The Minister may determine an interest rate for this section\nunder the Taxation Administration Act\n, section 139.\n     (2)     For subsection (1) (a), if an amount remains unpaid for part of a\nmonth, interest is payable for the whole month.\nExample\nFred's land tax is due on 15 August.  He doesn't pay it until 5\nOctober.  Fred has to pay interest worked out for the overdue period from 16\nAugust to 5 October.  Because of the operation of s (2), Fred has to pay\ninterest for the period from 16 August to 15 October.  Interest for the\nmonth from 16 August to 15 September is at the rate applying on 16 August, which\nis the 1st day of the\nSection 1st month that the amount remains unpaid (see\ns (1)).  Interest for the month from 16 September to 15 October is at the\nrate applying on 16 September, which is the\nSection 1st day of the\nSection 2nd month that the amount remains unpaid\n(see s (1)).\n     (3)     The Taxation Administration Act\n, section 25 (Interest in relation to tax defaults) does not apply to\nunpaid overdue land tax."
+    },
+    {
+      "key": "section:19A",
+      "title": "Section 19A - Interest and penalty tax payable on land tax if no disclosure",
+      "main_structural_unit": "section",
+      "main_structural_number": "19A",
+      "main_structural_heading": "Interest and penalty tax payable on land tax if no disclosure",
+      "defined_term": null,
+      "structure_path": "Part 3--ENFORCEMENT > Section 19A",
+      "text": "(1)     This section applies if--\n         (a)     land tax is imposed on a parcel of rateable land; and\n         (b)     the owner of the parcel of land fails to comply with section 14\n(Commissioner to be told of change in circumstances).\n     (2)     The owner is liable to pay interest on the amount of land tax from the\nend of 30 days after the 1st day of the 1st quarter for which the tax is\nimposed.\n     (3)     Interest on the amount of land tax is worked out--\n         (a)     for each month that the amount is payable; and\n         (b)     on the 1st day of that month; and\n         (c)     at the interest rate applying to that day; and\n         (d)     on the total amount of land tax that is payable on a day when the\ninterest is worked out.\nNote     The Minister may determine an interest rate for this section\nunder the Taxation Administration Act\n, s 139.\n     (4)     The Taxation Administration Act\n, division 5.2 (Penalty tax) applies to the owner of the parcel of land as\nif--\n         (a)     the owner's failure to comply with section 14 were a tax\ndefault; and\n         (b)     a reference to interest under division 5.1 were a reference to\ninterest under this section; and\n         (c)     a reference to the amount of tax unpaid were a reference to the amount\nof land tax payable.\n     (5)     This section applies to land tax imposed before or after the\ncommencement of this section.\nNote     Section 9 imposes land tax on unit subdivisions."
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Unit subdivisions",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Unit subdivisions",
+      "defined_term": null,
+      "structure_path": "Part 4--UNIT SUBDIVISIONS > Section 26",
+      "text": "(1)     For this Act, if a parcel of land is a unit subdivision, the land\nmaking up the parcel is taken to continue to be a single parcel of\nland.\n     (2)     However, in the application of this Act to a unit\nsubdivision--\n         (a)     a reference to a parcel of land in relation to the assessment or\npayment of land tax is a reference to a unit; and\n         (b)     a reference to the owner is--\n               (i)     in relation to the assessment or payment of land tax--a reference\nto the unit owner; and\n               (ii)     in relation to any other notice--a reference to the owners\ncorporation."
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Unit subdivisions--land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Unit subdivisions--land tax",
+      "defined_term": null,
+      "structure_path": "Part 4--UNIT SUBDIVISIONS > Section 27",
+      "text": "(1)     This section applies to a parcel of land that is a unit\nsubdivision.\n     (2)     If land tax imposed for the parcel of land for the quarter when the\nunits plan is registered is not paid before registration of the units plan, it\nis payable by the person who was the owner of the parcel on the day before the\nday when the units plan was registered.\n     (3)     On and after the 1st day of the\nnext quarter after the day when the units plan is registered or, if it is\nregistered on the 1st day of a quarter, on\nand after that day--\n         (a)     any land tax imposed for the parcel of land is payable by the unit\nowners whose units are subject to land tax; and\n         (b)     the amount payable by each unit owner whose unit is subject to land\ntax is the amount worked out under subsection (4), (5) or (6), whichever\napplies; and\n         (c)     no land tax for the parcel is payable by the owners\ncorporation.\n     (4)     If a unit that is part of a unit subdivision--\n         (a)     is owned by someone other than a corporation or trustee; and\n         (b)     contains multiple dwellings; and\n         (c)     has at least 1 of the dwellings in the unit occupied--\n               (i)     as the principal place of residence by 1 or more owners of the unit,\nincluding an owner who is a personal representative of a deceased person;\nor\n               (ii)     as the principal place of residence by a person having a life or term\ninterest in the unit under a will; or\n               (iii)     by a person who pays no rent for the unit, or is liable only to pay\nan amount that is not more than the total amount required for rates, repairs,\nmaintenance and insurance in relation to the unit; and\n         (d)     has at least 1 of the dwellings rented by a tenant;\nthe amount worked out for the unit is as follows:\n     (5)     If a unit that is part of a unit subdivision--\n         (a)     is owned by either a corporation or trustee, and\n         (b)     another person who is exempt from paying land tax for the parcel\nunder--\n               (i)     section 10 (Land exempted from s 9 generally), other than section 10\n(1) (a) (viii); or\n               (ii)     section 11 (Land exempted from land tax);\nthe amount worked out for the unit is as follows:\n     (6)     If a unit is part of a unit subdivision, and subsections (4) and (5)\ndo not apply--the amount worked out for the unit is as follows:\n     (7)     In this section:\n\"AI\" means the value of all interests in the unit.\n\"AUV\"--see section 9 (4).\n\"AUVRU\" means the AUV of the parcel proportionate to the number\nof residential units in the parcel, worked out as follows:\n\"AUVRUP\" means the AUVRU adjusted by the applicable percentage\nrate, worked out as follows:\n\"C&TI\" means the value of all interests in the unit held by\ncorporations and trustees.\n\"dwelling\"--\n         (a)     means a room, or suite of rooms, used or capable of being used as a\nseparate residence; but\n         (b)     does not include a garage, carport, garden shed, veranda, pergola,\npatio, or any other structure not used for living in.\n\"FA\" means the floor area of the dwelling that is\nrented.\n\"FC\"--see section 9 (4).\n\"P\"--see section 9 (4).\n\"residential unit \"means a unit that is residential\nland.\n\"TFA\" means the total floor area of the unit.\n\"TUE \"means the total unit entitlement of all the units in the\nunits plan.\n\"TUER \"means the total unit entitlement of all the residential\nunits in the units plan.\n\"UE\" means the unit entitlement of the unit.\n\"unit entitlement\"--see the Unit Titles Act\n, section 8.\n\"units plan\" means a units plan under the Unit Titles Act\n, section 7."
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Meaning of land tax--pt 5 In this part: \"land tax\" includes a foreign ownership surcharge.",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Meaning of land tax--pt 5 In this part: \"land tax\" includes a foreign ownership surcharge.",
+      "defined_term": null,
+      "structure_path": "Part 5--EXEMPTIONS, REMISSIONS AND CERTAIN INTEREST PAYMENTS > Section 33",
+      "text": ""
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Exemption from land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Exemption from land tax",
+      "defined_term": null,
+      "structure_path": "Part 5--EXEMPTIONS, REMISSIONS AND CERTAIN INTEREST PAYMENTS > Section 34",
+      "text": "(1)     The Minister may exempt the owner of a parcel of land from payment of\nland tax owing for any period in relation to the parcel, or from payment of a\nstated part of the land tax.\n     (2)     An exemption is a notifiable instrument.\n     (3)     The Minister may make guidelines for the exercise of a function under\nthis section.\n     (4)     Guidelines are a disallowable instrument."
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Remission of land tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Remission of land tax",
+      "defined_term": null,
+      "structure_path": "Part 5--EXEMPTIONS, REMISSIONS AND CERTAIN INTEREST PAYMENTS > Section 35",
+      "text": "(1)     The Minister may remit the land tax, or part of the land tax, payable\nfor a parcel of land if the Minister is satisfied that it is fair and reasonable\nin the circumstances.\n     (2)     The Minister may make guidelines for the exercise of a function under\nthis section.\n     (3)     Guidelines are a disallowable instrument."
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Remission of interest The commissioner may, if the commissioner considers it appropriate in the circumstances, remit interest payable by a person in relation to land tax by any",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Remission of interest The commissioner may, if the commissioner considers it appropriate in the circumstances, remit interest payable by a person in relation to land tax by any",
+      "defined_term": null,
+      "structure_path": "Part 5--EXEMPTIONS, REMISSIONS AND CERTAIN INTEREST PAYMENTS > Section 36",
+      "text": "amount."
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Interest on refund",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Interest on refund",
+      "defined_term": null,
+      "structure_path": "Part 5--EXEMPTIONS, REMISSIONS AND CERTAIN INTEREST PAYMENTS > Section 37",
+      "text": "(1)     This section applies if the commissioner is satisfied\nthat--\n         (a)     an assessment of land tax payable for a parcel of land has been\nwrongly made because of an administrative error; and\n         (b)     because of the error, a person has overpaid land tax for the\nparcel.\n     (2)     The commissioner may pay interest to the owner of the\nparcel--\n         (a)     at the market rate component determined under the Taxation Administration Act\n, section 26; and\n         (b)     worked out from the date when the overpayment was made or a later date\nthe commissioner considers appropriate."
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Objections The following decisions of the commissioner are prescribed for the Taxation Administration Act , section 100 (Objection):",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Objections The following decisions of the commissioner are prescribed for the Taxation Administration Act , section 100 (Objection):",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 38",
+      "text": "(a)     a decision under section 11A (3) to refuse to exempt a parcel of land\nfrom land tax because the commissioner is not satisfied 2 people in a\ndomestic partnership have separated;\n         (b)     a decision under section 11E (1) to extend the period of exemption\nafter the death of an owner of a parcel of land for less than the period applied\nfor;\n         (c)     a decision under section 11E (1) to refuse to extend the period of\nexemption after the death of an owner of a parcel of land;\n         (d)     a decision under section 11E (4) to revoke an extension;\n         (e)     a decision under section 11F (3) to give permission subject to a\ncondition or refuse permission;\n         (f)     a decision under section 11I (1) to refuse to exempt a parcel of land\nfrom land tax because the commissioner is not satisfied the land is, or has\nbecome, unfit for occupation as a place of residence;\n         (g)     a decision under section 13 (1) (b) to refuse to exempt a parcel of\nland from land tax on compassionate grounds;\n         (h)     a decision under section 13 (5) revoking an exemption given on\ncompassionate grounds;\n               (i)     a decision under section 36 to refuse to remit interest payable by a\nperson in relation to land tax;\n         (j)     a decision under section 37 to refuse to pay interest on an\noverpayment or to pay interest other than from the date when the overpayment was\nmade.\nNote     Assessments are made under the Taxation Administration Act\n and objections may be made under that Act\n, s 100 (1) (a).  For example, if a person is given an assessment for land\ntax and the person is dissatisfied with the assessment because land tax was not\npayable in relation to the parcel of land, the person may object under that\nparagraph."
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Review of decisions by ACAT",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Review of decisions by ACAT",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 39",
+      "text": "(1)     This section applies to a determination by the commissioner of an\nobjection to a decision mentioned in section 38, other than a decision mentioned\nin section 38 (i).\n     (2)     The determination is prescribed for the Taxation Administration Act\n, section 107A (Meaning of reviewable decision etc--div\n10.2).\nNote      Applications for review by the ACAT may be made in relation to\na determination by the commissioner of a decision on an objection to an\nassessment."
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Working out amounts with fractions for Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Working out amounts with fractions for Act",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 40",
+      "text": "(1)     If an amount worked out under this Act contains a fraction of a cent,\nthe amount must be rounded to the nearest cent, with 1/2 a cent being\ndisregarded.\n     (2)     However, in working out the average unimproved value under\nsection 15 (3) (Multiple dwellings), section 16 (2) (Land partly owned by\ncorporation or trustee) or section 27 (4), (5) or (6) (Unit\nsubdivisions--land tax), any fraction of a dollar in the amount worked out\nmust be disregarded.\n     (3)     The Taxation Administration Act\n, section 123 (Adjustments of amounts) does not\napply in working out an amount under this Act."
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Certificate of land tax and other charges",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Certificate of land tax and other charges",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 41",
+      "text": "(1)     A relevant person for a parcel of land may apply to the commissioner\nfor a certificate of--\n         (a)     the land tax assessed to be payable under this Act for the parcel for\nthe current financial year; and\n         (b)     the land tax and other amounts immediately payable to the commissioner\nunder this Act in relation to the parcel.\n     (2)     The commissioner must give the applicant the certificate.\n     (3)     The certificate is conclusive proof for an honest buyer for value of\nthe parcel of land of the matters certified.\nNote     The certificate may include a certificate of amounts payable\nunder the Rates Act 2004\n in relation to the parcel (see Legislation Act\n, s 49).\n     (4)     For this section, land tax and other amounts are taken to be payable\nimmediately even if any necessary time after service of a notice has not\nended.\n     (5)     In this section:\n\"land tax\" includes a foreign ownership surcharge.\n\"relevant person\", for a parcel of land, means--\n         (a)     the owner of the parcel; or\n         (b)     a buyer who has entered into a contract to buy the parcel;\nor\n         (c)     a mortgagee of the parcel."
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Statement of amounts payable and payments made",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Statement of amounts payable and payments made",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 42",
+      "text": "(1)     A person may apply to the commissioner for a statement\nof--\n         (a)     the amounts that became payable to the commissioner under this Act in\nrelation to a parcel of land in a stated financial year; and\n         (b)     the payments received by the commissioner in the financial year for\namounts that became payable under this Act in relation to the parcel.\n     (2)     The commissioner must give the applicant the statement.\nNote     The statement may include a statement of rates payable and\nreceived under the Rates Act 2004\n in relation to the parcel of land (see Legislation Act\n, s 49)."
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Determination of fees",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Determination of fees",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 43",
+      "text": "(1)     The Minister may determine fees for this Act.\n     (2)     A determination is a disallowable instrument."
+    },
+    {
+      "key": "section:44.p1",
+      "title": "Section 44 - Regulation-making power The Executive may make regulations for this Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Regulation-making power The Executive may make regulations for this Act.",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 44",
+      "text": "- NOTES Dictionary Dictionary (see s 3) Note 1 The Legislation Act contains definitions and other provisions relevant to this Act. Note 2 For example, the Legislation Act , dict, pt 1 defines the following terms: o ACAT o Australia o commissioner for revenue o corporation o domestic partnership (see s 169 (2)) o external territory o financial year o function o interest o month o person (see s 160) o quarter o territory law o under. \"associated person\"--see the Duties Act 1999 , section 77A. \"Australian citizen\", for part 2A (Foreign ownership surcharge)--see section 17A. \"commissioner \"means the commissioner for revenue. \"foreign corporation\", for part 2A (Foreign ownership surcharge)--see section 17B. \"foreign individual\", for part 2A (Foreign ownership surcharge)--see section 17A. \"foreign ownership surcharge\" includes-- (a) penalty tax; and (b) the total of-- (i) the costs and expenses reasonably incurred by the Territory in attempting to recover the foreign ownership surcharge; and (ii) interest payable in relation to the foreign ownership surcharge. \"foreign person\", for part 2A (Foreign ownership surcharge)--see section 17A. \"foreign trust\", for part 2A (Foreign ownership surcharge)--see section 17C. \"land sublease\"--see the Planning Act 2023 , dictionary. \"land tax--\" (a) for this Act generally, includes-- (i) penalty tax; and (ii) the total of-- (A) the costs and expenses reasonably incurred by the Territory in attempting to recover the land tax; and (B) interest payable in relation to the land tax; and (b) for part 3 (Enforcement)--see section 18A; and (c) for part 5 (Exemptions, remissions and certain interest payments)--see section 33. \"lease\" means a lease from the Commonwealth or the Territory, and includes an agreement with the Commonwealth or the Territory-- (a) for a lease of a parcel of land; or (b) for the tenancy or occupation of a parcel of land. \"owner\", of a parcel of land means-- (a) the registered proprietor of an interest in the parcel (other than an interest in a lease granted by a person other than the Territory or the Commonwealth); or (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the parcel but not yet registered as the proprietor--the new owner; or (c) a mortgagee in possession of the parcel; or (d) a person holding the parcel under a sublease from the Territory, if the Territory holds the parcel under a lease from the Commonwealth; or (e) for a parcel held under a land sublease--the sublessee. \"owners corporation\"--see the Unit Titles (Management) Act 2011 , dictionary. \"parcel\" includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner. \"permanent resident\", for part 2A (Foreign ownership surcharge)--see section 17A. \"personal representative\", in relation to a deceased person, means-- (a) an executor of the deceased person's will; or (b) an administrator of the deceased person's estate. \"primary production\" means-- (a) production resulting directly from-- (i) cultivation of land; or (ii) keeping animals for their sale, bodily produce or natural increase; or (iii) fishing operations; or (iv) forest operations; and (b) the manufacture of dairy produce by the person who produced the raw material used in that manufacture. \"rateable land\"--see the Rates Act 2004 , section 8. \"rates\"--see the Rates Act 2004 , dictionary. \"rent\", for part 2 (Imposition and payment of land tax)--see section 7. \"rented\", for part 2 (Imposition and payment of land tax)--see section 8. \"residential land\" means-- (a) rateable land leased for residential purposes only; or (b) rateable land leased for residential purposes and other purposes but used for residential purposes only; or (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001 , if-- (i) at least 1 parcel of land in the scheme is residential land under paragraph (a) or (b); and (ii) no parcel of land in the scheme is leased for a commercial purpose. \"Taxation Administration Act\" means the Taxation Administration Act 1999 . \"tenancy agreement\", for part 2 (Imposition and payment of land tax)--see section 7. \"tenant\", for part 2 (Imposition and payment of land tax)--see section 7. \"trustee\", for part 2 (Imposition and payment of land tax)--see section 7. \"unit\" means a unit under the Unit Titles Act , section 9. \"unit owner\" means-- (a) the registered proprietor of the lease of a unit; or (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the unit but not yet registered as the proprietor--the new owner. \"unit subdivision\"--see the Rates Act 2004 ,"
+    },
+    {
+      "key": "section:44.p2",
+      "title": "Section 44 - Regulation-making power The Executive may make regulations for this Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Regulation-making power The Executive may make regulations for this Act.",
+      "defined_term": null,
+      "structure_path": "Part 6--MISCELLANEOUS > Section 44",
+      "text": "of land tax)--see section 7. \"tenant\", for part 2 (Imposition and payment of land tax)--see section 7. \"trustee\", for part 2 (Imposition and payment of land tax)--see section 7. \"unit\" means a unit under the Unit Titles Act , section 9. \"unit owner\" means-- (a) the registered proprietor of the lease of a unit; or (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the unit but not yet registered as the proprietor--the new owner. \"unit subdivision\"--see the Rates Act 2004 , dictionary. \"Unit Titles Act\" means the Unit Titles Act 2001 . - NOTES Endnotes"
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Notes",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Notes",
+      "defined_term": null,
+      "structure_path": "Part 1--PRELIMINARY > Section 4",
+      "text": ""
+    }
+  ]
+}

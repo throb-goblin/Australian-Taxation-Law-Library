@@ -1,0 +1,1283 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/num_act/fla1975114/",
+    "register_url": "https://www.legislation.gov.au/C2004A00275/latest/text",
+    "source": "Family Law Act 1975 (100000053).txt",
+    "filename": "Family Law Act 1975 (100000053).json",
+    "name": "Family Law Act 1975",
+    "citation": "Family Law Act 1975"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title.",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 1",
+      "text": "1. This Act may be cited as the Family Law Act 1975.*\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement.",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 2",
+      "text": "2. This Act shall come into operation on a date to be fixed by\nProclamation.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Repeal and saving.",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Repeal and saving.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 3",
+      "text": "3. (1) The Matrimonial Causes Act 1959, the Matrimonial Causes Act 1965 and\nthe Matrimonial Causes Act 1966 are repealed.\n  (2) Notwithstanding the repeal effected by sub-section (1)-\n  (a)  the validity of a decree made before the commencement of the\nMatrimonial Causes Act 1959 by virtue of the Imperial Act entitled the\nMatrimonial Causes (War Marriages) Act, 1949 or Part I of the Matrimonial\nCauses (War Marriages) Act 1947 of New Zealand and in force immediately before\nthe commencement of this Act shall continue to be recognized in all courts in\nAustralia;\n  (b)  a decree of the Supreme Court of a State or Territory made before the\ncommencement of the Matrimonial Causes Act 1959 in the exercise of\njurisdiction invested or conferred by the Matrimonial Causes Act 1945, or that\nAct as amended by the Matrimonial Causes Act 1955, and in force immediately\nbefore the commencement of this Act shall continue to have effect throughout\nAustralia; and\n  (c)  a decree of the Supreme Court, or of a court of summary jurisdiction,\nof a State or Territory-\n      (i)  made before the commencement of this Act in the exercise of\njurisdiction invested or conferred by the repealed Act, or in a matrimonial\ncause or proceedings for a separation order instituted under the law of that\nState or Territory, being a decree that was in force immediately before the\ncommencement of this Act; or\n     (ii)  made after the commencement of this Act in proceedings to which\nsub-section 9 (1) applied,\n    shall have, or continue to have, effect throughout Australia, and, except\nin the case of-\n     (iii)  a decree of nullity of marriage made on the ground that the\nmarriage was voidable;\n     (iv)  a decree of judicial separation;\n     (v)  a decree of restitution of conjugal rights;\n     (vi)  a decree of jactitation of marriage; or\n    (vii)  a separation order,\n    this Act applies to and in relation to the decree as if the decree had\nbeen made under this Act.\n  (3) For the purposes of paragraph (2) (c), a purported decree to which\nsection 5 of the Matrimonial Causes Act 1971 applies made in a State shall be\ndeemed to be a decree of the Supreme Court of that State made in the exercise\nof jurisdiction invested by the repealed Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:4.p1",
+      "title": "Section 4 - Interpretation.",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Interpretation.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 4",
+      "text": "4. (1) In this Act, unless the contrary intention appears- ''adopted'', in relation to a child, means adopted under the law of any place (whether in or out of Australia) relating to the adoption of children; ''appeal'' includes an application for a re-hearing; ''applicant'' includes a cross-applicant and, in relation to proceedings for dissolution of marriage instituted before the commencement of this Act, includes a petitioner or cross-petitioner; ''approved'', in relation to a marriage counselling organization, means approved by the Attorney-General in pursuance of section 12; ''Australia'' includes Norfolk Island; ''court'', in relation to any proceedings, means the court exercising jurisdiction in those proceedings by virtue of this Act; ''court of summary jurisdiction'' includes a Family Court of a State or Territory, not being a court that may be constituted by a Judge of the Supreme Court of a State or Territory; ''decree'' means decree, judgment or order, and includes a decree nisi and an order dismissing an application or refusing to make a decree or order; ''Family Court'' means the Family Court of Australia; ''financial matters'', in relation to the parties to a marriage, means matters with respect to- (a) the maintenance of one of the parties; (b) the property of those parties or of either of them; or (c) the maintenance of children of the marriage; ''financial or custodial proceedings'' means proceedings (being, unless the context otherwise requires, proceedings under this Act) of a kind referred to in paragraph (c), (d) or (e) of the definition of ''matrimonial cause'' in this sub-section; ''made'', in relation to a decree, being a judgment, means given, and ''make'' has a corresponding meaning; ''maintenance agreement'' means an agreement in writing made, whether before or after the commencement of this Act, between the parties to a marriage, being an agreement that makes provision with respect to financial matters, whether or not there are other parties to the agreement and whether or not it also makes provision with respect to other matters, and includes such an agreement that varies an earlier maintenance agreement; ''marriage counsellor'' means- (a) a person appointed as a counsellor under section 37; (b) a person authorized by an approved marriage counselling organization to offer marriage counselling on behalf of the organization; or (c) a person authorized under the regulations to offer marriage counselling; ''matrimonial cause'' means- (a) proceedings between the parties to a marriage for a decree of- (i) dissolution of marriage; or (ii) nullity of marriage; (b) proceedings for a declaration as to the validity of a marriage or of the dissolution or annulment of a marriage by decree or otherwise; (c) proceedings with respect to- (i) the maintenance of one of the parties to a marriage; (ii) the property of the parties to a marriage or of either of them; or (iii) the custody, guardianship or maintenance of, or access to, a child of a marriage; (d) proceedings between the parties to a marriage for the approval by a court of a maintenance agreement or for the revocation of such an approval or for the registration of a maintenance agreement; (e) proceedings for an order or injunction in circumstances arising out of a marital relationship; or (f) any other proceedings (including proceedings with respect to the enforcement of a decree or the service of process) in relation to concurrent, pending or completed proceedings of a kind referred to in any of paragraphs (a) to (e), including proceedings of such a kind pending at, or completed before, the commencement of this Act; ''ordinarily resident'' includes habitually resident; ''overseas maintenance agreement'' means a maintenance agreement that has force and effect in a prescribed overseas country by reason of the registration of the agreement, or the taking of any other action in relation to the agreement, under the law of that country and includes an agreement with respect to the maintenance of an ex-nuptial child that would be covered by the foregoing provisions of this definition if the child were a child of the marriage of the parties to the agreement; ''prescribed overseas country'' means New Zealand or any other country outside Australia that is declared by the regulations to be a prescribed overseas country for the purposes of the provision in which the expression is used; ''proceedings'' means a proceeding in a court, whether between parties or not, and includes cross-proceedings or an incidental proceeding in the course of or in connexion with a proceeding; ''proceedings for principal relief'' means proceedings under this Act of a kind referred to in paragraph (a) or (b) of the definition of ''matrimonial cause'' in this sub-section; ''property'', in relation to the"
+    },
+    {
+      "key": "section:4.p2",
+      "title": "Section 4 - Interpretation.",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Interpretation.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 4",
+      "text": "country'' means New Zealand or any other country outside Australia that is declared by the regulations to be a prescribed overseas country for the purposes of the provision in which the expression is used; ''proceedings'' means a proceeding in a court, whether between parties or not, and includes cross-proceedings or an incidental proceeding in the course of or in connexion with a proceeding; ''proceedings for principal relief'' means proceedings under this Act of a kind referred to in paragraph (a) or (b) of the definition of ''matrimonial cause'' in this sub-section; ''property'', in relation to the parties to a marriage or either of them, means property to which those parties are, or that party is, as the case may be, entitled, whether in possession or reversion; ''Registrar'', in relation to a court, means the Registrar, Master or other proper officer of that court; ''repealed Act'' means the Matrimonial Causes Act 1959 and includes that Act as amended at any time; ''separation order'' means a decree, not being a decree of dissolution or nullity of marriage or for a judicial separation, having the effect of relieving a party to a marriage from any obligation to cohabit with the other party to the marriage; ''Territory'' does not include an external Territory other than Norfolk Island; ''welfare officer'' means- (a) a person appointed as a welfare officer under section 37; (b) a person who is permanently or temporarily employed as a welfare officer in the Australian Public Service or in the Public Service of a Territory; (c) a person who is permanently or temporarily employed as a welfare officer in the Public Service of a State and whose services have been made available for the purposes of this Act in pursuance of an arrangement between the Government of Australia and the Government of the State; (d) a person nominated by an organization concerned with the welfare of children, being an organization that has been approved by the Attorney-General; or (e) a person appointed as a welfare officer in accordance with the regulations. (2) A reference in this Act to a party to a marriage includes a reference to a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere. (3) In ascertaining the domicile of a party to a marriage for the purposes of this Act- (a) a person's domicile at any time (whether before or after the commencement of this Act) in any country, howsoever acquired, shall be deemed to have continued, or to continue, until the acquisition by that person of a domicile of choice in another country; (b) the domicile of a woman who is, or has at any time been, married shall be determined as if she had never been married; and (c) a person who has attained the age of 18 years, or a person who has not attained that age but is, or has at any time been, married, has, and shall be deemed to have had at all times since that person attained that age or became married, the capacity to acquire a domicile of choice. FAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:5",
+      "title": "Section 5 - Certain children deemed to be children of a marriage.",
+      "main_structural_unit": "section",
+      "main_structural_number": "5",
+      "main_structural_heading": "Certain children deemed to be children of a marriage.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 5",
+      "text": "5. (1) For the purposes of the application of this Act in relation to a\nmarriage-\n  (a)  a child adopted since the marriage by the husband and wife or by either\nof them with the consent of the other;\n  (b)  a child of the husband and wife born before the marriage; and\n  (c)  a child of either the husband or wife (including an ex-nuptial child of\neither of them and a child adopted by either of them) if, at the relevant\ntime, the child was ordinarily a member of the household of the husband and\nwife,\nshall be deemed to be a child of the marriage, and a child of the husband and\nwife (including a child born before the marriage) who has been adopted by\nanother person or other persons shall be deemed not to be a child of the\nmarriage.\n  (2) For the purposes of sub-section (1), in relation to any proceedings the\nrelevant time is-\n  (a)  the time immediately preceding the time when the husband and wife\nseparated or, if they have separated on more than one occasion, the time\nimmediately preceding the time when they last separated before the institution\nof the proceedings; or\n  (b)  if the husband and wife were living together at the time when the\nproceedings were instituted, the time immediately preceding the institution of\nthe proceedings.\n  (3) The provisions of sub-sections (1) and (2) apply in relation to a\npurported marriage that is void as if the purported marriage were a marriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:6",
+      "title": "Section 6 - Polygamous marriages.",
+      "main_structural_unit": "section",
+      "main_structural_number": "6",
+      "main_structural_heading": "Polygamous marriages.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 6",
+      "text": "6. For the purpose of proceedings under this Act, a union in the nature of a\nmarriage which is, or has at any time been, polygamous, being a union entered\ninto in a place outside Australia, shall be deemed to be a marriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:7",
+      "title": "Section 7 - Extension of Act to Norfolk Island.",
+      "main_structural_unit": "section",
+      "main_structural_number": "7",
+      "main_structural_heading": "Extension of Act to Norfolk Island.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 7",
+      "text": "7. This Act extends to Norfolk Island.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:8",
+      "title": "Section 8 - Supersession of existing laws.",
+      "main_structural_unit": "section",
+      "main_structural_number": "8",
+      "main_structural_heading": "Supersession of existing laws.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 8",
+      "text": "8. (1) After the commencement of this Act-\n  (a)  proceedings by way of a matrimonial cause shall not be instituted\nexcept under this Act; and\n  (b)  proceedings by way of a matrimonial cause instituted before the\ncommencement of this Act shall not be continued except in accordance with Section 9.\n  (2) Proceedings for a decree of restitution of conjugal rights, of\njactitation of marriage or of judicial separation shall not be instituted or\ncontinued after the commencement of this Act.\n  (3) Proceedings for a separation order shall not be instituted after the\ncommencement of this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:9",
+      "title": "Section 9 - Transitional.",
+      "main_structural_unit": "section",
+      "main_structural_number": "9",
+      "main_structural_heading": "Transitional.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 9",
+      "text": "9. (1) Subject to sub-section (2), pending proceedings for a decree of\ndissolution of marriage or for a decree of nullity of marriage on the ground\nthat the marriage is voidable, and pending proceedings for a separation order,\nmay be continued and shall be dealt with as if this Act had not been passed.\n  (2) Where the parties have lived separately and apart for a continuous\nperiod of not less than 12 months immediately preceding the date of\ncommencement of this Act, pending proceedings for a decree of dissolution of\nmarriage shall, if the applicant so requests, be dealt with as if they were\nproceedings instituted under this Act on the ground referred to in section 48,\nand, in relation to proceedings in which such a request is made, sub-section"
+    },
+    {
+      "key": "section:48",
+      "title": "Section 48 - (2) has effect as if the proceedings for dissolution of marriage had been",
+      "main_structural_unit": "section",
+      "main_structural_number": "48",
+      "main_structural_heading": "(2) has effect as if the proceedings for dissolution of marriage had been",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 48",
+      "text": "instituted by an application filed on the date of commencement of this Act.\n  (3) Pending proceedings for a decree of nullity of marriage on the ground\nthat the marriage is void or proceedings of a kind referred to in paragraph\n        (b) of the definition of ''matrimonial cause'' in sub-section 4 (1) may be\ncontinued and shall be dealt with as if they were proceedings instituted under\nthis Act.\n  (4) Pending proceedings constituting a matrimonial cause, not being\nproceedings for principal relief, whether instituted under the repealed Act or\nunder the law of a State or Territory, may be continued and shall be dealt\nwith as if they were proceedings instituted under this Act.\n  (5) Sub-section 117 (1) does not apply to proceedings continued and dealt\nwith under this section.\n  (6) Where, in any proceedings constituting a matrimonial cause, a decree has\nbeen made before the commencement of this Act-\n  (a)  any appeal in respect of that decree may be continued or instituted;\n  (b)  any new trial or re-hearing ordered upon the hearing of such an appeal,\nor upon an appeal heard before the commencement of this Act, may be had and\ncompleted; and\n  (c)  any decree may be made upon any such appeal, new trial or re-hearing,\nand, if a decree so made is a decree nisi, the decree may become absolute,\nas if this Act had not been passed.\n  (7) Where, in any proceedings constituting a matrimonial cause, a decree\nnisi was made before the commencement of this Act but did not become absolute\nbefore that date, the decree becomes absolute upon-\n  (a)  the expiration of 1 month from the date of making of the decree;\n  (b)  the expiration of 1 month from the date of making of a relevant order\nunder sub-section 71 (1) of the repealed Act or section 63 of this Act; or\n  (c)  the date of commencement of this Act,\nwhichever is the latest.\n  (8) The law to be applied, and the practice and the procedure to be\nfollowed, in and in relation to pending proceedings that are continued as if\nthis Act had not been passed shall be the same as if this Act had not been\npassed.\n  (9) In this section-\n  ''appeal'' includes-\n     (a)  an application for leave or special leave to appeal;\n     (b)  an application for a new trial or for a re-hearing; and\n     (c)  an intervention;\n  ''pending proceedings'' means proceedings that were instituted before the\ndate of commencement of this Act but were not completed before that date.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:10",
+      "title": "Section 10 - Child welfare law not affected.",
+      "main_structural_unit": "section",
+      "main_structural_number": "10",
+      "main_structural_heading": "Child welfare law not affected.",
+      "defined_term": null,
+      "structure_path": "Part I-PRELIMINARY > Section 10",
+      "text": "10. (1) Subject to sub-section (3), a court shall not make an order under\nPart VII or Part VIII for the maintenance, custody or guardianship of-\n  (a)  a child who, under the law of a State, is a ward of the State or a\nState child or is under the care and control of a Minister of State of the\nState; or\n  (b)  a child who has a similar status under a law of a Territory.\n  (2) Nothing in this Act, and no decree under this Act, affects-\n  (a)  the jurisdiction of a court, or the power of an authority, under a law\nof a State to make an order, or take any other action, whereby a child becomes\na ward of the State or a State child, or is placed under the care and control\nof a Minister of State of a State or any similiar jurisdiction or power under\na law of a Territory;\n  (b)  any such order made, or action taken, or the operation, in respect of a\nchild in relation to whom any such order has been made or action taken, of the\nlaw under which the order was made or action taken;\n  (c)  the jurisdiction of a court under a law of a State or Territory to make\nan order in respect of the maintenance of a child referred to in sub-section\n(1) in favour of an officer or authority of the State or Territory performing\nfunctions in relation to the welfare of children; or\n  (d)  an order of a kind referred to in paragraph (c) made by a court.\n  (3) The Family Court or the Supreme Court of a State or Territory may make\nan order referred to in sub-section (1) if it is satisfied that there are\nspecial circumstances that justify the making of the order.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:11",
+      "title": "Section 11 - Grants to approved marriage counselling organizations.",
+      "main_structural_unit": "section",
+      "main_structural_number": "11",
+      "main_structural_heading": "Grants to approved marriage counselling organizations.",
+      "defined_term": null,
+      "structure_path": "Part II-MARRIAGE COUNSELLING ORGANIZATIONS > Section 11",
+      "text": "11. The Attorney-General may, from time to time, out of moneys appropriated\nby the Parliament for the purposes of this Part, grant to an approved marriage\ncounselling organization, upon such conditions as he thinks fit, such sums by\nway of financial assistance as he determines.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:12",
+      "title": "Section 12 - Approval of marriage counselling organizations.",
+      "main_structural_unit": "section",
+      "main_structural_number": "12",
+      "main_structural_heading": "Approval of marriage counselling organizations.",
+      "defined_term": null,
+      "structure_path": "Part II-MARRIAGE COUNSELLING ORGANIZATIONS > Section 12",
+      "text": "12. (1) A voluntary organization may apply to the Attorney-General for\napproval under this Part as a marriage counselling organiz- ation.\n  (2) The Attorney-General may approve any such organization as a marriage\ncounselling organization where he is satisfied that-\n  (a)  the organization is willing and able to engage in marriage counselling;\nand\n  (b)  marriage counselling constitutes or will constitute the whole or the\nmajor part of its activities.\n  (3) The approval of an organization under this section may be given subject\nto such conditions as the Attorney-General determines.\n  (4) Where the approval of an organization has been given subject to\nconditions, the Attorney-General may, from time to time, revoke or vary all or\nany of those conditions or add further conditions.\n  (5) An approval of a voluntary organization under Part II of the repealed\nAct shall be deemed to be an approval under this section.\n  (6) The Attorney-General may, at any time, revoke the approval of an\norganization where-\n  (a)  the organization has not complied with a condition of the approval of\nthe organization;\n  (b)  the organization has not furnished, in accordance with section 13, a\nstatement or report that the organization was required by that section to\nfurnish; or\n  (c)  the Attorney-General is satisfied that the organization is not\nadequately carrying out marriage counselling.\n  (7) Notice of the approval of an organization under this section, and of the\nrevocation of such an approval, shall be published in the Gazette.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:13",
+      "title": "Section 13 - Reports and financial statements of approved marriage counselling organizations.",
+      "main_structural_unit": "section",
+      "main_structural_number": "13",
+      "main_structural_heading": "Reports and financial statements of approved marriage counselling organizations.",
+      "defined_term": null,
+      "structure_path": "Part II-MARRIAGE COUNSELLING ORGANIZATIONS > Section 13",
+      "text": "13. (1) An approved marriage counselling organization shall, not later than\nSection 30 September in each year, furnish to the Attorney-General, in respect of the\nperiod of 12 months that ended on 30 June in that year-\n  (a)  an audited financial statement of the receipts and payments of the\norganization, in which receipts and payments in respect of its marriage\ncounselling activities are shown separately from other receipts and payments;\nand\n  (b)  a report on its marriage counselling activities, including information\nas to the number of cases dealt with by the organization during the year.\n  (2) Where the Attorney-General is satisfied that it would be impracticable\nfor an organization to comply with the requirements of sub- section (1) or\nthat the application of those requirements to an organiz- ation would be\nunduly onerous, he may, by writing under his hand, exempt the organization,\nwholly or in part, from those requirements.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:14",
+      "title": "Section 14 - Conciliation.",
+      "main_structural_unit": "section",
+      "main_structural_number": "14",
+      "main_structural_heading": "Conciliation.",
+      "defined_term": null,
+      "structure_path": "Part III-COUNSELLING AND RECONCILIATION > Section 14",
+      "text": "14. (1) Where proceedings for a dissolution of marriage have been\ninstituted, or financial or custodial proceedings have been instituted by a\nparty to a subsisting marriage, it is the duty of the Judge or magistrate\nconstituting the court and of every legal practitioner representing a party to\ngive consideration, from time to time, to the possibility of a reconciliation\nof the parties.\n  (2) If, in such proceedings, it appears at any time to the Judge or\nmagistrate from the evidence in the proceedings or the attitude of the\nparties, or of either of them, that there is a reasonable possibility of such\na reconciliation, the Judge or magistrate may-\n  (a)  adjourn the proceedings to afford the parties an opportunity to\nconsider a reconciliation;\n  (b)  with the consent of those parties, interview them in chambers, with or\nwithout counsel, as the Judge thinks proper, with a view to effecting a\nreconciliation; and\n  (c) if he thinks it desirable to do so, nominate-\n      (i)  a marriage counsellor or an approved marriage counselling\norganization; or\n     (ii)  in special circumstances, some other suitable person or\norganization,\n    to assist those parties in considering a reconciliation.\n  (3) If, after an adjournment under sub-section (2) has taken place, either\nof the parties requests that the hearing be proceeded with, the Judge or\nmagistrate shall resume the hearing as soon as practicable.\n  (4) Where the court makes an order or grants an injunction under section\n114, the court shall, if it is of opinion that it is in the interests of the\nparties or of the children of the marriage to do so, direct or advise either\nor both of the parties to attend upon a marriage counsellor, but failure to\ncomply with such direction or advice does not constitute a contempt of the\ncourt.\n  (5) Where a court having jurisdiction under this Act is of the opinion that\ncounselling may assist the parties to a marriage to improve their relationship\nto each other and to any child of the marriage, it may advise the parties to\nattend upon a marriage counsellor or an approved marriage counselling\norganization and, if it thinks it desirable to do so, adjourn any proceedings\nbefore it to enable the attendance.\n  (6) Where it appears from an application for dissolution of a marriage that\nthe parties have been married for less than 2 years preceding the date of\nfiling of the application, the court shall not hear the proceedings unless the\ncourt is satisfied that-\nmarriage counsellor, an approved marriage counselling organization or some\nother suitable person or organization nominated by the Director of Counselling\nand Welfare; or\n  (b)  there are special circumstances by reason of which the hearing should\nproceed.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:15",
+      "title": "Section 15 - Notice seeking counselling.",
+      "main_structural_unit": "section",
+      "main_structural_number": "15",
+      "main_structural_heading": "Notice seeking counselling.",
+      "defined_term": null,
+      "structure_path": "Part III-COUNSELLING AND RECONCILIATION > Section 15",
+      "text": "15. (1) A party to a marriage may file in the Family Court a notice stating\nthat he or she intends to seek the assistance of the counselling facilities of\nthe Family Court.\n  (2) Where such a notice is filed, the Director of Counselling and Welfare of\nthe Family Court may arrange for the parties to the marriage to be interviewed\nby a marriage counsellor for the purpose of assisting the parties with a view\nto a reconciliation or the improvement of their relationship to each other and\nto the children of the marriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:16",
+      "title": "Section 16 - Advice as to counselling.",
+      "main_structural_unit": "section",
+      "main_structural_number": "16",
+      "main_structural_heading": "Advice as to counselling.",
+      "defined_term": null,
+      "structure_path": "Part III-COUNSELLING AND RECONCILIATION > Section 16",
+      "text": "16. (1) The Director of Counselling and Welfare of the Family Court may\nadvertise the existence and availability of the counselling and welfare\nfacilities of the Family Court and of other courts having jurisdiction under\nthis Act.\n  (2) A party to a marriage may seek the assistance of the counselling\nfacilities of the Family Court and when such assistance is sought the Director\nof Counselling and Welfare shall, as far as practicable, make those facilities\navailable.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:17",
+      "title": "Section 17 - Provision of certain documents.",
+      "main_structural_unit": "section",
+      "main_structural_number": "17",
+      "main_structural_heading": "Provision of certain documents.",
+      "defined_term": null,
+      "structure_path": "Part III-COUNSELLING AND RECONCILIATION > Section 17",
+      "text": "17. The regulations shall provide for the furnishing to persons proposing to\ninstitute proceedings under this Act, and in appropriate cases to their\nspouses, of documents setting out-\n  (a)  the legal and possible social effects of the proposed proceedings\n(including the consequences for the children of the marriage); and\n  (b)  the counselling and welfare facilities available within the Family\nCourt and elsewhere.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:18",
+      "title": "Section 18 - Admissions made to marriage counsellors, &c.",
+      "main_structural_unit": "section",
+      "main_structural_number": "18",
+      "main_structural_heading": "Admissions made to marriage counsellors, &c.",
+      "defined_term": null,
+      "structure_path": "Part III-COUNSELLING AND RECONCILIATION > Section 18",
+      "text": "18. (1) This section applies to-\n  (a)  a marriage counsellor;\n  (b)  a person nominated, or acting on behalf of an organization nominated,\nin accordance with sub-paragraph 14 (2) (c) (ii); or\n  (c)  a person to whom a party to a marriage has been referred by a marriage\ncounsellor, or by a person referred to in paragraph (b), for medical or other\nprofessional consultation.\n  (2) Evidence of anything said or of any admission made at a conference with\na person to whom this section applies acting in the capacity referred to in\nsub-section(1) is not admissible in any court (whether exercising federal\njurisdiction or not) or in proceedings before a person authorized by a law of\nAustralia or of a State or Territory, or by consent of parties, to hear\nevidence.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:19",
+      "title": "Section 19 - Oath or affirmation of secrecy.",
+      "main_structural_unit": "section",
+      "main_structural_number": "19",
+      "main_structural_heading": "Oath or affirmation of secrecy.",
+      "defined_term": null,
+      "structure_path": "Part III-COUNSELLING AND RECONCILIATION > Section 19",
+      "text": "19. (1) A marriage counsellor shall, before entering upon the performance of\nhis functions as such a counsellor, make before a person authorized under the\nlaw of Australia or of a State or a Territory to take affidavits, an oath or\naffirmation of secrecy in accordance with the prescribed form.\n  (2) A marriage counsellor who has made an oath or affirmation of secrecy\nunder the repealed Act shall be deemed to have made an oath or affirmation\nunder this section.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:20",
+      "title": "Section 20 - Interpretation.",
+      "main_structural_unit": "section",
+      "main_structural_number": "20",
+      "main_structural_heading": "Interpretation.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 20",
+      "text": "20. In this Part, unless the contrary intention appears-\n  ''Chief Judge'' means the Chief Judge of the Court, and includes a Senior\nJudge for the time being performing the duties and exercising the powers of\nthe Chief Judge;\n  ''Court'' means the Family Court of Australia;\n  ''Full Court'' means the Family Court when constituted by three or more\nJudges or when constituted in accordance with sub-section 28 (4);\n  ''Judge'' means a Judge of the Family Court (including the Chief Judge or a\nSenior Judge).\nFAMILY LAW ACT 1975 no. 53 of 1975"
+    },
+    {
+      "key": "section:21",
+      "title": "Section 21 - Creation of Court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "21",
+      "main_structural_heading": "Creation of Court.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 21",
+      "text": "21. (1) A court, to be known as the Family Court of Australia, is created by\nthis Act.\n  (2) The Court is a superior court of record.\n  (3) The Court consists of a Chief Judge and of Senior Judges and other\nJudges, not exceeding 6 in total, or such greater number as may be prescribed\nby regulations from time to time.\n  (4) Regulations made pursuant to sub-section (3) shall take effect at the\nexpiration of 7 sitting days after the regulations have been laid before each\nHouse of the Parliament.\nFAMILY LAW ACT 1975 no. 53 of 1975"
+    },
+    {
+      "key": "section:22",
+      "title": "Section 22 - Appointment, removal and resignation of Judges.",
+      "main_structural_unit": "section",
+      "main_structural_number": "22",
+      "main_structural_heading": "Appointment, removal and resignation of Judges.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 22",
+      "text": "22. (1) A Judge-\n  (a)  shall be appointed by the Governor-General; and\n  (b)  shall not be removed except by the Governor-General, on an address from\nboth Houses of the Parliament in the same session praying for his removal on\nthe grounds of proved misbehaviour or incapacity.\n  (2) A person shall not be appointed as a Judge unless-\n  (a)  he is or has been a Judge of another court created by the Parliament or\nof a court of a State or has been enrolled as a legal practitioner of the High\nCourt or of the Supreme Court of a State or Territory for not less than 5\nyears; and\n  (b)  by reason of training, experience and personality, he is a suitable\nperson to deal with matters of family law.\n  (3) A Judge may resign his office by writing under his hand addressed to the\nGovernor-General, and the resignation takes effect on the day on which it is\nreceived by the Governor-General or on such later day as is specified in the\nwriting.\n  (4) A Judge or former Judge is entitled to be styled ''The Honourable''.\nFAMILY LAW ACT 1975 no. 53 of 1975"
+    },
+    {
+      "key": "section:23",
+      "title": "Section 23 - Seniority.",
+      "main_structural_unit": "section",
+      "main_structural_number": "23",
+      "main_structural_heading": "Seniority.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 23",
+      "text": "23. (1) The Chief Judge is senior to all other Judges of the Court.\n  (2) The Senior Judges have seniority next to the Chief Judge according to\nthe dates on which their appointments as Senior Judges took effect.\n  (3) Where, by reason of the fact that two or more commissions of appointment\ntook effect on the same day, the foregoing provisions do not determine\nseniority between the Senior Judges appointed by those commissions, those\nJudges have such seniority in relation to each other as is assigned to them by\nthe Governor-General.\nFAMILY LAW ACT 1975 no. 53 of 1975"
+    },
+    {
+      "key": "section:24",
+      "title": "Section 24 - Absence or illness of Chief Judge.",
+      "main_structural_unit": "section",
+      "main_structural_number": "24",
+      "main_structural_heading": "Absence or illness of Chief Judge.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 24",
+      "text": "24. Whenever-\n  (a)  the Chief Judge is absent from Australia or from duty; or\n  (b)  there is a vacancy in the office of Chief Judge,\nthe next senior Judge who is in Australia and is available and willing to do\nso shall perform the duties and may exercise the powers of the Chief Judge.\nFAMILY LAW ACT 1975 no. 53 of 1975"
+    },
+    {
+      "key": "section:25",
+      "title": "Section 25 - Salary and allowances.",
+      "main_structural_unit": "section",
+      "main_structural_number": "25",
+      "main_structural_heading": "Salary and allowances.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 25",
+      "text": "25. (1) The Chief Judge shall receive salary at the rate of $31,450 a year\nand an annual allowance at the rate of $1,750 a year.\n  (2) Each Senior Judge shall receive salary at the rate of $29,250 a year and\nan annual allowance at the rate of $1,250.\n  (3) Each other Judge shall receive salary at the rate of $25,000 a year and\nan annual allowance at the rate of $1,200 a year.\n  (4) The salary and annual allowances of the Judges accrue from day to day\nand are payable monthly.\n  (5) A Judge shall be paid such other allowances as are prescribed.\nFAMILY LAW ACT 1975 no. 53 of 1975"
+    },
+    {
+      "key": "section:26",
+      "title": "Section 26 - Oath or affirmation of allegiance and of office.",
+      "main_structural_unit": "section",
+      "main_structural_number": "26",
+      "main_structural_heading": "Oath or affirmation of allegiance and of office.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 26",
+      "text": "26. A Judge shall, before proceeding to discharge the duties of his office,\ntake, before the Chief Justice or a Justice of the High Court of Australia or\na Judge of the Family Court or of another court created by the Parliament, an\noath or affirmation of allegiance in the form in the Schedule to the\nConstitution, and also an oath or affirmation in the following form:-\n  ''I, . . . . . . , do swear that I will well and truly serve in the office\nof (Chief Judge, Senior Judge or Judge, as the case may be) of the Family\nCourt of Australia and that I will do right to all manner of people according\nto law, without fear or favour, affection or ill-will, So help me God.''\n                                        or\n  ''I, . . . . . , do solemnly and sincerely promise and declare that . . .''\n(as above, omitting the words ''So help me God'').\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:27",
+      "title": "Section 27 - Place of sitting.",
+      "main_structural_unit": "section",
+      "main_structural_number": "27",
+      "main_structural_heading": "Place of sitting.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 27",
+      "text": "27. Sittings of the Court shall be held from time to time as required at the\nplaces at which the Registries of the Court are established, but the Court may\nsit at any place in Australia.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:28",
+      "title": "Section 28 - Exercise of jurisdiction.",
+      "main_structural_unit": "section",
+      "main_structural_number": "28",
+      "main_structural_heading": "Exercise of jurisdiction.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 28",
+      "text": "28. (1) The original jurisdiction of the Court may be exercised by one or\nmore Judges.\n  (2) The jurisdiction of the Court in an appeal from a court of summary\njurisdiction may be exercised by one or more Judges.\n  (3) The jurisdiction of the Court in an appeal from a Judge of the Court or\nof the Supreme Court of a State shall be exercised by a Full Court.\n  (4)  Where, after a Full Court (including a Full Court constituted in\naccordance with this sub-section) has commenced the hearing, or further\nhearing, of an appeal and before the appeal has been determined, one of the\nJudges constituting the Full Court dies, resigns his office, or otherwise\nbecomes unable to continue as a member of the Full Court for the purposes of\nthe appeal, then the hearing and determination, or the determination, of the\nappeal may be completed by a Full Court constituted by the remaining Judges,\nif at least 2 Judges remain, or, with the consent of the parties, by a Full\nCourt constituted by the remaining Judge or Judges and an additional Judge or\nJudges.\n  (5) A Full Court constituted in accordance with sub-section (4) may have\nregard to any evidence given or received, and arguments adduced, by or before\nthe Full Court as previously constituted.\n  (6) The Court constituted by one or more Judges may sit and exercise the\njurisdiction of the Court notwithstanding that the Court constituted by one or\nmore other Judges is at the same time sitting and exercising the jurisdiction\nof the Court.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:29",
+      "title": "Section 29 - Appellate jurisdiction.",
+      "main_structural_unit": "section",
+      "main_structural_number": "29",
+      "main_structural_heading": "Appellate jurisdiction.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 29",
+      "text": "29. (1) The Family Court has jurisdiction to hear and determine-\n  (a)  appeals referred to in section 94; and\n  (b)  appeals from judgments of the Family Court, constituted otherwise than\nas a Full Court, in the exercise of jurisdiction otherwise than under this\nAct.\n  (2) The Family Court has jurisdiction to hear and determine appeals under\nsection 96 except where the Supreme Court of a State has jurisdiction to hear\nsuch appeals.\n  (3) Subject to section 96, in an appeal the Court shall have regard to the\nevidence given in the proceedings out of which the appeal arose and has power\nto draw inferences of fact and, in its discretion, to receive further evidence\nupon questions of fact, which evidence may be given by affidavit, by oral\nexamination before the Court or a Judge or in such other manner as the Court\nmay direct.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:30",
+      "title": "Section 30 - Court divided in opinion.",
+      "main_structural_unit": "section",
+      "main_structural_number": "30",
+      "main_structural_heading": "Court divided in opinion.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 30",
+      "text": "30. If the Judges constituting the Court for the purposes of any proceedings\nare divided in opinion as to the judgment to be pronounced, judgment shall be\npronounced according to the opinion of the majority, if there is a majority,\nbut, if the Judges are equally divided in opinion-\n  (a)  in the case of an appeal from a judgment of the Family Court\nconstituted by a single Judge, or of the Supreme Court of a State-the judgment\nappealed from shall be affirmed; and\n  (b)  in any other case-the opinion of the Chief Judge or, if he is not one\nof the Judges constituting the Court, the opinion of the most senior of those\nJudges, shall prevail.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:31",
+      "title": "Section 31 - Jurisdiction of Family Court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "31",
+      "main_structural_heading": "Jurisdiction of Family Court.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 31",
+      "text": "31. (1) The Family Court has jurisdiction in-\n  (a)  matrimonial causes instituted or continued under this Act;\n  (b)  proceedings instituted or continued under the Marriage Act 1961-1973,\nother than proceedings under Part VII of that Act;\n  (c)  matters arising under a law of a Territory concerning-\n      (i)  the adoption of children;\n     (ii)  the guardianship, custody or maintenance of children; or\n     (iii)  payments of a kind referred to in section 109; and\n  (d)  matters in which jurisdiction is conferred on it by a law made by the\nParliament.\n  (2) Subject to such restrictions and conditions (if any) as are contained in\nthe regulations, the jurisdiction of the Family Court may be exercised in\nrelation to persons or things outside Australia and the Territories.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:32",
+      "title": "Section 32 - Certain powers under Marriage Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "32",
+      "main_structural_heading": "Certain powers under Marriage Act.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 32",
+      "text": "32. (1) A power or function exercisable under the Marriage Act 1961-1973 by\na Judge or magistrate as defined in sub-section 5 (1) of that Act shall be\nexercisable by any Judge of the Family Court who is appointed by the\nAttorney-General to be a person authorized to exercise that power or function,\nand that Act applies in relation to the exercise of a power or function in\naccordance with this section as if references in that Act to a Judge or\nmagistrate included references to a Judge of the Family Court so appointed.\n  (2) A request may not be made under section 17 of the Marriage Act 1961-1973\nfor a re-hearing of an application that has been dealt with by a Judge of the\nFamily Court.\n  (3) The Governor-General may, by Proclamation, declare that a power or\nfunction referred to in sub-section (1) is exercisable in accordance with this\nsection to the exclusion, in whole or in part as specified in the\nProclamation, of the exercise of that power or function by Judges or\nmagistrates as defined in sub-section 5 (1) of the Marriage Act 1961-1973.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:33",
+      "title": "Section 33 - Jurisdiction in associated matters.",
+      "main_structural_unit": "section",
+      "main_structural_number": "33",
+      "main_structural_heading": "Jurisdiction in associated matters.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 33",
+      "text": "33. To the extent that the Constitution permits, jurisdiction is conferred\non the Court in respect of matters not otherwise within the jurisdiction\nexpressed by this Act or any law to be conferred on the Court that are\nassociated with matters (including matters before the Court upon an appeal) in\nwhich the jurisdiction of the Court is invoked or that arise in proceedings\n(including proceedings upon an appeal) before the Court.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:34",
+      "title": "Section 34 - Issue of certain writs, &c.",
+      "main_structural_unit": "section",
+      "main_structural_number": "34",
+      "main_structural_heading": "Issue of certain writs, &c.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 34",
+      "text": "34. (1) The Court has power, in relation to matters in which it has\njurisdiction, to make orders of such kinds, and to issue, or direct the issue\nof, writs of such kinds, as the Court thinks appropriate.\n  (2) Without limiting the generality of sub-section (1), the Court may issue,\nor direct the issue of, writs and orders of such kinds as are prescribed.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:35",
+      "title": "Section 35 - Contempt of court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "35",
+      "main_structural_heading": "Contempt of court.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 35",
+      "text": "35. Subject to this and any other Act, the Family Court has the same power\nto punish contempts of its power and authority as is possessed by the High\nCourt in respect of contempts of the High Court.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:36",
+      "title": "Section 36 - Registries.",
+      "main_structural_unit": "section",
+      "main_structural_number": "36",
+      "main_structural_heading": "Registries.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 36",
+      "text": "36. (1) The Governor-General shall cause such Registries of the Court to be\nestablished as he thinks fit.\n  (2) Unless and until the regulations otherwise provide, the Principal\nRegistry shall be located in Sydney.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:37",
+      "title": "Section 37 - Officers of Court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "37",
+      "main_structural_heading": "Officers of Court.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 37",
+      "text": "37. (1) The Attorney-General may appoint such officers of the Court as are\nreferred to in this section and such other officers of the Court as are\nnecessary.\n  (2) The officers of the Court have such duties, powers and functions as are\nprovided by this Act and the regulations and such other duties and functions\nas the Chief Judge directs.\n  (3) There shall be a Registrar of the Court and such Deputy Registrars of\nthe Court as are necessary.\n  (4) There shall be a Marshal of the Court and such Deputy Marshals of the\nCourt as are necessary.\n  (5) The Marshal-\n  (a)  is charged with the service and execution of all writs, orders,\ndecrees, warrants, precepts, process and commands of the Court that are\ndirected to him; and\n  (b)  shall take, receive and detain any person who is committed to his\ncustody by the Court, and shall discharge all such persons when directed by\nthe Court or required by law.\n  (6) A Deputy Marshal may, subject to any directions of the Marshal, exercise\nor perform any of the powers and functions of the Marshal.\n  (7) The Marshal or a Deputy Marshal may authorize such persons as he thinks\nfit to assist him in the exercise of any power or the performance of any\nfunction.\n  (8) There shall be a Director of Counselling and Welfare, and such other\ncounsellors and welfare officers as are necessary.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:38",
+      "title": "Section 38 - Practice and procedure.",
+      "main_structural_unit": "section",
+      "main_structural_number": "38",
+      "main_structural_heading": "Practice and procedure.",
+      "defined_term": null,
+      "structure_path": "Part IV-THE FAMILY COURT OF AUSTRALIA > Section 38",
+      "text": "38. (1) Subject to this Act, the practice and procedure of the Court shall\nbe in accordance with the regulations.\n  (2) In so far as the provisions applicable in accordance with sub- section\n(1) are insufficient, the Rules of the High Court, as in force for the time\nbeing, apply, mutatis mutandis, so far as they are capable of application and\nsubject to any directions of the Court or a Judge, to the practice and\nprocedure of the Court.\n  (3) In this section, ''practice and procedure'' includes all matters with\nrespect to which regulations may be made under this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:39",
+      "title": "Section 39 - Jurisdiction in matrimonial causes.",
+      "main_structural_unit": "section",
+      "main_structural_number": "39",
+      "main_structural_heading": "Jurisdiction in matrimonial causes.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 39",
+      "text": "39. (1) Subject to this Part, a person may institute a matrimonial cause\nunder this Act-\n  (a)  in the Family Court; or\n  (b)  in the Supreme Court of a State or a Territory.\n  (2) Subject to this Part, a person may institute a matrimonial cause under\nthis Act, not being proceedings for principal relief, in a Court of summary\njurisdiction of a State or Territory.\n  (3) Proceedings for a decree of dissolution of marriage may be instituted\nunder this Act by a party to the marriage if, at the date on which the\napplication for the decree is filed in a court, either party to the marriage-\n  (a)  is an Australian citizen;\n  (b)  is domiciled in Australia; or\n  (c)  is ordinarily resident in Australia and has been so resident for 1 year\nimmediately preceding that date.\n  (4) Proceedings of a kind referred to in any of paragraphs (a) to (e) of the\ndefinition of ''matrimonial cause'' in sub-section 4 (1), other than\nproceedings for a decree of dissolution of marriage, may be instituted under\nthis Act if-\n  (a)  either party to the marriage is an Australian citizen;\n  (b)  either party to the marriage is present in Australia; or\n  (c)  the proceedings relate to a child of the marriage and the child is\npresent in Australia.\n  (5) Subject to this Part, the Supreme Court of each State is invested with\nfederal jurisdiction, and jurisdiction is conferred on the Family Court and on\nthe Supreme Court of each Territory, to hear and determine-\n  (a)  matrimonial causes instituted under this Act;\n  (b) matrimonial causes continued in accordance with section 9; and\n  (c)  proceedings instituted under regulations made for the purposes of\nsection 106, 109, 110 or 111.\n  (6) Subject to this Part, the courts of summary jurisdiction of each State\nare invested with federal jurisdiction, and jurisdiction is conferred on the\ncourts of summary jurisdiction of each Territory, to hear and determine-\n  (a)  matrimonial causes, not being proceedings for principal relief,\ninstituted under this Act;\n  (b)  matrimonial causes, not being proceedings for principal relief,\ncontinued in accordance with section 9; and\n  (c)  proceedings instituted under regulations made for the purposes of\nsection 106, 109, 110 or 111.\n  (7) The Governor-General may, by Proclamation, fix a date as the date on and\nafter which proceedings under this Act may not be instituted in or transferred\nto a court of summary jurisdiction in a State or Territory or in a part of a\nState or Territory specified in the Proclamation and a court of summary\njurisdiction shall not hear and determine any such proceedings so instituted\nin, or transferred to, that court on or after that date.\n  (8) Jurisdiction under this Act in a matrimonial cause instituted under this\nAct is not conferred on a court of a Territory unless at least one of the\nparties to the proceedings is, at the date of the institution of the\nproceedings or the date of the transfer of the proceedings to the court of the\nTerritory, ordinarily resident in the Territory.\n  (9) Jurisdiction under this Act in a matrimonial cause continued in\naccordance with section 9 is not invested in or conferred on a court other\nthan the court in which the matrimonial cause was instituted or to which it\nhas been transferred under sub-section 40 (6) or section 45.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:40",
+      "title": "Section 40 - Jurisdiction of Family Court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "40",
+      "main_structural_heading": "Jurisdiction of Family Court.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 40",
+      "text": "40. (1) The jurisdiction of the Family Court under this Act shall not be\nexercised except in accordance with Proclamations under this section.\n  (2) The Governor-General may, by Proclamation, fix a date as the date on and\nafter which the jurisdiction of the Family Court under this Act may be\nexercised in respect of all proceedings, or a class of proceedings, in such\nStates and Territories as are specified in the Proclamation.\n  (3) The Governor-General may, by Proclamation, fix a date as the date on and\nafter which proceedings under this Act may not be instituted in or transferred\nto the Supreme Court of a State or Territory specified in the Proclamation, or\nmay be so instituted or transferred only where specified conditions are\ncomplied with, and such a Proclamation may be expressed to apply only to\nproceedings of specified classes and may be expressed to apply only to the\ninstitution of proceedings in, or the transfer of proceedings to, a particular\nRegistry or Registries of a Supreme Court referred to in the Proclamation.\n  (4) The Supreme Court of a State or Territory shall not hear and determine\nproceedings under this Act instituted in or transferred to that Court\notherwise than in accordance with any Proclamation in force under sub-section\n(3), but nothing in this section invalidates a decree made by such a Supreme\nCourt.\n  (5) Proclamations under sub-sections (2) and (3) may be made from time to\ntime.\n  (6) A party to proceedings instituted or continued under this Act that are\nat any time pending in the Supreme Court of a State or Territory, being\nproceedings that could, at the date of the application under this sub-section,\nhave been instituted in the Family Court, may apply to the Family Court for an\norder transferring the proceedings to the Family Court, and the Court may\norder accordingly.\n  (7) The regulations may make provision in relation to matters arising in or\nin connexion with the transfer of proceedings in accordance with an order\nunder sub-section (6).\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:41",
+      "title": "Section 41 - Establishment of State Family Courts.",
+      "main_structural_unit": "section",
+      "main_structural_number": "41",
+      "main_structural_heading": "Establishment of State Family Courts.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 41",
+      "text": "41. (1) As soon as practicable after the commencement of this Act, the\nAustralian Government shall take steps with a view to the making of agreements\nwith the governments of the States providing for the creation of State courts\nto be known as Family Courts, being agreements under which the Australian\nGovernment will provide the necessary funds for the establishment and\nadministration of those courts.\n  (2) Where, whether before or after the commencement of this Act, a State has\ncreated a court known as a Family Court, the Governor-General may, by\nProclamation, declare that, on and after a date specified in the Proclamation,\nthis section applies to that court.\n  (3) Where, by virtue of a Proclamation under sub-section (2), this section\napplies to a court, this Act has effect in relation to the institution of\nproceedings on or after the date fixed by the Proclamation, and in relation to\nproceedings so instituted, as if references in sections 39, 46, 94 and 96 to\nthe Supreme Court of a State were, in relation to the State in which the court\nreferred to in the Proclamation is established, references to that court, and\nthat court is invested with federal jurisdiction accordingly.\n  (4) The Governor-General shall not make a Proclamation under this section in\nrespect of a court unless he is satisfied that-\n  (a)  arrangements have been made under which Judges will not be appointed to\nthat court except with the approval of the Attorney-General of Australia;\n  (b)  Judges appointed to that court are by reason of training, experience\nand personality, suitable persons to deal with matters of family law and\ncannot hold office beyond the age of 65 years; and\n  (c)  arrangements have been made under which full use will be made by that\ncourt of the counselling and welfare facilities that are available to the\nFamily Court of Australia.\n  (5) References in this Act to a court of summary jurisdiction shall not be\nread as including references to a court to which this section applies.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:42",
+      "title": "Section 42 - Law to be applied.",
+      "main_structural_unit": "section",
+      "main_structural_number": "42",
+      "main_structural_heading": "Law to be applied.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 42",
+      "text": "42. (1) The jurisdiction conferred on a court, or with which a court is\ninvested, by this Act shall be exercised in accordance with this Act.\n  (2) Where it would be in accordance with the common law rules of private\ninternational law to apply the laws of any country or place (including a State\nor Territory), the court shall apply the laws of that country or place.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:43",
+      "title": "Section 43 - Principles to be applied by courts.",
+      "main_structural_unit": "section",
+      "main_structural_number": "43",
+      "main_structural_heading": "Principles to be applied by courts.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 43",
+      "text": "43. The Family Court shall, in the exercise of its jurisdiction under this\nAct or any other Act, and any other court exercising jurisdiction under this\nAct shall, in the exercise of that jurisdiction, have regard to-\n  (a)  the need to preserve and protect the institution of marriage as the\nunion of a man and a woman to the exclusion of all others voluntarily entered\ninto for life;\n  (b)  the need to give the widest possible protection and assistance to the\nfamily as the natural and fundamental group unit of society, particularly\nwhile it is responsible for the care and education of dependent children;\n  (c)  the need to protect the rights of children and to promote their\nwelfare; and\n  (d)  the means available for assisting parties to a marriage to consider\nreconciliation or the improvement of their relationship to each other and to\nthe children of the marriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:44",
+      "title": "Section 44 - Institution of proceedings.",
+      "main_structural_unit": "section",
+      "main_structural_number": "44",
+      "main_structural_heading": "Institution of proceedings.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 44",
+      "text": "44. (1) Subject to this section, proceedings under this Act shall be\ninstituted by application.\n  (2) A respondent may, in an answer to an application, include an application\nfor any decree or declaration under this Act.\n  (3) Where a decree nisi of dissolution of marriage or of nullity of marriage\nhas been made, proceedings of a kind referred to in sub-paragraph (c) (i) or\n        (ii) of the definition of ''matrimonial cause'' in sub-section 4 (1) (not\nbeing proceedings seeking the discharge, suspension, revival or variation of\nan order previously made in proceedings with respect to the maintenance of a\nparty) shall not be instituted after the expiration of 12 months after the\ndate of the making of the decree or the date of commencement of this Act,\nwhichever is the later, except by leave of the court in which the proceedings\nare to be instituted.\n  (4) The court shall not grant leave under sub-section (3) unless it is\nsatisfied that hardship would be caused to a party to a marriage or to a child\nof the marriage if leave were not granted.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:45",
+      "title": "Section 45 - Staying and transfer of proceedings.",
+      "main_structural_unit": "section",
+      "main_structural_number": "45",
+      "main_structural_heading": "Staying and transfer of proceedings.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 45",
+      "text": "45. (1) Where it appears to a court in which a matrimonial cause (including\na matrimonial cause instituted before the commencement of this Act) is pending\nthat a matrimonial cause (including a matrimonial cause instituted before the\ncommencement of this Act) in respect of the same marriage or void marriage is\npending in another court, the first-mentioned court may stay the proceedings\nin that court for such time as it thinks fit or may dismiss the proceedings.\n  (2) Where it appears to a court in which a matrimonial cause has been\ninstituted or is being continued under this Act that it is in the interests of\njustice that the proceedings be dealt with in another court having\njurisdiction under this Act, the court may transfer the proceedings to the\nother court.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:46",
+      "title": "Section 46 - Transfer of proceedings from court of summary jurisdiction in certain cases.",
+      "main_structural_unit": "section",
+      "main_structural_number": "46",
+      "main_structural_heading": "Transfer of proceedings from court of summary jurisdiction in certain cases.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 46",
+      "text": "46. (1) Where proceedings are instituted in a court of summary jurisdiction\nwith respect to-\n  (a)  the custody or guardianship of, or access to, a child of a marriage;\nor\n  (b)  property of a value exceeding $1,000,\nand the respondent, in an answer to the application by which the proceedings\nwere instituted, seeks an order different from that sought in the application,\nthe court shall, unless the parties agree to the court hearing and determining\nthe proceedings, transfer the proceedings to the Family Court or to the\nSupreme Court of a State or Territory.\n  (2) Where proceedings referred to in sub-section (1) are before it, the\ncourt may transfer the proceedings of its own motion, notwithstanding that the\nparties would be willing for the court to hear and determine the proceedings.\n  (3) Before transferring proceedings under sub-section (1), the court may\nmake such orders, including an order under section 62, as it considers\nnecessary pending the disposal of the proceedings by the court to which they\nare to be transferred.\n  (4) Where proceedings are transferred to a court in pursuance of this\nsection, that court shall proceed as if the proceedings had been originally\ninstituted in that court.\n  (5) Without prejudice to the duty of a court of summary jurisdiction to\ncomply with this section, failure by such a court so to comply does not\ninvalidate any order of the court in the proceedings.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:47",
+      "title": "Section 47 - Courts to act in aid of each other.",
+      "main_structural_unit": "section",
+      "main_structural_number": "47",
+      "main_structural_heading": "Courts to act in aid of each other.",
+      "defined_term": null,
+      "structure_path": "Part V-JURISDICTION IN MATRIMONIAL CAUSES > Section 47",
+      "text": "47. All courts having jurisdiction under this Act shall severally act in aid\nof and be auxiliary to each other in all matters under this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975\nSection 48 Dissolution of marriage.\n  48. (1) An application under this Act by a party to a marriage for a decree\nof dissolution of the marriage shall be based on the ground that the marriage\nhas broken down irretrievably.\n  (2) Subject to sub-section (3), in a proceeding instituted by such an\napplication, the ground shall be held to have been established, and a decree\nof dissolution of the marriage shall be made, if, and only if, the court is\nsatisfied that the parties separated and thereafter lived separately and apart\nfor a continuous period of not less than 12 months immediately preceding the\ndate of the filing of the application for dissolution of marriage.\n  (3) A decree of dissolution of marriage shall not be made if the court is\nsatisfied that there is a reasonable likelihood of cohabitation being\nresumed.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:49",
+      "title": "Section 49 - Meaning of separation.",
+      "main_structural_unit": "section",
+      "main_structural_number": "49",
+      "main_structural_heading": "Meaning of separation.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 49",
+      "text": "49. (1) The parties to a marriage may be held to have separated\nnotwithstanding that the cohabitation was brought to an end by the action or\nconduct of one only of the parties.\n  (2) The parties to a marriage may be held to have separated and to have\nlived separately and apart notwithstanding that they have continued to reside\nin the same residence or that either party has rendered some household\nservices to the other.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:50",
+      "title": "Section 50 - Effect of resumption of cohabitation.",
+      "main_structural_unit": "section",
+      "main_structural_number": "50",
+      "main_structural_heading": "Effect of resumption of cohabitation.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 50",
+      "text": "50. (1) For the purposes of proceedings for a decree of dissolution of\nmarriage, where, after the parties to the marriage separated, they resumed\ncohabitation on one occasion but, within a period of 3 months after the\nresumption of cohabitation, they again separated and thereafter lived\nseparately and apart up to the date of the filing of the application, the\nperiods of living separately and apart before and after the period of\ncohabitation may be aggregated as if they were one continuous period, but the\nperiod of cohabitation shall not be deemed to be part of the period of living\nseparately and apart.\n  (2) For the purposes of sub-section (1), a period of cohabitation shall be\ndeemed to have continued during any interruption of the cohabitation that, in\nthe opinion of the court, was not substantial.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:51",
+      "title": "Section 51 - Nullity of marriage.",
+      "main_structural_unit": "section",
+      "main_structural_number": "51",
+      "main_structural_heading": "Nullity of marriage.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 51",
+      "text": "51. (1) An application under this Act for a decree of nullity of marriage\nshall be based on the ground that the marriage is void.\n  (2) A marriage that takes place after the commencement of this Act is void\nwhere-\n  (a)  either of the parties is, at the time of the marriage, lawfully married\nto some other person;\n  (b)  the parties are within a prohibited relationship;\n  (c)  the marriage is not a valid marriage under the law of the place where\nthe marriage takes place, by reason of a failure to comply with the\nrequirements of the law of that place with respect to the form of\nsolemnization of marriages;\n  (d)  the consent thereto of either of the parties is not a real consent\nbecause-\n      (i)  it was obtained by duress or fraud;\n     (ii)  that party is mistaken as to the identity of the other party or as\nto the nature of the ceremony performed; or\n     (iii)  that party is mentally incapable of understanding the nature and\neffect of the marriage ceremony; or\n  (e)  either of the parties is not of marriageable age,\nand not otherwise.\n  (3) Marriages that are within a prohibited relationship are marriages-\n  (a)  between a person and an ancestor or descendant of the person; or\n  (b)  between a brother and a sister (whether of the whole blood or the\nhalf-blood).\n  (4) Any relationship specified in sub-section (3) includes a relationship\ntraced through, or to, a person who is or was an adopted child, and, for that\npurpose, the relationship between an adopted child and his adoptive parent, or\neach of his adoptive parents, shall be deemed to be or to have been the\nnatural relationship of child and parent.\n  (5) Nothing in sub-section (4) makes it lawful for a person to marry a\nperson whom the first-mentioned person could not lawfully have married if that\nsub-section had not been enacted.\n  (6) For the purposes of this section-\n  (a)  a person who has at any time been adopted by another person shall be\ndeemed to remain the adopted child of that other person notwithstanding that\nany order by which the adoption was effected has been annulled, cancelled or\ndischarged or that the adoption has for any other reason ceased to be\neffective; and\n  (b)  a person who has been adopted on more than one occasion shall be deemed\nto be the adopted child of each person by whom he has been adopted.\n  (7) Paragraph (2) (c) does not apply in relation to a marriage solemnized\nunder Part V of the Marriage Act 1961 or of that Act as amended or to any\nother marriage recognized in Australia by virtue of that Act or regulations\nmade under that Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:52",
+      "title": "Section 52 - Court not to make decree of dissolution where application for decree of nullity before it.",
+      "main_structural_unit": "section",
+      "main_structural_number": "52",
+      "main_structural_heading": "Court not to make decree of dissolution where application for decree of nullity before it.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 52",
+      "text": "52. Where both an application for a decree of nullity of a marriage and an\napplication for a decree of dissolution of that marriage are before a court,\nthe court shall not make a decree of dissolution of the marriage unless it has\ndismissed the application for a decree of nullity of the marriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:53",
+      "title": "Section 53 - Circumstances occurring before commencement of Act or outside Australia.",
+      "main_structural_unit": "section",
+      "main_structural_number": "53",
+      "main_structural_heading": "Circumstances occurring before commencement of Act or outside Australia.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 53",
+      "text": "53. A decree may be made, or refused, under this Part by reason of facts and\ncircumstances notwithstanding that those facts and circumstances, or some of\nthem, took place before the commencement of this Act or outside Australia.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:54",
+      "title": "Section 54 - Decree nisi in first instance.",
+      "main_structural_unit": "section",
+      "main_structural_number": "54",
+      "main_structural_heading": "Decree nisi in first instance.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 54",
+      "text": "54. A decree of dissolution of marriage under this Act shall, in the first\ninstance, be a decree nisi.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:55",
+      "title": "Section 55 - When decree becomes absolute.",
+      "main_structural_unit": "section",
+      "main_structural_number": "55",
+      "main_structural_heading": "When decree becomes absolute.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 55",
+      "text": "55. (1) Subject to this section, a decree nisi made under this Act becomes\nabsolute by force of this section at the expiration of a period of 1 month\nfrom the making of the decree or from the making of an order under section 63,\nwhichever is the later.\n  (2) Where a decree nisi has been made in any proceedings, the court of first\ninstance (whether or not it made the decree), or a court in which an appeal\nhas been instituted, may, either before or after it has disposed of the\nproceedings or appeal, and whether or not a previous order has been made under\nthis sub-section-\n  (a)  having regard to the possibility of an appeal or further appeal, make\nan order extending the period at the expiration of which the decree nisi will\nbecome absolute; or\n  (b)  if it is satisfied that there are special circumstances that justify\nits so doing, make an order reducing the period at the expiration of which the\ndecree nisi will become absolute.\n  (3) Where an appeal is instituted (whether or not it is the first appeal)\nbefore a decree nisi has become absolute, then, notwithstanding any order in\nforce under sub-section (2) at the time of the institution of the appeal but\nsubject to any such order made after the institution of the appeal, the decree\nnisi, unless reversed or rescinded, becomes absolute by force of this\nsection-\n  (a)  at the expiration of a period of 1 month from the day on which the\nappeal is determined or discontinued; or\n  (b)  on the day on which the decree would have become absolute under\nsub-section (1) if no appeal had been instituted,\nwhichever is the later.\n  (4) A decree nisi shall not become absolute by force of this section where\neither of the parties to the marriage has died.\n  (5) In this section, ''appeal'', in relation to a decree nisi, means-\n  (a)  an appeal or application for leave to appeal against, or an\nintervention or application for a re-hearing relating to-\n      (i)  the decree nisi; or\n     (ii)  an order under section 63 in relation to the proceedings in which\nthe decree nisi was made; or\n  (b)  an application under section 57 or 58 for recission of the decree or an\nappeal or application for leave to appeal arising out of such an application.\n  (6) For the purposes of this section, where an application for leave to\nappeal, or for a re-hearing, is granted, the application shall be deemed not\nto have been determined or discontinued so long as-\n  (a)  the leave granted remains capable of being exercised; or\n  (b)  an appeal or re-hearing instituted in pursuance of the leave is\npending.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:56",
+      "title": "Section 56 - Certificate as to decree absolute.",
+      "main_structural_unit": "section",
+      "main_structural_number": "56",
+      "main_structural_heading": "Certificate as to decree absolute.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 56",
+      "text": "56. (1) Where a decree nisi becomes absolute, the Registrar of the court by\nwhich the decree was made shall prepare and file a memorandum of the fact and\nof the date upon which the decree became absolute.\n  (2) Where a decree nisi has become absolute, any person is entitled, on\napplication to the Registrar of the court by which the decree was made, to\nreceive a certificate signed by the Registrar that the decree nisi has become\nabsolute.\n  (3) A certificate given under sub-section (2) is, in all courts (whether\nexercising federal jurisdiction or not) and for all purposes, evidence of the\nmatters specified in the certificate.\n  (4) The regulations may provide for the establishment of central records of\ndecrees made under this Act and for the notification of decrees to the\nappropriate marriage registering authorities of the States and Territories.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:57",
+      "title": "Section 57 - Rescission of decree nisi where parties reconciled.",
+      "main_structural_unit": "section",
+      "main_structural_number": "57",
+      "main_structural_heading": "Rescission of decree nisi where parties reconciled.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 57",
+      "text": "57. Notwithstanding anything contained in this Part, where a decree nisi has\nbeen made in proceedings for a decree of dissolution of marriage, the court\nmay, at any time before the decree becomes absolute, upon the application of\nthe parties to the marriage, rescind the decree on the ground that the parties\nhave become reconciled.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:58",
+      "title": "Section 58 - Rescission of decree nisi on ground of miscarriage of justice.",
+      "main_structural_unit": "section",
+      "main_structural_number": "58",
+      "main_structural_heading": "Rescission of decree nisi on ground of miscarriage of justice.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 58",
+      "text": "58. Where a decree nisi has been made but has not become absolute, the court\nby which the decree was made may, on the application of a party to the\nproceedings, or on the intervention of the Attorney-General, if it is\nsatisfied that there has been a miscarriage of justice by reason of fraud,\nperjury, suppression of evidence or any other circumstance, rescind the decree\nand, if it thinks fit, order that the proceedings be re-heard.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:59",
+      "title": "Section 59 - Re-marriage.",
+      "main_structural_unit": "section",
+      "main_structural_number": "59",
+      "main_structural_heading": "Re-marriage.",
+      "defined_term": null,
+      "structure_path": "Part VI-DISSOLUTION AND NULLITY OF MARRIAGE > Section 59",
+      "text": "59. Where a decree of dissolution of marriage under this Act has become\nabsolute, a party to the marriage may marry again.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:60",
+      "title": "Section 60 - Definitions.",
+      "main_structural_unit": "section",
+      "main_structural_number": "60",
+      "main_structural_heading": "Definitions.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 60",
+      "text": "60. In this Part-\n  ''marriage'' includes a void marriage;\n  ''overseas custody order'' means an order made by a court in a prescribed\noverseas country, being-\n     (a)  an order for custody of, or access to, a child who has not attained\nthe age of 18 years; or\n     (b)  an order varying or discharging an order of the kind referred to in\nparagraph (a), including an order of that kind made under this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:61",
+      "title": "Section 61 - Rights of guardianship and custody of children.",
+      "main_structural_unit": "section",
+      "main_structural_number": "61",
+      "main_structural_heading": "Rights of guardianship and custody of children.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 61",
+      "text": "61. (1) Subject to any order of a court for the time being in force, each of\nthe parties to a marriage is a guardian of any child of the marriage who has\nnot attained the age of 18 years and those parties have the joint custody of\nthe child.\n  (2) An order with respect to the custody or guardianship of, or access to, a\nchild-\n  (a)  shall not be made in respect of a child who has attained the age of 18\nyears or is or has been married; and\n  (b)  ceases to be in force when the child attains the age of 18 years or\nmarries.\n  (3) Unless a court having jurisdiction under this Act otherwise orders, an\norder in respect of the custody or guardianship of, or access to, a child of a\nmarriage ceases to be in force if the child is adopted by a person who is not\na party to the marriage.\n  (4) On the death of a party to a marriage in whose favour a custody order\nhas been made in respect of a child of the marriage, the other party to the\nmarriage is entitled to the custody of the child only if the court so orders\non application by that other party and, upon such an application, any other\nperson who had the care and control of the child at the time of the\napplication is entitled to be a party to the proceedings.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:62",
+      "title": "Section 62 - Conferences with, and reports by, welfare officers.",
+      "main_structural_unit": "section",
+      "main_structural_number": "62",
+      "main_structural_heading": "Conferences with, and reports by, welfare officers.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 62",
+      "text": "62. (1) Where-\n  (a)  there is a child (being a child who has not attained the age of 18\nyears) of a marriage in respect of which proceedings for principal relief have\nbeen instituted; or\n  (b)  proceedings for the custody or guardianship of, or access to, a child\nof a marriage who has not attained the age of 18 years are contested,\nthe court may, at any stage of the proceedings, of its own motion or upon the\nrequest of a party to the proceedings, make an order directing the parties to\nthe proceedings to attend a conference with a welfare officer to discuss the\nwelfare of the child and, if there are any differences between the parties as\nto matters affecting the welfare of the child, to endeavour to resolve those\ndifferences.\n  (2) Where the court makes an order under sub-section (1), it may fix a place\nand time for the conference to take place or direct that the conference shall\ntake place at a place and time to be fixed by a welfare officer.\n  (3) If a party fails to attend a conference in respect of which an order has\nbeen made under sub-section (1), it is the duty of the welfare officer to\nreport the failure to the court.\n  (4) The court may adjourn any proceedings referred to in sub- section (1)\nuntil a report has been obtained from a welfare officer on such matters\nrelevant to the proceedings as the court considers desirable, and may receive\nthe report in evidence.\n  (5) Subject to sub-section (4), evidence of anything said or of any\nadmission made at a conference that takes place in pursuance of an order made\nunder this section is not admissible in any court (whether exercising federal\njurisdiction or not) or in proceedings before a person authorized by a law of\nAustralia or of a State or Territory, or by consent of parties, to hear\nevidence.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:63",
+      "title": "Section 63 - Decree absolute where children.",
+      "main_structural_unit": "section",
+      "main_structural_number": "63",
+      "main_structural_heading": "Decree absolute where children.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 63",
+      "text": "63. (1) A decree nisi of dissolution of marriage does not become absolute\nunless the court, by order, has declared that it is satisfied-\n  (a)  that there are no children of the marriage who have not attained the\nage of 18 years; or\n  (b)  that the only children of the marriage who have not attained the age of\nSection 18 years are the children specified in the order and that-\n      (i)  proper arrangements in all the circumstances have been made for the\nwelfare of those children; or\n     (ii)  there are circumstances by reason of which the decree nisi should\nbecome absolute notwithstanding that the court is not satisfied that such\narrangements have been made.\n  (2) Where, in proceedings for a decree of dissolution of marriage, the court\nis in doubt whether the arrangements made for the welfare of a child of the\nmarriage are proper in all the circumstances, the court may adjourn the\nproceedings until a report has been obtained from a welfare officer regarding\nthose arrangements.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:64",
+      "title": "Section 64 - Powers of court in custodial proceedings.",
+      "main_structural_unit": "section",
+      "main_structural_number": "64",
+      "main_structural_heading": "Powers of court in custodial proceedings.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 64",
+      "text": "64. (1) In proceedings with respect to the custody or guardianship of, or\naccess to, a child of a marriage-\n  (a)  the court shall regard the welfare of the child as the paramount\nconsideration;\n  (b)  where the child has attained the age of 14 years, the court shall not\nmake an order under this Part contrary to the wishes of the child unless the\ncourt is satisfied that, by reason of special circumstances, it is necessary\nto do so; and\n  (c)  subject to paragraphs (a) and (b), the court may make such order in\nrespect of those matters as it thinks proper, including an order until further\norder.\n  (2) In proceedings with respect to the custody of a child of a marriage, the\ncourt may, if it is satisfied that it is desirable to do so, make an order\nplacing the child in the custody of a person other than a party to the\nmarriage.\n  (3) Where the court makes an order placing a child of a marriage in the\ncustody of a party to the marriage, or of a person other than a party to the\nmarriage, it may include in the order such provision as it thinks proper for\naccess to the child by any person.\n  (4) Where a court makes an order for joint custody of a child of a marriage\nor declines to make an order for the sole custody of the child, it may make\norders as to access or such other orders as it thinks proper.\n  (5) Where a court makes an order under this Part with respect to a child,\nthe court may also, if it thinks the welfare of the child so requires, by\norder direct that compliance with the first-mentioned order shall, as far as\npracticable, be supervised by a welfare officer.\n  (6) Where the court is of the opinion that there is a possibility or threat\nthat a child will be removed from Australia, it may order the passport of the\nchild and of any other person concerned to be delivered up to the court upon\nsuch conditions as the court thinks fit.\n  (7) The court may discharge or vary an order under this section, or may\nsuspend any part of the order and may revive the operation of any part so\nsuspended.\n  (8) On an application for the discharge or variation of an order under this\nsection in respect of a child who has attained the age of 14 years, if the\ncourt is satisfied that the discharge or variation of the order would be in\naccordance with the wishes of the child, it shall discharge or vary the order\naccordingly unless the court is satisfied that it is undesirable to do so by\nreason of special circumstances.\n  (9) Where an order made by a court (including a court of a prescribed\noverseas country) with respect to the custody of a child is in force, a court\nhaving jurisdiction under this Act may issue a warrant authorizing or\ndirecting the person, or any of the persons, to whom it is addressed to take\npossession of the -115100 other person or authority (including a person or\nauthority in or from a prescribed overseas country) named in the order on\nbehalf of the person entitled to custody.\n  (10) Where an order made by a court (including a court of a prescribed\noverseas country) entitling a person to access to a child is in force, a court\nhaving jurisdiction under this Act may, for the purpose of giving effect to\nthe order, issue a warrant authorizing or directing the person, or any of the\npersons, to whom it is addressed to take possession of the child and to\ndeliver the child to the person so entitled to access.\n  (11) Where an order entitles more than one person to the custody of a child,\na warrant shall not be issued under this section for the removal of the child\nfrom -116500 of them.\n  (12) The Attorney-General may appoint persons to be enforcement officers for\nthe purposes of this Part and a warrant under sub-section (9) or (10) may be\naddressed to a person so appointed.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:65",
+      "title": "Section 65 - Separate representation of child.",
+      "main_structural_unit": "section",
+      "main_structural_number": "65",
+      "main_structural_heading": "Separate representation of child.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 65",
+      "text": "65. Where, in proceedings with respect to the custody, guardianship or\nmaintenance of, or access to, a child of a marriage, it appears to the court\nthat the child ought to be separately represented, the court may, of its own\nmotion, or on the application of the child or of an organization concerned\nwith the welfare of children or of any other person, order that the child be\nseparately represented, and the court may make such other orders as it thinks\nnecessary for the purpose of securing such separate representation.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:66",
+      "title": "Section 66 - Where applicant in contempt.",
+      "main_structural_unit": "section",
+      "main_structural_number": "66",
+      "main_structural_heading": "Where applicant in contempt.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 66",
+      "text": "66. The court may proceed with the hearing of proceedings in relation to a\nchild notwithstanding that the person by whom the proceedings were instituted\nhas failed to comply with an order of the court or of another court having\njurisdiction under this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:67",
+      "title": "Section 67 - Registration inter-State of orders for custody of ex-nuptial children.",
+      "main_structural_unit": "section",
+      "main_structural_number": "67",
+      "main_structural_heading": "Registration inter-State of orders for custody of ex-nuptial children.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 67",
+      "text": "67. (1) In this section-\n  ''court'', in relation to a State or Territory, means the Supreme Court, or\na court of summary jurisdiction, of that State or Territory;\n  ''custody order'' means a subsisting order for custody of, or access to, an\nex-nuptial child who has not attained the age of 18 years.\n  (2) The regulations may make provision for and in relation to the\nregistration in a State or Territory in a court having jurisdiction under this\nAct (including the Family Court) of custody orders made by a court in another\nState or Territory.\n  (3) Where a custody order is registered in a court under this section, the\norder has the same force and effect as if it were an order made by that court\nunder this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:68",
+      "title": "Section 68 - Overseas custody orders.",
+      "main_structural_unit": "section",
+      "main_structural_number": "68",
+      "main_structural_heading": "Overseas custody orders.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 68",
+      "text": "68. (1) The regulations may make provision for and in relation to the\nregistration in courts in Australia of overseas custody orders.\n  (2) Where an overseas custody order is registered in a court under this\nsection, the order has the same force and effect as if it were an order made\nby that court under this Act.\n  (3) Where an overseas custody order is so registered, a court in Australia\nshall not, where it becomes aware of the order, exercise jurisdiction in\nproceedings for the custody of, or access to, the child the subject of the\noverseas custody order, unless-\n  (a)  every person having rights of custody or access in relation to the\nchild under the overseas custody order consents to the exercise of\njurisdiction by the court in the proceedings; or\n  (b)  the court is satisfied that there are substantial grounds for believing\nthat the welfare of the child will be adversely affected if the court does not\nexercise jurisdiction in the proceedings.\n  (4) Where the court exercises jurisdiction in proceedings for the custody\nof, or access to, a child who is the subject of an overseas custody order, the\ncourt shall not make an order with respect to the custody of, or access to,\nthe child unless the person who instituted the proceedings satisfies the\ncourt-\n  (a)  that the welfare of the child is likely to be adversely affected if the\norder is not made; or\n  (b)  that there has been such a change in the circumstances of the child\nthat the order ought to be made.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:69",
+      "title": "Section 69 - Transmission of Australian custody orders to overseas country.",
+      "main_structural_unit": "section",
+      "main_structural_number": "69",
+      "main_structural_heading": "Transmission of Australian custody orders to overseas country.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 69",
+      "text": "69. (1) Where an order made by a court in Australia with respect to the\ncustody of, or access to, a child who has not attained the age of 18 years may\nbe enforced in a prescribed overseas country under provisions corresponding to\nthe provisions of section 68, the Registrar of the court shall, if so\nrequested in writing by a person having rights of custody or access in\nrelation to the child under the order, send to an appropriate court or\nauthority in that country such documents and information as are necessary for\nsecuring the enforcement of the order in the overseas country.\n  (2) The regulations may make provision for and in relation to the\ntransmission to a prescribed overseas country of copies of, and documents\nrelating to, an order made by a court in Australia with respect to custody of,\nor access to, a child who is the subject of an overseas custody order.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:70",
+      "title": "Section 70 - Interfering with child subject to custody order.",
+      "main_structural_unit": "section",
+      "main_structural_number": "70",
+      "main_structural_heading": "Interfering with child subject to custody order.",
+      "defined_term": null,
+      "structure_path": "Part VII-WELFARE AND CUSTODY OF CHILDREN > Section 70",
+      "text": "70. (1) Where an order is made under this Act granting to a person the\ncustody of a child of a marriage, a person shall not remove the child from the\ncare and control of the first-mentioned person contrary to the order or\ninterfere with the exercise of the first-mentioned person's rights under the\norder in respect of the child.\n  (2) Where an order is made under this Act granting to a person the custody\nof a child of a marriage, being a child that is in the care and control of\nanother person, that other person shall, upon demand by the person entitled to\nthe custody of the child under the order, deliver the child to that person.\n  (3) Where an order under this Act provides for a person to have access to a\nchild of a marriage, a person shall not, without just cause or excuse, hinder\nor prevent the first-mentioned person from obtaining access to the child in\naccordance with the order or interfere with the access to the child that the\nfirst-mentioned person is entitled to in accordance with the order.\n  (4) Sub-sections (1), (2) and (3) apply to an order registered in a court\nunder section 67 or 68 as if the order were an order made under this Act.\n  (5) A person shall not prevent or hinder the execution of a warrant issued\nin pursuance of section 64.\n  (6) If a court having jurisdiction under this Act is satisfied that a person\nhas knowingly and without reasonable cause contravened or failed to comply\nwith a provision of this section, that court may-\n  (a)  order that person to pay a fine not exceeding $1,000;\n  (b)  require that person to enter into a recognizance, with or without\nsureties, in such reasonable amount as the court thinks fit, that that person\nwill comply with the relevant order, or order that person to be imprisoned\nuntil that person enters into such a recognizance or until the expiration of 3\nmonths, whichever first occurs;\n  (c)  order that person to deliver up to the court that person's passport and\nsuch other documents as the court thinks fit; and\n  (d)  make such other orders as the court considers necessary to enforce\ncompliance with this section.\n  (7) Where an act or omission referred to in sub-section (6) is an offence\nagainst any other law, the person committing the offence may be prosecuted and\nconvicted under that law, but nothing in this section shall render any person\nliable to be punished twice in respect of the same offence.\n  (8) Sub-section (6) does not prejudice the power of a court to punish a\nperson for contempt of court.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:71",
+      "title": "Section 71 - Definition.",
+      "main_structural_unit": "section",
+      "main_structural_number": "71",
+      "main_structural_heading": "Definition.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 71",
+      "text": "71. In this Part-\n  ''marriage'' includes a void marriage;\n  ''re-marriage'', in relation to a person who was a party to a purported\nmarriage that is void, means marriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:72",
+      "title": "Section 72 - Right of spouse to maintenance.",
+      "main_structural_unit": "section",
+      "main_structural_number": "72",
+      "main_structural_heading": "Right of spouse to maintenance.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 72",
+      "text": "72. A party to a marriage is liable to maintain the other party, to the\nextent that the first-mentioned party is reasonably able to do so, if, and\nonly if, that other party is unable to support herself or himself adequately,\nwhether by reason of having the care or control of a child of the marriage who\nhas not attained the age of 18 years, or by reason of age or physical or\nmental incapacity for appropriate gainful employment or for any other adequate\nreason having regard to any relevant matter referred to in sub-section 75\n(2).\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:73",
+      "title": "Section 73 - Maintenance of children.",
+      "main_structural_unit": "section",
+      "main_structural_number": "73",
+      "main_structural_heading": "Maintenance of children.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 73",
+      "text": "73. The parties to a marriage are liable, according to their respective\nfinancial resources, to maintain the children of the marriage who have not\nattained the age of 18 years.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:74",
+      "title": "Section 74 - Powers of court in maintenance proceedings.",
+      "main_structural_unit": "section",
+      "main_structural_number": "74",
+      "main_structural_heading": "Powers of court in maintenance proceedings.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 74",
+      "text": "74. In proceedings with respect to the maintenance of a party to a marriage\nor of a child of a marriage, the court may make such order as it thinks proper\nfor the provision of maintenance in accordance with this Part.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:75",
+      "title": "Section 75 - Matters to be taken into consideration in proceedings with respect to maintenance.",
+      "main_structural_unit": "section",
+      "main_structural_number": "75",
+      "main_structural_heading": "Matters to be taken into consideration in proceedings with respect to maintenance.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 75",
+      "text": "75. (1) In exercising jurisdiction under this Part, the court shall take\ninto account only the matters referred to in sub-section (2).\n  (2) The matters to be so taken into account are-\n  (a)  the age and state of health of each of the parties;\n  (b)  the income, property and financial resources of each of the parties and\nthe physical and mental capacity of each of them for appropriate gainful\nemployment;\n  (c)  whether either party has the care or control of a child of the marriage\nwho has not attained the age of 18 years;\n  (d)  the financial needs and obligations of each of the parties;\n  (e)  the responsibilities of either party to support any other person;\n  (f)  the eligibility of either party for a pension, allowance or benefit\nunder any law of Australia or of a State or Territory or under any\nsuperannuation fund or scheme, or the rate of any such pension, allowance or\nbenefit being paid to either party;\n  (g)  where the parties have separated or the marriage has been dissolved, a\nstandard of living that in all the circumstances is reasonable;\n  (h)  the extent to which the payment of maintenance to the party whose\nmaintenance is under consideration would increase the earning capacity of that\nparty by enabling that party to undertake a course of education or training or\nto establish himself or herself in a business or otherwise to obtain an\nadequate income;\n  (j)  the extent to which the party whose maintenance is under consideration\nhas contributed to the income, earning capacity, property and financial\nresources of the other party;\n  (k)  the duration of the marriage and the extent to which it has affected\nthe earning capacity of the party whose maintenance is under consideration;\n  (l)  the need to protect the position of a woman who wishes only to continue\nher role as a wife and mother;\n  (m)  if the party whose maintenance is under consideration is cohabiting\nwith another person-the financial circumstances relating to the cohabitation;\n  (n)  the terms of any order made or proposed to be made under section 79 in\nrelation to the property of the parties; and\n  (o)  any fact or circumstance which, in the opinion of the court, the\njustice of the case requires to be taken into account.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:76",
+      "title": "Section 76 - Maintenance of children.",
+      "main_structural_unit": "section",
+      "main_structural_number": "76",
+      "main_structural_heading": "Maintenance of children.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 76",
+      "text": "76. (1) In determining-\n  (a)  whether to make an order for the maintenance of a child of a marriage;\nor\n  (b)  the period for which such an order should continue in force or the\namount of any payment to be required to be made under such an order,\nthe court shall, in addition to the matters referred to in section 75, take\ninto account-\n  (c)  the income, earning capacity, property and other financial resources of\nthe child;\n  (d)  the financial needs of the child; and\n  (e)  the manner in which the child is being, and in which the parties to the\nmarriage expected the child to be, educated or trained.\n  (2)  Subject to sub-section (3)-\n  (a)  an order shall not be made for the maintenance of a child who has\nattained the age of 18 years; and\n  (b)  an order for the maintenance of a child ceases to be in force when the\nchild attains the age of 18 years.\n  (3) The court may-\n  (a)  provide in an order for the maintenance of a child who has not attained\nthe age of 18 years that the order shall continue in force until a day that is\nlater than, or for a period that extends beyond, the day on which the child\nwill attain that age; or\n  (b)  make an order for the maintenance of a child who has attained the age\nof 18 years, being an order that is expressed to continue in force until a\nday, or for a period, specified in the order,\nif the court is satisfied that the provision of the maintenance is necessary\nto enable the child to complete his education (including vocational training\nor apprenticeship) or because he is mentally or physically handicapped, and,\nin that case, the order continues in force until that day or the expiration of\nthat period, as the case may be.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:77",
+      "title": "Section 77 - Urgent maintenance cases.",
+      "main_structural_unit": "section",
+      "main_structural_number": "77",
+      "main_structural_heading": "Urgent maintenance cases.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 77",
+      "text": "77. Where, in proceedings with respect to the maintenance of a party to a\nmarriage or a child of a marriage, it appears to the court that the party or\nchild is in immediate need of financial assistance, but it is not practicable\nin the circumstances to determine immediately what order, if any, should be\nmade, the court may order the payment, pending the disposal of the\nproceedings, of such periodic sum or other sums as the court considers\nreasonable.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:78",
+      "title": "Section 78 - Declaration of interests in property.",
+      "main_structural_unit": "section",
+      "main_structural_number": "78",
+      "main_structural_heading": "Declaration of interests in property.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 78",
+      "text": "78. (1) In proceedings between the parties to a marriage with respect to\nexisting title or rights in respect of property, the court may declare the\ntitle or rights, if any, that a party has in respect of the property.\n  (2) Where a court makes a declaration under sub-section (1), it may make\nconsequential orders to give effect to the declaration, including orders as to\nsale or partition and interim or permanent orders as to possession.\n  (3) An order under this section is binding on the parties to the marriage\nbut not on any other person.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:79",
+      "title": "Section 79 - Alteration of property interests.",
+      "main_structural_unit": "section",
+      "main_structural_number": "79",
+      "main_structural_heading": "Alteration of property interests.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 79",
+      "text": "79. (1) In proceedings with respect to the property of the parties to a\nmarriage or either of them, the court may make such order as it thinks fit\naltering the interests of the parties in the property, including an order for\na settlement of property in substitution for any interest in the property and\nincluding an order requiring either or both of the parties to make, for the\nbenefit of either or both of the parties or a child of the marriage, such\nsettlement or transfer of property as the court determines.\n  (2) The court shall not make an order under this section unless it is\nsatisfied that, in all the circumstances, it is just and equitable to make the\norder.\n  (3) The court shall not make an order under this section unless a decree\nnisi for dissolution of the marriage, or a decree of nullity of the marriage,\nhas been made or proceedings for a decree of dissolution or nullity of the\nmarriage have been instituted in that court or in another court having\njurisdiction under this Act or a party has filed in the court a notice under Section 15.\n  (4) In considering what order should be made under this section the court\nshall take into account-\n  (a)  the financial contribution made directly or indirectly by or on behalf\nof a party or a child to the acquisition, conservation or improvement of the\nproperty, or otherwise in relation to the property;\n  (b)  the contribution made directly or indirectly to the acquisition,\nconservation or improvement of the property by either party, including any\ncontribution made in the capacity of homemaker or parent;\n  (c)  the effect of any proposed order upon the earning capacity of either\nparty;\n  (d)  the matters referred to in sub-section 75 (2) so far as they are\nrelevant; and\n  (e)  any other order made under this Act affecting a party.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:80",
+      "title": "Section 80 - General powers of court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "80",
+      "main_structural_heading": "General powers of court.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 80",
+      "text": "80. The court, in exercising its powers under this Part, may do any or all\nof the following:-\n  (a)  order payment of a lump sum, whether in one amount or by instalments;\n  (b)  order payment of a weekly, monthly, yearly or other periodic sum;\n  (c)  order that payment of any sum ordered to be paid be wholly or partly\nsecured in such manner as the court directs;\n  (d)  order that any necessary deed or instrument be executed and that such\ndocuments of title be produced or such other things be done as are necessary\nto enable an order to be carried out effectively or to provide security for\nthe due performance of an order;\n  (e)  appoint or remove trustees;\n  (f)  order that payments be made direct to a party to the marriage, to a\ntrustee to be appointed or into court or to a public authority for the benefit\nof a party to the marriage;\n  (g)  order that payment of maintenance in respect of a child be made to such\nperson or public authority as the court specifies;\n  (h)  make a permanent order, an order pending the disposal of proceedings or\nan order for a fixed term or for a life or during joint lives or until further\norder;\n  (i) impose terms and conditions;\n  (j)  make an order by consent;\n  (k)  make any other order (whether or not of the same nature as those\nmentioned in the preceding paragraphs of this section), which it thinks it is\nnecessary to make to do justice; and\n  (l)  subject to this Act, make an order under this Part at any time before\nor after the making of a decree under another Part.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:81",
+      "title": "Section 81 - Duty of court to end financial relations.",
+      "main_structural_unit": "section",
+      "main_structural_number": "81",
+      "main_structural_heading": "Duty of court to end financial relations.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 81",
+      "text": "81. In proceedings under this Part, other than proceedings under section 78\nor proceedings with respect to maintenance payable during the subsistence of a\nmarriage, the court shall, as far as practicable, make such orders as will\nfinally determine the financial relationships between the parties to the\nmarriage and avoid further proceedings between them.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:82",
+      "title": "Section 82 - Cessation of orders.",
+      "main_structural_unit": "section",
+      "main_structural_number": "82",
+      "main_structural_heading": "Cessation of orders.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 82",
+      "text": "82. (1) An order with respect to the maintenance of a party to a marriage or\na child of a marriage ceases to have effect upon the death of the party or\nchild.\n  (2) Subject to sub-section (3), an order with respect to the maintenance of\na party to a marriage or a child of a marriage ceases to have effect upon the\ndeath of the person liable to make payments under the order.\n  (3) Sub-section (2) does not apply in relation to an order if the order is\nexpressed to continue in force throughout the life of the person for whose\nbenefit the order was made or for a period that had not expired at the time of\nthe death of the person liable to make payments under the order and, in that\ncase, the order is binding upon the legal personal representative of the\ndeceased person.\n  (4) An order with respect to the maintenance of a party to a marriage ceases\nto have effect upon the re-marriage of the party unless in special\ncircumstances the court having jurisdiction otherwise orders.\n  (5) Subject to the provisions of sub-section 76 (3), an order with respect\nto the maintenance of a child of a marriage ceases to have effect upon the\nadoption or marriage of the child.\n  (6) Where a re-marriage referred to in sub-section (4) or a marriage\nreferred to in sub-section (5) takes place, it is the duty of the person for\nwhose benefit the order was made to inform without delay the person liable to\nmake payments under the order of the date of the re-marriage or marriage.\n  (7) Any moneys paid in respect of a period after the event referred to in\nsub-section (4) or (5) may be recovered in a court having jurisdiction under\nthis Act.\n  (8) Nothing in this section affects the recovery of arrears due under an\norder at the time when the order ceased to have effect.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:83",
+      "title": "Section 83 - Modification of maintenance orders.",
+      "main_structural_unit": "section",
+      "main_structural_number": "83",
+      "main_structural_heading": "Modification of maintenance orders.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 83",
+      "text": "83. (1) In proceedings with respect to the maintenance of a party to a\nmarriage or of a child of a marriage, if there is in force an order (whether\nmade before or after the commencement of this Act) with respect to the\nmaintenance of that party or child by the other party to the marriage-\n  (a)  made by the court; or\n  (b)  made by another court and registered in the first-mentioned court in\naccordance with the regulations,\nthe court may-\n  (c)  discharge the order if there is any just cause for so doing;\n  (d)  suspend its operation wholly or in part and either until further order\nor until a fixed time or the happening of some future event;\n  (e)  revive wholly or in part an order suspended under paragraph (d); or\n  (f)  subject to sub-section (2), vary the order so as to increase or\ndecrease any amount ordered to be paid or in any other manner.\n  (2) The court shall not make an order increasing or decreasing an amount\nordered to be paid by an order unless it is satisfied-\n  (a)  that, since the order was made or last varied-\n      (i)  the circumstances of a person for whose benefit the order was made\nhave so changed;\n     (ii)  the circumstances of the person liable to make payments under the\norder have so changed; or\n     (iii)  in the case of an order that is binding on a legal personal\nrepresentative, the circumstances of the estate are such,\n    as to justify its so doing;\n  (b)  that, since the order was made, or last varied, the cost of living has\nchanged to such an extent as to justify its so doing; or\n  (c)  that material facts were withheld from the court that made the order or\nfrom a court that varied the order or material evidence previously given\nbefore such a court was false.\n  (3) Sub-section (2) does not prevent the court from making an order varying\nan order made before the date of commencement of this Act if the\nfirst-mentioned order is made for the purpose of giving effect to this Part.\n  (4) In satisfying itself for the purposes of paragraph (2) (b), the court\nshall have regard to any changes that have occurred in the Consumer Price\nIndex published by the Commonwealth Statistician.\n  (5) The court shall not, in considering the variation of an order, have\nregard to a change in the cost of living unless at least 12 months have\nelapsed since the order was made or was last varied having regard to a change\nin the cost of living.\n  (6) An order decreasing the amount of a periodic sum payable under an order\nor discharging an order shall not be expressed to be retrospective to a date\nearlier than 12 months before the date of the application for the variation or\ndischarge.\n  (7) For the purposes of this section, the court shall have regard to the\nprovisions of sections 72, 75 and 76.\n  (8) The discharge of an order does not affect the recovery of arrears due\nunder the order at the time as at which the discharge takes effect.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:84",
+      "title": "Section 84 - Execution of instruments by order of court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "84",
+      "main_structural_heading": "Execution of instruments by order of court.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 84",
+      "text": "84. (1) Where-\n  (a)  an order under this Part has directed a person to execute a deed or\ninstrument; and\n  (b)  that person has refused or neglected to comply with the direction or,\nfor any other reason, the court thinks it necessary to exercise the powers of\nthe court under this sub-section,\nthe court may appoint an officer of the court or other person to execute the\ndeed or instrument in the name of the person to whom the direction was given\nand to do all acts and things necessary to give validity and operation to the\ndeed or instrument.\n  (2) The execution of the deed or instrument by the person so appointed has\nthe same force and validity as if it had been executed by the person directed\nby the order to execute it.\n  (3) The court may make such order as it thinks just as to the payment of the\ncosts and expenses of and incidental to the preparation of the deed or\ninstrument and its execution.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:85",
+      "title": "Section 85 - Transactions to defeat claims.",
+      "main_structural_unit": "section",
+      "main_structural_number": "85",
+      "main_structural_heading": "Transactions to defeat claims.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 85",
+      "text": "85. (1) In proceedings under this Part, the court may set aside or restrain\nthe making of an instrument or disposition by or on behalf of, or by direction\nor in the interest of, a party, which is made or proposed to be made to defeat\nan existing or anticipated order in those proceedings for costs, maintenance\nor the declaration or alteration of any interests in property or which,\nirrespective of intention, is likely to defeat any such order.\n  (2) The court may order that any money or real or personal property dealt\nwith by any such instrument or disposition may be taken in execution or\ncharged with the payment of such sums for costs or maintenance as the court\ndirects, or that the proceeds of a sale shall be paid into court to abide its\norder.\n  (3) The court shall have regard to the interests of, and shall make any\norder proper for the protection of, a bona fide purchaser or other person\ninterested.\n  (4) A party or a person acting in collusion with a party may be ordered to\npay the costs of any other party or of a bona fide purchaser or other person\ninterested of and incidental to any such instrument or disposition and the\nsetting aside or restraining of the instrument or disposition.\n  (5) In this section, ''disposition'' includes a sale and a gift.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:86",
+      "title": "Section 86 - Registration of maintenance agreements.",
+      "main_structural_unit": "section",
+      "main_structural_number": "86",
+      "main_structural_heading": "Registration of maintenance agreements.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 86",
+      "text": "86. (1) A maintenance agreement other than an agreement to which section 87\napplies may be registered, as prescribed, in any court having jurisdiction\nunder this Act.\n  (2) Where a maintenance agreement is so registered in a court, the court\nmay, in relation to the agreement, exercise any of the powers conferred on the\ncourt under section 83 as if the agreement were an order of the court.\n  (3) The court in which a maintenance agreement is registered under\nsub-section (1) may set aside the agreement if, and only if, the court is\nsatisfied that the concurrence of a party was obtained by fraud or undue\ninfluence or that the parties desire the agreement to be set aside.\n  (4) Subject to section 89, this section does not apply to overseas\nmaintenance agreements.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:87",
+      "title": "Section 87 - Approval of maintenance agreements entered into in substitution for rights under Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "87",
+      "main_structural_heading": "Approval of maintenance agreements entered into in substitution for rights under Act.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 87",
+      "text": "87. (1) Subject to this section, a maintenance agreement may make provision\nto the effect that the agreement shall operate, in relation to the financial\nmatters dealt with in the agreement, in substitution for any rights of the\nparties to the agreement under this Part.\n  (2) A maintenance agreement that makes provision as mentioned in sub-section\n(1) does not have any effect unless it has been approved by the court.\n  (3) If-\n  (a)  a maintenance agreement makes provision as mentioned in sub-section\n(1); and\n  (b)  the agreement has been approved by the court and the approval has not\nbeen revoked,\nany order having effect under this Part or any order made under Part VIII of\nthe repealed Act and continued in effect by virtue of paragraph 3 (2) (c)\nceases to have effect in so far as it relates to the financial matters dealt\nwith in the agreement and, subject to sub-section (9), no court having\njurisdiction under this Act may make an order with respect to those financial\nmatters.\n  (4) In proceedings for the approval of a maintenance agreement, if the court\nis satisfied that the provisions of the agreement with respect to financial\nmatters are proper, the court shall approve the agreement, but, if the court\nis not so satisfied, it shall refuse to approve the agreement.\n  (5) A maintenance agreement that has been approved by a court ceases to be\nin force upon the death of a party to the agreement unless the agreement\notherwise provides.\n  (6) A court may revoke its approval of a maintenance agreement if, and only\nif, it is satisfied that the approval of the court was obtained by fraud, that\nthe concurrence of a party was obtained by fraud or undue influence or that\nthe parties to the agreement desire the revocation of the approval and, where\nan approval is so revoked, the agreement ceases to be in force.\n  (7) Where a court has approved a maintenance agreement, the agreement shall\nbe deemed to be registered in that court.\n  (8) An agreement that is by virtue of sub-section (7) deemed to be\nregistered in a court may be registered, as prescribed, in another court\nhaving jurisdiction under this Act.\n  (9) Where the court is satisfied that the arrangements in a maintenance\nagreement that has been approved by the court relating to a child of the\nmarriage who has not attained the age of 18 years are no longer proper, it may\nmake an order under this Part.\n  (10) Nothing in this Act affects the operation of an agreement sanctioned\nunder paragraph 87 (1) (k) of the repealed Act or the rights and obligations\nof a person under such an agreement.\n  (11) Subject to section 89, this section does not apply to overseas\nmaintenance agreements.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:88",
+      "title": "Section 88 - Enforcement of maintenance agreements.",
+      "main_structural_unit": "section",
+      "main_structural_number": "88",
+      "main_structural_heading": "Enforcement of maintenance agreements.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 88",
+      "text": "88. A maintenance agreement that has been registered, or is deemed to have\nbeen registered, in a court may be enforced as if it were an order of that\ncourt.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:89",
+      "title": "Section 89 - Overseas maintenance agreements.",
+      "main_structural_unit": "section",
+      "main_structural_number": "89",
+      "main_structural_heading": "Overseas maintenance agreements.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 89",
+      "text": "89. The regulations may make provision for and in relation to-\n  (a)  the application of sections 86 and 87, with such additions, exceptions\nand modifications as are prescribed, to overseas maintenance agreements; and\n  (b)  the transmission to appropriate courts or authorities of prescribed\noverseas countries of, or of copies of, maintenance agreements and of\nagreements for maintenance of ex-nuptial children for the purpose of securing\nthe enforcement of those agreements in those countries.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:90",
+      "title": "Section 90 - Instruments not liable to duty.",
+      "main_structural_unit": "section",
+      "main_structural_number": "90",
+      "main_structural_heading": "Instruments not liable to duty.",
+      "defined_term": null,
+      "structure_path": "Part VIII-MAINTENANCE AND PROPERTY > Section 90",
+      "text": "90. A maintenance agreement, or a deed or other instrument executed by a\nperson for the purposes of such an agreement or for the purposes of, or in\naccordance with an order under, this Part, is not subject to any duty or\ncharge under any law of a State or Territory.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:91",
+      "title": "Section 91 - Intervention by Attorney-General.",
+      "main_structural_unit": "section",
+      "main_structural_number": "91",
+      "main_structural_heading": "Intervention by Attorney-General.",
+      "defined_term": null,
+      "structure_path": "Part IX-INTERVENTION > Section 91",
+      "text": "91. (1) The Attorney-General may intervene in, and contest or argue any\nquestion arising in-\n  (a)  any proceedings under this Act where the court requests him to do so or\na matter arises that affects the public interest; or\n  (b)  any proceedings under this Act with respect to the custody or\nguardianship of, or access to, children.\n  (2) Where the Attorney-General intervenes in any proceedings, he shall be\ndeemed to be a party to the proceedings with all the rights, duties and\nliabilities of a party.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:92",
+      "title": "Section 92 - Intervention by other persons.",
+      "main_structural_unit": "section",
+      "main_structural_number": "92",
+      "main_structural_heading": "Intervention by other persons.",
+      "defined_term": null,
+      "structure_path": "Part IX-INTERVENTION > Section 92",
+      "text": "92. (1) In proceedings other than proceedings for principal relief, any\nperson may apply for leave to intervene in the proceedings, and the court may\nmake an order entitling that person to intervene in the proceedings.\n  (2) An order under this section may be made upon such conditions as the\ncourt thinks fit.\n  (3) Where a person intervenes in any proceedings by leave of the court he\nshall, unless the court otherwise orders, be deemed to be a party to the\nproceedings with all the rights, duties and liabilities of a party.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:93",
+      "title": "Section 93 - No appeal after decree absolute.",
+      "main_structural_unit": "section",
+      "main_structural_number": "93",
+      "main_structural_heading": "No appeal after decree absolute.",
+      "defined_term": null,
+      "structure_path": "Part X-APPEALS > Section 93",
+      "text": "93. An appeal does not not lie from a decree of dissolution of marriage\nafter the decree has become absolute.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:94",
+      "title": "Section 94 - Appeals from courts exercising original jurisdiction.",
+      "main_structural_unit": "section",
+      "main_structural_number": "94",
+      "main_structural_heading": "Appeals from courts exercising original jurisdiction.",
+      "defined_term": null,
+      "structure_path": "Part X-APPEALS > Section 94",
+      "text": "94. (1) A person aggrieved by a decision of a Judge of the Supreme Court of\na State exercising jurisdiction under this Act or of the Family Court\nexercising original jurisdiction under this Act or a Family Court established\nunder section 41 of this Act may, within the time prescribed by the\nregulations, appeal from the decree to the Full Court of the Family Court.\n  (2) Upon such an appeal, the Full Court may affirm, reverse or vary the\ndecree the subject of the appeal and may make such decree as, in the opinion\nof the court, ought to have been made in the first instance, or may, if it\nthinks fit, order a re-hearing, on such terms and conditions, if any, as it\nthinks fit.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:95",
+      "title": "Section 95 - Appeals to High Court.",
+      "main_structural_unit": "section",
+      "main_structural_number": "95",
+      "main_structural_heading": "Appeals to High Court.",
+      "defined_term": null,
+      "structure_path": "Part X-APPEALS > Section 95",
+      "text": "95. Notwithstanding anything contained in the Judiciary Act 1903-1973, an\nappeal does not lie to the High Court from a judgment, decree or order of a\ncourt exercising jurisdiction under this Act, whether original or appellate,\nexcept-\n  (a)  by special leave of the High Court; or\n  (b)  upon a certificate of the Full Court of the Family Court that an\nimportant question of law or of public interest is involved.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:96",
+      "title": "Section 96 - Appeals from courts of summary jurisdiction.",
+      "main_structural_unit": "section",
+      "main_structural_number": "96",
+      "main_structural_heading": "Appeals from courts of summary jurisdiction.",
+      "defined_term": null,
+      "structure_path": "Part X-APPEALS > Section 96",
+      "text": "96. (1) A person aggrieved by the decree of a court of summary jurisdiction\nof a State or Territory exercising jurisdiction under this Act may, within\nsuch time as is prescribed, appeal to the Family Court or to the Supreme Court\nof that State or Territory.\n  (2) The Supreme Court of each State is invested with federal jurisdiction,\nand jurisdiction is conferred on the Family Court and on the Supreme Court of\neach Territory, to hear and determine appeals instituted in that Court under\nthis section.\n  (3) The Governor-General may, by Proclamation, fix a date as the date on or\nafter which appeals to the Supreme Court of a specified State or Territory\nunder this section may not be instituted.\n  (4) A court shall determine an appeal under this section in accordance\nwith-\n  (a)  the law in force on the date on which the hearing of the appeal is\nconcluded; and\n  (b)  the evidence that was before the court of summary jurisdiction and any\nother evidence adduced with the leave of that court under sub-section (5).\n  (5) On the hearing of an appeal to which this section applies a party is not\nentitled to adduce evidence except with the leave of the court-\n  (a)  granted on the ground that the evidence relates to matters that\noccurred after the hearing of the proceedings in the court of summary\njurisdiction; or\n  (b)  granted in special circumstances on another ground.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:97",
+      "title": "Section 97 - Procedure.",
+      "main_structural_unit": "section",
+      "main_structural_number": "97",
+      "main_structural_heading": "Procedure.",
+      "defined_term": null,
+      "structure_path": "Part XI-PROCEDURE AND EVIDENCE > Section 97",
+      "text": "97. (1) Subject to sub-section (2) and to the regulations, all proceedings\nin the Family Court, or in another court when exercising jurisdiction under\nthis Act, shall be heard in closed court.\n  (2) Subject to the regulations, relatives or friends of either party,\nmarriage counsellors, welfare officers and legal practitioners may be present\nin court unless in a particular case the court otherwise orders.\n  (3) In proceedings under this Act, the court shall proceed without undue\nformality and shall endeavour to ensure that the proceedings are not\nprotracted.\n  (4) Neither the Judge hearing proceedings under this Act nor counsel shall\nrobe.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:98",
+      "title": "Section 98 - Evidence by affidavit.",
+      "main_structural_unit": "section",
+      "main_structural_number": "98",
+      "main_structural_heading": "Evidence by affidavit.",
+      "defined_term": null,
+      "structure_path": "Part XI-PROCEDURE AND EVIDENCE > Section 98",
+      "text": "98. The regulations may provide for evidence of any material matter to be\ngiven on affidavit at the hearing of-\n  (a)  proceedings for principal relief that are undefended at the time of\nhearing; and\n  (b)  proceedings other than proceedings for principal relief.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:99",
+      "title": "Section 99 - Evidence as to paternity.",
+      "main_structural_unit": "section",
+      "main_structural_number": "99",
+      "main_structural_heading": "Evidence as to paternity.",
+      "defined_term": null,
+      "structure_path": "Part XI-PROCEDURE AND EVIDENCE > Section 99",
+      "text": "99. Where the paternity of a child is a question in issue in proceedings\nunder this Act, the court may make an order requiring either party to the\nmarriage or any other person to give such evidence as is material to the\nquestion.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:100",
+      "title": "Section 100 - Evidence of husbands and wives",
+      "main_structural_unit": "section",
+      "main_structural_number": "100",
+      "main_structural_heading": "Evidence of husbands and wives",
+      "defined_term": null,
+      "structure_path": "Part XI-PROCEDURE AND EVIDENCE > Section 100",
+      "text": "100. (1) The parties to proceedings under this Act are competent and\ncompellable witnesses.\n  (2) In the proceedings under this Act, the parties to a marriage are\ncompetent and compellable to disclose communications made between them during\nthe marriage.\n  (3) Sub-section (2) applies to communications made before, as well as to\ncommunications made after, the date of commencement of this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:101",
+      "title": "Section 101 - Offensive or scandalous questions",
+      "main_structural_unit": "section",
+      "main_structural_number": "101",
+      "main_structural_heading": "Offensive or scandalous questions",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 101",
+      "text": "101. The court shall forbid the asking of, or excuse a witness from\nanswering, a question that it regards as offensive, scandalous, insulting or\nhumiliating, unless the court is satisfied that it is essential in the\ninterests of justice that the question be answered.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:102",
+      "title": "Section 102 - Proof of birth, death or marriage",
+      "main_structural_unit": "section",
+      "main_structural_number": "102",
+      "main_structural_heading": "Proof of birth, death or marriage",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 102",
+      "text": "102. In proceedings under this Act, the court may receive as evidence of the\nfacts stated in it a document purporting to be either the original or a\ncertified copy of a certificate, entry or record of a birth, death or marriage\nalleged to have taken place whether in Australia or elsewhere.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:103",
+      "title": "Section 103 - Decrees under this Act",
+      "main_structural_unit": "section",
+      "main_structural_number": "103",
+      "main_structural_heading": "Decrees under this Act",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 103",
+      "text": "103. A decree under this Act has effect throughout Australia and the\nexternal Territories other than Papua New Guinea.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:104.p1",
+      "title": "Section 104 - Overseas decrees",
+      "main_structural_unit": "section",
+      "main_structural_number": "104",
+      "main_structural_heading": "Overseas decrees",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 104",
+      "text": "104. (1) In this section- ''applicant'', in relation to the dissolution or annulment of a marriage, means the party at whose instance the dissolution or annulment was effected; ''marriage'' includes a purported marriage that is void; ''overseas country'' means a country, or part of a country, outside Australia; ''relevant date'', in relation to a dissolution or annulment of a marriage, means the date of the institution of the proceedings that resulted in the dissolution or annulment; ''respondent'', in relation to the dissolution or annulment of a marriage, means a party to the marriage not being the party at whose instance the dissolution or annulment was effected. (2) For the purposes of this section, a person who is a national of a country of which an overseas country forms part shall be deemed to be a national of that overseas country. (3) A dissolution or annulment of a marriage effected in accordance with the law of an overseas country shall be recognized as valid in Australia where- (a) the respondent was ordinarily resident in the overseas country at the relevant date; (b) the applicant was ordinarily resident in the overseas country at the relevant date and either- (i) the ordinary residence of the applicant had continued for not less than 1 year immediately before the relevant date; or (ii) the last place of cohabitation of the parties to the marriage was in that country; (c) the applicant or the respondent was domiciled in the overseas country at the relevant date; (d) the respondent was a national of the overseas country at the relevant date; (e) the applicant was a national of the overseas country at the relevant date and either- (i) the applicant was ordinarily resident in that country at that date; or (ii) the applicant had been ordinarily resident in that country for a continuous period of 1 year falling, at least in part, within the 2 years immediately before the relevant date; or (f) the applicant was a national of, and present in, the overseas country at the relevant date and the last place of cohabitation of the parties to the marriage was in an overseas country the law of which, at the relevant date, did not provide for dissolution of marriage or annulment of marriage, as the case may be. (4) A dissolution or annulment of a marriage shall not be recognized as valid by virtue of sub-section (3) where- (a) under the common law rules of private international law, recognition of its validity would be refused on the ground that a party to the marriage had been denied natural justice or that the dissolution or annulment was obtained by fraud; or (b) recognition would manifestly be contrary to public policy. (5) Any dissolution or annulment of a marriage that would be recognized as valid under the common law rules of private international law but to which none of the preceding provisions of this section applies shall be recognized as valid in Australia, and the operation of this sub-section shall not be limited by any implication from those provisions. (6) Notwithstanding anything contained in this section, the annulment in accordance with the law of an overseas country of a marriage solemnized under Part V of the Marriage Act 1961 or of that Act as amended, being an annulment on the ground only of non-compliance with the formalities prescribed by the law of the country in which the marriage was solemnized, shall not be recognized as valid in Australia. (7) For the purposes of this section, a court in Australia, in considering the validity of a dissolution or annulment effected under the law of an overseas country, may treat as proved any facts found by a court of the overseas country or otherwise established for the purposes of the law of the overseas country. (8) For the purposes of the preceding provisions of this section but without limiting the operation of those provisions, a dissolution or annulment of a marriage shall be deemed to have been effected in accordance with the law of an overseas country if it was effected in another overseas country in circumstances in which, at the relevant date, it would have been recognized as valid by the law of the first-mentioned overseas country. (9) Where a dissolution or annulment of a marriage is to be recognized as valid in accordance with this section, the capacity of a party to that marriage to re-marry in accordance with the law of Australia is not affected by the fact that the validity of the dissolution or annulment is not recognized under the law of some other"
+    },
+    {
+      "key": "section:104.p2",
+      "title": "Section 104 - Overseas decrees",
+      "main_structural_unit": "section",
+      "main_structural_number": "104",
+      "main_structural_heading": "Overseas decrees",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 104",
+      "text": "law of an overseas country if it was effected in another overseas country in circumstances in which, at the relevant date, it would have been recognized as valid by the law of the first-mentioned overseas country. (9) Where a dissolution or annulment of a marriage is to be recognized as valid in accordance with this section, the capacity of a party to that marriage to re-marry in accordance with the law of Australia is not affected by the fact that the validity of the dissolution or annulment is not recognized under the law of some other country. (10) The preceding provisions of this section apply in relation to dissolutions and annulments effected whether by decree, legislation or otherwise, whether before or after the commencement of this Act, and, for the purposes of this section, any decree, legislation or other process by which it is established that a purported marriage was or is to become void shall be deemed to be an annulment of the marriage. FAMILY LAW ACT 1975 No. 53 of 1975- Section 105 Enforcement generally. PART XIII-ENFORCEMENT OF DECREES 105. (1) Subject to this Part and to the regulations, all decrees made under this Act may be enforced by any court having jurisdiction under this Act. (2) A court shall not entertain a proceeding under this Act for the enforcement of a decree made by another court unless the decree is registered in the first-mentioned court in accordance with the regulations. (3) Where a person bound by a decree made under this Act has died, the decree may, by leave of the court by which it was made and on such terms and conditions as the court thinks fit, be enforced, in respect of liabilities that arose under the decree before the death of that person, against the estate of that person. FAMILY LAW ACT 1975 No. 53 of 1975- Section 106 Methods of enforcement. 106. The regulations may make provision for and in relation to the enforcement of decrees made under this Act including- (a) provision for conferring jurisdiction on courts of the Territories or investing State courts with federal jurisdiction; and (b) in the case of a decree being a maintenance order under Part VIII-provision for an officer of a court exercising jurisdiction under this Act or an authority or person specified in the regulations, in his discretion, to take proceedings on behalf of the person entitled to moneys payable under that order for the purpose of enforcing payment of those moneys. FAMILY LAW ACT 1975 No. 53 of 1975- Section 107 Persons in prison at commencement of Act. 107. (1) After the commencement of this Act, no person shall be imprisoned or otherwise placed in custody by reason of contravention of, or failure to comply with, an order for the payment of money made in a matrimonial cause and any person who is in a prison or other custody at the commencement of this Act as a result of contravention of, or failure to comply with, such an order shall be released forthwith. (2) The release from prison or other custody under sub-section (1) of a person who was in that prison or custody by reason of failure to pay any moneys does not release the person from any liability to pay those moneys. (3) This section does not affect the operation of sub-section 70 (6) or sub-section 114 (4). FAMILY LAW ACT 1975 No. 53 of 1975- Section 108 Contempt. 108. (1) Notwithstanding any other provision of law, a court having jurisdiction under this Act may punish persons for contempt in the face of the court when exercising that jurisdiction or for wilful disobedience of any decree made by the court in the exercise of jurisdiction under this Act. (2) The regulations may provide for practice and procedure as to charging with contempt and the hearing of the charge. (3) Where a person in contempt is not a corporation, the court may punish the contempt by committal to prison or fine or both. (4) Where a corporation is in contempt, the court may punish the contempt by sequestration or fine or both. (5) The court may make an order for- (a) punishment on terms; (b) suspension of punishment; or (c) the giving of security for good behaviour. (6) Where a person is committed to prison for a term for contempt, the court may order his discharge before the expiry of that term. FAMILY LAW ACT 1975 No. 53 of 1975- Section 109 Inter-State enforcement of affiliation and like orders. 109. (1) This section applies to an order for the payment of- (a)"
+    },
+    {
+      "key": "section:104.p3",
+      "title": "Section 104 - Overseas decrees",
+      "main_structural_unit": "section",
+      "main_structural_number": "104",
+      "main_structural_heading": "Overseas decrees",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 104",
+      "text": "corporation is in contempt, the court may punish the contempt by sequestration or fine or both. (5) The court may make an order for- (a) punishment on terms; (b) suspension of punishment; or (c) the giving of security for good behaviour. (6) Where a person is committed to prison for a term for contempt, the court may order his discharge before the expiry of that term. FAMILY LAW ACT 1975 No. 53 of 1975- Section 109 Inter-State enforcement of affiliation and like orders. 109. (1) This section applies to an order for the payment of- (a) the expenses of maintaining, for a period immediately before her confinement or expected confinement, a woman who has been, or is expected to be, confined for the purposes of childbirth; (b) medical, surgical, hospital or nursing expenses in respect of the confinement of such a woman; (c) the expenses of maintaining such a woman for a period immediately following her confinement; (d) the expenses of maintaining a woman who is expecting a child, where the order was made by reason that she was expecting the child; (e) an amount in respect of the maintenance of an ex-nuptial child who has not attained the age of 18 years where the order was made on the basis that the person against whom the order was made is a parent of the child; (f) funeral expenses in respect of an ex-nuptial child, where the order was made on the basis that the person against whom the order was made is a parent of the child; (g) funeral expenses in respect of the mother of an ex-nuptial child, where the order was made on the basis that the person against whom the order was made is the father of the child; or (h) medical, surgical, hospital or nursing expenses in respect of a person, where the order was made by reason that an order for the payment of expenses referred to in a preceding paragraph has been made in relation to that person. (2) The regulations may make provision for and in relation to the enforcement in a State or Territory by a court having jurisdiction under this Act of orders to which this section applies made by a court in another State or Territory. FAMILY LAW ACT 1975 No. 53 of 1975- Section 110 Overseas enforcement of maintenance orders. 110. (1) In this section- ''country with restricted reciprocity'' means a country outside Australia declared by the regulations to be a country with restricted reciprocity for the purposes of this section; ''maintenance order'' means an order with respect to the maintenance of a party to a marriage or of a child of a marriage who has not attained the age of 18 years or, to the extent provided by the regulations, an order of the kind referred to in section 109; ''reciprocating country'' means a country outside Australia declared by the regulations to be a reciprocating country for the purposes of this section. (2) The regulations may make provision for and in relation to- (a) the registration in, and enforcement by, courts having jurisdiction under this Act of maintenance orders made by courts of reciprocating countries or of countries with restricted reciprocity; (b) the transmission to appropriate courts or authorities of reciprocating countries or of countries with restricted reciprocity of maintenance orders made by courts having jurisdiction under this Act for the purpose of securing the enforcement of those orders in those countries; (c) the making of orders (including provisional orders) for the variation, discharge, suspension or revival of maintenance orders registered in accordance with regulations under this section or transmitted to other countries in accordance with regulations under this section, and the effect in Australia of orders under this paragraph; and (d) the making of orders for the confirmation of provisional orders made by courts in reciprocating countries or in countries with restricted reciprocity, being provisional maintenance orders or provisional orders varying, discharging, suspending or reviving maintenance orders, and the effect in Australia of orders under this paragraph. (3) The regulations may make different provision under this section in relation to reciprocating countries from the provision made in relation to countries with restricted reciprocity. FAMILY LAW ACT 1975 No. 53 of 1975- Section 111 Convention on Recovery Abroad of Maintenance. 111. The regulations may make such provision as is necessary to enable the performance of the obligations of Australia under the Convention on the Recovery Abroad of Maintenance signed at New York on 20 June 1956 but any such regulations shall not come into operation until the day on which that Convention enters into force"
+    },
+    {
+      "key": "section:104.p4",
+      "title": "Section 104 - Overseas decrees",
+      "main_structural_unit": "section",
+      "main_structural_number": "104",
+      "main_structural_heading": "Overseas decrees",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 104",
+      "text": "The regulations may make different provision under this section in relation to reciprocating countries from the provision made in relation to countries with restricted reciprocity. FAMILY LAW ACT 1975 No. 53 of 1975- Section 111 Convention on Recovery Abroad of Maintenance. 111. The regulations may make such provision as is necessary to enable the performance of the obligations of Australia under the Convention on the Recovery Abroad of Maintenance signed at New York on 20 June 1956 but any such regulations shall not come into operation until the day on which that Convention enters into force for Australia. FAMILY LAW ACT 1975 No. 53 of 1975- Section 112 Arrangements with States. 112. The Government of Australia may make arrangements with the Government of a State for the performance by officers of the State of functions under the regulations. FAMILY LAW ACT 1975 No. 53 of 1975- Section 113 Proceedings for declarations. PART XIV-DECLARATIONS AND INJUNCTIONS 113. In proceedings of the kind referred to in paragraph (b) of the definition of ''matrimonial cause'' in sub-section 4 (1), the court may make such declaration as is justified. FAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:114",
+      "title": "Section 114 - Injunctions.",
+      "main_structural_unit": "section",
+      "main_structural_number": "114",
+      "main_structural_heading": "Injunctions.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 114",
+      "text": "114. (1) In proceedings of the kind referred to in paragraph (e) of the\ndefinition of ''matrimonial cause'' in sub-section 4 (1), the court may make\nsuch order or grant such injunction as it thinks proper with respect to the\nmatter to which the proceedings relate, including an injunction for the\npersonal protection of a party to the marriage or of a child of the marriage\nor for the protection of the marital relationship or in relation to the\nproperty of a party to the marriage or relating to the use or occupancy of the\nmatrimonial home.\n  (2) In exercising its powers under sub-section (1), the court may make an\norder relieving a party to a marriage from any obligation to perform marital\nservices or render conjugal rights.\n  (3) A court exercising jurisdiction under this Act in proceedings other than\nproceedings to which sub-section (1) applies may grant an injunction, by\ninterlocutory order or otherwise (including an injunction in aid of the\nenforcement of a decree), in any case in which it appears to the court to be\njust or convenient to do so and either unconditionally or upon such terms and\nconditions as the court thinks appropriate.\n  (4) If a court having jurisdiction under this Act is satisfied that a person\nhas knowingly and without reasonable cause contravened or failed to comply\nwith an injunction or order under this section, that court may-\n  (a)  order that person to pay a fine not exceeding $1,000;\n  (b)  require that person to enter into a recognizance, with or without\nsureties, in such reasonable amount as the court thinks fit, that he will\ncomply with the injunction or order, or order him to be imprisoned until he\nenters into such a recognizance or until the expiration of 3 months, whichever\nfirst occurs;\n  (c)  order that person to deliver up to the court such documents as the\ncourt thinks fit; and\n  (d)  make such other orders as the court considers necessary to enforce\ncompliance with the injunction or order.\n  (5) Sub-section (4) does not prejudice the power of a court to punish a\nperson for contempt of court.\n  (6) Where an act or omission referred to in sub-section (4) is an offence\nagainst any other law, the person committing the offence may be prosecuted and\nconvicted under that law, but nothing in this section renders any person\nliable to be punished twice in respect of the same offence.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:115",
+      "title": "Section 115 - Family Law Council.",
+      "main_structural_unit": "section",
+      "main_structural_number": "115",
+      "main_structural_heading": "Family Law Council.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 115",
+      "text": "PART  XV-MISCELLANEOUS\n  115. (1) The Attorney-General may establish a Family Law Council consisting\nof persons appointed by him in accordance with sub- section (2).\n  (2) The Council shall consist of a Judge of the Family Court and such other\njudges, officers of the Public Service of Australia or of a State,\nrepresentatives of marriage counselling organizations and other persons as the\nAttorney-General thinks fit.\n  (3) It is the function of the Council to advise and make recommendations to\nthe Attorney-General, either of its own motion or upon request made to it by\nthe Attorney-General, concerning-\n  (a)  the working of this Act and other legislation relating to family law;\n  (b)  the working of legal aid in proceedings in family law; and\n  (c)  any other matters relating to family law.\n  (4) The Attorney-General shall appoint one of its members to be Chairman of\nthe Council.\n  (5) The members of the Council shall be paid such allowances in respect of\nexpenses in connexion with their duties as are prescribed.\n  (6) A member (including the Chairman) may resign his office by writing\nsigned by him and delivered to the Attorney-General.\n  (7) Meetings of the Council shall be convened by the Chairman or the\nAttorney-General.\n  (8) The Council shall cause records to be kept of its meetings.\n  (9) The Council shall, within 60 days after each year ending on 30 June,\nfurnish to the Attorney-General, for presentation to the Parliament, a report\nwith respect to its operations in that year.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:116",
+      "title": "Section 116 - Institute of Family Studies.",
+      "main_structural_unit": "section",
+      "main_structural_number": "116",
+      "main_structural_heading": "Institute of Family Studies.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 116",
+      "text": "116. (1) There is established by this Act an Institute by the name of the\nInstitute of Family Studies.\n  (2) The Institute shall consist of-\n  (a)  a Director; and\n  (b)  4 or more other members,\neach of whom shall be appointed by the Attorney-General.\n  (3) The functions of the Institute are-\n  (a)  to promote, by the encouragement and co-ordination of research and\nother appropriate means, the identification of, and development of\nunderstanding of, the factors affecting marital and family stability in\nAustralia, with the object of promoting the protection of the family as the\nnatural and fundamental group unit in society; and\n  (b)  to advise and assist the Attorney-General in relation to the making of\ngrants, out of moneys available under appropriations made by the Parliament,\nfor purposes related to the functions of the Institute and the supervising of\nthe employment of grants so made.\n  (4) The regulations may prescribe any matters that are necessary or\nconvenient to be prescribed in connexion with the conduct of the affairs of\nthe Institute, including matters relating to the conduct of the meetings of\nthe Institute, and, subject to the Remuneration Tribunals Act 1973-1974,\npayment of remuneration and allowances to the Director or other members of the\nInstitute.\n  (5) The Director may, on behalf of Australia and with the approval of the\nAttorney-General, employ persons as members of the staff of the Institute and\nengage persons to assist the Institute as consultants or otherwise.\n  (6) The terms and conditions of employment or engagement of persons under\nthis section are such as are from time to time determined by the Director with\nthe approval of the Attorney-General.\n  (7) Where a member of the staff of the Institute was, immediately before his\nappointment, an officer of the Australian Public Service or a person to whom\nthe Officers' Rights Declaration Act 1928-1975 applied-\n  (a)  he retains his existing and accruing rights;\n  (b)  for the purpose of determining those rights, his service as a member of\nthe staff of the Institute shall be taken into account as if it were service\nin the Australian Public Service; and\n  (c)  the Officers' Rights Declaration Act 1928-1975 applies as if this Act\nand this section had been specified in the Schedule to that Act.\n  (8) This section has effect notwithstanding the Public Service Act 1922-1975\nbut subject to any other Act relating to persons employed by Australia.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:117",
+      "title": "Section 117 - Costs.",
+      "main_structural_unit": "section",
+      "main_structural_number": "117",
+      "main_structural_heading": "Costs.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 117",
+      "text": "117. (1) Subject to sub-section (2) and section 118, each party to\nproceedings under this Act shall bear his own costs.\n  (2) If the court is of opinion in a particular case that there are\ncircumstances that justify it in doing so, the court may, subject to the\nregulations, make such orders as to costs and security for costs, whether by\nway of interlocutory order or otherwise, as the court thinks just.\n  (3) A person who has instituted a matrimonial cause or a person who is\nentitled to participate in proceedings either as a respondent or intervener\nmay apply to the Australian Legal Aid Office for legal assistance under this\nsection in respect of the proceedings.\n  (4) Where an application is made by a person under sub-section (3), the\nAttorney-General, the Director of the Australian Legal Aid Office or a person\nemployed in the Australian Legal Aid Office authorized by the Director in\nwriting in that behalf may (in the case of a person employed in the Australian\nLegal Aid Office, subject to any restriction in that authority in writing)\nauthorize legal assistance to the applicant in accordance with the means and\nneeds test of the Australian Legal Aid Office for the giving of legal\nassistance.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:118",
+      "title": "Section 118 - Frivolous or vexatious proceedings.",
+      "main_structural_unit": "section",
+      "main_structural_number": "118",
+      "main_structural_heading": "Frivolous or vexatious proceedings.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 118",
+      "text": "118. The court may, at any stage of proceedings under this Act, if it is\nsatisfied that the proceedings are frivolous or vexatious, dismiss the\nproceedings and make such orders as to costs as it thinks just.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:119",
+      "title": "Section 119 - Married persons may sue each other.",
+      "main_structural_unit": "section",
+      "main_structural_number": "119",
+      "main_structural_heading": "Married persons may sue each other.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 119",
+      "text": "119. Either party to a marriage may bring proceedings in contract or in tort\nagainst the other party.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:120",
+      "title": "Section 120 - Criminial conversation, adultery and enticement.",
+      "main_structural_unit": "section",
+      "main_structural_number": "120",
+      "main_structural_heading": "Criminial conversation, adultery and enticement.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 120",
+      "text": "120. After the commencement of this Act, no action lies for criminal\nconversation, damages for adultery, or for enticement of a party to a\nmarriage.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:121",
+      "title": "Section 121 - Restriction on publication of evidence.",
+      "main_structural_unit": "section",
+      "main_structural_number": "121",
+      "main_structural_heading": "Restriction on publication of evidence.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 121",
+      "text": "121. (1) A person shall not print or publish-\n  (a)  any statement or report that proceedings have been instituted in the\nFamily Court or in another court exercising jurisdiction under this Act; or\n  (b)  any account of evidence in proceedings instituted in the Family Court\nor in another court having jurisdiction under this Act, or any other account\nor particulars of any such proceedings.\n  (2) A person who contravenes sub-section (1) is guilty of an offence\npunishable, on conviction-\n  (a)  in the case of a first offence, or a second or subsequent offence\nprosecuted summarily-by a fine not exceeding $1,000 or imprisonment for a\nperiod not exceeding 6 months; and\n  (b)  in the case of a second or subsequent offence, being an offence\nprosecuted on indictment-by a fine not exceeding $2,000 or imprisonment for a\nperiod not exceeding 1 year.\n  (3) Any offence against this section may be prosecuted summarily, and a\nsecond or subsequent offence by a person against this section may be\nprosecuted summarily or on indictment.\n  (4) Proceedings for an offence against this section shall not be commenced\nexcept by, or with the written consent of, the Attorney-General.\n  (5) The preceding provisions of this section do not apply to or in relation\nto-\n  (a)  the printing of any pleading, transcript of evidence or other document\nfor use in connexion with proceedings in any court or the communication of any\nsuch document to persons concerned in the proceedings;\n  (b)  the printing or publishing of a notice or report in pursuance of the\ndirection of a court;\n  (c)  the printing or publishing of law court lists; or\n  (d)  the printing or publishing of any publication bona fide intended\nprimarily for the use of members of the legal or medical profession, being-\n      (i)  a separate volume or part of a series of law reports; or\n     (ii)  any other publication of a technical character.\n  (6) In this section, ''court'' includes an officer of a court investigating\na matter in accordance with the regulations.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:122",
+      "title": "Section 122 - Rights of legal practitioners.",
+      "main_structural_unit": "section",
+      "main_structural_number": "122",
+      "main_structural_heading": "Rights of legal practitioners.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 122",
+      "text": "122. A person who is, under Part VIIIA of the Judiciary Act 1903-1973,\nentitled to practise in any federal court as a barrister or solicitor, or as\nboth, has the like right to practice in any State court exercising\njurisdiction under this Act.\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:123",
+      "title": "Section 123 - Regulations.",
+      "main_structural_unit": "section",
+      "main_structural_number": "123",
+      "main_structural_heading": "Regulations.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 123",
+      "text": "123. (1) The Governor-General may make regulations, not inconsistent with\nthis Act, prescribing all matters that are required or permitted by this Act\nto be prescribed or are necessary or convenient to be prescribed for carrying\nout or giving effect to this Act.\n  (2) The regulations may make provision for or in relation to the practice\nand procedure to be followed in the Family Court and in other courts\nexercising jurisdiction under this Act, and for or in relation to all matters\nand things incidental to any such practice or procedure, or necessary or\nconvenient to be prescribed for the conduct of any business in those courts.\n  (3) Without limiting the generality of sub-section (2), the regulations may\nmake provision for or in relation to-\n  (a)  the attendance of witnesses;\n  (b)  providing for the manner of service of process of the Family Court or\nanother court exercising jurisdiction under this Act, and for dispensing with\nsuch service;\n  (c)  the enforcement and execution of the judgments of the Family Court and\nother courts exercising jurisdiction under this Act;\n  (d)  the time and manner of institution of appeals in and to the Family\nCourt;\n  (e)  the duties of officers of the Family Court;\n  (f)  subject to the Constitution, authorizing an officer of the Family Court\nor of another court exercising jurisdiction under this Act to perform and\nexercise powers and functions, on behalf of the court or otherwise, in\nrelation to proceedings instituted in the Family Court or proceedings under\nthis Act, and enabling the Court concerned to review the decision of that\nofficer in relation to the performance or exercise of any function or power;\n  (g)  the seals and stamps to be used in the Family Court and in courts\nhaving jurisdiction under this Act;\n  (h)  prescribing matters relating to the costs of proceedings and the\nassessment or taxation of those costs;\n   (i)  authorizing a court to refer to an officer of the Court for\ninvestigation, report and recommendation claims or applications for or\nrelating to any matters before the court;\n   (j)  authorizing an officer making an investigation referred to in\nparagraph (i) to take evidence on oath or affirmation, and to obtain and\nreceive in evidence a report from a welfare officer, and enabling the\nsummoning of witnesses before an officer making such an investigation for the\npurpose of giving evidence or producing books and documents;\n  (k)  regulating the procedure of a court upon receiving a report of an\nofficer who has made an investigation referred to in paragraph (i);\n   (l)  prescribing matters incidental to the matters specified in the\npreceding paragraphs of this section;\n  (m)  prescribing penalties not exceeding $500 for offences against the\nregulations.\n------------------------------------------------------------------------------\n--\nFAMILY LAW ACT 1975 No. 53 of 1975"
+    },
+    {
+      "key": "section:105",
+      "title": "Section 105 - Enforcement generally.",
+      "main_structural_unit": "section",
+      "main_structural_number": "105",
+      "main_structural_heading": "Enforcement generally.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 105",
+      "text": ""
+    },
+    {
+      "key": "section:106",
+      "title": "Section 106 - Methods of enforcement.",
+      "main_structural_unit": "section",
+      "main_structural_number": "106",
+      "main_structural_heading": "Methods of enforcement.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 106",
+      "text": ""
+    },
+    {
+      "key": "section:107",
+      "title": "Section 107 - Persons in prison at commencement of Act.",
+      "main_structural_unit": "section",
+      "main_structural_number": "107",
+      "main_structural_heading": "Persons in prison at commencement of Act.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 107",
+      "text": ""
+    },
+    {
+      "key": "section:108",
+      "title": "Section 108 - Contempt.",
+      "main_structural_unit": "section",
+      "main_structural_number": "108",
+      "main_structural_heading": "Contempt.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 108",
+      "text": ""
+    },
+    {
+      "key": "section:109",
+      "title": "Section 109 - Inter-State enforcement of affiliation and like orders.",
+      "main_structural_unit": "section",
+      "main_structural_number": "109",
+      "main_structural_heading": "Inter-State enforcement of affiliation and like orders.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 109",
+      "text": ""
+    },
+    {
+      "key": "section:110",
+      "title": "Section 110 - Overseas enforcement of maintenance orders.",
+      "main_structural_unit": "section",
+      "main_structural_number": "110",
+      "main_structural_heading": "Overseas enforcement of maintenance orders.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 110",
+      "text": ""
+    },
+    {
+      "key": "section:111",
+      "title": "Section 111 - Convention on Recovery Abroad of Maintenance.",
+      "main_structural_unit": "section",
+      "main_structural_number": "111",
+      "main_structural_heading": "Convention on Recovery Abroad of Maintenance.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 111",
+      "text": ""
+    },
+    {
+      "key": "section:112",
+      "title": "Section 112 - Arrangements with States.",
+      "main_structural_unit": "section",
+      "main_structural_number": "112",
+      "main_structural_heading": "Arrangements with States.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 112",
+      "text": ""
+    },
+    {
+      "key": "section:113",
+      "title": "Section 113 - Proceedings for declarations.",
+      "main_structural_unit": "section",
+      "main_structural_number": "113",
+      "main_structural_heading": "Proceedings for declarations.",
+      "defined_term": null,
+      "structure_path": "Part XII-RECOGNITION OF DECREES > Section 113",
+      "text": ""
+    }
+  ]
+}

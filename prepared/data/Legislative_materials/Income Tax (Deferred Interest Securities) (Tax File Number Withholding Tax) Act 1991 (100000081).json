@@ -1,0 +1,53 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au/legis/cth/consol_act/itisfnwta1991690/",
+    "register_url": "https://www.legislation.gov.au/C2004A04290/latest/text",
+    "source": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 (100000081).txt",
+    "filename": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 (100000081).json",
+    "name": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991",
+    "citation": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title",
+      "defined_term": null,
+      "structure_path": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 > Section 1",
+      "text": "This Act may be cited as the Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement",
+      "defined_term": null,
+      "structure_path": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 > Section 2",
+      "text": "This Act commences, or is taken to have commenced, as the case requires, on the commencement of section  221YHZR of the Income Tax Assessment Act 1936."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Act to bind Crown",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Act to bind Crown",
+      "defined_term": null,
+      "structure_path": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 > Section 3",
+      "text": "This Act binds the Crown in the right of each of the States, of the Australian Capital Territory and of the Northern Territory."
+    },
+    {
+      "key": "section:4",
+      "title": "Section 4 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "4",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Deferred Interest Securities) (Tax File Number Withholding Tax) Act 1991 > Section 4",
+      "text": "Tax payable in accordance with section  14-55 in Schedule 1 to the Taxation Administration Act 1953 is imposed."
+    }
+  ]
+}

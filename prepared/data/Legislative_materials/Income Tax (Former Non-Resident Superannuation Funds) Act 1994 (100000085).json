@@ -1,0 +1,43 @@
+{
+  "doc": {
+    "jurisdiction": "commonwealth",
+    "source_url": "https://classic.austlii.edu.au/au//legis/cth/consol_act/itnsfa1994544/",
+    "register_url": "https://www.legislation.gov.au/C2004A04845/latest/text",
+    "source": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994 (100000085).txt",
+    "filename": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994 (100000085).json",
+    "name": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994",
+    "citation": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994"
+  },
+  "chunks": [
+    {
+      "key": "section:1",
+      "title": "Section 1 - Short title [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "1",
+      "main_structural_heading": "Short title [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994 > Section 1",
+      "text": "This Act may be cited as the Income Tax (Former Non-resident\n         Superannuation Funds) Act 1994."
+    },
+    {
+      "key": "section:2",
+      "title": "Section 2 - Commencement [see Note 1]",
+      "main_structural_unit": "section",
+      "main_structural_number": "2",
+      "main_structural_heading": "Commencement [see Note 1]",
+      "defined_term": null,
+      "structure_path": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994 > Section 2",
+      "text": "This Act commences on the day on which it receives the Royal\n         Assent."
+    },
+    {
+      "key": "section:3",
+      "title": "Section 3 - Imposition of tax",
+      "main_structural_unit": "section",
+      "main_structural_number": "3",
+      "main_structural_heading": "Imposition of tax",
+      "defined_term": null,
+      "structure_path": "Income Tax (Former Non-Resident Superannuation Funds) Act 1994 > Section 3",
+      "text": "Income tax is imposed on the taxable income of an Australian\n         superannuation fund within the meaning of the Income Tax Assessment\n         Act 1997, to the extent that the taxable income is attributable to\n         the inclusion of an amount in the fundâs assessable income under\n         table item 3 in section 295-320 of that Act.\nNotes to the Income Tax (Former Non-resident Superannuation Funds) Act 1994\nNote 1\nThe Income Tax (Former Non-resident Superannuation Funds) Act 1994 as shown\nin this compilation comprises Act No. 172, 1994 amended as indicated in the\nTables below.\nFor all relevant information pertaining to application, saving or\ntransitional provisions see Table A.\nTable of Acts\n|Act             |Number  |Date     |Date of    |Applica|\n|                |and year|of Assent|commencemen|tion,  |\n|                |        |         |t          |saving |\n|                |        |         |           |or     |\n|                |        |         |           |transit|\n|                |        |         |           |ional  |\n|                |        |         |           |provisi|\n|                |        |         |           |ons    |\n|Income Tax      |172,    |16 Dec   |16 Dec 1994|       |\n|(Former         |1994    |1994     |           |       |\n|Non-resident    |        |         |           |       |\n|Superannuation  |        |         |           |       |\n|Funds) Act 1994 |        |         |           |       |\n|Income Tax      |18, 2007|15 Mar   |(a)        |Sch. 1 |\n|(Former         |        |2007     |           |(item  |\n|Non-resident    |        |         |           |2)     |\n|Superannuation  |        |         |           |       |\n|Funds) Amendment|        |         |           |       |\n|Act 2007        |        |         |           |       |\n|Tax Laws        |143,    |24 Sept  |Schedule 5 |Sch. 5 |\n|Amendment (2007 |2007    |2007     |(items 17, |(item  |\n|Measures No.Â 4) |        |         |48(1)):    |48(1)) |\n|Act 2007        |        |         |Royal      |       |\n|                |        |         |Assent     |       |\n(a)   SectionÂ 2 of the Income Tax (Former Non-resident Superannuation\n   Funds) Amendment Act 2007 provides as follows:\n      2     This Act commences immediately after the commencement of\n         Schedule 1 to the Tax Laws Amendment (Simplified Superannuation)\n         Act 2007.\n      ScheduleÂ 1 commenced on 15Â March 2007.\nTable of Amendments\n|ad. = added or inserted     am. = amended     rep. =  |\n|repealed     rs. = repealed and substituted           |\n|Provision affected|How affected                        |\n|S. 3              |rs. No.Â 18, 2007                    |\n|                  |am. No. 143, 2007                   |\nTable A\nApplication, saving or transitional provisions\nIncome Tax (Former Non-resident Superannuation Funds) Amendment Act 2007\n      (No. 18, 2007)\nSchedule 1\nSection 2 Application\n      The amendment made by this Schedule applies to the 2007-2008 income\n      year and later years.\nTax Laws Amendment (2007 Measures No.Â 4) Act 2007 (No. 143, 2007)\nSchedule 5\nSection 48 Application\n(1)   The amendments made by this Schedule apply to the 2007-2008 income\n      year and later years."
+    }
+  ]
+}
